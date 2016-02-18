@@ -1,0 +1,145 @@
+[[69  1  6 ...,  0  0  0]
+ [ 1 16 53 ...,  0  0  0]
+ [13  0  0 ...,  0  0  0]
+ ..., 
+ [ 0  1  0 ...,  1  0  0]
+ [ 0  0  0 ...,  1  0  0]
+ [ 0  0  0 ...,  0  0  0]]
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 6, 6, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 5, 2, 8, 2, 9, 4, 1, 2, 4, 3, 3, 6, 9, 3, 3, 2, 4, 2, 8, 8, 9, 3, 3, 2, 9, 9, 1, 5, 8, 2, 6, 8, 1, 9, 5, 1, 1, 2, 5, 2, 4, 6, 2, 9, 2, 2, 6, 4, 2, 3, 4, 4, 3, 3, 6, 1, 6, 6, 6, 6, 9, 6, 9, 7, 1, 1, 2, 1, 7, 7, 7, 7, 1, 9, 9, 1, 9, 2, 2, 6, 5, 6, 4, 6, 3, 1, 4, 2, 3, 4, 1, 1, 1, 6, 4, 8, 6, 5, 8, 5, 2, 2, 2]
+0 - !Chenina2009!_stem_nltk.txt
+0 - !Chenina2011!_stem_nltk.txt
+0 - !Denisova!_stem_nltk.txt
+1 - !Dostova!_stem_nltk.txt
+0 - !Filatova2006!_stem_nltk.txt
+0 - !Filatova2008!_stem_nltk.txt
+0 - !Grigorieva!_stem_nltk.txt
+0 - !Gudov!_stem_nltk.txt
+0 - !Gulyaeva!_stem_nltk.txt
+0 - !Gulyaeva2!_stem_nltk.txt
+6 - !Komarova!_stem_nltk.txt
+6 - !Lobachev!_stem_nltk.txt
+0 - !Mulukova2009!_stem_nltk.txt
+0 - !Mulukova2011!_stem_nltk.txt
+0 - !Murzacheva2011!_stem_nltk.txt
+0 - !Murzacheva_vkr!_stem_nltk.txt
+0 - !Serpinskaya!_stem_nltk.txt
+0 - !Uchaeva!_stem_nltk.txt
+0 - !Zabelova!_stem_nltk.txt
+2 - 3_kurs_r_o_kursovaya_22Saga_s_pomarkami_22_T_A_Bek_stem_nltk.txt
+2 - agibalova-grad_stem_nltk.txt
+2 - akhmerova-grad_stem_nltk.txt
+2 - aleksandrov-grad_stem_nltk.txt
+2 - alekseyev-grad_stem_nltk.txt
+5 - algoritmy_obucheniya_neyronnykh_setey_stem_nltk.txt
+2 - amir-grad_stem_nltk.txt
+8 - analiz_effektivnosti_ispol_zovaniya_informatsionnykh_tekhnol_stem_nltk.txt
+2 - Apollonicheskoe_i_dionisiyskoe_nachala_v_pyesakh_A_P_Chekhova_i_M_I_Tsvetaevoy_stem_nltk.txt
+9 - bikina_moksh_coursework_draft_stem_nltk.txt
+4 - Bikina_posle_kursovaya_stem_nltk.txt
+1 - bogomolov_yui_obrabotka-poiskovyh-cepochek-dlya-postroeniya-dokumentnyh-yazykovyh-modeley_12425_stem_nltk.txt
+2 - Dereza_2_kurs_prilagatelnye_stem_nltk.txt
+4 - Dereza_3_kurs_kwenno_stem_nltk.txt
+3 - Dereza_4_kurs_prilagatelnye_stem_nltk.txt
+3 - Diplom_Dasha_stem_nltk.txt
+6 - Diplom_Grammatchikova_stem_nltk.txt
+9 - Diplom_Kozlov_finalfinal_stem_nltk.txt
+3 - Diplom_Oxana_Dereza_stem_nltk.txt
+3 - diplom_parina_stem_nltk.txt
+2 - DISSERTATsIYa_KORREKTURA_stem_nltk.txt
+4 - Dundua_diplom_stem_nltk.txt
+2 - egorov_ia_kooperativnye-i-nekooperativnye-strategii-povedeniya-v-multiagentnyh-sistemah-na-primere-modeli-hi_10765_stem_nltk.txt
+8 - etika_zhurnalista_v_smi_stem_nltk.txt
+8 - etiko_psikhologicheskiy_portret_zhurnalista_stem_nltk.txt
+9 - fin_diplom_RelCl-Moksha_MPrivizentseva_stem_nltk.txt
+3 - Grevtseva_2_kurs_stem_nltk.txt
+3 - Grevtseva_3_kurs_stem_nltk.txt
+2 - grigoryeva-grad_stem_nltk.txt
+9 - Grishina_stem_nltk.txt
+9 - indefinites_dbik_stem_nltk.txt
+1 - Informatika_Kursovaya_Rabota_stem_nltk.txt
+5 - iskusstvennye_neyronnye_seti_stem_nltk.txt
+8 - istoricheskie_tipy_zhurnalistiki_stem_nltk.txt
+2 - Istoriya_proektu_gerba_ZOG_stem_nltk.txt
+6 - journ-2_stem_nltk.txt
+8 - journ_stem_nltk.txt
+1 - Khrenov_1-Sm-1_MM_Kursovaya_rabota_isp_stem_nltk.txt
+9 - kiryanov_dp_kvantitativnyy-analiz-morfologii-bashkirskogo-yazyka-metodom-socialnyh-setey_12892_stem_nltk.txt
+5 - knijnikova_io_programma-analiza-povedencheskih-svoystv-vremennyh-vlojennyh-setey-petri_10703_stem_nltk.txt
+1 - kochetova_ov_programma-sinhronizacii-dvijeniy-robotov-nao_10091_stem_nltk.txt
+1 - kochetov_em_programma-dlya-eksperimentalnogo-issledovaniya-universalnyh-harakteristik-vremennyh-ryadov_10230_stem_nltk.txt
+2 - kovalchuk-grad_stem_nltk.txt
+5 - kovalenko_bb_mashinnoe-obuchenie-s-ispolzovaniem-glubokih-neyronnyh-setey_14327_stem_nltk.txt
+2 - kozyreva-grad_stem_nltk.txt
+4 - Krapivina_2007_v_bytnost_kursovaya_stem_nltk.txt
+6 - kulakova_ep_sostavlenie-slovarya-emocionalno-okrashennyh-prilagatelnyh-russkogo-yazyka_13052_stem_nltk.txt
+2 - kursov15_stem_nltk.txt
+9 - kursovaja_Kholodilova_stem_nltk.txt
+2 - Kursovaya2_stem_nltk.txt
+2 - Kursovaya_2014_stem_nltk.txt
+6 - kursovaya_2_stem_nltk.txt
+4 - kursovaya_adverb_commLio_stem_nltk.txt
+2 - Kursovaya_Demichevoy_stem_nltk.txt
+3 - kursovaya_Egorov_stem_nltk.txt
+4 - Kursovaya_Ermolaeva_stem_nltk.txt
+4 - kursovaya_Kozlov_2014_stem_nltk.txt
+3 - Kursovaya_Kuznetsova_A_A_2_kurs_stem_nltk.txt
+3 - Kursovaya_Kuznetsova_A_A_3_kurs_stem_nltk.txt
+6 - Kursovaya_Lazareva_stem_nltk.txt
+1 - kursovaya_mathcad_primer_stem_nltk.txt
+6 - Kursovaya_osniilyushkova (1)_stem_nltk.txt
+6 - Kursovaya_osniilyushkova_stem_nltk.txt
+6 - Kursovaya_Rabota_-_Mironov_D_stem_nltk.txt
+6 - Kursovaya_Rabota_-_Rustambaeva_M_stem_nltk.txt
+9 - Kursovaya_rabota_E_Inshakovoy_TiPL_RGGU_4_kurs_stem_nltk.txt
+6 - Kursovaya_rabota_Khladotransport_1_stem_nltk.txt
+9 - Kursovaya_rabota_Kudritskoy_Sofi_Iyun_2014_g_33_stem_nltk.txt
+7 - Kursovaya_Rabota_Po_Raschetu_Shbtsn_stem_nltk.txt
+1 - Kursovaya_rabota_Sadykovoy_A_M_stem_nltk.txt
+1 - Kursovaya_Rabota_stem_nltk.txt
+2 - Kursovaya_Sapronova_2015_stem_nltk.txt
+1 - Kursovaya_Sofi_Kudritskoy_stem_nltk.txt
+7 - Kursovaya_Sokolov_SSP-217(1)_stem_nltk.txt
+7 - Kursovaya_Sokolov_SSP-217_stem_nltk.txt
+7 - kursova_stem_nltk.txt
+7 - Kursovoy_proekt_dvukhetazhnoe_zdanie_stem_nltk.txt
+1 - Kursovoy_proekt_po_informatike3_stem_nltk.txt
+9 - kursowaja_draft3_MPrivizentseva_stem_nltk.txt
+9 - kurzukov-fqw-pt-serif_stem_nltk.txt
+1 - lipacheva_ae_sravnenie-indeksov-polyarizovannosti-v-nekotoryh-specialnyh-sluchayah_14092_stem_nltk.txt
+9 - loc_cases_lyova_draft_stem_nltk.txt
+2 - Morozova_2_kurs_stem_nltk.txt
+2 - Morozova_3_kurs_stem_nltk.txt
+6 - Mu_Kursovaya_Rabota_Fia_Radionovasp_stem_nltk.txt
+5 - neyronnye_seti_stem_nltk.txt
+6 - NIR-3_Kochetkova_1_stem_nltk.txt
+4 - Novikova_kursovaja_draft_fin_1_stem_nltk.txt
+6 - osobennosti_reklamnoy_kommunikatsii_stem_nltk.txt
+3 - Ovsyannikova_2008_otglagolnye_predlogi_kursovaya_stem_nltk.txt
+1 - parallel_nyy_algoritm_vychisleniya_semanticheskoy_blizosti_d_stem_nltk.txt
+4 - peczony2013_stem_nltk.txt
+2 - Poetika_romanov_Zhana_Renara_Teplyakova_Darya_Olegovna_stem_nltk.txt
+3 - Popova_2_kurs_stem_nltk.txt
+4 - Privoznov_diplom_2014_stem_nltk.txt
+1 - rojdestvenskiy_vs_algoritm-slejeniya-za-oblakom-tochek_12571_stem_nltk.txt
+1 - sadykov_er_eksperimentalnoe-issledovanie-i-modifikaciya-algoritma-vyyavleniya-predpochteniy-pri-prochih-ravnyh_10225_stem_nltk.txt
+1 - simagin_da_zavisimost-kachestva-obucheniya-potochechnyh-metodov-ranjirovaniya-ot-znacheniy-targeta_12477_stem_nltk.txt
+6 - sotsial_naya_set_kak_instrument_pr_stem_nltk.txt
+4 - Stoynova_2008_vzyat_i_sdelat_kursovaya_stem_nltk.txt
+8 - svoeobrazie_zhanrov_internet_zhurnalistiki_na_primere_gazet_stem_nltk.txt
+6 - Tlets_Kursovaya_4_Kurs_stem_nltk.txt
+5 - umilin_so_ocenka-platejesposobnosti-zaemshchika-s-pomoshchyu-metodov-mashinnogo-obucheniya_12324_stem_nltk.txt
+8 - upravlenie_proektami_s_ispol_zovaniem_komp_yuternoy_programm_stem_nltk.txt
+5 - vilinov_a_a_problemy_okhrany_avtorskogo_prava_i_smezhnykh_pr_stem_nltk.txt
+2 - volodina-grad_stem_nltk.txt
+2 - zas-grad_stem_nltk.txt
+2 - Ziber_Inna_Diplom_stem_nltk.txt
+Cluster 0: предпринимател бизнес предпринимательск предпринимательств деятельн населен командн стран экономическ риск
+Cluster 1: алгоритм робот cid22 дан ранжирован метод распределен i1 ряд значен
+Cluster 2: the котор перевод был ег текст язык мы and же
+Cluster 3: ирландск язык предлог agus an trom na был adr ar
+Cluster 4: конструкц глагол значен язык бытност причаст клауз чут ситуац котор
+Cluster 5: нейрон сет обучен алгоритм прав входн котор дан класс интернет
+Cluster 6: реклам недвижим котор нежил предприят договор рельсов волос пользовател рынк
+Cluster 7: плит мрамор мм насос облицовочн нафт пород шнек мраморн здан
+Cluster 8: журналист журналистик жанр журналистск сми проект информац аналитическ котор информацион
+Cluster 9: местоимен котор падеж мокшанск язык вершин кореферентн референциальн иг анафор

@@ -1,0 +1,145 @@
+[[0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]]
+[1, 1, 1, 7, 1, 1, 1, 1, 1, 1, 6, 6, 1, 1, 1, 1, 1, 1, 1, 3, 2, 2, 2, 2, 8, 2, 3, 2, 5, 5, 8, 7, 7, 7, 0, 0, 5, 7, 7, 7, 5, 8, 3, 3, 5, 0, 0, 2, 5, 5, 7, 8, 3, 7, 9, 3, 8, 7, 9, 7, 8, 2, 8, 2, 5, 0, 2, 5, 2, 4, 7, 5, 4, 7, 5, 5, 0, 7, 6, 8, 6, 6, 7, 3, 5, 6, 5, 8, 6, 7, 2, 7, 6, 6, 8, 8, 7, 5, 5, 8, 5, 2, 0, 6, 8, 6, 5, 2, 5, 8, 7, 2, 0, 5, 8, 8, 8, 9, 5, 3, 6, 8, 6, 9, 2, 2, 7]
+1 - !Chenina2009!_lem_mystem_vopr_del.txt
+1 - !Chenina2011!_lem_mystem_vopr_del.txt
+1 - !Denisova!_lem_mystem_vopr_del.txt
+7 - !Dostova!_lem_mystem_vopr_del.txt
+1 - !Filatova2006!_lem_mystem_vopr_del.txt
+1 - !Filatova2008!_lem_mystem_vopr_del.txt
+1 - !Grigorieva!_lem_mystem_vopr_del.txt
+1 - !Gudov!_lem_mystem_vopr_del.txt
+1 - !Gulyaeva!_lem_mystem_vopr_del.txt
+1 - !Gulyaeva2!_lem_mystem_vopr_del.txt
+6 - !Komarova!_lem_mystem_vopr_del.txt
+6 - !Lobachev!_lem_mystem_vopr_del.txt
+1 - !Mulukova2009!_lem_mystem_vopr_del.txt
+1 - !Mulukova2011!_lem_mystem_vopr_del.txt
+1 - !Murzacheva2011!_lem_mystem_vopr_del.txt
+1 - !Murzacheva_vkr!_lem_mystem_vopr_del.txt
+1 - !Serpinskaya!_lem_mystem_vopr_del.txt
+1 - !Uchaeva!_lem_mystem_vopr_del.txt
+1 - !Zabelova!_lem_mystem_vopr_del.txt
+3 - 3_kurs_r_o_kursovaya_22Saga_s_pomarkami_22_T_A_Bek_lem_mystem_vopr_del.txt
+2 - agibalova-grad_lem_mystem_vopr_del.txt
+2 - akhmerova-grad_lem_mystem_vopr_del.txt
+2 - aleksandrov-grad_lem_mystem_vopr_del.txt
+2 - alekseyev-grad_lem_mystem_vopr_del.txt
+8 - algoritmy_obucheniya_neyronnykh_setey_lem_mystem_vopr_del.txt
+2 - amir-grad_lem_mystem_vopr_del.txt
+3 - analiz_effektivnosti_ispol_zovaniya_informatsionnykh_tekhnol_lem_mystem_vopr_del.txt
+2 - Apollonicheskoe_i_dionisiyskoe_nachala_v_pyesakh_A_P_Chekhova_i_M_I_Tsvetaevoy_lem_mystem_vopr_del.txt
+5 - bikina_moksh_coursework_draft_lem_mystem_vopr_del.txt
+5 - Bikina_posle_kursovaya_lem_mystem_vopr_del.txt
+8 - bogomolov_yui_obrabotka-poiskovyh-cepochek-dlya-postroeniya-dokumentnyh-yazykovyh-modeley_12425_lem_mystem_vopr_del.txt
+7 - Dereza_2_kurs_prilagatelnye_lem_mystem_vopr_del.txt
+7 - Dereza_3_kurs_kwenno_lem_mystem_vopr_del.txt
+7 - Dereza_4_kurs_prilagatelnye_lem_mystem_vopr_del.txt
+0 - Diplom_Dasha_lem_mystem_vopr_del.txt
+0 - Diplom_Grammatchikova_lem_mystem_vopr_del.txt
+5 - Diplom_Kozlov_finalfinal_lem_mystem_vopr_del.txt
+7 - Diplom_Oxana_Dereza_lem_mystem_vopr_del.txt
+7 - diplom_parina_lem_mystem_vopr_del.txt
+7 - DISSERTATsIYa_KORREKTURA_lem_mystem_vopr_del.txt
+5 - Dundua_diplom_lem_mystem_vopr_del.txt
+8 - egorov_ia_kooperativnye-i-nekooperativnye-strategii-povedeniya-v-multiagentnyh-sistemah-na-primere-modeli-hi_10765_lem_mystem_vopr_del.txt
+3 - etika_zhurnalista_v_smi_lem_mystem_vopr_del.txt
+3 - etiko_psikhologicheskiy_portret_zhurnalista_lem_mystem_vopr_del.txt
+5 - fin_diplom_RelCl-Moksha_MPrivizentseva_lem_mystem_vopr_del.txt
+0 - Grevtseva_2_kurs_lem_mystem_vopr_del.txt
+0 - Grevtseva_3_kurs_lem_mystem_vopr_del.txt
+2 - grigoryeva-grad_lem_mystem_vopr_del.txt
+5 - Grishina_lem_mystem_vopr_del.txt
+5 - indefinites_dbik_lem_mystem_vopr_del.txt
+7 - Informatika_Kursovaya_Rabota_lem_mystem_vopr_del.txt
+8 - iskusstvennye_neyronnye_seti_lem_mystem_vopr_del.txt
+3 - istoricheskie_tipy_zhurnalistiki_lem_mystem_vopr_del.txt
+7 - Istoriya_proektu_gerba_ZOG_lem_mystem_vopr_del.txt
+9 - journ-2_lem_mystem_vopr_del.txt
+3 - journ_lem_mystem_vopr_del.txt
+8 - Khrenov_1-Sm-1_MM_Kursovaya_rabota_isp_lem_mystem_vopr_del.txt
+7 - kiryanov_dp_kvantitativnyy-analiz-morfologii-bashkirskogo-yazyka-metodom-socialnyh-setey_12892_lem_mystem_vopr_del.txt
+9 - knijnikova_io_programma-analiza-povedencheskih-svoystv-vremennyh-vlojennyh-setey-petri_10703_lem_mystem_vopr_del.txt
+7 - kochetova_ov_programma-sinhronizacii-dvijeniy-robotov-nao_10091_lem_mystem_vopr_del.txt
+8 - kochetov_em_programma-dlya-eksperimentalnogo-issledovaniya-universalnyh-harakteristik-vremennyh-ryadov_10230_lem_mystem_vopr_del.txt
+2 - kovalchuk-grad_lem_mystem_vopr_del.txt
+8 - kovalenko_bb_mashinnoe-obuchenie-s-ispolzovaniem-glubokih-neyronnyh-setey_14327_lem_mystem_vopr_del.txt
+2 - kozyreva-grad_lem_mystem_vopr_del.txt
+5 - Krapivina_2007_v_bytnost_kursovaya_lem_mystem_vopr_del.txt
+0 - kulakova_ep_sostavlenie-slovarya-emocionalno-okrashennyh-prilagatelnyh-russkogo-yazyka_13052_lem_mystem_vopr_del.txt
+2 - kursov15_lem_mystem_vopr_del.txt
+5 - kursovaja_Kholodilova_lem_mystem_vopr_del.txt
+2 - Kursovaya2_lem_mystem_vopr_del.txt
+4 - Kursovaya_2014_lem_mystem_vopr_del.txt
+7 - kursovaya_2_lem_mystem_vopr_del.txt
+5 - kursovaya_adverb_commLio_lem_mystem_vopr_del.txt
+4 - Kursovaya_Demichevoy_lem_mystem_vopr_del.txt
+7 - kursovaya_Egorov_lem_mystem_vopr_del.txt
+5 - Kursovaya_Ermolaeva_lem_mystem_vopr_del.txt
+5 - kursovaya_Kozlov_2014_lem_mystem_vopr_del.txt
+0 - Kursovaya_Kuznetsova_A_A_2_kurs_lem_mystem_vopr_del.txt
+7 - Kursovaya_Kuznetsova_A_A_3_kurs_lem_mystem_vopr_del.txt
+6 - Kursovaya_Lazareva_lem_mystem_vopr_del.txt
+8 - kursovaya_mathcad_primer_lem_mystem_vopr_del.txt
+6 - Kursovaya_osniilyushkova (1)_lem_mystem_vopr_del.txt
+6 - Kursovaya_osniilyushkova_lem_mystem_vopr_del.txt
+7 - Kursovaya_Rabota_-_Mironov_D_lem_mystem_vopr_del.txt
+3 - Kursovaya_Rabota_-_Rustambaeva_M_lem_mystem_vopr_del.txt
+5 - Kursovaya_rabota_E_Inshakovoy_TiPL_RGGU_4_kurs_lem_mystem_vopr_del.txt
+6 - Kursovaya_rabota_Khladotransport_1_lem_mystem_vopr_del.txt
+5 - Kursovaya_rabota_Kudritskoy_Sofi_Iyun_2014_g_33_lem_mystem_vopr_del.txt
+8 - Kursovaya_Rabota_lem_mystem_vopr_del.txt
+6 - Kursovaya_Rabota_Po_Raschetu_Shbtsn_lem_mystem_vopr_del.txt
+7 - Kursovaya_rabota_Sadykovoy_A_M_lem_mystem_vopr_del.txt
+2 - Kursovaya_Sapronova_2015_lem_mystem_vopr_del.txt
+7 - Kursovaya_Sofi_Kudritskoy_lem_mystem_vopr_del.txt
+6 - Kursovaya_Sokolov_SSP-217(1)_lem_mystem_vopr_del.txt
+6 - Kursovaya_Sokolov_SSP-217_lem_mystem_vopr_del.txt
+8 - kursova_lem_mystem_vopr_del.txt
+8 - Kursovoy_proekt_dvukhetazhnoe_zdanie_lem_mystem_vopr_del.txt
+7 - Kursovoy_proekt_po_informatike3_lem_mystem_vopr_del.txt
+5 - kursowaja_draft3_MPrivizentseva_lem_mystem_vopr_del.txt
+5 - kurzukov-fqw-pt-serif_lem_mystem_vopr_del.txt
+8 - lipacheva_ae_sravnenie-indeksov-polyarizovannosti-v-nekotoryh-specialnyh-sluchayah_14092_lem_mystem_vopr_del.txt
+5 - loc_cases_lyova_draft_lem_mystem_vopr_del.txt
+2 - Morozova_2_kurs_lem_mystem_vopr_del.txt
+0 - Morozova_3_kurs_lem_mystem_vopr_del.txt
+6 - Mu_Kursovaya_Rabota_Fia_Radionovasp_lem_mystem_vopr_del.txt
+8 - neyronnye_seti_lem_mystem_vopr_del.txt
+6 - NIR-3_Kochetkova_1_lem_mystem_vopr_del.txt
+5 - Novikova_kursovaja_draft_fin_1_lem_mystem_vopr_del.txt
+2 - osobennosti_reklamnoy_kommunikatsii_lem_mystem_vopr_del.txt
+5 - Ovsyannikova_2008_otglagolnye_predlogi_kursovaya_lem_mystem_vopr_del.txt
+8 - parallel_nyy_algoritm_vychisleniya_semanticheskoy_blizosti_d_lem_mystem_vopr_del.txt
+7 - peczony2013_lem_mystem_vopr_del.txt
+2 - Poetika_romanov_Zhana_Renara_Teplyakova_Darya_Olegovna_lem_mystem_vopr_del.txt
+0 - Popova_2_kurs_lem_mystem_vopr_del.txt
+5 - Privoznov_diplom_2014_lem_mystem_vopr_del.txt
+8 - rojdestvenskiy_vs_algoritm-slejeniya-za-oblakom-tochek_12571_lem_mystem_vopr_del.txt
+8 - sadykov_er_eksperimentalnoe-issledovanie-i-modifikaciya-algoritma-vyyavleniya-predpochteniy-pri-prochih-ravnyh_10225_lem_mystem_vopr_del.txt
+8 - simagin_da_zavisimost-kachestva-obucheniya-potochechnyh-metodov-ranjirovaniya-ot-znacheniy-targeta_12477_lem_mystem_vopr_del.txt
+9 - sotsial_naya_set_kak_instrument_pr_lem_mystem_vopr_del.txt
+5 - Stoynova_2008_vzyat_i_sdelat_kursovaya_lem_mystem_vopr_del.txt
+3 - svoeobrazie_zhanrov_internet_zhurnalistiki_na_primere_gazet_lem_mystem_vopr_del.txt
+6 - Tlets_Kursovaya_4_Kurs_lem_mystem_vopr_del.txt
+8 - umilin_so_ocenka-platejesposobnosti-zaemshchika-s-pomoshchyu-metodov-mashinnogo-obucheniya_12324_lem_mystem_vopr_del.txt
+6 - upravlenie_proektami_s_ispol_zovaniem_komp_yuternoy_programm_lem_mystem_vopr_del.txt
+9 - vilinov_a_a_problemy_okhrany_avtorskogo_prava_i_smezhnykh_pr_lem_mystem_vopr_del.txt
+2 - volodina-grad_lem_mystem_vopr_del.txt
+2 - zas-grad_lem_mystem_vopr_del.txt
+7 - Ziber_Inna_Diplom_lem_mystem_vopr_del.txt
+Cluster 0: ирландский язык jun слово ирландия пирс лига the цветообозначение женщина
+Cluster 1: предприниматель бизнес предпринимательский предпринимательство деятельность экономический страна население капитал командный
+Cluster 2: the перевод роман текст герой язык and метафора свой предложение
+Cluster 3: журналист журналистика жанр журналистский сми аналитический информация психологический защита издание
+Cluster 4: летопись новгородский новгород иван повесть поход новгородец князь iii московский
+Cluster 5: конструкция местоимение pst язык def глагол sg gen предлог значение
+Cluster 6: плита предприятие недвижимость договор нежилой рынок рельсовый помещение проект мрамор
+Cluster 7: язык agus значение гласный робот ar предлог na волос an
+Cluster 8: cid нейронный сеть алгоритм нейрон coef обучение рис задача хищник
+Cluster 9: сеть пользователь интернет реклама pr петри социальный фишка коммуникация коммуникативный
