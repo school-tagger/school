@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=153006379'>Теория общественно-государственного управления: критерии оценки качества работы бюрократии</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Валиева Светлана Александровна
+				
+			</div>
+			<div class="cell">
+				
+					Теория общественно-государственного управления: критерии оценки качества работы бюрократии
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/26896">Барабашев Алексей Георгиевич</a>
+			</div>
+			<div class="cell">
+				<a href="http://social.hse.ru/">Факультет социальных наук</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				Государственное и муниципальное управление
+			</div>
+			<div class="cell centered">
+				
+			</div>
+			<div class="cell centered">2015</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Установление партнерства между общественностью и государственными институтами на сегодняшний день является одной из наиболее актуальных проблем в рамках развития государственного управления во всем мире. Необходимость вовлечения граждан России в процесс принятия решения напрямую связана с вопросами повышения доверия властным структурам, значительного снижения уровня коррупции и повышения прозрачности управленческих процессов, реализации демократического потенциала государства и, как следствие, с повышением эффективности государственного управления. Доктрина общественно-государственного управления (Good governance), ставшая новым этапом в развитии теории и практики государственного управления после концепции нового менеджеризма (New Public Management), объединила в себе ключевые аспекты, помогающие реализовать поставленные задачи. В представленной работе раскрываются причины данного перехода, ключевые составляющие новой концепции и существующие практики гражданского участия в решении управленческих вопросов в России и за рубежом. Автором также рассматриваются причины ограниченности теории Good governance, анализируются ключевые проблемы, мешающие практической реализации концепции на современном этапе развития государственного управления, рассматриваются существующие инструменты, позволяющие оценить влияние общественности на качество принимаемых управленческих решений, и предлагается новая система оценивания. В частности, в ходе работы было проведено анкетирование с представителями заинтересованных в принятии управленческих решений групп граждан, выступающее для предлагаемой автором системы в форме механизма обратной связи. Ключевые слова: государственная служба, good governance, общественно-государственное управление, прямое гражданское участие, принятие решений, гражданское общество.</div>
+	
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

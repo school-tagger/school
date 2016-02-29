@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=123952051'>Рамочная балансово-эконометрическая модель банковской системы РФ</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Тихонова Анастасия Сергеевна
+				
+			</div>
+			<div class="cell">
+				
+					Рамочная балансово-эконометрическая модель банковской системы РФ
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/11532263">Пильник Николай Петрович</a>
+			</div>
+			<div class="cell">
+				<a href="http://economics.hse.ru/">Факультет экономических наук</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					10
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Цель данной работы заключается в моделировании баланса и отчёта о прибылях и убытках для банковской системы РФ в широкой номенклатуре переменных и с непосредственным учётом валютного курса на данных за период с января 2004 по июль 2013. В связи с этим, задачи: моделирование потребности в ликвидных активах и пассивах; моделирование выполнения баланса банковской системы; моделирование валютных составляющих; моделирование выполнения равенства доходов и расходов отчёта о прибылях и убытках. Подобная балансово-эконометрическая конструкция позволит моделировать реакцию банковской системы на внешние воздействия и поможет ответить на подобные вопросы: как качественно реагирует банковская система на девальвацию или на изменение курса, на изменение политики Центрального Банка?Представленная балансово-эконометрическая модель описывает не только профильную, но и &laquo;сопровождающую&raquo; деятельность банка, а также может служить в качестве &laquo;рамки&raquo; для модели оптимального поведения. Модель построена благодаря эконометрическим соотношениям с учётом разделения на валютную и рублёвую части, а также уравнениям баланса и соотношениям агрегатов разной скорости. Помимо стандартного эконометрического аппарата в работе предложен особый метод очищения от сезонности, метод оценки тройной системы уравнений, а также применена особая процедура исключения переменных для получения финальной модели с учётом вкладов в R2 и значимости. При сценарном описании поведения экзогенных переменных модель позволяет получить адекватные прогнозы поведения банковской системы с учётом всех взаимосвязей на два года вперёд.Помимо модели для баланса, построена модель для отчёта о прибылях и убытках, который непосредственно связан с балансом и представляет собой квартальные данные в отличие от данных по месяцам для баланса. Для этого предложен метод для поиска процентных ставок, а также особый метод переоценки валютных частей используемых агрегатов, который хорошо описывает статистику. После выделения экзогенных переменных и их сценарного описания с помощью эконометрических соотношений для эндогенных переменных и уравнений отчёта построена система, описывающая взаимодействие доходов и расходов с учётом валютного курса на 8 кварталов вперёд.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/05/25/1324702049/Тихонова А.С. Рамочная балансово-экономе..одель банковской системы РФ.pdf.zip">Текст работы</a>
+			
+				(работа добавлена 25 мая 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/zip.gif"> (12271.36 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=125364624'>Сравнительный анализ инновационной активности субъектов РФ</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Прошкина Оксана Николаевна
+				
+			</div>
+			<div class="cell">
+				
+					Сравнительный анализ инновационной активности субъектов РФ
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/503319">Бутуханов Александр Владимирович</a>
+			</div>
+			<div class="cell">
+				<a href="http://spb.hse.ru/economics/">Факультет экономики (Санкт-Петербург)</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					9
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Бакалаврская выпускная квалификационная работа на тему: &laquo;Сравнительный анализ инновационной активности субъектов РФ&raquo; содержит 11 рисунков, 8 таблиц и 2 приложения. Объем выпускной квалификационной работы составляет 63 страницы. Для написания работы было использовано 62 источников. Ключевые слова:, инновации, инновационная сфера, инновационная активность, инновационная деятельность, инновационный процесс, патенты. Для того чтобы занять ведущие места на мировом рынке, России необходимо стать страной новаторов. Вопреки тому, что меры по поддержке инновационной сферы находятся в перечне приоритетных задач государства, данный сектор развивается крайне неравномерно и в ряде регионов до сих пор нет должных условий для осуществления инновационной деятельности. Проблема заключается в том, что в России заимствование инноваций в несколько раз превосходят инновации, которые разрабатываются в стране. По этой причине, РФ не может занимать лидирующие позиции на мировой арене по созданию и экспортированию инноваций. Актуальность проблемы обусловлена статистическими данными Росстата, на основании которых можно говорить, что в период с 2010 г. по 2012г. отношение импорта высокотехнологичной продукции к экспорту растёт. Более того, существует тенденция увеличения внедрённых инноваций в большей степени, чем отечественных.Целью данной работы является сравнительный анализ влияния различных факторов на инновационную активность в регионах РФ. Объектом исследования в данной работе является инновационная активность. Предметом данной работы является особенности развития инновационной активности в регионах.Основными источниками статистических данных в настоящей работе являются базы Росстата и статистические сборники, разработанные НИУ ВШЭ, а также региональные сайты. В качестве информационной деятельности выступили труды следующих деятелей: Голенков В. А., Гохберг Л. М., Калугина З. И., Колосницына М. Г., Киселева В. В., Кулакова Т. А. Crescenzi, R., Rodr&iacute;guez-Pose, Fritsch M., Slavtchev V., Fagerberg J., Feldman M. P., Srholec M. Stoneman P., Battisti G., Girma S. Crescenzi, R., Rodr&iacute;guez-Pose, A., M. Storper и другие.Научная новизна обусловлена тем, что с помощью проведения эконометрического исследования и разделения регионов на кластеры появилась возможность провести сравнительный анализ инновационной активности регионов. Остальные существующие эконометрические исследования в основной массе охватывают сразу весь перечень субъектов РФ, что не даёт возможности проводить сравнительный анализ.Практическая значимость проведённого исследования заключается в том, что на основе полученных результатов можно разработать комплекс мер, направленных на поддержку инновационной деятельности в регионах.В первой главе &laquo;Теоретические основы инновационной деятельности&raquo; раскрывается сущность инноваций и особенности регулирования инновационной деятельности в РФ.Во второй главе &laquo;Показатели инновационного развития на региональном уровне&raquo; включены исследования основного инструментария оценки инновационной активности и сравнительный анализ развития инновационной сферы регионов на основе методики рейтинга.В третьей главе &laquo;Оценка инновационной активности в регионах РФ: сравнительный анализ проводится сравнительный анализ инновационной активности в регионах на основе комплексного эконометрического анализа с применением кластерного принципа. В результате комплексного эконометрического анализа было выявлено, что самым значительным фактором, влияющим на инновационную активность, является человеческий капитал, поскольку он присутствует в трёх моделях. В третьей группе слабое влияние человеческого капитала, скорее всего, обусловлено утечкой кадров. Наличие физического капитала и его инвестирование также имеет большое значение для субъектов из всех групп, поскольку он создаёт и спрос на инновационные продукты, и их предложение. Финансирование инновационных исследований и разработок преимущественно ведётся в первой и второй группе, в то время как в третьей этот показатель оказался незначительным по сравнению с внутренними затратами. Следовательно, можно сделать вывод, что большее количество заявок на патенты в первой и второй группе вызвано интенсивным финансированием и притоком человеческого капитала. Особое внимание следует обратить на то, что усилия специализированных институтов, поддерживающих субъекты инновационной деятельности и реализацию новых инновационных проектов, оказывают значимое влияние только в первой группе регионов. Это явление объясняется слабой региональной политикой в отстающих регионах и тем, что в лидирующей группе содержится большее количество регионов с высокой концентрацией подобных организаций, чем в остальных группах.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/09/1324280642/Прошкина_О.Н._Диплом.pdf">Текст работы</a>
+			
+				(работа добавлена 9 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/pdf.gif"> (653.69 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

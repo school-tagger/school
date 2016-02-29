@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=124288551'>Укрупнение муниципалитетов в России: сильные и слабые стороны</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Даниелян Нуне Маратовна
+				
+			</div>
+			<div class="cell">
+				
+					Укрупнение муниципалитетов в России: сильные и слабые стороны
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/67539">Шомина Елена Сергеевна</a>
+			</div>
+			<div class="cell">
+				<a href="http://gmu.hse.ru/">Факультет государственного и муниципального управления</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					10
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Местному самоуправлению (МСУ) во всем мире уделяется большое внимание, потому что именно МСУ показывает, в какой степени государство демократично, насколько население способно самоорганизовываться для решения своих проблем и достижения конкретных целей. Одним из основных направлений модернизации системы местного самоуправления является процесс укрупнения муниципалитетов. Под укрупнением муниципалитетов понимается процесс добровольного объединения двух или более муниципальных образований с целью улучшить качество жизни населения.Объектом работы являются муниципальные образования Российской Федерации. Предметом является процесс укрупнения муниципалитетов РФ.В работе была поставлена цель выявить, какие последствия в долгосрочной перспективе будут в России после укрупнения муниципалитетов.Для достижения данной цели необходимо решить следующие задачи:&middot; Провести анализ существующей законодательной базы в России об МСУ, а также обзор литературы о последствиях такого процесса;&middot; Проанализировать опыт других стран, в которых проводилось укрупнение ранее&middot; Рассмотреть текущую ситуацию в некоторых уже укрупненных муниципалитетах в Российской Федерации, изучив статистические показателя и проведя опрос населения;&middot; Сделать общие выводы по работе.Нельзя однозначно ответить, как отразится укрупнение на жизни муниципалитета и на системе местного самоуправления в целом.Процесс укрупнения муниципалитетов имеет ряд очень существенных преимуществ, таких, как увеличение экономического потенциала, привлечение квалифицированных кадров, сокращение управленческих расходов. Однако, несмотря на названные преимущества, укрупнение влечет за собой и ряд недостатков, например, отдаление местной власти от населения, тенденция к упразднение поселенческого уровня местного самоуправления и некоторые другие.В работе были рассмотрены основные законодательные акты, регламентирующие местное самоуправление, была изучена релевантная литература и рассмотрен опыт укрупнения муниципалитетов как за рубежом, так и в различных регионах России.Для того, чтобы сделать систему местного самоуправления в России более эффективной, следует обратить внимание и принять к сведению некоторые элементы укрупнения муниципалитетов за рубежом. Например, целесообразным видится финансовое стимулирование объединения, возмещение части расходов по объединению. Также интересная мера стимулирования укрупнения, используемая за рубежом, - гарантированное сохранение рабочих мест муниципальных работников.Чтобы избежать возможных проблем после объединения муниципалитетов и чтобы муниципалитеты не теряли своей независимости, во многих случаях следует отдавать предпочтение межмуниципальному сотрудничеству и созданию агломераций, как одному из видов межмуниципального сотрудничества.Выдвинутая гипотеза о том, что существуют универсальные критерии для определения необходимости укрупнения муниципалитетов, и, соответственно, по этим критериям можно выявить муниципальные образования, в которых укрупнение существенно улучшит качество жизни населения, не подтвердилась. Укрупнение не является универсальным вариантом для всех дотационных муниципалитетов. Каждый конкретный случай требует анализа и учета экономических, социальных и этнографических особенностей укрупняющихся муниципалитетов. Самым главным в любом случае является мнение населения, проживающего в муниципалитете. Основная цель местного самоуправления &ndash; улучшение качества жизни населения, и любые преобразования должны быть выполнены с учетом именно этой цели.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/05/29/1325300981/ВКР Даниелян Нуне Маратовна Укрупнение м..России сильные и слабые стороны.doc">Текст работы</a>
+			
+				(работа добавлена 29 мая 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (606.18 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

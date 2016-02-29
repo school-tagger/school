@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=123087881'>Специфика Чили в контексте распадов авторитарных режимов и переходов к демократии в странах Латинской Америки в конце XX века</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Шарыгина Виктория Андреевна
+				
+			</div>
+			<div class="cell">
+				
+					Специфика Чили в контексте распадов авторитарных режимов и переходов к демократии в странах Латинской Америки в конце XX века
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/16958077">Миронюк Михаил Григорьевич</a>
+			</div>
+			<div class="cell">
+				<a href="http://fpp.hse.ru/">Факультет прикладной политологии</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					8
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Целью нашего исследования будет анализ трансформации авторитарного режима в Чили в демократический. Достижению данной цели послужит выполнение следующего комплекса задач: 1. Характеристика разных аспектов режима Пиночета 1973-1990 гг.: политического, экономического, социального.2. Исследование внутренних трансформаций режима Пиночета, его своеобразной эволюции, видоизменения его политических институтов. 3. Формирование целостной картины расстановки политических сил в конце 1980-х - начале 1990 гг. и их позиции по отношению к режиму, их потенциала и влияния в стране и за ее пределами.4. Рассмотрение причин краха режима Пиночета: действующие силы и социальная база оппозиции, механизм и ход отстранения диктатора от власти, причины, предпосылки и итоги данного процесса. 5. Анализ модели либерализации в Чили и перехода к режиму представительной демократии в 1987-1992 гг.6. Сравнение основных характеристик процесса крушения авторитарного режима в Чили с аналогичными по характеру и времени процессами в других государствах региона (Бразилия, Аргентина, Уругвай).Реализация поставленных задач будет осуществляться в ходе работы над решением главного исследовательского вопроса: в чем причина распада авторитарного режима Пиночета в Чили?Таким образом, объектом исследования является авторитарно-бюрократический режим Аугусто Пиночета в Чили; предметом исследования являются различные аспекты трансформации и демонтажа данного режима на рубеже 1980-1990-х гг.Дискуссия вокруг демократизации и модернизации уже давно идет в чилийском обществе, и традиционно были областью интересов центра и левого крыла. Чтобы избежать процесса модернизации, который исключает участие населения или навязывается авторитарными способами, необходимо увеличить демократическое «пространство» в обществе и сделать демократию важной составляющей жизни людей. Это означает, как минимум, переход от «демократической ситуации» к полностью институционализированному демократическому режиму, который предполагает законченный переход и существенную институциональную реформу.Опыт прошлых десятилетий учит нас, что существует связь между культурным, социальным, экономическим и политическим развитием, все из которых обязательны. Политика крайне важна из-за ее способности соединить все три оси развития. О политической институциональной реформе поэтому нельзя забывать. В случае Чили такая реформа была необходима, чтобы закончить поставторитарный переход и расширить демократические принципы на культурную и социально-экономическую сферы. Соответствующие цели включали судебную реформу, переопределение гражданско-военных отношений, децентрализацию и развитие местной демократии, улучшение политической репрезентации, расширение гражданства и улучшение отношений внутри государства, политических сторон и социальных акторов.Утверждать, что переход закончен и что развитие и модернизация могут теперь заменить демократизацию в качестве главного пункта на национальной повестке дня, было бы ошибкой и будет способствовать девальвации политики. При этом не было бы корректным утверждать, что и Чили находится все еще в переходе. Проблемы, с которыми сталкивается современное Чили, не могут быть уменьшены до проблем перехода.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/05/15/1321217755/ВКР_Шарыгина_2014.docx">Текст работы</a>
+			
+				(работа добавлена 15 мая 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (217.94 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

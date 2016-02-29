@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=125146939'>Выявление и оценка факторов аттрактивности агротуризма в центральном федеральном округе России</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Гронемайер Оксана Сергеевна
+				
+			</div>
+			<div class="cell">
+				
+					Выявление и оценка факторов аттрактивности агротуризма в центральном федеральном округе России
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/6979147">Казаков Сергей Петрович</a>
+			</div>
+			<div class="cell">
+				<a href="http://www.hse.ru/org/hse/man/">Факультет менеджмента</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					9
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Возможность создать продукт, отвечающий всем запросам потребителя, является ключевой. В условиях ограниченности ресурсов очень часто приходится выбирать между множеством решений для инвестиций средств и идти на риски. Особенно остро этот вопрос стоит перед малыми формами бизнеса, например, такими как крестьянско-фермерские хозяйства (КФХ). Не секрет, что занятие сельским хозяйством относится к формам деятельности с высокими рисками: неурожайный год, падеж скота и т. д. Ведение туристической деятельности для таких предприятий является отличной возможностью диверсифицировать производство и уменьшить общие риски. Но выбрав для себя этот путь развития, хозяин фермы сразу же встает перед вопросом: &laquo;что предложить туристу, чтобы он приехал на мою ферму?&raquo;.Этот вопрос является чрезвычайно важным, так как ответ на него поможет грамотно инвестировать средства в то, что реально будет пользоваться спросом. К сожалению, ответить на данный вопрос очень сложно по ряду причин. Желания человека очень изменчивы и если сегодня ему хочется покататься на ферме на лошадях, то завтра возникнет желание поплавать в бассейне. Еще одной причиной является отсутствие практикоориентированных исследований по этой теме, целью которых могло быть выявление данных привлекательных для туриста черт. Поэтому данная работа является актуальной, так как компенсирует пробел в исследованиях агротуризма. Нашей работой была достигнута цель &mdash; выявление и оценка факторов аттрактивности агротуризма для потребителей. Уровень достижения этой цели отражается в комплексном решении задач, сформулированных в работе.В ходе исследования мы столкнулись с проблемой отсутствия одного мнения среди исследователей о том, что можно считать агротуризмом и как его отличить от сельского, экологического и т.д. В связи с тем, что для нашего исследования это было решающим вопросом, мы тщательно проанализировали этот вопрос и пришли к рабочему определению агротуризма для нашей работы. Мы рассмотрели подходы к изучению аттрактивности в туризме, а так же практические исследования по смежной с нашей темами. На их основе мы разработали методику выявления и оценки факторов аттрактивности агротуризма.Согласно нашей методике мы проанализировали существующие предложения по агротуризму на рынке ЦФО и составили &laquo;черновой&raquo; список факторов. Для проверки нашего списка мы обратились к экспертам и с их помощью дополнили его и превратили в анкету. По результатам опроса мы проводили анализ с целью проверки наших рабочих гипотез. Нам не удалось полностью подтвердить только одну из пяти рабочих гипотез.В конце работы мы дали рекомендации владельцам действующих АТК и тем, кто хотел бы развивать агротуризм у себя на ферме.Таким образом, мы выполнили все поставленные перед нами задачи, подтвердили основную гипотезу и достигли цели работы &ndash; выявили и оценили факторы привлекательности агротуризма для российских потребителей.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/06/1323537897/Магистерская_Гронемайер_final.doc">Текст работы</a>
+			
+				(работа добавлена 6 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (1841.5 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

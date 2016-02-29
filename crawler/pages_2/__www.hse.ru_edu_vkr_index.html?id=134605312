@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=134605312'>Towards lean project management: an extension of classic project control and performance measurement methodology</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Андреев Александр Дмитриевич
+				
+			</div>
+			<div class="cell">
+				
+					Towards lean project management: an extension of classic project control and performance measurement methodology
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/139864">Царьков Игорь Николаевич</a>
+			</div>
+			<div class="cell">
+				<a href="http://www.hse.ru/org/hse/man/">Факультет менеджмента</a>
+				<br><div style="padding-top:3px;">(Магистратура)</div>
+			</div>
+			<div class="cell">
+				Управление проектами: проектный анализ, инвестиции, технологии реализации
+			</div>
+			<div class="cell centered">
+				
+					10
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Annotation to the Master Thesis of Andreev A. &ldquo;Towards lean project management: an extension of classic project control and performance measurement methodology&rdquo;Nowadays the field of professional services, such as market research, management consulting, tax regulation, design and so forth is becoming the prime concern for project management, since the scale and complexity of projects on international arena is growing along with risks. Many types of work are performed on contractual terms, which determine client&rsquo;s expectations on a number of parameters that are consistent with efficiency, however not only of the solution offered by contractor, but also the process undertaken to achieve it, which ultimately affects the cost, time and quality parameters of the project.The purpose of the master&#39;s thesis is to shed the light on the use of lean principles and tools in project based service organization and their potential meaning for project management in terms of expanding the functions of current methodology of project progress and performance measurement. To achieve this goal within the framework of a thesis following problems were solved:1. Analysis of the literature on lean manufacturing techniques used in the service industry companies;2. Highlighting the specificities of Project-Based organizations (PBO) and differentiating from other service organizations with repetitive operations; additionally, forming a theoretical precedent for application of lean tools in service industry projects;3. Developing an extension of current methodology of project control and performance measurement;4. Preparation of interview guide and conducting semi-structured interviews with experts of the company;5. Analysis and interpretation of results: identification of key operational wastes, mapping current state of company&rsquo;s processes and highlighting the links with project and project management success;6. Developing methodology for project control and performance measurement, based on the information generated within firms&rsquo; projects and concept for continuous improvement of processes.Scientific problem of the master thesis draws on poor development of a methodological approach, suited to recognize and measure project performance to indicate the prospects for enhancing process efficiency; a worthwhile extension of Earned Value. The exploration of project management based on lean methods in PBO is yet poorly reflected in literature, which therefore makes this study a first step towards lean project management in service PBO..The first chapter of the present work is devoted to the theoretical foundations of lean manufacturing, as well as the formation of a precedent for the use of these practices in the field of project management. The second chapter is designed to empirically test the proposed framework on the data provided by a market research PBO and provide meaningful input for management recommendations. The third chapter is devoted to the interpretation of the results and establishment of recommendations regarding the system of knowledge based project control, based on essential data on process &ndash;specific waste types and knowledge management.The results of this work can be used by project-based companies to optimize business processes and significantly reduce lead time of typical projects.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/10/06/1100212434/Dissertation_31032618_AA_MSC_PM_W2.pdf">Текст работы</a>
+			
+				(работа добавлена 6 октября 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/pdf.gif"> (3391.07 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

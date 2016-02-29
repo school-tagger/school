@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=125291969'>Оценка интеллектуального капитала в компаниях транспортной отрасли</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Гальдикайте Кристина Витаутовна
+				
+			</div>
+			<div class="cell">
+				
+					Оценка интеллектуального капитала в компаниях транспортной отрасли
+				
+			</div>
+			<div class="cell">
+				Липатников Виталий Сергеевич
+			</div>
+			<div class="cell">
+				<a href="http://spb.hse.ru/economics/">Факультет экономики (Санкт-Петербург)</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					8
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Бакалаврская работа на тему: &laquo;Оценка интеллектуального капитала в компаниях транспортной отрасли&raquo; содержит 9 рисунков, 10 таблиц и 3 приложения. Объем работы составляет 62 страницы. Для написания работы было использовано 33 источника. Ключевые слова: интеллектуальный капитал, человеческий капитал, потребительский капитал, организационный капитал, интеллектуальный коэффициент добавленной стоимости, методы оценки интеллектуального капитала, коэффициент Тобина, транспортная отрасль.Интеллектуальный капитал является одним из важнейших факторов конкурентоспособности экономических систем, так как способствует улучшению финансовых результатов той или иной компании. Исследование интеллектуального капитала представляет собой очень новое направление в экономике фирмы. В связи с этим, оценка интеллектуального капитала и управление им является актуальной проблемой современной экономики.Целью работы является исследование и оценка интеллектуального капитала в компаниях транспортной отрасли, а также разработка рекомендаций по управлению интеллектуальным капиталом на конкретном предприятии ООО &laquo;ТК Лидер&raquo;. Объектом исследования является интеллектуальный капитал транспортных компаний России. Предметом данной работы являются методы оценки интеллектуального капитала.Научная новизна работы состоит в использовании эконометрической оценки влияния интеллектуального капитала на результаты деятельности компаний транспортной отрасли, а также в разработке ряда рекомендаций для совершенствования интеллектуального капитала на ООО &laquo;ТК Лидер&raquo;. Практическая значимость работы заключается в том, что основные выводы и рекомендации, содержащиеся в бакалаврской работе, могут быть использованы руководством компании ООО &laquo;ТК Лидер&raquo; для совершенствования и увеличения интеллектуального капитала.В первой главе &laquo;Теоретические аспекты интеллектуального капитала&raquo; рассмотрены основные подходы к определению интеллектуального капитала, изучены состав и структура интеллектуального капитала, выделены ключевые особенности интеллектуального капитала. Также в главе проведен анализ основных методов оценки интеллектуального капитала.Во второй главе &laquo;Исследование влияния интеллектуального капитала на результаты деятельности компаний транспортной отрасли&raquo; проведено эмпирическое исследование интеллектуального капитала компаний, а также подробно изучен метод расчета интеллектуального коэффициента добавленной стоимости (VAIC) для определения влияния интеллектуального капитала на результаты деятельности компаний.В третьей главе &laquo;Оценка интеллектуального капитала и анализ влияния интеллектуального капитала на результаты деятельности компаний транспортной отрасли&raquo; представлен анализ рынка грузоперевозок в России.Основной акцент делается на построении двух регрессионных моделей на основе общедоступных финансовых отчетностях компаний транспортной отрасли. Данные модели были построены для определения влияния интеллектуального капитала на результаты деятельности компаний.Оценка интеллектуального капитала проводилось с помощью коэффициента Тобина, на основании которого сравнивались ООО &laquo;ТК Лидер&raquo; и транспортная отрасль в целом. Было выявлено сильное отставание коэффициента на ООО &laquo;ТК Лидер&raquo;. Таким образом, был сделан вывод о невозможности конкурировать с крупнейшими компаниями транспортной отрасли в России.В связи с этим были предложены рекомендации по совершенствованию интеллектуального капитала на ООО &laquo;ТК Лидер&raquo;. Таким образом, компании необходимо уделить внимание следующим аспектам: избеганию увеличения текучести кадров, увеличению эффективности использования рабочего времени, проведению политики по омоложению персонала, разработке информационных баз, инвестированию в разработку своего бренда, увеличению покупательской активности.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/08/1323421459/ВКР Гальдикайте К.В. 144 группа.docx">Текст работы</a>
+			
+				(работа добавлена 8 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (528.99 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=125375558'>Оценка результатов внедрения системы управления знаниями в организации</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Наркевич Яна Сергеевна
+				
+			</div>
+			<div class="cell">
+				
+					Оценка результатов внедрения системы управления знаниями в организации
+				
+			</div>
+			<div class="cell">
+				Липатников Виталий Сергеевич
+			</div>
+			<div class="cell">
+				<a href="http://spb.hse.ru/economics/">Факультет экономики (Санкт-Петербург)</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					7
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Бакалаврская работа на тему: &laquo;Оценка результатов внедрения системы управления знаниями в организации&raquo; содержит 1 рисунок, 6 таблиц и 2 приложения. Объем работы составляет 48 страниц. Для ее написания было использовано 35 источников. Ключевые понятия исследования: менеджмент знаний, система управления знаниями (СУЗ), интеллектуальный капитал (ИК).Постепенно происходят изменения как в экономике в целом, так и на уровне компании. На сегодняшний день формируется новая экономика &ndash; экономика знаний, частью которой является проблема их управления. В современном мире компания производит не столько товар или услугу, сколько знания. Это означает, что персонал занимается производством знаний, организации превращаются в обучающие, инновации становятся источником вновь созданной стоимости. Пусть знания и интеллектуальный капитал (нематериальные активы компании) не учитываются в бухгалтерском балансе, тем не менее, они дают значительный экономический эффект, что определяет актуальность темы и логику данного исследования.Целью данной работы является оценка эффективности внедрения системы управления знаниями в организации. Объектом исследования является интеллектуальный капитал ОАО &laquo;Сбербанк России&raquo;, организации, начавшей внедрение системы по управлению знаниями в 2009 году. Предметом выступает изменение отдачи от интеллектуального капитала банка по мере внедрения СУЗ.В ходе изучения русской и зарубежной литературы по выбранной теме было выявлено, что менеджмент знаний представляет собой относительно молодое направление организационного менеджмента, развитие которого началось в XX веке и продолжается по сей день. Для определения основных понятий была использована работа одного из известнейших исследователей данной проблематики Мильнера Б.З., а также различные точки зрения по вопросу структуризации составляющих интеллектуального капитала. Эти аспекты были рассмотрены в первой главе &laquo;Система управления знаниями. Теоретические аспекты&raquo;. Также она посвящена анализу существующих методов оценки интеллектуального капитала, призванных решить проблему измерения нематериальных активов компании.Вторая глава &laquo;Сбербанк России&raquo; посвящена описанию деятельности выбранной организации, ОАО &laquo;Сбербанк России&raquo;, анализу основных показателей ее финансово-хозяйственной деятельности, а также описанию характеристик и проблем банковской сферы страны в целом.В третьей главе &laquo;Оценка эффективности управления знаниями в ОАО &laquo;Сбербанк России&raquo; описывается система по управлению знаниями в Сбербанке и мероприятия по ее совершенствованию, которые проводит банк. Основной составляющей главы является сравнительная оценка его интеллектуального капитала выбранными методами по мере внедрения системы управления знаниями.На основе данных о банке была рассчитана стоимость его интеллектуального капитала двумя методами: рыночной капитализации и отдачи на активы. Показатель рассчитывался в динамике с 2009 (базовый период - до внедрения СУЗ) по 2012 гг. Расчет финансовой стоимости ИК Сбербанка методом рыночной капитализации показывает ее увеличении на 5,9 % в течение рассматриваемого периода (в отчетном 2012 году по сравнению с базовым). Данный вывод подтверждается расчетами методом отдачи на активы, и это несмотря на снижение эффективности работы банка в отчетном году. Таким образом, Сбербанку целесообразно совершенствовать систему управления знаниями, которая повышает стоимость его нематериальных активов. </div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/09/1324291732/Оценка результатов внедрения системы управления знаниями в организации.doc">Текст работы</a>
+			
+				(работа добавлена 9 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (318.5 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

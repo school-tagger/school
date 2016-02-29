@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=124067954'>Моделирование воздействия антикризисных мер в США в период кризиса 2007-2008 годов</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Трапезникова Екатерина Викторовна
+				
+			</div>
+			<div class="cell">
+				
+					Моделирование воздействия антикризисных мер в США в период кризиса 2007-2008 годов
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/11532263">Пильник Николай Петрович</a>
+			</div>
+			<div class="cell">
+				<a href="http://economics.hse.ru/">Факультет экономических наук</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					10
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Данная работа посвящена самому масштабному явлению в мировой экономике за последнее десятилетие - экономическому кризису 2007-2008 годов. Объектом исследования выступает экономика США, так как именно в этой стране берет свое начало последняя экономическая рецессия. Хотя началом кризиса послужили проблемы на американском рынке жилья, он быстро распространился по всей американской экономике и затронул всех макроэкономических агентов и все сферы общественной жизни. Из рецессии одной страны кризис быстро перерос в глобальную, общемировую проблему, последствия которой мы наблюдаем до сих пор. Вот почему так важно изучать эту проблему.Как и во многих других странах, власти США проводили масштабные, многомиллиардные программы по выводу экономики страны из кризиса. Основной целью данной работы является анализ антикризисных мер с точки зрения их воздействия на экономику США.Работа построена следующим образом. Глава 1 посвящена обзору основных научных статей на данную тему, а также общей информации о причинах финансового кризиса и его начале. В главе 2 содержится описание некоторых проявлений кризиса, краткая характеристика основных антикризисных мер и объединение их в более однородные группы. В главе 3 рассматривается формальная математическая модель, описывающая экономику США, делаются выводы по траектории изменения основных показателей экономики. В следующей главе приводится описание данных по балансам ключевых макроэкономических агентов, так как эти данные необходимы для проведения эмпирического исследования. Последняя пятая глава посвящена моделированию антикризисных мер и оценке их влияния на экономику США.Основные выводы работы относительно воздействия антикризисных мер на экономику США заключаются в следующем.&middot; Меры по поддержке компаний и банков.Самого большого падения выпуска удалось избежать благодаря мерам по покупке ценных бумаг компаний и поддержке банковского сектора &ndash; 35% и 7%, соответственно. Во многом, это объясняется тем, что на эти две программы было выделено существенно больше средств, чем на остальные программы. Кроме того, поддержка фирм-производителей продукта и банков как проводника для связи компаний с инвесторами является более важной, чем поддержка потребителей. Стоить заметить, что хотя потрачено на эти две программы было значительно больше, чем прибавка к выпуску благодаря им, об их эффективности мы говорить не можем, так как остается непонятной ситуация вообще при отсутствии этих мер.&middot; Меры по уменьшению налогов.Меры по ослаблению налогов внесли самый скромный вклад в экономику США, во многом потому, что на них было выделено меньше всего средств. Также налоги входят в ВВП не напрямую, а влияют лишь косвенно.&middot; Меры по госрасходам и покупке госбумаг.Дополнительные госрасходы и покупка государственных ценных бумаг, во-первых, внесли довольно существенный вклад в американский выпуск, а, во-вторых, могут быть оценены как эффективные, так как затраты на них были меньше, чем положительный вклад, который они дали.В работе показано положительное краткосрочное влияние антикризисных мер. Однако оценка экономического положения США на второй квартал 2014 года далека от оптимистичной (очень высокий госдолг, застой в реальном секторе). Нельзя говорить о том, что данные антикризисные программы не минимизировали все негативные явления, так как не в состоянии оценить, как бы выглядела американская экономика сейчас при другом сценарии антикризисных мер. Последний кризис показал экономистам работу многих теорий на практике, и остается надеяться, что этот опыт будет учтен в будущем. Контакты: e-mail: layner4@yandex.ruмоб. тел.: +7 (915) 4752765</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/05/26/1324556960/Трапезникова Екатерина _Моделирование во..период кризиса 2007-2008 годов.docx">Текст работы</a>
+			
+				(работа добавлена 26 мая 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (408.68 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

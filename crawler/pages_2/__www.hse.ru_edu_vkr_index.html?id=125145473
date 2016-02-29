@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=125145473'>Управление затратами и их оптимизация в сфере ресторанного бизнеса на примере ресторана "Нотебург"</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Корнева Мария Александровна
+				
+			</div>
+			<div class="cell">
+				
+					Управление затратами и их оптимизация в сфере ресторанного бизнеса на примере ресторана "Нотебург"
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/140345">Волкова Ольга Николаевна</a>
+			</div>
+			<div class="cell">
+				<a href="http://spb.hse.ru/economics/">Факультет экономики (Санкт-Петербург)</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					7
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Бакалаврская работа выполненана тему: &laquo;Управление затратами и их оптимизация в сфере ресторанного бизнеса на примере ресторана &laquo;Нотебург&raquo;содержит 6 таблиц и 3 рисунка. Объем данной бакалаврской работы составляет 65 страниц. В процессе написания работы было использовано 49 источников, как российских, так и иностранных авторов. Ключевые слова: затраты, управление затратами, оптимизация затрат, методы оптимизации затрат, ресторанный бизнес, предприятия общественного питания, малый бизнес.Тенденция спада на рынке общественного питания и высокие темпы роста цен на продукты питания ведут к снижению реальных доходов населения, а рынок общественного питания один из тех сфер экономики страны, которые наиболее остро реагируют на снижение реальных доходов населения. Иными словами, складывающаяся ситуация делает вопрос управления затратами и их оптимизации очень актуальным для предприятий общественного питания. То есть, актуальность темы, выбранной для исследования, состоит в том, что в неблагоприятное для сферы общественного питания время руководителям предприятий необходимо обратить внимание на управление затратами и их оптимизацию, так как затраты большой степени влияют на финансовый результат предприятия.Цель данной работы состоит в формировании, на основе изучения теоретических источников и анализа деятельности управления затратами предприятия, рекомендаций по управлению затратами и оптимизации затрат, которые бы позволили улучшить результаты деятельности предприятия, работающего в сфере ресторанного бизнеса.Объектомисследования выпускной квалификационной работы является предприятие общественного питания &ndash;ресторан &laquo;Нотебург&raquo;.Предметомисследования в данной работе является управление затратами в ресторане &laquo;Нотебург&raquo;.В ходе изучения литературы по выбранной тематике было установлено, что основные работы по проблеме управления затрат в ресторанном бизнесе принадлежат иностранным авторам, а в российской литературе недостаточно изложено применение оптимизации затрат в ресторанном бизнесе, а также практически не проводилось исследований по влиянию управления затрат и оптимизации затрат на результаты деятельности предприятий общественного питания. Научная новизна работы состоит в поиске методов оптимизации затрат предприятия общественного питания, которое относится к сектору малого бизнеса.Практическая значимость работы заключается в том, что основные выводы и рекомендации, содержащиеся в бакалаврской работе, могут быть применены руководством предприятия при принятии решения по снижению затрат или по перераспределению затрат с целью улучшения финансово-хозяйственной деятельности.В первой главе &laquo;Затраты и управление ими&raquo; рассмотрены главные аспекты определения затрат, организация учета затрат на предприятии и регламентирующая нормативная база, а кроме того различные классификации затрат, распределение затрат по центрам и методы управления затратами. В дополнение к этому, в главе проведен обзор исследований иностранных авторов по управлению затратами организаций, работающих в сфере общественного питания.Во второй главе &laquo;Анализ финансово-хозяйственной деятельности и затрат в ресторане &laquo;Нотебург&raquo;подробным образом описана деятельность ресторана &laquo;Нотебург&raquo;. Для более подробного изучения компании проведен анализрезультатов деятельности предприятия и затрат, основанный на данных бухгалтерского учета за 2012-2013 гг.В третьей главе &laquo;Рекомендации по управлению затратами и их оптимизации в ресторане &laquo;Нотебург&raquo; представлены рекомендуемые мероприятия по оптимизации затрат предприятия. Также в данной главе сделаны расчеты снижения затрат в результате смены арендуемого помещения и изменения режима работы предприятия, как основных оптимизационных мероприятий. Помимо этого, предприятию рекомендовано увеличить затраты на продажу, то есть на продвижение ресторана на рынке общественного питания, за счет снижения затрат на аренду помещения, оплату труда и коммунальные услуги.Основными рекомендациями по оптимизации затрат предприятия являются:Поиск и замена арендуемого предприятием помещения;Изменения график работы предприятия;Изменение меню и винной карты ресторанаПроведение стимулирующих спрос мероприятий, таких как временные скидки на не пользующиеся популярностью позиции меню ресторана;Увеличение расходов на рекламу и продвижение ресторана на рынке общественного питания;Использование маркетинговых исследований;Развитие ресторана в направлении проведения банкетных мероприятий.В результате применения предложенных в даннойработе мероприятий по оптимизации затрат ресторана &laquo;Нотебург&raquo;, то есть смены арендуемого помещения и смены графика работы предприятия удалось снизить затраты ресторана на 2,456 млн. рублей, что составляет 11% от общих затрат предприятия в 2013 году. Более того ожидаемое снижение затрат предприятия выше убытка в 2013 году на 22,6% от размера убытка предприятия.Снижение затрат предприятия на аренду помещения, заработную плату работников и коммунальные услуги дает возможность руководству предприятия увеличить долю затрат на продажу путем увеличения затрат на рекламу предприятия с целью увеличения выручки от реализации, а следовательно, и прибыли предприятия от финансово-хозяйственной деятельности. В ходе исследования был проведен анализ рынка рекламных услуг. Основными направлениями рекламы и продвижения ресторана &laquo;Нотебург&raquo; можно назвать рекламу в Интернет-ресурсах и социальных сетях. Помимо этого, важным аспектом является создание собственного сайта ресторана. Дополнительно, руководству предприятия рекомендовано обратиться в рекламную компанию для разработки полноценного рекламного проекта, подготовленного индивидуально для ресторана &laquo;Нотебург&raquo;.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/06/1323537235/Корнева Мария Александровна, Управление ..а на примере ресторана Нотебург.pdf">Текст работы</a>
+			
+				(работа добавлена 6 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/pdf.gif"> (858.11 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

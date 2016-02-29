@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=124050240'>Интегрированные медиа-стратегии современного музея: формы коммуникации с аудиторией</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Великоднева Тамара Васильевна
+				
+			</div>
+			<div class="cell">
+				
+					Интегрированные медиа-стратегии современного музея: формы коммуникации с аудиторией
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/11730611">Лапина-Кратасюк Екатерина Георгиевна</a>
+			</div>
+			<div class="cell">
+				<a href="http://mediacom.hse.ru/">Факультет медиакоммуникаций</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					10
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">В данной работе рассматривается опыт современных музеев по расширению аудитории при помощи цифровых медиа. Научно-теоретической базой данного исследования стали работы Генри Дженкинса, сформировавшего концепцию &laquo;конвергентной культуры&raquo; и осмыслившего глобальные изменения в отношениях производителей и потребителей медиаконтента. Работы Генри Дженкинса помогли выявить факторы, повлиявшие на изменение медийного ландшафта, в котором существует современный музей.В качестве объекта исследования выбрана кросс-медийность современного музея, а в качестве предмета исследования &mdash; роль цифровых медиа в процессе расширения аудитории музея. В исследовании проведена классификация мультимедийных инструментов, используемых современными музеями, а затем рассмотрены конкретные примеры технологических решений, которые используют лучшие музеи по всему миру.В процессе исследования был сделан ряд выводов: музеи не могут радикально увеличить число физических посетителей из-за ограниченной пропускной способности здания;аудитория интернета каждый год увеличивается. Таким образом потенциальная онлайн-аудитория современного музея составляет почти 3 милиарда человек;посещаемость сайтов музеев, которые несколько лет назад построили среднесрочную стратегию развития с интернете, сегодня в несколько раз превышает количество реальных людей, которые пришли в музейное здание; музеи по всему миру выкладывают в Сеть свои коллекции. Ориентируясь прежде всего на посетителя сайта, стараясь завлечь его удобной подачей контента, яркими образами и личностным подходом;все больше музеев изобразительного искусства хотят собственное мобильное приложение. Это во многом связано с ростом доли смартфонов как устройств для выхода в интернет;социальные сети стали частью повседневной культуры современного человека. Музеи используют Twitter, Facebook, Instagram и геолокационные сервисы для построения диалога со своей аудиторией; самые успешные мировые музеи поощряют создание и распространение пользовательского контента;с помощью виртуального тура человек, не имеющий возможности физически прийти в тот или иной музей, может &laquo;погулять&raquo; по залам и галереям желаемой культурной организации.Сделанные выводы позволили утверждать, что медийный ландшафт и усиление роли информации в жизни общества создали условия, в которых цифровые медиа стали новым инструментом для расширения аудитории музея.На основе опыта, полученного в процессе исследования, сформулированы основные принципы развития медийной стратегии Государственного музея изобразительного искусства им. А.С. Пушкина с учетом &laquo;Новой концепции развития&raquo; музея. </div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/05/26/1324538258/Великоднева ВКР fv.pdf">Текст работы</a>
+			
+				(работа добавлена 26 мая 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/pdf.gif"> (650.99 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

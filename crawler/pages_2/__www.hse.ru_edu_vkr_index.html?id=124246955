@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=124246955'>СОВЕРШЕНСТВОВАНИЕ ТЕХНОЛОГИИ «ПРЕОБРАЗОВАНИЕ КОМПАНИИ НА ОСНОВЕ ЛИДЕРСТВА»</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Крайденков Ярослав Александрович
+				
+			</div>
+			<div class="cell">
+				
+					СОВЕРШЕНСТВОВАНИЕ ТЕХНОЛОГИИ «ПРЕОБРАЗОВАНИЕ КОМПАНИИ НА ОСНОВЕ ЛИДЕРСТВА»
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/987628">Плотников Михаил Вячеславович</a>
+			</div>
+			<div class="cell">
+				<a href="http://nnov.hse.ru/management/">Факультет менеджмента (Нижний Новгород)</a>
+				<br><div style="padding-top:3px;">(Магистратура)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					8
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Федеральное государственное автономное образовательное учреждение высшего профессионального образования &laquo;Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;Факультет менеджментаКафедра общего и стратегического менеджмента Аннотацияк магистерской диссертации на тему:Совершенствование технологии &laquo;Преобразование компании на основе лидерства&raquo;Крайденков Ярослав Александрович Актуальность исследования обуславливается несколькими факторами. В условиях глобализации требуются новые подходы, содержащие в себе не только стратегии, обеспечивающие эффективность деятельности компании, но и стратегии, позволяющие развивать творческие, парадоксальные и рискованные подходы к деятельности компании как новый ресурс для ее развития. В современной динамичной среде лидерам, для того, что бы добиваться поставленных целей, необходимо постоянно производить организационные изменения. Именно поэтому тема преобразования компании на основе лидерства является сейчас актуальной. Спустя 23 года после изменения экономической и политической структуры страны, эффективность большинства российских производственных предприятий остается невысокой. Однако, существующий опыт внедрения японской TPS или американского LEAN Management на российских предприятиях показывает, что, во-первых, &laquo;революционный способ&raquo; не подходит, так как даже конструктивные идеи вызовут ожесточенное сопротивление. Во-вторых, в большинстве своем, перенимается опыт зарубежных компаний без анализа и понимания что именно и для чего делается, в итоге складывается полное непонимание необходимости данных изменений и проект теряет поддержку и перспективы на дальнейшее развитие.Целью исследования является разработка предложения по совершенствованию технологии &laquo;Преобразование компании на основе лидерства&raquo; для использования консалтинговыми компаниями.Задачи работы состоят в следующем:1. Определить существующие подходы и возникающие проблемы по управлению организационными изменениями2. Определить актуальность адаптации управленческих технологий в российской специфике3. Описать и проанализировать технологию ПКнОЛ на примерах ОАО &laquo;Криогенмаш&raquo; и ГУП &laquo;Московский метрополитен&raquo; на наличие возможностей по улучшению самой технологии и процесса ее адаптации4. Разработать пакет рекомендаций по улучшению самой технологии ПКнОЛ и процесса ее адаптации.Объектом исследования является технология &laquo;Преобразование компании на основе лидерства&raquo;.Предметом исследования является возможность адаптации технологии с учетом специфики предприятия.Научная новизна работы состоит в усовершенствовании технологии ПКнОЛ и процесса ее адаптации в соответствии со спецификой предприятия.Технология &laquo; преобразование компании на основе лидерства&raquo; может применятся в реализации двух целей: развитие модели управления или совершенствование существующей. В данной работе получено подтверждение, что данная технология успешна на предприятиях среднего бизнеса.В ходе выполнения диссертационной работы цель была достигнута. Были разработаны предложения по совершенствованию технологии ПКнОЛ для использования консалтинговыми компаниями.Задачи работы выполнены в полном объеме. Были определены существующие подходы и возникающие проблемы по управлению организационными изменениями, актуальность адаптации управленческих технологий в российской специфике. Описана и проанализирована технология &laquo;Преобразование компании на основе лидерства&raquo; на примерах ОАО &laquo;Криогенмаш&raquo; и ГУП &laquo;Московский метрополитен&raquo; на наличие возможностей по улучшению самой технологии и процесса ее адаптации. Был разработан пакет рекомендаций по улучшению самой технологии ПКнОЛ и процесса ее адаптации.Часть из предложенных рекомендаций уже внедрена в технологию и проходит апробацию на предприятиях крупного бизнеса. Эти данные лягут в основу дальнейшей научной работы. </div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/05/28/1324472697/Диссертация Крайденков Я.А. 12см.docx">Текст работы</a>
+			
+				(работа добавлена 28 мая 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (1001.23 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

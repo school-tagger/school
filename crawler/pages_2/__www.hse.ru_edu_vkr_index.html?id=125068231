@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=125068231'>Жизненные стратегии ВИЧ-инфицированных и их самопрезентация в публичном пространстве</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Тихоненко Диана Михайловна
+				
+			</div>
+			<div class="cell">
+				
+					Жизненные стратегии ВИЧ-инфицированных и их самопрезентация в публичном пространстве
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/486300">Иконникова Наталия Кирилловна</a>
+			</div>
+			<div class="cell">
+				<a href="http://soc.hse.ru/">Факультет социологии</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					7
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Выявление различных типов жизненных стратегий ВИЧ-инфицированных, структурирование, нахождение различий между жизненными стратегиями ВИЧ-инфицированных, выделение в группы &ndash; всё это является целью данного исследования. Также выявление различных типов самопрезентации ВИЧ-положительных. Задачи: выявить механизмы самопрезентации и жизненные стратегии у ВИЧ-инфицированных, определить зависимость между ними.Исследование является выборочным, сбор данных осуществлялся методом глубинного интервью с 11 респондентами в возрасте от 26 до 49 лет. Респондентами исследования были люди, живущие с ВИЧ от полгода до 17 лет, один из респондентов находился на первой стадии развития СПИДа. Семейное положение, место жительства, наличие детей или беременности, причины заражения ВИЧ не имели значение на попадание в выборку.В данном исследовании применялись следующие виды выборки: выборка добровольцев, экспертная выборка и &laquo;снежный ком&raquo;. Также применялся анализ личных страниц респондентов в социальных сетях.Подготовительный этап исследования &ndash; обзор научной литературы и статей, мониторинг официальной статистики ВИЧ-положительных в России и в мире, посещение форумов, сбор официальной информации в интернете. Первый этап исследования - проведение пилотажного исследования, общение с экспертами в области ВИЧ/СПИД. Второй этап - поиск респондентов среди ВИЧ-положительных, назначение интервью. Третий этап &ndash; беседа по телефону или по скайпу с респондентом в течение 25-30 минут.Определились в ходе исследования две важные точки в восприятии статуса ВИЧ, которые проходит ВИЧ-положительный: первое &ndash; это момент определения ВИЧ, и второе &ndash; это момент принятия себя с ВИЧ. Между данными важными событиями есть этап построения дальнейших жизненных стратегий, которые могут меняться как в момент определения статуса, в период принятия, так и далее с течением жизни. Реакции на новость наличия ВИЧ в организме и первые стратегии поведения, выделили следующие:1. Страх;1) Страх будущего с ВИЧ;2) Страх смерти;3) Страх заразить близких;4) Страх сказать близким;5) Страх неизвестности (Что такое ВИЧ? Куда идти? Что делать?);2. Абстрагирование, игнорирование инфекции;3. Подбадривание себя, самоутешение;4. Шок;5. Обида;6. Потеря смысла жизни, утрата интереса к будущему.Второй этап принятия &ndash; сложный период жизни человека, когда нужно свыкнуться с мыслью о болезни и найти в себе силы строить планы, менять жизненные стратеги в результате резко изменившейся ситуации. Выявлено несколько стратегий, с помощью которых, ВИЧ-положительные проходят этап принятия своего статуса и строят дальнейшие планы, сформировав своё отношение к болезни и к себе в обществе и корректируют свои дальнейшие жизненные стратегии:1. Закрытия от мира, апатия и депрессия2. Саморазрушение;3. Абстрагирование от болезни, продолжение привычного образа жизни;4. Поиск новых знаний;5. Обращение в СПИД-центры;6. Ожидание поддержки от близких людей;7. Общение с другими ВИЧ-положительными.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/05/1323458837/Tikhonenko Diana 434 HIV.doc">Текст работы</a>
+			
+				(работа добавлена 5 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (852 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=123978922'>Количественная оценка эффективности исполнительной власти в регионах РФ в 2000-е гг.</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Тимшина Наталья Геннадьевна
+				
+			</div>
+			<div class="cell">
+				
+					Количественная оценка эффективности исполнительной власти в регионах РФ в 2000-е гг.
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/24114108">Ахременко Андрей Сергеевич</a>
+			</div>
+			<div class="cell">
+				<a href="http://fpp.hse.ru/">Факультет прикладной политологии</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					7
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Эмпирическое изучение проблематики эффективности власти привлекло широкое внимание исследователей лишь в последний десяток лет. По мнению А. Ахременко, причина роста популярности данной тематики объясняется совокупностью факторов: развитием неоинституционализма, появлением новых течений в сфере государственного управления и осознанием того, что без эффективного управления невозможна реализация &laquo;правильного&raquo; политического курса. В современной научной литературе мы можем наблюдать отсутствие единого подхода к тому, как оценить эффективность деятельности органов власти национального и регионального уровней.Теоретическая актуальность темы исследования объясняется необходимостью разработки объективной, прозрачной и теоретически обоснованной методологии измерения эффективности губернаторского корпуса.Практическая актуальность формируется запросами, идущими от двух уровней контроля. Прежде всего, федеральной власти в лице президента необходимо знать, насколько хорошо исполняется объем данных им указаний, так как отношение к региональной власти зачастую проецируется на национальный уровень. Кроме того, в связи с возвращением выборов глав субъектов федерации потребность в контроле испытывают и граждане: необходимо оценить, насколько эффективно расходуются уплаченные налоги.Цель исследования &ndash; проверить наличие связи между эффективностью региональных центров принятия решений и результатами инкумбента на выборах. В процессе достижения цели необходимо выполнить следующие задачи:1) рассмотреть теоретические подходы к оценке эффективности деятельности органов власти; проанализировать российские исследования и рейтинги эффективности глав субъектов федерации, выделив их сильные и слабые стороны;2) обосновать выбор метода анализа;3) провести валидизацию результатов на каждом этапе анализа;4) количественно оценить эффективность власти в регионах, воспользовавшись подходом &laquo;суперэффективного&raquo; DEA;5) сделать вывод о связи между оценками эффективности региональных центров принятия решений и результатами глав регионов на выборах.Теоретической основой исследования является системный подход. В рамках данной методологии мы опираемся на логику Дэвида Истона, который рассматривает систему как &laquo;черный ящик&raquo;, изучая ее реакцию (выходы) на определенные входы.С методической точки зрения исследование опирается на метод Data Envelopment Analysis (DEA). Подход DEA восходит к идее оптимальности по Парето, которая предполагает, что невозможно улучшить один параметр без ухудшения других. На кривой производственных возможностей, таким образом, находятся акторы, обладающие наибольшей эффективностью.В рамках данной схемы мы можем перейти к пространству &laquo;входов &ndash; выходов&raquo;, тогда один вектор будет описывать ресурсы, другой &ndash; результаты. Можно постулировать, что фундаментальный критерий эффективности &ndash; отношение между результатами и затраченными ресурсами.В исследовании используются статистические данные Федеральной службы государственной статистики. Массив анализируемых переменных представляет собой выборку, характеризующую экономические и социальные показатели 79 субъектов Российской Федерации в 2000-е гг..Чтобы оценить эффективность регионального центра принятия решений, мы считаем необходимым исследовать достижения власти в сферах образования, здравоохранения, безопасности и имущественного благосостояния.Эмпирический анализ не позволил нам обнаружить однозначную связь между эффективностью региональной исполнительной власти РФ и шансами главы региона быть переизбранным. В этом случае голосование за инкумбента может быть объяснено другими факторами: отсутствием конкуренции, опасением, что новый глава региона окажется хуже предыдущего, низкими ожиданиями.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/05/25/1324729976/441_Timshina N.doc">Текст работы</a>
+			
+				(работа добавлена 25 мая 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (1867 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

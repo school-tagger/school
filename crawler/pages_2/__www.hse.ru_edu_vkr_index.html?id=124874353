@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=124874353'>Аудит экспортных операций и его информационная база</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Калинина Дарья Александровна
+				
+			</div>
+			<div class="cell">
+				
+					Аудит экспортных операций и его информационная база
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/201912">Штефан Мария Александровна</a>
+			</div>
+			<div class="cell">
+				<a href="http://nnov.hse.ru/economics/">Факультет экономики НИУ ВШЭ (Нижний Новгород)</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					9
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Широкое участие отечественных предприятий во внешнеэкономической деятельности ставит вопрос об организации контроля в этой специфической сфере. Большинство методик аудита являются предметом профессионального суждения аудиторов, но отсутствует общий порядок проведения аудита экспортных операций. Поэтому исследования в сфере контроля и аудита экспортных операций являются актуальными в настоящее время.Цель выпускной квалификационной работы заключается в разработке информационно-методического обеспечения аудита экспортных операций, апробации аудиторских процедур на примере конкретного предприятия и подготовке предложений по совершенствованию системы учета и контроля на данном предприятии.Для достижения указанной цели были поставлены следующие задачи:1) изучить нормативную базу и специальную литературу по аудиту экспортных операций;2) дать краткую характеристику исследуемого предприятия и его учетной политики;3) оценить существенность бухгалтерских искажений;4) провести оценку эффективности системы внутреннего контроля;5) оценить аудиторский риск и объем выборки;6) подготовить план и программу аудита экспортных операций;7) апробировать аудиторские процедуры на примере исследуемого предприятия;8) дать рекомендации по совершенствованию системы учета и контроля на предприятии. При разработке методического обеспечения аудита экспортных операций мы опирались на основные этапы планирования аудита, по которым проводили обзор предлагаемых в литературе методик.Первой задачей планирования аудита является оценка существенности искажений. Многие авторы указывают на факт, что при оценке уровня существенности следует учитывать и качественные, и количественные факторы.Следующей немаловажной задачей планирования аудита является оценка системы внутреннего контроля (СВК). Как в отечественной, так и в иностранной литературе, большое внимание уделяется ее компонентам. После определения уровня существенности и оценки внутреннего контроля необходимо выявить риски. По данному этапу в литературе предлагаются формулы для количественного анализа рисков.Если в ходе планирования аудита выявляется, что эффективность СВК аудируемого лица высокая, а аудиторские риски невелики, то аудитор может применять выборочную проверку. Выделяют два основных метода выборочной проверки: статистический и нестатистический, оба из которых применяются аудиторами на практике.При планировании аудита экспортных операций ЗАО &laquo;Хемкор&raquo; мы применяли существующие методики, а также разрабатывали свои. Так, используя метод анализа иерархий, мы пришли к выводу, что для оценки существенности искажений необходимо устанавливать уровень существенности 7%. Для оценки СВК применялся вопросный лист, позволяющий выявить риски и оценить эффективность компонентов внутреннего контроля. При оценке рисков нами была применена формула для расчета риска необнаружения: , где Raa &ndash; приемлемый аудиторский риск, Ri &ndash; неотъемлемый риск, Rc &ndash; контрольный риск, Rn &ndash; риск необнаружения, в которой неотъемлемый риск приравнивался 60%, а общий аудиторский риск &ndash; 3%. Для сокращения выявленных на этапе оценки СВК рисков мы из генеральной совокупности отбирали элементы наибольшей стоимости, оставшиеся делили на группы по виду риска, а затем производили отбор внутри каждой группы.Итоговой задачей этапа планирования являлась разработка плана и программы аудита экспортных операций, учитывающих все особенности данного вида операций. Аудиторские процедуры были апробированы на примере ЗАО &laquo;Хемкор&raquo;. В ходе проверки экспортных операций были выявлены некоторые несущественные ошибки, для исправления которых нами были предложены рекомендации по совершенствованию системы учета и контроля на предприятии. Основными рекомендациями можно назвать ведение раздельного учета по валютам сделок, расширение плана счетов субсчетами второго порядка, а также создание отдельного подразделения внутреннего контроля и постоянной инвентаризационной комиссии. </div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/03/1323789475/Калинина Д.А. Аудит экспортных операций и его информационная база.docx">Текст работы</a>
+			
+				(работа добавлена 3 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (261.01 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

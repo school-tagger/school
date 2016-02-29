@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=125070302'>Интерес к экологии и культура потребления россиян</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Никитина Екатерина Андреевна
+				
+			</div>
+			<div class="cell">
+				
+					Интерес к экологии и культура потребления россиян
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/188723">Рощина Яна Михайловна</a>
+			</div>
+			<div class="cell">
+				<a href="http://soc.hse.ru/">Факультет социологии</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					7
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">В России число людей, проявляющих интерес к потреблению, которое наносит минимальный вред окружающей среде (экологичному потреблению), постепенно растет. Появляются молодые люди, обеспокоенные экологическими проблемами, которые становятся настоящими приверженцами экологичного потребления и проповедниками экологичного образа жизни. Они сознательно инкорпорируют в свое потребление экологичные практики. Наряду с ними есть люди, в потребление которых также инкорпорированы экологичные практики, однако это сделано не из-за заботы об окружающей среде, а по другим причинам (финансовым или моральным). Парадокс состоит в том, что есть люди, которые интересуются экологией, призывают других интересоваться этим вопросом и целенаправленно делают свое потребление экологичным, а есть люди, которые не задумываются о вопросах экологии, не задумываются о своем потреблении, но потребление этих людей оказывается схожим и содержит экологичные практики. Исследовательский вопрос мы видим в следующем: понять, какие существуют культуры потребления и действительно ли культуры потребления людей, с повышенным интересом к теме экологии, которые участвуют в экологических мероприятиях, отличаются от двух других групп людей? Или отличается только мотивация практик потребления, а сами практики потребления у всех групп схожи? Под культурой потребления мы понимаем совокупность трех составляющих: 1) набор практик потребления, присущих человеку, 2) его мотивацию их применения в жизни и 3) отношение человека к экологичному потреблению и готовность применять его в своей жизни. Цель данного исследования: выявить типы экологичного потребления и понять, различаются ли логики отношения к экологичному потреблению у людей с разным уровнем интереса к теме экологии. В ходе исследования проведены 21 интервью с представителями двух групп &ndash; людьми, целенаправленно заботящимися об экологии и людьми, действующими в рамках рациональности, по своим убеждениям или экономящими средства. Интервью позволяют понять, во-первых, как разные люди объясняют присутствие в своем потреблении экологичных практик. Во-вторых, что люди думают об экологичном потреблении: приемлемо ли оно для них и при каких обстоятельствах. В-третьих, мы видим, различается ли культура потребления заинтересованных в вопросах экологии людей и незаинтересованных людей. В результате исследования мы сделали вывод, что практики экологичного потребления присущи практически всем опрошенным людям, так как экологичные практики сильно пересекаются с рациональными практиками. Разница в количестве таких практик в потреблении одного человека и их степени снижения вреда, причиняемого окружающей среде. Многие опрошенные люди положительно относятся к возможности своими действиями повлиять на окружающую среду. Наиболее действенное влияние на поведение людей окажут фискальные меры. Однако многие опрошенные готовы изменить свое поведение и без таких радикальных мер. Им будет достаточно созданных условий (эко-магазины, контейнеры для раздельного сбора мусора около подъезда, места для сдачи вещей на утилизацию) совместно с рекламными кампаниями (по телевидению, в интернете, в метро, на мероприятиях в парках).</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/05/1323460876/Никитина_Е_диссертация.doc">Текст работы</a>
+			
+				(работа добавлена 5 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (659 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

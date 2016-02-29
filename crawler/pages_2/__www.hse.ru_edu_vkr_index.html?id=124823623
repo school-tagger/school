@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=124823623'>Интенсивность силового давления на бизнес в регионах России: индикаторы и факторы</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Казун Антон Павлович
+				
+			</div>
+			<div class="cell">
+				
+					Интенсивность силового давления на бизнес в регионах России: индикаторы и факторы
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/305238">Яковлев Андрей Александрович</a>
+			</div>
+			<div class="cell">
+				<a href="http://soc.hse.ru/">Факультет социологии</a>
+				<br><div style="padding-top:3px;">(Магистратура)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					10
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">В настоящей работе проводится анализ проблемы силового давления на бизнес в регионах России. С начала 2000-ых рейдерские захваты в России стали достаточно распространенным явлением, существование которого наносит вред экономике региона, ухудшает инвестиционный климат, а порой имеет неприятные социальные последствия (например, потерю рабочих мест). Основной целью исследования является установление связей между интенсивностью силового давления в регионах России и различными экономическими, социальными и политическими факторами, а также выявление причин возникновения этого феномена. Эмпирический анализ проблемы состоит из двух частей: качественной и количественной (используется стратегия &laquo;mixed method&raquo; при которой две части данных дополняют друг друга).Первая часть анализа построена на качественных данных (публикациях в СМИ и внутренней аналитике ЦОП &laquo;БПК&raquo;) и имеет целью выделить основные стратегии рейдерских захватов, а также способы противодействия силовому давлению на бизнес. На основе 163 статей о 36 случаях силового давления на бизнес мы выделили три последовательных стадии рейдерских захватов: &laquo;ультиматум&raquo;, &laquo;осада&raquo; и &laquo;захват&raquo;. Мы установили, что рейдеры выстраивают свои стратегии от самых безопасных и дешевых инструментов к более сложным и рискованным инструментам. Относительно успешной стратегией защиты бизнеса в свою очередь будет привлечение внимания СМИ и перевод конфликта в публичную плоскость, что в свою очередь повышает &laquo;риски&raquo; для рейдеров. Анализ аналитики, полученной из ЦОП &laquo;БПК&raquo;, показывает, что сторона рейдеров может быть представлена двумя типами акторов: &laquo;обладателями экономических ресурсов&raquo; и &laquo;обладателями силовых ресурсов&raquo;. При этом если силовые органы могут участвовать в рейдерских атаках самостоятельно, то представители бизнеса, как правило, все равно должны заручиться поддержкой администрации или правоохранителей.Вторая часть работы строилась на анализе количественных данных. Рассмотрев различные варианты индикаторов силового давления на бизнес, мы приходим к выводу, что &laquo;количество обращений в ЦОП &laquo;БПК&raquo;&raquo; (543 случая) может стать подходящим способом измерения интенсивности давления на бизнес (после нормировки по ВРП). Впрочем, данный инструмент имеет целый ряд ограничений, которые мы стараемся учитывать в ходе нашего исследования. Мы предполагаем, что силовое давление на бизнес возрастает в тех регионах, где выполняются определенные &laquo;пороговые условия&raquo;, делающие бизнес уязвимым для рейдерских атак. Так, согласно нашим данным, интенсивность силового давления на бизнес ниже в нефтедобывающих регионах, выше в регионах с развитой обрабатывающей промышленностью, а также с 6-10% долей строительства. Наиболее подверженными рейдерским атакам сферами бизнеса являются торговля, строительство и промышленный сектор. Однако индивидуальные предприниматели также очень часто подвергаются силовому давлению. Все эти выводы соответствуют полученным ранее свидетельствам того, что рейдеры стремятся максимизировать свою прибыль и минимизировать возможные риски. Именно поэтому захваты редки в нефтяных регионах, а рейдеры выбирают в качестве целей компании среднего уровня.Также мы предполагаем, что состояние судебной системы может быть дополнительной причиной для рейдерских захватов. К сожалению, у нас есть лишь косвенные подтверждения данному тезису. Интенсивность силового давления на бизнес выше в регионах с высоким числом экономических преступлений и низкой прозрачностью судебной системы.Одним из основных ограничений данной работы была доступность различного рода данных о силовом давлении на бизнес. Результаты, полученные в этом исследовании, на наш взгляд, свидетельствуют о необходимости дальнейшего систематического изучения феномена силового давления на бизнес и сбора более подробной статистики. Так, одним из дальнейших шагов может стать анализ проблемы на &laquo;мезо-уровне&raquo; (отдельных городов и районов), который еще лучше позволит совместить качественные и количественные данные.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/03/1323739797/магистерская_диссертация_интенсивность_с..о_давления_на_бизнес_Казун_итог.doc">Текст работы</a>
+			
+				(работа добавлена 3 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (1383.5 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

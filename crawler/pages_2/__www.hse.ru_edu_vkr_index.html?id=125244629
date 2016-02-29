@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=125244629'>Управление стоимостью фармацевтических компаний</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Арсентьева Ирина Эриковна
+				
+			</div>
+			<div class="cell">
+				
+					Управление стоимостью фармацевтических компаний
+				
+			</div>
+			<div class="cell">
+				Балашов Алексей Игоревич
+			</div>
+			<div class="cell">
+				<a href="http://spb.hse.ru/economics/">Факультет экономики (Санкт-Петербург)</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					8
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Бакалаврская работа на тему: &laquo;Управление стоимостью фармацевтических компаний&raquo; содержит 10 рисунков, 14 таблиц и 6 приложений. Для написания работы было использовано 40 источников как отечественных, так и зарубежных авторов. Ключевые слова: мировой фармацевтический рынок, концепция управления стоимостью (VBM), экономическая добавленная стоимость (EVA), ключевые факторы стоимости.В последние годы интерес к оценке и управлению стоимости фармацевтических компаний увеличивается, это связано с тем, что показатель стоимости - ключевой индикатор, характеризующий эффективность деятельности компании в целом; используется в качестве основного критерия при принятии руководством управленческих решений.Управление стоимостью компании требует понимания и выделения тех факторов, которые сильнее всего оказывают влияние на стоимость компании. Определение ключевых факторов стоимости позволит разработать комплекс мероприятий, направленный на управление и максимизацию рыночной стоимости компании. В совокупности ключевые факторы стоимости &ndash; это те рычаги управления, которые оказывают влияние на эффективность деятельности компании: как на приращение, так и на снижение ее стоимости.На сегодняшний день фармацевтическая промышленность &ndash; это одна из самых сложных отраслей химической индустрии, отличающаяся большим количеством подотраслей и огромными капитальными вложениями, связанными с высоким уровнем затрат на НИОКР, контролем качества, маркетингом и сбытом продукции. Рынок фармацевтической продукции развивается бурными темпами и является одним из самых высокодоходных отраслей современной мировой экономики. В частности, ожидается, что к 2017 году объем мирового фармацевтического рынка увеличится до 127 млрд. дол. по сравнению с 94,4 млрд. дол. в 2013 году.Таким образом, научная проблема исследования заключается в неопределенности состава факторов, влияющих на рост стоимости фармацевтических компаний.Целью представленной выпускной квалификационной работы является выявление ключевых факторов стоимости мировых фармацевтических компаний. В качестве объекта исследования выступает стоимость фармацевтических компаний. Предметом исследования являются финансово-экономические отношения, возникающие в процессе управления стоимостью.В первой главе представлены экономико-теоретические основы управления стоимостью компании. Вторая глава посвящена обзору различных методических подходов к оценке стоимости компании, выявлению их преимуществ и недостатков. В результате проведенного анализа показатель EVA был выбран в качестве наиболее подходящего инструмента для оценки эффективности деятельности фармацевтических компаний.В заключительной, третьей главе, представлены результаты расчета добавленной экономической стоимости за 2013 год для фармацевтической компании Pfizer. Также в данной главе построена эконометрическая модель, выявляющая ключевые факторы стоимости фармацевтических компаний, и проинтерпретированы полученные результаты. Проведенное в работе эконометрическое исследование, направленное на выявление ключевых факторов стоимости, показало, что наиболее значимыми факторами, определяющими успешность функционирования и экономическую привлекательность фармацевтических компаний, являются расходы на НИОКР и изменение отложенных налоговых обязательств, формирующихся за счет инвестиций в нематериальные активы.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/07/1323374087/ВКР_, Арсентьевой И.Э..docx">Текст работы</a>
+			
+				(работа добавлена 7 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (493.73 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

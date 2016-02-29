@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=124378311'>Самоорганизация в поддержании здоровья в современной России</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Бакерина Анна Сергеевна
+				
+			</div>
+			<div class="cell">
+				
+					Самоорганизация в поддержании здоровья в современной России
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/139846">Кордонский Симон Гдальевич</a>
+			</div>
+			<div class="cell">
+				<a href="http://gmu.hse.ru/">Факультет государственного и муниципального управления</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					10
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;"> Взаимодействие граждан, выступающих в роли пациентов, медицинских работников и государства представляет интерес для исследования, особенно в условиях реформирования той среды, где происходит это взаимодействие &ndash; системы здравоохранения. Именно поэтому была выбрана тема работы &laquo;Самоорганизация в поддержании здоровья в современной России&raquo;.В качестве объекта исследования выступает самолечение и его отношения с государственной системой здравоохранения. Что касается предмета изучения, то это самоорганизация населения в поддержании здоровья.Целью исследования является изучение возможных видов и форм самоорганизации населения для поддержания здоровья и получения необходимых медицинских услуг в условиях реформирования и дефицита государственной системы здравоохранения.Для достижения поставленной цели будет необходимо выполнить следующие задачи:&bull; выявить основные направления реформирования государственного здравоохранения за последние десять лет;&bull; оценить изменения объёмов, качества и доступности медицинских услуг для различных категорий населения с учетом территориального расположения;&bull; составить социальный портрет человека, занимающегося самолечением;&bull; собрать дополнительную информацию путём опроса респондентов;&bull; проанализировать все полученные результаты, сделать выводы и предложить возможные рекомендации по исследуемому вопросу на основе проведенного анализа.Гипотеза заключается в том, что часть населения отказывается от государственной медицинской помощи в силу ее низкого качества и трудной доступности.Данная работа основана на анализе научной литературы последних десяти лет и статистических данных последних пятнадцати лет. Проблематика самолечения практически не исследована. В основном существующие исследования являются узкопрофильными, то есть изучают конкретный район или субъект России, самолечение при конкретном заболевании и так далее. Всероссийских масштабных исследований до сих пор проведено не было.В работе использовался структурно-функциональный подход. Был проведен анализ изменения доступности и качества оказываемых населению медицинских услуг. Сбор эмпирической информации проводился на территории Москвы и Московской области. В качестве дополнительной информации использовались данные Федеральной службы государственной статистики и ФГБУ &laquo;ЦНИИОИЗ&raquo; Минздрава России.Гипотеза о том, что часть населения отказывается от государственной медицинской помощи в силу ее низкого качества и трудной доступности, подтвердилась. Помимо общей картины удалось выявить, что в определенных регионах страны население особенно остро ощущает низкий уровень качества и нехватку объемов оказываемой медицинской помощи, а зачастую ее недоступность. В качестве одновременно регулирующей и просветительской меры была предложена реализация концепции ответственного самолечения в России.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/05/30/1325391381/БакеринаАС_ВКР_493.docx">Текст работы</a>
+			
+				(работа добавлена 30 мая 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (199.82 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

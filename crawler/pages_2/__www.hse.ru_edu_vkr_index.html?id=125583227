@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=125583227'>Экономический анализ связи между "спонтанным пессимизмом" и негативными инвестициями в капитал здоровья.</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Габдуллин Зуфар Маратович
+				
+			</div>
+			<div class="cell">
+				
+					Экономический анализ связи между "спонтанным пессимизмом" и негативными инвестициями в капитал здоровья.
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/915797">Розмаинский Иван Вадимович</a>
+			</div>
+			<div class="cell">
+				<a href="http://spb.hse.ru/economics/">Факультет экономики (Санкт-Петербург)</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Выпускная квалификационная работу на тему: &laquo;Экономический анализ связи между &quot;спонтанным пессимизмом&quot; и негативными инвестициями в капитал здоровья&raquo; содержит 6 таблиц. Объем работы составляет 37 страниц. Для написания бакалаврской работы было использовано 30 источников. Ключевые слова: капитал здоровья, &laquo;спонтанный пессимизм&raquo;, факторы, влияющие на инвестиции в капитал здоровья.В настоящее время экономика все активнее начинает пронизывать все области нашей жизни. И вот последние полвека она добралась и до, казалось бы, не касающейся экономики темы, здоровья. Здоровье, а именно капитал здоровья, на данный момент одно из важнейших понятий в области анализирующей человеческий капитал. Разные авторы трактуют его с небольшими расхождениями, но основное остается одинаковым у всех авторов. Капитал здоровья &ndash; это, прежде всего время, в течение которого, экономический агент может использовать свой человеческий капитал. И как в любой капитал, в него можно инвестировать, причем, либо положительно, либо негативно. Положительными инвестициями можно считать все, что в длительном периоде наверняка улучшит наше здоровье. Например, спорт, своевременное обращение к врачу и любые другие методы профилактики большинства заболеваний. В свою очередь негативные инвестиции &ndash; это разнообразные вредные привычки, сидячий образ жизни и все то, что, так или иначе, не ведет к увеличению длительности жизни и, даже более того, ее существенно укорачивают. Основная проблема в том, что отдача от этих инвестиций обычно заметна только в очень и очень длительном периоде. Поэтому, многие люди часто не осознают, как их действия сказываются на их здоровье и более того, могут даже не верить в будущее и пессимистично относиться ко всему, что с ними может произойти в дальнейшем. В таких условиях, когда важен только короткий период, здоровье, естественно, уходит на второй, а то и на последний, по важности для человека, план. Становятся более ощутимой мгновенно получаемая выгода от употребления наркотиков, алкоголя, сигарет. Это и называется &ldquo;Спонтанный пессимизм &rdquo;. Во всяком случае, такова гипотеза моего эмпирического исследования. На самом ли деле это так, пока доподлинно неизвестно, так как это тема еще чрезвычайно слабо исследована. Большинство авторов анализировало влияние вредных привычек на доход, продолжительность жизни или их взаимосвязь с образованием. Что характерно, в большинстве работ не выявлено отрицательного влияния умеренного употребления алкоголя. Я же, в свою очередь, буду исследовать в первую очередь причины, вызывающие отрицательные инвестиции в капитал здоровья.Результатами моего исследования можно считать выявленную закономерность между показателями, олицетворяющими &laquo;спонтанный пессимизм&raquo;, и негативными инвестициями в капитал здоровья. Иными словами, гипотезу, поставленную в начале этого исследования можно считать доказанной. Тем не менее, остаются широкие возможности для проведения дальнейшего исследования. Например, можно собрать данные в большей степени подходящие для данного исследования, а также проанализировать более широкий спектр взаимосвязей, таких как влияние других эффектов на капитал здоровья.Анализируя построенные модели, можно сделать следующие выводы:-на потребление алкоголя и курение весьма существенно влияет самоощущение человека и его уверенность в завтрашнем дне,-чаще всего позитивные инвестиции значимо снижают негативные инвестиции в здоровье. Между ними наблюдается двухсторонняя линейная взаимосвязь,-потреблению алкоголя в большей степени подвержены более молодые люди, тогда как, старшее поколение несколько больше курит. Кроме того, женщины стабильно меньше курят и пьют,-все респонденты показали высокую потребность в сохранности их уровня жизни и источника дохода. То есть чувство защищенности значимо позитивно влияет на накопление капитала здоровья.</div>
+	
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

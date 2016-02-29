@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=124718541'>Роль нематериальной составляющей в системе мотивации персонала организации</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Панфилова Ирина Игоревна
+				
+			</div>
+			<div class="cell">
+				
+					Роль нематериальной составляющей в системе мотивации персонала организации
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/24955025">Гапонова Ольга Сергеевна</a>
+			</div>
+			<div class="cell">
+				<a href="http://nnov.hse.ru/management/">Факультет менеджмента (Нижний Новгород)</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					8
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Ключевые слова: мотивация, нематериальные стимулы, стимулирование работников, потребности, мотивы.В последнее время мотивации персонала уделяется большое внимание. Теоретики изучают происхождение мотивов и стимулов разного рода, анализируют человеческие потребности и пытаются выстроить их универсальную иерархию. Сегодня, главным конкурентным преимуществом компаний становятся люди. Сотрудники организаций, работая эффективно, способны вывести предприятие на качественно новый уровень и улучшить его положение в бизнес-среде.Нематериальная составляющая системы мотивации становится все более важной в настоящее время. Сейчас, кандидаты на вакансии выбирают компанию не только из материальных соображений. На первый план выходят потребности в самореализации и хороший морально-психологический климат, возможность проявлять инициативу и справедливые решения руководства. Компания, способная предоставить такие нематериальные блага, добивается лидерских позиций на международной арене, благодаря лояльности её сотрудников.Цель работы: описать нематериальные стимулы, воздействующие на сотрудников HR-отдела компании &laquo;Алиди&raquo; и разработать рекомендации по улучшению нематериальной системы мотивации персонала отдела.Для достижения цели были выполнены следующие задачи:&bull; Уточнить понятие нематериальной мотивации;&bull; Описать существующую систему нематериального стимулирования сотрудников HR-отдела компании &laquo;Алиди&raquo;;&bull; Продиагностировать мотивационный климат в отделе по работе с персоналом компании &laquo;Алиди&raquo;;&bull; Выработать предложения по совершенствованию системы нематериального стимулирования сотрудников исследуемого отдела.В ходе исследования были подтверждены следующие гипотезы:1) ООО предприятие &laquo;Алиди&raquo; использует как материальные, так и нематериальные стимулы, воздействующие на удовлетворенность работой сотрудников.2) Наличие нематериальных стимулов, побуждающих сотрудников к активной деятельности, является значимым компонентом формирования лояльности работников.3) Система нематериального стимулирования сотрудников HR-отдела &laquo;Алиди&raquo; развита слабо. Сотрудники готовы поменять место работы при наличии более выгодного предложения.Для реализации гипотез и достижения цели были применены слудующие методы исследования: стандартизированное интервью с руководителем HR-отдела, индивидуальное анкетирование работников отдела, анализ действующей документации ООО предприятие &laquo;Алиди&raquo;.По результатам исследования было выявлено, что в организации имеются значительные резервы в области усовершенствования системы нематериальной мотивации для сотрудников HR-отдела.Были предложены следующие меры по совершенствованию системы нематериального стимулирования работников отдела:&middot; Профессиональные конкурсы как способ самореализации сотрудников;&middot; Система наставничества как возможность расширить полномочия сотрудников;&middot; Тренинги как способ повышения квалификации и получения навыков;&middot; Система стажировок как возможность получения знаний и опыта;&middot; Семинары как способ повышения уровня лояльности работников;&middot; Присуждение почетных званий за особый вклад в работу отдела;&middot; Оснащение корпоративного портала материалами для самообучения.Для внедрения изменений в систему нематериального стимулирования работников отдела кадров была разработана программа, которая включает в себя комплекс шагов, начиная с принятия решения о совершенствовании системы до её полного внедрения.Шаги программы были последовательно отражены на диаграмме Ганта, которая показывает возможное расположение во времени стадий реализации программы и предположительную дату полного внедрения программы в ООО предприятие &laquo;Алиди&raquo;.Результаты исследования могут быть практически применимы в компании &laquo;Алиди&raquo; для совершенствования системы нематериального стимулирования сотрудников HR-отдела. Предполагается, что реализация разработанной программы изменений поможет повысить лояльность сотрудников к организации и увеличить производительность труда каждого из них. </div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/02/1324945183/Панфилова И.И. Роль нематериальной соста..отивации персонала организации.docx">Текст работы</a>
+			
+				(работа добавлена 2 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (477.85 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=124745270'>Исследование взаимодействия ассоциации бизнес-ангела с предпринимательским сообществом</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Чурбанова Анастасия Владимировна
+				
+			</div>
+			<div class="cell">
+				
+					Исследование взаимодействия ассоциации бизнес-ангела с предпринимательским сообществом
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/445877">Назаров Михаил Геннадьевич</a>
+			</div>
+			<div class="cell">
+				<a href="http://nnov.hse.ru/management/">Факультет менеджмента (Нижний Новгород)</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					8
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">От уровня развития института венчурных инвестиций, частью которого являются бизнес-ангелы, и его интегрированности в бизнес-сообщество зависит развитие экономики региона. Бизнес-ангелы и предприниматели играют важную роль в развитии региональной инновационной системы, их взаимодействие приводит к значительному росту инновационной активности предприятий. Несмотря на то, что в мировой практике данному вопросу уделяют особое внимание, в России проблема взаимоотношения бизнес-ангелов и предпринимательского сообщества является мало изученной.Целью исследования является выявление основных особенностей и проблем взаимодействия бизнес-ангелов с предпринимательским сообществом.Задачи:1) Рассмотреть понятие «региональная инновационная система», ее основные элементы и функции.2) Проанализировать понятия «бизнес-ангел» и «ассоциация бизнес-ангелов», их роли и функции.3) Рассмотреть понятия «предприниматель» и «предпринимательское сообщество», их роли и функции.4) Провести исследование особенностей взаимодействия бизнес-ангелов с предпринимательским сообществом в Нижегородской области.5) Разработать модель взаимодействия бизнес-ангелов с предпринимательским сообществом.Методы, используемые в исследовании: анализ-синтез, личные полуструктурированные интервью, качественный анализ данных.Для того, чтобы проанализировать особенности взаимодействия бизнес-ангелов и предпринимателей в Нижегородской области было проведено поисковое исследование. В ходе исследования были разработаны и проведены гайд-интервью с представителями бизнес-ангелов и предпринимателями. Экспертами выступили 7 представителей бизнес-ангелов и 4 представителя предпринимательского сообщества Нижегородской области.В результате исследования была разработана модель взаимодействия бизнес-ангелов с предпринимательским сообществом. Так, факторами, влияющими на взаимодействие бизнес-ангелов с предпринимательским сообществом являются: национальные особенности, экономическая ситуация в стране и регионе, личные цели бизнес-ангелов и предпринимателей, их точки зрения на пути развития проекта, необходимое количество ресурсов, уровень подготовки команды проекта, уровень компетенций и знаний, уровень предпринимательской культуры, обоюдное соглашение о долях бизнес-ангелов в проекте и сроках выхода, количество потенциальных предпринимателей, количество бизнес-ангелов и ассоциаций бизнес-ангелов, количество перспективных инновационных проектов, уровень подготовки менеджеров проектов, осведомленность об особенностях венчурного финансирования, наличие неформальных венчурных мероприятий в регионе, поддержка бизнес-ангелов и предпринимателей со стороны государства. Основными проблемами во взаимодействии бизнес-ангелов с предпринимательским сообществом являются: нехватка потенциально успешных инновационных проектов, слабые команды проектов, нехватка знаний и компетенций у предпринимателей, малое число ассоциаций бизнес-ангелов в России, трудности в поиске инвестора (для предпринимателей) и сложности в поиске потенциально успешных проектов (для бизнес-ангелов), недостаток информации о потенциальных бизнес-ангелах для инноваторов проектов, нехватка информации об инновационных проектах, успешно проинвестированных бизнес-ангелами, недостаточная проработанность законодательной налоговой базы в вопросах, касающихся бизнес-ангелов, недостаток специалистов в области инновационного бизнеса.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/02/1324971236/ВКР Чурбановой  10М1.docx">Текст работы</a>
+			
+				(работа добавлена 2 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (224.76 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

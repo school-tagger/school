@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=125085495'>Ценностные детерминанты брачного статуса в кросс-национальной перспективе</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Седова Ольга Дмитриевна
+				
+			</div>
+			<div class="cell">
+				
+					Ценностные детерминанты брачного статуса в кросс-национальной перспективе
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/70271">Карабчук Татьяна Сергеевна</a>
+			</div>
+			<div class="cell">
+				<a href="http://soc.hse.ru/">Факультет социологии</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					8
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Исследование нацелено на выявление связи между ценностными ориентациями и брачностью мужчин и женщин до 35 лет в межстрановом сравнении. Особенность исследования заключается в выполнении многоуровневого анализа на данных, при котором оценивается влияние индивидуальных и страновых показателей на брачное положение мужчин и женщин. Для достижения цели исследования были систематизированы теории, объясняющие брачное поведение на уровне индивидов и страновом уровне; выявлены связи между ценностью личной независимости, восприятием гендерных ролей и брачным статусом мужчин и женщин в разных странах мира; установлены связи между доминирующими ценностями и уровнем гендерного равенства в стране и брачным статусом мужчин и женщин; а также дана интерпретация полученных результатов с опорой на теоретические основы. Концепт брачных отношений, как на индивидуальном, так и на страновом уровнях, рассматривается с противоположных точек зрения, подкрепленных определенной теоретической основой. На индивидуальном уровне брак рассматривается, с одной стороны, как союз, основой которого является ресурсная взаимозависимость партнеров, базирующаяся на гендерной специализации труда, с другой стороны, как союз, главной целью которого является развитие и самореализация каждого из партнеров &ndash; так называемый &laquo;дружеский брак&raquo;. На страновом уровне рассматриваются показатели: традиционные ценности, эмансипационные ценности и ценности самовыражения, индекс гендерного равенства. В качестве эмпирической базы работы используется база World Values Survey волна 2005-2007гг., охватывающая 57 стран, находящихся на разных этапах экономического развития, с различными политическими режимами, представляющих собой различные культурные зоны, что позволяет достичь максимального разброса измеряемых на страновом уровне характеристик.Построение регрессионных моделей осуществляется отдельно на выборках мужчин и женщин, что позволяет выявить различия влияния ценностных детерминант в зависимости от гендера. Важно отметить, что модель, корректно отражающая реальность в случае женской выборки, оказалась не подходящей для выборки мужчин. Следовательно, полученные результаты свидетельствуют о том, что ценностные детерминанты в большей мере определяют брачное поведение женщин, чем мужчин. В результате построения моделей с помощью многоуровневой бинарной логистической регрессии были подтверждены гипотезы об увеличении вероятности вступления в брак для женщин до 35 лет в случае доминирования традиционных ценностей на страновом уровне и на индивидуальном уровне. Стремление к независимости и самовыражению снижает вероятность вступления в брак для женщин на индивидуальном уровне и не оказывает влияния на страновом уровне. Можем предположить, что во всех странах превалирует восприятие брака как взаимозависимого союза партнеров, нежели брака как источника независимого развития и самореализации. В качестве продолжения данного исследования, в первую очередь, видится дополнительный теоретический анализ различий ценностных детерминант, определяющих брачное поведение мужчин и женщин с учетом страновых характеристик, разработка инструментария и поиск существующих источников, либо, более масштабный проект, сбор панельных данных на интересующую тематику.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/06/1323476453/Седова Ольга Дмитриевна Ценностные детер..кросс-национальной перспективе.docx">Текст работы</a>
+			
+				(работа добавлена 6 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (197.7 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

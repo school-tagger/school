@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=125518732'>Influence of Embedded Put Options in Corporate Bonds on Liquidity Risk</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Утягулов Ислам Фаридович
+				
+			</div>
+			<div class="cell">
+				
+					Influence of Embedded Put Options in Corporate Bonds on Liquidity Risk
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/495746">Шпренгер Карстен</a>
+			</div>
+			<div class="cell">
+				<a href="http://icef.hse.ru/">Международный институт экономики и финансов</a>
+				<br><div style="padding-top:3px;">(Магистратура)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					8
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Many research papers, dedicated to examining what risk factors affect corporate bond yield spreads came to the conclusion that credit risk determinants cannot fully capture the yield spread variation. Longstaff et al. (2005) suggested that possible solution to this problem is to add illiquidity risk factors to the structural models. The rationale behind this proposition is following: illiquid markets lead to the fact that investors cannot continuously hedge their risk, hence they require additional risk premium by lowering prices.Chen et al. (2007), Dick-Nielsen et al. (2012) and other research papers proposed different illiquidity measures, which coupled with credit risk determinants and macro-variables can more comprehensively capture the yield spread variation.In our paper we want to investigate what risk factors are priced in Russian corporate bonds using panel data techniques, because most of the papers written on similar topics confirm the importance of liquidity risk in pricing securities (see e.g. Bao, Pan &amp; Wang (2011); Chen et al. (2007); Dick-Nielsen, Feldhutter &amp; Lando (2012)), however there is more recent research done by Grass &amp; Ward (2012), which is in direct contrast with papers mentioned just before. Our findings confirm that liquidity risk matters in corporate bonds pricing in Russia. Results stay robust after controlling for various risk factors including credit risk determinants, aggregated macro variables and proxies of systematic risk in the economy.Interesting characteristic of most corporate bonds issued by Russian companies is that bonds contains both put and call options. Put option gives its holder the right to sell the bonds back to the issuer at predetermined price (usually price is close to par) and dates in the future before the maturity. Since the holder of the issue has the right to sell before the maturity, these options provide insurance against risk factors discussed above. However call feature of Russian corporate bonds consists in the right of issuer to change the coupon rate at the date close to the put exercise date at his discretion. We find an evidence that bonds containing both put and call options are not simply the regular bonds with maturity date equal to the first put exercise date. Results of regression analysis indicates that such bonds trade on average with additional risk premium of 150 basis points compared to the yield spreads of regular bonds with no options.Despite the fact that a lot of research effort was dedicated in studying callable and convertible corporate bond issues, only in few papers authors examined puttable bonds. For example, Ericsson et al. (2011) discovered in what ways embedded put option influence various risk factors. That is why it is interesting to see whether embedded put options have influence on liquidity risk. We find no evidence that such embedded options in Russian corporate bonds can provide an insurance against various risk factors. Besides following the methodology proposed in Ericsson et al. (2011) we find that correlations of risk factors with yield spread of bond with options is more pronounced than for regular bond&rsquo;s yield spread. However this particular analysis was done using only 26 matched pairs of bonds, hence results may be not so strong.Also in our work we investigate one additional issue of whether liquidity was priced more heavily during recent financial crisis than afterwards. We follow the methodology proposed in Dick-Nielsen (2012) and find evidence that liquidity component has bigger impact on yield spreads during financial crisis than afterwards. In addition we run separate regressions for investment grade and speculative bonds and observe that influence of illiquidity component in speculative bonds is almost three times bigger than in investment grade bonds!This paper contributes to the debate of bond market liquidity and corporate bond yield spreads. Our findings that liquidity risk matters for pricing corporate bonds in Russia are consistent with recent research papers. Second, we examine the influence of embedded options on yield spreads and find that yields of bond with options are on average higher by 150 basis points than yields of regular bonds. Finally, we confirm the hypothesis that liquidity was priced more heavily during the recent financial crisis and show that influence of liquidity is increasing drastically when credit rating deteriorates. Research is particularly urgent because most of Russian corporate bonds contain embedded options.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/11/1324171614/master_thesis_Utyagulov_Islam.pdf">Текст работы</a>
+			
+				(работа добавлена 11 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/pdf.gif"> (1545.79 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

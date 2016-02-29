@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=124651880'>Закупки, осуществляемые бюджетными учреждениями. Выбор между законодательством о контрактной системе и Федеральным законом от 18.07.2011 №223-ФЗ</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Слюсарев Алексей Юрьевич
+				
+			</div>
+			<div class="cell">
+				
+					Закупки, осуществляемые бюджетными учреждениями. Выбор между законодательством о контрактной системе и Федеральным законом от 18.07.2011 №223-ФЗ
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/4556979">Кнутов Александр Владимирович</a>
+			</div>
+			<div class="cell">
+				<a href="http://gmu.hse.ru/">Факультет государственного и муниципального управления</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					8
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Тема: &laquo;Закупки, осуществляемые бюджетными учреждениями. Выбор между законодательством о контрактной системе и Федеральным законом от 18.07.2011 №223-ФЗ&raquo;.Данная работа направлена на решение проблемы выбора, возникающей перед бюджетными учреждениями в отношении законодательного применения. Структура дипломной работы представлена введением, тремя главами, заключением, списком литературы и двумя приложениями.После вступления в силу Федерального закона от 05.04.2013 г. № 44 &laquo;О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд&raquo; (далее &ndash; Закон 44-ФЗ), бюджетные учреждения РФ вправе будут регулировать осуществление своих закупок либо по нормам Закона 44-ФЗ, либо по принятому 18.07.2011 г. Федеральному закону № 223-ФЗ &laquo;О закупках товаров, работ, услуг отдельными видами юридических лиц&raquo; (далее Закон 223-ФЗ).Главная цель работы это определение степени эффективности законодательного регулирования закупок бюджетных учреждений и формулирование рекомендаций о предпочтительной системе нормативно-правового регулирования закупочной деятельности (система государственных закупок или система корпоративных закупок) для таких субъектов.Для достижения данной цели были решены следующие задачи:&middot; проанализированы особенности правового статуса бюджетных учреждений для определения причин особого регулирования их закупочной деятельности по сравнению с иными юридическими лицами;&middot; проведен анализ законодательства относительно регулирования закупочной деятельности бюджетных учреждений в соответствии с нормами Закона 94-ФЗ, Закона 44-ФЗ и Закона 223-ФЗ;&middot; выявлены основные преимущества Закона 223-ФЗ по сравнению с Законом 44-ФЗ;&middot; оценен положительный эффект от перехода бюджетного учреждения к регулированию закупочной деятельности нормами Закона 223-ФЗ;&middot; осуществлен мониторинг практики закупок бюджетными учреждениями на основе конкретных организаций;&middot; сформулированы выводы о степени эффективности законодательного регулирования закупок бюджетных учреждений на основе полученных результатов.Объектом исследования были выбраны бюджетные учреждения в сфере образования. Предметом исследования выступало применения норм законов 94-ФЗ, 44-ФЗ и 223-ФЗ в отношении бюджетных учреждений.На основании результатов сделаны следующие выводы:&middot; Закон 223-ФЗ способствует использованию неконкурентных способов проведения закупок образовательными бюджетными учреждениями;&middot; применение обоих законов показало равный уровень относительной конкуренции; &middot; переход на корпоративные закупки не приводит к заключению контрактов по более высоким ценам (наоборот результаты исследования, проведенного автором, демонстрируют, что экономия при закупках на основании Закона № 223-ФЗ даже выше, чем при аналогичных закупках по Закону № 44-ФЗ).</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/02/1324878778/ВКР Слюсарев Алексей Юрьевич.docx">Текст работы</a>
+			
+				(работа добавлена 2 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (128.85 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

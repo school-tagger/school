@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=123281643'>Политический фрейминг в процессе принятия решений (на примере регулирования биотехнологий в ЕС)</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Новиков Александр Александрович
+				
+			</div>
+			<div class="cell">
+				
+					Политический фрейминг в процессе принятия решений (на примере регулирования биотехнологий в ЕС)
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/10444822">Мельвиль Андрей Юрьевич</a>, 
+			
+				Бусыгина Ирина Марковна
+			</div>
+			<div class="cell">
+				<a href="http://fpp.hse.ru/">Факультет прикладной политологии</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					8
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Исследовательская работа рассматривает явление политического фрейминга во время процесса принятия решений (policy making) на примере кейса регулирования биотехнологий в Европейском Союзе в 1980-2000х годах. В центре изучаемого кейса лежит противостояние между сторонниками «экономического» (превентивная модель) и «экологического» (проактивная модель) подходов к регулированию биотехнологий, развернувшееся внутри Европейской Комиссии между генеральными директоратами по развитию индустрии и защите окружающей среды. Данный период характеризовался сильными и резкими сдвигами в выработке политического курса, его непостоянством, несмотря на высоко институционализированную среду – это является проблемой нашего исследования. Целью данного исследование является оценка роли политического фрейминга во время принятия решений. Чтобы достичь данной цели, мы ставим следующие задачи:1.Изучить существующую литературу по предметам policy making и политического фрейминга;2.Описать теорию прерывистого равновесия (PET)3.Проанализировать особенности принятия решений в ЕС и роль Комиссии;4.Рассмотреть кейс регулирования биотехнологий в ЕС;5.Выделить фреймы конкурирующих интересов;6.Сформулировать возможные факторы влияния на policy making в ЕС;7.Построить схему процесса проведения политического курса;8.Обозначить роль политического фрейминга в процессе принятия решений.Для объяснения роли фрейминга в процессе принятия решений использовалась теория прерывистого равновесия (Punctuated Equilibrium Theory). Данный теоретический подход связывает резкие изменения политического курса с ограниченной рациональностью органа, принимающего решения, проблемами внутренней координации и распределением информации. Последнее объединяет данный теоретический подход с теорией политического фрейминга. Политический фрейминг (policy framing) – это акцентирование внимание лиц, принимающих решение на отдельной стороне политической проблемы с целью управления повесткой дня и принятия наиболее выгодного решения. Принимая во внимание фактор ограниченной рациональности – неспособность органа, принимающего решения, одновременно оценить вопрос с разных точек зрения – фрейминг способен менять структура предпочтений акторов.Чтобы проанализировать роль политического фрейминга, мы подробно рассмотрели изменения в курсе биотехнологического регулирования и фрейминг альтернатив директоратами. В результате работы мы пришли к следующему выводу: постановка на повестку дня нового измерения политического вопроса (т.е. фрейма) может изменить расстановку сил и исход принятия решения при том, что институциональная структура и набор акторов внутри политической системы не изменятся. Институты ЕС, ответственные за принятие предлагаемых Комиссией директив (Парламент и Совет), будучи неспособными оценить политическую проблему регулирования со всех ракурсов ввиду ограниченной рациональности, вынуждены были воспринимать ее исходя из предложенных им фреймов. Привнесение нового измерения (рефрейминг) в спор о регулировании биотехнологий генеральным директоратом по защите окружающей среды - защиты прав потребителей - лишило сторонников "экономического" подхода средств аргументации. Таким образом, можно говорить о роли политического фрейминга в процессе принятия решений: фрейминг может быть использован в качестве инструмента политической борьбы для продвижения интересов.Из проделанной работы можно вывести одно важное следствие: нельзя говорить о том, что позиции всех акторов по некоторому вопросу четко зафиксированы. Данный факт предлагает обращать более пристально внимание на возможность изменения предпочтений акторов, принимающих решения, в случае рефрейминга политического вопроса. Например, при формальном моделировании парламентских голосований следует учитывать фрейм, используемый инициатором голосования. Так, голосование по одному и тому же с точки зрения изменений в законодательстве вопросу может привести к разным результатам в зависимости от выбранного фрейма при постановке вопроса на повестку дня.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/05/17/1322197561/Dissertation antiplagiat.docx">Текст работы</a>
+			
+				(работа добавлена 17 мая 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (152.33 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

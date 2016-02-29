@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=125138044'>Факторы успешности продвижения сообщения в социальной сети (на примере сообщений о конфликте В. Соловьева и Ю. Архиповой)</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Киракосова Таисия Завеновна
+				
+			</div>
+			<div class="cell">
+				
+					Факторы успешности продвижения сообщения в социальной сети (на примере сообщений о конфликте В. Соловьева и Ю. Архиповой)
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/7531133">Зангиева Ирина Казбековна</a>
+			</div>
+			<div class="cell">
+				<a href="http://soc.hse.ru/">Факультет социологии</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					8
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">На сегодняшний день информационные потоки в социальных медиа являются значимыми для течения различных общественных процессов и явлений. Для социологии в рамках данной области интересны взаимодействия между пользователями на подобных сайтах, а также та роль, которую социальные медиа (в качестве информационного и социально мобилизирующего ресурса) оказывают на общественные события. Поскольку важность процессов информационного обмена является неоспоримой, возникает вопрос о том, каким именно образом происходят эти обмены и какие факторы детерминируют эти процессы.Данная работа посвящена факторам успешности продвижения сообщения в социальных сетях, таких как &laquo;Facebook&raquo; и &laquo;Вконтакте&raquo;. В данном случае под термином &laquo;успешность продвижения&raquo; понимается то, насколько популярной стала запись (количество собранных &laquo;лайков&raquo;) и насколько она распространилась дальше по сетям социальных связей (количество &laquo;репостов&raquo;). Из анализа предыдущих исследований было выявлено, что на данный момент существуют два основных подхода к прогнозированию успешности продвижения записей в социальных сетях. Первый &ndash; с точки зрения структуры и контента сообщения, и в рамках этого направления было определено, что значимым является лишь медиа-тип (наличие у поста сторонних ссылок, фотографий, видеозаписей). Второй - теория &laquo;влиятельных сторонников&raquo;, которая устанавливает, что на успешность продвижения сообщения обусловлена размещением её у конкретных &laquo;влиятельных пользователей&raquo;. Однако остается неочевидным, какие именно факторы наибольшим образом определяют успешность поста: его медиа-тип или характеристики пользователя. Целью данной работы является сравнение степени влияния на продвижение сообщение двух типов факторов (медиа-типа сообщения и характеристик пользователя, разместившего его).Для достижения поставленной цели был выполнен следующий ряд задач:1. Определить список значимых детерминант из уже рассмотренных ранее в исследовательских работах факторов успешности продвижения сообщения;2. Обосновать выбор темы для сбора сообщений, подходящую для анализа;3. Определить, какие характеристики пользователей и медиа-типа сообщения являются значимыми для его распространенности (количества &laquo;репостов&raquo; записи);4. Определить, какие характеристики пользователей и медиа-типа сообщения являются значимыми для его популярности (количества &laquo;лайков&raquo; записи);5. Сопоставить факторы, являющиеся значимыми для распространенности сообщения (количества его &laquo;репостов&raquo;) и его популярности (количества &laquo;лайков&raquo;); За основу анализа была взята база сообщений из социальной сети &laquo;Вконтакте&raquo;, посвященная конфликту В. Соловьева и студентки НИУ ВШЭ Ю. Архиповой. Общий объем базы составил 1466 сообщений. Процесс анализа данных включал в себя построение дифференцированных множественных регрессий для двух параметров &laquo;успешности продвижения&raquo; сообщения: &laquo;популярности&raquo; и &laquo;распространенности&raquo; записи. Также, отдельные модели строились для каждой группы факторов: медиа-типа сообщения и характеристик пользователей, разместивших запись. Что касается выводов исследования, то в результате данной работы было выявлено, что &laquo;теория влиятельных сторонников&raquo;, в сравнении с медиа-типом сообщения, имеет значительно большие предсказательные возможности. Однако данные результаты были получены в результате анализа одного кейса, которые относится</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/06/1323529902/Киракосова Таисия Завеновна_ВКР.doc">Текст работы</a>
+			
+				(работа добавлена 6 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (1066.5 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

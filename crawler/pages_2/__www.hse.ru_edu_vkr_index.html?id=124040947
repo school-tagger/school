@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=124040947'>Формы визуализации данных на сайтах российских информационных агентств: проблемы и перспективы</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Гусев Андрей Викторович
+				
+			</div>
+			<div class="cell">
+				
+					Формы визуализации данных на сайтах российских информационных агентств: проблемы и перспективы
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/11730611">Лапина-Кратасюк Екатерина Георгиевна</a>
+			</div>
+			<div class="cell">
+				<a href="http://mediacom.hse.ru/">Факультет медиакоммуникаций</a>
+				<br><div style="padding-top:3px;">(Магистратура)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Гусев А. В., гр. 744ж,Факультет медиакоммуникацийФормы визуализации данных на сайтах российских информационных агентств: проблемы и перспективыАннотацияДанная магистерская диссертация посвящена изучению перспектив и проблем визуализации данных на сайтах российских информационных агентств (на примере таких информационных агентств, как РИА Новости, ИТАР-ТАСС и РБК). Цель исследования &ndash; выявить ключевые проблемы использования визуализации данных на сайтах российских информационных агентств.Гипотезой нашего исследования стало предположение, что, несмотря на достаточно активное внедрение визуализации информации на сайты информационных агентств в России, ее возможности используются неэффективно, что в итоге не облегчает, а, напротив, усложняет восприятие информации за счет нагромождения визуальных элементов.В ходе работы были использованы как теоретические, так и эмпирические методы исследования. В теоретической части проведен анализ исследовательской литературы, выявлены основные концепции, проведен сравнительный анализ разных подходов к визуализации данных. В эмпирической части работы проведен визуальный анализ инфографики сайтов, основанный на категориях, определенных в ходе теоретического анализа. В качестве дополнительного метода исследования использован метод типологизации, а также метод анкетирования, который использовался для изучения восприятия пользователей. В соответствии с поставленными задачами, мы изучили основные подходы к понятиям Big Data и визуализация данных; определили наиболее распространенные на информационных ресурсах формы визуализации данных и их функции; сформулировали понятие инфографики, описали ее свойства и функции как одного из способов визуализации данных; проанализировали формы визуализации данных на сайтах российских информационных агентств - ИТАР-ТАСС, РИА Новости, РБК; выработали типологию визуализации данных, на основании которой провели исследование восприятия визуализации пользователями; сформулировали основные проблемы визуализации данных. Мы выделили такие типы визуализации, как моно-визуализация (или псевдо-визуализация) &ndash; состоит из двух элементов, где главным зачастую является текст; однонаправленная визуализация &ndash; состоит из нескольких элементов, где разные элементы служат для развития одной и той же темы, для ее детализации и более глубокого погружения; размытая визуализация - различные элементы служат для визуализации совершенно разных тем в одной инфографике; а также интерактивная визуализация. Анкетирование пользователей было произведено на основе данной типологии с целью выяснить, насколько эффективен тот или иной тип визуализации при восприятии пользователями, то есть понять, насколько каждый пример понятен, легок в использовании, информативен, эмоционален и эстетичен.В итоге выдвинутая в начале исследования гипотеза подтвердилась частично. С одной стороны мы выявили с помощью анализа конкретных примеров и анкетирования пользователей, что визуализация действительно используется неэффективно. Однако с другой стороны неэффективность объясняется не только нагромождением визуальных элементов и усложнением восприятия, как в случае с однонаправленной визуализацией, но и, наоборот, перекосом в сторону упрощения структуры, удобства и простоты использования в ущерб дизайну и информативности визуализации.</div>
+	
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

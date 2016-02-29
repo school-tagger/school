@@ -1,0 +1,771 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+
+
+
+		<div class="main-form">
+			<form action="" name="cform">
+				<div class="main-title">Выпускные квалификационные работы студентов НИУ ВШЭ</div>
+				<ul class="form-list">
+
+					<li>
+						<label for="courses-faculty">Кампус / факультет:</label>
+						<select id="courses-faculty" name="faculty">
+						
+							
+								<option value="" >Все</option>
+							
+						
+							
+								<option value="branch22723"  style="background-color:#EEEEFF; color: #000000;">НИУ ВШЭ - Москва (без МИЭМ)</option>
+							
+						
+							
+								<option value="263451" >&nbsp;&nbsp;Банковский институт</option>
+							
+						
+							
+								<option value="30114029" >&nbsp;&nbsp;Высшая школа урбанистики имени А.А. Высоковского</option>
+							
+						
+							
+								<option value="61470229" >&nbsp;&nbsp;Институт образования</option>
+							
+						
+							
+								<option value="261615" >&nbsp;&nbsp;Кафедра демографии</option>
+							
+						
+							
+								<option value="5564494" >&nbsp;&nbsp;Международный институт экономики и финансов</option>
+							
+						
+							
+								<option value="13424429" >&nbsp;&nbsp;Отделение востоковедения</option>
+							
+						
+							
+								<option value="104572" >&nbsp;&nbsp;Отделение интегрированных коммуникаций</option>
+							
+						
+							
+								<option value="57532" >&nbsp;&nbsp;Отделение культурологии</option>
+							
+						
+							
+								<option value="67595" >&nbsp;&nbsp;Отделение прикладной математики и информатики</option>
+							
+						
+							
+								<option value="67598" >&nbsp;&nbsp;Отделение программной инженерии</option>
+							
+						
+							
+								<option value="1031473" >&nbsp;&nbsp;Отделение статистики, анализа данных и демографии</option>
+							
+						
+							
+								<option value="143571564" >&nbsp;&nbsp;Факультет бизнеса и менеджмента</option>
+							
+						
+							
+								<option value="22744" >&nbsp;&nbsp;Факультет бизнес-информатики</option>
+							
+						
+							
+								<option value="136394" >&nbsp;&nbsp;Факультет государственного и муниципального управления</option>
+							
+						
+							
+								<option value="139191145" >&nbsp;&nbsp;Факультет гуманитарных наук</option>
+							
+						
+							
+								<option value="88833136" >&nbsp;&nbsp;Факультет дизайна</option>
+							
+						
+							
+								<option value="13307788" >&nbsp;&nbsp;Факультет истории</option>
+							
+						
+							
+								<option value="119384956" >&nbsp;&nbsp;Факультет коммуникаций, медиа и дизайна</option>
+							
+						
+							
+								<option value="120026365" >&nbsp;&nbsp;Факультет компьютерных наук</option>
+							
+						
+							
+								<option value="1265499" >&nbsp;&nbsp;Факультет логистики</option>
+							
+						
+							
+								<option value="269069" >&nbsp;&nbsp;Факультет математики</option>
+							
+						
+							
+								<option value="31771898" >&nbsp;&nbsp;Факультет медиакоммуникаций</option>
+							
+						
+							
+								<option value="61538" >&nbsp;&nbsp;Факультет менеджмента</option>
+							
+						
+							
+								<option value="22750" >&nbsp;&nbsp;Факультет мировой экономики и мировой политики</option>
+							
+						
+							
+								<option value="22753" >&nbsp;&nbsp;Факультет права</option>
+							
+						
+							
+								<option value="22756" >&nbsp;&nbsp;Факультет прикладной политологии</option>
+							
+						
+							
+								<option value="22747" >&nbsp;&nbsp;Факультет психологии</option>
+							
+						
+							
+								<option value="122842106" >&nbsp;&nbsp;Факультет социальных наук</option>
+							
+						
+							
+								<option value="22738" >&nbsp;&nbsp;Факультет социологии</option>
+							
+						
+							
+								<option value="27989095" >&nbsp;&nbsp;Факультет филологии</option>
+							
+						
+							
+								<option value="22762" >&nbsp;&nbsp;Факультет философии</option>
+							
+						
+							
+								<option value="22735" >&nbsp;&nbsp;Факультет экономических наук</option>
+							
+						
+							
+								<option value="branch59315150"  style="background-color:#EEEEFF; color: #000000;">НИУ ВШЭ - Москва (только МИЭМ)</option>
+							
+						
+							
+								<option value="59315150" >&nbsp;&nbsp;Московский институт электроники и математики</option>
+							
+						
+							
+								<option value="61217586" >&nbsp;&nbsp;Факультет информационных технологий и вычислительной техники</option>
+							
+						
+							
+								<option value="61217635" >&nbsp;&nbsp;Факультет прикладной математики и кибернетики</option>
+							
+						
+							
+								<option value="61217405" >&nbsp;&nbsp;Факультет электроники и телекоммуникаций</option>
+							
+						
+							
+								<option value="branch135288"  style="background-color:#EEEEFF; color: #000000;">НИУ ВШЭ - Нижний Новгород</option>
+							
+						
+							
+								<option value="57954166" >&nbsp;&nbsp;Факультет гуманитарных наук (Нижний Новгород)</option>
+							
+						
+							
+								<option value="135303" >&nbsp;&nbsp;Факультет информатики, математики и компьютерных наук (Нижний Новгород)</option>
+							
+						
+							
+								<option value="135294" >&nbsp;&nbsp;Факультет менеджмента (Нижний Новгород)</option>
+							
+						
+							
+								<option value="135342" >&nbsp;&nbsp;Факультет подготовки, переподготовки и повышения квалификации специалистов (Нижний Новгород)</option>
+							
+						
+							
+								<option value="135297" >&nbsp;&nbsp;Факультет права (Нижний Новгород)</option>
+							
+						
+							
+								<option value="135300" >&nbsp;&nbsp;Факультет экономики НИУ ВШЭ (Нижний Новгород)</option>
+							
+						
+							
+								<option value="branch135213"  style="background-color:#EEEEFF; color: #000000;">НИУ ВШЭ - Пермь</option>
+							
+						
+							
+								<option value="91519646" >&nbsp;&nbsp;Социально-гуманитарный факультет (Пермь)</option>
+							
+						
+							
+								<option value="135222" >&nbsp;&nbsp;Факультет менеджмента (Пермь)</option>
+							
+						
+							
+								<option value="12895325" >&nbsp;&nbsp;Факультет экономики, менеджмента и бизнес-информатики</option>
+							
+						
+							
+								<option value="135225" >&nbsp;&nbsp;Факультет экономики (Пермь)</option>
+							
+						
+							
+								<option value="branch135083"  style="background-color:#EEEEFF; color: #000000;">НИУ ВШЭ - Санкт-Петербург</option>
+							
+						
+							
+								<option value="46566943" >&nbsp;&nbsp;Магистерская программа "Управление образованием" (Санкт-Петербург)</option>
+							
+						
+							
+								<option value="261535" >&nbsp;&nbsp;Отделение прикладной политологии (Санкт-Петербург)</option>
+							
+						
+							
+								<option value="133639230" >&nbsp;&nbsp;Санкт-Петербургская школа социальных и гуманитарных наук</option>
+							
+						
+							
+								<option value="133639270" >&nbsp;&nbsp;Санкт-Петербургская школа экономики и менеджмента</option>
+							
+						
+							
+								<option value="135089" >&nbsp;&nbsp;Факультет менеджмента (Санкт-Петербург)</option>
+							
+						
+							
+								<option value="135095" >&nbsp;&nbsp;Факультет экономики (Санкт-Петербург)</option>
+							
+						
+							
+								<option value="135098" >&nbsp;&nbsp;Юридический факультет (Санкт-Петербург)</option>
+							
+						
+						</select>
+					</li>
+
+
+					<li>
+						<label for="courses-author">ФИО студента:</label>
+						<input id="courses-author" type="text" name="author" value="" />
+					</li>
+
+					<li>
+						<label for="courses-supervisor">Научный руководитель:</label>
+						<input id="courses-supervisor" type="text" name="supervisor" value="" />
+					</li>
+
+					<li>
+						<label for="courses-title">Год защиты:</label>
+						<select id="courses-faculty" name="year">
+						<option value="" >Все</option><option value="2016" >2016</option><option value="2015" >2015</option><option value="2014" >2014</option><option value="2013" >2013</option>
+						</select>
+					</li>
+
+					<li>
+						<label for="courses-title">Название работы или часть названия:</label>
+						<input id="courses-title" type="text" name="title" value="" />
+					</li>
+
+					<li>
+						<label for="courses-title">Уровень образования:</label>
+						<div class="options-container">
+						
+						<div>
+							<input style="margin-top: -3px;" id="elevel1" type="radio" name="level" value ="1" >
+							<label for="elevel1">бакалавриат</label>
+						</div>
+						
+						<div>
+							<input style="margin-top: -3px;" id="elevel2" type="radio" name="level" value ="2" >
+							<label for="elevel2">магистратура</label>
+						</div>
+						
+						<div>
+							<input style="margin-top: -3px;" id="elevel0" type="radio" name="level" value ="0" checked>
+							<label for="elevel0">не важно</label>
+						</div>
+						
+						</div>
+					</li>
+
+					<li>
+						<label for="courses-title">Оценка:</label>
+						<select id="courses-faculty" name="rating">
+						<option value="" >Не имеет значения</option><option value="7" >От 7 баллов</option><option value="8" >От 8 баллов</option><option value="9" >От 9 баллов</option><option value="10" >10 баллов</option>
+						</select>
+					</li>
+
+					
+					<li>
+						<label for="courses-title">Доступен полный текст:</label>
+						<select id="courses-textAvailable" name="textAvailable">
+						<option value="0" >Не имеет значения</option><option value="2" selected>Да</option><option value="1" >Нет</option>
+						</select>
+					</li>
+					
+
+
+
+  					<li>
+						<label for="courses-title">Язык:</label>
+						<div class="options-container">
+						
+						<div>
+							<input style="margin-top: -3px;" id="elevel" type="radio" name="lang" value="" checked>
+							<label for="elevel">Все</label>
+						</div>
+						
+						<div>
+							<input style="margin-top: -3px;" id="elevelru" type="radio" name="lang" value="ru" >
+							<label for="elevelru">Русский</label>
+						</div>
+						
+						<div>
+							<input style="margin-top: -3px;" id="elevelen" type="radio" name="lang" value="en" >
+							<label for="elevelen">Английский</label>
+						</div>
+						
+						</div>
+					</li>
+
+					</ul>
+				<button class="courses-search-button" type="submit" value="Search" onclick="document.cform.submit();">Поиск</button>
+			</form>
+		</div><!-- main-form -->
+		<div class="single information">
+			<ul class="simple-links-list"><!-- menu -->
+			
+			</ul>
+			<div class="info-block"></div>
+			
+		</div><!--single-->
+
+	
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		<p class="no-result">Всего по вашему запросу работ <b>3462</b></p>
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 3462 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					<a href="?id=74148830">Коротков Александр Владимирович</a>
+				
+			</div>
+			<div class="cell">
+				
+				<a href="?id=74148830">Audit of the information system of document circulation for the oil and gas industry</a>
+				
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell">
+				<a href="http://www.hse.ru/org/hse/bi/">Факультет бизнес-информатики</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+			</div>
+			<div class="cell centered">2013</div>
+		</div><!-- items row -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					<a href="?id=84350835">Коротков Александр Владимирович</a>
+				
+			</div>
+			<div class="cell">
+				
+				<a href="?id=84350835">Аудит информационной системы документооборота для предприятий нефтегазовой отрасли</a>
+				
+			</div>
+			<div class="cell">
+				Кондратьев Александр Васильевич
+			</div>
+			<div class="cell">
+				<a href="http://www.hse.ru/org/hse/bi/">Факультет бизнес-информатики</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+			</div>
+			<div class="cell centered">2013</div>
+		</div><!-- items row -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					<a href="?id=84961539">Коротыч Михаил Васильевич</a>
+				
+			</div>
+			<div class="cell">
+				
+				<a href="?id=84961539">Экономическая эффективность методов несовершенного хеджирования финансовых опционов</a>
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/26527205">Назарова Варвара Вадимовна</a>
+			</div>
+			<div class="cell">
+				<a href="http://spb.hse.ru/economics/">Факультет экономики (Санкт-Петербург)</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					8
+				
+			</div>
+			<div class="cell centered">2013</div>
+		</div><!-- items row -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					<a href="?id=83805203">Корытова Вера Сергеевна</a>
+				
+			</div>
+			<div class="cell">
+				
+				<a href="?id=83805203">Влияние экологического регулирования ЕС на стратегии стальных компаний</a>
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/134532">Савельев Олег Владимирович</a>
+			</div>
+			<div class="cell">
+				<a href="http://we.hse.ru/">Факультет мировой экономики и мировой политики</a>
+				<br><div style="padding-top:3px;">(Магистратура)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					10
+				
+			</div>
+			<div class="cell centered">2013</div>
+		</div><!-- items row -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					<a href="?id=84501288">Корюкина Елена Вячеславовна</a>
+				
+			</div>
+			<div class="cell">
+				
+				<a href="?id=84501288">Оценка влияния вступления России в ВТО на экспорт продукции металлургической отрасли</a>
+				
+			</div>
+			<div class="cell">
+				Ревин Вячеслав Николаевич
+			</div>
+			<div class="cell">
+				<a href="http://we.hse.ru/">Факультет мировой экономики и мировой политики</a>
+				<br><div style="padding-top:3px;">(Магистратура)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					7
+				
+			</div>
+			<div class="cell centered">2013</div>
+		</div><!-- items row -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					<a href="?id=86476107">Косов Степан Андреевич</a>
+				
+			</div>
+			<div class="cell">
+				
+				<a href="?id=86476107">Влияние структуры капитала на выбор стратегии развития: M&A vs органический рост</a>
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/65943">Пирогов Никита Константинович</a>
+			</div>
+			<div class="cell">
+				<a href="http://icef.hse.ru/">Международный институт экономики и финансов</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					8
+				
+			</div>
+			<div class="cell centered">2013</div>
+		</div><!-- items row -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					<a href="?id=83945235">Костенко Елизавета Дмитриевна</a>
+				
+			</div>
+			<div class="cell">
+				
+				<a href="?id=83945235">Современные тенденции государственного управления инновационными кластерами</a>
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/66291">Розанова Надежда Михайловна</a>
+			</div>
+			<div class="cell">
+				<a href="http://gmu.hse.ru/">Факультет государственного и муниципального управления</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					10
+				
+			</div>
+			<div class="cell centered">2013</div>
+		</div><!-- items row -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					<a href="?id=85038237">Костенко Наталья Андреевна</a>
+				
+			</div>
+			<div class="cell">
+				
+				<a href="?id=85038237">Цена и ценность на рынке современного искусства: экономико-социологический анализ</a>
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/260795">Павлюткин Иван Владимирович</a>
+			</div>
+			<div class="cell">
+				<a href="http://soc.hse.ru/">Факультет социологии</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					10
+				
+			</div>
+			<div class="cell centered">2013</div>
+		</div><!-- items row -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					<a href="?id=84993705">Костомарова Ольга Сергеевна</a>
+				
+			</div>
+			<div class="cell">
+				
+				<a href="?id=84993705">Исследование микрополоскового фильтра на встречных шпилечных резонаторах</a>
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/47634419">Елизаров Андрей Альбертович</a>
+			</div>
+			<div class="cell">
+				<a href="http://miem.hse.ru/edu/fet/">Факультет электроники и телекоммуникаций</a>
+				<br><div style="padding-top:3px;">(Специалитет)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					8
+				
+			</div>
+			<div class="cell centered">2013</div>
+		</div><!-- items row -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					<a href="?id=86476914">Костюков Константин Георгиевич</a>
+				
+			</div>
+			<div class="cell">
+				
+				<a href="?id=86476914">Ресурсная зависимость и динамика политических режимов</a>
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/65239">Дементьев Андрей Викторович</a>
+			</div>
+			<div class="cell">
+				<a href="http://icef.hse.ru/">Международный институт экономики и финансов</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+			</div>
+			<div class="cell centered">2013</div>
+		</div><!-- items row -->
+		
+
+		<div align="left" class="letterlist">
+[&nbsp;<a href="/edu/vkr/index.html?page=1&textAvailable=2"><b>В&nbsp;начало</b></a>&nbsp;] <a href="/edu/vkr/index.html?page=259&textAvailable=2">&larr;</a>&nbsp;&nbsp;<a href="/edu/vkr/index.html?page=256&textAvailable=2">256</a>&nbsp;&nbsp;<a href="/edu/vkr/index.html?page=257&textAvailable=2">257</a>&nbsp;&nbsp;<a href="/edu/vkr/index.html?page=258&textAvailable=2">258</a>&nbsp;&nbsp;<a href="/edu/vkr/index.html?page=259&textAvailable=2">259</a>&nbsp;&nbsp;<span class="active">260</span>&nbsp;&nbsp;<a href="/edu/vkr/index.html?page=261&textAvailable=2">261</a>&nbsp;&nbsp;<a href="/edu/vkr/index.html?page=262&textAvailable=2">262</a>&nbsp;&nbsp;<a href="/edu/vkr/index.html?page=263&textAvailable=2">263</a>&nbsp;&nbsp;<a href="/edu/vkr/index.html?page=264&textAvailable=2">264</a>&nbsp;&nbsp;<a href="/edu/vkr/index.html?page=265&textAvailable=2">265</a>&nbsp;&nbsp;<a href="/edu/vkr/index.html?page=261&textAvailable=2">&rarr;</a> [&nbsp;<a href="/edu/vkr/index.html?page=347&textAvailable=2"><b>В&nbsp;конец</b></a>&nbsp;] </div>
+
+
+
+	
+
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

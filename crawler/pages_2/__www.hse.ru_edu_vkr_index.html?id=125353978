@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=125353978'>Оценка инвестиционной привлекательности стартапов интернет-компаний</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Соболева Анна Юрьевна
+				
+			</div>
+			<div class="cell">
+				
+					Оценка инвестиционной привлекательности стартапов интернет-компаний
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/202849">Рогова Елена Моисеевна</a>
+			</div>
+			<div class="cell">
+				<a href="http://spb.hse.ru/economics/">Факультет экономики (Санкт-Петербург)</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					8
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Бакалаврская работа на тему: &laquo;Оценка инвестиционной привлекательности стартапов интернет-компаний&raquo; содержит 2 рисунка, 8 таблиц и 1 приложение. Объем работы составляет 50 страниц. Для написания работы было использовано 30 источников. Ключевые слова: интернет-экономика, интернет-компании, интернет-стартапы, методы оценки инвестиционной привлекательности стартапов, интернет-экономика РФ, дисконтированные денежные потоки, &laquo;Фонд поддержки инновационного предпринимательства&raquo; НИУ ВШЭ, IRR, WACC.Интернет-экономика России развивается ускоренными темпами. Появляется большое количество стартапов интернет-компаний, запрашивающих финансирование у венчурных фондов и бизнес-ангелов. Для увеличения их шансов на успех, а также эффективности инвестиций, необходимо грамотно оценить инвестиционную привлекательность молодых компаний. Проблема выбора метода оценки в условиях российского развивающегося интернет-рынка является актуальной в настоящее время.Цель исследовательской работы - оценить привлекательность российских стартапов для потенциального инвестора. Объектом исследования выступают интернет-стартапы в России. Предметом являются методы оценки инвестиционной привлекательности молодых компаний, работающих в области интернет-технологий (интернет-стартапов).В ходе изучения литературы по выбранной тематике было выявлено, что основные работы по проблеме выбора метода оценки инвестиционной привлекательности стартапов принадлежат зарубежным авторам, а в российской литературе недостаточно изучены особенности российского развивающегося сектора интернет-экономики. Научная новизна работы состоит в адаптации методов, применяемых зарубежными аналитиками при оценке инвестиционной привлекательности стартапов. Практическая значимость работы заключается в том, что основные выводы и методы оценки могут быть использованы основателями стартапов при формировании бизнес-плана и позиционировании своего продукта, а также инвесторами при принятии инвестиционных решений.В первой главе &laquo;Теоретические аспекты сетевой экономики&raquo; рассмотрено понятие интернет-экономики, структура интернет-экономики, ее составляющие, изучены особенности интернет-компаний. Также рассмотрена теория интернет-стартапов: понятие, жизненный цикл, основные характеристики, типы интернет-стартапов, факторы успеха. Последней частью теоретического анализа стал анализ существующих методов оценки стартапов, а именно их инвестиционной привлекательности.Во второй главе &laquo;Оценка инвестиционной привлекательности российских интернет-стартапов&raquo; собраны данные по стартапам, участвующим в пятом конкурсе предпринимательских проектов по программе &laquo;Фонд поддержки инновационного предпринимательства&raquo; НИУ ВШЭ в 2014 году и проведена оценка инвестиционной привлекательности 10 стартапов, обратившихся в фонд. Далее полученные результаты были обобщены и проанализированы. В конце главы предложены меры по увеличению практической значимости работы.В результате расчетов, привлекательными для потенциального инвестора на рассматриваемом отрезке времени (3 года) оказались 7 из 9 стартапов (десятый стартап был расценен как выброс). При этом у 4 проектов IRR превышает отметку в 100%, из них у 2-х проектов &ndash; 200%, что говорит о сверх доходности инвестиций. Анализ корректности расчетов по сверхдоходным проектам на основе качественных показателей, представленных в заявке в &laquo;Фонд развития&hellip;&raquo; явных несоответствий не выявил. Тем не менее, математически точно оценить привлекательность стартапа невозможно. При принятии инвестиционных решений обязательно присутствует фактор экспертного мнения или &laquo;чутья инвестора&raquo;, которое является определяющим. Так, результаты данного исследования стоит рассматривать как &laquo;базовый&raquo; критерий, т.е. критерий первого порядка, построенный исключительно на финансовом анализе. </div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/09/1324268840/ВКР по интернет-стартапам.docx">Текст работы</a>
+			
+				(работа добавлена 9 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (268.5 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

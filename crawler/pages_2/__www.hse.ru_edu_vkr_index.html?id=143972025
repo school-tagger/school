@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=143972025'>Внедрение дистанционного обучения в массовой школе</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Долгополова Виктория Александровна
+				
+			</div>
+			<div class="cell">
+				
+					Внедрение дистанционного обучения в массовой школе
+				
+			</div>
+			<div class="cell">
+				Дмитриева Елена Николаевна
+			</div>
+			<div class="cell">
+				<a href="http://nnov.hse.ru/management/">Факультет менеджмента (Нижний Новгород)</a>
+				<br><div style="padding-top:3px;">(Магистратура)</div>
+			</div>
+			<div class="cell">
+				Управление образованием
+			</div>
+			<div class="cell centered">
+				
+			</div>
+			<div class="cell centered">2015</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Объем и структура диссертации: магистерская диссертация состоит из введения, двух глав, выводов по каждой главе, заключения, списка использованных источников и литературы, приложений. Общий объем работы составляет 67 страниц. Объект исследования: учебный процесс в массовой общеобразовательной школе.Предмет исследования: организация и управление процессом внедрения дистанционного обучения в общеобразовательной школе.Цель исследования состоит в выявлении условий организации и управления процессом внедрения дистанционного обучения в массовой общеобразовательной школе. Достижение этой цели обусловило постановку следующих задач:1. Сформировать понятийное поле исследования.2. Выявить характерные особенности дистанционного обучения в общеобразовательной школе.3. Определить специфику управления организацией дистанционного обучения в общеобразовательной школе и его научно-теоретические основы.4. Описать алгоритм внедрения дистанционного обучения в школе.5. Обобщить опыт внедрения дистанционного обучения в общеобразовательной школе. Изучение вопроса внедрения дистанционного обучения в практику работы общеобразовательной школы базируется на положениях открытого образования; научных положениях об использовании информационных технологий в обучении; положения теории управления и образовательного менеджмента о совершенствовании управления и внедрении инноваций; положения гуманистической педагогики, средового и деятельностного подходов в обучении.Научная новизна исследования определяется следующими положениями: выявлена специфика и место дистанционного обучения в учебном процессе общеобразовательной школы; определены стратегия и организационный алгоритм (модель) внедрения дистанционного обучения в школе; выявлены условия организации дистанционного обучения; разработано содержание управления процессом внедрения дистанционного обучения в общеобразовательной школе.Теоретическая значимость исследования состоит в систематизации понятий в области дистанционного обучения, определении научных положений для его организации в общеобразовательной школе.Практическая значимость исследования: предложены требования к организации дистанционного обучения в общеобразовательной школе; определены детализированные ожидаемые результаты; определены практические формы сетевого взаимодействия школ обмена опытом организации дистанционного образования. Обоснованность результатов исследования обусловлена опорой на научные положения об информатизации образования и применении информационных технологий в обучении, верификацией условий организации дистанционного обучения в практике общеобразовательной школы, применением методов исследования, адекватных поставленным задачам.Личный вклад автора заключается в самостоятельном определении концептуальных положений исследования, приведенных во введении, разработке, разработке структуры исследования, анализе и обобщении материалов научных публикаций, обобщении опыта работы школы, формулировании выводов и оформлении рукописи диссертации.Ключевые слова: дистанционное обучение, компьютерные технологии, дистанционная образовательная деятельность, среда, информация, содержание, управление, образовательный менеджмент, мотивация, модель, инновационный процесс.</div>
+	
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

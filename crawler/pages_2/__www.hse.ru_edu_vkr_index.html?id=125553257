@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=125553257'>The Knowledge-Based Economy in Malaysia (2006-2014)</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Камышникова Дарья Николаевна
+				
+			</div>
+			<div class="cell">
+				
+					The Knowledge-Based Economy in Malaysia (2006-2014)
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/13425994">Маслов Алексей Александрович</a>
+			</div>
+			<div class="cell">
+				<a href="http://www.hse.ru/org/hse/phil/oriental/">Отделение востоковедения</a>
+				<br><div style="padding-top:3px;">(Магистратура)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					10
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;"> Today Malaysia is included in the list of the Newly Industrialized countries (NICs). However, fifty years ago in the years after independence its economy was heavily dependent on agriculture and natural resources. During that time, cheap and low skilled labor force as well as land and natural resources were the main factors of production. In the period after independence, most of Malaysians were badly educated and only a small group of people, which was mostly consisted from wealthy Chinese population, was able to afford secondary and tertiary education. From 1960s Malaysia began to transform its economy from agrarian into the agro-industrial and then to the industrial one. The reasonable state investments, high profits from international trade, large inflows of foreign direct investment (FDI) and Malaysian relatively cheap labor force caused the fast development of export-oriented sectors, in particular electrical and electronic sphere in the manufacturing industry. Despite the changes that occurred in the structure of the economy and a significant increase in the share of the industrial sector in GDP, till the end of 1990s, to be more precise till the Asian financial crisis in 1997-1998, Malaysian economy was continued to be heavily depended on the cheap and unqualified labor force, export of assembling production, foreign direct investment and was quite invalid in terms of national capital productivity ratio. Although the share of FDI in GPD was high, the major inflow went to the primary and secondary sectors, while the modern tertiary industries were poorly developed and were not attractive for foreign investors during that period of time. Moreover, in that time Malaysia in terms of low-cost labor force was not already been able to compete with other countries such as China, India and Vietnam because of their abundant cheap workforce. At the same time, information and knowledge started playing more important role in the whole world and are becoming the main factors for the competiveness of the country. In that period, the government realized that Malaysia was lacking a global competitiveness and it had launched the strategy of transformation of the economy from a natural resource dependent to a productivity-driven, which could make Malaysia more competitive and increase the long-term economic growth in Malaysia in frame of the trend of globalization. Considering all stated above, this research paper challenges the view whether Malaysia has already entered in a new phase of development and is transforming its economic system towards a new type of the economy which is called the Knowledge-based Economy, implementing innovative technologies in the production process, improving the research and development base as well as creating special programmes to enhance the level of education. It is assumed that under the current global economic situation the skilled labor force, an implementation of new technologies and innovations have the most important impact on the productivity level, the standards of living of the population and the overall development of the country. In the research paper there are also identified and analyzed the other significant factors influencing the growth of this country and the results Malaysia has achieved in the innovation sphere by the year 2014.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/11/1324206267/The Knowledge-based Economy in Malaysia_Daria Kamyshnikova.doc">Текст работы</a>
+			
+				(работа добавлена 11 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (1435.5 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

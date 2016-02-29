@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=125334331'>Формирование инновационной системы промышленного предприятия</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Лобас Анастасия Сергеевна
+				
+			</div>
+			<div class="cell">
+				
+					Формирование инновационной системы промышленного предприятия
+				
+			</div>
+			<div class="cell">
+				Липатников Виталий Сергеевич
+			</div>
+			<div class="cell">
+				<a href="http://spb.hse.ru/economics/">Факультет экономики (Санкт-Петербург)</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					8
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Бакалаврская работа на тему &laquo;Формирование инновационной системы промышленного предприятия&raquo; содержит 8 рисунков, 5 таблиц и 3 приложения. Объем работы составляет 70 страниц. Для написания работы было использовано 30 источников. Ключевые слова: инновации, инновационная система, открытые инновации, эффективность инновационной системы.В современном, динамически развивающимся мире инновации являются необходимостью, фактором, повышающим конкурентоспособность предприятия и способствующим его процветанию. В результате быстроменяющейся рыночной ситуации, возрастания требовательности и разборчивости потребителей при выборе товаров и услуг, а также существования на рынке похожих товаров и услуг оказывается, что даже незначительное преимущество может оказаться ключевым для потребителя.Для того чтобы инновационный процесс приносил предприятию прибыль, необходимо организовать правильную и эффективную инновационную систему. Чем эффективнее инновационная система предприятия, тем больше положительного эффекта от внедрения инноваций и, следовательно, тем больше экономических выгод получит само предприятие.Целью бакалаврской работы является разработка методических рекомендаций для улучшения функционирования инновационной системы, применяемой на ООО &laquo;Пивоваренная компания &laquo;Балтика&raquo;. Объектом данной работы является инновационная система промышленного предприятия ООО &laquo;Пивоваренная компания &laquo;Балтика&raquo;. Предметом исследования выступают методические рекомендации по формированию инновационной системы промышленного предприятия.Научная новизна работы состоит в рассмотрении инновационной деятельности конкретного промышленного предприятия, а также, в частности, метода оценки эффективности функционирования инновационной системы этого предприятия. Практическая значимость работы заключается в том, что основные рекомендации, к которым в итоге приходит автор дипломной работы, могут быть использованы для улучшения функционирования и оценки эффективности функционирования инновационной системы промышленного предприятия.В первой главе &laquo;Теоретические аспекты формирования инновационной системы промышленного предприятия&raquo; даны понятие инновационной деятельности предприятия, ее значение, а также рассмотрены структура и виды инновационных систем предприятия, и современные методы оценки эффективности инновационных проектов.Во второй главе &laquo;Анализ и оценка результатов функционирования инновационной системы промышленного предприятия (на примере ООО &laquo;Пивоваренная компания &laquo;Балтика&raquo;)&raquo; рассмотрена инновационная система ООО &laquo;Пивоваренная компания &laquo;Балтика&raquo;, дан пример инновационного проекта, который был разработан и воплощен в жизнь с помощью данной системы и показан способ расчета эффективности представленного проекта.В третьей главе &laquo;Методические рекомендации по формированию инновационной системы промышленного предприятия ООО &laquo;Пивоваренная компания &laquo;Балтика&raquo;&raquo; даны рекомендации по улучшению функционирования и оценки эффективности функционирования инновационной системы ООО &laquo;Балтика&raquo;, опираясь на опыт других крупных компаний, имеющих свои инновационные системы, а также на проведенный SWOT-анализ рассматриваемой инновационной системы.В итоге, общими рекомендациями для инновационной системы ТИР являются: соблюдение парадигмы открытых инноваций, сотрудничество как с компаниями Carlsberg Group, так и с научно-исследовательскими лабораториями, развитие собственных агропроектов, повышение мотивации сотрудников к поддержанию существующей инновационной системы, и, наконец, поддержание уровня безопасности базы данных Идеи/Проекты на высоком уровне.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/09/1324249577/ВКР Лобас 144.docx">Текст работы</a>
+			
+				(работа добавлена 9 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (601.47 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

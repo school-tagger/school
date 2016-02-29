@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=126299899'>Economic Cooperation between the Russian Far East and the Republic of Korea – A Paradiplomacy Approach</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Наумова Екатерина Сергеевна
+				
+			</div>
+			<div class="cell">
+				
+					Economic Cooperation between the Russian Far East and the Republic of Korea – A Paradiplomacy Approach
+				
+			</div>
+			<div class="cell">
+				Королев Александр Николаевич
+			</div>
+			<div class="cell">
+				<a href="http://www.hse.ru/org/hse/phil/oriental/">Отделение востоковедения</a>
+				<br><div style="padding-top:3px;">(Магистратура)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					8
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">В магистерской работе делается попытка создать аналитическую модель для анализа международной экономической активности субъектов государства. В фокусе научного интереса находятся экономические взаимоотношения между Дальним Востоком Российской Федерации и Республикой Корея. В работе синтезируются существующие аналитические подходы в рамках Парадипломатии для создания новой аналитической структуры, раскрывающей основные факторы в отношениях между центральным правительством и субъектами государства, которые способствуют либо препятствуют развитию международной региональной экономической активности Дальнего Востока Российской Федерации. Делается вывод, что основным фактором, оказывающим влияние на международную региональную экономическую активность, является уровень региональной автономности в международных отношениях, которая делится на юридическую, политическую и экономическую составляющие.В последнее время развитие Дальнего Востока Российской Федерации (ДВРФ) является вопросом исключительной важности для центральных федеральных властей РФ. Было официально завялено, что интенсивное развитие ДВРФ невозможно без его активного экономического сотрудничества со станами Азиатско-Тихоокеанского региона. Один из наиболее перспективных партнеров для ДВРФ является Республика Корея (РК). Обе стороны крайне заинтересованы в развитии совместной экономической деятельности. Однако, несмотря на высокий потенциал экономического сотрудничества, статистика их экономического взаимодействия показывает относительно невысокие показатели. Низкий уровень экономического взаимодействия не соответствует высокому совместному интересу в развитии совместной экономической активности. Факты, перечисленные выше, свидетельствуют о необходимости объяснить относительно низкий уровень экономического взаимодействия между ДВРФ и РК. Данная тема представляется как довольно актуальная и важная для исследования.Объектом исследования является факторы, влияющие на региональную экономическую активность. Субъектом является факторы на уровне отношений между центральным правительством и регионами государства, способствующие или препятствующие развитию региональной экономической активности. Главный аргумент работы состоит в том, что основная причина низкой экономической активности между регионом государства и его зарубежным партнером – это недостаточный уровень региональной автономности, который контролируется центральным правительством. Главная теоретическая цель магистерской работы – выявить и объяснить механизмы, при помощи которых центральное правительство может оказывать влияние на региональную экономическую активность путем создания теоретической модели, объясняющей причинно-следственные отношения между мотивациями региона и его зарубежного партнера развивать экономическое сотрудничество и механизмами, способствующими или препятствующими реализации данных мотиваций. Главной практической цель является перенести данную теоретическую модель в российский контекст и внести необходимые поправки. Задачи работы состоят в следующем:Найти мотивации России и РК к развитию экономического взаимодействия между ДВРФ и РКПроанализировать международную экономическую активность ДВРФ и экономическую активность между ДВРФ и РКОпределить региональные мотивации развивать международную экономическую активность Определить причины того, почему субнациональная экономическая активность может быть усилена или ограничена, а также определить актора, который может это осуществитьНайти и объяснить механизмы, при помощи которых актор может оказывать влияние на субнациональную экономическую активность Найти метод оценки, который бы позволил оценить уровень экономического взаимодействия региона с его зарубежным партнеромСоздать теоретическую модель, объединяющую мотивации, способствующие/ сдерживающие факторы и уровень международной региональной экономической активностиПеренести модель в российский контекст и модифицировать ее, если необходимо.В работе используется четыре типа первичных источника: статистика, официальные документы, записи и интервью официальных встреч, работы И.Духачека, П. Солдатоса, М. Китинга . Статистические источники были использованы главным образом для изучения позиций ДВРФ в международной торговле и инвестициях, оценке уровня экономического взаимодействия между ДВРФ и РК. Официальные документы представлены двумя Федеральными программами, постановлениями Правительства Российской Федерации, постановлениями Президента Российской Федерации. Эти материалы совместно с записями официальных встреч и интервью были проанализированы, чтобы изучить и объяснить приоритеты центральных и региональных властей относительно развития ДВРФ. Поскольку И.Духачек, П. Солдатос, М. Китинг тояли у истоков такой области знания как парадипломатия, их труды были использованы, чтобы определить основные характеристики субнациональной международной экономической активности. Вторичные источники могут быть разделены на две группы: научные статьи и газетные статьи. Темы субнациональной экономической активности, а также мотиваций региональных властей совместно со сдерживающими/способствующими факторами являются объектом исследований как на Западе, так и в России. 'Западное' направление имеет большую теоретическую направленность, в то время как российские ученые стремятся определить практическую сторону субнациональной международной активности регионов РФ. 'Западное' направление представлено такими учеными, как Х.Фрай, П.Морси, К.Арчер, Дж. МкНивен, Д.Канн, Г. Маркс, К. Джеффри. Весомый вклад в анализ российской субнациональной активности внесли такие ученые, как А.Кузнецов, С.Иванов, А. Чирикова, Н. Лапина. Более детальный анализ обоих направлений будет представлен в главах, посвященных анализу западной и российской литературы, посвященной парадипломатии. Хронологические рамки работы определены временным периодом с корца 1980х годов и до 2014 года, поскольку конец 1980х годов отмечен всеобщей либерализацией в СССР. В результате данных процессов был дан запуск и произошло дальнейшее развитие экономических и политических отношений между СССР и РК. Конец 1980х также характеризуется началом парадипломатической активности меду ДВРФ и РК. Метод исследования: кейс-стади, основывающийся на литературе.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/19/1309748265/Naumova E. Master's thesis.docx">Текст работы</a>
+			
+				(работа добавлена 19 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (270.36 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

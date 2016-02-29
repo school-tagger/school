@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=125156711'>Оценка эффективности венчурного финансирования в России</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Гончар Ольга Юрьевна
+				
+			</div>
+			<div class="cell">
+				
+					Оценка эффективности венчурного финансирования в России
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/202849">Рогова Елена Моисеевна</a>
+			</div>
+			<div class="cell">
+				<a href="http://spb.hse.ru/economics/">Факультет экономики (Санкт-Петербург)</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					8
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Выпускная квалификационная работа на тему: &laquo;Оценка эффективности венчурного финансирования в России&raquo; на примере ООО &laquo;ЭкоЗдрав&raquo; содержит 18 рисунков, 7 таблицы , 2 приложения и 4 формулы. Объем работы составляет 85 страниц. Для написания работы было использовано 49 источников. Ключевые слова: венчурный фонд, венчурный капиталист, инновационный проект, стоимость компании, доля инвестора, эффективность проекта.Актуальность темы исследования обуславливается тем, что в настоящий момент формирование и развитие индустрии венчурного финансирования в РФ становится одним из приоритетных направлений развития инновационной среды, конкурентоспособности отечественной промышленности и экономики страны в целом. От венчурных инвестиций в эффективные перспективные проекты зависит развитие инновационных технологий страны. Следовательно, гипотеза, поставленная в начале работы, звучит следующим образом: венчурное финансирование инновационных проектов является эффективным с экономической точки зрения.Целью работы является оценка эффективности инвестиций в венчурные проекты. Объектом исследования является российский рынок инноваций и венчурного капитала. Предмет исследования - процесс финансирования венчурных проектов инвестиционными фондами.Поставленная цель исследовательской работы обуславливает необходимость подробного анализа не только деятельности венчурной индустрии в целом и выявление существующих тенденций к развитию, но и изучение особенностей инвестирования на нем со стороны венчурных фондов.Проблемы инновационного развития, функционирования венчурных фондов, а также венчурного финансирования проектов в различных странах широко представлены в научной литературе.Практическая значимость исследования состоит в том, что основные выводы и положения исследования могут быть использованы широким кругом инвесторов: как управляющими компаниями частных фондов прямых и венчурных инвестиций, так и государственными компаниями, корпорациями и институтами развития, финансирующими венчурные инвестиционные проекты, с целью повышения эффективности венчурного финансирования.В первой главе работы рассматриваются особенности организации венчурного финансирования в целом. В данной главе изучаются различия существующих видов финансирования, участники процесса формального и неформального рынка венчурной индустрии. После того изучаются стадии развития компаний и характерных им инвесторов. Также, рассматриваются четыре группы проблем венчурного финансирования в России и перспективы его дальнейшего развития. Во второй главе выбирается рассматривать только участников формального рынка венчурной индустрии, а именно фонды и капиталистов. Вследствие чего, рассматривается организационная структура деятельности венчурного фонда, поэтапная процедура отбора венчурных проектов капиталистами, для понимания, каким должен быть проект для того, чтобы получить средства от фондов. Проводится анализ деятельности венчурных фондов РФ, на основе отчетов аналитических компаний, для выявления особенностей и тенденций их деятельности. Анализ позволяет выяснить финансовый потенциал венчурных фондов, понять имеются ли у них средства для обеспечения инновационных идей, и является ли эффективным прибегать к венчурному финансированию предпринимателям малого бизнеса.В третьей главе оценивается экономическая эффективность инвестиций в венчурный проект компании &laquo;ЭкоЗдрав&raquo;. Проводится полное описание предлагаемого проекта, SWOT анализ, изучение его конкурентов, анализ возможных рисков проекта, а также рассчитывается бизнес &ndash; план по компании, составляется прогнозный отчет о прибылях и убытках компании, и рассчитываются финансовые показатели проекта для дальнейшего анализа эффективности венчурных инвестиций. На основе полученных данных проводится анализ возможных выходов из финансируемого венчурным капиталистом проекта на основе экономических подсчетов и предлагается самый выгодный из них с точки зрения венчурного фонда.На основе проанализированных данных о деятельности венчурных фондов РФ было установлено, что венчурные фонды имеют все возможности для финансирования инновационных перспективных идей. Согласно данным РАВИ, по итогам 2013 года под управлением 173 фондов находится в общей сложности 5211 млн. долларов.После анализа инновационного проекта &laquo;ЭкоЗдрав&raquo; было установлено, что необходимы венчурные инвестиции в размере 6 100 000 рублей для запуска производства товара &ndash; новинки на рынок. С помощью специализированой программы Альт Инвест Прим 5.0 был проведен анализ эффективности проекта по части показателей: NPV проекта, внутренняя норма доходности (IRR), период окупаемости проекта (PP и DPP) и индекс прибыльности (PI). На основе полученных результатов было выяснено, что проект является эффективным с экономической точки зрения и привлекательным для инвестора.Так как, венчурное финансирование &ndash; это финансирование в долю капитала компании, для получения прибыли, инвестору необходимо совершить выход из компании. В работе были рассмотрены возможные выходы из проекта &laquo;ЭкоЗдрав&raquo;. Для расчета выгоды инвестора при выходе, были рассчитаны стоимость компании на момент выхода инвестора - 65 367 360 рублей, и доля венчурного инвестора в проекте &ndash; 61%. В ходе анализа было получено, что венчурный капиталист, инвестируя средства в предлагаемый проект, сможет увеличить вложенные средства минимум в 6,5 раз, при выходе с помощью продажи стратегическому инвестору и в 16 раз, при выходе компании на IPO. Вследствие чего он сможет получить свою желаемую прибыль в размере 39 650 000 и 97 116 340,15 соответственно, что показывает эффективность осуществления венчурного финансирования.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/06/1323548597/Гончар Ольга, 142.docx">Текст работы</a>
+			
+				(работа добавлена 6 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (1498.36 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

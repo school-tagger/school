@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=123182072'>Влияние региональных особенностей политического режима на инвестиционный климат (на примере Байкальского региона)</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Шамсутдинова Екатерина Олеговна
+				
+			</div>
+			<div class="cell">
+				
+					Влияние региональных особенностей политического режима на инвестиционный климат (на примере Байкальского региона)
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/67524">Туровский Ростислав Феликсович</a>
+			</div>
+			<div class="cell">
+				<a href="http://fpp.hse.ru/">Факультет прикладной политологии</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					7
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Актуальность исследования заключается в том, что в настоящее время развитие регионов является приоритетным направлением государственной политики. Особое внимание уделяется Дальнему Востоку и Байкальскому региону, что в очередной раз было отмечено президентом Владимиром Путиным в послании Федеральному Собранию в конце 2013 года . Федеральная целевая программа «Социально-экономическое развитие Дальнего Востока и Забайкалья» была продлена до 2018 года, с включением в неё Иркутской области (в связи с чем «Забайкалье» в наименовании было изменено на «Байкальский регион»). Данная программа предусматривает реализацию в ближайшем будущем мероприятий по развитию транспортной и энергетической инфраструктуры на территории восточных регионов . Реализация программы требует значительных капиталовложений – объём финансирования программы составит 696931,71 млн. рублей и большую часть этих средств (473263,05 млн. рублей) планируется привлекать из внебюджетных источников . Привлечение инвестиций является одним из основных способов содействия развитию регионов, достижения заложенных в программы целей. Это требует разработки эффективных мер по созданию в регионах благоприятного инвестиционного климата. Значительная роль в этом отводится региональному уровню власти. По словам президента Владимира Путина руководство региона должно нести политическую ответственность за качество инвестиционного климата, качество условий, создаваемых для инвесторов . При этом определяющая роль отводится губернатору, на нем лежит ответственность выбора направления регионального развития, координации деятельности чиновников. В связи с этим актуальной является проблема влияния региональных политических особенностей на привлечение инвестиций в регион. Выбор для исследования Байкальского региона обусловлен тем, что в отличие от регионов ДФО, субъекты Байкальского региона в гораздо большей степени сопоставимы между собой и удобны для сравнения, так как географически они составляют единую компактную зону и в рамках государственной программы по развитию объединены в один субрегион.Политико-экономическая востребованность и практическая значимость проблемы обусловили выбор темы исследования «Влияние региональных особенностей политического режима на инвестиционный климат (на примере Байкальского региона)».Цель исследования – выяснить, какие именно особенности регионального политического режима, оказывают положительное влияние на состояние инвестиционного климата в регионе. Для достижения поставленной цели и проверки гипотезы были определены следующие задачи исследования:-рассмотреть существующие подходы к осуществлению инвестиционной политики в регионах, основные направления взаимодействия региональных властей и инвесторов.-рассмотреть основные институциональные особенности и установленные практики политических режимов в субъектах Байкальского региона (Иркутская область, Республика Бурятия, Забайкальский край) -изучить существующие полномочия региональных властей в области взаимодействия региональной власти с бизнесом, и реализацию этих полномочий, воплощённые практики взаимодействия в рамках временного периода с 2000 по 2014 гг. в исследуемых регионах, определить установленные в регионах «правила игры» политической власти и бизнеса. - изучить инвестиционные показатели и показатели качества инвестиционного климата исследуемых регионов за рассматриваемый период, их колебания и сопоставить их с изменениями определённых конфигураций политического режима (консолидация/конкуренция, уровень демократичности, моноцентризм/полицентризм).-осуществит попытку выявить оптимальную модель политического режима для исследуемых регионов, способствующую улучшению в них инвестиционного климата и эффективности экономики.Таким образом, в Иркутской области частая губернаторов в 2005 г., привела к ряду изменений в конфигурациях регионального политического режима (политическая устойчивость, степень консолидации), что негативно повлияло на качествао ивестиционного климата. В то же время, такие традиционно присущие регионы особенности как полицентризм и высокий уровень демократичности в целом оказывают положительное влияние на качество инвестиционного климата и инвестиционный потенциал региона, который является наиболее благоприятным по Байкальскому макрорегиону. Предположительно, приход нового губернатора в 2012 г., являющегося представителем местной бизнес-элиты может полжительно отобразиться на инвестиционном климате региона. В Республике Бурятия конфигурации регионального политического режима не оказывали значительного влияния на качество инвестиционного климата. Однако, приход нового губернатора в 2007 г. и принятые новым региональным правительством меры оказали положительное влияние на качество инвестиционного климата и показатели инвестиционного потенциала региона, значительно снизились инвестиционные риски. В целом по исследуемым регионам, смена губернатора, политическая неопределённость вследствие истечения срока полномочий губернатора повышает инвестиционные риски. В целом, однако, все три региона относятся к регионам сырьевого и промышленно-сырьевого типа, в которых бизнес как инвестор представлен в основном крупными общефедеральными компаниями, которые в меньшей степени зависят от региональных политических особенностей. Но при этом, как показывает кейс Иркутской области, приход губернатора, являющегося представителем крупной госкорпорации, влияет на расширения влияния данной корпорации и инвестиционные вложения.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/05/16/1321310506/Влияние региональных особенностей полити.. примере Байкальского региона).docx">Текст работы</a>
+			
+				(работа добавлена 16 мая 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (293.35 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=124563467'>Организационная поддержка реализации стратегии в НКО</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Луцко Кристина Александровна
+				
+			</div>
+			<div class="cell">
+				
+					Организационная поддержка реализации стратегии в НКО
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/439603">Осипова Ольга Сергеевна</a>
+			</div>
+			<div class="cell">
+				<a href="http://nnov.hse.ru/management/">Факультет менеджмента (Нижний Новгород)</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					10
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Тема дипломной работы &laquo;Организационная поддержка реализации стратегии в НКО&raquo;.Данная работа посвящена изучению процесса реализации стратегии в благотворительных фондах г. Нижний Новгород.Некоммерческие организации &ndash; важная составляющая часть жизни любого общества, поскольку они являются посредником между обществом и государством. Основная функция НКО заключается в предоставлении равного количеств общественных благ каждому члену общества.В современных развитых государствах, так же как и в России, заметна тенденция роста влияния НКО на принятие важных государственных решений и на формирование общественного мнения. С другой стороны, масштабы и сложность задач, которые должны решать организации некоммерческого, муниципального и государственного секторов, многократно возросли. Их деятельность все глубже проникает в процессы управления всеми отраслями народного хозяйства. Отсюда следует возрастающий интерес исследователей к проблемам реализации стратегий развития НКО.Кроме того, на актуальность изучения стратегического планирования в НКО становится ярко выраженной из-за усиления гражданской активности населения России, увеличения числа информации, доступной обществу благодаря услугам Интернет.В связи с этим, целью исследования является &ndash; выявление особенностей процесса реализации стратегии в таком типе некоммерческих организаций, как благотворительные фонды г. Нижний Новгород.Объект исследования &ndash; благотворительные фонды, находящиеся на территории города Нижний Новгород.Предмет исследования - деятельность благотворительных фондов, направленная на реализацию стратегии.Исследование опирается на теорию стейкхолдеров. В рамках данной теории проведен анализ значимости внешних стейкхолдеров в НКО посредством модели Митчелла.Цель дипломной работы достигнута с помощью различных методов. Проведен обзор литературы относительно стратегического управления и планирования, а также аспектов реализации стратегии в организациях.Изучение проблематики реализации стратегии в организациях дополнено авторским исследованием с помощью экспертного интервью.Сбор информации о практических аспектах реализации стратегии в НКО осуществлен посредством глубинного интервью с руководителями и лицами, ответственными за развитие и продвижение данных фондов, 8 благотворительных фондов г. Нижний Новгород. Обработка данных осуществлялась с помощью контент-анализа: все интервью записывались на диктофон, после чего изучались тексты интервью и фиксировались ответы по параметрам, соотнесенным с задачами исследования.В рамках исследования были проверены следующие гипотезы:1) процесс реализации стратегии в благотворительных фондах Нижнего Новгорода не является качественно продуманным и четко стандартизированным;2) стейкхолдеры оказывают большое влияние на процесс реализации стратегии в благотворительных фондах Нижнего Новгорода.По итогам исследования автором были предложены рекомендации по реализации стратегии в НКО на примере благотворительных фондов. Суть рекомендаций заключается в необходимости:- введения экономической составляющей в процесс целеполагания фондов, то есть переведение стратегии с языка миссии и сути деятельности организации на язык действий в количественном измерении;- приоритизации отношений со стейкхолдерами и выбора политики поведения с каждым из них, а так же нахождения баланса между своими интересами и интересами стейкхолдеров;- продумывания контрольных точек на период реализации стратегии еще в процессе ее разработки;- использования различных теоретических методов и моделей, которые позволяют сделать процесс реализации стратегии более четким, а также способствуют экономии (балансовая модель, анализ затрат-выгод, партизанский маркетинг и прочее).Структура работы представлена введением, двумя главами, пятью параграфами, заключением, приложением и списком литературы.В дипломной работе использованы 14 таблиц, 5 рисунков, 2 приложения, 46 библиографических источников. Объем дипломной работы составил 76 страниц, включая приложения. </div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/01/1325052633/Луцко Реализация стратегии в НКО.docx">Текст работы</a>
+			
+				(работа добавлена 1 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (591.81 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

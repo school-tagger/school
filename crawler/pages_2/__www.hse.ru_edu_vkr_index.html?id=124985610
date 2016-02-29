@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=124985610'>Механизмы создания и поддержания лояльности потребителей к бренду отельной сети</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Бебех Артем Владимирович
+				
+			</div>
+			<div class="cell">
+				
+					Механизмы создания и поддержания лояльности потребителей к бренду отельной сети
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/10328689">Пантелеева Елена Константиновна</a>
+			</div>
+			<div class="cell">
+				<a href="http://www.hse.ru/org/hse/man/">Факультет менеджмента</a>
+				<br><div style="padding-top:3px;">(Магистратура)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					7
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Данное исследование охватывает некоторые важные вопросы из сферы лояльности потребителей к бренду. Настоящее исследование рассматривает механизмы создания и поддержания лояльности потребителей к бренду при помощи опроса 146 респондентов, посетивших хотя бы один из семи отелей-представителей сети Radisson в России. Результаты исследования могут помочь компании понять приоритеты ее клиентов и оценить уровень их лояльности.Аннотация состоит из пяти разделов: введение (1), обзор литературы (2), концептуальная модель (3), эмпирический анализ (4) и выводы и рекомендации (5).ВведениеВ наше время практически все рынки характеризуются высоким уровнем конкуренции и труднопредсказуемой динамикой развития. В то же время, потребители очень требовательны к продукции, хорошо информированы о ее свойствах и наличии аналогичных предложений со стороны других компаний и имеют немало способов выбрать лучший товар или услугу. Одна из важнейших задач, с которой сегодня сталкиваются маркетологи по всему миру &ndash; увеличение лояльности клиентов. Преобразование индифферентных к компании потребителей в лояльных и установление с ними надежных долговременных отношений имеет критической значение для деятельности организации [3].Предметом исследования в работе являются взаимосвязи между факторами, характеризующими предложение сети отелей, и удовлетворенностью и лояльностью клиентов. Объектом &ndash; удовлетворенность и лояльность клиентов гостиничной сети Radisson, представленной на российском рынке.Цель данной работы состоит в проверке гипотез, сформулированных на основе анализа теоретической базы по тематике и исследований, проведенных другими авторами, а также разработке комплекса рекомендаций по увеличению лояльности потребителей к отельной сети Radisson на российском рынке.Обзор литературыСогласно Barringer и Ireland (2009), лояльность потребителей к бренду &ndash; это ценный актив какой-либо компании, потребители которой становятся привержены ее товару или услуге и покупают их время от времени [2]. В то же время, Aaker (1991) отмечает, что лояльность потребителей к бренду показывает, насколько вероятно они изменят свои предпочтения и выберут бренд компании-конкурента в момент, когда происходит изменения в цене, качестве или другой характеристике предоставляемых товаров или услуг [1].Oliver предполагает, что лояльность потребителей к бренду &ndash; это привязанность покупатели или глубокая приверженность к продукту, услуге, брэнду или компании [4].Концептуальная модельПосле анализа теоретической базы по тематике была разработана модель механизмов создания и поддержания лояльности потребителей к бренду (рис. 1):Во время исследования с помощью программы SPSS Statistics и коэффициента корреляции Пирсона было протестировано пятнадцать гипотез. Все гипотезы были подтверждены, и указанная выше модель была полностью доказана. Кроме того, была подтверждена гипотеза о том, что поведенческая лояльность к отдельному отелю коррелирует с поведенческой лояльностью к гостиничной сети в целом.Заключение и рекомендацииПо результатам исследования были даны рекомендации для отельной сети Radisson. Руководству сети следует обратить внимание на цены своих услуг и переработать ценовую политику, если данное решение будет экономически оправдано. Подводя итог проделанной работы, можно утверждать, что все поставленные цели были выполнены. Кроме того, был сделан шаг в сторону дальнейшего исследования, которое отчасти будет опираться на текущую работуСписок литературы1. Aaker, D. (1991). Managing Brand Equity: Capitalising on the Value of a Brand Name, NY: The Free Press.2. Barringer, B. R., Ireland, R. D. (2009): Entrepreneurship: Successfully Launching New Ventures, 3rd edition, Upper Saddle River, NJ.3. Bhardwaj, Deepali. (2007). Relationship Marketing in Context to the IT Industry. VISION-The Journal of Business Perspective, 11, (2) (April &ndash; June), pp. 57-66.4. Oliver, R. (1999). Whence Customer Loyalty? Journal of Marketing, Vol. 63, pp. 33-44.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/05/1323639768/Диссертация. Бебех Артем. 721 группа.doc">Текст работы</a>
+			
+				(работа добавлена 5 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (2298 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

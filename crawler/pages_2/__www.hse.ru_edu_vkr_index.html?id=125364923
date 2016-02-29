@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=125364923'>Анализ факторов спроса на фармацевтические препараты</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Горбунова Анна Андреевна
+				
+			</div>
+			<div class="cell">
+				
+					Анализ факторов спроса на фармацевтические препараты
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/503319">Бутуханов Александр Владимирович</a>
+			</div>
+			<div class="cell">
+				<a href="http://spb.hse.ru/economics/">Факультет экономики (Санкт-Петербург)</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					7
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Бакалаврская работа: &laquo;Анализ спроса на фармацевтические препараты&raquo; содержит 10 рисунков, 10 таблиц и 1 приложение. Объем бакалаврской работы составляет 70 страниц. Для написания работы было использовано 55 источников. Ключевые слова: фармацевтический рынок, спрос на лекарственные средства, факторы спроса на фармацевтические препараты, экономический анализ фармацевтического рынка, регрессионная модель.Фармацевтический рынок &ndash; один из самых насыщенных потребительских рынков мира, а также рынок с наиболее острой конкурентной средой. Так как понимание спроса на фармацевтические препараты и факторов, которые на него влияют, повышает конкурентоспособность фармацевтических компаний, данная работа является актуальной.Цель представленной работы &ndash; проанализировать внутренние факторы спроса на фармацевтические препараты и их влияние на спрос. Объектом исследования является спрос на фармацевтические препараты, предметом &ndash; спрос на фармацевтические препараты в Калининградской области.Изучение литературы по выбранной тематике показало, что несмотря на обилие работ по освещению теоретического аспекта влияния различных факторов спроса на фармацевтические препараты, эмпирические исследования данной области осуществлялись, в основном, иностранными авторами и ориентированы на зарубежные фармацевтические рынки.Научная новизна работы состоит в адаптации зарубежных подходов к анализу влияния различных факторов на спрос на фармацевтические препараты на российском региональном рынке. Практическая значимость бакалаврской работы заключается в том, что основные выводы, сформулированные в данной работе, могут быть использованы руководством фармацевтических компаний для повышения конкурентоспособности предприятия, также в работе сформулированы рекомендации для создания успешной маркетинговой стратегии фармацевтической компании.В первой главе &laquo;Анализ спроса на продукцию&raquo; рассмотрены теоретические аспекты анализа спроса на продукцию, включающие следующие этапы: уточнение понятия потребительского спроса, обзор существующих методов и методик учета и анализа спроса на продукцию, выявлены принятые в научном сообществе взгляды на особенности спроса на фармацевтическом рынке, а также на факторы спроса на фармацевтические препараты.Во второй главе &laquo;Фармацевтический рынок РФ: особенности развития&raquo; проведен структурный анализ особенностей фармацевтического рынка РФ , а также выявлена специфика развития фармацевтического рынка Калининградской области, что создало базу для разработки модели, представленной в главе 3.В третьей главе &laquo;Модель влияния основных факторов на спрос на фармацевтические препараты&raquo; представлена собственная модель, описывающая взаимодействие между выбранными в процессе исследования главными внутренними факторами спроса на фармацевтические препараты и продажами лекарственных препаратов на рынке Калининградской области с использованием регрессионного анализа.Предлагаемая модель включает два этапа. На первом этапе анализируется влияние выбранных факторов спроса на спрос на лекарственные препараты для лечения общих инфекций. На втором этапе оценивается влияние тех же факторов на спрос на препараты для лечения хронического заболевания. Для создания модели, был проведено анкетирование среди покупателей калининградских аптечных сетей &laquo;Авиценна&raquo; и &laquo;Алоэ&raquo;, включающее 957 респондентов. Целью анкетирования было выявить, на выбор скольких покупателей повлиял определенный фактор спроса. На основе ответов анкетирования была создана выборка, включающая 113 наблюдений для первого эксперимента и 180 для второго. По каждому эксперименту была простроена отдельная регрессионная модель, выявляющая влияние факторов на спрос. Также был проведен статистический анализ респондентов с целью выявления степени влияния личных характеристик потребителей на результаты модели. По выводам, полученным из модели, был создан ряд рекомендаций для фармацевтических компаний по созданию успешной маркетинговой стратегии с учетом факторов спроса на фармпрепараты.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/09/1324279913/Горбунова А.А., ВКР .pdf">Текст работы</a>
+			
+				(работа добавлена 9 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/pdf.gif"> (960.96 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

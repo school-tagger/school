@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=124744520'>ПОВЫШЕНИЕ КОНКУРЕНТНОСПОСОБНОСТИ КОМПАНИИ НА ОСНОВЕ ОБЕСПЕЧЕНИЯ КАЧЕСТВА ПРОИЗВОДСТВЕННЫХ ПРОЦЕССОВ</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Блинкова Дарья Игоревна
+				
+			</div>
+			<div class="cell">
+				
+					ПОВЫШЕНИЕ КОНКУРЕНТНОСПОСОБНОСТИ КОМПАНИИ НА ОСНОВЕ ОБЕСПЕЧЕНИЯ КАЧЕСТВА ПРОИЗВОДСТВЕННЫХ ПРОЦЕССОВ
+				
+			</div>
+			<div class="cell">
+				Серов Михаил Евгеньевич
+			</div>
+			<div class="cell">
+				<a href="http://nnov.hse.ru/management/">Факультет менеджмента (Нижний Новгород)</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					8
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Тема данной выпускной квалификационной работы - &laquo;Повышение конкурентоспособности компании на основе обеспечения качества производственных процессов&raquo;. В рамках этой темы был рассмотрен производственный процесс в компании ООО &laquo;Калинов Мост&raquo; с точки зрения TQM и Lean &ndash; manufacturing с целью выявления возможных потерь и дальнейшего их исключения.Задачи данной работы состоят в:1. проведении теоретического обоснования актуальности выбранной темы;2. рассмотрении процесса обеспечения качества производственных процессов в условиях lean-production и TQM;3. рассмотрении повышения конкурентоспособности организации, как следствия обеспечения качества производственных процессов в условиях lean-production и TQM;4. освещении применяемости обеспечения качества производственных процессов, как конкурентного преимущества, на примере ООО &laquo;Калинов мост&raquo;; Исходя из поставленных целей и задач в данной работе был представлен теоретический блок теоретических проанализированных материалов, подробно описывающих все детали TQM и Lean-manufacturing. Данные концепции были освещены с целью представления их, как актуальных, необходимых и результативных инструментов обеспечения качества производственных процессов с целью повышения конкурентоспособности компании.Кроме того, частью данной работы является проведённое исследование, направленное на повышение качества производственных процессов в организации, занимающейся изготовлением мороженого &ndash; ООО &laquo;Калинов Мост&raquo;. Акцент был сделан на конкретный производственный процесс - изготовление пломбира в вафельном стаканчике с шоколадной глазурью и ореховой крошкой. Методом был выбран анализ данного процесса и деятельности компании вообще в рамках TQM и Lean-manufacturing.Результаты этого исследования позволили выявить потери компании на данный момент при производстве конкретного продукта и предложить рекомендации по устранению этих потерь с целью повышение качества как производственного процесса, так и качества выпускаемого продукта.Детальный анализ выбранного процесса позволил придти к выводу о том, что качество производственных процессов напрямую влияет как на объём производства компании, так и на качество выпускаемой продукции, тем самым увеличивая спрос на свою продукцию. Это цепочка взаимосвязанных компонентов имеет прямое влияние на конкурентоспособность компании, в результате повышая её. Были предложены конкретные меры по устранению потерь на производстве, проанализированы числовые показатели выбранного производственного процесса с целью создания необходимых условий для повышения конкурентоспособности компании ООО &laquo;Калинов Мост&raquo; в рамках TQM и Lean &ndash; manufacturing.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/02/1324970394/ВКР Блинкова.doc">Текст работы</a>
+			
+				(работа добавлена 2 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (1179 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

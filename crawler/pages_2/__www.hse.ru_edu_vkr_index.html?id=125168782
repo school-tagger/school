@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=125168782'>Механизм отбора инновационной стратегии компании в сфере информационных технологий</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Михайлова Юлия Павловна
+				
+			</div>
+			<div class="cell">
+				
+					Механизм отбора инновационной стратегии компании в сфере информационных технологий
+				
+			</div>
+			<div class="cell">
+				Липатников Виталий Сергеевич
+			</div>
+			<div class="cell">
+				<a href="http://spb.hse.ru/economics/">Факультет экономики (Санкт-Петербург)</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					7
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Бакалаврская работа на тему: &laquo;Механизм отбора инновационной стратегии компании в сфере информационных технологий&raquo; содержит 17 рисунков, 8 таблиц и 1 приложение. Объем работы составляет 77 страниц. Для написания работы было использовано 33 источника. Ключевые слова: инновации, информационные технологии, инновационные стратегии, регрессионный анализ, методы оценки проекта.Инновационность в современном мире &ndash; неотъемлемая характеристика экономики. Данное утверждение в одинаковой степени относится как к государствам и целым сообществам, так и к отдельным компаниям. Инновационная направленность &mdash; не только сегодняшняя потребность, но и необходимость для будущей человеческой деятельности в любой сфере. Инновационный процесс представляет собой важнейшую движущую силу экономики, которая материализует передовые научно-технические достижения. Выбор инновационной стратегии определяет дальнейшее поведение и развитие фирмы и становится актуальным вопросом для любой современной компании, а особенно для компании ИТ-сектора.Целью работы является разработка алгоритма выбора инновационной стратегии для компании сферы информационных технологий и телекоммуникаций. Объектом исследования в данной работе являются инновационные стратегии компаний, предметом - их роль и значение для компаний сектора информационных технологий.В ходе анализа научной литературы было выявлено, что большинство стратегий, подробно рассматриваемых авторами, не учитывают специфику ИТ-отрасли. Вследствие чего для изучения была отобрана современная классификация, разделяющая компании на три типа инноваторов и отражающая особенности сектора. Научная новизна работы состоит в эмпирическом анализе влияния стратегий на финансовые показатели компании. Практическая значимость работы заключается в том, что разработанный алгоритм выбора инновационной стратегии может быть применен компанией сферы ИТ для выбора наилучшей модели развития и поведения на рынке с учетом ее специфики. Алгоритм выбора методов оценки эффективности инновационных проектов в зависимости от выбора инновационной стратегии и характеристик проекта может быть использован менеджментом компании при принятии решений по реализации и разработке инновационных проектов.В первой главе раскрывается сущность инноваций, определяются цели и задачи инновационной деятельности, изучается понятие инновационной стратегии и важности ее определения для компании. Также рассматривается сектор информационных технологий и его значение в обеспечении экономического роста.Во второй главе &laquo;Инновационные стратегии и методы оценки инновационных проектов&raquo; описаны и проанализированы простые и сложные методы оценки эффективности инновационных проектов. Также приведены различные классификации инновационных стратегий и описаны отобранные для исследования стратегии Need Seekers, Market Readers и Technology Drivers.В третьей главе проведена оценка влияния выбранных стратегий на результаты деятельности компаний путем построения регрессионных моделей. Для проведения данного эконометрического исследования с помощью отчетностей компаний были собраны данные по 100 крупнейшим фирмам &ndash; производителям компьютерного оборудования, путем анализа деятельности и продукции фирм данные компании были распределены по трем инновационным стратегиям. По результатам проведенного эконометрического анализа, можно сказать, что увеличение затрат на научно-исследовательские и опытно-конструкторские работы ведет к увеличению выручки компании, кроме того большей выручке фирмы способствует выбор такой стратегии, как Need Seekers, напротив, выбор стратегии Technology Drivers ведет к уменьшению выручки компании.В качестве методического обеспечения был разработан алгоритм выбора инновационной стратегии компании из сферы информационных технологий, а также алгоритм выбора методов оценки эффективности инновационных проектов в зависимости от выбора инновационной стратегии и характеристик проекта. </div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/06/1323560540/VKR Mikhaylova.docx">Текст работы</a>
+			
+				(работа добавлена 6 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (5150.16 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

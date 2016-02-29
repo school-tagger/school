@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=124228723'>Менторство в процессе коммерциализации инновационных проектов</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Грищева Кристина Дмитриевна
+				
+			</div>
+			<div class="cell">
+				
+					Менторство в процессе коммерциализации инновационных проектов
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/201719">Шубнякова Наталья Геннадьевна</a>
+			</div>
+			<div class="cell">
+				<a href="http://nnov.hse.ru/management/">Факультет менеджмента (Нижний Новгород)</a>
+				<br><div style="padding-top:3px;">(Магистратура)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					10
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Идея &laquo;институализировать&raquo; менторское движение и сформировать правила игры уже вполне созрела среди участников российского инновационного сообщества. Этому свидетельствует некоторые факты, например, ОАО &laquo;РВК&raquo; намерена разработать специальную программу сертификации экспертов, а также наладить партнерство с Ассоциацией независимых директоров, которая, возможно, станет &laquo;поставщиком&raquo; менторов.В 2011 году было проведено исследование инновационных компаний, результаты которого показали, что для 2/3 респондентов наиболее востребованными являются услуги по продвижению компании, для 43,3 % &ndash; услуги продвижения продукта компании. Это говорит о том, что эти задачи своими силами компании решить не в состоянии. При этом услуги, связанные с обеспечением производственной деятельности компании, представляют интерес для меньшей группы опрошенных. Следовательно, сотрудники малых инновационных предприятий являются экспертами в области техники и производства, но им не хватает навыков в других аспектах ведения бизнеса (маркетинг, юридическое обеспечение, кадровое обеспечение, финансовое обеспечение). Вследствие чего можно сделать логический вывод о необходимости предоставления данных услуг инновационным проектам другим способом. Новым способом взаимодействия инновационных компаний с целью продвижения компании и ее продукта может стать менторство. Таким образом, актуальность работы базируется на потребности компаний в консультациях ментора и намерении государства организовать систему менторства.Цель работы &ndash; разработать алгоритм формирования пула менторов для бизнес-инкубатора.В данной работе была исследована теоретико-методологическая база процесса менторства, основывающаяся на зарубежном и российском опыте, выявлена роль менторства в системе инкубирования инновационных проектов, рассмотрена история развития менторства как в России, так и за рубежом. Также широко рассмотрено понятие менторства, функции, которые включает в себя это понятие и отличие его от схожих терминов &laquo;коучинг&raquo; и &laquo;консалтинг&raquo;, в работе указаны преимущества менторства в развитии инновационного проекта, как со стороны протеже, так и со стороны наставника. Также в работе поэтапно расписаны процесс определения потребности в менторе и подготовка к взаимодействию с ним. Была составлена типология зарубежных программ взаимодействия с ментором.Нами был составлен алгоритм формирования пула менторов, который включает в себя пять основных этапов:&middot; Выявление потребностей&middot; Поиск менторов&middot; Формирование пула ментора&middot; Распределение команд проектов&middot; Первая встреча ментора и команды проекта.Также в работе были выявлены критерии для алгоритма составления пула менторов. Анализ критериев, которым ментор должен отвечать показал, что основные характеристики ментора при его принятии в различные программы инкубирования проектов охватывают семь основных областей:1. образование;2. опыт;3. возраст;4. количество консультаций;5. степень вовлеченности в процесс;6. статус ментора в настоящий момент;7. результаты в бизнесе.На основе выявленных критериев было проведено исследование в формате полуструктурированного интервью. Интервью проводилось среди резидентов ГУ &laquo;Нижегородский инновационный бизнес-инкубатор&raquo;, выборка составила 17 человек. Исследование проводилось на предмет выявления наиболее важных критериев при формировании пула менторов, а также предпочтительности вариантов данных критериев.По итогам проведенного исследования были получены следующие данные. Ментор, претендующий работать с командами проектов должен обладать следующими критериями:&middot; экономическое или техническое высшее образование;&middot; успешный опыт ведения бизнеса;&middot; возраст от 30 до 50 лет;&middot; возможность уделять команде проекта небольшое количество времени при частых встречах;&middot; умение определять основные направления деятельности компании;&middot; действующий предприниматель либо консультант с успешным опытом предпринимательской деятельности;&middot; наличие в собственности либо опыт владения средним бизнесом.Практическая значимость работы заключается в применении систематизированных в ней теоретических данных и изложенных результатов анализа практического опыта систем взаимодействия менторов и команд проекта. Разработанный алгоритм составления пула менторов может быть использован для организации программы менторства в ГУ &laquo;Нижегородский инновационный бизнес-инкубатор&raquo; в частности и в другие бизнес-инкубаторы области и страны, в общем.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/05/28/1324455585/магистерская Грищева 12ИМ.docx">Текст работы</a>
+			
+				(работа добавлена 28 мая 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (313.45 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

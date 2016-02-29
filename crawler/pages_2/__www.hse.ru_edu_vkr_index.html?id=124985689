@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=124985689'>Включение гибридного типа взаимодействия в повседневные практики: на примере массовых многопользовательских онлайн игр</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Конышева Дарья Сергеевна
+				
+			</div>
+			<div class="cell">
+				
+					Включение гибридного типа взаимодействия в повседневные практики: на примере массовых многопользовательских онлайн игр
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/228688">Баньковская Светлана Петровна</a>
+			</div>
+			<div class="cell">
+				<a href="http://soc.hse.ru/">Факультет социологии</a>
+				<br><div style="padding-top:3px;">(Магистратура)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					9
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Ключевые слова: гибрид, гибридизация, гибридный тип взаимодействия, гибридная идентичность, mmorpg (massively multiplayer online role-playing game), метод триангуляции.Последние два десятилетия, в связи с процессами всеобщей компьютеризации, мы стали практически каждый день погружаться и осуществлять взаимодействия в гибридной среде, а именно, осциллировать между офф-лайн и он-лайн практиками. Данные практики становятся регулярными и как результат &ndash; границы между виртуальным и повседневным становятся относительными, формируется новый гибридный тип взаимодействия. В качестве иллюстрации такого смешанного или гибридного типа взаимодействия он- и офф-лайн, мы взяли одну из самых древних человеческих практик &ndash; игру. Особенность нашего исследования заключается в использовании нового подхода к изучению сложных, смешанных феноменов таких, как совмещение виртуальных и повседневных практик. Для их описания мы вводим понятие &laquo;гибрид&raquo;. В работе мы даём собственные определения &laquo;гибридного типа взаимодействия&raquo; и &laquo;гибридной идентичности&raquo; как результата такого взаимодействия. По причине того, что в литературе материал о социальных гибридах изложен в отдельных теориях и не представлен в системном виде, мы предлагаем собственную типологию виртуальных гибридов. Новизна нашей работы состоит и в применении метода триангуляции, то есть совмещении трёх методов для получения более глубокого эмпирического материала, в нашем случае это полуформализованные интервью, метод видеонаблюдения и анализ статистических данных по mmorpg в России.Целью нашего исследования стало выявление особенностей конструирования гибридного типа взаимодействия в компьютерных играх (он-лайн реальности) и повседневных практиках (офф-лайн), формирования гибридной идентичности. Для достижения заявленной цели, мы поставили следующие задачи, которые планомерно решали в работе. Во-первых, мы описали примеры социальных гибридов и вышли на выделение двух толкований понятия &laquo;гибрид&raquo;: 1. как совмещение раздельного или смешение и 2. как создание абсолютно нового, &laquo;третьего&raquo;. Гибридный тип взаимодействия &ndash; это контакт двух и более сторон (акторов) в двух (или более) коммуникативных средах (он-/офф-лайн), результатом которого становится их смешение или совмещение и образование гибридного объекта (процесса или конкретного феномена). Во-вторых, мы выяснили, что социальных гибридов достаточно много, в работе сосредотачиваемся на изучении виртуальности и повседневности, поэтому характеризуем виртуальную среду, даём примеры теорий виртуализации общества и предлогаем собственную типологию виртуальных гибридов, одной из которых стала практика игры в mmorpg. В-третьих, мы подробно описываем mmorpg как гибридный игровой тип. Одной из важнейших составных единиц игрового гибрида становится идентичность, поэтому мы предлагаем ещё одно определение &ndash; &laquo;гибридная идентичность&raquo;. В-четвёртых, мы обосновываем использование &laquo;методологии гибридного исследования&raquo; для изучения гибридного объекта. В работе мы обращаемся к методу триангуляции Н. Дензина, в котором сочетаются качественная (в нашем случае это метод &laquo;гибридного исследования работы&raquo; Г. Гарфинкеля и метод видеонаблюдения) и количественная методология &ndash; вторичный анализ статистических данных компании Mail.ru Group. Таким образом, нам удалось путём сочетания трёх методов достигнуть поставленной в исследовании цели и показать гибридный характер взаимодействия в виртуальной (он-лайн) и повседневной (офф-лайн) средах. Обе гипотезы подтвердились: первая &ndash; в теоретическом исследовании, при анализе характеристик гибридных феноменов, а вторая &ndash; благодаря анализу разного рода эмпирических данных. В ходе полуформализованных интервью респонденты описывали конкретные примеры влияния мира игры (он-лайн) на реальную жизнь (офф-лайн), рассказывали о личном опыте. В результате видеонаблюдения мы смогли зафиксировать интересующие нас детали, которые порой упускали респонденты. С помощью третьего метода мы показали на количественных данных популярность игры в mmorpg среди разных категорий населения и дополнили описания, характеризующие исследуемую группу геймеров. В итоге, гибридный тип взаимодействия проявляется во взаимном, двухстороннем влиянии исследуемых сред.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/05/1323639691/Конышева Д,С.doc">Текст работы</a>
+			
+				(работа добавлена 5 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (16554 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

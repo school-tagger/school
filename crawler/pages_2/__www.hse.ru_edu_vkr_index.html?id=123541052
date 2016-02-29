@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=123541052'>Сравнительный анализ механизмов Формирования политической идентичности в онлайне и офлайне на примере избирательной кампании в мэры Москвы Алексея Навального в 2013 году</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Сенг Чонгкал Чонгкалович
+				
+			</div>
+			<div class="cell">
+				
+					Сравнительный анализ механизмов Формирования политической идентичности в онлайне и офлайне на примере избирательной кампании в мэры Москвы Алексея Навального в 2013 году
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/3881961">Соболева Ирина Владимировна</a>
+			</div>
+			<div class="cell">
+				<a href="http://fpp.hse.ru/">Факультет прикладной политологии</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">В данном исследовании я буду изучать вопрос политизации групповых интересов и их перехода в поле политической борьбы на примере избирательной кампании Алексея Навального 2013 года. Актуальность выбранной темы обоснована как релевантностью политического события, так и растущим интересом к интернет политике (так называемой Политике 2.0): мобилизации политических групп через интернет, анализу социальных сетей (SNA), а также вновь возобновившемуся интересу к политике идентичности (identity politics) в связи с ростом популярности Интернета как механизма коллективного действия. Все эти шаги необходимы для понимания главной исследовательской проблемы: совпадают ли механизмы политизации групповых интересов в онлайне с механизмами формирования политической идентичности в оффлайне на примере сторонников Алексея Навального в ходе избирательной кампании в мэры Москвы в 2013 году. Гипотезы исследования: 1)механизмы политизации групповых интересов в онлайне и оффлайне совпадают друг с другом.2)Фактор структурной возможности (наличие сетей) в онлайне доминирует над индивидуальными факторами политической мобилизации.3)Электорат Навального преимущественно молодежь с Высшим образованием. 4)Ключевым вопросом и элементом кампании стало формирование вовлекающей мобилизационной сети. 5)Индивидуальные факторы и сетевые факторы одинаково важны и дополняют друг друга в процессе формирования политической идентичности. Объектом исследования является политическая идентичность участника избирательной кампании Алексея Навального.Предметом исследования являются механизмы формирования политической идентичности участника избирательной кампании Алексея Навального в онлайне и оффлайне. Цель: Определить механизмы политизации групповых интересов в онлайне и оффлайне на примере сторонников Алексея Навального в ходе избирательной кампании в мэры Москвы в 2013 году. Задачи: 1.Проанализировать исследования групповой политической идентичности (identity). 2.Проанализировать исследования влияния индивидуальных характеристик на политическую мобилизацию. 3.Проанализировать исследования метода Анализа Социальных сетей (SNA). 4.Описать механизмы формирования политической идентичности в онлайне протестного движения современной российской оппозиции. 5.Определить механизмы формирования политической идентичности в онлайне и офлайне в кампании Навального. 6.Определить факторы влияющие на мобилизацию групповой идентичности. 7.Определить Роль социальных сетей в формировании политической идентичности и мобилизации групповых интересов среди сторонников Навального.</div>
+	
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

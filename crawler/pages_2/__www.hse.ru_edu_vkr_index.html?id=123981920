@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=123981920'>Организационные, финансовые, психологические проблемы функционирования редакции он-лайн СМИ</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Мануйлова Анастасия Гайковна
+				
+			</div>
+			<div class="cell">
+				
+					Организационные, финансовые, психологические проблемы функционирования редакции он-лайн СМИ
+				
+			</div>
+			<div class="cell">
+				Романова Ольга Евгеньевна
+			</div>
+			<div class="cell">
+				<a href="http://mediacom.hse.ru/">Факультет медиакоммуникаций</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					8
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">АннотацияК ВЫПУСКНОЙ КВАЛИФИКАЦИОННОЙ РАБОТЕНа тему:«Современные проблемы функционирования редакции он –лайн СМИ и организация редакционной деятельности. Особенности виртуальных редакций и законодательные проблемы регулирования их деятельности»Данная выпускная квалификационная работа посвящена исследованию одного из принципиально новых способ сокращениярасходов он-лай СМИ, при котором для организации издательского процесса используется виртуальная редакция. Термин«виртуальная редакция» в данном случае предполагает, что всештатные работники такой редакции в постоянном режиме работают удаленно. Научная разработанность этой темы практически отсутствует, так как ранее никто не исследовал виртуальную организацию работы именно в сфере журналистики как отдельный предмет. Объектом исследования этой работы являются принципы работы виртуальных редакций российских он-лайн медиа. В качестве предмета исследования рассматривается практика применения основных принципов работы виртуальных редакций с учетом их технологических, финансовых, организационных и психологических особенностей российскимимедиаменеджерами. В качестве гипотезы в этой работе используется предположение о том, что несмотря на то, что на нынешней стадии развития он-лайн медиа в России немногие из них используют виртуальные редакции, в течении следующих нескольких лет такой тип организации издательского процессастанет среди них достаточно популярным. Широкое распространение виртуальных редакций будет являться следствием их несомненного преимущества в технологической, организационной и финансовой областях. Соответственно, цель этого исследования состоит в том, чтобы осуществить комплексный анализ практики применения различныхтехнологий использования виртуальных редакций российских он-лайн медиа и выявить их особенности, а так же преимущества и недостатки. Отсюда можно сформулировать следующие задачи данного исследования:— сбор, анализ и систематизация основных типов виртуальныхредакций, которые были представлены в сегменте российских он-лайн медиа— обобщение полученного материала путем классификации основных типов вышеназванных редакций— выявление и описание финансовых, психологических иорганизационных особенности их функционирования— составление экспертной панели— сбор и анализ мнений «внутренних» экспертов по вопросунаиболее эффективного способа использования такого типа редакции— сбор и анализ мнения «внешних» экспертов по вопросувозможности применения на российском рынке он-лайн медиа такого типа редакции.Методы, которые были применены в рамках данного исследования, -это комплексный анализ, личное наблюдение и глубинное интервью. Для написания этой работы был применен системный подход, который включал в себя теоретический и эмпирический компоненты. В качестве теоретического базиса были использованы работы американского исследователя Джила Гордона «Telecommuting: How to Make It Working forYou and Your Company» и «Teleworking Explained», Мануэля Кастельса «Информационная эпоха: экономика, общество и культура» и «Галактика Интернет: Размышления об Интернете, бизнесе и обществе», книга Елены Вартановой «Медиаэкономика в информационном обществе», издание «Knowledge management in the digital newsroom», книга «Ремесло» Леонида Бершидского. Что касается эмпирической части, то в данном случае она, включала в себя глубинные интервью с медиаменеджерами, которые руководили работой основных виртуальных редакций российских он-лайн медиа, и медиаэкспертами. В результате рассмотрения основных финансовых, организационных и психологических особенностей работы виртуальной редакции были выявлены ее несомненных преимущества перед традиционном типом организации издательского процесса. Использование виртуальной редакции позволяет сократить ежемесячные расходы медиа до 20% и существенно экономит временные ресурсы ее сотрудников. Также использование в процессе работы исключительно письменной коммуникации позволяет в конечном итоге улучшить качество контента издания. Приведенные выше аргументы являются достаточными для подтверждения гипотезы данного исследования, из чего следует, что у виртуа</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/05/25/1324733106/ВКР итог совсем.pdf">Текст работы</a>
+			
+				(работа добавлена 25 мая 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/pdf.gif"> (407.11 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

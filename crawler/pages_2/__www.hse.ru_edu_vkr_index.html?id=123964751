@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=123964751'>Рецепция антивоенных фильмов Стэнли Кубрика в англоязычной и русскоязычной кинокритике</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Карташова Евгения Дмитриевна
+				
+			</div>
+			<div class="cell">
+				
+					Рецепция антивоенных фильмов Стэнли Кубрика в англоязычной и русскоязычной кинокритике
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/11730611">Лапина-Кратасюк Екатерина Георгиевна</a>
+			</div>
+			<div class="cell">
+				<a href="http://mediacom.hse.ru/">Факультет медиакоммуникаций</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					9
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Темой моего исследования является «Анализ развития русской кинокритики через изучение рецепции антивоенных фильмов Кубрика в русскоязычной и англоязычной прессе». В своей работе описываю процесс развития кинокритики в России, опираясь на теоретические работы и сравнение русских, английских и американских кинорецензий.Объект моего исследования – критические статьи, посвященные творчеству Кубрика, в частности фильмам «Тропы славы» (1957), «Доктор Стрейнджлав, или как я научился не волноваться и полюбил атомную бомбу» (1964) и «Цельнометаллическая оболочка» (1987).Предмет моего исследования – различные подходы к анализу русскоязычных и англоязычных критических статьей с целью выявления разницы в подходах к работе разных кинокритиков. Цель моего исследования – определить специфику современной российской кинокритики по сравнению с англоязычной и наметить наиболее перспективные направления для более успешного достижения как эстетических, так и экономических целей. В методах исследования я буду придерживаться сравнительного анализа статей и экспертного интервью.Гипотеза моего исследования – кинокритика в России находится в кризисе, для выхода из которого необходимо следовать примеру США и Великобритании.В данной исследовательской работе я исследую российский рынок кинокритики через сравнение его с английским и американским рынками и через анализ рецензий. Все материалы подобраны с определенным принципом – это критические или аналитические статьями, посвященным антивоенным фильмам Стэнли Кубрика. Данный выбор оправдан тем, что именно с Кубрика, по мнению российского кинокритика Андрея Шемякина, началась русская кинокритика. Мне хотелось бы убедиться в обоснованности этого высказывания. Для чего я использую интервью с самим Шемякиным, а также интервью с другими журналистами. Через анализ отдельного узкого сегмента – рецензий на фильмы «Тропы славы» (1957), «Цельнометаллическая оболочка» (1964) и «Доктор Стрейнджлав, или как я научился не волноваться и полюбил атомную бомбу» (1987) я надеюсь проанализировать ситуацию в российской кинокритике на данный момент. Эта тема актуальна, потому что, на мой взгляд, российская кинокритика напрямую связана с российским кинематографом. Кризис в обеих сферах очевиден. С помощью своего исследования я пыталась выявить причины этого кризиса и спрогнозировать его последствия. Выбор именно антивоенных фильмов оправдан тем, что они вызывали самый широкий общественный резонанс. К тому же, позиции критиков по этим фильмам должны были расходиться в силу расхождения позиций США и СССР в 60-80е. Исследование разделено на три главы. Первая глава посвящена историческому аспекту кинокритики в России, Великобритании и США. Что необходимо для составления выводов и объективного сравнительного анализа статей. Во второй я представляю несколько результатов конференций кинокритиков, посвященных кризису профессии, в том числе: статьи в журнале «Cineaste» за 2000й год и в «Искусство кино» за 1995й и за 2011й. Также она содержит интервью и комментарии современных кинокритиков по теме. Третья глава посвящена непосредственно анализу русскоязычных и англоязычных статей. В результате исследования мне не удалось доказать свою гипотезу, так как для решения проблемы на рынке российской кинокритики необходим более глубокий подход, чем просто перенимание опыта у критиков США и Великобритании. Необходимо менять государственную систему поддержки СМИ. Пока не будут преобразованы все сферы медиа, нельзя будет решить проблемы в одном отдельном секторе.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/05/25/1324715933/предзащита.docx">Текст работы</a>
+			
+				(работа добавлена 25 мая 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (167.75 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=125468543'>Соответствие организационной структуры компании особенностям отрасли ( на примере компании "N", оперирующей в медиа отрасли)</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Козеева Алина Владимировна
+				
+			</div>
+			<div class="cell">
+				
+					Соответствие организационной структуры компании особенностям отрасли ( на примере компании "N", оперирующей в медиа отрасли)
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/61174">Предводителева Марина Дмитриевна</a>
+			</div>
+			<div class="cell">
+				<a href="http://www.hse.ru/org/hse/man/">Факультет менеджмента</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					9
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Темой данной выпускной квалификационной работы является соответствие организационной структуры компании особенностям отрасли на примере медиа компании &laquo;N&raquo;, оперирующей в медиа отрасли.Представленная работа может быть интересна руководителям медиа компаний, а также менеджерам, занимающимся дизайном организационной структуры.Целью данной работы является разработка комплекса рекомендаций по изменению организационной структуры компании &laquo;N&raquo;, на основе анализа соответствия организационной структуры компании &laquo;N&raquo; особенностям российской медиа отрасли.Объектом исследования является компания &laquo;N&raquo; , оперирующая в российской медиа отрасли в сегменте производства видео контента.Предметом исследования является взаимосвязь организационной структуры компании и особенностей отрасли, в которой она оперирует.Для достижения цели автор ставит следующие задачи:&bull; Систематизировать подходы к дизайну организационной структуры&bull; Обобщить теоретические концепции анализа отрасли.&bull; Охарактеризовать деятельность компании &laquo;N&raquo;.&bull; Проанализировать организационную структуру компании &laquo;N&raquo;.&bull; Выявить особенности медиа отрасли России.&bull; Произвести анализ соответствия организационной структуры компании &laquo;N&raquo; особенностям российской медиа отрасли.&bull; Разработать рекомендации компании &laquo;N&raquo; по изменению организационной структуры в соответствии с особенностями медиа отрасли.В качестве методологической основы для анализа структуры компании &laquo;N&raquo; автор использует концепцию &laquo; пяти конфигураций организационной структуры&raquo; Г.Минцберга. Проведенный анализ организационной структуры компании &laquo;N&raquo; опирается на информацию, полученную в ходе интервью с руководством компании, а также на данные из предоставленных внутренних материалов о деятельности компании.Для исследования российской медиа отрасли были использлваны следующие методы: выделение ключевых факторов успеха отрасли, определение стадии жизненного цикла отрасли, конкурентный анализ &laquo;пяти сил&raquo; М.Портера, а также выделение стратегических групп. В качестве информации, используемой в ходе анализа были рассмотрены данные из последних исследований российской медиа отрасли, проведенных PWC, Deloitte и J&rsquo;sons &amp; Partners Consulting . Также были проведены три экспертных интервью, где респондентами являлись генеральный директор компании &laquo;N&raquo;, исполнительный продюсер и главный продюсер.В итоговой главе автор получает в качестве выводов характеристику существующей организационной структуры компании &laquo;N&raquo; , а также выделяет особенности медиа отрасли России. В ходе проведения заключающего анализа, автор приходит к выводу о несоответствии организационной структуры компании &laquo;N&raquo; особенностям российской медиа отрасли.Результатом работы являются рекомендации по изменению организационной структуры компании &laquo;N&raquo;. Автор разрабатывает, в качестве рекомендуемой, схему организационной структуры, соответствующей выделенным особенностям медиа отрасли России.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/10/1324121517/ВКР Козеева А.В. 422.docx">Текст работы</a>
+			
+				(работа добавлена 10 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (990.61 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=123756064'>Проблема мифологизации политической власти в сети интернет</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Обуденкова Анастасия Владимировна
+				
+			</div>
+			<div class="cell">
+				
+					Проблема мифологизации политической власти в сети интернет
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/36170205">Шомова Светлана Андреевна</a>
+			</div>
+			<div class="cell">
+				<a href="http://mediacom.hse.ru/">Факультет медиакоммуникаций</a>
+				<br><div style="padding-top:3px;">(Магистратура)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					9
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">В данной работе рассматривается проблема мифологизации политической власти в сети интернет. Объектом исследования является феномен мифологизации политической власти. Предметом исследования служат приёмы конструирования мифологического образа политической власти в сети интернет. Гипотеза исследования состоит в том, что в сети интернет происходит чаще всего процесс демифологизации образа власти. Цель данной работы &ndash; проанализировать процесс мифологизации политической власти в сети интернет. Задачи исследования &ndash; определить сущность процесса политической мифологии; выявить формы политической власти; проанализировать миф как культурный феномен; осмыслить мифологические приемы в создании имиджа политической власти в сети интернет; типологизировать способы конструирования мифов политической власти; выявить признаки мифологизации и демифологизации образа власти в сети интернет. Для достижения поставленных целей и задач в работе используются методы типологизации и сравнительного анализа, анализ контента сайтов и социальных сетей, метод ситуационного анализа, метод кейс-стади. Теоретической базой исследования служат труды из области философии и культурологии (Р.Барт, А. Лосев, К. Юнг, М. Элиаде и др.), политологии (Э. Кассирер, А. Кольев, Н. Шестов, А. Цуладзе, Е. Шейгал, Е.Б. Шестопал, Г. Алмонд и др.), социологии (Ж. Бодрийяр, Е. Вятр и др.) теории новых медиа и теории политической коммуникации (М.Н. Грачев, Р.-Ж. Шварценберг, С.А. Шомова, М. Кастельс, М.А. Щенников, С.Г. Туронок , Д. Якобсон, Ф.Уэбстер, А. Черных, Л. Манович и др.). Эмпирическую базу работы составили материалы интернет-СМИ (РИА Новости, Newsru.com, Slon.ru, Lenta.ru, Газета.ru и др.), официальные правительственные сайты (www.kremlin.ru, www.goverment.ru, www.gov.ru и др.), блоги и социальные сети (Живой журнал, Twitter, Facebook, Вконтакте). Структура работы обусловлена ее целями и задачами и состоит из введения, трех глав, заключения, списка литературы и приложений. Во введении определены актуальность темы, объект и предмет исследования, степень изученности проблемы, гипотеза исследования, ставятся цель и задачи исследования, указывается методологическая база исследования, его теоретическая и практическая значимости. В первой главе рассматривается понятие мифа и политической мифологии, выделяются свойства и основные характеристики мифа. Во второй главе рассматривается понятие политического имиджа, анализируются методы, с помощью которых происходит конструирование политического имиджа, осмысляется понятие политической власти, а также рассматриваются особенности политической коммуникации в сети интернет. Третья глава содержит анализ конкретных материалов из сети интернет, рассматривается, как формируется образ Владимира Путина и Дмитрия Медведева в интернете, анализируется разница между образами на официальных правительственных сайтах, в интернет-СМИ, блогах и социальных сетях. Заключение посвящено основным выводам, здесь подводятся итоги по каждой главе, отмечается подтверждение гипотезы, выдвинутой во введении, &ndash; в сети интернет чаще всего происходит процесс демифологизации образа власти.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/05/23/1324768498/ВКР Обуденкова.docx">Текст работы</a>
+			
+				(работа добавлена 23 мая 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (2220.73 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

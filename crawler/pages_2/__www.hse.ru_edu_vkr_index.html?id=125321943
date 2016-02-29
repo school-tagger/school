@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=125321943'>Анализ методов управления рисками для стратегического инвестора</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Бурковская Алина Вячеславовна
+				
+			</div>
+			<div class="cell">
+				
+					Анализ методов управления рисками для стратегического инвестора
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/31135086">Марковская Елизавета Игоревна</a>
+			</div>
+			<div class="cell">
+				<a href="http://spb.hse.ru/economics/">Факультет экономики (Санкт-Петербург)</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					8
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Правительство Российской ФедерацииСанкт-Петербургский филиал федерального государственного автономного образовательного учреждения высшего профессионального образования"Национальный исследовательский университет "Высшая школа экономики"Факультет экономикиАННОТАЦИЯбакалаврской работына тему: «Анализ методов управления рисками для стратегического инвестора»Направление: ЭкономикаПрограмма: Студент:группы № 142Бурковская Алина ВячеславовнаНаучный руководитель:д.э.н., доцент Марковская Елизавета ИгоревнаСанкт-Петербург 2014 г. Бакалаврская работа на тему «Анализ методов управления рисками для стратегического инвестора» содержит 9 рисунков, 4 таблицы и 3 приложения. Объем работы составляет 62 страницы. Для написания работы было использовано 33 источника. Ключевые слова: инвестиции, стратегический инвестор, риск, система управления рисками, риск-менеджмент.Инвестиционная деятельность всегда сопровождается определённой долей риска. Инвестиции можно назвать своеобразным «источником жизни» для компаний. Но в силу неопределённого количества факторов и вариантов их взаимодействия, инвестиции не всегда могут быть эффективными. Поэтому с помощью построения системы управления можно предотвратить, снизить или локализовать все риски, которые возможно спрогнозировать. Но систему в каждом отдельном случае надо адаптировать к существующим условиям. Актуальность работы заключается в том, что она подразумевает анализ системы управления рисками с учётом специфики сделок, с участием стратегического инвестора. Для примера была выбрана сделка компаний из сферы бизнеса с высокими темпами развития и уровнем сложности, из телекоммуникационной отрасли, рынок сотовой связи.Таким образом, актуальность тематики и отсутствие подобных исследований определили цель данной работы. Целью исследования является анализ существующих методик и создание алгоритма, наиболее подходящего для анализа рисков стратегических инвестиций.Объектом исследования являются специфические условия, сопровождающие сделки с участием стратегического инвестора, и связанные с этим возможные нестандартные риски. Предметом исследования стала система управления рисками и методы их снижения.Научная новизна работы заключается в том, что она направлена на проверку существующего способа построения системы управления рисками и методов снижения рисков в условиях проведения стратегических инвестиций. Практическая значимость заключается в создании алгоритма формирования системы риск-менеджмента, для сделок в области стратегических инвестиций.Методологическая основа работы состоит из методов дедукции и индукции, качественного анализа рисков, финансового анализа компании, проведение опроса, систематизация полученных данных.Работа состоит из введения, трёх глав, заключения, списка литературы и приложений. В первой главе «Теоретические основы функционирования процесса стратегического инвестирования и риск-менеджмента» даётся обзор источников связанных с основами инвестирования, стратегического инвестора и системы риск-менеджмента. Также особое внимание уделяется состоянию в России, тенденциям, проблемам и перспективам развития. На основе изученных материалов сформулированы ключевые понятия, связанные со стратегическими инвестициями и стратегическим инвестором.Во второй главе «Методические основы построения системы риск-менеджмента» содержится аналитический обзор системы риск менеджмента, качественного и количественного методов оценки риска. Рассмотрены базовые аспекты формирования системы управления, а также этапы её построения. Представлены и описаны основные способы проведения качественного и количественного методов.В третьей главе «Анализ сделки ОАО «Мегафон» и ООО «Yota»» проведён анализ нестандартных условий сделки, возникающих при участии стратегического инвестора. Проведена идентификация и качественный анализ возможных рисков, на основе которых сформированы предложения по проведению ряда мероприятий для снижения рисков.На основе данных сделки ОАО «Мегафон» и ООО «Yota» было проведено исследование процесса построения системы управления рисками. Несмотря на отсутствие доступа к части информации, с помощью проведения детального качественного анализа, анализа финансового состояния компании ООО «Yota» и дополнительных исследований, были выявлены возможные риски и предложены меры по их минимизации. Было выявлено, что единственным вариантом снижения рисков для данной сделки является локализация рисков с помощью проведения определённых мероприятий. В ходе работы было определено, что проведение иных методов не представляется возможным, по причине специфических условий, привнесённых стратегическим инвестором, компанией ОАО «Мегафон». Кроме того, дополнительное исследование помогло выявить тот факт, что LTE технологии пока что не сильно востребованы. Основной причиной этого является то, что ценовой диапазон мобильных устройств, позволяющих работать в данной сети, слишком высок, что делает их недоступными для абонентов. Также опрос показал, что 20% респондентов вообще не нуждается в мобильном Интернете и не использует эту услугу у своего оператора. Целью данной работы был анализ существующих методик и выбор алгоритма, наиболее подходящих для анализа рисков стратегических инвестиций. С помощью алгоритма, применённого в главе 3, удалось установить, что при построении системы управления рисками сделки со стратегическим инвестированием эффективен только метод локализации рисков.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/08/1324236805/Выпускная квалификационная работа, Бурковская А. В..docx">Текст работы</a>
+			
+				(работа добавлена 8 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (403.26 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=144091760'>Совершенствование системы управления школой на основе проектного офиса</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Моисеева Елена Борисовна
+				
+			</div>
+			<div class="cell">
+				
+					Совершенствование системы управления школой на основе проектного офиса
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/201719">Шубнякова Наталья Геннадьевна</a>
+			</div>
+			<div class="cell">
+				<a href="http://nnov.hse.ru/management/">Факультет менеджмента (Нижний Новгород)</a>
+				<br><div style="padding-top:3px;">(Магистратура)</div>
+			</div>
+			<div class="cell">
+				Управление образованием
+			</div>
+			<div class="cell centered">
+				
+					8
+				
+			</div>
+			<div class="cell centered">2015</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Целью данной работы является разработка и внедрение модели управления на основе &laquo;проектного офиса&raquo; в МБОУ СОШ №24.Для достижения выше поставленной цели необходимо решить ряд задач:Рассмотреть современные модели управления образовательными организациями;рассмотреть современные подходы к организации проектных офисов;выявить проблемы управления в МБОУ СОШ №24 при помощи SWOT &ndash; анализа и методике жизненных циклов И.Адизеса;разработать комплекс мероприятий, направленных на решение выявленных проблем через создание проектного офиса.Ожидаемым результатом от внедрения проектного офиса в МБОУ СОШ №24 является: создание единой системы по управлению разными направлениями деятельности школы (рассматриваемыми как проекты), включающей описание и регламентацию основных процессов управления ими, структуру проектного офиса, с распределением функций, задач и ролей каждого структурного элемента, методику инициации проекта, систему оценки и контроля, единое информационное пространство, построенное на основе Google Apps. Практическая значимость диссертационного исследования заключается в том, что разработанная модель проектного офиса для МБОУ СОШ №24 может быть применена не только в отдельно взятой школе, но и в любом подобном учебном заведении. Объектом исследования магистерской диссертации является муниципальное бюджетное образовательное учреждение средняя общеобразовательная школа №24. Предметом исследования является управленческая деятельность в МБОУ СОШ №24.При применении проектного офиса все традиционные направления деятельности оформляются в качестве проектов сроком на 1 год с конкретными видами и целями деятельности. Каждый проект имеет своего руководителя из команды школьных управленцев. Совокупность проектов образует своего рода &laquo;проектный офис&raquo;, включающий в себя в качестве элементов методическую, информационную и ресурсную подсистемы. Вся информация по проекту размещается в свободном доступе на сайте проектного офиса. &laquo;Реперные точки&raquo; каждого проекта отражаются в общем календаре Google и служат основным планом работы школы на год для всего коллектива. Механизм внедрения проектного офиса связан с поэтапной разработкой и внедрением в систему управления школой методической, информационной и ресурсной подсистем &laquo;проектного офиса&raquo;.Методическая подсистема включает в себя описание основных бизнес-процессов инициации, планирования, реализации и контроля проектов; комплект нормативно-регламентных документов по планированию, мониторингу, отчетности и анализу проекта (паспорт проекта, календарь, аналитический отчет и т.п.).Для создания информационной подсистемы проектного офиса могут быть использованы сервисы Google Apps, DOCS, sites, mail, contacts.Ресурсная подсистема подразумевает развитие материально-технического обеспечения и кадрового потенциала образовательных организаций.Проектный офис &ndash; это средство, позволяющее планировать, организовывать и контролировать процесс достижения целей образовательного учреждения на всех уровнях за счет наличия единой организационной и информационной среды выполнения проектов. </div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2015/02/25/1090562210/Совершенствование  системы управления школой как проектным офисом.pdf">Текст работы</a>
+			
+				(работа добавлена 25 февраля 2015г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/pdf.gif"> (6811.03 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

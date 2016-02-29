@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=125518897'>Разработка организационно-экономического механизма процессов реинжиниринга на судостроительном предприятии (на примере ООО "Невский судостроительно-судоремонтный завод")</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Щербаков Сергей Сергеевич
+				
+			</div>
+			<div class="cell">
+				
+					Разработка организационно-экономического механизма процессов реинжиниринга на судостроительном предприятии (на примере ООО "Невский судостроительно-судоремонтный завод")
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/202843">Швец Сергей Константинович</a>
+			</div>
+			<div class="cell">
+				<a href="http://spb.hse.ru/economics/">Факультет экономики (Санкт-Петербург)</a>
+				<br><div style="padding-top:3px;">(Магистратура)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					9
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Судостроительным предприятиям России в настоящее время необходимо достижение конкурентоспособности на международном рынке. Одним из способов повышение конкурентоспособности является проведение реинжиниринга на предприятии, поэтому тема данной магистерской диссертации является особенно актуальна.Целью настоящей магистерской диссертации является разработка организационно-экономического механизма процессов реинжиниринга на судостроительном предприятии для повышения конкурентоспособности.Достижение поставленной цели добивается через решение следующих исследовательских задач: - Изучение концепции реинжиниринга; - Анализ процессов реинжиниринга при реорганизации предприятия; - Изучение инфраструктуры реинжиниринга; - Анализ текущего состояния производственно-хозяйственной деятельности судостроительного предприятия ООО &laquo;Невский судостроительно-судоремонтный завод&raquo;; - Анализ технологических процессов на судостроительном предприятии; - Разработка методических рекомендаций по проектированию механизма процессов реинжиниринга на судостроительном предприятии; - Проведение расчета экономической эффективности реинжиниринга на судостроительном предприятии на примере &laquo;Невского судостроительно-судоремонтного завода&raquo;.В магистерской диссертации был произведен анализ как текущего состояния производственно-хозяйственной деятельности судостроительного предприятия ООО &laquo;Невский судостроительно-судоремонтный завод&raquo;, так и отечественной судостроительной отрасли.В данной работе был разработан новый технологический процесс постройки судна и создана имитационная модель этого технологического процесса в среде Anylogic. В имитационной модели была показана достижимость рассчитанных сроков строительства судна. Программная среда Anylogic показала себя как одним из лучших современных инструментов имитационного моделирования. Имитационные модели, созданные Anylogic, рекомендованы как инструмент проведения реинжиниринга на судостроительном предприятии. Даны рекомендации для создания системы управления(логистика, планирование и управление) с применением иерархической модели постройки судна на судостроительном заводе, которая является неотъемлемой частью его успешного функционирования.Проект проведения реинжиниринга связан с положительными изменениями в технико-экономических характеристиках производства. К таким изменениям относятся:- Сокращение строительного цикла строительства и, как следствие, увеличение прибыли завода, сокращение потребности в оборотном капитале.- Снижение себестоимости строительства и, как следствие, увеличение прибыли в расчете на один заказ.Данный проект проведения реинжиниринга судостроительного предприятия является экономически целесообразным. Это диктуется следующими обстоятельствами:1. Инвестиции окупаются в 2022 году;2. Данный проект за период до 2023 года принесет экономическийэффект, определяемый величиной 2,94 млн.евро;3. Внутренняя норма рентабельности данного проекта составляет 17,2%. Представленный механизм процесса реинжиниринга показал свою эффективность на примере ООО &laquo;Невский судостроительно-судоремонтный завод&raquo; и может иметь практическое применение для повышения конкурентоспособности на судостроительных заводах России. </div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/11/1324173027/Магистерская диссертация_Щербаков_С_С.docx">Текст работы</a>
+			
+				(работа добавлена 11 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (893.08 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=124732055'>«Совершенствование маркетингового комплекса организации на примере компании ООО «сохо груп»</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Кленницкая Елена Владимировна
+				
+			</div>
+			<div class="cell">
+				
+					«Совершенствование маркетингового комплекса организации на примере компании ООО «сохо груп»
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/445221">Захаров Владимир Яковлевич</a>
+			</div>
+			<div class="cell">
+				<a href="http://nnov.hse.ru/management/">Факультет менеджмента (Нижний Новгород)</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					8
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Тема выпускной квалификационной работы:&laquo;Совершенствование маркетингового комплекса организации на примере компании ООО &laquo;сохо груп&raquo;. Ключевые слова:Маркетинговый комплекс, стратегия 4P, маркетинговый микс, элитная продукция, элитный рынок, премиум &ndash; сегмент, элитный бренд, &laquo;Ermenegildo Zegna&raquo;, &laquo;сохо груп&raquo;. Краткая характеристика работы:Цель данной работы &ndash; разработать комплекс мер для совершенствования системы продвижения компании ООО &laquo;сохо груп&raquo;.Объектом исследования в работе является компания &laquo;сохо груп&raquo;.Предмет исследования &ndash; маркетинговый комплекс компании &laquo;сохо груп&raquo;.Основной исследовательский вопрос: чем и на сколько инструменты маркетингового комплекса для компаний, оперирующих на рынке элитной продукции отличаются от инструментов маркетингового комплекса массового рынка.Автором были поставлены и решены следующие задачи:1. Рассмотреть теоретические особенности маркетингового комплекса на рынке товаров престижного спроса.2. Проанализировать особенности позиционирования марок элитного рынка, на основе которых строится товарная политика.3. Определить особенности ценовой политики.4. Изучить особенности сбытовой и коммуникационной политик.5. Разработать рекомендации по совершенствованию комплекса маркетинга.6. Определить эффективность предложенных мер. В соответствии с обозначенной целью исследования и для решения поставленных задач был выбран поисковый метод исследования. Основной инструмент эмпирического исследования &ndash; анкетирование. Практическая значимость заключается в разработке комплекса маркетинговых действий, учитывающего специфику рынка элитной продукции и направленного на повышение прибыльности исследуемой организацией.Новизна работы заключается в разработке методологии исследования маркетинговой деятельности фирмы на рынке мужской элитной продукции с учетом специфики рынка элитной продукции. Структура ВКР:&middot; Введение&middot; Первая глава посвящена рассмотрению теоретических аспектов создания комплекса маркетинга организации, работающей на рынке элитной продукции, а также методологии исследования.&middot; Вторая глава представляет анализ комплекса маркетинга компании ООО &laquo;сохо груп&raquo;.&middot; Третья глава содержит рекомендации по совершенствованию комплекса маркетинга для компании ООО &laquo;сохо груп&raquo;.&middot; Заключение&middot; Список используемой литературы&middot; Приложение В работе даны следующие предложения по совершенствованию маркетинг-микса:&middot; Расширение сбытовой сети, выход в новые города&middot; Сокращение величины скидок на продукцию в период распродаж&middot; Уточнение и детализация позиционирования бренда&middot; Корректировка основных маркетинговых материалов компании с учетом этого позиционированияТакже в ВКР рассчитана финансовая эффективность предлагаемых мер. Объем выпускной квалификационной работы &ndash; 92 страницы, для написания данной работы было рассмотрено 52 источника информации, ВКР включает в себя 23 таблицы и 8 диаграмм (графиков). </div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/02/1324957765/ВКР элитная продукция (2).docx">Текст работы</a>
+			
+				(работа добавлена 2 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (373.36 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

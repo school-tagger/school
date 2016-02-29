@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=123884375'>Разработка конкурентной стратегии компании на основе принципов «партизанского» маркетинга</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Смирнова Анастасия Игоревна
+				
+			</div>
+			<div class="cell">
+				
+					Разработка конкурентной стратегии компании на основе принципов «партизанского» маркетинга
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/36556166">Шушкин Михаил Александрович</a>
+			</div>
+			<div class="cell">
+				<a href="http://nnov.hse.ru/management/">Факультет менеджмента (Нижний Новгород)</a>
+				<br><div style="padding-top:3px;">(Магистратура)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Тема: Разработка конкурентной стратегии компании на основе принципов &laquo;партизанского&raquo; маркетинга.Объем дипломной работы 93 страницы, на которых размещены 27 рисунков. При написании диплома использовались 82 источника.Объектом исследования при написании работы послужили нижегородские туристические агентства.Предметом исследования работы явились особенности конкурентной борьбы на нижегородском рынке туристического бизнеса в современных условиях. Целью данной работы является разработка маркетинговой стратегии для компании &quot;Афродита&quot; на основе принципов партизанского маркетинга.В данной работе были поставлены следующие задачи:&middot; выявить и оценить факторы сдерживающие и мотивирующие на реализацию новых маркетинговых стратегий в туристических компаниях Нижнего Новгорода;&middot; исследовать потребительские предпочтения на рынке туристских услуг г.Нижнего Новгорода;&middot; обоснование конкурентной стратегии компании &quot;Афродита&quot;, разработка рекомендаций по выбору сегментов и позиционированию компании с целью ее дифференциации от крупных туристических агентств;&middot; разработка элементов функциональной маркетинговой стратегии с использованием принципов партизанского маркетинга.В дипломную работу входит введение, три главы, итоговое заключение, список используемой литературы и приложения.В первой главе дается определение конкурентной среды предприятия, рассматриваются конкурентные стратегии фирмы, дается определение &quot;партизанскому&quot; маркетингу, определяются факторы, сдерживающие и мотивирующие на реализацию новых маркетинговых стратегий.Во второй главе работы происходит анализ туристического рынка Российской Федерации и проводится исследование потребительский предпочтений в Нижнем Новгороде.В третьей главе описывается маркетинговая стратегия туристического агентства &quot;Афродита&quot;. Предлагается стратегия сегментирования и позиционирования, происходит формирование товарного предложения, определяется ценовая стратегия компании. Кроме того, происходит разработка основных элементов политики продвижения агентства на основе партизанского маркетинга и формирование дизайна канала распределения. В самом конце главы дается оценка эффективности проекта.Для исследования были использованы следующие методы:- контент-анализ;- экспертный опрос;- анкетирование.Практическая значимость проведенной работы обусловлена тем, что теоретические, методологические, практические рекомендации автора могут быть широко и эффективно применены при формировании конкурентной стратегии туристического агентства, как на местном, так и на региональном уровнях.Новизна работы заключается в рассмотрении партизанского маркетинга с точки зрения туристических компаний Нижнего Новгорода. Также выделается новый рынок, образованный на стыке свадебного и туристического рынков.По итогу работы была разработана маркетинговая стратегия для туристического агентства &quot;Афродита&quot;. </div>
+	
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

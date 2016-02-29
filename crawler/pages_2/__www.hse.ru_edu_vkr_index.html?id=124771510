@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=124771510'>Построение оптимальной модели конкурса инновационных проектов</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Степанова Дарья Константиновна
+				
+			</div>
+			<div class="cell">
+				
+					Построение оптимальной модели конкурса инновационных проектов
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/4219073">Сидоров Дмитрий Викторович</a>
+			</div>
+			<div class="cell">
+				<a href="http://nnov.hse.ru/management/">Факультет менеджмента (Нижний Новгород)</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					8
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Тема моей выпускной квалификационной работы: &laquo;Построение оптимальной модели конкурса инновационных проектов&raquo;Актуальность выпускной работы обусловлена тем, построение оптимальной модели необходимо из-за роста числа конкурсов инновационных проектов, которые стимулируют активное появление перспективных разработок и коммерциализацию результатов научных исследований. Правительство Российской Федерации внедряет комплекс действий, направленных на повышение устойчивости экономики, одним из них является создание, продвижение, распространение конкурсов инновационных проектов, что способствуют повышению конкурентоспособности на международном уровне и имеет огромный потенциал для решения экономических и социальных задач государства. Целью данной работы является описание оптимальной модели конкурса инновационных проектов.Задачи данной работы:&middot; Анализ открытых источников по теме исследования&middot; Определение критериев оптимальности конкурса инновационных проектов&middot; Проведение исследования отношения студентов к конкурсам инновационных проектов&middot; Интервьюирование экспертов и членов жюри инновационных конкурсов&middot; Разработка оптимальной модели конкурса инновационных проектов состоящая из:1. Цели конкурса2. Формы заявки3. Этапов конкурса4. Стадий представляемого проекта5. Состава участников конкурса6. Процедуры отбора проектов7. Экспертов (состав жюри) конкурса8. Структуры призового фонда9. Формы отчётности Объект исследования &ndash; конкурсы инновационных проектов (члены жюри, организаторы, конкурсанты, эксперты). Предмет исследования &ndash; процесс организации и проведения конкурса инновационных проектов.Методы исследования &ndash; анализ открытых источников по теме исследования путем проведения контент &ndash; анализа, анкетирование участников и интервьюирование экспертов в области инновационных проектов и конкурсов инновационных проектов. Работа состоит из содержания, введения, трех глав и заключения. Во введении обосновывается актуальность темы работы, формируются цель исследования, предмет, объект и задачи, раскрываются методы исследования. В первой главе рассматриваются теоретические основы таких понятий как инновация, инновационный проект, конкурс инновационных проектов, разнообразие моделей конкурсов инновационных проектов и формируются критерии оптимальности конкурс инновационных проектов и модель конкурса инновационных проектов, включающая: цель конкурса, форму заявки, этапов конкурса, стадии представляемого проекта, состав участников конкурса, процедуры отбора проектов, экспертов (состав жюри) конкурса, структура призового фонда, формы отчетности. Во второй главе представлены результаты анкетирования участников и интервьюирования членов жюри, организаторов, экспертов конкурсов инновационных проектов. В третьей главе представлены рекомендации по организации и реализации конкурса инновационных проектов и полученная модель конкурса инновационных проектов &laquo;Optimus&raquo;.В работе представлена следующая модель конкурса инновационных проектов:Конкурс инновационных проектов характеризуется длительным и активным этапом накопления проектов и команд, системой прозрачных и непротиворечивых критериев оценки, присутствием в жюри реальных инвесторов, готовых вкладывать деньги и прозрачными условиями работы с инвесторами: гарантии инвестирования в обмен на соблюдение требований инвесторов участниками проектов. Полученная модель конкурса инновационных проектов может быть применима для решения возникающих проблем взаимодействия инвесторов и участников инновационных проектов, предложения и рекомендации, способы решения, выработанные в исследования, могут найти свое практическое применение на практике, способствовать инновационному развитию региональной экономики, формированию благоприятного делового климата и укреплению стратегически важных партнерских связей, как в инновационной сфере, так и в экономике в целом. </div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/02/1324998244/Степанова Д.К. ВКР.docx">Текст работы</a>
+			
+				(работа добавлена 2 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (639.09 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

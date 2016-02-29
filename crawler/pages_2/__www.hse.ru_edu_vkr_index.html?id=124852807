@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=124852807'>Управление мотивацией: гендерный аспект</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Коломейцева Виктория Сергеевна
+				
+			</div>
+			<div class="cell">
+				
+					Управление мотивацией: гендерный аспект
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/59648830">Васильева Елена Николаевна</a>
+			</div>
+			<div class="cell">
+				<a href="http://nnov.hse.ru/management/">Факультет менеджмента (Нижний Новгород)</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					9
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Аннотация выпускной квалификационной работыКоломейцевой Виктории СергеевныНа тему: «Управление мотивацией: гендерный аспект»Научный руководитель - Васильева Елена Николаевна,канд. эк. наук, доцентКафедра организационной психологииОчная форма обученияКлючевые слова: МОТИВАЦИЯ, ГЕНДЕРНЫЕ РАЗЛИЧИЯ, МОТИВ, ГЕНДЕРВыпускная квалификационная работа посвящена выявлению гендерных различий при мотивации персонала. Цель дипломной работы – выявить различия в мотивационных, социальных и эмоциональных аспектах трудовой деятельности у мужчин и женщин, на основе проведенного анализа разработать рекомендации для улучшения качества управления трудовой мотивацией сотрудников ОАО «Сибур-Нефтехим».Задачи исследования определены поставленной целью и заключаются в следующем:1.Проанализировать особенности гендерных подходов в психологии: выявить различия в личностных характеристиках мужчин и женщин, различия в их социальном поведении, выявить особенности гендерных отношений между мужчинами и женщинами.2.Рассмотреть гендерные особенности мотивационной сферы.3.Проанализировать процесс трудовой мотивации сотрудников в ОАО «Сибур-Нефтехим» и определить, существуют ли гендерные различия в мотивационных (доминирующие мотивы), социальные (социальные роли в группе) и эмоциональные (удовлетворенность работой) аспекты трудовой деятельности сотрудников ОАО «Сибур-Нефтехим».4. Разработать рекомендации для компании с целью повышения эффективность трудовой мотивации сотрудников-мужчин и сотрудников-женщин.Объект исследования – мотивационные, социальные и эмоциональные аспекты трудовой деятельности сотрудников ОАО «Сибур-Нефтехим». Методы исследования:•Теоретический обзор литературы по проблеме исследованияЭмпирическое исследование с использованием следующих методик:•Методика «Удовлетворенность работой» В.А. Розанова•Методика Ш. Ричи и П. Мартина•Опросник «Социальные роли в группе» Орлова А.В.Выборка: в исследовании приняли участие 40 человек, работающие на предприятии ОАО «Сибур-Нефтехим». В должности специалистов и ведущих специалистов. Из них 20 сотрудников-мужчин и 20 сотрудниц-женщин. В возрасте 35-37 лет. ЗаключениеНами был проведен анализ особенностей управления трудовой мотивацией мужчин и женщин. В ходе работы были достигнуты поставленные задачи:1.Были проанализированы особенности гендерных подходов в психологии: основные различия в социальном поведении мужчин и женщин заключаются в том, что мужчины более ориентированы на решение проблем, а женщины обычно склонны к выражению своих эмоций и переживаний по поводу проблемы.2.Были рассмотрены гендерные особенности мотивационной сферы, которые заключаются в разном восприятии одной и той же информации мужчинами и женщинами, что обусловлено особенностями гендерного поведения.3.С помощью методики «Удовлетворенность работой» В.А. Розанова, методики Ш. Ричи и П. Мартина и опросника «Социальные роли в группе» Орлова А.В., Васильевой Е.Н. был проанализирован процесс трудовой мотивации сотрудников ОАО «Сибур-Нефтехим.4.В качестве рекомендаций для ОАО «Сибур-Нефтехим с целью повышения эффективности трудовой мотивации сотрудников-мужчин и сотрудников-женщин, можно выделить создание структурированной системы мотивации для мужчин и женщин в отдельности, а не для всех сотрудников вместе.В заключение стоит отметить, что эффективная работа организации в целом зависит, в первую очередь, от ее сотрудников. Полученные объемы выручки, количество затрат на производство продукции, занимаемые доли рынка – все эти экономические параметры складываются из результатов работы сотрудников. Поэтому в интересах руководства предприятия стоит получение оптимальных экономических показателей, что невозможно без грамотного управления трудовой мотивацией сотрудников. Для того чтобы сотрудники эффективно выполняли свою работу, необходимо внедрение в компанию системы мотивации персонала. Однако, важно варьировать методы мотивации для сотрудников-мужчин и сотрудников-женщин, что обусловлено различиями в их социальном поведении.Таким образом, современным компаниям стоит особое внимание уделять методам мотивации сотрудников-мужчин и сотрудников-женщин, поскольку это влияет на повышение производительности всей компании в целом.Работа состоит из 54 страницы, представлена введением, 3 главами, 15 параграфами, заключением, списком литературы и 3 приложениями, содержит 3 таблицы и 4 гистограммы, ссылается на 42 источника.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/03/1323767957/ВКР для сайта2.docx">Текст работы</a>
+			
+				(работа добавлена 3 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (378.84 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=125139856'>Феномен подростковой дружбы в контексте современного российского общества на примере московских школьников 13-15 лет</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Тихонова Александра Витальевна
+				
+			</div>
+			<div class="cell">
+				
+					Феномен подростковой дружбы в контексте современного российского общества на примере московских школьников 13-15 лет
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/63823">Симонова Ольга Александровна</a>
+			</div>
+			<div class="cell">
+				<a href="http://soc.hse.ru/">Факультет социологии</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					7
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Настоящее исследование посвящено изучению феномена подростковой дружбы в современном обществе на примере московских школьников 13-15 лет. Главной целью этой работы является построение модели дружеских отношений среди тинэйджеров. Для достижения этой цели была проанализирована социологическая литература, посвященная тематике дружбы и подросткового возраста, а также были рассмотрены исследования, в особенности те, в которых изучалась подростковая дружба. На основе проведенного анализа были сформулированы следующие исследовательские предположения: а) Подростки &ndash; эмоционально неустойчивая группа, склонная к различного рода зависимостям, &laquo;ищущая себя&raquo;, формирующая свою идентичность, переживающая кризис идентичности; б) дружба для них является скорее средством определения себя, помогает им в этом поиске; в) подростки &ndash; максималисты, стремящиеся к идеальной дружбе; г) в современном обществе им не удается найти этот идеал. Кроме этого, было сформулировано определение дружбы (дружба - это такие социальные отношения, которые основываются на добровольности, взаимности, открытости, доверии и любви и обладают ценностью сами по себе) и социально-психологические особенности подростков (формирование идентичности, ролевое экспериментирование, эмоциональная интенсивность и непреодолимое желание быть принятыми обществом), на основании которых был составлен гайд для эмпирической части данной работы.Гайд включал четыре блока: рассказ о себе, рассказ о друзьях, рассказ о лучшем друге и рассказ об идеальном друге. Каждый из этих блоков состоял из нескольких вопросов, но их основной целью было стимулирование респондента к нарративу.Всего в рамках исследования было проведено девять интервью, длительностью, в среднем, 40 минут со студентами одного престижного московского центра дополнительного образования. В связи с высокой стоимостью обучения в данном центре, а также тем, что основным направлением центра является получение британского образования в России, выборка является крайне специфической, и данное исследование носит характер кейс-стади.На основе проведенного анализа интервью были сделаны следующие выводы. Во-первых, в связи с тем, что подростки склонны к категоричности, они воспринимают всех своих знакомых либо как друзей, либо как врагов. Во-вторых, подростки воспринимают свои дружеские отношения как идеальные, не обращая внимания на ссоры и конфликты, которые в них периодически появляются. То же самое касается и лучших друзей, подростки максимально игнорируют все их недостатки. В-третьих, дружеские отношения помогают подросткам в формировании их идентичности не только благодаря тем чертам, которые они ценят в своих друзьях, но и благодаря тем, которые им в них не нравятся. И, в-четвертых, основанием подростковой дружбы является ее гарантия того, что индивид будет кому-то интересен и кем-то принят.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/06/1323530562/Тихонова_ВКР_Дружба.docx">Текст работы</a>
+			
+				(работа добавлена 6 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (169.29 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

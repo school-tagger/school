@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=123976538'>Онлайн-версии российских разговорных радиостанций: соотношение оригинальных решений и зарубежных заимствований</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Безрукова Юлия Сергеевна
+				
+			</div>
+			<div class="cell">
+				
+					Онлайн-версии российских разговорных радиостанций: соотношение оригинальных решений и зарубежных заимствований
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/2806412">Телень Людмила Олеговна</a>
+			</div>
+			<div class="cell">
+				<a href="http://mediacom.hse.ru/">Факультет медиакоммуникаций</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					10
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">АННОТАЦИЯ КВЫПУСКНОЙ КВАЛИФИКАЦИОННОЙ РАБОТЕ Тема: &laquo;Онлайн-версии российских разговорных радиостанций: соотношение оригинальных решений и зарубежных заимствований&raquo; Объем работы: 86 страниц, на которых размещены 2 таблицы и 31 рисунок, 3 графика, 42 источника. В электронном приложении работы размещено 731 изображение. Структура работы: Содержание, введение, 3 главы, заключение, список литературы, список электронных источников Ключевые слова: радио, Интернет, медиаконвергенция, версии сайтов, приемы формирования сетевого контентаВ качестве дипломной работы была выбрана тема &laquo;Онлайн-версии российских разговорных радиостанций: соотношение оригинальных решений и зарубежных заимствований&raquo;. Исследование посвящено сравнительному анализу процессов &laquo;переупаковки&raquo; традиционных разговорных радиостанций в мультимедиа в России и мире (на примере радиостанций США). Объект исследования &ndash; различные версии сайтов российских и американских разговорных радиостанций. Предмет исследования - соотношение оригинальных решений и зарубежных заимствований в процессе медиаконвергенции российского радиовещания. Цель настоящего исследования заключается в том, чтобы найти различия между сайтами российских и американских разговорных радиостанций в приемах формирования сетевого контента и доказать, что в отечественном разговорном радиовещании появились не только заимствованные, но и оригинальные модели &laquo;переупаковки контента&raquo;. Основной метод исследования &ndash; сравнительный анализ. Для отслеживания трансформаций сайтов радиостанций были использованы данные открытого интернет-архива Wayback Machine. Это ресурс, сохраняющий веб-страницы различных сайтов в разные периоды времени. В качестве критериев для сравнения взяты базовые принципы мультимедийности.[1] Рабочую гипотезу данной работы можно сформулировать следующим образом. Основные принципы медиаконвергенции в сфере радиовещания в России были сформированы на зарубежных аналогах, однако особенности российской аудитории и медиаиндустрии заставили корректировать заимствованный опыт, вследствие чего появились оригинальные модели &laquo;переупаковки&raquo; контента в отечественном разговорном радиовещании. Работа делится на три части. Первая глава посвящена описанию системы радиовещания и особенностям медиаконвергенции в США. Стадии перехода традиционного радиовещания в Интернет выделены по классификации К. Пристмана. Во второй главе излагаются особенности отечественной системы радиовещания и процесс перехода традиционного радио в Интернет. Классификация сайтов радиостанций основывается на работе В.А. Колодкина. Третья глава &ndash; это практическая часть работы. В ней проводится сравнительный анализ сайтов российских и американских радиостанций по выбранным критериям на предмет заимствования и поиска оригинальных решений в организаций и подаче контента на интернет-платформах. Анализ теоретических и технических аспектов медиаконвергенции в сфере радиовещания на примере двух стран &ndash; России и США &ndash; показал, что российские радиостанций во многом задействовали приемы и стратегии продвижения контента. Заимствования не было тотальным, российские медиаменеджеры старались адаптировать зарубежные тренды, хотя и не без ошибок. Переориентирование на зарубежные модели &laquo;переупаковки&raquo; контента проходило очень быстро, и во многом основывалось на моде, чем на понимании ре</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/05/25/1324726664/Безрукова 446 ж.docx">Текст работы</a>
+			
+				(работа добавлена 25 мая 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (7395.74 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

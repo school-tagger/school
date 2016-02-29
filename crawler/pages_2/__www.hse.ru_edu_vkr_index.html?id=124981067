@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=124981067'>Анализ функционирования организации на основе жизненного цикла</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Семакина Татьяна Александровна
+				
+			</div>
+			<div class="cell">
+				
+					Анализ функционирования организации на основе жизненного цикла
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/14063765">Рассказов Сергей Вениаминович</a>
+			</div>
+			<div class="cell">
+				<a href="http://spb.hse.ru/economics/">Факультет экономики (Санкт-Петербург)</a>
+				<br><div style="padding-top:3px;">(Магистратура)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					8
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Одним из инструментов анализа организаций является концепция жизненного цикла. В то время как различных математических моделей жизненного цикла организации предложено достаточно много, интересной и малоисследованной областью остается создание методов и инструментов диагностики состояния организации на их основе. Можно отметить, что для реализации подобного анализа необходимо наличие достаточно большого объема доступных данных. Подобная информация существует и находится в открытом доступе для банковского сектора. Целью данного исследования является разработка системы диагностики, позволяющей выявить стадию жизненного цикла организации и на этой основе дать обобщенную характеристику их функционирования.В рамках данной магистерской диссертации рассмотрен следующий ряд задач, потребовавшийся для реализации поставленной цели:&bull; Изучить предметную область,&bull; Рассмотреть и систематизировать различные модели жизненного цикла, проанализировать методы эмпирических исследований жизненного цикла,&bull; Разработать методологию анализа организации для выявления текущей стадии жизненного цикла, основанную на построении математической модели с использование базы данных,&bull; Построить методы для определения количества стадий в жизненном цикле организации,&bull; Создать программу, обрабатывающую данные, реализовать в ней разработанные методы анализа,&bull; Сформировать исследовательскую базу данных банков,&bull; Используя систему диагностики, выполнить анализ функционирования организации на основе жизненного цикла на примере банков. В работе используются аналитические методы, сочетание индукции и дедукции, системного и сравнительного анализа, количественные методы. Выделяется 3 сущности: экономическая система, организация и жизненный цикл. На развитие концепции жизненных циклов организации оказали воздействие теория экономических циклов, теория организаций, институциональная теория, теория экономического развития и роста, эволюционная теория экономических изменений. Используются подходы прикладной статистики и линейной алгебры, в том числе, методы многомерного шкалирования и кластерного анализа.Информационная база была собрана на основе данных www.kuap.ru. Она включает в себя информацию по 1013 банкам в период с 01.02.2004 по 01.02.2014. Всего собрано 1 138 368 наблюдений по разным банкам на различные даты. Анализ данных осуществлялся при помощи программы математического моделирования Matlab с использованием системы управления реляционными базами данных Microsoft SQL Server.В рамках данной магистерской диссертации была решена проблема нахождения стадии жизненного цикла организации для анализа ее функционирования. В результате проведения данного исследования была разработана, спроектирована, реализована и апробирована система диагностики организации, позволяющая определить стадию жизненного цикла организации. В ходе выполнения работы были получены следующие результаты:1) Разработана методология анализа организации на основе жизненного цикла.2) Создана математическая модель предметной области и разработан двухэтапный метод кластеризации с двухшаговым методом отсечения.3) Создана исследовательская база данных в Microsoft SQL Server, содержащая 1 138 368 записей.4) Предложенные алгоритмы реализованы в программном комплексе в среде Matlab.5) Проведен анализ функционирования банков на основе жизненного цикла.6) Разработана система классификации предприятий банковского сектора на основе концепции жизненного цикла. Каждый класс характеризуется множеством параметров, позволяющих идентифицировать стадию жизненного цикла, на которой находятся его элементы.Таким образом, поставленная в магистерской диссертационной работе цель достигнута. Результаты исследования могут быть применены для анализа функционирования организаций, а также для дальнейших теоретических исследований жизненного цикла организации.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/04/1323634073/1121_ВКР_Семакина.docx">Текст работы</a>
+			
+				(работа добавлена 4 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (10885.51 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

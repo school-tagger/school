@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=124458549'>Взаимодействие средств массовой информации с органами муниципальной власти в Московской области</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Куликова Валерия Валерьевна
+				
+			</div>
+			<div class="cell">
+				
+					Взаимодействие средств массовой информации с органами муниципальной власти в Московской области
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/67539">Шомина Елена Сергеевна</a>
+			</div>
+			<div class="cell">
+				<a href="http://gmu.hse.ru/">Факультет государственного и муниципального управления</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					9
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;"> Данная работа посвящена исследованию взаимодействия средств массовой информации с органами муниципальной власти.Эта тема актуальна в связи со следующим. Во-первых, средства массовой информации являются самым эффективным средством создания диалога между органами муниципальной власти и населением муниципального образования. Во-вторых, СМИ являются важным инструментом увеличения прозрачности деятельности органов местного самоуправления (МСУ).Одной из ключевых тем для СМИ является улучшение уровня жизни населения на каждой ступени управления. Местное самоуправление, являясь низшим уровнем данной системы, также является ее фундаментом. Таким образом, от эффективности и правильности структурирования фундамента зависит функционирование муниципальных образований и их дальнейшее развитие, а также влияние на деятельность местного самоуправления и всего государства. Именно поэтому, в данной работе будет рассмотрено взаимодействие местных СМИ с органами власти на муниципальном уровне.На сегодняшний день самым популярным информационным источником для местных жителей является периодическая печать. В данном исследовании будет изучаться именно этот вид средств массовой информации.Объект данного исследования - средства массовой информации.Предмет данного исследования -управленческие отношения, возникающие в процессе взаимодействия между органами МСУ и СМИ (на примере городского округа Коломна).Цель данной работы - описать особенности взаимодействия между органами МСУ и СМИ.Для достижения поставленной цели, в ходе исследования планируется решить ряд следующих задач:1) Рассмотреть теоретическую базу и особенности деятельности современных средств массовой информации и их тенденции развития;2) Провести анализ взаимодействия СМИ и органов власти на примере Московской области;3) Выявить особенности взаимодействия органов муниципальной власти и СМИ на примере городского округа Коломна.Основной гипотезой исследования является положительное влияние эффективного взаимодействия органов муниципальной власти с местными СМИ на имидж и развитие муниципального образования.Научная новизна данного исследования состоит в анализе взаимодействия СМИ с органами муниципальной власти в городском округе Коломна Московской области. Также будет проанализирована ситуация взаимодействия органов власти Московской области со СМИ. Впервые проведен контент-анализ местного печатного издания в Коломне. Полученные результаты в ходе анализа могут иметь как теоретические выводы о возможности влияния взаимодействия СМИ с органами МСУ на имидж и развитие муниципального образования, так и практические рекомендации, которые могут быть интересны органам муниципальной власти и представителям средств массовой информации. В этой работе термины СМИ[1] и масс-медиа[2] используются как синонимы. При написании работы также использовались различные материалы исследователей и экспертов в области местных и региональных масс-медиа, а также взаимодействия с органами власти на региональном и муниципальном уровне. Ключевыми и основными теоретическими материалами исследования стали работы и проекты таких авторов, как: Дзялошинский И.М., Засурский И., Засурский Я., Ненашев М.Ф., Коновченко С.Ф. [1] По определению Федерального Закона РФ &laquo;О средствах массовой информации&raquo; от 27 декабря 1991 г. СМИ - периодическое печатное издание, радио, теле, видеопрограмма, кинохроникальная программа, иная форма периодического распространения.[2]Масс медиа &ndash; средства массовой информации. Организационно-технический комплекс, благодаря которому становится возможной передача и централизованное распространение словесной, звуковой и визуальной информации. К средствам масс медиа относится пресса, кино, телевидение (по определению в словаре журнала &laquo;Businesstimes&raquo; http://btimes.ru/). </div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/05/31/1325208807/Диплом Куликова итог (1).docx">Текст работы</a>
+			
+				(работа добавлена 31 мая 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (360.33 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

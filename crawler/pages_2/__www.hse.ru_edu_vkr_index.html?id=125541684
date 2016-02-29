@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=125541684'>Разработка средств автоматизации поиска структурированной информации в гетерогенной среде</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Крысанов Павел Сергеевич
+				
+			</div>
+			<div class="cell">
+				
+					Разработка средств автоматизации поиска структурированной информации в гетерогенной среде
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/14562457">Лядова Людмила Николаевна</a>
+			</div>
+			<div class="cell">
+				<a href="http://perm.hse.ru/bi/">Факультет экономики, менеджмента и бизнес-информатики</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					7
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">Рассматривается задача автоматизированного поиска структурированных данных в сети Интернет и на локальной машине. Целью работы является разработка приложения, которое предназначено для поиска таблиц на локальной машине, в локальной сети и в Интернет по заданному образцу (эталонной таблице) на основе сопоставления структур таблиц и проверки соответствия данных заданным параметрам поиска. Под эталонной таблицей подразумевается таблица, созданная пользователем, с которой будет производиться сравнение найденных результатов. Основными параметрами поиска является необходимая степень соответствия таблиц для признания их релевантными, глубина поиска в Яндексе и глубина поиска данных на сайте.Решение задачи поиска разделено на несколько этапов. В случае поиска данных в Интернет на первом происходит обращение к поисковой системе, при котором в качестве исходных данных для поиска передается поисковый запрос введенный пользователем через приложение, а в качестве результата возвращается набор ссылок из результатов поиска. Если же организован поиск файлов на локальном компьютере, то на первом этапе рассматривается процесс получения списка файлов, хранящихся в папке, которая была выбрана для поиска. На втором этапе производится обработка ссылок, полученных от поискового робота и загрузка данных, хранящихся в документах Word, Excel и HTML, найденных в результате обработки полученных ссылок. На третьем этапе рассматривается выделение табличных данных из документов Word, Excel и HTML, а также сравнение этих данных на соответствие с эталонной таблицей. В случае, если данные соответствуют образцу, то приложение сохраняет ссылки на эти файлы в результатах поиска.В работе представлены результаты обзора существующих решений в области поиска структурированных данных, а также методов решений отдельных задач необходимых для реализации приложения. В результате обзора была найдена DLL библиотека для стемминга (нахождение основы слова для заданного исходного слова), которая была использована в третьем этапе для создания алгоритма сравнения двух таблиц на соответствие друг другу. Также были описаны алгоритмы для выделения таблиц из документов Word, Excel и HTML (второй этап), алгоритм для сравнения двух таблиц на соответствие друг другу (третий этап), алгоритм для работы с поисковыми системами как в интернете, так и на локальной машине (первый этап).В работе описано разработанное приложение, которое в автоматическом режиме, на основе эталонной таблицы, реализует поиск необходимых пользователю табличных данных в документах Word, Excel и HTML. При поиске в интернете для получения ссылок на страницы, где могут находиться запрашиваемые данные, используется поисковый робот Яндекс. Данная разработка позволяет пользователю получить выигрыш во времени. Выигрыш во времени получается за счет того, что программа автоматизирует трудоёмкие, рутинные операции просмотра страниц и загрузки данных. Представленное в работе приложение разработано в среде Visual Studio в формате Windows Forms Application. В работе представлены результаты работы программы по нескольким поисковым запросам, описаны все разработанные алгоритмы &ndash; алгоритм поиска данных структурированных данных в интернете, алгоритмы выделения таблиц из документов Word, Excel и HTML, алгоритм сравнения таблиц на соответствие друг другу и многие другие. Также в приложении приведен исходный код программы.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/06/11/1324195814/Крысанов Павел Сергеевич - Разработка ср..информации в гетерогенной среде.doc">Текст работы</a>
+			
+				(работа добавлена 11 июня 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/doc.gif"> (2404.34 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+

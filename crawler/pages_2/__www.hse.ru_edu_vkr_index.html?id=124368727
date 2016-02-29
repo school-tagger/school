@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"  />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/f/src/global/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/search.css?v2" />
+	<link rel="stylesheet" type="text/css" href="/css/edu_vkr.css" />
+	<script src="/f/src/global/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/f/src/global/bower_components/jquery-ui/jquery-ui.min.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+
+<style>
+	@import '//www.hse.ru/css/plashka.css';
+</style>
+<script type="text/javascript">
+function closePlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="none";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="block";
+}
+function showPlashka(){
+  var pl=document.getElementById("plashka_vishki");
+  pl.style.display="block";
+  var pl_o=document.getElementById("plashka_control_open");
+  pl_o.style.display="none";
+}
+</script>
+<div id="plashka_vishki">
+  <a href="//www.hse.ru/" title="На главную страницу"><img src="/images/l/plashka_hselogo.jpg" id="plashka_hselogo" alt="Национальный исследовательский университет &laquo;Высшая школа экономики&raquo;" /></a>
+  <div id="plashka_control"><a href="#" id="plashka_close" onclick="closePlashka()"><span style="border-bottom:1px dotted #144391;">Скрыть</span></a></div>
+  <ul class="plashkamenu"><li><a href="//www.hse.ru/" id="root">НИУ ВШЭ</a></li>
+  <li><a href="/org/hse/info/">О Вышке</a></li>
+  <li><a href="http://ba.hse.ru/">Поступающим</a></li>
+  <li><a href="http://handbook.hse.ru">Коллегам и партнерам</a></li>
+  <li><a href="http://publications.hse.ru/">Книги, журналы, данные, видео</a></li>
+  <li><a href="/education/">Факультеты</a></li>
+  <li><a href="http://busedu.hse.ru">Бизнес-образование</a></li>
+  <li><a href="http://www.hse.ru/science/">Наука</a></li>
+  </ul>
+
+
+</div>
+<div id="plashka_control_open"><a href="#" id="plashka_show" onclick="showPlashka()" style="text-decoration:none;background-image:url('/images/plashka_open.gif'); background-repeat:no-repeat;background-position:left 5px;padding-left:10px;"><span style="border-bottom:1px dotted #144391;">Раскрыть</span></a></div>
+
+		<div class="static-content">
+
+	
+		<div class="breadcrumps"><a href='/edu/vkr/'>Выпускные квалификационные работы студентов НИУ ВШЭ</a>
+			<!--&bull; <a href='/edu/vkr/?id=124368727'>Программа нечёткого вывода с использованием Z-оценивания неопределенности</a>-->
+		</div>
+	
+
+
+
+		</div><!-- static-content -->
+
+		<div class="dynamic-content">
+	
+		
+		<div class="module-header">
+			<div class="line">ФИО студента</div>
+			<div class="line">Название работы</div>
+			<div class="line">Научный руководитель</div>
+			<div class="line">Факультет</div>
+			<div class="line">Программа</div>
+			<div class="line centered">Оценка</div>
+			<div class="line centered">Год защиты</div>
+		</div>
+		<!-- count: 1 -->
+		
+		<div class="row">
+			<div class="cell">
+				
+					Сивакова Анна Николаевна
+				
+			</div>
+			<div class="cell">
+				
+					Программа нечёткого вывода с использованием Z-оценивания неопределенности
+				
+			</div>
+			<div class="cell">
+				<a href="/org/persons/3487909">Дегтярев Константин Юрьевич</a>
+			</div>
+			<div class="cell">
+				<a href="http://se.hse.ru/">Отделение программной инженерии</a>
+				<br><div style="padding-top:3px;">(Бакалавриат)</div>
+			</div>
+			<div class="cell">
+				
+			</div>
+			<div class="cell centered">
+				
+					7
+				
+			</div>
+			<div class="cell centered">2014</div>
+		</div><!-- items row -->
+		
+
+		
+
+	
+
+
+<!-- показ одной работы -->
+	
+	<div style="padding-top:3px; font-size: 1.4rem;">40 страниц, 9 глав, 18 иллюстраций, 5 таблиц, 4 приложения, 23 источникаКлючевые слова: Z-число, Z-оценка, нечёткое множество, нечёткая система вывода.Данная выпускная квалификационная работа представляет собой исследование, связанное с разработкой методики использования Z-чисел в системах нечёткого вывода, направленной на получение выводов на основе использования неопределенной, неточной или неполной исходной информации.В 2011 году профессор Университета Калифорнии (Беркли) Лотфи А. Заде, основатель теории нечётких множеств, нечёткой логики и вычислений со словами (Computing with Words) предложил концепцию Z-числа для описания неточности (приближенности) информации, используемой в повседневной жизни. Такая информация не является абсолютно точной; в подавляющем большинстве случаев люди связывают разные степени уверенности при выражении мнений, описании ситуаций и пр., в зависимости от своего опыта, интуиции и осведомленности. Предложенное проф. Л.А. Заде описание неточной и частично истинной информации с помощью Z-чисел можно рассматривать как удачную попытку преодоления очевидной сложности описания многоликой неопределенности (напр., надежность, степень истины, или вероятность) оперируемой в разных приложениях информации. Согласно исходной концепции, Z-число описывает значение некоторой неопределённой переменной и представляет собой упорядоченную пару из двух нечетких чисел. Первое число () выражает собой ограничение на значения переменной (это ограничение можно представить в короткой форме &ldquo; есть &rdquo;), а второе число, В, - нечеткое (приблизительное) ограничение на степень уверенности в первом числе А, т.е. оценка надежности А. В большинстве случаев, нечеткие числа А и В описываются фразами естественного языка, например, Z = (приблизительно 80, абсолютно уверен), и формально представляются трапециевидными или треугольными функциями принадлежности (ФП) В последнем примере, можно считать, что переменная = &ldquo;расстояние до цели&rdquo;, поэтому утверждение (ограничение) &ldquo; составляет приблизительно 80 (км.)&rdquo; в рамках показанного Z-числа мы оцениваем как очень надежное (В = &ldquo;абсолютно уверен&rdquo;).Можно говорить, что теория Z-чисел еще недостаточно зрелая (большинство известных публикаций относится к периоду 2012-2014 гг.), но учёные уже внесли свой вклад в развитие теории Z-чисел и предложили некоторые подходы к работе с ними, которые будут рассмотрены в данной работе. Тем не менее, использование Z-чисел в системах нечёткого вывода пока остаётся нерешенной задачей из-за используемых в их представлении составляющих разной природы.Целью данной выпускной квалификационной работы является исследование методики использования Z-чисел в системах нечеткого вывода и разработка программы на основе результатов этого исследования.Для достижения этой цели были определены следующие задачи:1. Изучение существующих подходов к работе с Z-числами.2. Разработка алгоритма использования преобразованных Z-чисел (Z-число ---&gt; обычное нечеткое число) в системах нечёткого вывода.3. Изучение возможностей использования Z-чисел в системе вывода без их предварительной модификации (преобразования).4. Разработка программы, реализующей предложенные методики.5. Проведение экспериментов и анализ получаемых результатов.В данной работе предложен подход, основанный на использовании преобразованных Z-чисел (переход к обычным нечетким числам) в системе нечёткого вывода. Отправной точкой реализуемого в работе подхода служит статья [5], которая, как правило, всегда используется в качестве одной из ссылок в появляющихся публикациях по рассматриваемой тематике. В результате исследования данного подхода была разработана программа, позволяющая проиллюстрировать работу использующей такое преобразование системы вывода. Также в работе проводится анализ тех арифметических операций над Z-числами, которые были формализованы на момент написания работы, рассмотрены перспективы их использования в системах нечеткого вывода (и не только), а также сформулированы проблемы, которые при этом возникают.</div>
+	
+	
+		<div style="padding-top:3px; font-size: 1.4rem;">
+			<a href="/data/2014/05/30/1325380997/Текст работы.pdf">Текст работы</a>
+			
+				(работа добавлена 30 мая 2014г.)
+			
+			
+				<br>
+				<div style="padding-top:3px;"><img src="/images/share/portal2/fileicons/pdf.gif"> (3956.18 Kb)</div>
+			
+		</div>
+	
+<!-- показ одной работы END -->
+
+	</div><!--dynamic-content-->
+	<div class="antifooter"></div>
+</div><!-- wrapper -->
+
+<div class="footer"><img src="/images/org/annybanner.gif" alt="" style="position:relative;top:5px;margin-right:15px;"/>&copy; <a href="/">НИУ ВШЭ</a>, 1993&ndash;2016</div>
+
+<div style="position: fixed; right: 5px; bottom: 5px; width: 22px; height: 22px;" class="hide_on_print"><a href="/adm/_/edu/study/" style="text-decoration: none; border: 0px;"><img style='-moz-opacity: 0.45; opacity: 0.45; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=45);' border=0 src="/pubs/lib/images/edit22.png"></a></div>
+
+
+<script type="text/javascript">
+$(function(){
+
+	$('#courses-author').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/author', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+
+	$('#courses-title').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/title', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+
+	$('#courses-supervisor').autocomplete({autoFocus: true, minLength: 2,
+		source: function (request, response)
+		{
+		 $.post('/lib/ajax/edu/vkr/supervisor', {title: request.term, __salt: Math.random() }, function (jsObj)
+			{
+				if (jsObj && jsObj.ok)
+					response(jsObj.data);
+			}, 'json');
+		},
+		select: function (e, ui)
+		{
+		 return true;
+		}});
+});
+</script>
+
+</body>
+</html>
+
