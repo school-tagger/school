@@ -1,0 +1,415 @@
+
+
+State University Higher School of Economics
+
+Faculty of Business Informatics
+
+Department of Сorporate Information Systems
+
+ 
+
+ 
+
+ 
+
+DRAFT
+
+of the paper
+
+«Development a Logistic Management Application  Model»
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Moscow
+
+2013
+
+
+
+
+
+
+
+
+
+
+Table of contents.............................................................2
+
+Introduction.The goals of the study.Draft Structure.............3
+
+Theory basis....................................................................4
+
+Research tools..................................................................8
+
+Analitycal part..................................................................9
+
+Practical part....................................................................9
+
+The place of the selected  topic in literature........................9
+
+Anticipated results............................................................10
+
+Conclusion.......................................................................10
+
+Bibliography.....................................................................11
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction. The goals of the study.
+
+The purpose of my graduation paper  is the creation of a model of logistic applications with a graphical interface, which simplifies and automates the process of calculation of the more profitable routes,selection of transport and warehouse service-providers, and will provide users with up to date information about the state of roads and about the peculiarities of those or other routes.
+
+It is necessary to develop functional requirements to the system and partly prepare the objective/preliminary specifications.
+
+The prospected result of this paper is a formed business justification of the project.
+
+The global aim of the study is the reduction of transaction costs for the system users. It is necessary to examine the technology supplying user when solving following tasks logistics: the optimization of the route and successful transportation and storage of the cargo.
+
+ It is planned then to identify and to analyse the list of the actual problems connected with logistics software and the web-sources, providing logists information about the suppliers of transport and warehouse services and features of different routes. In our case ‘features’ refers to weather conditions and features of the enviroment in some regions that can cause troubles during transportations (avalanche, floods or something like this), condition of the roads, resolutions on construction zones on the roads.
+
+On the basis of the analysis will be drawn up requirements to the developed model of the application taking into account the outstanding existing software tasks. It is planned in the developed model to simplify and to automate their solution
+
+This topic is interesting in terms/scope of  its practical application.
+
+Draft structure.
+
+Draft structure consists of following points.
+
+Introduction
+
+Theory basis
+
+Research tools
+
+Analitycal part
+
+Practical part
+
+Anticipated results
+
+Conclusion
+
+
+
+Theory basis.
+
+In the theory of from the functional point of view of logistic application/intelligence system is represented as a four-level hierarchical system, where:
+
+- at the first level are solved questions of the implementation of specific transactions, receipt of orders and shipment of products, production accounting, preparation of cargo for shipment, the adoption of the raw materials warehouse operations, etc.;
+
+- at the second level are solved tasks of accounting and control, inventory management, inventory availability of storage space, control the process of transporting products, accounting operations accounts, questions movement of funds on accounts, etc.;
+
+- at the third level are solved questions of analytical type - the use of logistics to support the marketing operations (sales promotion), the forecast of orders receipt and opportunities of their implementation, financial planning (including costs associated with the logistics);
+
+- at last, the fourth level is up to solve strategic problems - planning of operations at the company level, changes in the structure, definition of priority directions in the logistics work for the perspective
+
+
+
+Basically, there are 3 type of logistics information systems:
+
+Planned/systematic information systems are created at the administrative level of management and are used for making long-term strategic decisions. Among the tasks could be the following:
+
+- creation and optimization of the links of the logistics chain;
+
+- managing stable data;
+
+- production planning;
+
+- overall management of the reserves;
+
+- the management of the reserves and other tasks.
+
+In this kind of logistic information systems high level of standardization in solving the problems is usual. That allows to adapt  standard software with minimal number of difficulties.
+
+Discretionary/supervisory/dispatcher information systems are created at the level of warehouse management  and serve to provide coordinated work of logistics systems. Here can be solved the following tasks:
+
+- detailed inventory management (storage places);
+
+- guide inner warehouse and factory transport;
+
+- selection of goods on order and their completing, accounting of outbound cargo and other tasks.
+
+In dispositive information systems ability to use standard programs is below the average due to a number of reasons, for example:
+
+- the process of product planning at the enterprises is formed by history of the company. It is rater resistant to significant changes for the sake of standardization;
+
+- the structure of the processed data is significantly different from user to user.
+
+Executive information systems are created at  the level of administrative or operational management. Processing  data in these systems is carried as fast as data is entered. This is the so-called mode works in real time, which allows user to receive necessary data on the movement of goods in the current moment and react on it promptly. Various tasks associated with control of material flows,operational control of service production, control of movements, etc. can be solved by these systems.
+
+
+
+As a rule, Executive information systems at the operational level use individual software.
+
+In accordance with the concept of logistics information systems, which belong to different groups, are integrated into a single one.
+
+However, we should not forget about the challenges of implementing integrated logistics software.
+
+ During the  process of the system selection and implementation many things  must be taken into account:the specifics of the industry, the scale of the business, the company's organizational structure and other individual characteristics. Proceeding from this, it is logical to assume, that there is no reason to choose SCM systems of high standardization level  for the majority(some specifically) of companies.
+
+Therefore, when choosing a logistics software companies often have to accept necessity to develop the individual in most cases, expensive solutions, or install software modules of the following  leaders, such as SAP, Oracle, etc., That requires significant financial resources as well.
+
+Teaching staff  to work with the system requires time and costs on a company-customer, whether it is logistics or manufacturing company. 
+
+The functionality of the SCM systems adds up to the following points:
+
+managing all the stages of the supply of the enterprise
+
+control of the goods movement  
+
+long-term planning and forecasting
+
+In the composition of the SCM-system can be conditionally divided into two subsystems:
+
+1)SCP ( supply chain planning) - planning of supply chains. 
+
+Functions:
+
+the formation of the schedules.
+
+the joint development of forecasts.
+
+solving tasks of operational management,
+
+strategic planning of supply chain
+
+development of plans for the supply chain 
+
+modelling possible situations (simulations)
+
+evaluating the level of operational implementation 
+
+comparison of the planned and current indicators.
+
+
+
+(2)the SCE (supply chain execution) - the performance of supply chains in the real-time mode.
+
+The SCM systems automate the process of planning, execution and control. Generally they are used to reduce the cost of raw material flow, unfinished manufacturing, finished products, services and actal information from point of origin of the application to the point of consumption.
+
+
+
+There are also information services, such as: Yandex traffic jams, the project “Roads of Russia”, supported by Google and similar resources, containing information on the state of roads in some regions.
+
+There is a screenshot of the project “Roads of Russia” below.
+
+It is important to mention  that the project is not commercial. The information comes from drivers. At the moment the service covers only a small part of the roads of Russia.
+
+
+
+Another service for logistics is  information portal, at which the posted data on government resolutions, about  the changes of the transport system.
+
+There are also searching portals, such as http://www.loglink.ru/, ATI (http://ati.su/) with databases of  transport and warehouse services suppliers.
+
+
+
+The screenshot of the main window of the portal ATI is placed above.
+
+ A user works with a searching card for specifying parameters of the cargo, the coordinates of A and b, the date of the shipment. Then the system offers  suitable companies. Reliability and relevance of  information is checked and updated by the logist, but not by the system.
+
+The functionality of such services is generally described by following points:
+
+calculation of cargo
+
+calculation of the length of the route
+
+providing information on transport and warehouse services suppliers
+
+placement of news, relevant thematic information
+
+Thus,the interaction of logistics information systems is composed of a permanent consistent work with these several types of logistic services.
+
+Except  the work with documents, analytical activities, direct communication with customers, remains number  of monotones activities performed by the employees of  logistic divisions(this statement in the first refers to manufacturing companies, in which logistics is not a key business process and those firms which do not use services of outsourcing).
+
+Examples of activities performed by staff except mentioned:
+
+search and selection of the service provider
+
+searching for information about the state of roads
+
+calculation of the most profitable route (often performed by employees in Exel)
+
+selection of the size,volume and the number of machines for transportation
+
+search transshipment points
+
+The above tasks are permanent ones and take up a lot of time from specialists. There is no software that can offer a complex available integrated decision of these problems.
+
+The  general purpose of the author’s paper is  to find a solution to reduce the transaction costs of this kind.
+
+This is the reason why the topic is urgent.
+
+To achieve the goal it is necessary to perform the following tasks:
+
+ To interview at least 5 specialists in logistics, people working with logistics information systems and web-resources devoted to logistics
+
+Analyse the technologies, used by the leaders of global logistics (such as DHL,UPS,TNT Express and others)
+
+To analyze the experience of the companies that produce software for logistics
+
+To examine the main working process features of the of the specialists of logistic departments in manufacturing and logistics companies; to analyse their interaction with information systems
+
+To identify what kind of work they do manually and why
+
+To find out which application and combinations of  technologies can solve existing problems
+
+To find out  which of these technologies are not used by logistic software suppliers and why
+
+To form a criteria by which the user will be able automatically filter out unreliable companies and irrelevant reviews on them
+
+To develop the interface requirements
+
+
+
+Tools of the research.
+
+Therefore, methods of research come to the survey, interviews of the specialists of the subject area and potential actors, the analysis of the thematic literature, comparison of the technologies and features of different applications functionality.
+
+The choice of these research methods can be explained by its aptitude in the subject area. These methods will likely help to avoid working with unnecessary information that does not refer  the developed model. The survey and the interviews will help to make the actual and realistic functional requirements, a deeper understanding of the specific needs and problems of potential users. Working with specialists which practise solving logistic tasks and problems daily will help to form a full picture of what they exactly need.
+
+Comparison of technologies used in the logistics soft will help to identify which of them can be used more effectively in terms of functionality and availability. It is obvious that the easier system is and the less friction it takes, the more attractive it is for the user; and the easier it is to justify the attractiveness of the application as a business-idea.
+
+The place of the selected  topic in literature.
+
+To achieve the set goals author studies the material about existing logistics applications in various articles and on the sites of  IT - companies that produce it. There is some background information on functionality of  proposed software.
+
+However, the description of the products on the sites of the producers is hard  to call critical. The authors focus on the merits of the product and successfully solved problems.
+
+During the author’s research some  materials of the conferences devoted to problems and trends of modern logistics are examined. This part of the materials focuses on what is required by modern specialists.
+
+For the same reason statistical and marketing research papers (for the last 2-3 years) are useful.
+
+The analytical part
+
+The analytical of the study is the most significant because, in fact, it determines the fate of the whole project.
+
+In the analytical part  focuses on the following aspects:
+
+Features and benefits of the technologies used in the logistics.
+
+The results of survey of experts(conclusions of the outstanding tasks and problems, wishes and requirements of ‘actors ‘ to the system)
+
+Overview of the closest prototype of the created model
+
+The identification of common requirements for logistic soft
+
+Conclusions on the feasibility of creating the model
+
+The practical part. 
+
+The practical part of the study concentrates on the following points.
+
+First of all it is necessary to identify the ‘actors’ of the system. Experts of logistics Departments in manufacturing companies, where the logistics is a supporting process are expected to be the actors now.
+
+Interaction of drivers and the system is possible, because they have the most current information about the state of the roads(Yandex traffic Jams, Roads of Russia work according to the same tactic).
+
+Principles of interaction between the system and staff of logistic companies will be explored.
+
+Then the list of functional requirements to the system will be drawn up.
+
+At this stage of study a part of them is identified:
+
+Collection and storage of information about the transport companies\warehouses
+
+Collection and graphic reflection of the relevant resolutions on road repair and other changes  on the map.
+
+Collection and graphic reflection of  the of individual routes condition.
+
+Display of the individual reminding notes  about the peculiarities of the routes on a map(in the personal Cabinet mode)
+
+Possibility to publish the latest information about the roads on behalf of the company\driver
+
+Built-in calculator route
+
+The built-in calculator-cargo” for the system to immediately offered and the number of the volume of cars on the basis of the parameters of the cargo
+
+Integration with GPS systems
+
+Calculating the beneficial route according to price-lists of transport service companies
+
+Marking transshipment points on the map
+
+Marking of the warehouses on the map
+
+Rating of suppliers of transport\warehousing services
+
+Integration with WMS-systems
+
+
+
+Anticipated results.
+
+After drawing up functional requirements to the system basic and distinctive features of the interface will be worked out.
+
+The next block will be devoted to the technologies, which can enable to implement the established functionality.
+
+Then it is planed to develop a detailed explanation of next points:
+
+advantages and specific features of the designed model
+
+novelty of the idea
+
+the prospects of service
+
+integration capabilities
+
+Also planned is to give several logists description of the model with further clarifying their critical opinions.
+
+After that  the idea’s rationale will be finally formed.
+
+Conclusion
+
+The conclusion will be devoted to conclusions about the work, about the prospects and feasibility of the project, its place among the logistic software.
+
+
+
+
+
+
+
+
+Bibliography.
+
+
+
+
+
+
+
+
+
+
+
+
+

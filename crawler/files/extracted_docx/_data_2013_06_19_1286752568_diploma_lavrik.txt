@@ -1,0 +1,490 @@
+Национальный Исследовательский Университет -
+
+Высшая Школа Экономики
+
+
+
+Международный Институт Экономики и Финансов
+
+
+
+ВЫПУСКНАЯ КВАЛИФИКАЦИОННАЯ РАБОТА
+
+
+
+
+
+на тему: Jumps on Earnings Announcement Dates: Systematic & Specific Determinants
+
+
+
+
+
+
+
+
+
+
+
+Студентки 4 курса 4 группы
+
+Лаврик Анастасии Сергеевны
+
+ 
+
+Научный руководитель
+
+К.э.н., д.ф., доцент Гельман Сергей Викторович
+
+
+
+
+
+
+
+
+
+МОСКВА,  2013 год
+
+
+
+
+
+Contents
+
+
+
+
+
+Introduction
+
+
+
+Literature review
+
+
+
+Data and methodology 
+
+
+
+Estimations and results
+
+
+
+Conclusion 
+
+
+
+References
+
+
+
+Appendix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+Financial markets have a feature of demonstrating relatively rare, but significant discontinuities, so-called jumps, in different financial variables. A number of empirical and theoretical studies proved the existence of jumps as well as their significant impact on financial management. For instance, Johannes (2004) and Jiang, Lo and Verdelhan (2011) found that prescheduled macroeconomic announcements cause jumps in U.S. Treasury-bond prices, and Schneider, Soegner and Veza (2007)  provide the “economic understanding in the implied loss given default and risk-premia attached to the risk of sudden jumps in CDS spreads”.  More relevant to the present study, papers by Pattel and Wolfson (1981, 1984), Maheu and McCurdy (2004) and Dubinsky and Johannes (2006) provide evidence of jumps in stocks prices on the quarterly earnings announcements dates (later on simply referred as EADs). This evidence is the primary motivation for the present paper. 
+
+As mentioned above, jumps occurrence is crucial for financial management. One of the main reasons for this is the fact that the kind of jumps arriving on EADs affects the implied volatility, and, consequently, the price of an option. This fact uncovered the whole field for investigations of option pricing models with jumps and recently spawned several prominent papers such as ones by Dubinsky and Johannes (2006), and Gelman and Storcheus (2013).  The work of latter authors has implementations for hedging strategies and “assessing the uncertainty connected to the earnings announcement”. Developing the application of jumps on the EADs for the risk management, Barth and So (2013) discuss “options hedging against market volatility at EADs” and find a “significant positive relation between risk premiums embedded in pre-announcement prices of firms’ traded options and market-wide earnings announcement volatility risk”.
+
+By looking on the examples from the literature above one should be convinced, that jumps are important phenomena on financial markets.  Nonetheless, comparatively little is known about the significant differences in the documented frequencies and intensities of jumps. There are relatively few papers, analyzing the cross-sectional variation in the frequency and the magnitude of jumps caused by new information, in general. There is a study by Andersen, Bollerslev, Diebold, and Vega (2003), which examines the determinants of jumps in the U.S. dollar spot exchange rates. Then, in the aforementioned paper, Dubinsky and Johannes (2006) raise the question of contributions of such factors as “firm age, analyst dispersion, or analyst coverage to the earnings uncertainty”, however, to the best of our knowledge, these relationships have not been estimated yet. There is a paper by Zhou and Zhu (2010), which is probably the closest by the spirit to our study. While authors mainly focus on the frequency and the arrival of jumps, they also analyze relationships between fundamental values of companies and the direction and intensity of jumps. This relationship is of the particular interest in the present paper. Alongside with fundamentals, however, other firm-specific variables will be analyzed in this work, as well as systematic factors, common to all firms on the market.
+
+We hope to make a contribution to the literature by investigating the relationship between certain firm-specific and systematic factors and the magnitude or the intensity of jumps, by using the cross-sectional sample of firms. Since there are only a few studies of this kind, we hope to provide more evidence on the established mechanisms. 
+
+In the next section several key papers that provide theoretical and empirical back group to the present work are reviewed. The third section contains the description of data used in the present study and the methodology applied. In the fourth section results are presented and discussed. Last section briefly summarizes the key points of this work.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Literature review
+
+	There is some serious evidence of stock prices jumps and jumps in option implied volatility on EADs, documented in the literature. Let us briefly review different approaches to capturing these jumps, since the existence of jumps themselves determines the success of our work. Patell and Wolfson (1984) study the response of individual equity prices to earnings announcements using transaction data and find that price reaction to earnings (and dividend) announcements begins very quickly. The reaction (which is the first change in price) occurs “within at most a few minutes of the release of the news.” Their research also indicates that some adjustments begin in an hour or two preceding the news release, but the largest portion of the price response occurs “in the first five to fifteen minutes after the disclosure”. Graph 1, originally constructed by Pattel and Wolfson (1981), represents the relative frequency of price change continuations surrounding earnings announcements. 
+
+
+
+Graph 1
+
+This graph illustrates that the continuation frequency rises sharply at the earnings
+
+announcement, and although it then declines within the fifteen minutes of the release, their study proves that it is still significantly above the non-announcements days’  level for approximately another  90 minutes. These deductions of their work are useful for the present analysis at least for two reasons: first, they demonstrate that jumps do exist, and second, that jumps truly occur right after the announcements. The second fact indicates that the event window of 1 day for the purposes of the present study is enough.
+
+Maheu and McCurdy (2004), have developed a model with two components of the return distribution that are implied by two different types of news. They interpret the innovation to returns, which is obtained from price data directly, as the news impact from latent news innovations. Authors provide an empirical evidence of time dependence in jump intensities for individual stocks and indices using the advantages of their model. Authors also found traditional “good and bad news asymmetry” (which means that bad news tend to have stronger influence on stocks’ prices than good news), but they also state that this asymmetry “appears mostly when no jumps occur. In contrast, when jumps do occur, this asymmetric effect diminishes in favor of a more symmetric effect on expected volatility. Results of this paper are useful for the present study in at least two ways: first, authors prove that “both macro- and firm-specific news cause individual stocks to jump”, and second, these result help to justify an assumption, which we have to make in order to use GARCH in the model, which will be explained below.
+
+Dubinsky and Johannes (2006) introduce the reduced form model with both jump and diffusive components. To quantify the importance of accounting for earnings announcements when pricing individual stock, they estimate stochastic volatility model with and without jumps on earnings dates. Authors found that adding jumps on EADs improves the model significantly, as a “stock price jump at the earnings announcement significantly reduces option-pricing errors” (since uncertainty around earnings announcements plays a central role in determining option prices in their paper). So earnings announcements can be reasonably modeled by a discontinuous component in the price. The main difference between Johannes and Dubinsky’s paper and Pattel and Wolfson (1981) is that Johannes and Dubinsky take as granted one of the main conclusions from Pattel and Wolfson’s work that option prices already contain information about earnings announcements. 
+
+The major work directly in the area of cross-sectional variations of jumps is done by the already mentioned authors Zhou and Zhu (2010). According to them, their study was “the first to systematically investigate a large sample of individual securities for the understanding of cross-sectional dependence of jump innovations on a set of firm attributes, conditioned on informational shocks from quarterly earnings announcements.” As is clear from the citation, authors analyze the cross-sectional heterogeneity of factors, influencing the arrival, magnitude and intensity of the jump. Moreover, they have established that there is relatively little evidence on the specific determinants of jumps. In their work authors use the so-called “snapshots” approach to mitigate the “problem of missing variables” which arises from the difficulty to specify all kinds of news that cause the jumps. So Zhou and Zhu choose the short event window around quarterly earnings announcements, and so is done in our work, as was mentioned above. Among the other techniques, authors use the two-stage Heckman selection model to estimate the effect of firms’ fundamentals on the sizes of jumps. They provide evidence that “firm size is negatively correlated with absolute jump sizes”, whilst the trading volume, turnover, and book-to-market ratio, are positively correlated with absolute jump sizes. We will be oriented by these results, when conducting our research below. Some of the above relationships will be described in more details below.
+
+Overall, all the discussed papers find sufficient evidence of jumps in stock prices on the dates of quarterly earnings announcements and moreover they prove importance of these jumps for both stock and option pricing. The paper, discussed in the above paragraph, not only provides evidence of significant cross-sectional differences of characteristics of jumps, but also establishes the starting point to the whole family of investigations, aimed to determine the ultimate factors causing these differences. The present paper aims to estimate some of the factors, that are believed to help to explain these cross-sectional differences and shed some light on the characteristics of jumps sizes in our sample.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data and Methodology
+
+The sample, investigated in this study consists of 100 U.S. companies listed in the S&P 500 index and traded on NYSE and NASDAQ. Companies in the sample cover all 10 industries distinguished by Global Industry Classification Standard: Energy, Materials, Industrials, Health Care, Consumer Discretionary, Consumer Staples, Telecommunication Services, Financials, Information Technology and Utilities. The list of full names as well as tickers and indicated industries is provided in the Appendix A. The slight preference was given to companies operating in informational technologies and consumer discretionary industries, since companies in these industries tend to have the low dividends policy or do not pay dividends at all. For instance, sample average dividend per share (DPS) over years 2002-2012 is the lowest for the IT industry (around 20 cents), and highest in utilities (around 1,5 dollars). Averages of DPS in all industries for the same period (2002-2012) are provided in Appendix B. Dividend policy is relevant to the discussion, because dividends announcements as well as earnings ones affect volatility of the returns, creating additional jumps on dividends announcements days. However, since we are interested in the cross-section of all companies, industries other than IT are not neglected.
+
+Dates of earnings announcements were collected from the 1st of March, 1999 to 31tst of December, 2012. For all companies, except for two, there are 55 quarterly earnings announcements during 14 years, and for the 2 aforementioned companies there are 54 announcements, which totals 5498 events during the time span. Since the dates of earnings announcements were largely unavailable for the fourth quarter of 1998 (typically released in January-February of the following year), data is collected starting from the 1st of March, 1999. To compensate for the missing events in the begging of 1999, last quarter earnings announcement of year 2012 (those are released in the January-February of 2013) were used, however later they were eliminated, since the average yearly jump was to be calculated, as will be described below, and 1 observation to account for yearly average was naturally not enough.
+
+ 	The main source of dates of announcement is the web site earnings.com, and in exceptional cases companies’ official web sites and various news releases. Stocks’ prices and fundamental values such as market capitalization, market to book value and turnover volume are collected from the DataStream. To account for the normal return market model is used: S&P 500 composite index (its values were also collected from the DataStream) is used as market proxy to account for macroeconomics fluctuations and model “normal” changes in stock prices.  
+
+The market model:
+
+
+
+Returns on all stocks and the S&P500 index are calculated as follow:                               
+
+
+
+The error term in the market model is defined as follows:
+
+
+
+
+
+In the error term the second multiple,  , is the White noise, meaning that it is distributed normally with mean of 0, and standard deviation of 1: 
+
+      
+
+
+
+
+
+The square of the first multiple in the error term,   , represents the volatility of stocks’ prices, and is modeled as GARCH (generalized autoregressive conditional heteroskedasticity) process with lagged by 1 period error term, and its own value lagged by 1 period:
+
+
+
+
+
+Besides the standard GARCH(1,1) expression, the sum of dummy variables is present in the variance equation.  These dummy variables, denoted as , indicate earnings announcements days in each year from 1999 to 2012. The estimated period of 14 years is divided into sub-periods each of one year, following the trade-off between the precision of coefficients, and representativeness, or, parsimony. Average yearly coefficients are aggregating the jumps within fiscal years, that makes economic sense and mitigating the problem of giant number of dummy variables in the model. So,   represents an average intensity of the jumps in the volatility of the returns of the company i for the year y. Many authors including Zhou and Zhu (2010) had observed the vast difference between average frequencies of jumps for different companies, however in this study the number of jumps per year is fixed at 4 per year in 2000-2012 and at 3 in the year 1999, due to the reason, stated above. 
+
+While using GARCH(1,1) model we have to make an assumption that positive and negative shocks have the same effect on volatility. However, this assumption is not totally unreasonable, because Maheu and McCurdy (2004), as briefly summarized above, find that “in the presence of jumps, the news impact curve displays less asymmetry”. 
+
+To obtain 100  coefficients responsible for the yearly average magnitude of jump on the EAD, GARCH(1,1) model, specified above, is estimated for every company in the sample. After removing 1 outlying value (created by the returns on the stock of The Dow Chemical Company  in 2009, the value of its coefficient was 2000 times greater than the mean) the coefficients are preliminary analyzed and further aggregated as panel data. There are 10 cross-sections and 14 years. Obtained average yearly jumps coefficients are then regressed on a number of different variables.
+
+
+
+ 	First, there are fundamental variables for companies: market capitalization (or market value, MV), turnover volume (TRNV) and market-to-book value (MTB). Second, there is another firm-specific variable, analysts’ forecasts disagreement (AFD). Third, there are systematical variables: financial crisis of 2008-2009 (Crisis), dotcom bubble of 2000-2001(Dotcom), and finally the risk-premium on the US Equity market (RP). It should be noted that the logarithms of all quantitative variables expressed in dollars (since all companies are based in the United States) is used in our analyses, that it is not reflected in the above equation for the sake of clear appearance of the variables in the regression. The definitions of all variables are following.
+
+Market value is defined as the share price multiplied by the number of ordinary shares issued. This variable, naturally, is responsible for the size of the firm. The negative correlation with the jump size is expected, as, intuitively, the bigger firm implies higher security of returns, to some extent following the principle of “too-big-to-fail”.  Market-to-book value is the market value of the common equity divided by the balance sheet value of the common equity in the company. This variable attempts to identify the true or intrinsic value of securities, or, in other words, if the security is under of overvalued, relatively to its book value. If this ratio is greater than 1, than this equity is overvalued, is smaller – undervalued. The relationship is expected to be negative, as was already demonstrated by Zhou and Zhu (2010), who found evidence that firms with higher market-to-book demonstrate on average lower volatility of returns and absolute jump sizes. Turnover by volume shows the number of shares of a particular stock traded during the specified year. This variable aims to reflect the liquidity of the company’s stock. The correlation with the size of the jump is also assumed to be negative, as, intuitively, higher liquidity means easier sale and purchase of shares. Analysts’ forecasts disagreement is defined as the standard deviation of forecasts of earnings per share (EPS) for a given year. This variable reflects the accuracy of the earnings forecasts and therefore can be used to predict the size of the jump. The greater is the disagreement – the higher jumps are expected, therefore the relationship with the dependent variable is expected to be positive.
+
+The systematic variables, in contrast to the firm-specific ones, are aimed to capture the market wide fluctuations, rather than cross-sectional characteristics variability. One of the recent examples of a systematic factor is the global financial crisis of 2008-2009. To account for this market condition, the  dummy variable Crisis is introduced, that takes the values of 1 for their financial crisis years (that are assumed to be 2008 and 2009), and 0 for the other years in the sample.  Another major crisis is the dotcom bubble period of 2000 and 2001, so the dummy Dotcom, that takes the value 1 for years 2000 and 2001, and 0 – otherwise, is introduced. Increasing volatility of returns due to adverse market conditions is expected to generate higher jumps, so we expect coefficients of both dummy variables to be positive. Just by looking at the graph, presented below, one can observe the heteroscedasticity of the realized returns.  This graph depicts the returns on the stock of the Kohl's Corporation (ticker: KSS), which is an American department store chain. This pattern of returns is typical to the most companies in the sample. There are two major periods of relatively high volatility: the 2008-2009 crisis times and the more spread out period in early 2000’s. The latter phenomenon could partly be explained by the fact that data on prices obtained from the Datastream for the majority of companies was more precise for approximately first 1000 observations (that is, years 1999, 2000, 2001 and 2002) than to the rest of the considered period. AS mentioned above, years 2000 and 2001 are years of dotcom bubble, therefore the major fluctuations of returns are believed to be caused by this market condition.
+
+
+
+Graph 2
+
+Finally, the risk premium on the US equity market is introduced. As risk premium the implied values found by Aswath Damodaran’s under his approach are used. These are lagged, as in case with fundamentals. Preliminary, we expect the relationship to be positive, using the result discovered by Bath and So (2013): they state that “there is evidence of risk premiums embedded in prices of traded options that hedge against market volatility risk at earnings announcements. This indicates that investors anticipate these announcements to convey market-wide news and are averse to the increase in market uncertainty associated with the announcements.” Since the investors are averse to the described by authors uncertainly, they require higher risk premium on equity as well as on those option, that are used to hedge, when the uncertainty about the jump increases. 
+
+Once all the factors and hypothetical and established before relationships are described, we proceed to the estimation of the model.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Estimations and results
+
+As outlined above, the first step of the analysis involved the calculation of the yearly average amount of the volatility jump on the days of earnings announcements for every stock. In order to do that, all earnings announcements were divided onto groups according to years, and introduced as dummy variables separately. 
+
+The table presented below summarizes the estimation output for GARCH (1,1) model of returns on Xerox Corporation’s equity volatility, with the dependent variable of return. These results are typical for most firms in the sample. The results of this estimation procedure for all firms are provided in Appendix C.
+
+Table 
+
+Mean equation: 
+
+
+
+Variance Equation:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+As confirmed by p-value for the variable GARCH(-1) and Durbin-Watson statistics, which is 2.1459, and which is greater than the relevant upper critical value of 1.847, GARCH(1,1) is a good fit for our volatility process.
+
+The distribution of the coefficients for average jumps on each of the years from 1999 to 2012 is provided below. One adjustment has been made, though.  There was a definite outlier, the positive coefficient which was about 2000 times the mean, so this observation was dropped from the further analysis.
+
+
+
+             Graph 3
+
+The overall average yearly jump across companies and years is 0.000447, with standard deviation of 0.001225. The maximum jump is 0.01696, and the minimum is minus 0.004464. The cross-sectional averages can be found in the Appendix C. The following Graph 4 represents the average jump size for 14 years of estimations.
+
+
+
+
+
+                 Graph 4
+
+As we see, the magnitudes of jumps vary greatly both across stocks and across years, which motivates further analysis. 
+
+There is another, more detailed, graph representing the cross-sectional distribution of yearly averages values. The graph can be found in the Appendix D. Negative jumps of volatility are present. There are relatively few of them, compared to the number of positive jumps, however they are still present. These negative jumps on the first sight seem contradictory: once the earnings are announced, investors react to the news and the price immediately abruptly changes (as was shown by many authors, including Pattel and Wolfson (1984)), causing the volatility to jump upwards. Negative coefficients imply that prices (and therefore returns) change less on an EAD, than they would if no announcement has been made on this day. Zhou and Zhu (2010) apply the multinomial logit model, including both firm-specific values and the variable INFO which “…is the magnitude of contemporaneous or delayed informational shock due to earnings surprises” as explanatory variables. They find that some of these variables, including INFO increase the likelihood of negative jump; however they do not establish particular reasons for this phenomenon. These reasons are not quite clear, but it could be that imagined, that during the period of relatively high volatility, when the probability of high positive jumps increases, the probability of extreme negative jumps is also increased.
+
+ 	Before closely investigating the determinants of jumps values, the preliminary analysis is conducted. We would like to check whether jumps in fact do correlate with the industry in which the particular company operates. There are 10 dummy variables for 10 industries. Abbreviation CD stands for consumer discretionary,  CS – for consumer staples, FI – for financials, HE – for health, IND – for industrials, IT – for informational technologies, MAT – for materials, NRG – for energy, TC – for telecommunications and finally UT denominates utilities. The constant was excluded to avoid the dummy variable trap. The regression with dependent variable Jump (size of an average yearly jump for a company) was estimated with pooled OLS regression, which has shown the better fit than other models. Table 2 represent the estimated coefficient for the above dummy variables alongside with the corresponding t-statistics.
+
+Table 2
+
+These results imply that belonging to the IT industry brings the largest contribution to the price volatility jump. There is significant evidence that if company operates in the IT sector, the average yearly jump of its stock’s volatility increases, on average, by 0.001016. Operating in health and consumer staples industries brings the second highest contributions to jumps (0.000620 and 0.000571, on average, respectively). Companies that operate in materials and industrials sectors, on average, experience smaller contribution to the jump size. All the described above relationships are statistically significant, while the coefficients for financials, consumer discretionary, energy, telecommunications and utilities are insignificant in determining the intensity of the jump. As Schneider, Sogner and Veza (2007) conclude on a slightly different test, is actually applicable for the present investigation as well: “both financials and utilities sectors are heavily regulated, so the fear of structural default is low, and distress is only possible through mismanagement or fraud.” This observation is consistent with our results and implies that investors who hold the securities of companies operating in these two industries react to the news, on average, less than, say, in IT sector. 
+
+Now we proceed to the results of the second step of the analyses. Here particular determinants of jumps, tested on panel data, are investigated.
+
+As described in the previous section, there are several firm-specific variables, and several systematic variables. Let us remind that fundamental variables include: market capitalisation (responsible for the size of the firm), market-to-book value (helps to estimate, whether the stock is priced according to its book value), and turnover of shares (aimed to reflect the liquidity of the company). The hypothetical signs of the relationships between the jumps size (dependent variable) and these variables are negative for all of the above variables. Analysts’ forecasts disagreement regarding the following EPS should have a positive coefficient, and both crisis variables are expected to be related to the dependent variable positively. 
+
+The panel modification of OLS was used to estimate the relationships between all these variables and the dependent variable JUMP. We are estimating the model by using fixed or time-independent effects for each stock, which makes sense in the contest of the heterogeneity, correlated with the independent variable (sizes of jumps for particular companies). Let us remind that logarithms of the quantitative fundamental values are used in estimation, and such variables as turnover, market-to-book value and market capitalization are lagged by 1 period. This is done because expectations about the earnings announcement are likely to be based on the past information, and during the year of announcement, information for the current year is generally unavailable. 
+
+In the Table 3 below the key estimations of the regression, discussed above are presented:
+
+
+
+Table 4
+
+The results are as follows: market value of the company is negatively correlated with the size of the jump, which is perfectly in line with our expectations. Market-to-book value, surprisingly, is related to the jump size positively. This may be partly caused by negative book values of equities for some companies, which were obtained from the DataStream and left for the completeness of estimation results. However there might be other unobserved reasons for this unexpected result. Shares turnover is related positively; but the relationship between the shares turnover and the jump size is only significant at 84% confidence level, that does not allows us to make any valid conclusions about its coefficient. The degree of analytics’ forecasts disagreement is found to be insignificant at any reasonable confidence level, therefore it is dropped from the further analyses. The risk premium, lagged by one year is positive and significant, as was hypothesized. However it correlates with crises and dotcom variables, and since these variables are more exogenous, the variable of lagger risk premium will be also dropped from the following analyses.
+
+Once certain variables were dropped, the model is again estimated with panel OLS with fixed effects. Statistics for the significant values have changed slightly. 
+
+Table 5
+
+
+
+The above results are final and will be interpreted fully. Let us start with systematic variables first. The global financial crisis years, on average, increase the size of jump by 0.000395, which is in line with our expectations that higher volatility of returns in general, implies higher jumps of stock prices on EADs. Second, the dotcom crisis, on average, increases the size of jumps by 0,000249, which contributes to the hypothesis about volatility above. Then, the increase of the market value of the company, on average, decreases the size of jump by 0.00029%. This result fits into findings of Zhou and Zhu (2010) and supports the idea that bigger companies’ news cause less reaction of investors, than smaller firms, often referred as “growth” ones. 
+
+The coefficient of turnover is insignificant, while we expect it to be significantly negative. This discrepancy could be due to not quite realistic aggregation of values of the turnover onto years. It could be the case that only a few weeks before each announcement are determining the expected liquidity of stock by investors, meaning that in this case, the aggregation onto year will not bring the significant result. One more problematic coefficient, contradicting its expected sign is that of market-to-book value. However it only is valid at 10% significance level, its p-value is small enough (0.059%) to believe that something went wrong on our analyses. May be this deviation from the expected result (as well as the one for turnover) is caused by the amplitude of the different companies in the sample. First, as described above, there are companies representing all industries, and some industries like health and financials bring the bias. Second, all the stocks are included in the S&P500 composite index, meaning that they are all quite large and some relationships are not apparent as they could be, if the sample was more diverse in terms of the scale of the companies.
+
+As implied by the F-statistics of 4.798, the null hypothesis of the pooled regression (that is, simultaneously zero effects of all individual firms) versus alternative hypothesis of regression with fixed effects, is rejected at any reasonable significance level, so we conclude that the fixed effect OLS model is truly better than the pooled OLS model, and the estimation of model is conducted correctly, while not all variables were treated properly and/or some of the above mentioned bias are present. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conclusions
+
+This work was motivated by the comparative lack of information about the factors, determining the size of the jump of stocks’ prices on the quarterly earnings announcement dates, whilst this information may be valuable to estimate the earnings surprises and improve market efficiency  There were two main stages in the present study: the evaluation of yearly average jumps’ sizes of the hundred U.S. firms, and the determination of factors, both systematic and specific, that are assumed to explain these jumps’ sizes. First stage results are consistent with the previous research and theoretical hypothesis. The results of the second stage of estimation are twofold: while there is significant consistency with theoretical and empirical evidence for the part of the variables, there are discrepancies with the existing background for the other part of the variables.  In our sample there is the significant evidence of positive jumps on the earnings announcement dates. The size of these jumps is found to be smaller for firms with higher market capitalization, as was shown before by several authors. Global financial crisis of 2008 and 2009, as well as earlier dotcom crisis of 2000 and 2001 explain the relatively higher volatility and therefore, in average, greater jumps during these periods. The unexpected results are the positive correlation between the size of jumps and market-to-book values, and insignificant coefficient of shares turnover. The suspected possible reason for the latter deviation from the previous research is misspecification of the period, for which the turnover is significant. The current study could be improved by the more sensitive set up for the effect of turnover, that is, turnover should be measured only for a short period before an EAD, rather than taking an aggregated value for the whole year.
+
+On a greater scale, the study can be improved by including the age of the firm, as was proposed by Dubinsky and Johannes (2006). This model would require the estimation of OLS with random effects, in contrast to the model with fixed effects, applied for the purposes of the current study.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References
+
+
+
+Andersen, T. G., Bollerslev, T., Diebold, F. X., Vega, C., 2003. Micro Effects of Macro Annoucements: Real-time Price Discovery in Foreign Exchange, American Economic Review, 93 (1), 38-62.
+
+Barth, M.E., So, E. C., 2013, Market Volatility Risk and Risk Premiums at Earnings Announcements, Working Paper, Graduate School of Business Stanford University
+
+Dubinsky A., Johannes M., 2006, Fundamental uncertainty, earning announcements and equity options, Working Paper, Graduate School of Business Columbia University 
+
+Jiang, G. J., Lo, I., Verdelhan, A., 2011, Information Shocks, Liquidity Shocks, Jumps, and Price Discovery: Evidence from the U.S. Treasury Market, Journal of Financial and Quantitative Analysis, 46(2), 527-551.
+
+Johannes, M., 2004, The statistical and economic role of jumps in continuous-time interest rate models, The Journal of Finance, 59, 227-260. 
+
+Maheu, J. M., McCurdy, T. H., 2004, News arrival, jump dynamics, and volatility components for individual stock returns. The Journal of Finance, 59 (2), 755-793.
+
+ Patell, J. M., Wolfson, M. A., 1981. The Ex Ante and Ex Post Price Effects of Quarterly Earnings Announcements Reflected in Option and Stock Prices, Journal of Accounting Research, 19, 434-458.
+
+Patell, J. M., Wolfson, M. A., 1984, The Intraday Speed of Adjustmnet of Stock Prices to Earnings and Dividend Announcements, Journal of Financial Economics 13, 223-252.
+
+Schneider, P. G., Stogner, L., Veza, T., forthcoming. The Economic Role of Jumps and Recovery Rates in the Market for Corporate Default Risk, Journal of Financial and Quantitative Analysis
+
+Storcheus, D., Gelman, S., 2013, How Much Specific Risk is in Option Prices?, Working paper, presented at Royal Economic Society 2013 meeting, weblink.
+
+Zhou, H., Zhu, J. Q., 2010, The Cross Section of Jumps around Earnings Announcements, Working Paper, Department of Finance Cleveland State University
+
+Damodaran, As., 2013, Equity Risk Premiums (ERP): Determinants, Estimation and Implications, Stern School of Business New York University 
+
+
+
+
+
+
+
+Appendix
+
+Appendix A
+
+Sample of the firms, with indication of industry, full name and ticker.
+
+
+
+Appendix B
+
+DPS for the period 2002-2012
+
+
+
+Appendix C
+
+
+
+Jumps values are available on Your request, since they take the enormous amount of space.
+
+
+
+Appendix D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

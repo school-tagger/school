@@ -1,0 +1,1238 @@
+Правительство Российской Федерации
+
+
+
+Федеральное государственное автономное образовательное учреждение высшего профессионального образования
+
+«Национальный исследовательский университет
+
+«Высшая школа экономики»
+
+
+
+Факультет  государственного и муниципального управления
+
+Кафедра государственной и муниципальной службы
+
+
+
+ДИССЕРТАЦИЯ НА СОИСКАНИЕ СТЕПЕНИ МАГИСТРА 
+
+ПО НАПРАВЛЕНИЮ 
+
+«ГОСУДАРСТВЕННОЕ И МУНИЦИПАЛЬНОЕ УПРАВЛЕНИЕ»
+
+
+
+На тему 
+
+“Развитие государственной гражданской службы Великобритании в 21 веке: возможность применения этического аспекта в российских реформах”
+
+
+Студент группы № 762
+
+Парфентьев Михаил Владимирович
+
+
+
+Научный руководитель:
+
+Доктор юридических наук, профессор, 
+
+Оболонский Александр Валентинович
+
+
+
+Рецензент:
+
+Конов Алексей Владимирович
+
+
+
+
+
+Москва, 2013
+
+The State Educational Institution of Higher Education
+
+The National Research University Higher School of Economics
+
+The Faculty of Public Administration
+
+
+
+London Metropolitan University
+
+The Faculty of Law, Governance and International Relations
+
+
+
+Dual degree master of Public Administration
+
+Master Thesis
+
+
+
+BRITISH CIVIL SERVICE DEVELOPMENT IN THE 21ST CENTURY: POSSIBLE USE OF ITS ETHICAL ASPECT IN RUSSIA'S REFORMS
+
+
+
+Student ID number 11070986
+
+Course name 
+
+GIPP06C International Public Administration Project
+
+
+
+Supervisor: professor, Alexander Obolonsky,
+
+Department of State and Municipal Services
+
+
+
+Moscow 2013
+
+
+
+
+
+Abbreviations and acronyms
+
+Economy Ministry – The Ministry of Economic Development of the Russian Federation
+
+Emercom – The Ministry of the Russian Federation for Civil Defence, Emergencies and Elimination of Consequences of Natural Disasters
+
+FAS – The Federal Antimonopoly Service of the Russian Federation
+
+FDCS – The Federal Drug Control Service of the Russian Federation
+
+Finance Ministry- the Ministry of Finance of the Russian Federation
+
+FMBA – The Federal Bio-Medical Agency of the Russian Federation
+
+FMS – The Federal Migration Service of the Russian Federation
+
+FNS – The Federal Tax Service of the Russian Federation 
+
+FSA - Federal Service for Accreditation of the Russian Federation
+
+FSFR – The Federal Service for Financial Markets of the Russian Federation
+
+FSIN – The Federal Service for the Execution of Sentences of the Russian Federation
+
+FSMTC – The Federal Service for Military-Technical Cooperation of the Russia Federation
+
+FSSP – The Federal Bailiff Service of the Russian Federation
+
+FST – The Federal Tariff Service of the Russian Federation
+
+FSTEK - The Federal Service for Technical and Export Control
+
+FTS – The Federal Customs Service of the Russian Federation
+
+GFS – The State Courier Service of the Russian Federation
+
+GUSP – General Directorate of Special Programs of the President of the Russian Federation
+
+Leshoz – The Federal Forestry Agency of the Russian Federation
+
+MID – The Ministry of foreign affairs of the Russian Federation
+
+MOD – The Ministry of Defence of the Russian Federation
+
+Mincult – The Russian Ministry of culture
+
+Minenergo – The Ministry of Energy of the Russian Federation
+
+Minfin – the Ministry of Finance of the Russian Federation
+
+Minjust – The Ministry of Justice of the Russian Federation
+
+Minkomcvyaz – The Ministry of Communications and Media of the Russian Federation
+
+Minobrnauki – The Ministry of Education and Science of the Russian Federation
+
+Minprirody – The Ministry of Natural Resources and Environment of the Russian Federation
+
+Minpromtorg – The Ministry of Industry and Trade of the Russian Federation
+
+Minregionrazvitiya – The Ministry of Regional Development of the Russian Federation
+
+Minselhoz – The Ministry of Agriculture of the Russian Federation
+
+Minsport – The Ministry of Sport of the Russian Federation
+
+Mintrans – The Ministry of Transport of the Russian Federation
+
+Mintrud – the Ministry of Labour and Social Security of the Russian Federation
+
+Minzdrav – The Ministry of Public Health of the Russian Federation
+
+MVD –The Ministry of the Interior of the Russian Federation
+
+PSE - public service ethos
+
+Rosalkogolregulirovanie – The Federal Service for the Regulation of the Alcohol Market of the Russian Federation
+
+Rosarhiv – The Federal Archive Agency of the Russian Federation
+
+Rosaviatsiya – The Federal Air Transport Agency of the Russian Federation
+
+Rosavtodor – The Federal highway Agency of the Russian Federation
+
+Rosfinmonitoring – The Federal Service for Financial Monitoring of the Russian Federation
+
+Rosfinnadzor – The Federal Service for Financial and Budgetary Supervision of the Russian Federation
+
+Rosgidromet – The Federal Service for Hydrometeorology and Monitoring of the Environment of the Russian Federation
+
+Rosgranitsa – The Federal Agency for the Development of the State Border Facilities of the Russian Federation
+
+Rosimuschestvo – The Federal Agency for State Property Management of the Russian Federation
+
+Roskazna - The Russian Federal Treasury of the Russian Federation
+
+Roskomnadzor – The Federal Service for Supervision of Telecom, Information Technologies and Mass Communications of the Russian Federation
+
+Roskosmos – The Federal Space Agency of the Russian Federation
+
+Rosmolodoj – The Federal Agency for Youth Affairs of the Russian Federation
+
+Rosmorrechflot – The Federal Marine and River Transport Agency of the Russian Federation
+
+Rosnedra – The Federal Agency on Mineral Resources of the Russian Federation
+
+Rosoboronpostavka – The Federal Agency for Weaponry, Military and Special Equipment and Material facilities Procurement of the Russian Federation
+
+Rosoboronzakaz – The Federal Service for Defence Order of the Russian Federation
+
+Rosobrnadzor – The Federal Service for Supervision in the Sphere of Science and Education of the Russian Federation
+
+Rospatent – The Federal Service for Intellectual Property
+
+Rospechat – The Federal Press and Mass Media Agency of the Russian Federation
+
+Rospotrebnadzor – The Federal Service on Customers’ Rights and Human Well-being Surveillance of the Russian Federation
+
+Rosprirodnadzor – The Federal Service for Supervision of Natural Resource Management of the Russian Federation
+
+Rosreestr – The Federal Service for state Registration, Cadastre and Cartography of the Russian Federation
+
+Rosrezerv – The Federal State Reserve Agency of the Russian Federation
+
+Rosrybolovstvo – The Federal Agency for Fishery of the Russian Federation
+
+Rosselkhoznadzor – The Federal Service for Veterinary and Phytosanitary Surveillance of the Russian Federation
+
+Rossotrudnichestvo – The Federal Agency for Commonwealth of Independent State Affairs of the Russian Federation
+
+Rosstandart – The Federal Agency for Technical Regulation and Metrology of the Russian Federation
+
+Rosstat – The Federal State Statistics Service of the Russian Federation 
+
+Rossvyaz – The Federal Agency of Communications of the Russian Federation
+
+Rostransnadzor – The Federal Transportation Inspection Service of the Russian Federation
+
+Rostrud – The Federal Service for Labour and Employment of the Russian Federation
+
+Rosvodresursy – The Federal Agency for Water Resources of the Russian Federation
+
+Roszdravnadzor – The Federal Service on Surveillance in Healthcare of the Russian Federation
+
+Roszheldor – The Federal Agency for Railway Transport of the Russian Federation
+
+Russiatourism – The Federal Agency for Tourism of the Russian Federation
+
+Spetsstroi – The Federal Special Construction Agency of the Russian Federation
+
+Treasury – The Russian Federal Treasury of the Russian Federation
+
+UDP – The Administrative Department of the President of the Russian Federation
+
+
+
+ 
+
+
+
+
+Introduction
+
+The role of human values is strengthening in all their manifestations with the further deepening of globalization. According to Lobanov (Lobanov, 2003) it is necessary to highlight the factors such as the globalization of economic and cultural relations, the growing demand of the population for better services from the public sector, the continuing general government deficit and the development of telecommunications technology that play the role of external incentives for administrative reforms.
+
+In this case, the system of civil servants’ training and the public sector in general are no exception. United Nations, World Bank, OECD and other international and regional organizations hold the line on reforms that contain huge value potential. Especially significant international experience deals with both ethical issues and experience in the creation of the institutional system of ethical public service (Abdullayev, 2011). The level of bureaucratic ethics’ development can be seen as a global picture of the public administration development as well as development in the specific countries. Ethics and public service values are important elements in comprising the “body and soul” of public administration (Menzel, 2003). 
+
+The aim of this Master Thesis is formulated as the evaluation of the ethical regulation in the Russian Federation since 2000, defining current trends and the degree of maturity as well as their possible improvement by adopting best practice by taking the example of the United Kingdom experience, especially in the 21st century. Thus, the object could be defined as the system of civil service ethics; the subject is codes of conduct and codes of ethics. The issues in focus are seen as the development of an infrastructure of civil servants’ ethics and its further institutionalization. 
+
+In order to achieve the aim of the thesis, the following tasks should be performed:
+
+To define the role and place of the ethical code within ethical infrastructure;
+
+To investigate the main factors influencing policy transfer;
+
+To analyse British and Russian context in the field of ethical regulation;
+
+To conduct qualitative analysis of the Russian and British ethical codes;
+
+To conduct quantitative analysis of ethical codes of the federal executive bodies of the Russian Federation. 
+
+Among others it should be highlighted the consideration of trends in the field of ethical regulation, bringing the Britain’s context of the issue with a view to a possible transfer of experience on the way to institutionalize the moral side of the civil service in Russia. 
+
+Thereby, the hypothesis is represented by the notion that the gradual development and systematic approach to the ethical regulation of the civil service in Russia (including best practices instead of blindly copying) will allow to improve the development of an ethical infrastructure of public service in Russia as a whole.
+
+Generally speaking, the methodology is based on the documentary research as well as primary and secondary data analysis. Primary data is represented by the following sources of information such as reports of the Civil Service Commission, reports of the Committee on Standards in Public Life, some federal laws, decrees, and orders. Secondary data includes reviewing articles on the subject, the results of polls and surveys.
+
+The methods consist of a mixture of quantitative and qualitative techniques. The evaluation of ethical policy in Russia would be to hold through quantitative analysis of legal acts along with quantitative content analysis via computing in Content Pro 1.6 software (Churakov, 1996). Comparative aspect of the research involves analytics and transfer policy concept. 
+
+The limitation on time period – the 21st century - was chosen as a competitive advantage of the work, that is supported by changes, which underwent in both British and Russian civil service in the form of reforms and their further logical development.  
+
+The originality could be seen as the attempt to analyse ethical infrastructure through the mixture of quantitative and qualitative methods. 
+
+Thus, body of the work has a classical three-part logic. The first chapter describes theoretical aspects of the ethical regulation phenomenon, the concepts of transfer policy, its features, kinds and models. The second part is devoted to the British experience in the field of ethics and current state of development of ethical infrastructure in Russia to draw parallels from foreign experience.  In addition, this experience will be considered as a tool of ethical regulation and the possibility of its implementation in the Russian reality. Finally, the last section will cover quantitative and qualitative content analysis of the Russian codes of ethics.
+
+The topicality of the civil servants’ ethical agenda in general and in this dissertation in particular could be proved by the following reasons. 
+
+The role of professionals in delivering goods and services on behalf of governments has, in recent times, been transformed. The need to develop ethics of public service is connected with such current requirements as: the persons occupying positions in the public service should correspond to their high social status, there is a need for professional public assistance, the dependence of people’s welfare from deontological building of government officials, compliance with ethical and deontological rules, with system of norms, standards, and requirements for the quality of the public service. These concerns, in turn, have risen to prominence again in recent years because of the changing context of public policies, and also because of changes both in the management and government in the public sector (Davis, 2005).
+
+Public service ethics is considered as one of the most effective ways of raising the efficiency of public services, management of conflicts of interest, anti-corruption policy (Irkhin, 2011). "Recently recognized the primary role in the management, including the public, cultural factors, the formation of a new culture of public service. The main direction here was "ethization" of public service that is the focus on the moral and ethical aspects of the behaviour of public servants. It is believed that without an ethical component any administrative reforms have little chance of success "(Obolonsky, 2009).
+
+In addition, the process of revising a code is an excellent time to re-engineer or reform administrative structures and processes for many organizations. Code revisions can also be used to refocus the vision or to revise the mission statement of the organization, because the values in the code are often a foundation for how people in the organization see their responsibilities (Gilman, 2005). The best practice evaluation allows better understanding of the features of the ethical regulation; determine the nature as well as principles of functioning and development of codes of ethics.
+
+
+
+
+Literature review
+
+The organization in the 21st century faces wider scrutiny than its 20th-century counterpart (Foster Back, 2006) as demands from the public increased.
+
+The ethical agenda arises in reports of such organizations as OECD, United Nations, World Bank, Transparency International. Moreover, it is not a fixed question for governments. The topicality could be proved by the scientific interest of international and Russian scientists. 
+
+In general the topic of ethics could be seen from different perspectives. Hence, the bibliographic analysis represents a range of terms directly or indirectly related to the civil servants ethics. The aim of the next analytic work is to evaluate the place of ethics of public sector in academia, especially in the 21st century. Thus, the following keywords were chosen: ethics management, code of conduct, code of ethics, ethical code, deontology, public service ethos, ethical regulation, integrity management, bureaucratic ethics, ethics policy, administrative ethics, and integrity policy. ISI Web of Knowledge database was used for providing the analysis. All results were checked with the appropriate research areas toward civil service and public sector.
+
+Figure 1 Bibliographic analysis 
+
+Based on ISI Web of Knowledge dataset
+
+The main quantity of articles contain code of ethics, code of conduct or deontology keywords that underline the main focus of the public service ethics in academia. Thus, review of publications on the subject of ethics in public service shows that the peak of academic interest was in terms of code of ethics. The linear trend for code of ethics (black curve) shows an upward attention to the topic (Figure 1). Moreover, it is necessary to pay attention on the visible correlation between majority of keywords.
+
+According to Yablonskaya (2008) the most important works in this field are Kukushina on police ethics (Kukushina, 2003) and Okusov on legal ethics (Okusov, 1997) in Russia. Moreover, there is a so-called Tuymen School of Applied Ethics headed by Tyumen Institute of Applied Ethics. In this case, it is necessary to mention a set of monograph edited by Vladimir Bakshtanovskii and Yuri Sogomonov (1997, 2003, 2006, 2007). Another group of authors (including works of Konov A. and Obolonsky A.) on the civil service ethics with foreign and British experience investigation is formed on the basis of the Institute of Law and Public Policy. 
+
+Thus, the majority of discussed literature could be structured in the following way. The theoretical part of work is mainly based on the articles of Hunt (1995, 1997), Gilman (2005), and Palidauskaite (2006, 2010); articles and books of Obolonsky A. (2007, 2009, 2011, 2013). The core of analytical part is represented by OECD reports (2000, 2002), articles of Pollitt, official documents, local laws and regulations, as well as Civil Service Commission reports. The practical part is methodologically and procedurally based on Churakov’s papers. The actual Orders of the Federal Executive Bodies are used for content analysis.
+
+
+
+
+THEORETICAL PART
+
+Section 1. Ethics management
+
+An increase in the need of building public trust provokes a development of integrity management, which, in turn, originates from the OECD surveys in the end of the twentieth century. 
+
+The first document from which it is possible to consider the integrity management concept, especially the 21st century’s part, is the OECD Public Management Policy Brief “Building Public Trust: Ethics measures in OECD Countries” (OECD, 2000). Its significance is proved by two lessons based on the OECD survey that are directly connected with the integrity agenda among ethics and mission.
+
+The value-based model that is sometimes called integrity-based and compliance-based model compose the core of today’s integrity management concept. To distinguish value-based approach from compliance-based it is necessary to formulate the general message for each. Thus, value-based model represents a set of core values and principles that are collectively shared and guided judgment about what is good and proper. Values stated in public documents provide the basis for an environment where citizens know about the mission and the vision of public organizations and they also give overall guidance for daily public service operations (OECD, 2000:31).
+
+By its definition of the compliance-based model means the adherence and observance of the law and other legal rules. Under compliance-based code people avoid breaking law and rules. However, though this type of model is necessary, it is not a sufficient one. The inability to codify everything leads to the existence of so called grey areas in law. Thus, the guiding principle is formulated as - everything is allowed if is not forbidden. The compliance-based model mainly focuses on auditing and revising activities. But in reality countries in most cases take a mixed approach (UN, 1999, cited in UN, 2007, p.1). 
+
+However, the following narrative will be mainly connected with value-based model and ethical codes as an integral element of it.
+
+Furthermore, according to Amundsen and Pinto de Andrade (Amundsen and Pinto de Andrade, 2009) it is useful to distinguish between normative and descriptive ethics.  Normative ethics describes for the rightness and wrongness of acts. At the same time, descriptive ethics, represented by an empirical-based approach, is based on investigation of people’s moral beliefs. Thus, the main focus is on the normative ethics investigation. The descriptive ethics will as such be considered partly through people’s confidence in civil servants.
+
+Section 2. Ethical infrastructure
+
+The topicality of ethical agenda could be seen as a reaction to the society's changing values (Maesschalk, 2004). The prospects for the revitalizing ethics in the new governance are also to be considered. Development and improvement of ethical standards have become an integral part of the reform of public service at the end of 20th and in the beginning of 21st century. New Public Management (Public Management) strengthens the role of values, moral and ethical regulators of activity and behaviour of public servant, and these have become more complicated conditions as there is a complex transformation and interaction between the state and society in transition to a post-industrial phase, towards information and globally-competitive development. The case of Russia can be described by this transformation; the case of country in transition. The models and limitations of policy transfer including countries in transition will be investigated in the second part of the theoretical chapter. 
+
+Thus, first of all it is necessary to define the term Public Service Ethics. There is no one general understanding of such a term. Hence, each author adds his or her own tint to this notion. One definition of ethics describes a set of moral principles (Chapman, 1993). This handling links to the question of moral connotations. According to Hunt (Hunt, 1995) one aspect of this concerns the way in which civil servants perform the duties allotted to them, and the way in which they perceive the limitations of those duties. On the wider level, there is also the whole question of the principles that civil servants employ when deciding issues, which also raise moral questions (Hunt, 1995).
+
+Therefore, such activities as monetary reform, the process of creating democratic institutions or funding some economic improvement programs without a professional government workforce can be frustrating, if not counterproductive in a set of sense (Gilman, 2005:5).
+
+The best way to meet challenges and to ensure that they are dealt with appropriately is to set the tone and create a culture in the organization where people naturally do the right thing when faced with dilemmas. There is a process, such as introducing a code of ethics based on core values, that leaders can use to engender a culture of ‘doing the right thing because it is the right thing to do’ (Foster Back, 2006).
+
+Genuine professional activity should not be only target-rational, but value-rational as well (Alexandrov, 2011). It is possible to say, that target-rationality was developed in the concept of the New Public Management (NPM). However, it seems logical that the second component – value-rationality – should also receive appropriate development. The basis of the formation of the value component is seen in the development of the moral side of a public servant. An increasingly important component of the value of public service gives such things as the “revolving door” syndrome (Obolonsky, 1999), the effect of slippers, developing pay for performance and design activities. Value orientation of genuine professional (of course, if they comply with the fundamental values ​​of culture) can preserve the meaning of its operations, its main socio-cultural destination for any changes, specific forms, and methods of its implementation (Alexandrov, 2011). The cultural factor and its importance will be also considered further in the next part. 
+
+Thus, public administration as the management of public affairs is assessed not only in terms of pragmatic criteria of efficiency, but also includes political and moral criteria, code of ethics, as in turn, an important part of the evaluation of management (Smorgunov, 2012). The changing public sector environment requires that core values will be articulated (OECD, 2000).
+
+Common trends show that the following steps are needed to build a consistent system of supportive mechanisms, namely the Ethics Infrastructure (OECD, 2000):
+
+Communication and inculcation of core values and ethical standards for public servants  in order to provide clear guidance and advice to help solve ethical dilemmas; 
+
+Promotion of ethical standards by preventing situations prone to conflict of interest and  rewarding high standards of conduct through career development; 
+
+Monitor compliance and report, detect and discipline wrongdoing. 
+
+The ethical infrastructure is a system of fighting against wrongdoing in terms of holistic approach to ethics. The term ethical infrastructure has no single definition. In this case, according to Amundsen and Pinto de Andarde (Amundsen and Pinto de Andarde, 2009) the infrastructure of Public Service Ethics represents a combination of ethical standard settings, legal regulation and institutional reform. The ethics infrastructure has been also called “ethics regime” or “integrity system”. The elements of infrastructure can be categorized according to the main functions they serve – guidance, management and control – paying our attention, that different elements may serve more than one function (OECD, 2000). 
+
+The possible ways of investigating Public Administration Ethics could be described by using the matrix of approaches to define ethics and centers of concern (Figure 2).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2 Variables in Public Administration Ethics 
+
+Source: Plant, J. and Gortner, H. (1980)
+
+The first cell illustrates the human development approach, whereas the second cell is indicative of the model advanced by advocates of the New Public Administration. According to Plant and Gartner (Plant and Gartner, 1980), the third cell contains the most obvious, time-tested, and commonly practiced approach to solving the ethical problem in government. The fourth cell described a universal ethical doctrine, which could be interpreted as a whole ethical infrastructure in modern terms. Legislating standards of behavior has become the primary way to elaborate on stated core values (OECD, 2000).
+
+However, the main interest in this work is represented by code of ethics. Then, the further ethical infrastructure’s consideration is reduced to the evaluation of ethical codes and codes of conduct.
+
+Section 3. Code of ethics
+
+Firstly it is necessary to define the terms Code of ethics and Code of Conduct by underlining their similarities and differences to each other. According to Gilman (Gilman, 2005) the main goal of Codes of Conduct and Codes of ethics is to anticipate and prevent certain specific types of behaviour: for example, conflict of interest, self-dealing, bribery, and inappropriate actions.
+
+The ethical code should reflect particular objectives and mission (OECD, 2000). This partly explains the possible dysfunctions of such instrument of ethical regulation when we face the absence of a mission and/or objective of a particular organization. Moreover, the deployment of a code of ethics requires ethical training and support (Hunt, 1997). In practice there exists grey areas where the right course of action is not self-evident. According to Gilman (Gilman, 2005) the main purposes of codes could be aggregated by the following options:
+
+Codes of ethics increase the probability that people will behave in certain ways;
+
+Good ethics codes can focus public servants on actions that result in doing the right things for the right reasons;
+
+Code of ethics do not take away one’s own moral autonomy or absolve the public servant from the obligation to reason;
+
+Codes of ethics can function as a professional statement.
+
+The Code is a source of gathered information about requirements for public morality of public servants. It serves as the basis for the formation of a proper moral content in the public service. The Code of ethics is designed to help the public employee navigate between moral conflicts, situations of specific working aspects. Thus, it is possible to consider it as an important criterion for determining the suitability of a professional person for the public service. In this case, code of ethics is an instrument of social control with respect to the public servants morality. However, the code of ethics are an example of soft law should change and be revised after consultations.
+
+However, the primary critique of ethical codes is that there are too abstract and because of this there are difficulties in their enforcement and implementation (Gilman, 2005). This links to the question of its institutionalization in the civil service. In this case, it is necessary to underline the importance of the process of institutional implementation of such an element of ethical regulation as ethical code. 
+
+Secondly, they are generally designed to address only minimal forms of ethical behaviour. By almost exclusively emphasizing what one should not do, there is little emphasis on what public officials should do.
+
+Another instrument of ethical codification is the code of conduct, which can be an integral part of the code of ethics or can serve as a separate document. There is no single perception about it. However, according to Genevieve Enid Kyarimpa and Jean-Claude Garcia-Zamor (Kyarimpa and Garcia-Zamor, 2013), codes of conduct have been widely criticized. The character of code of conduct seems to be totalitarian. It can reduce ethics to the specific behavioral rules with penalties, which contradicts to the value-based approach. Codes of conduct can also appear to move the performance goals posts about alarmingly, particularly if they are linked either directly or indirectly to contracts of employment and conditions of service, and generate uncertainty about judgments that may be brought to bear about behaviour that is not defined as illegal and may not damage performance efficiency (Hine, 2005:157). At the same time, these contradictions illustrate the code of conduct as just a part of the whole ethical infrastructure. 
+
+In general, the above-mentioned criticism imposes additional conditions and restrictions on the process of taking over the experience and the best practice review. In the next part transfer policy and the three main pillars of it will be considered in details.
+
+Section 4. Policy transfer
+
+Contemporary social psychological research strongly suggests that codes can guide or induce behaviours in developing countries that are critical to a functioning of public service (White, 1999). In many countries in transition it has never been clear what public officials work for and what their responsibilities are (Gilman, 2005). 
+
+According to Jolanta Palidauskaite (2006), the collapse of the Soviet-supported regimes was inevitably accompanied by the collapse of their systems of values. It was a range of transformations in the political, economic and social spheres. The introduction of the new principles of democracy and market economy were not enough for setting values automatically in all social strata. However, nowadays government in transitional societies is starting to understand the importance of officials’ ethical conduct on a day-by-day basis (Palidauskaite, 2010).
+
+The practical reality is that at times the code can be used to help create a legal system and a merit based civil service. In other words, codes can be catalysts for creating reforms or vice versa. It is not a one-way relationship, but significantly depends on the environment in the country (Gilman, 2005). 
+
+The one way of making ethical system is to evaluate foreign experience, the best practice approach particularly. In this case the question arises – how to evaluate and implement foreign policy. Thus, there are a number of mechanisms and techniques in the process of transfer policy. There are lesson drawing (Rose, 1993), policy borrowing (Cox, 1999), policy shopping (Freeman, 1999) and others. 
+
+In case of ethics it seems reasonable to investigate the lesson drawing method. The lesson drawing helps to understand “the condition under which policies or practices operate in exporter jurisdictions and whether and how the conditions which might make them work in a similar way can be created in importer jurisdictions” (Rose, 1993). The main purpose is the engagement into policy transfer process, as well as usage of cross-national experience as a source of policy advice (Page, 2000).
+
+The factors that could be seen as the hallmarks and features will be reviewed in the following aggregated concepts like culture, history, and institutions. This choice of data concepts explanation is due to a three-part clear structure, and the fact that according to these three units country differentiations it will be possible to separate developed from developing countries or countries in transition.
+
+
+
+
+
+History
+
+Ethics are related to path-dependent historical and cultural informal norms and values in public organizations, that is, to ethos, commitment, integrity, and trust (Selznick, 1957; March and Olsen, 1989). There is another opinion that especially history determines bureaucratic ethics (Keraudren, 1995). However, the aim of this separation into different concepts is to make a general picture without the factors ranging or prioritizing each other. 
+
+Latter considerations come to require more explicit elucidation in a more complex public-sector environment. Hence, the real difficulty is found when fitting them into the existing legal framework and each country’s historical tradition. It is not easy to do so in a way that does not threaten and alienate the target groups on whom the codes are to be imposed, nor is it always the case that what is contained in the code addresses long-term needs and not the concerns of the moment (Hine, 2005:156).
+
+The two concepts – culture and institutions – are interdependent and evolve as a result of historical background. 
+
+Culture
+
+To start with, the notion professionalism could be seen as a synonym of ethics in a set of sense. It includes all values that guide the public service: loyalty, neutrality, transparency, diligence, punctuality, effectiveness, impartiality, and other values that may be specific to the country and civil service particularly. It is crucial to bear in mind the administrative tradition and legislative culture considering practice for transfer. At the same time, the term “culture” could be seen more broadly from geographical perspectives of a country and its features. There could be one uniform national code or multiple codes by geographic region, or whether there can be individual ministry, agency, or service codes (Gilman, 2005). This choice could be solved according to the government type of country. However, the system of ethical codes should satisfy cultural characteristics, regardless of whether it is federal or unitary state.
+
+Different kinds of ethics distribution pose an additional question. In this case, it is possible to consider “culture” as one of descriptive variables for “institutions”. According to the United Nations Development Program (United Nations, 2007), mentoring - part of ethical infrastructure - remains as one of the untouched resources in the public service in many countries. However, mentoring relationship is part of national cultures. 
+
+Nevertheless, despite the difference in legal traditions and systems of governance in EU member states, there is a general consensus about the principles or values of public administration, which reflects key components of good governance (Palidauskaite, 2010). These components include: rule of law, political neutrality, loyalty to constitutional government (national, local or regional), honesty, impartiality, competence (technical and managerial), justice, serving public interests, accountability, efficiency and effectiveness, openness and transparency, reliability and predictability, citizen’s participation (OECD, 2002).
+
+Institutions
+
+The introduction of new public management except tradition public administration has challenged the public service ethos by introducing private sector values and practices that could be proved by a number of works (for example, Pratchett 1994; Wrigley and McKevitt, McKevitt and Lawton, 1994; Sheaf and West, 1997).
+
+In addition, this process should be considered paying attention to the legacy of the specific country. Thus, it may be either a country in transition or a country in adjustment. According to the United Nations (United Nations, 2000), countries in transition are characterised by their legacy of monolithism. Thus, there are nepotism, clientelism and favoritism in developing and transitional countries, which are the more serious obstacles to rational administration (Amundsen and Pinto de Andrade, 2009). Moreover, the legacy of country can act as a principle that defines the type of distribution and implementation of codes – top down or bottom up approach.
+
+The question arises - to what extent the behaviour of civil servants shall be determined by law. The answer to this question depends on the traditions and cultural specificities of each country. In this regard, there is an interest in international experience. In most countries the legal regulation of the ethical conduct of public officials is applied with great caution: firstly, strict legal regulation of conduct for civil servants contrary to basic principles of ethical governance reform, and secondly, the adoption of legislation on normative ethics accompanied by "technical" problems. The mechanism for the development and adoption of laws is not flexible. Features of the legislative process do not allow a rapid response to changing requirements for civil servants in the community, adoption of regulations to the general nature and do not consider the specifics of individual areas of government. In most countries the law fixed the basic principles of behaviour, a specific individual departments accounted for in some normative acts (Ershov, 2008).
+
+In general, standards of conduct for public officials are represented by special regulations, which are called "Codes of conduct for public officials". They have different names depending on the country: code of ethics, code of good practice, and the standards of conduct. Codes are adopted in most European countries, in the United States and in many other countries. Legislating the standards of conduct for public servants in the codes is part of the civil service legislation and establishes liability for violation of the established standards.
+
+Range of matters governed by codes, in most Western countries is the same. Most attention is paid to possible conflicts of interest in the activities of a public servant, that is, when the personal interests of public employees may thwart duties. One of the best known and most frequently cited the Code, which is adopted in 1993 in the United States' standards of ethical conduct of public officials of the executive branch. In addition to the standards of behaviour the document also contains other provisions relating to ethics in public service: the order of declaration of income, abuse of power, structure and functioning of the Office of the Ethics in Government. The American Model Code severely limits the arbitrariness of government agencies in the development of standards of conduct. This allows the short term to develop a set of rules. However, this model has some drawbacks, namely tightly regulated standards reject the initiative of employees, require them to follow the rules which can be quite difficult in a precarious situation, especially in the United States where they annually spend huge funds for training, publication of manuals, advice on the ethics of public service, as perception detailed code difficult.
+
+Based on the American model Ireland adopted Law on Ethics in the Public Sphere (1995) and Japan adopted the Law on the National Public Service Ethics in 2000. Their laws are following the example of America, which also regulate the process for the civil servants return. These countries also created structural divisions that had developed the ethical standards of public servants.
+
+Most of the European countries in the development of codes of ethics have chosen different paths. A still different institution can be found in British Commonwealth Countries, which tend to emphasize values over rules. Excellent examples of this are the Committee for standards in Public Life (UK), the Treasury Board (Canada) and the State Services Commission (New Zealand) (Gilman, 2005). Adopted common standards of conduct for all public employees (codes of the first level) are less detailed than those in the United States. They ask only general guidelines and do not contain the detailed regulation of conduct. Detailed rules of conduct contained in the "Code of the second level," taken to its employees certain executive authorities. The advantage of such models is more responsive to the features of the various authorities, while maintaining one common standards requirement. However, in this case, there are drawbacks. The executives bodies may do not want to accept a code of ethics because it can lead to development of inefficiency or it may not be applicable in practice. In the case of code of conduct, the establishment of codes of individual organs may be delayed due to lack of time and skills; by the public authorities due to the stiffness of the different regulations of conduct that may cause dissatisfaction of individual civil servants.
+
+The broad principles for ethical conduct within public administration according to the OECD are a means of integrating ethics management within broader public management environment (OSCE, 2004). The principles (Table 1) show a list of rules checking the process of institutional ethics integration into public administration system. 
+
+Table 1 
+
+Principles of the ethical framework
+
+In one way or another the successful ethics management requires a balanced package that combines elements of compliance- as well as integrity-based approaches. They should be adapted to the cultural, political administrative traditions of the particular country, institutional background. Adopting new laws including code of conduct by itself does not go very far without implementing the spirit and the word as well as political will. Experience from a number of cases (United Nations, 2007) reveals that governments have attempted to promote ethical conduct of behavior in their civil service through solidifying legal structures and by “aspirational” efforts such as a code of conduct for the civil service, ethics campaigns, training, the introduction of “citizens charters”, and the implementation of transparent control and accountability systems at the community level. This entails approaching the issue of ethics management from both the state as well as citizens’ angles in order to encourage the check-and-balance system (Ibid.). 
+
+Subsequent analysis of the practice cases would have been inappropriate without consideration of three main factors of policy transfer as well as definition of ethical code within whole ethical infrastructure. In the next chapter we will consider the current state of development of ethical infrastructure of the Russian Federation and the United Kingdom, paying our attention on drawing parallels, especially in part of the Code of Ethics for Civil Servants, which regulates their basic principles.
+
+
+
+
+PRACTICAL PART
+
+The formulation of a civil service ethical code, code of conduct, ethical guidelines and statements of values, and ethical principles has become a common feature of the civil service in many countries (Pollitt, 2003). Frontrunners have been countries like New Zealand, Australia, the United Kingdom and Canada but this aspect of reform is now spreading to many other countries (Kernaghan, 2003). The brief analysis of this comparative table (Table 2) shows the existence of all channels of distributing of values or code of ethics as a kind of official document stated values in the United Kingdom. Moreover, the current dataset describes the 2000-year, this fact underline once more the degree of maturity and sophistication of British ethical policy.
+
+Table 2 
+
+Communicating core values in OECD countries
+
+
+
+
+
+Source: OECD, 2000
+
+Thus, the consideration of the Great Britain was chosen as an example of the best practice. The general snapshot (Table 3) gives a general comparative vision of the Russian and British civil service.
+
+Table 3
+
+The Civil Service overview 
+
+Based on World Bank and national statistics, 2011
+
+However, the snapshot just highlights the very general indicators and could not be a key to the question of ethics. The list of legal prohibitions and restrictions for public officials tends to be the same in both countries. It includes the following aspects:
+
+Violation of confidentiality; unauthorized use of confidential information;
+
+Exercising influence in return for inducements;
+
+Prohibition of accepting gifts/benefits;
+
+Restriction on political activity;
+
+Making false statements to mislead officials; falsifying public documents.
+
+The effectiveness and efficiency of administration is seeing through an international comparison index that describes the overall situation in each country (Figure 3). The complexity of such integral index allows comparing countries on civil service development and ethics as a part of it.
+
+
+
+Green – UK, Red – Russia, Black – world average level
+
+Figure 3 The economic freedom index in dynamic: UK-Russia comparison
+
+Source: Heritage Foundation (2013)
+
+Next, we will consider two contexts, namely the change and transformation of state civil service in Russia and the UK. Realizing the impossibility of the way of blind copying of best practices (for best practice undertakes British experience of ethical regulation), general focus will be on the level of ideas and perceptions of the ethical dimension of reform, rather than specific organizational forms. However, the outlook is an integral part of any reform process, which represents a common vision of the desired situation, creates a systematic approach towards issues in focus. Thus, lighting ideas, concepts and current trends will be closely analysed from the "reality": the organizational structures and regulations.
+
+The Russian experience is given as a starting point of consideration. This can be explained due to the order based on the following assumptions: 1) blind copying of best practices is an improper way; 2) there is a need to analyse the current state for the purpose of diagnosing weaknesses; 3) the process of identification of weaknesses should be implemented in order to narrow the search of possible solutions.
+
+Section 5. Russian context
+
+The civil servants were in a situation of moral vacuum after the collapse of the Soviet Union (Konov, 2005). However, the starting point commences with the consideration of sociological results 2002-2009 (Table 4). People have shown intolerance that can be seen from the increase of the percentage of notion «Try to keep away from the authorities». However, ethical component may help initiate the trust of citizens in relation to these institutions. This issue is relevant, since a large part of citizens trying to stay away from the authorities and do not trust them.
+
+Table 4 
+
+The reaction of the public against government in the everyday life, %
+
+Adopted from Irkhin, Yu. (2011)
+
+One way or another, the actual core of ethical regulations in Russia is represented in the following legal acts: Federal law №79-FZ, Federal law №58-FZ, and Presidential decree №885. Thus, for example, the 79-FZ in part of ethics contains articles about main duties of a civil servant, prohibitions related to the civil service, requirements for official conduct of a civil servant, and settlement of the conflict of interests in the civil service. The Federal Law №58-FZ and the Federal Law №79-FZ form the legal framework for civil servants in the Russian Federation.
+
+The first reference to the ethics in the 21st century was The Conception of civil service reform 2001 (Presidential Decree №1496, 2001). The attention was drawn to the “decline in the prestige of public service and authority of civil servants”. Moreover, it was recognized the need for “respect for public servants ethics and rules of conduct, the responsible performance of his official duties”. One of the basic principles of Conception was “ethical conduct of public servants, their maintenance of visibility of public service and its corporate foundations”.
+
+Administrative reform, beginning in 2003, highlights such areas as the development of anti-corruption reform policies and improvement of the quality of public services as the keynote. The implementation of the above areas, as well as the entire reform depends entirely on the individuals involved in the reform process, namely public servants. 
+
+Statistics and surveys show underdeveloped professional ethics of public service. Such estimates have become institutionalized in official documents that highlight the urgency of the problem (Presidential Decree №885, 2002).
+
+For example, in the Federal program "Reforming the public service of the Russian Federation (2003-2005)" states: "The former have become invalid morality and ideological influence and regulate the conduct of employees of state power and administration, and to put a barrier in the way of abuse, corruption and arbitrariness in these bodies. It has not yet developed standards of official conduct (ethics) for public officials and legislative mechanisms for their implementation" (Rossiyskaya Gazeta, 2002). The priority task of reforming the civil service in the Programme is recognized as "the introduction of mechanisms to identify and resolve conflicts of interest in public service, as well as the legal regulation of professional ethics of public servants".
+
+Table 5 
+
+Assessment of the importance of ethical qualities 
+
+Adopted from Komleva, V (2004)
+
+The assessment of the importance of ethical qualities (Table 5) shows mistrust of power ex adverso. However, in this case our interests focus on the one dominant indicator – discipline. The growing value of such quality highlights special topicality of ethics for Russia nowadays.
+
+The recent investigation of the civil servants motives (Parfentyev and Reshetnikova, 2012) shows the dominance of material drivers such as career growth, fringe benefits and state guarantees between existing federal civil servants and future civil servants (Public Administration Master’s degree students). The top-three ranking of civil service values consists of 1) high wage; 2) career growth, and after all 3) professionalism. This investigation shows civil servants from the side of motivation, which is related to and intersects with ethics.
+
+One of the basic laws governing the public service and having basically deontological principle is the law 79-FZ "On State Civil Service of the Russian Federation" adopted 27 July 2004. It fixes ethical behaviour of public servants; introduce institute of prevention and resolution of conflicts of interest. However, the evaluation of trust in civil servants (Mersiyanova et al., 2012) will allow specifying the value of the integral index of confidence in government civilian employees, which is equal 58.4%.
+
+Currently, a number of trends that affect the activities of government are:
+
+• Lack of basic principles of ethics of public servants:  while it should be the priority of the public good over personal objectives for the benefit of the state employees for personal purposes;
+
+• Erosion of the once common moral standards and principles of government officials at various levels;
+
+• Introduction of public service elements of social conflicts that develop inside in power parties, social movements, between the factions within them.
+
+Globalization of the economy leads to close contacts of representatives of public service and business elite. Ultimately, this leads to their close interaction, merging business ethics and public service. The beginning of this process was the penetration of business representatives to bodies of public service. As a result of the merger in principle entered the government service "business Machiavellian" - to maximize profits at any cost. Motivating factor was the direction of the profit-received funds for the needs of the population, while not forgetting about oneself.
+
+Side effect of this phenomenon - increased income inequality officials at various verticals of power, conflict-growth factors within the government and the outflow of personnel who were not satisfied with payment of their labour.
+
+In general, the requirements for civil servants is much higher than the ordinary members of society, as their knowledge and skills directly related to the efficient functioning of the state apparatus, with the interests and goals of social development, a measure of the needs of all citizens. The results of sociological surveys conducted in 2007, showed that only 13.7% of businesses, 12.8% of the intelligentsia, and 11% of the production are ready to go to work in the bodies of the civil service (Ferret, 2010). This affects the quality of human resources and demonstrates the lack of training of the social environment of cooperation between the government and civil society. Social efficiency of government affects the reverse process of flowing personnel of state agencies in the non-state actors. Professional motivation of public servants lies with the social status of which defines its position, role, behaviour, morality, values, quality assessment activities that contribute to achieving the results of labour, with social responsibility, which is reflected in the compliance procedures of performance and behaviour ability to be responsible for the results of their action or inaction. The social aspect of a career civil servant is thus a tool to improve governance, strengthen the impact on its efficiency and social responsibility to employees (social, political, legal, moral and ethical).
+
+The challenges associated with the formation of stuff for public service occupy a central place in the federal program “Reform and Development of the State Service of the Russian Federation (2009-2013)” in terms of strengthening their legal, professional and moral upbringing. It provides that one of the expected results of its implementation will be “the development of service standards of professional ethics and rules of conduct of public servants, as well as mechanisms to ensure compliance with them” (Rossiyskaya Gazeta, 2009). 
+
+According to Alexander Obolonsky (Barabashev and Obolonsky, 2013), the existing system is very archaic, inefficient and morally corrupts the initially honest people both inside and outside Government. Thus, regardless of the degree of development of institutions, people with deformed scale of values do not serve public needs. In this case, counterproductive actions serve the interests of the groups or even personal interests.
+
+As it has been shown, the traditional model of trust in the government discredited itself.  According to the semi conclusion of Sandu Frunza (Frunza, 2012), codes play an important part in eliminating trust deficit. Trust in relations with the community is based on a complex process of communication, consulting and collaboration, which among others implies drafting ethical codes and offering ethical trainings (Menzel, 2000, p.360).
+
+Hence, the demand for highly moral people is increasing. One example of a revision of the traditional model of trust is the initiation the Committee on Standards in Public Life in Britain. In the next part we will focus on that committee as well as on the ethics infrastructure of the British Civil Service. 
+
+Section 6. British context
+
+The special features of the political system and the law are: the rule of Parliament, ministerial responsibility, and the rule of law. In addition, the UK has no written constitution, long preserved in the country's political stability. It is a unitary state, but with a developed civil society at the same time.
+
+The UK civil service reform progressed further than in any other country. The origin of the British public ethics could be regarded from Northcote-Trevelyan act. The culture of public sphere commenced to form more than 150 years ago. Senior civil servants were graduates from the best universities such as Oxford or Cambridge and were also likely to come from the upper levels of society.
+
+Modern British civil service represents an open pluralistic structure, constantly exchanging resources and practices with the environment, broadly, but in light of their specific experience borrows citizen service in the private sector and has made customer satisfaction of their services in the broad sense of the word - primarily real priority of their own activities (Obolonsky, 2007). The creation of the modern ethical infrastructure is closely linked to the Committee on Standards in Public Life (CSPL). The Committee on Standards in Public Life is an independent, non-departmental public body, which reports to the prime minister with policy recommendations to ensure the highest standards of propriety in public life. The main activity of this committee is focus on preparation and publishing annual reports on the state of ethics of the public sphere and reports on specific ethical issues. However, there is a range of bodies, which activities relate to the ethical agenda, except CSPL.
+
+
+
+Figure 3 Countries by Overall Management and Ethics Regime 
+
+Source: “Ethics in Public Service: Current Issues and Practices” (1996)
+
+One of the most cited figure (Figure 3) represents an overall vision of Britain between countries placed on the right corner of the map. It illustrates the tendency toward managerialism approach as well as the dominance of the value-based model over compliance-based. Also it should be noted British reliance on continual in-service process whereby civil servants will receive trainings to ensure that skills, knowledge and ideas are kept up to date using tailored short courses (United Nations, 2007).
+
+In general, according to Davis (2005) it is possible to define two major traditions that may be identified regarding the combat of corruption and other forms of unethical behaviour. UK could be characterized as a “Westminster-type” country in this classification. Such a type tends to deal with ethical issues in a “direct line” manner, because countries of this type have a long tradition of addressing questions of values and moral behaviour directly. 
+
+However, the more important is the transformation process in the civil service, which are considered today as the destruction of the traditional British "model of Whitehall" (Greer and Jarman, 2010; Page, 2010; Dopre and Horton, 2011). Traditionally, the civil service system, which was built on this model, characterized by the following basic principles: generalizm that was associated with the prevalence in the senior civil service, political neutrality and the related role of premiums, competence and loyalty, lifelong career growth and stability of the civil service; significant political role of special advisers; Oxbridge dominance in the civil service (Smorgunov, 2012). Thus, the Constitutional Reform and Governance Act implies:
+
+The formation of the Civil Service Commission;
+
+The construction of the framework of the civil service management system;
+
+Implementation of the code of ethics for civil service;
+
+Installation the basis of appointment to the civil service.
+
+Hence, the code of ethics represents one of significant innovations. However, it does not mean absence of it up to 2010. The ethical code represents a list of principles – famous seven principles of public sector. In 1996, the summary section of the Nolan Committee’s First Report on Standards in Public Life, pronounced that there were seven principles of public life: selflessness, integrity, objectivity, accountability, openness, honesty and leadership (Richards and Smith, 2000). The Government of John Major introduced ethical code for civil servants in the UK in January 1996. The next version appeared in 2006. Code contained a mixture of traditional, new and promising for the 21st century values ​​that should guide civil servant. Traditional values ​​are intersected with the need for the civil service to be dynamic, open, sensitive and professional (Dillman, 2007). There has been a major overhaul of various codes setting out the ethical framework in different areas of the public sector (OECD, 2000: p.309). But still there were four principles: integrity, honesty, objectivity, and impartiality. It has been incorporated into all staff regulations of service as an annex, and all departments and agencies must, in further defining any standards of conduct they require of staff, ensure that the rules set down for staff fully reflect the code (Hine, 2005). According to Rosamund (Rosamund, 2011), the new 2006 Code, for the first time, provides for the Independent Civil Service Commissioners to consider a compliant directly from civil servant, rather than upwards through the Civil Service chain of command. Nowadays, the Code is part of the contractual relationship between civil servants and their employer (Civil Service Commissioners, 2008/09).	
+
+The United Kingdom’s Constitutional Reform and Governance Act of April 2010 put the Civil Service and its core values on a statutory footing. “It means that there can be no changes to core Civil Service values and principles without Parliamentary scrutiny and approval. With few exceptions, appointments to the Civil Service must be made on merit and on the basis of fair and open competition” (Civil Service Commission, 2010). Standards of behaviour of the Civil Service Code 2010 include: integrity, honesty, objectivity, impartiality, and political impartiality. 
+
+The  sets out the framework within which all civil servants work, and the core values and standards of behaviour they are expected to uphold. It forms part of the terms and conditions of employment of every civil servant. The Civil Service Code is part of the  (CSMC), which sets out the central framework for management of the Civil Service (Cabinet Office, 2013). The Civil Service Code is extensively referred to in other public service documents. For instance, its role does not appear in practice to perform the disciplinary role. The CSMC is responsible for it, where the emphasis is essentially on postemployment. UK codes have also been vehicles for articulating particular aspirational goals in the administrative/constitutional arena, with values appearing to be projected out to a much wider audience than the civil servants to whom the code is formally to be applied (Hine, 2005: 163). The standards of behavior cover the following points (OECD, 2000):
+
+Receiving gifts and benefits such as fees, payments, entertainment;
+
+Use of official information;
+
+Use of official property/facilities;
+
+Official travel;
+
+Use of corporate credit cards;
+
+Work outside the public service;
+
+Restrictions on postemployment;
+
+Special conditions/permissions on movement from the public service to the for-profit sector;
+
+Involvement in political work.
+
+The ethical regulation does not limited to the single code of ethics. It forms an infrastructure around. The institutions to perform independent scrutiny of the administration are (OECD, 2000):
+
+Parliament/parliamentary committee;
+
+Independent/external auditors reporting to elected bodies such as Parliament;
+
+Ombudsman;
+
+Courts for judicial review;
+
+Civil service commissioners;
+
+Commissioner for Public Appointments;
+
+Civil Service Appeal Board.
+
+There are now at least 15 different bodies (Appendix 1) operating at national level that could be seen as ethical watchdogs (Heywood, 2012). These ethical watchdogs, in turn, form an integrity management structure. The various watchdogs fulfill a range of different functions such as auditing, investigating complaints, advising.  In addition, the unity in case of ethical watchdogs could also be seen at the conception level. The system of ethical watchdogs forms the united practice-oriented value administration system (Appendix 2). 
+
+However, this strong infrastructure, at the first view, has its own challenges. The future shape of ethical regulation is under discussion over decade. The debate about “a patchwork quilt” (Transparency International, 2004) leads to the question of excessiveness of ethical regulators. Thus, the Public Administration Select Committee in their report “Ethics and Standards: The Regulation of Conduct in Public Life” (Public Administration Select Committee, 2007) points out on two possible strategies. The first strategy suggests status quo: the option of no change. The attitude of Public Administration Select Committee is: “We do not recommend the maintenance of the status quo. The plethora of monitoring bodies, and their differing institutional designs, can only increase public confusion. Still more importantly, we believe that is unacceptable that the bodies charged with monitoring the Executive are directly dependent on that Executive for their funding” (Ibid.). The second possible solution is to form a single, all-purpose watchdog, charged oversight of the entire ethical system. This option has also been rejected. The explication is that “internal oversight or self-regulation would not be regarded as adequate or acceptable” (Ibid.). Hence, no one is not an appropriate. Nevertheless, Public Administration Select Committee makes a number of suggestions concerning the need of more detailed discussion about future design of ethical regulation and funding.
+
+The new (CSCF) will come into operation for all government departments from 1st April 2013.  It will be used for recruitment and selection, performance management, personal development plans, and career development (Civil Service, 2013). This new framework reflects the newest tendencies in the civil service and requires additional attention.
+
+All 10 competencies of the framework are grouped into 3 clusters: 1) Setting Direction; 2) Delivering Results; 3) Engaging People. Each competency is supported by the examples of effective and ineffective behaviour for each grade. In addition, it is necessary to mention that this framework has been developed in collaboration with Civil Service professions.  
+
+To sum up the British experience description, it is necessary to underline the strong tendency, which could be described as a clear movement from the abstract (public service ethics) to the concrete (above all, seven ethical principles and code of ethics) in the Hegelian sense.
+
+Section 7. Best practice implication
+
+The question arises – how to disseminate and uphold best practice described above toward Russia. The direct transfer of ethical regulation and code of ethics particularly is not convenient cause of different factors as culture, historical background and institutions that has been described above. At once, the main idea is to try transferring the vision of the ethical infrastructure, its principles of functioning and overall system approach including discussed concepts. The model code should consists and presents guiding principles of the civil service of the Russian Federation bearing in mind the whole range of peculiarities. Ethical codes of executive bodies should explain the principles of the model code with a focus on specific of the type of executive body as well as the internal and cultural peculiarities of each. Nevertheless, code of ethics should be an integral part of the contract of employment of individual civil servants.
+
+Moreover, it is necessary to define the dominant model between value-based and compliance-based approaches. At the current stage there was only one takeover of an element called code of ethics. The presence of a code of ethics indicates the development of the value-based model. However, the content is matter, which could be investigated in the next section. It is quite important to avoid confusion and formalism.
+
+Thus, it will be necessary to define values of the Russian civil service. It helps to construct a general vision of the existing ethical infrastructure. Such qualities are indirectly included in the Model Code of ethics. Among others, there are mentioned such qualities of civil servants as trust, impartiality, correctness and care, tolerance, conscientiousness. However, the question of objectivity arises. The following analysis based on the linguistic content analysis technique that represents a quantitative approach.
+
+Section 8. Quantitative linguistic content-analysis of ethical codes
+
+One of the key areas of public service reform is to change the oral culture of officials through the enactment of ethical regulators such as codes of ethics and mechanisms aimed at their implementation and realization.
+
+Furthermore, if there has not been coordination between the codes set at the different levels of government (general, branch- specific and agency-specific), the codes might be overlapping and even contradictory, thus creating confusion rather than offering any clear guidance (Moilanen, 2007). Current system of official ethics increases discrepancy that will be shown afterward.
+
+Table 6 
+
+Structural analysis of Russian Model ethical code, Civil Service Code and Civil Service Management Code
+
+The qualitative analysis of ethical codes (Table 6) illustrates the absence of such aspects of Russian ethical code as outside activity, conduct in private life, use of state property, working time and post employment limitations. Moreover, the ethical principles of the Russian Model code are scattered throughout the text, they does not form a strong system of general civil service vision. Political activity is presented by prohibition on forcing to work in a political party and the impartiality, eliminating the influence of political parties on official activities and decision-making. However, it is necessary to mention that in case of Russia the only model ethical code was analyzed while Civil Service code and Civil Service Management Code represented the British system. The existing Model Code consists of the following parts (Table 7). 
+
+Table 7 
+
+Structure of the Model Code of Ethics and Official Conduct of the state and municipal civil servants of the Russian Federation 
+
+ Source: Code of ethics and official conduct of public officials of the Russian Federation and municipal employees (2011)
+
+The next step of model code analysis is its decomposition into some existing legal acts. The content of the model code is represented a compilation of such acts as 58-FZ, 79-FZ, 273-FZ. However, the use of a number of regulations is indirectly mentioned in the first part of the code. A qualitative content analysis revealed a direct copy of parts and items of legal regulations. It could be served as an example of voluntarism, desire to realize desired goal without consideration of the objective circumstances and possible consequences. 
+
+Table 8
+
+The matching of articles
+
+The qualitative analysis represents the blind copy of the federal law. The example of analysis is shown in the Table №8. Each article of the Model Code has a 100% identity to the appropriate article of the 79-FZ.
+
+Consequently, the current Model Code is just an attempt to aggregate all appropriate parts of regulations together without rethinking of it. Moreover, according to Cherepanova and Etshtejn (Cherepanova and Etsshteyn, 2012:27) only two articles of code actually devoted to matters of morality that do not affect the fundamentals of human behavior, “but is fixed, for example, the ban on smoking during business meetings, discussions and other official communication with citizens”.
+
+It is necessary to distinct various types of requirements of the administrative, criminal, laws, and regulations to the official duties of public officials and the public demands to them. The Code of Ethics is not administrative and legal document, its failure to comply with the rules does not result in any administrative or even criminal punishment to public servant. 
+
+The Code of ethics is a system of moral norms, obligations and requirements of good service behavior of officials of state bodies and local self-administration, based on the universally accepted moral principles and norms of the Russian state and society. 
+
+General description of the quantitative linguistic content analysis process
+
+First of all, it is necessary to define main characteristics, meanings, and notions of the quantitative content analysis, especially Content Pro 1.6 application. The content analysis is designed for analysing a variety of texts. Under the text we can see a finite set of word forms, combined lexical, grammatical, semantic and frequency relationships. In this case, two types of analysis are realised: notional and frequency. Notional or semantic content analysis allows analysing the semantic content of the text. The frequency content analysis allows to analyse the frequency of various word forms, which is a prerequisite for studying the structure of the text and to identify its meaning. Thus, the word form could be a single letter, group of letters, word or group of words. All texts should be presented in a comparable form before carrying out a content analysis. The summary of the analysis algorithm can be illustrated in the block diagram form (Figure 4).
+
+
+
+Figure 4 The analysis algorithm
+
+The general sample consists of 68 codes, which covers 85% of the federal executive bodies of Russia. It is the maximum number of ethical codes, which are currently freely available. There are three main sources for searching codes of ethics: 
+
+Official websites of the federal executive bodies of Russia;
+
+Consultant Plus – an assistance computer-based system to work with the legislation of Russia;
+
+Garant – a legal information database.
+
+The quantitative analysis consists of creating general specification for each code and then comparing with the Model Code. The general specification consists of the following list of variables:
+
+Number of words;
+
+Number of groups;
+
+Average word length;
+
+Number of sentences;
+
+Average sentence length;
+
+Lexical diversity, %;
+
+Structural complexity;
+
+Grammatical complexity, %.
+
+The lexical diversity of the text is the ratio of the number of groups to the number of words as a percentage. The ratio of the standard language equals to 37% (Churakov, 1996).
+
+The structural complexity of the text is an indicator of the relationship of words in the text and the integrity of the text as a system. This indicator is calculated using the following formula: .
+
+Proportion between groups is a system-wide feature that is used in a modular analysis. It is calculated as the average ratio of neighbouring elements in an ordered numerical sequence. (Davydov, 1994).
+
+The grammatical complexity of the text is the ratio of number of commas to the number of sentences. It shows the degree of structure in the text and it can be interpreted as an indicator to whom the text is designed for (the higher value tends to the more educated readership).
+
+The fluctuation band is calculated as the difference between the absolute maximum and absolute minimum of the identity coefficient.
+
+
+
+
+
+Specification of the Model Code of ethics
+
+The crucial step of content analysis is the specification of the Model Code, which serves as an ideal one for further analysis. The corresponding numerical values are as follows (Table 9).
+
+Table 9 
+
+Specification of The Model Code of ethics
+
+Qualitative analysis allows making a conclusion about general theoretical legal character of ethical codes, rather than the practical instrumental. The main reason for the lack of effectiveness of a code of ethics as a regulator is an unjustified technical regulations priority rather than ideological value component (Cherepanova and Etshtejn, 2012, p.27).
+
+Quantitative content analysis of the Ministerial ethical codes of Russia
+
+The total number of existing codes is 19, which is 95% of the total number of ministries. The absolute minimum value of identity between ministries is 36,25%, the absolute maximum value between ministries is 98,54%. While the average minimum value equals 46,14%, average maximum is 83,08% of identity.
+
+ 
+
+Figure 5 The fluctuation band of the identity coefficient of the ethical codes between ministries
+
+The general specification of the ministerial codes is presented in the appendices (Appendix 1). According to the diagram (Figure 5) the maximum fluctuation band belongs to the MOD. In this case, it is necessary to make an additional qualitative analysis of this ministerial code. The high level of fluctuation band could be partly explained by the intersection of military and civil service.  
+
+Quantitative content analysis of the Service ethical codes of Russia
+
+The total number of existing codes is 30, which is 88,2% of the total number of services. The absolute minimum value of identity between services is 6,06%, the absolute maximum value between services is 97,32%. While the average minimum value equals 50,87%, average maximum is 83,13% of identity.
+
+
+
+Figure 6 The fluctuation band of the identity coefficient of the ethical codes between services
+
+The general specification of the service codes is presented in the appendices (Appendix 2). According to the diagram (Figure 6) the maximum fluctuation band belongs to the FAS. Moreover, the absolute minimum value of identity (6,06%) belongs to FTS. In this case, it is necessary to make an additional qualitative analysis of these service codes. The highest structural complexity coefficient 1524611 of FAS shows the integrity of the whole text. The highest lexical diversity coefficient 56,25% of FTS could be interpreted that the tone of voice is least similar to the normative legal act and Model Code particularly.
+
+The quantitative content analysis of the Agency ethical codes of Russia
+
+The total number of existing codes is 19, which is 76% of the total number of agencies. The absolute minimum value of identity between agencies is 21,9%, the absolute maximum value between agencies is 96,23%. While the average minimum value equals 55,93%, average maximum is 85,34% of identity.
+
+
+
+
+
+Figure 7 The fluctuation band of the identity coefficient of the ethical codes between agencies
+
+The general specification of the Agency codes is presented in the appendices (Appendix 3). According to the diagram (Figure 7) the maximum fluctuation band belongs to the Rosarhiv. In this case, it is necessary to make an additional qualitative analysis of this agency code. The case of Rosarhiv represents an attempt to reformulate the text of model code. However, the content is just reduced and it is still the same at the semantic level. 
+
+To sum up, the linguistic content analysis shows the high level of identity of codes to the Model Code. The average minimum value of identity between all executive bodies’ codes equals 51%; the total average maximum is 84%. According to the lexical complexity indicator, all codes have normative-based character. 
+
+Thus, the analysis allow making conclusions which could be formulated through the following list of statements:
+
+There is a necessity in the general guidelines as a requirement of a value-based ethical infrastructure in the form of the unified ethical code, but not a compilation of legal acts in form of current Model Code of ethics as it is;
+
+The existence of ethical codes adopted before Model Code shows the topicality and necessity of the further ethical infrastructure development;
+
+The official regulations do not contain reference rules to the code of ethics that breaks the overall concept and hampers the integration of ethics into practical public service;
+
+Current codes of ethics as a tool have an uncertain status. The content of existing codes represents a mixture of the general behavioral principles and specific regulations, which lead to the substitution of recommendation and explanatory nature of the administrative code by legal rules;
+
+The development and implementation of the operation and maintenance of ethical codes. The development of mentoring mechanism as well as the evaluation of needs to revive the institution of the oath;
+
+The alignment of integrated ethics infrastructure. Trainings explaining the general principles and core values of the civil service; outreach to the ethical conflicts and dilemmas; the system of state and public control with the use of information technology are needed for system approach to ethics;
+
+The need to consider the expectations of society. It is necessary to create a system of moral government, involving both government and non-governmental organizations;
+
+The absence of a solid conceptual model of moral development/ethical regulation.
+
+
+
+
+
+
+
+
+
+
+Conclusion
+
+The current trends show the heightened attention to the private service techniques such as corporate ethics and corporate culture. The process of rotation of people from private to the public sector could explain this phenomenon with all attendant challenges discussed. In addition, the general vision of Public Administration and their aims are changing. Nowadays, civil servants have more power than ever, which leads to ethical dilemmas.  
+
+Thus, the ethical regulation is one of the tools that will strengthen confidence in the action of public authorities, which, in turn, will lead to trusting relationships, enhance the image and prestige of public service. Moral management will allow minimizing the corruption factor.
+
+There were carried out the following steps in accordance with formulated tasks:
+
+The definition of the role and place of the ethical code within ethical infrastructure;
+
+The investigation of the main factors influencing policy transfer;
+
+The analyse of British and Russian context in the field of ethical regulation;
+
+The qualitative linguistic content analysis of the Russian and British ethical codes;
+
+The quantitative linguistic content analysis of ethical codes of the federal executive bodies of the Russian Federation.
+
+The considered experience of Britain indicates the long-term process of formation of the ethical aspects that is not devoid of flaws and controversy these days. It is clear that there is no “one size fits all” approach that is described by policy transfer pillars investigated in the theoretical part. Administrative tradition is different; nevertheless, the process, which probated in one country especially their weaknesses, should be taken into account introducing their own policies or codes. Moreover, it does not mean the impossibility of policy transfer into Russian context. By the way, the three main pillars of it should be taken into consideration to form system approach. 
+
+The acceptance of ethical codes does not guarantee itself the ethical regime development. The code, after all, should be checked on dissemination and implementation. The ethical regulation should be coherent and constitutionally secure.
+
+Thus, the competitive advantage of reflective code is that it could accompany and respond faster on changes with reservation that it is a really valid tool. The choice between regulative and reflective character should be accompanied by associated model of value administration.
+
+One element of the ethical infrastructure is now adopted in Russia. However, there is not enough building ethical regulation system, which is proved by the held linguistic analysis. Current ethical codes could not be effective and serving as an instrument of moral regulation of civil servants in the existing form. Moreover, implementation of ethical elements in the official regulations and instructions or creating reference rules to the text of the code of ethics is needed. Without effective assessment strategies it is very difficult to maintain the long-term continuity of ethics codes. The Model Code should be revised in accordance with the current legal framework as well as the general vision of the ethical infrastructure development. The executive bodies’ codes should be revised and differentiated in accordance with their specifics and peculiarities. 
+
+In this master thesis it is considered only one side of the coin – the public servants from the point of view of ethical regulation mechanisms while the topic is closely connected with the study of motivation of civil servants that is of particular interest. However, it goes beyond the scope of this work.
+
+To summarize, the adoption of the ethical code is not a panacea against corruption, unethical behavior and other misconduct. However, the code of ethics as part of the infrastructure is changing the context in which these things occur, thus changing the attitude of the people as a whole.
+
+
+Bibliography
+
+Laws and regulations
+
+Federal law of the Russian Federation (2003) “The Civil Service System of the Russian Federation” №58-FZ, adopted 27 May 2003 (ed. from 7 May 2013);
+
+Federal law of the Russian Federation (2004) “State Civil Service of the Russian Federation” №79-FZ adopted 24 July 2004;
+
+Federal law of the Russian Federation (2008) “Anticorruption policy” №273-FZ, adopted 25 December 2008;
+
+Presidential Decree (2001) “The conception of reforming the civil service system of the Russian Federation” №1496, adopted 15 August 2001;
+
+Presidential Decree (2002) “On approval of the general principles of conduct for public servants” №885, adopted 12 August 2002;
+
+Federal Agency of Air Transport (2011) “On the approval of the ethics code of conduct for federal and state civil employees of the Federal Air Transport Agency”, Order №276 of May 18, 2011;
+
+General Directorate of Special Programs of the President of the Russian Federation (2010) “On the approval of the code of ethics and official conduct of civil servants of the Special programs Agency of the President of the Russian Federation”;
+
+Russian Ministry of Internal Affairs (2011) "The Code of Ethics and Official Conduct federal civil servants of the Ministry of Internal Affairs of the Russian Federation", Order №870 of July 22, 2011;
+
+The Administration of the President of the Russian Federation (2011) “Approval of the Code of Ethics and Official Conduct of Federal Civil Servants of the Administration of the President of the Russian Federation”, Order №607 of 14 November 2011;
+
+The Federal Agency for Fishery (2011) “On approval of the Code of Ethics and Official Conduct of Civil Servants of Rosrybolovstvo and regional offices of Rosrybolovstvo”, Order №279 of 24 March 2011; 
+
+The Federal Agency for Special Construction (2011) “On the approval of the code of ethics and official conduct of public servants Federal Agency for Special Construction”, Order №114 of 22 March 2011;
+
+The Federal Agency for State Property Management (2011) “Code of ethics and official conduct of federal officials of the Federal Agency for State Property Management”, Order of 2011;
+
+The Federal Agency for Technical Regulation and Metrology (2011) “On the approval of the ethics code of conduct for federal and state civil employees of the Federal Agency for Technical Regulation and Metrology”, Order №625 of 17 February 2011;
+
+The Federal Agency for the Development of the State Border of the Russian Federation (no date) “Approval of the Code of Ethics and Official Conduct federal civil servants of the Federal Agency for the Development of the State Border of the Russian Federation and its territorial bodies”;
+
+The Federal Agency for the supply of arms, military and special equipment and supplies (2011) “On the approval of the ethics code of conduct for federal and state civil employees of the Federal Agency for the supply of arms, military and special equipment and supplies”, Order №82 of 23 March 2011;
+
+The Federal Agency for Youth Affairs (2011) “Code of Ethics and Official Conduct of Civil Servants of the Federal Agency for Youth Affairs”, Order №42-а  of 2 March  2011; 
+
+The Federal Agency of Maritime and River Transport (no date) “On approval of the Code of Ethics and Official Conduct of Civil Servants of the Federal Agency of Maritime and River Transport”;
+
+The Federal Archive Agency of the Russian Federation (2011) “On the approval of the ethics code of conduct for federal and state civil employees of the Federal Archive Agency”, Order №30-k of 22 April 2011;
+
+The Federal Communications Agency (2011) “Approval of the Code of Ethics and Official Conduct of Civil Servants of the Federal Communications Agency”, Order №51 of 16 March 2011;
+
+The Federal Forestry Agency (2011) “Approval of the Code of Ethics and Official Conduct of Civil Servants of the Federal Forestry Agency”, Order №97 of 30 March 2011;
+
+The Federal Medical and Biological Agency (2011) “Approval of the code of ethics and official conduct of federal civil servants of the Federal Medical and Biological Agency”, Order №28 of 28 January 2011; 
+
+The Federal Press and Mass Media Agency (2011) “On approval of the Code of Ethics and Official Conduct of Civil Servants of the Federal Press and Mass Media Agency”, Order №739 of 14 December 2011;
+
+The Federal Road Agency (2011) “On the approval of the ethics code of conduct for federal and state civil employees of the Federal Road Agency”, Order №45 of 10 May 2011;
+
+The Federal Space Agency (2012) "On approval of the Code of Ethics and Official Conduct federal civil servants of the Federal Space Agency", Order №124 of 8 June 2012;
+
+The Federal Water Resources Agency (2011) “Code of Ethics and Official Conduct of Civil Servants of the Federal Water Resources Agency”, Order №69 of March 18, 2011;
+
+The Ministry of Agriculture of the Russian Federation (2012) “On approval of the code of ethics and official conduct of public officials of the Ministry of Agriculture of the Russian Federation”, Order №170 of 5 March 2012;
+
+The Ministry of Communications and Media of the Russian Federation (2011) “On approval of the code of ethics and official conduct of public officials of the Ministry of Communications and Media of the Russian Federation”, Order №259 of 13 October 2011;
+
+The Ministry of culture of the Russian Federation (2011) “On approval of the code of ethics and official conduct of public officials of the Ministry of Culture of the Russian Federation”, Order №215 of 3 March 2011;
+
+The Ministry of Defense of the Russian Federation (2011) “On approval of the code of ethics and official conduct of public officials of the Ministry of Defense of the Russian Federation”, Order №555 of 22 April 2011 (in the edition of the Order №295 of 11 February 20112);
+
+The Ministry of Economic Development of the Russian Federation (2011) “On approval of the ethics code of conduct for federal and state civil servants of the central apparatus of the Ministry of foreign apparatus and Economic Development of the Russian Federation”, Order №292 of 23 June 2011 (in edition of the order №185 of 6 April 2012);
+
+The Ministry of Education and Science of the Russian Federation (2011) “On approval of the code of ethics and official conduct of public officials of the Ministry of Education and Science of the Russian Federation”, Order №2047 of 22 June 2011;
+
+The Ministry of Energy of the Russian Federation (2011) “On approval of the code of ethics and official conduct of public officials of the Ministry of Energy of the Russian Federation”, Order №90 of 25 March 2011;
+
+The Ministry of Finance of the Russian Federation (2011) “Code of ethics and official conduct of federal civil servants of the Ministry of Finance of the Russian Federation”, Order of 23 March 2011;
+
+The Ministry of foreign affairs of the Russian Federation (2012) Project of the ethical code;
+
+The Ministry of Health and Social Development (2012) “On approval of the code of ethics and official conduct of public officials of The Ministry of Health and Social Development”, Order №120 of 14 February 2012; 
+
+The Ministry of Industry and Trade of the Russian Federation (2011) “On approval of the code of ethics and official conduct of public officials of the Ministry of Industry and Trade of the Russian Federation”, Order of 22 February 2011;
+
+The Ministry of Justice of the Russian Federation (2011) “On approval of the code of ethics and official conduct of public officials of The Ministry of Justice and its territorial bodies”, Order №93 of 23 March 2011;
+
+The Ministry of Natural Resources and Environment of the Russian Federation (2011) “On approval of the code of ethics and official conduct of public officials of the Ministry of Natural Resources and Environment of the Russian Federation”, Order №920 of 25 November 2011;
+
+The Ministry of Regional Development of the Russian Federation (2011) “On approval of the code of ethics and official conduct of public officials of the Ministry of Regional Development of the Russian Federation”, Order №125 of 25 March 2011;
+
+The Ministry of Sport of the Russian Federation (2012) “On approval of the code of ethics and official conduct of public officials of the Ministry of Sport of the Russian Federation”, Order №133 of 22 August 2012;
+
+The Ministry of the Russian Federation for Civil Defence, Emergencies and Elimination of Consequences of Natural Disasters (2011) “On approval of the code of ethics and official conduct of public officials of The Ministry of the Russian Federation for Civil Defence, Emergencies and Elimination of Consequences of Natural Disasters”, Order №354 of 7 July 2011; 
+
+The Ministry of Transport of the Russian Federation (2011) “On approval of the code of ethics and official conduct of public officials of the Ministry of Transport of the Russian Federation”, Order №121 of 25 April 2011;
+
+Literature
+
+Abdullaev, A. (2011) The system of values ​​as an important factor in the development of training and retraining of civil servants [Online]. Available at:  (Accessed: 5 May 2013);
+
+Alexandrov, V. (2011) Professionalism of civil servants: the basic measurement, Proceedings of the North-West Academy of Public Service, pp.31-41.;
+
+Amundsen, I. and Pinto de Andrade, V. (2009) Public Sector Ethics. Compendium for teaching at the Catholic University of Angola (UCAN);
+
+Arkhipova, N. (2011) Civil servants ethics, pp.29-42;
+
+Bakshtanovskii, V. and Sogomonov, Yu. (2005) Etika professii: missiya, kodeks, postupok, Monograph, Tyumen Institute of Applied Ethics, TymGNGU, 378 p.;
+
+Barabashev, A. and Obolonsky, A. (2013) Cleaning out the Augean Stables of Our Bureaucracy: Two points of View [in Russian], Journal of Kennan Institute in Russia, 23rd issue;
+
+Cabinet Office (2013) Civil Service conduct and guidance, National archives [Online]. Available at:  (Accessed: 28 January 2013);
+
+Cherepanova, M. and Etshtejn, M. (2012) Moral codes as a cultural phenomenon, Vestnik Tomskogo gosudarstvennogo universiteta №1 (5), pp. 25-30;
+
+Christensen, T. and Laegreid, P. (2011) Ethics and Administrative Reforms, Public Management Review, 13:3, pp. 459-477;
+
+Churakov A. (1996) Computer content analysis, Moscow: Institute of Sociology;
+
+Civil Service (2010) History made as civil service values enshrined in law. [Online]. Available at:  (Accessed: 26 April 2013);
+
+Civil Service (2013) PAM Competence Framework [Online]. Available at:  (Accessed: 23 March 2013);
+
+Civil Service Management Code, June 2011;
+
+Code of ethics and official conduct of public officials of the Russian Federation and municipal employees (2011) - M.​​: Prospect;
+
+Committee on Standards in Public Life (2013) Standards matter: A review of best practice in promoting good behaviour in public life, Fourteenth Report of the Committee on Standards in Public Life;
+
+Council of Federation of the Federal Assembly of the Russian Federation (2012) Professional ethics of civil servants. Guide to the structural logic circuits, 90 p.;
+
+Davis, H. (2005) Ethics and standards of conduct, Public Management and Governance edited by Bovaird T. and Loffler E. ch.17, Routledge;
+
+Dillman, D. (2007) Enduring Values in the British Civil Service, Administration and Society, Vol. 39. N 7, p. 887;
+
+Doig, A. (2006) Half-Full or Half-Empty? The Past, Present and Future of British Public Sector Ethics, Public Money & Management, 26:1, pp.15-22;
+
+Dolowitz, D. and Marsh, D. (2000) Learning from Abroad: The Role of Policy Transfer in Contemporary Policy-Making, Governance: An International Journal of Policy and Administration, vol. 13, no. 1;
+
+Dopre Van, K. and Horton, S. (2011) The Public Service Bargain in the United Kingdom: The Whitehall Model in Decline?, Public Policy and Administration, Vol. 26. N 2.;
+
+Foster Back, F. (2006) Principles or Rules?, Public Money & Management, 26:1, pp. 7-9 [Online]. Available at:  (Accessed: 12 April 2013);
+
+Frunza, S. (2012) Increasing competence – an ethical duty of civil servants, Transylvanian Review of Administrative Sciences, Special Issue, pp. 32-41;
+
+Gilman, S. (2005) Ethics codes and codes of conduct as tools for promoting an ethical and professional public service: comparative successes and lessons, prepared for the PREM, the World Bank;
+
+Goncharov, V. (2009) Rol' etiki i professionalizma v funktsionirovanii organov ispolnitel'noy vlasti, Modern Law №6;
+
+Greer, S. and Jarman, H. (2010) What Whithall?: Definitions, Demographics and the Changing Home Civil Service, Public Policy and Administration, Vol. 25. N 3; 
+
+Heywood, P. (2012) Integrity management and the public service ethos in the UK: patchwork quilt or threadbare blanket?, International Review of Administrative Sciences 78(3), pp.474-493;
+
+Hine, D. (2005) Codes of conduct for public officials in Europe: common label, divergent purposes, international public Management Journal Vol. 8 No. 2, pp. 153-174; 
+
+HM Government (2012) The Civil Service Reform Plan, June 2012;
+
+Hunt, M. (1995) Openness and Civil Service Ethics, International Review of Administrative Sciences, SAGE, London, Thousand Oaks and New Delhi, vol. 61, pp. 11-16;
+
+Hunt, M. (1997) Questions in Parliament, Ethics and the Civil Service, International Review of Administrative Sciences, vol. 63:309;
+
+Hutton, W. and Massey, A. (2006) Professional Ethics and Public Service: Can Professionals Serve Two Masters?, Public Money & Management, 26:1, pp. 23-30;
+
+Irkhin, Yu. (2011) Eticheskiye kodeksy v sovremennoy gosudarstvennoy sluzhbe, The Russian presidential Academy of National Economy and public Administration, Sociology of power №4, pp. 13-24;
+
+Irkhin, Yu. (2011) Vozrastayushchaya rol' eticheskikh kodeksov gosudarstvennoy sluzhby v upravlencheskikh paradigmakh i praktikakh: sravnitel'nyy analiz, Problem analysis and the Governance №6, pp. 94-104 [Online] Available at:  (Accessed: 20 April 2013);
+
+Kakabadse, A., Korac-Kakabadse, N. and Kouzmin, A. (2003) Ethics, values and behaviours: comparison of three case studies examining the paucity of leadership in government, Public Administration vol. 81 No.3, pp.477-508;
+
+Kernaghan, K. (2003) Integrating Values into Public Service: The Values Statement as Centrepiece, Public Administration Review, 63:6, pp. 711-719;
+
+Keraudren, P. (1995) Administrative reform, ethics and openness: the balance between effectiveness and administrative identity, pp. 41-59;
+
+Khorkov, S. (2010) The State Civil Service of the Russian Federation: problems of social efficiency, Political Science: Topical aspects Srednerussky Journal of Social Sciences №1, pp.119-124.;
+
+King, S. (2003) Regulating the Behaviour of Ministers, Special Advisers and Civil Servants, The Constitution Unit reports;
+
+Komleva, V. (2004) Professional ethics of civil servants in the civil service reform, Sociology of power No. 1, pp. 96-115;
+
+Konov, A. (2005) Etika publichnoy politiki: britanskiy i rossiyskiy opyt v mirovom kontekste, Etika publichnoy politiki: Iz opyta raboty Komiteta po standartam publichnoy sfery Velikobritanii – M.: Institut prava i publichnoy politiki, pp. 8-53; 
+
+Kurbanov, R. (2008) Formirovaniye nravstvennosti i morali gosudarstvennykh sluzhashchikh v Rossiyskoy Federatsii, The Power Journal №1;
+
+Kyarimpa, G. and Garcia-Zamor, J.-C. (2006) The Quest for Public Service Ethics: Individual Conscience and Organizational Constraints, Public Money & Management, 26:1, pp.31-38;
+
+Lobanov, V. (2003) Modernizatsiya gosudarstvennogo upravleniya v Velikobritanii, GUU: Moscow, 83 p.;
+
+McCarthaigh, M. (2008) Public Service Values, CPMR Discussion Paper 39, Institute of Public Administration in association with CPMR, Dublin, Ireland;
+
+McKevitt, D. and Lawton, A. (1994) Public Sector Management: Theory, Critique and Practice, London: Sage;
+
+Menzel, D. (2000) Ethics Management in Public Organizations. What, Why, and How?, Handbook of Administrative Ethics, 2nd edition;
+
+Menzel, D. (2003). Public administration as a profession: Where do body and soul reside? Public Integrity, 5(3), pp. 239-249.;
+
+Menzel, D. (2005) Research on Ethics and Integrity in Governance: A Review and Assessment, Public Integrity, vol.7, 147-168 pp.;
+
+Mersiyanova, I., Pakhomova, E. and Iakimets, V. (2012) The role of trust to the government official in cooperation of the civil society and the state, XII International Academic Conference on Economic and Social Development, v. 1, pp. 241-251.;
+
+Mogalakwe, M. (2006) The use of Documentary Research Methods in Social Research, African Sociological Review, 10, (1), pp. 221-230;
+
+Moilanen, T. (2007) The Adoption of the Ethics Framework in EU Member States, Conference on Public Integrity and Anticorruption in the Public Service, Bucharest;
+
+Obolonsky, A. (2011) Grazhdanskoye obshchestvo i pravovoye gosudarstvo. Eticheskiye aspekty regulirovaniya gosudarstvennoy sluzhby 53-64 pp. [Online]. Available at:  (Accessed: 2 February 2013);
+
+Obolonsky, A. (2009) Public service: an integrated approach, textbook, “Delo” publishing, 512 p.;
+
+Obolonsky, A. (2007) United Kingdom: on the way to a new model of public service, Social Sciences and Modernity №6, pp. 86-97 [Online]. Available at:  (Accessed: 15 January 2013);
+
+OECD (2000) Trust in Government: Ethics Measures in OECD Countries;
+
+OECD (2002) European principles for public administration, SIGMA papers №27 [Online]. Available at:  (Accessed: 20 February 2013);
+
+OSCE (2004) Best practices in combating corruption [Online]. Available at:  (Accessed: 1 May 2013);
+
+Osipova I. (2009) Etika i kul'tura upravleniya, Tutorial;
+
+O’Toole, B. (2006) The Emergence of a “New” Ethical Framework for Civil Servants, Public Money & Management, 26:1, pp. 39-46;
+
+O’Toole, B. (2007) The Framework of Ethical Compliance in the UK: Minor Problems, Disproportionate Responses?, Public Policy and Administration №22, pp. 109-127;
+
+Page, E. (2010) Has the Whitehall Model survived?, International Review of Administrative Science, Vol. 76. N 3;
+
+Palidauskaite, J. (2006) Codes of Ethics in Transitional Democracies: A Comparative Perspective in “Public Integrity”, Vol. 8, No. 1, p. 35-48;
+
+Palidauskaite, J. (2010) Codes for Public Servants in Eastern and Central European Countries: Comparative Perspective, [Online]. Available at  (Accessed: 10 May 2013);
+
+Parfentyev, M. and Reshetnikova, D. (2012) Vozmozhnyy mekhanizm nematerial'nogo stimulirovaniya gosudarstvennykh grazhdanskikh sluzhashchikh federal'nykh organov ispolnitel'noy vlasti, Sovershenstvovaniye publichnogo upravleniya v Rossii, Vol. 6, p. 175-188;
+
+Petrovskiy, I. (2012) Code of Ethics of the Russian Official: Statement of the Problem,  [Online]. Available at:  (Accessed: 5 April 2013);
+
+Plant, J. and Gortner, H. (1980) Ethics, Personnel Management, and Civil Service Reform, Public Personnel Management Journal, 11 November 1980, pp. 3-10;
+
+Pratchett, L. (1994) The Public Service Ethos in Local Government: A Research Report, London: ICSA;
+
+Pollitt, C. (2003) The Essential Public Manager, Maidenhead: Open University Press;
+
+Richards, D. and Smith, M. (2000) The public service ethos and the role of the British civil service, West European Politics, 23:3, International Review of Administrative Sciences, SAGE, London, Thousand Oaks and New Delhi, vol. 61, pp. 45-66;
+
+Rossiyskaya Gazeta (2002) The federal program “Reforming the Public Service of the Russian Federation (2003-2005)”, 23 November, p.5;
+
+Rossiyskaya Gazeta (2009) The federal program “Reform and Development of Public Service in the Russian Federation (2009-2013)”, 13 March;
+
+Rudenkin, V. (no date) Correlation between legal and ethical issues in the civil servants’ behaviour [in Russian], All-Russian Journal of Analytical Science, Bulletin of the Ural Institute of Economics, Management and Law, pp. 80-92;
+
+Scott, I. (2008) The Changing Face of Ethical regulation in the Public Services of Britain and Hong Kong, Third International Conference Public Management in the 21st century: Opportunities and Challenges, Macau;
+
+Sheaf, R. and West, M. (1997) Marketization, Managers and Moral Strain: Chairmen, Directors and Public Sector Ethos in the National Health Service, Public Administration 75, pp. 189-206;
+
+Smorgunov, B. (2012) The Civil Service and the political and administrative reforms in modern Britain, Moscow University Bulletin, series 21. Management (state and society), №1, pp. 3-16 [Online]. Available at:  (Accessed: 27 April 2013);
+
+The Public Administration Select Committee (2007) Ethics and Standards: The Regulation of Conduct in Public Life, House of Commons, Vol. 1;
+
+Thomas, R. (2011) Developments in ethics in British Central Government, Ramon Llull journal of applied ethics, issue 2;
+
+United Nations (2000) Professionalism and Ethics in the Public Service: Issues and practices in Selected Regions;
+
+United Nations (2000) Promoting Ethics in the Public Service;
+
+United Nations (2007) Case Evidence on “Ethics and Values in Civil Service Reforms”, Capacity development action briefs, United Nations Development Programme [Online]. Available at: (Accessed 3 May 2013);
+
+Vandenabeele, W. and Horton, S. (2005) The evolution of the British Public Service Ethos: A Historical Institutional Approach in explaining Change, EGPA-ASPA Conference;
+
+White, R. (1999) Public ethics, moral development, and the enduring legacy of Lawrence Kohlberg: Implications for public officials, Public Integrity, 1,2, pp. 121-134;
+
+Whitton, H. (2001) Implementing effective ethics standards in government and the civil service, Transparency International;
+
+Wrigley, L. and McKevitt, D. (1994) Professional Ethics, Government Information and Differential Information, London: Sage;
+
+Yershova, I. (2008) Legislative support of anti-corruption in the public service. Foreign experience in management of administrative ethics, Law and Security №3 (28), pp. 46-57;
+
+Zotov, M. (2012) Funktsionirovaniye vedomstvennykh i regional'nykh kodeksov etiki gosudarstvennykh sluzhashchikh Rossiyskoy Federaitsii, The Russian presidential Academy of National Economy and public Administration №2, pp. 202-208;
+
+Zotov, M. (2013) Codes of ethics as a mechanism to control moral development of the civil servants in today's Russia, Author’s thesis [Online]. Available at:  (Accessed: 25 April 2013).
+
+
+
+
+
+
+
+
+
+
+APPENDICES
+
+
+Appendix 1
+
+UK ethical watchdogs
+
+Source: Heywood, P. (2012)
+
+
+
+
+
+
+Appendix 2
+
+The unite value administration system
+
+Adopted from Lobanov, V. (2003)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appendix 3
+
+The quantitative content-analysis of the Ministerial ethical codes of Russia
+
+ 
+
+
+
+
+Appendix 4
+
+The quantitative content-analysis of the Service ethical codes of Russia
+
+
+
+
+
+
+Appendix 5
+
+The quantitative content-analysis of the Agency ethical codes of Russia
+
+
+

@@ -1,0 +1,428 @@
+National Research University – Higher school of economics (NRU-HSE)
+
+Department  of business informatics
+
+
+
+
+
+
+
+
+
+Draft of the paper:
+
+ Outsourcing in IT project management
+
+
+
+
+
+
+
+
+
+
+
+
+
+Student: Tselishcheva E.O.
+
+Group: 473
+
+Scientific adviser: Bogdanova T.K.
+
+Language adviser: Klepko E.Y.
+
+
+
+
+
+
+
+
+
+Moscow (2013)
+
+Abstract
+
+The study is devoted to outsourcing in projects. This draft acquaints the reader with the main aspects of project management and outsourcing. The research analyses the reasonability for using outsourcing in IT project management.  It illustrates which software is used nowadays to apply project management. In addition, this work gives its classification. The paper shows the most common approaches to project management. Moreover, their benefits and drawbacks are also given. This study considers the issue that projects tend to be very complicated now and can’t be executed totally in-house. Description of the project and possible tasks have been introduced in the project. The draft also presents general stages of the implementation of information system, so the part of the basic plan is also introduced. Choosing the tasks to outsource is a rather serious issue. Nonetheless, some tasks have been proposed. The draft also covers advantages and disadvantages of outsourcing. The paper includes 2 chapters. The first one gives background theoretical information and the second one describes how the work on project starts. Project managers and other members of a project team may be interested in this study.  
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+Nowadays project management is a widely used technique in business. This is an independent study which works more than 50 years. Companies work with a large amount of data and cooperate with a lot of partners. Thousands of employees work in these companies. That is why almost all large companies tend to apply project management methodology in their work.
+
+Project management was used only by large companies formerly, but today even small companies tend to use these ways to make their work more efficient. Project appears to be used as a standard approach to business, so it is not an exception nowadays. Project activities are very popular today. The fact that projects are getting more complicated requires the usage of modern software.  
+
+Outsourcing is getting popular now because it seems to be not rational to perform a project totally in-house. That is why this issue is very urgent nowadays.
+
+The object of this research is IT project; subject of the study is IT project management.
+
+The aim of the research
+
+The goal of this research is to substantiate the reasonability for usage of outsourcing in the implementation of information systems.
+
+The tasks of the research
+
+In order to achieve the established objective the following tasks should be performed:
+
+To reveal the special features of IT project management
+
+To define outsourcing range of application
+
+To analyze and classify software for project management
+
+To consider the efficiency of outsourcing some tasks during the process of creating basic project plan of information system implementation
+
+The purpose of this work is to research the methodology of project management, particularly IT project management, to acquaint with key points of outsourcing and to ascertain whether using the outsourcing of some task can guarantee optimization of the work on the project.
+
+
+
+Chapter 1 «Outsourcing: an instrument for project management efficiency raise»
+
+1.1. Project and project management
+
+First of all it would be reasonable to define what the term «project» means. There are many definitions of it. According to some sources, project refers to a provisional attempt made to create unique project, service or result. Project aims to satisfy customer’s demand. 
+
+To opinion of Tsybes G., project management is a management area which includes producing a new product or service as a full complex of processes and events which progress within time and cost limits and requirements to results. (Tsybes G. 2006)
+
+According to Project Management Institute in the USA (PMI USA), project refers to a temporary activity, taken for the creating of a unique product or service.
+
+It must be taken into account that project can’t be everyday work or task. It is not a routine activity but a specific set of operations, performed to achieve an established objective. Usually a project team may involve people of varied positions from different departments. Consequently, these people do not usually work together. The results should be delivered on-time and on-budget. In other words, project management is the application of knowledge and techniques in order to execute projects efficiently.  
+
+In this work project refers to unique set of activities with established terms (start time and finishing time) which are held for the particular purpose. 
+
+However, despite the possible definitions, project always has a goal, exact life cycle, process of doing something necessary and new, limited time, costs and actual result. Usually many people and many types of specialists work on project.
+
+A final product which company gets as a result of working on project is not obligatory to be innovative. It might be an invention, but it is not a precondition. However, it is necessary to take into account that working with a new partner, with new data, performing new combination of operations can be called a unique activity too. In other words, project is run when it becomes necessary to do something what has never been done before. Thus, every company has 2 types of activities – operational and project.
+
+Operational activity refers to actions which are preformed often and regularly. These activities seem to be usual and routine. On the contrary, project activity includes development and improvement of business processes of a company.
+
+There are many criterion to classify projects. Razu M. marks out the following types of projects:
+
+terminal
+
+open
+
+developing 
+
+Another classification: (Razu M., 2006):
+
+By scale: small, middle, large.
+
+By complexity: simple, with complicated organization, with complicated technology, with complicated resources, very complicated. 
+
+By terms of realization: short run, average, long run.
+
+By requirements to the quality: defect-free, modular, standard.
+
+By requirements to resources: monoproject, multiproject..
+
+By level of participants: international, domestic (state, territorial, local).
+
+By type of objective: crisis management, marketing, educational, reformation, innovative, extraordinary.
+
+By investment activity: financial, investment, real. 
+
+By origin of a project: new opportunities, state of emergency, necessity of structure functional reform, reorganization, restricting, reengineering.
+
+In fact, many managers already use project approach to business. For example, many leaders use network graph; the try to allocate time, tasks and expenses and make a schedule.  However, companies need more integrated approach for the most efficient results and for maintenance of competiveness.
+
+1.2. Approaches to project management
+
+Project management rapidly develops. Consequently, the number of varied methods and approaches increases. These methods constantly change and approve; they might be closely interwoven and supplement each other. Project management is rather old instrument; nevertheless, there is no unified standard for its usage. Thus, nowadays a lot of methodologies are applicable. 
+
+The most widespread approaches are:
+
+PMBOK (traditional)
+
+Microsoft MSF and MOF
+
+Process based management
+
+PRINCE 2 (Projects In Controlled Environments) 
+
+PRiSM (Projects integrating sustainable methods) 
+
+CCPM (Critical chain project management)
+
+Event chain methodology 
+
+Agile project management
+
+XPM (Extreme project management)
+
+DSDM
+
+Scrum
+
+PMBoK methodology
+
+PMBoK covers 9 knowledge areas: scope, time, cost, quality, human resources, communications, risks, procurement and integration. Each area has a number of processes. (PMI, 2010)
+
+This approach is thoroughly developed. However, it has too many processes. Moreover, it hasn’t specific methods for IT projects. In addition, PMBoK illustrates cascade model rather poorly, and it is difficult to apply it to ill-structured projects.
+
+Microsoft MSF and MOF
+
+Microsoft MSF and MOF – IT project management and IT process management.
+
+This methodology has completely different model. It is an agile methodology. Development, planning, creating a concept, stabilization and implementation are the main 5 processes in this case. It also has more detailed division. Another consideration is that this approach is good to apply to IT projects. In addition, it pays much attention to the economic indicators.
+
+Today this approach is not widely spread in Russia, so it is not developed enough in the local companies. Furthermore, there is no leader or manager in this methodology.
+
+Extreme project management.
+
+According to Doug DeCarlo, extreme project is a complex, high-speed and self-correcting enterprise where people communicate in order to get the desired result under complete uncertainty, regular changes and a great stress. (Doug DeCarlo,2007)
+
+There are old and new methods. Some of them do better for the particular projects. Nevertheless, all methods do not eliminate each other. Actually, it can’t be determined which approach is more appropriate or correct. The choice of the approach may depend on the project enterprise. There is no common classification of project management approaches.
+
+The approaches to project management constantly change and improve. However, usually all approaches cover the following areas:	
+
+Enterprise management
+
+Time management
+
+Cost management
+
+Quality management
+
+Personnel management
+
+Communications management
+
+Declination management (risks, problems, changes)
+
+Contract management
+
+According to the majority of the methodologies, project management has 5 process groups/stages (fig.1): 
+
+Initiating
+
+Planning
+
+Executing 
+
+Monitoring and controlling
+
+Closing
+
+
+
+Figure 1. 5 stages in project management
+
+
+
+As it has been already mentioned, project management is continuously improving. That is why the following tendencies can be noticed: (Tsypes G., 2006)
+
+The uncertainty in the project
+
+Scale up of the projects
+
+Cross-cultural integration
+
+Models of project management
+
+Related methodologies – (these methodologies became popular and widely applicable; the balanced scorecard, knowledge management, organization development and process-based management are among them.
+
+ «Models of maturity»
+
+Portfolio management
+
+One of the basic instruments of project management is a network graph. Network graph is a model of scheduling which shows tasks, connections between them, terms and condition of a project. 
+
+Another consideration is that there are 2 approaches to a network graph development. In the first case task refers to an object, whereas in the second case task refers to an arc. It is thought that the first variant is more convenient. A network graph appears to be one of the most significant tools in project management.(Patel, 2008)
+
+
+
+Figure. 2. First case
+
+
+
+Figure.3. Second case
+
+
+
+The most common procedure in work with a network graph refers to a critical path. This term describes the path, which takes the biggest amount of time. In other words, such path has the least downtime. If the project has float time, it is possible to delay some tasks.
+
+1.3. IT project management
+
+IT projects can be found in varied areas. The most common IT projects refer to software development or implementation. Usually IT projects are prone to risks and difficult requirements. Management of such projects need more detailed scheduling and network graph. According to The Standish Group International, extreme Chaos, The Standish group International, Inc. 2000, all IT projects can be divided into failed, problem and successful. Successful projects tend to account for only 28%. Successful projects refer to the ones which were fully implemented, satisfying the requirements, terms and budget. Problem projects need more resources than it has. Finally, failed projects are the projects which even have not been completed. Consequently, these circumstances need measures to be taken.
+
+1.4. Outsourcing
+
+The term «outsourcing» means «using external resources». Nowadays outsourcing is often used by many companies. It should be taken into account that outsourcing is convenient to apply for both countries. The companies can save their time and money if they do not perform some tasks independently. It is a good practice to outsource the tasks of the business field in which the company is not specialized. Thus, the company which uses outsourcing may concentrate on the core issues of its business. Additionally, the company may direct all its resources, time, knowledge and skills to the particular part of the business. Thus, each party shows the best result, the highest level of proficiency and quality. Such approach saves money of the each company because neither of them needs to spend money on new and unfamiliar scope of activity. Consequently, the company applies fewer efforts to achieve the objectives.  Furthermore, customers get the high-quality product.  
+
+In addition, competition favours the development of outsourcing, for both companies strive for the raise in the level of quality. All companies seem to seek for the best business solutions. The main benefits of using outsourcing are saving of resources and concentration on the key issues. Incidentally, today companies tend to outsource not only non-core operations but even the basic tasks.
+
+Success of using outsourcing depends on risk management of the company because the practice of outsourcing is prone to risks. The most widely spread risks are: 
+
+Breakdown of terms
+
+Fall in level of quality
+
+Nonfeasance by the partners (under the contract).
+
+On the one hand, the application of outsourcing may help the business, but on the other hand, it adds risks in the project.
+
+Actually, today many companies outsource the functions of project management. In the USA the majority of companies apply this approach, and it is believed to be the main requirement for a successful project. (Anikin B., 2009). Consequently, outsourcing became rather strong instrument for the raise in efficiency. 
+
+Outsourcing and its usage in project management
+
+Nowadays not many projects are being created totally in-house. Outsourcing some parts of work tends to be a common practice. Many corporations hire independent companies to perform some tasks. It is suggested that more and more companies will interact with other firms in order to delegate some activities. 
+
+Usually companies apply outsourcing to such business activities as accounting, IT or call services, for example. Another consideration is that outsourced activities tend to be performed virtually, using varied information technologies and online communication. They even may not see each other in reality. Using outsourcing in a project appears to be a mixed blessing. It has the following benefits:
+
+Decrease in cost
+
+Time saving
+
+Concentration on the core issues, activities and problems
+
+Flexibility 
+
+However, it also has drawbacks:
+
+Difficulties in coordination
+
+Difficulties in monitoring and managing
+
+Possibility of conflicts
+
+Security of the company might be under the threat
+
+In addition, it is significant that outsourcing may be expensive. Besides, the issue of reasonability for these costs is very difficult. Project manager must define whether outsourcing costs will be finally repaid and will make a profit. This is a serious and a difficult task to find a reliable partner. In order to succeed some recommendations should be followed. First of all, requirements, terminology and processes should be clearly defined. Personnel training and team-building are needed, as well as regular control and monitoring. It is obvious that contracts must be fair and incentive. As it has been previously said, it is advisable to develop long term outsourcing relationship with partners. Additionally, Gray remarks that if employees of the partners work near to each other, it may increase the capacity too. (Grey, Larson, 2011)
+
+1.5. Problem
+
+Managers try to think of the ways to reduce required time and costs for the project implementation. One of the possible solutions may be using the outsourcing. It is argued that if one task or activity is decided to be outsourced, it can save time for the project. Nonetheless, this question about outsourcing reasonability is still open.
+
+Chapter 2 «Implementation of the information system management»
+
+2.1. Classification of the software for project management
+
+Many different software tools are used for project management. These tools satisfy the particular requirements. First of all, project management software can be divided into desktop software and web-software. Desktop software is installed on the personal computer of the user. Usually it has friendlier interface. Web-applications require access to the Internet. These applications are run by web-browsers and do not need to be installed on the particular computer. The drawbacks of such software are that it has lower capacity. Moreover, its work depends on the server. The following programs are the most well-known: 
+
+Microsoft project professional
+
+Oracle Ebusiness Suite 	
+
+Primavera
+
+SAP Professional Services Automation
+
+PeopleSoft Project Management
+
+ARTA software 
+
+Epicor Software
+
+IFS Applications  
+
+OpenPlan
+
+To analyze the effect of outsourcing on the project results Microsoft Project is applied. It has a simple interface, and it is similar to other MS Office products interface. Moreover, the logic of the program is easy to understand. 
+
+2.2. Project description
+
+Project of this work consists in implementation of a particular information system for the client. The project includes several stages. The customer lays claims to the product. These requirements should be formalized and fixed. Subsequently, project manager uses these requirements, resources, time and people. 
+
+2.3. Development of the basic plan.
+
+The basic plan will be developed during this work, and then particular tasks to outsource will be chosen. According to the state standard specification, there are 8 basic stages in the integration of an information system:
+
+Requirement formation
+
+Conception development
+
+Requirements specification
+
+Draft design
+
+Preliminary design
+
+Documentation
+
+Implementation
+
+Support
+
+The last stage «Support» probably will not be a part of the project. Fitsr of all, project should be organized. The development of a short basic plan has been started and is presented below. (Figure 4,5)
+
+
+
+Figure. 4. First steps of the project
+
+Responsibilities which can be delegated to the partner will sooner be chosen from the draft design or the preliminary design. It is necessary to define which activities are not the most important or profile in this case. 
+
+
+
+Figure 5. Gantt chart
+
+Conclusion
+
+Outsourcing is a very promising method. Nowadays more and more companies try to apply outsourcing in their projects. Implementation of an information system is long and complicated process. Perhaps, it is worth to outsourcing some activities. However, more detailed research will be introduced in the final study.
+
+In this work basic definitions and terms of project management have been considered. Outsourcing range of application has also been reviewed. Moreover, enterprise has been described, and possible tasks to outsource have been proposed.  It was significant to choose appropriate project management software. The next step is to decide and choose which exactly tasks should be outsourced. After that the basic an adjusted project plan will be created. Consequently, these 2 plans will be compared. The observations will help to determine whether it is reasonably sufficient to outsource the chosen tasks in the given IT project. 
+
+
+
+
+
+
+
+
+Bibliography
+
+Binder, Jean (2008) Global Project Management Ashgate Publishing Group
+
+Doug DeCarlo (2007) eXtreme Project Management: Using Leadership and Tools to Deliver Value in the Face of Volatility. P.m.Office
+
+Eric W. Larson, Clifford F.Gray (2011) Project management: the managerial process. 5th Edition The McGraw-Hill Companies, Inc.
+
+Heldman, Kim (2011) Project Management JumpStart (3rd Edition), Sybex
+
+Jason Westland (2007) Project Management Life Cycle : A Complete Step-by-Step Methodology for Initiating, Planning, Executing and Closing a Project Successfully, Kogan Page Ltd.
+
+Mishra, R.C. (2005) Modern Project Management New Age International
+
+Paul Roberts (2007) Guide to Project management: achieving lasting benefit through effective change, Profile books Ltd
+
+Patel, Vinod N., (2008) Project Management. Oxford Book Co.
+
+PMI (2010). A Guide to the Project Management Body of Knowledge p.27-35
+
+Sidorova E. (2011) Outsourcing as the instrument of formation and consolidation of firms’ competitive advantages
+
+Richman, Larry L.(2002) Project Management Step-by-Step AMACOM Books
+
+Westland, Jason (2006) Project Management Life Cycle. Kogan Page Ltd.
+
+Аникин Б.А., Рудая И.Л.(2009) Аутсорсинг и аутстаффинг: высокие технологии менеджмента. 2-е изд. ИНФРА-М
+
+Гончарова Н.А. (2010) Инновационный аутсорсинг в малом и среднем бизнесе // Экономическое возрождение России. 
+
+Готтшальк П., Солли-Сетер (2007)  х. ИТ-аутсорсинг. Построение взаимовыгодного сотрудничества. М. : Изд-во «Альпина Бизнес Букс», 2007.
+
+Разу М.Л. (2006) Управление проектом – основы проектного управления, КНОРУС
+
+Г.Л. Цибес, А.С. Товб (2003) Управление проектами: стандарты, методы, опыт. «Олимп – Бизнес»
+
+Г.Л. Цибес, А.С. Товб (2006) Менеджмент проектов в практике современной жизни. «Олимп – Бизнес»
+
+
+
+
+
+
+
+

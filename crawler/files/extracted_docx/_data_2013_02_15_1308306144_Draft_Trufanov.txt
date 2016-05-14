@@ -1,0 +1,481 @@
+       National Research University
+
+Higher School of Economics
+
+
+
+Faculty of Business Informatics
+
+Department of Corporate Information Systems
+
+
+
+                                                  Academic project
+
+Of the paper
+
+«Automation of Business Processes in the Sale Company»
+
+
+
+Student Trufanov Alexandr
+
+Group 476
+
+Argument Consultant N.L. Korovkina
+
+Style and Language Consultant Volkova M.A.
+
+
+
+
+
+
+
+                                                       Moscow, 2013
+
+Abstract.
+
+Companies involved in wholesale trade have much less clients than retailing companies. So the task of maintaining business relationships with clients has a big priority. This work is focused on the automation of processes of interaction with customers through the introduction of a CRM system. It is made on the analysis of “Dezzie” company, which is engaged in wholesale trading of pet goods.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table of contents.
+
+
+
+Introduction.
+
+1	Study of automation subject.
+
+1.1	Data acquisition.
+
+1.2 	Construction and analysis of "as is" model.
+
+1.3	Identification and documenting of bottlenecks.
+
+2	Development of the design solution.
+
+2.1	Modelling of business processes in the "to be" model.
+
+2.2	Formation of functional and technical requirements to information system (CRM).
+
+2.3	Justification of information system choice.
+
+3	Implementation of the design decision
+
+3.1	Development of the model of integration of CRM with available information system. 
+
+3.2	IS testing.
+
+3.3	Analysis of business process automation result.
+
+Conclusion.
+
+Literature.
+
+
+
+
+
+Introduction.
+
+
+
+As the companies involved in wholesale trade have much less clients than retailing companies, so each client makes a big contribution to the income. Let us consider the example of Dezzie company (this company specializes in wholesale trade of accessories for pets). Figure 1 shows the diagram of distribution of the company's income obtained from regular customers in 2012.
+
+
+
+Figure 1. Diagram of distribution of the company's income. [5]
+
+In this regard there is a need for customers’ retention and for the search of new customers.
+
+First of all it is important to improve relationship with customers by:
+
+Maintaining a uniform base of customers, suppliers, partners and their contact details.
+
+Maintaining a full history of relationship with each customer.
+
+Registration of customers’ inquiries through a website, phone and e-mail.
+
+The main function of in stock logistics is control of deliveries and shipments. The control process consists of orders tracking, coordination of terms of delivery and finishing by shipment verification and delivery of the ordered goods. During the order processing control the observance of the contract obligations by the supplier is verified.
+
+The unforeseen failures of deliveries can lead to a temporary stop of production or reduction of outputs. With the appropriate control organization the enterprise will be able to receive timely information on the amount and terms of the expected deliveries of goods and take appropriate timely measures in case of possible deviations from the conditions of the order.
+
+Difficulty of the order processing control is caused by the nomenclature and variety of the delivered goods. The larger is the variety, the more time will be spent on verification of the batch of goods to be delivered.
+
+Fast and timely obtaining of all the documents is very important for the clients as well. It includes maintaining the contracts and control of works on them, as well as extension of invoice and control over their payment.
+
+Records system is an integral part of technological process of any enterprise. As a matter of fact, it is at the heart of the technology. Any change in this system is directly reflected on the results of the enterprise activity regardless of its structure and role. Without developing their document control system competently and without any investments in it the enterprises risk reducing their profitability and market competitive ability.
+
+Active search and involvement of new customers is important for normal business growth. The customers will hardly come themselves. Systematic search for customers is an integral part of the strategy of survival and growth on the market for majority of the companies.
+
+Marketing activities which include a package of measures on customers’ acquisition and increase of sales volume are also aimed at that. Main types of marketing activities are: presentations, exhibitions, sales, campaigns and others.
+
+Clearly, without an integrated approach and maintaining the customers’ accounting these activities are not possible.
+
+As a result one can say that there are several problems in customers’ retention and search:
+
+1)	problem of interaction with customers
+
+2)	orders control problem 
+
+3)	problem of records system maintaining
+
+4)	problem of marketing activities implementation
+
+The aim of this work is improvement of the group of business processes related to interaction with customers and its automation by introduction of CRM.
+
+To achieve this aim the following issues shall be solved:
+
+1)	To investigate the automation subject, namely the group business process of interaction with customers with the help of "as is" model. To reveal the bottlenecks.
+
+2)	To simulate business processes in the "to be" model.
+
+3)	To formulate the requirements to the automation subject.
+
+4)	To justify the choice of information system.
+
+5)	To offer the model of integration of CRM with an available information system.
+
+6)	To test IS.
+
+7)	To analyse the results of automation.
+
+
+
+1	Study of automation subject.
+
+
+
+1.1 Data acquisition.
+
+This work is performed by the author on the basis of the Dezzie company analysis. Primary activity of this organization is a wholesale trade of accessories for pets across all Russia and the CIS.
+
+The company was founded in 2005 and nowadays it is one of the largest suppliers of goods for animals.
+
+
+
+Major customers of the company are retail shops. They can be classified as:
+
+1)	retail shop
+
+2)	retail chain
+
+3)	regional representative (their peculiarity is that they are provided a discount as for the representatives of interests of the company in the regions)
+
+The company supplies pet’s products including various toys for animals, but not including food. 
+
+The following organizational structure of work with customers was revealed (see fig. 2).
+
+
+
+
+
+
+
+
+Fig. 2. Organizational structure of marketing and sales department.
+
+Main directions of customer acquisition:
+
+1)	catalogues distribution (both electronic and printed)
+
+2)	advertising in magazines
+
+3)	business trips to the points of sale
+
+4)	call-down of "cold" customers’ base
+
+Phone calls, e-mails, etc. are used for this purpose.
+
+Other marketing events are held such as: participation in exhibitions and seasonal discounts offers.  
+
+Orders are taken by phone, e-mail or fax. Taking orders is a very short process and only processing operators participate in it.
+
+As soon as the order comes, the employee sends buyers the remains (without quantity, only the list), The customer fills in the quantity of goods in the empty columns of the document. Then he sends this file back to the company and it is uploaded to 1C Enterprise program, on the basis of this unconfirmed request the invoice is formed and sent for confirmation to the customer. On the basis of the confirmed invoice the goods selection begins. Only processing operators participate in this process.
+
+There are warranty workshops providing warranty and a post warranty service. Replacement of defective goods is possible on the basis of a photo. Communication is by phone or e-mail.
+
+Assessment of satisfaction of the customer is achieved by call-down of customers or by e-mail. The main assessment is the duration of partnership.
+
+The company uses IT system – 1C Enterprise 8.2.
+
+
+
+1.2	Construction and analysis of "as is" model.
+
+
+
+The main idea of this section is the study of the group of business processes of "Relationship with customers" in this company. This model is built with the use of functional modelling methodology. Advantages of this methodology are:
+
+Completeness of the business process description. 
+
+Transparency of schemes.
+
+Prevalence of modelling tools.
+
+During the analysis of "as is" model which describes the business processes related to customers the following subfunctions were revealed:
+
+1)	Sales planning
+
+2)	Sales control
+
+3)	Sales organization which includes distribution of functions of the personnel on transactions processing.
+
+4)	Manning. It is a complex of actions providing the company with employees.
+
+The analysis of this "as is" model allows to reveal and record company's bottlenecks.
+
+As an example business process of the contract conclusion was considered and simulated. (see Appendix 1)
+
+The contract conclusion is carried out by directing an offer (an offer to sign the contract) by one of the parties and its acceptance (acceptance of the offer) by the other party.
+
+The contract conclusion occurs at the moment of receiving of the acceptance by the person who has directed the offer.
+
+In practice the conclusion of the contract quite often occurs as follows.
+
+Supplier - the legal entity intending to sign the contract with the buyer - the legal entity, makes a draft of delivery contract in writing in two counterparts, one of which he signs and seals, and sends both copies to the buyer with a cover letter of the following contents: "We suggest you to sign the contract of delivery of goods. Two copies of the contract are enclosed. You are kindly requested to sign and seal them, and send one copy of the contract to our address". It is obvious that the proposal to sign the contract (offer) has been made by one party to the other party.
+
+Having received documents for the contract conclusion, having studied the conditions and having agreed with them, the buyer signs both copies of the contract, seals them, i.e. accepts the offer on the contract conclusion (accepts it), and sends one copy of the contract to the supplier.
+
+The moment when the supplier receives the signed copy of the contract from the buyer will be the moment of the contract conclusion according to law.
+
+The other business processes will be described in the same way.
+
+
+
+2.3	Identification and recording of bottlenecks.
+
+
+
+The problems described above will be projected on the subfunction of the considered business process in order to understand on what step of the studied subfunction this problem can arise. All the allocated "bottlenecks" will be documented in the form of table in which besides the description of bottlenecks, measures which need to be undertaken to eliminate the defect will be described. It will look as follows (see Table 1):
+
+
+
+
+Table 1. Recording of bottlenecks.
+
+
+
+All the bottlenecks will be similarly revealed.
+
+
+
+2	Development of the design solution.
+
+
+
+2.1	Modelling of business processes in the "to be" model.
+
+
+
+This model will be created on the basis of "as is" model, with elimination of shortcomings of the existing business processes organization. It is achieved by elimination of bottlenecks revealed on the basis of the analysis of "as is" model.
+
+On the basis of the "to be" model automation of business processes and design of information system will be carried out. It allows to reduce the risk of expression of automation significantly as the source of expenses exclusively because of automation of imperfect processes.
+
+
+
+2.2 Formation of functional and technical requirements to information system (CRM).
+
+In this part of work the requirements to information system will be created. We chose FURPS+ model, that allows creation of full list of requirements. It includes the following classification:
+
+Functional requirements.
+
+Requirements to convenience of use.
+
+Requirements to reliability.
+
+Requirements to productivity.
+
+Requirements to support.
+
+All CRM components will be considered concerning their need in this organization. They include:
+
+Sales/Sales Management.
+
+Marketing.
+
+Customer Service.
+
+Telemarketing/telesales - Sales by phone.
+
+Customer Contact Centre.
+
+Field service support – conditions of use.
+
+
+
+2.3 Justification of information system choice.
+
+For the choice of software product which is best satisfying requirements of the enterprise the estimation technique given below in the present section will be used.
+
+
+
+Assessment of the functionality of the available software product.
+
+
+
+In the analysis of the replicated software products supposed for adaptation functionality of software products will be estimated according to the degree of their compliance with the developed requirements on a ten-point scale.
+
+The following scale of points is applied for the assessment:
+
+0	–	function is absent in the available configuration;
+
+2	–	function is implemented partially, considerable completion of the program code is necessary for its implementation in the process of setting up/ adaptation;
+
+4	–	function is implemented partially, insignificant completion of the program code is necessary for its implementation in the process of setting up/ adaptation;
+
+6	–	function is implemented well, adaptation for the Enterprise's needs is required in the course of setting up/ adaptation by IS means;
+
+8	–	function is implemented well, however its completion can be necessary over the long term;
+
+10	–	function is implemented completely, it meets the requirements (including those in prospect).
+
+"Default" estimates are built based on an even scale, when passing the test odd estimates can be applied in case the answer is on the edge of two adjacent even estimates.
+
+
+
+Assessment of other aspects.
+
+
+
+The assessment of compliance of other aspects of the replicated software products and Suppliers with the developed requirements is made also on a ten-point scale. The number of points defines the degree of compliance of the software product with the considered requirement.
+
+
+System of weight coefficients.
+
+
+
+For receiving an integrated assessment of software products and suppliers weight coefficients are introduced for determination of the importance of these or those criteria for the Enterprise.
+
+The following system of weight coefficients is used:
+
+• 1	implementation of function in IS has low importance;
+
+• 2	implementation of function is important in IS;
+
+• 3	implementation of function in IS is crucial for the Enterprise.
+
+The preference shall be given to the software products having the highest rating (a total score taking weight coefficients into account).
+
+
+
+3	Implementation of the design decision
+
+3.1 Development of the model of integration of CRM with available information system.
+
+In this section of graduation thesis the general data between CRM system and available system 1С Enterprise will be presented. Also the model of their interaction will be proposed.
+
+3.2 IS testing.
+
+A method of "black box" was chosen for testing. It as is also known as testing method with management of input and output.
+
+When using this method the program is considered as a black box. In other words, such testing aims at clarification of circumstances in which the behaviour of the program does not meet its specification.
+
+Tests will be carried out on the basis of previously created functional and engineering requirements to information system.
+
+3.3 Analysis of business process automation result
+
+In this section the comparative analysis of business processes before and after their automation will be carried out. And on the basis of the received results conclusions will be drawn about improving the efficiency of work of this division of the company.
+
+Conclusion
+
+The problem of interaction with customers in the company of wholesale trade is described in this work considering the example of Dezie company. The importance and relevance of this problem is reasoned as well. The data have been already collected to start the analysis and identification of bottlenecks in corresponding business processes. It will help to understand which of them need automation. Thus, the design model of CRM and the offer on its adaptation will be presented.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Literature.
+
+ [1] В. И. Грекул, Г. Н. Денищенко, Н. Л. Коровкина. Проектирование информационных систем. Интернет-университет информационных технологий, 2008. 
+
+[2] Чеботарев В.Г. Анализ и моделирование бизнес-процессов. Логика бизнеса. IDS Scheer Group, 2005.
+
+[3]  [электронный ресурс]: Требования к системе: классификация FURPS+ – актуально и важно/автор Дмитрий Блинов.– Электронные публикации. [Москва]. – URL:  свободный.
+
+[4] В.В. Гаркин , О.В. Дорохов, Д. Симиан. Проблемы и перспективы тестирования программных приложений и информационных систем.
+
+[5]   Отчёт о реализации товара за 2012 год в компании Dezie.
+
+[6]   В.Байдаков, В Дранищев. 1С: Предприятие 8.1 Конфигурирование и администрирование, 2008.
+
+[7]  сайт 1С [электронный ресурс]: Управление отношениями с клиентами – Электронные публикации. [Москва]. – URL:  свободный.
+
+[8]  CRM портал [электронный ресурс]: Необходимость и проблемы интеграции CRM и КИС – актуально и важно/автор Сергей Горшков.– Электронные публикации. [Москва]. – URL:  свободный.
+
+
+
+
+
+
+
+
+
+
+
+Appendix 1. Model of of the contract conclusion.
+
+
+

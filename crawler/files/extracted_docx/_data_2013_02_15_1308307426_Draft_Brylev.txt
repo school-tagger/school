@@ -1,0 +1,245 @@
+State University Higher School of Economics
+
+Faculty of Business Informatics
+
+Department of Corporate Information Systems
+
+
+
+
+
+DRAFT
+
+Of the paper
+
+«Implementation of CRM system in a consulting company»
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Moscow
+
+2013
+
+Abstract
+
+This paper is dedicated to the topic of customer relationship management. The main problem in a chosen field is a lack of process automation. The paper analyses this problem in consulting companies because of a close connection and great importance of customer relationship processes. The goals and tasks for the future work a set. The first chapter contains the analysis of different approaches to the problem. The second chapter describes the main activities and known problems found in a company chosen as an example. After that the main stages of the project are provided. In the end anticipated results are given. 
+
+
+
+
+
+Used terms
+
+ARIS (Architecture of Integrated Information Systems) is an approach to enterprise modeling. It offers methods for analyzing processes and taking a holistic view of process design, management, work flow, and application processing.
+
+Audit - independent evaluation of the organization or its segment on compliance to standards.
+
+Business-process is a set of sequential actions leading to the solution of specific business objectives.
+
+Consulting company is a group of specialists giving recommendations to other companies and individuals in a specific sphere of knowledge. 
+
+CRM (customer relationship management) is a the process of achieving and maintaining an ongoing relationship with customers across multiple customer touch points through differential and tailored treatment of individual customers based on their likely responses to alternative marketing programs, such that the contribution of each customer to the overall profitability of the firm is maximized.
+
+CRM system is a technology-based business management tool for developing and leveraging customer knowledge to nurture, maintain, and strengthen profitable relationships with customers.
+
+EPC (Event-driven Process Chain) is a type of flowchart used for business process modeling. EPC's can be used for configuring an enterprise resource planning (ERP) implementation, and for business process improvement.
+
+Loyalty can be defined as building and sustaining a relationship with customers that leads to the customers’ repeated purchases of products or services over a given period of time.
+
+
+
+
+Introduction
+
+Currently, customer relationships are the key target to any company. Successful cooperation with the client inevitably leads to further requests and recommendations of the company’s services, and, thereby, expands its customer base. Companies having immediate and long-term contact with the end customer deserve closer attention. The best example appears to be the companies providing consulting and audit services. However, despite the importance of customer relationship processes all customer information is often stored in Excel tables, and the negotiation information is kept in the mind of the employee. This situation leads to many problems: customer information can be lost, be entered incorrectly or duplicated. These issues are extremely important, as they can slow the flow of a business process, and, in exceptional cases, prevent it from completion. These problems can be divided into several groups according to the reasons of appearance and the losses from them:
+
+• Lack of centralized control leads to time losses spent to find the employee responsible for the task and clarify the status of the current process
+
+• Lack of information support of employees involved into the business process leads to time loses and expenses of human resources engaged in training of new employees and searching for information known only for one person.
+
+• Lack of document patterns lead to time losses spent on the information search and completing the document.
+
+CRM systems, automatizing customer relationship business-processes are used to solve such problems.
+
+The aim of this work is to improve the business processes of customer relationship management through automation.
+
+To achieve this goal it is necessary to complete the following tasks:
+
+• Analyze known solutions to the problem of the absence of automation of customer related business processes
+
+• Analyze the activity of a consulting company
+
+• Identify and analyze the drawbacks customer related business processes
+
+• Establish controls and monitoring the flow of business processes
+
+• Create an instrument for storing and analyzing customer data
+
+• Develop templates to support ongoing processes of customer relationships
+
+
+Chapter 1. Analytical analyses of problem solving approaches
+
+This chapter is related to the analytical overview of past years experience of CRM systems implementation. This experience is of great significance for consulting companies preparing for CRM system implementation. This overview covers negative and positive consequences of CRM system implementation as well as the most common obstacles to the successful implementation of the system. 
+
+
+
+Overview of customer-oriented approach
+
+Previously, the companies’ main goals were selling more products and obtaining leading market position. Nowadays most of the companies are focusing their activity on the consumer. The customer has become the centre around which all the business processes of the company are concentrated. Bryan Foss et al (2008) describe this approach as “…detection of customers’ needs, appropriate reaction to them and their preservation because to attract new customers is more expensive”. Proper attention to customers’ needs leads to increased loyalty and, as a result, more profit to the company. Another benefit of customer retention is that a satisfied customer may tell their friends and colleges about the quality of goods or services. Hence, providing sufficient attention to existing customers can increase the number of customers and reduce the expenses on attracting the new ones. 
+
+
+
+Analysis of CRM system functionality
+
+Often, companies do not have enough ability to achieve competitive advantage in the fight for customers. Michael E. Porter (1980) to achieve competitive advantage suggests “taking an offensive approach by developing strategies designed to influence the balance of competitive forces. Innovations in marketing can raise brand identification or otherwise differentiate the company's product”. For example, novelty in marketing can distinguish the company in the face of consumers. Since the late 90's CRM system became such innovation.
+
+CRM system allows you to automate all business processes related to customer relationships. Darrell K. Rigby and Dianne Ledingham (2004) offer the following life-cycle of a customer relationships processes, called CRM cycle (Fig. 1).
+
+In the future work, multiple CRM systems from different vendors will be analyzed and evaluated.
+
+
+
+Figure 1.CRM Cycle
+
+General experience in CRM system implementation
+
+Implemented CRM system can have a significant impact on a company’s income; however, system implementation can have negative consequences. Darrell K. Rigby et al (2002, p. 1) mention that: “55% of CRM systems drive customers away and actually dilute earnings”. They define 4 perils to the successful implementation of the system:
+
+1. Implementing CRM before creating a customer strategy
+
+2. Installing CRM technology before creating a customer-focused organization
+
+3. Assuming that more CRM technology the better. Darrell K. Rigby and Dianne Ledingham (2004, p. 5) note that “smart companies sharply focus their CRM implementations, carefully choosing which segment of the cycle (fig. 1), and which function within the segment, are likely to deliver the greatest return  on initial CRM investment”. 
+
+4. Stalking not wooing customers. 
+
+Another problem leading to the failure of the implementation is that “many companies use CRM simply to automate existing marketing functions and feel no need to undergo such a dramatic reorganization”. (Nooren, 2012, p. 31) 
+
+However, there are many positive consequences. Customer survey of CRM using companies conducted by Othman Boujena et al. (2012, p. 9) showed that "68% of respondents are aware of their sales over two years". It shows a long-term relationship set between a customer and seller. Another result identified in the study is “The results indicate a positive effect of CRM applications usage on salesperson perceived competence at the three levels: market, product and customer knowledge”. Bryan Foss et al (2008, p. 53) divide the profits into three groups: the benefit for proprietors, customers and employee. Proprietor profits, is divided into increased profits and decreased costs. Increase profits are a result of “greater quality of sales and services, management of customers’ possibilities and problems (incidents, enquiries), better ratio of sales” (Bryan Foss et al 2008, p. 53). Cost decrease is the cause of “increased total effectiveness, an automated process of sales, service and marketing companies; decreased costs of customers’ management, automated routine work." (Bryan Foss et al 2008, p. 53)
+
+Customer profit is the ability to " to get an offer in an appropriate form when it is necessary and what it is necessary, to be appropriately served, to feel important, to be informed in time, a possibility to choose a service channel (self-service, full service).  (Bryan Foss et al 2008, p. 53)
+
+Employee benefits from CRM systems are that “it helps to fulfill more activity during the same time, and a higher salary is related to it; the feeling of self-control, a possibility to show oneself as leader and sound competition emerge”. (Bryan Foss et al 2008, p. 53)
+
+As a result, despite all these obstacles the outcome of the successful implementation of CRM system “allows companies to gather customer data swiftly, identify the most valuable customer over time, and increase customer loyalty by providing customized products & services. It also reduces the costs of serving these customers and makes it easier to acquire similar customers down the road.” (Darrell K. Rigby et al., 2002)
+
+
+
+
+Chapter 2. Practical tools of research
+
+2.1. Analysis of automation object
+
+For the analysis of the subject area “What to do Consult” was chosen as an example. The study of the company’s activity was performed based on documents of the company and employees’ interviews.  
+
+The company provides a large number of goods and services. Among them:
+
+• accounting services
+
+• auditing services
+
+• Legal Services
+
+• Property evaluation
+
+• Consulting services
+
+• Assistance in establishing new business
+
+• Asset evaluation
+
+• Training courses
+
+• Sales and implementation of consultant + and 1c, and consultation and training for the users of the systems.
+
+Nowadays, all client information in the company is stored in Excel tables and Access forms. It leads to a lot of problems such as duplication or misprint of information, search difficulties. Also, lack of templates leads to increased times for documents creating and filling. 
+
+
+
+2.2. Project Stages
+
+The further project will consist of the following stages:
+
+Analysis of company’s business processes and creation of as-is model. ARIS platform was chosen as a modeling instrument. During the analysis process all necessary EPC diagrams will be created. 
+
+Analysis of the current business-processes drawbacks and classification of this drawbacks as well as losses from them. On this stage a corresponding table will be created.
+
+Creation of a to-be model. On this stage tables of functional requirements and document flow will be formed.
+
+Project implementation. CRM systems from a range of developers will be evaluated. Evaluation will be based on functional requirements and special selection criteria.  After the system is chosen a number of needed documents and business processes templates will be designed. 
+
+
+
+2.3. Anticipated results 
+
+The expected result of a research will contain a revised business process model, recommendations for CRM system to be chosen and needed templates. Later on these results can be used in different consulting companies, or customer-oriented companies in another sphere. Besides this models can be used in future work to create a solution for a specific company based on a system chosen.  
+
+
+
+
+Conclusion
+
+This paper gave basic information about the project. Common issues were raised; background for CRM implementation was analyzed as well as the consequences of implementation. Goals and objectives were set and the tools of research were chosen. The outline of the future work was also given. 
+
+In conclusion it can be said, that the result of this work can be useful in solving a lot of different problems existing in consulting companies. Drawbacks in business processes will be found and profits increase due to their revision is expected.
+
+
+Bibliography 
+
+Marc Lankhorst (2005). Enterprise Architecture at Work: Modeling, Communication, and Analysis. Springer. ISBN 3540243712.
+
+Kumar, V. and Girish Ramani (2004). Taking Customer Lifetime Value Analysis to the Next Level, Journal of Integrated Communications. 
+
+Bryan Foss, Merlin Stone and Yuksel Ekinci (2008). Journal of Database Marketing & Customer Strategy Management.
+
+Bart-Jan Hommes (2004). The Evaluation of Business Process Modeling Techniques. TU Delft. 
+
+Ella Nooren (2012). Case Study- Fujitsu and CRM “The Impact of Customer Relationship Management on Fujitsu as a Service Providing Company”. 
+
+Michael E. Porter (1980). Industry Structure & Competitive Strategy: Keys to Profitability 
+
+Darrell K. Rigby Dianne  Ledingham (2004). CRM done right Harvard business review 
+
+Darrell K. Rigby, Frederick F. Reichheld, Phil Schefter (2002). Avoid the 4 perils of CRM Harvard business review 
+
+Othman Boujena, Wesley J. Johnston, Dwight R. Merunka, (2012). Does CRM make your sales force more knowledgeable? Moderating effects of customers’ attitude toward IT and salesperson familiarity  National Conference in Sales Management Proceedings
+

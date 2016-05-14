@@ -1,0 +1,242 @@
+National Research University
+
+Higher School of Economics
+
+
+
+Faculty of Business-informatics
+
+Department of Modeling and optimization of business processes
+
+
+
+
+
+Draft
+
+Of the paper:
+
+«Business Process Analysis of the Insurance Company»
+
+
+
+
+
+
+
+
+
+
+
+
+
+Student: Nedosekin I.M.
+
+Group: 475
+
+Argument Consultant: Chebotarev V.G.
+
+Style and Language Consultant: Podobed K.A.
+
+
+
+
+
+
+
+
+
+	
+
+	2013
+
+
+Abstract.
+
+	This study proposes an investigation on finding ways to improve how an insurance company functions. The chosen method for this task is analyzing the business processes of an enterprise. Process approach is used to model the current structure and to find weak points which could be improved. As a result of this study, the efficiency of the chosen company should be enhanced and the costs reduced.
+
+
+
+
+Contents
+
+
+
+
+	Introduction
+
+	Business environment is continuously changing and evolving. Given tough competition and struggling for profit, organizations are forced to rapidly develop. Such conditions lead to the development of new technologies and new ways of doing business. As a result, there is a dramatic improvement in operational quality and efficiency.
+
+	Business processes are crucial in the enterprise. They allow managers to imagine how the organization works and how it interacts with external entities, such as suppliers or customers. Organizations, which constantly improve their business processes, have substantial returns.
+
+	Analysis of business processes has great importance among enterprises at early stages of development. One of such areas is the insurance market. There is a noticeable increase in insurance demand all over the world and particularly, in Russia. This market has a great potential for growth and the flexibility of the enterprises defines how they succeed.
+
+	The main object of this study is to determine possible ways to improve the performance of a particular company. This is to be done by analyzing its business processes.
+
+
+
+	Main terms.
+
+	Process — a set of interrelated or interacting activities which transform inputs into outputs (ISO 9000).
+
+	Business process — a collection of interrelated activities or tasks, aimed at creating a product or service for consumers. For clarity, the business processes are visualized by block diagrams.
+
+	Model – a set of graphical symbols, their properties, attributes, and relationships between them.
+
+	Subsystem – a system, which could be identified by common features or by using classification. Such systems can be decomposed into smaller elements by a certain characteristic.	System – a collection of objects related to each other or having any relation generalizing attributes.
+
+	Value-added chain diagram (VAD) describes the processes of the organizations, the results of which are valuable to consumers and have a direct impact on the quality of its operation.
+
+	Extended event driven process chain (eEPC) describes the sequence of functional steps (actions) in a single business process. This scheme is used to describe scenario processes and procedures.
+
+	Actuality
+
+	Proper operation of an organization demands developing and modeling the initial business processes. They allow communicating to employees the required information. This applies for all areas of the company and any of its systems. This initial training is very important, as the enterprise is unlikely to function without it.
+
+	Fundamental aspect of success is efficiency. Inefficient business processes create communication barriers, delays in production, excessive costs or even lead to failure in achieving the main goals.
+
+	These are the benefits of working with competent business processes:
+
+Management of a chain of consumers and customers
+
+Increase in productivity
+
+Integration and business process automation
+
+Cost reduction
+
+New business opportunities
+
+	It is clear that these advantages are the essential qualities of leading companies in the industry. Therefore, they are relevant to all companies.
+
+	Nowadays, the market of insurance has positive trends and is developing promptly. This means that companies increasingly face the need to analyze and model their business processes. 
+
+	As for now, Western standards have not yet been introduced in Russia, which also suggests that the analysis of business processes in this area is of high demand.
+
+	The company, which has been chosen to analyze, has no experience in such an approach. Its work is built on printed regulations and orders. At baseline, there was no visual or graphical representation of business processes of the insurance company.
+
+	Printed documents are only one of the first steps in allocating business processes. They need to be carefully analyzed in order to understand the company's mission and main activities.
+
+	About the company
+
+Insurance company «Master-Garant» operates on the Russian insurance market since 2001. It has an extensive network in various cities of the country and is in continuous development. The authorized capital of the company is over 632 million rubles. 
+
+«Master-Garant» offers a wide range of services to its customers and is the universal insurer for all types of property, liability and personal insurance of individuals. The company is engaged in both property and personal insurance and offers its services to individuals and legal entities.
+
+Regular clients of the company are more than thirty major Russian and foreign companies, enterprises and firms that carry out different activities and have as different forms of ownership.
+
+The company adheres to several development strategies, such as:
+
+The strategy of price discounts
+
+A wide branch network
+
+Brand promotion strategy
+
+The strategy of partnerships and participation in major campaigns
+
+Corporate opportunities and financial stability «Master-Garant» allows it to fully participate in insurance of Russian and international projects, providing protection against major risks.
+
+High quality of insurance protection of «Master-Garant» is ensured not only by their own capital and years of experience, but by a well-planned system of reinsurance, designed by a careful selection of special programs. In daily operations, the company cooperates with insurance and reinsurance companies, including the ones which have leading positions on the Russian insurance market.
+
+The competitive advantages the company are: high quality of insurance and related services, reliability and cost of reinsurance coverage, significant financial resources to ensure the solvency and stability, as well as the professionalism of the staff. 
+
+	Company activities
+
+Insurance company «Master-Garant» has a wide range of insurance services for different types of property, civil and professional liability and personal insurance of citizens. A wide range of services implies the presence of a no less variety of business processes.
+
+The main activities of the company are:
+
+Personal Accident Insurance
+
+Health insurance
+
+Insurance of all means of transport
+
+Cargo insurance
+
+Corporate and individual property insurance
+
+Owner liability insurance for air, water, rail and road transport
+
+Liability insurance of organizations which operate hazardous objects
+
+Liability insurance for damage due to a lack of goods and services
+
+Liability insurance for damage to third parties
+
+Insurance of financial and business risks, as well as many other types of insurance.
+
+	In addition to these services, there is a variety of departments and offices to analyze. They are mainly engaged in the auxiliary and control processes. This creates a need to model all the activities of «Master-Garant». At the end of 2012, the number of staff of the insurance company was 272. Compared to industry leaders, the numbers are not so impressive. However, the organization demonstrates a steady growth over the last nine months; the company's turnover has doubled during the last year.
+
+	During the analysis of business processes, organizational structure will also be of interest. The central office of «Master-Garant» has a hierarchy of various departments. The simplified structure represents the following:
+
+Department of Insurance and Reinsurance
+
+Department of Corporate Customers
+
+Department of underwriting, auto insurance and claims settlement
+
+Department of Accounting and Reporting
+
+Department of Cooperation with partners and financial institutions
+
+Department of Cooperation with government agencies and municipalities
+
+Other departments and divisions (support)
+
+	Departments are divided into operating units and units - into sections. These branches will be graphically represented by the organizational structure of the company.
+
+
+
+	The process approach
+
+	The main objective is to find ways to improve the insurance company. In order to achieve the task, it is necessary to understand how the processes function and interact in business. At this stage, it should be determined what an organization is and what is it mission or goal. Process analysis typically includes the following tasks:
+
+Identifying key processes, which include the points of input and output streams
+
+Constructing a chart describing data flow (DFD), which illustrates the activities of processes and their interactions
+
+Determining the importance of each step in the process
+
+Recognizing the bottlenecks in the process
+
+Evaluating the effects of a bottleneck on the overall system
+
+Using the analysis to implement effective solutions to improve the process.
+
+	The first step of this approach is to collect the necessary information about our organization. It is important to highlight the main objectives to be achieved. Then, the top level of processes can be modeled.
+
+	Process models are built on the methodology of ARIS. Graphical version of describing business processes is to be used. Other ways of description, such as tabular and textual methods, will also be implemented.
+
+	First, the top level processes are built by using the value-added chain diagram (VAD). Second, these processes are decomposed into a group of processes and their scenarios. Scenario process will be presented as a process selection diagram (PSD).
+
+	The procedures require modeling the event-process chains (eEPC). Detailed charts will in detail describe the workflow of business processes. Such schemes consist of the following elements:
+
+Event - captured state of parameters at some point
+
+Function - action performed at a certain point
+
+Organizational unit - office or department
+
+An object of information, material, or resource
+
+Logical connector – an element of control in the diagram that is responsible for the branch
+
+Logic of the relationship - the element which is responsible for the communication flow
+
+Control Flow - lines that create a logical sequence or interdependence
+
+Path of the process - the elements that show the relationship with other processes.
+
+	Any function from the procedure can be decomposed and present a function allocation diagram (FAD).
+
+	As a result, the analysis of business processes will show the possible ways to improve the performance of «Master-Garant» and to reduce its expenses.
+
+
+
+	Conclusion
+
+	The outcome of this study is to determine ways to improve the company. We have built the appropriate models and analyzed business processes of the chosen organization. It is highly recommended for any enterprise to get such an analysis, as it is useful and effective. With increasing competition on the insurance market of Russia, such techniques will be very useful for the developing companies.
+
+	It is clear that without the analysis of business processes it would be impossible to manage such a complicated business as insurance. The proposed study is highly relevant and is designed to help companies in the implementation of their mission and goals.

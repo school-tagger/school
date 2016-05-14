@@ -1,0 +1,355 @@
+National Research University
+
+Higher School of Economics
+
+
+
+Faculty of Business Informatics
+
+Department of Business Analytics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DRAFT
+
+of the paper
+
+«Project Management of Bank Development»
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Student Elen Akopyan
+
+Group 471(1).
+
+Argument Consultant Bogdanova Tatyana K.
+
+Language Consultant Klepko Evgenia Y.
+
+
+
+
+
+
+
+
+
+Moscow 2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+This project considers the peculiarities of the banking activities, organizational structure and main business processes inherent in banking sector, analyzes the main theoretical aspects and peculiarities of project management, their application in the bank development.
+
+This work consists of 14 pages. It also includes 4 figures. The reference list includes 10 titles.
+
+
+
+Keywords
+
+Project, project management, life cycle, methodology, development project, bank, maturity of the bank.
+
+
+
+
+
+Introduction
+
+The modern world practice possesses comprehensive set of methodologies and approaches to project management. Competition in all sectors of the economy has reached a degree, when use of project management technologies is essential for prosperity and survival of almost every business enterprise. High-tech financial institutions pay close attention to the development of various areas such as introduction of information technologies. Banks are constantly developing large projects on introduction of new products and tools, so the issues of effective project management are extremely important. Taking into consideration the current reality and tough competition, banking institutions are concerned with different options of development and improvement, which results in a large number of projects that require proper management and control.
+
+The object of research and examination in this work is a bank. A bank is one of the major financial institutions in modern economy. Bank's activity is twofold – these are not only business enterprises, but also important social institutions. These two aspects of activity of commercial banks are interrelated and constantly present in the spotlight of the government and the community. Projects are important for different types of banks, because they allow to significantly improve the performance of the banks, increase their profits, reduce costs, optimize business processes (especially in high-tech projects).
+
+The subject of research in this work is the management of bank development projects. Recently, the project became a tool for development and improvement on all levels of activity and in all business sectors. Project management can be defined as the branch of management, which attracts attention of more and more companies, which implement the principles of project management into the activity of both separate subunits and the organization as a whole. Effective project management enables the company to properly plan and successfully implement projects, optimizing the spending of time, money and human resources without deviating from the planned quality of end product of the project. The use of principles and methods of project management allows the company to achieve new competitive advantages in the business and improve its performance results.
+
+The purpose of this study is to analyze the peculiarities of management of bank development projects and identify the criteria of their successfulness. This area is of great interest for the research due to some of its features. Project management in the banking sector in each country may have different more or less unique features. These features include the sources of borrowed funds, extraordinary mobility and changeability of parameters of functioning of financial markets.
+
+The objectives of this graduation thesis are:
+
+• Identification of the features of the banking sector;
+
+• Analysis of theoretical aspects of project management;
+
+• Definition of management of bank development projects;
+
+• Identification of differences between the management of standard projects and development projects;
+
+• Identification of specific criteria and peculiarities of management of development projects.
+
+The project structure includes an abstract, three chapters, a conclusion and a reference list. The first chapter considers the concept of a bank, its main activity and analyzes the peculiarities of this area of business activity and the problems inherent in it. The second chapter is devoted to project management and methodologies, necessary for successful control and development. The same chapter considers various difficulties and problems faced by managers during the process of project management. The third chapter is devoted to the projects of bank development. It introduces the basic definitions of management of development projects, provides the methodology of management of development projects, and lists a number of peculiarities of implementation of a development project.
+
+
+
+Chapter 1. A bank. Nature of activity, main business-processes and organizational structure
+
+First banks appeared in the Ancient East in the VIII century BC, when the welfare of people allowed them to save their capital while maintaining an acceptable level of current consumption. A bank is a credit institution that has an exclusive right to perform the following operations: Engage the cash means of individuals in deposits; place these means on its behalf and its own expense on terms of repayment, serviceability, urgency; open and maintain bank accounts of individuals and legal entities. The banking system of the Russian Federation has two levels [6]
+
+• Level 1 – The Central Bank of the Russian Federation;
+
+• Level 2 – credit institutions and their branches, various foreign banks and supporting organizations working directly in the field of banking services.
+
+Firms, banks, corporations, separate individuals (both permanent residents and foreigners) may become the founders of a bank. Currently, the activity of banking institutions includes not only the organization of money flow and credit relations, but also purchase and sale of securities, conduct of insurance operations, intermediary transactions, property management, financing of governmental programs, etc.
+
+The main purpose of the bank is the intermediation in the movement of the cash means from lenders to borrowers. The bank provides transformation of internal savings into investments, generates cash accumulation and transformation of resources, regulates money flow. In order to develop successfully, the bank is engaged in attraction and accumulation of temporarily free cash means. Cash means concentrated in the bank bring their owners a certain interest income on the one hand, and act as resources for loan operations on the other hand. With the help of financial institutions, the temporarily free cash means become loan capital, which is used by banks for lending. [7]
+
+Let us describe the process of the upper level of banking sector: Development processes, management processes, main processes, additional processes. Obviously, the creation of such model is often a subjective definition, but this study made an attempt to reflect them as fully and plausible as possible. Value-added chain diagram of the ARIS notation was chosen for the model. A value-added chain object types were chosen to determine the processes themselves, and the type of connection is the “is predecessor of”. These processes are given on Figure 1.
+
+
+
+
+
+Figure 1. The processes of the upper level of the banking sector
+
+
+
+Let us describe the organizational structure of the bank for better representation. Of course, depending on the type of bank (private, government, investment, etc.), the structure may have a different shape, but we will try to create some common structure that reflects the entire system of governance in this sector (Figure 2).
+
+
+
+
+
+
+
+
+
+
+
+Figure 2. The organizational structure
+
+The “Position” type was chosen for identification of positions, and the “Organizational Unit” type – for the departments they manage. Relations between supervisors and subordinates, between managers and their departments are of “is organization manager of” type, with the “is composed of” type between departments and subdivisions.
+
+Thus, the following characteristics may be singled out for the banking sector:
+
+Presence of a large number of highly interconnected automated business processes;
+
+Significant number of internal and external data flows;
+
+Extensive document flow;
+
+Provision of financial transactions, monitoring of activity and creation of real time reports;
+
+Ensuring the transparency of activities.
+
+These features of the banks should be taken into consideration while developing recommendations for the choice of integration solution in the banking sector.
+
+
+
+Chapter 2. Definitions of the project and project management. The project life cycle
+
+Despite the fact that the projects in various subject areas can widely vary in content, the principles and methods of project management are about the same. One of the basic terms is the definition of "project". C. F. Gray and E. W. Larson give the following definition of the project in their book "Project Management": "A project is a complex, nonrecurring, one-time effort limited by time, budget, resources, and performance specs designed to meet customers’ needs." The main characteristics of the project are:
+
+1. Presence of a stated goal;
+
+2. Certain duration of execution, with start and end points;
+
+3. Presence of various departments and specialists involved in the project;
+
+4. Uniqueness of the project;
+
+5. Presence of strict requirements for time, cost and quality of work.
+
+The uniqueness of the project can be illustrated with a life cycle. Life cycle means that projects have limited time of existence and that there are predictable changes in the level of efforts and attention to the life of the project. Life cycle of the project, as a rule, sequentially passes the following stages: initiation, planning, execution, monitoring, management and completion. Briefly, the life cycle of the project is presented on Figure 3.
+
+
+
+Figure 3. Typical Cost and Staffing Levels across the Project Life Cycle (PMBOK, 2009)
+
+In the modern world, project management is not exclusively used in some specific cases. On the contrary, it more often and faster becomes a standard way of conducting business. An increasing part of work in ordinary companies is performed as projects. Thus, according to the manual to Project Management Body of Knowledge (PMI PMBOK, 2009), the following main concept and definition may be used:
+
+Project management is the application of knowledge, skills, tools and methods to the works of the project in order to meet project requirements.
+
+Project management usually includes:
+
+• Identification of requirements;
+
+• Compliance with different needs, problem solving and compliance with expectations of various stakeholders of the project during the planning and execution of the project;
+
+• Balancing of competing project limitations (such restrictions may be: Content, quality, schedule, budget, resources and risks).
+
+
+
+Chapter 3. Management of development projects in a bank
+
+Different types of development projects can be distinguished in the banking sector, such as: Strategic management projects, business-processes management projects, projects on staff and organizational structure management, projects on quality management and projects on implementation and improvement of bank's information systems. Variations of mergers and takeovers are quite interesting types of bank development projects.
+
+In this work we will cover the management of development projects in the bank. In order to do this, some basic definitions should be introduced:
+
+Project Management Office is a subdivision of the bank that performs centralized project management.
+
+Project Manager is a bank employee who is responsible for achieving the results of the project and has all the necessary powers and resources.
+
+Project group (work group) is a group of bank employees whose competence and activity are necessary to deal with project tasks; it reports directly to the project manager.
+
+Development Committee is a work group, consisting of senior executives of the bank, which is responsible for creation of proposals on project launch, their assessment, support and control of implementation of development projects.
+
+Project Management System is a set of interrelated organizational, methodological, technical, information, and other tools designed for project management and improvement of projects’ performance.
+
+In this research we assume that the project is a development project, if it is aimed at improvement of bank's activity with the use of modern methods of management and control. Projects of bank development require a large amount of human and financial resources. Innovative projects may also relate to the category of bank development projects. In general, the typical life cycle of development project is similar to the life cycle of any project. Characteristic features can be:
+
+• Lack of clear boundaries of phases and stages;
+
+• Large number of solutions;
+
+• Large number of possible points of return;
+
+• Difficulties with identification of beginning and end of the project, as well as its duration.
+
+Method of project management for the banking sector, which is given in Figure 4, was developed on the basis of the analysis of PMBOK Manual in the ARIS methodology.
+
+
+
+Figure 4. Project management methodology (eEPC diagram, ARIS)
+
+The method of project management for the banking sector consists of the following stages.
+
+	1. Beginning of the project.
+
+Formation of the idea of ​​the project takes place at this stage. In cases of development projects this initiative may be proposed by the company’s employees or by another company or government.
+
+	2. Planning the project
+
+This phase is quite laborious and requires special attention. The choice of the methodology for the project defines the project plan, the volume of attracted human and financial resources, and the result of the project. Also it is necessary to pay attention to the market in whole. It is quite possible that other banks or institutions have already implemented the project which is planned to be launched in this particular bank. At this stage the overall project plan is developed, which is a list of all project phases (or a hierarchical structure of works) and their interrelations. One of the main resources of the project are the employees of the bank and their time. The project should be implemented in the format of the working groups, that will allow to effectively coordinate the work of many specialists from different departments of the bank. In addition to human resources, the projects require financial, technical, material and other resources. A list of attracted resources and their costs is fixed in the project budget. Also at this stage it is important to forecast the risks of the project and to take measures to help avoid them in future.
+
+	3. Execution and control of the project
+
+The working groups implement the steps that have been specified in the project plan, using allocated resources and budget, and in accordance with the chosen methods. The implementation of a project is a very labor intensive process. Often, on this stage there can arise problems that are able to jeopardize the result of the whole project.
+
+Closing the project
+
+Closing of the project is the last stage. At this stage, the data is formalized, the final report on the project is prepared, and the archiving of the project materials and the official closing procedures are launched.
+
+Based on the given above analysis of development projects, here is a short description of management of the bank development project. On January 23, 2012, Sberbank of Russia and Troika Dialog have announced the closing of the acquisition of 100% of the share capital of Troika Dialog by Sberbank. As part of the integration, Sberbank and Troika Dialog have created a corporate-investment unit – Sberbank CIB, so that by combining their resources, professional teams and expertise, to offer their clients a unique service in the area of corporate lending and investment banking services. Thus, a merger project was proposed to Troika Dialog as a development project in this case. This project is already completed and is successful.
+
+The main factors that affect the successfulness of this completed development project:
+
+The use of common generally accepted standards, methods and techniques of project management;
+
+The use the of project realization techniques, successful in this area of economy;
+
+The use of professional project management software, which allows to automate all of the processes of project management, thereby increasing the effectiveness of this activity;
+
+A thorough and comprehensive assessment of maturity of the bank for the implementation of the project;
+
+The official status of the project, strict requirements for timing and interim results of the project;
+
+Risk management. It is necessary to identify the risks and develop a list of preventive and corrective measures before the project is started.
+
+The maturity of the bank and the level of its development are extremely important in this kind of projects. Thus, the scheme of the project organization is changing fundamentally taking into account the maturity of the bank. Previously, consultants (or new in-house staff) came to the bank and, after a diagnosis of the relevant sector, began their work according to a prepared plan and using classical techniques. Now, already knowing the materials and the conclusions presented above, it is first necessary to carefully determine the level of maturity of the bank for the realization of the project. Only after a thorough analysis of the data, a decision is made, whether to start a project or not.
+
+The expected results
+
+In the final qualifying work it is planned to carry out a more profound and more detailed analysis of the given problem, the theory and methodology of project management, the development of new criteria and identification of peculiarities of management of the bank development projects. In the work it is planned to consider a number of concrete successful and "failed" development projects in the banking sector.
+
+In the practical part of the final qualification work it is planned to consider the project of development of a real bank, drafting a basic plan, monitoring of the project during its implementation and adjustment of the project in case of deviations from the baseline plan.
+
+Conclusion
+
+Project management is an integral part of management of a commercial bank and its operation in general. The larger and more important is the project, the more professional approaches, technologies and tools are required for it.
+
+Thus, in this work it was shown that:
+
+The modern standards and technologies of project management alone are not sufficient for the successful implementation of projects;
+
+Success of a development project in a bank depends on many factors. The most important of them are: The interest and involvement of senior management and staff of the bank, its maturity for the implementation of the project and use of the results in practice, the Bank's commitment to the creation of working groups, solving organizational issues and allocation of resources for this activities;
+
+It is necessary to consider the uniqueness and specificity of development projects, the lack of regulations and standards for the management of development projects (procedures, documents and tools).
+
+
+
+Sources
+
+1. C. F. Gray, E. W. Larson. Project Management: A Practical Guide, p. 20 – 150, 2003.
+
+2. Project Management Institute. PMI PMBOK (4th Edition) / Guide to the Body of Knowledge Project Management (Fourth Edition), Project Management Institute, Inc., 2009.
+
+3. V. V. Bogdanov. Project Management in Microsoft Project 2007. Training course (+ CD), St. Petersburg, Peter, 2008.
+
+4. B. Kupershtein. Project Management in Microsoft Project 2010. BHV-Petersburg, 2011.
+
+5. V. V. Bogdanov. Project Management. Corporate System - Step by Step / M. Mann, Ivanov and Ferber, 2012.
+
+6. "The introduction of an integration platform in the bank: is it time?" Analytical Banking Magazine, № 2, 2007.
+
+<http://neoflex.ru/presscentr/publikacii/vnedrenie_integracionnoj_platformy/>
+
+7. Functions of a commercial bank. Information portal, 2012.
+
+<http://www.banki.ru/wikibank/funktsii_banka/>
+
+8. M. Kamennova. Modeling business. The methodology of ARIS, 2001.
+
+9. R. Isaev. "Quality management in the banking sector." Magazine "Managing credit institution», № 2, 2010.
+
+<http://www.e-xecutive.ru/community/articles/1412717/>
+
+10. V. N. Funtov. "The development of the company and development projects”. Magazine "Economy and Management», № 71, 2010.
+
+<http://ecsocman.hse.ru/data/2011/03/21/1268219988/23.pdf>

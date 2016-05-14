@@ -1,0 +1,283 @@
+National Research University Higher School of Economics
+
+Faculty of Business Informatics
+
+Department of Corporate Information Systems
+
+
+
+
+
+
+
+DRAFT
+
+of the paper
+
+«Design of Information System for Tenant Management»
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Moscow
+
+2013
+
+Abstract
+
+The global market is customer-oriented for several decades. Most businesses accept the necessity to be focused on customer needs satisfaction. The last few years trend in Russian market showed the same CRM concept of companies’ sales and marketing strategies. Taking into consideration the increasing volume of transaction with customer and increasing competition in all markets, most companies realize the necessity of using it-solutions to support Customer Relationship processes .
+
+This paper discloses the attempt to design an universal solution for a company in a rapidly growing market of leasing trade premises in shopping centers. The main goal of the work is to conduct analysis of typical company analysis, describe business processes and the structure of counteragents. On the base of this research th database model will be developed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Main terms
+
+CRM (Customer Relationship Management) is company’s activities and strategy focused on improvement of relationships with counteragents such as clients, vendors and etc.
+
+CRM system is a software tool designed to support Customer Relationship Management.
+
+Brand  is a trademark developed or operated by a company which has legal rights to use it.
+
+Legal Name is a legal entity which a company operates in particular region and for particular business activities.
+
+
+
+
+
+
+Introduction
+
+One of key activities of any modern company in the competitive market – management of relationship with clients or CRM (Customer Relationship Management). According to the founder of this concept A.Payne [1], management of relationship with the client is the sphere of activity of the organization directed on attraction and deduction of favorable clients by means of establishment and improvement of relationship with them.
+
+
+
+The main objective of CRM approach is the creation, development, improvement and management of relationship with stakeholders, increase in client’s benefit and corporate profit. And the increase in corporate profit provides maximizing profit of the investor.
+
+In order to provide an effective implementation of CRM concept a company should implement a relevant software solution called Customer Relationship Management System. The key objectives of such systems are maintaining a database, storing information on all communications with counteragents, support of control and analysis of all information on clients and history of relationship with them.
+
+
+
+According to the latest market tendencies, the total amount of shopping malls in Russia steadily increases each year. The companies which are processing shopping malls usually have rather complex process of leasing premises. Also, due to the increase in market competition, such companies always have to minimize costs and increase revenue. The key objective of the owners of shopping malls is to lease a premise to a proper tenant. For that purpose they need data on all tenants with which they had ever interacted. Basing on this data and markets research they may conduct proper analysis and develop optimum strategy of leasing.
+
+The Customer Relationship system suites these purposes well. That is why most shopping mall owners implement various CRM systems. In this paper there would be described the typical company which leases premises in shopping centers, its business processes and structure of counteragents. Basing on this data the database model will be developed.   
+
+
+
+
+General information on the Company
+
+The description of the typical company which leases premises in shopping centers will be based on the analysis of IKEA Company.  In addition to businesses in furniture manufacturing, IKEA possesses MEGA shopping malls in Russia. The total trade area of 14 MEGA malls in different cities makes IKEA the largest player in this market.
+
+In order to provide effective management and sales of trade premises IKEA needed to automate Leasing department. The key objectives of system implementation were record-keeping of all tenants and interaction with them, storing the list of shops in shopping centers, provision of a tool for tenants selection and strategy development. 
+
+
+
+Organization Structure
+
+As the main purpose of customer relationship system implementation is automation of Leasing department it is necessary to learn detailed information of its structure. Leasing department consists of five business units which are subordinate to the Head of Leasing Department. Lease Managers and Lease Specialists business units are in charge of selling premises in shopping centers. Lease Coordinators develop top level leasing strategy. Tenant Managers provide control of tenant’s activity and support to him during the term of Lease Agreement. Lease Administrators are in charge of document workflow.
+
+
+
+Picture 1. Leasing Department Organization Structure
+
+
+
+Leasing Counteragents
+
+Within the framework of Leasing department activities, IKEA interacts with companies who are willing to lease a premise in shopping centers. Such companies are called tenants. Each tenant operates a brand or several brands. There are different types of brand operating. A company may be a Brand owner that means it originally developed a brand and has legal rights to use it. Also, a tenant may operate a brand on the right of franchise. Depending on the type of franchise a company may be master franchiser, franchiser or sub franchiser.  Finally, a tenant may be a licensed partner which means it operates a brand due to the license.
+
+The Brand may be operated by different tenants simultaneously. For example, the brand “Nike” belongs to the company Nike International. However, there is no branch of Nike International in Russia. In our country the brand is operated by the master franchiser company A3 and the franchiser ReStore. 
+
+When we are speaking about Russian form of market there is a significant distinction from international markets. International companies usually are presented by one Legal name. Only big corporations use several Legal Names depending on regional factor or business area. Nevertheless, in Russia even small companies are presented by several Legal Names. 
+
+
+
+Business Process
+
+Top level business processes:
+
+One of key tools for studying company’s activity and purposes of the information system implementation is modeling of business processes of the organization. 
+
+When we are speaking about the company which is leasing trade premises in shopping centers we may reveal several top level business processes. First of all, the strategy of leasing is developed. Usually it is developed for one year and the strategy is based on analytics of market and previous sales.  Then Lease planning starts. This process includes both analyzing the tenants’ requests and gathering ‘whishes’ of which brands the company would like to see in its shopping centers. Sale process is organized basing on the Lease plan. Sales of premises are carried out by Lease managers and Lease Specialists who seek tenants, prepare commercial offers and lease agreements. When Lease Agreement is signed from both sides the premise is supposed to be sold and the fit-out process is initiated. Fit out includes deposit payment check, a project of shop design and fit-out of the shop. When fit out process is accomplished and the shop starts to operate Tenant management process is initiated.This top level business process includes processing tenant’s requests and claims, tenant’s violations record-keeping and invoicing, controlling actual premise area, conduction of scheduled meetings with key tenants. When Lease Agreement is expired each tenant has an option either to prolong Lease Agreement or not. The process of prolongation does not differ from sale process. 
+
+
+
+Picture 2. Top level business processes diagram
+
+
+
+Sale Process description
+
+Sale process (also called Leasing a premise) is one of the main business processes which actually generate revenue of the company. That is why it is very important to analyze it. Business process of leasing a premise consists of the following procedures: 
+
+Seeking potential tenants; 
+
+Preparation of Commercial Offer and its confirmation;
+
+Lease Agreement preparation and confirmation
+
+Seeking potential tenants
+
+There are two ways for a Lease Manager to seek potential tenants:
+
+Lease Managers could initiate a proactive for a tenant and initiate first contact;
+
+A tenant requests a premise via a Lease Manager.
+
+All communications with potential tenants should be stored in the system, this includes calls, collected business cards and negotiation protocols of personal meetings. Standard CRM functionality would be used for this purpose.
+
+
+
+New Tenants are filled in Maconomy by Lease Specialists.
+
+Preparation of Commercial Offer and its confirmation
+
+Commercial Offer is prepared relying on information ofavailable premises (Status Report document), premise areas and tenant categories, which is provided by Lease Coordination group.
+
+If any changes in the premise should be performed, Lease Manager has to coordinate them with Lease Coordination group.
+
+During Commercial Offer confirmation, a Tenant may communicate with Tenant Coordinators in MEGA and examine the premise. Tenant Coordinators in MEGA should receive from Lease Coordinator full information about the tenant who is coming to examine the premise and information on the premise.
+
+Also, in the process negotiating a Commercial Offer with a tenant, there is a necessity to verify technical conditions of the premise in order to avoid leasing an inappropriate premise. The Lease Coordinator should send a request to a Tenant Coordinator in MEGA, in order to verify technical conditions of the premise according to the tenant requirements. In turn, the Tenant Coordinator in MEGA transfers the request to the Shopping Center Operations Department and provides the results to the Lease Coordinator.
+
+When all commercial conditions have passed internal confirmation Commercial Offer is send to a tenant for the approval. The system should provide Lease Manager a reminder for follow-up actions regarding Commercial Offer. 
+
+The tenant may response with a counter-offer. In that case crucial points should be reflected in the system and a new offer would be prepared.
+
+Lease Agreement preparation and confirmation
+
+When the tenant agrees on proposed commercial conditions, the Lease Agreement is to be prepared. The details of Commercial Offer are provided to the Lease Specialist. He fills in commercial conditions in a form of BTS in Maconomy, prepares Lease Agreement and sends it to the tenant.  The system should also provide Lease Specialists a reminder for follow-up actions regarding Lease Agreement.
+
+When a signed Lease Agreement is received from a tenant, Lease Manager signs it and then Lease Administration group verifies it in order to avoid mistakes.
+
+Sale Process’s Diagram
+
+
+
+
+Picture 3. Sales process diagram
+
+
+
+Database Model
+
+Considering the structure of leasing counteragents and key business processes the design of database was developed. 
+
+
+
+Picture 4. Database model
+
+Legal Name
+Legal Name contains information on the legal entity which can be used in financial operations or for official mail. Legal Name includes attributes to store various legal information such as Legal Addresses, Current and Correspondent accounts, Bank details. Legal Name is created and filled with the corresponding Lease Specialist or Lease Manager. This legal data is required for preparation of Lease Agreements.
+
+Brand
+Brand contains information on a brand with which the client operates. It is created and filled with the corresponding Lease Specialist or Lease Manager. Such data as brand description, brand concept and brand categories is stored in this object.
+
+Company
+Company unites some brands (Brand) and legal entities (Legal Name) that allows building communications and relationship between them. The company is a point of intersection of all available information on the client. Besides the above communications it also contains all contacts, tasks, meetings, protocols and other information. Also there is a possibility to reflect child-parent connection between companies.
+
+Brand Relationship
+This object reflects connection between Company and Brand. The attribute of this object allows us to show the type of connection: either the company is a brand owner, or franchiser, or licensed partner.
+
+Shop Name
+Shop Name is representation of physical shop in the shopping center. Each Shop Name is connected to a particular Company, Brand and Legal Name and Shopping centers. It is necessary to mention that only connection to Company, Brand and Shopping center is static. If a Company changes the Legal Name in Lease Agreement it would be changed in the system. Also, all activities such as phone calls, emails, meetings could be also stored with the connection to this object..
+
+Wish and Waiting List
+Wish and Waiting list contains information as about those brands and the companies which want to get to MEGA malls, and about those brands which IKEA would like to see in MEGA malls. This object is used to provide presale processes. 
+
+Shopping center
+Shopping center reflects MEGA malls.
+
+Contacts
+Contacts are the persons with whom managers interact. Each Company has connected Contacts.
+
+In order to reflect activities, we would add additional objects such as Phone call, Email, Meeting, Task which would be connected to Companies and Shop Names.
+
+
+Conclusion
+
+The tendency of Russian market is the growth of total amount of Shopping centers all over the country. The more shopping centers are, the more lease transactions will be closed. The steady upwards trend in market competition makes companies consider the way to optimize costs and efforts on tenant management. That increases demand on a tool to manage and control leasing deals and relationships with tenants. Customer Relationship System suites these purposes well.
+
+The main purpose of the paper was design of database for tenant Basing on the analysis of largest market player activities, it’s business processes, organization structure and counteragents the universal model of database was developed. The database structure allows correct storing data on all types of counteragents and provides the basis for further analysis.
+
+The development of such universal model of CRM system is an urgent step nowadays. First of all, customer relationship management is an important part of the whole company strategy. Moreover, it is so due to the number of companies who operate shopping centers increase and their high demand on CRM systems. Also, the whole market of CRM systems rapidly grows and in 2012 the growth was estimated at 20%.
+
+
+
+
+
+
+References
+
+Payne A. Handbook of CRM: Achieving Excellence through Customer Management. Grevzov Publisher, 2007.
+
+Grekul V. Denishenko G. Korovkina N. Design of information systems. Lectures.  Text edition. The Internet-University of Information 
+
+CRM systems market , 
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,287 @@
+National Research University Higher School of Economics
+
+Faculty of Business Informatics
+
+Department of Business Analytics 
+
+
+
+
+
+
+
+DRAFT
+
+of the paper
+
+«Development of a Prototype of the System for Automatic Analysis and Decision Making in the Stock Market»
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Moscow
+
+2013
+
+Abstract
+
+The paper describes the key points of the author’s bachelor’s graduation work. Financial markets nowadays play an important role in the global economics and serve as a perspective source of incomes. Over the last two decades, the concept of algorithmic trading has proven to be valuable for market participants. Prospective research is expected to include collection and systematization of information about problems and solutions in the subject area with its subsequent practical application. The main attention will be paid to the study of related to the topic literature and other sources of data. Completion of the work assumes a successful development of a trading robot prototype, which can be used in prospective. The principal result of the research lies in acquiring competence for further activities in the sphere of stock trading.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+Over the past two decades a new conceptual method in the sphere of stock trading has emerged and gained significant popularity due to the rapid development of information and communication technologies. The core of this approach is formed by specialized software, which is generally being named trading robots. Different analytical surveys show that high frequency trading robots carried out a considerable part of deals during 2010 on the American markets, ranging from 60 to 80 percent, while on the Russian derivatives market FORTS their share was estimated to be about 50 percent.
+
+Algorithmic trading provides several important advantages in comparison with traditional methodologies:
+
+speed of work, which provides an opportunity to benefit from instant decision making;
+
+scalability that, on one hand, permits the traders to track hundreds of trading instruments simultaneously and, on the other hand, to expand the functionality of the robot at any time;
+
+precision of calculations, which excludes any mathematical errors, provided that the logic of the algorithm is correct;
+
+adherence to the strategy without any exceptions due to psychological or any other factor;
+
+nonstop operation throughout the whole trade session.
+
+At the same time, the usage of trade robots is limited, due to a number of significant disadvantages:
+
+complexity of development and debugging, as both processes require skills in programming;
+
+vulnerability to coding and logical errors;
+
+impossibility to implement a considerable number of strategies in an algorithm, based, for instance, on fundamental market analysis or intuition;
+
+non universality typical for every robot, as a result of mutability of securities’ dynamics.
+
+All in all, trading robots appear to be a valuable instrument for participants of the market. However, applying of algorithmic trading systems is bound up with the necessity to deal with additional risks, and, consequently, additional control is required in order to scale them down.
+
+Main Theoretical Concepts
+
+Technical Analysis
+
+This method is one of the main approaches for prediction of stock prices’ direction through analyzing their changes in the past. Technical analysis is often opposed to its fundamental counterpart, the core of which lies in studying current economic, political, social and other factors. The first known works in the sphere of technical analysis are dated by the second half of 18th century and belong to Japanese merchants, whose contribution includes, in particular, the invention of candlestick charts, used to describe price changes. Nevertheless, the backbone of the method was formed only in the beginning of the 20th century, after the emerging of the Dow Theory, named after the famous American journalist and the co-founder of financial information and publishing firm Dow Jones & Company. This theory later derived into the three principles of technical analysis.
+
+Firstly, technical analysis presumes that any information, related to the trades, is already included in the current price. As a result, the forecasting process requires only analysis of the price dynamics in the past, and it is unnecessary to track political, economic and other fundamentally significant events.
+
+Secondly, prices’ movements have a directional nature. In other words, the dynamics of a trading instrument can always be described by a number of trends. Generally, three types of trends are pointed out: ascending, descending and side. Thanks to the fact that directed price movement continues during a period of time, trend definition has formed one of the most common strategy groups. 
+
+Finally, researches of historical data show that a number of patterns repeats on the price charts over time. This phenomenon is partially bound with human psychology, which, in fact, remains the same during the centuries. In consequence, chart examination provides an opportunity to predict the mood of market participants and the possible changes of security prices.
+
+Trading System
+
+Stock trading is strongly associated with indetermination, as it is impossible to make a fully reliable forecast on price dynamics. This feature specifies the need for trader’s actions to be systematic. The main advantage of such approach lies in the possibility to increase the chance to obtain profit thanks to a strict control of losses. Furthermore, any adverse effect, which might be caused by unnecessary emotions, will probably be minimized. 
+
+A formalizable set of rules, which exactly describes the moments for opening and closing market positions, is called a trading system. This term is often associated with the technical analysis, due to a significant number of strategies, based on the use of different technical indicators. However, the variety of trading systems is not limited to this type and includes the ones, which rely on tracking news, examining statistics and enterprise reports or, in other words, are based on the fundamental analysis.
+
+Mechanical Trading System
+
+A mechanical trading system (MTS) or a trade robot can be described as a complex of hardware, software and any other components, which implements a strategy of any kind. Given that, any MTS is responsible for data gathering and analysis, as well as for sending trade orders to open or close positions on the market. Besides, several additional functions, such as chart visualization, management and storage of trade statistics or monitoring of trade orders might also be mentioned.
+
+Another type of tool, used on the stock markets, is often referred to as trade advisors. The main difference between them and normal MTS lies in the absence of the module, responsible for sending transactions to the stock exchange. Advisors do gather and monitor trade data, yet the decision making process is performed by a man.
+
+Components of a Mechanical Trading System
+
+As mentioned above, MTS usually consists of several linked parts, and each of them can be implemented in a variety of ways.
+
+The first part manages the process of receiving required data and generally includes special software systems for remote access to the exchange, such as MetaTrader or Quik. This type of software can be accessed through conclusion of contract on a broking service. In some cases, additional utilities can be included in the trading system for implementing its other components. This leads to the necessity to pay attention to local data transmission mechanisms. For instance, DDE or ODBC interfaces can be used.
+
+The second module deals with the analysis of the received data, which has to be performed according to the logic of the trade strategy. Therefore, this logic must be described in a machine language. Consequently, a software platform and a related programming language should be selected before the development of a robot. Moreover, it is imperative to determine the set of applicable technical indicators, conditions for entering and leaving the market, chart timeframe and other details, connected straightly to the strategy.
+
+The last of the main modules of a mechanical trading system is responsible for work with trade orders in case of received commands to open or close positions. Despite that this component is smaller than others, it is still crucially important to ensure its reliability, because any malfunctions during its work may result to be as dangerous, as any errors in the analysis block.
+
+Furthermore, it is possible to extend the basic functionality of a robot by adding secondary program modules. For example, in order to improve the utility of the user interface it is possible to display market data in tables or customized charts. Keeping records of the past deals may be important for estimating efficiency of the robot and finding the optimal values for its parameters. Even more exotic features, for instance, remote control via SMS, may be added to this list.
+
+In fact, even more functions may be added in case of need, as the variety of possible solutions includes far more than the examples mentioned above and is only limited by the imagination of the developer. 
+
+Primary Goals and Methodology of the Research
+
+The aim of the study lies in the study of the subject area and systematization of information related to the topic, as well as in further application of gained knowledge during the development of an operating mechanical trading system. The following research will apparently consist of three major parts. Exact goals of each stage will be specified later, during the process of work itself.
+
+Theoretical part. The goals on this phase include:
+
+defining the software toolset for access to the stock markets for further use;
+
+investigating the basic types of market strategies, which can be fully formalized in an algorithm.
+
+During this stage the main attention will be paid to the exploration of specialized literature and thematic web-sites. In addition to that, investigated area will also include information about the services of some of the major broking companies.
+
+Analytical part. The following goals are planned to be reached at the end of the phase:
+
+a number of the most popular software systems for access to the security markets will be examined and compared, the criteria for comparison will include the convenience of user interface, built-in tools for technical analysis, speed of performance and data transmission;
+
+key features and advantages of several programming languages and libraries will be overviewed;
+
+a more detailed study of market strategies will be carried out, including their logic, strengths and weaknesses and best practices of application.
+
+ Fulfillment of the analytical stage of work is planned to be achieved through the study of previously defined software, its documentation and web-sites, dedicated to programming and implementing technical analysis on the stock markets. The final milestone of the phase is the justified selection of the software, technical instruments and language for the development of a trade robot.
+
+Practical part, which is dedicated to the application of the aggregated earlier knowledge during the process of development a mechanical trading system. Expected sources of information include referential information and thematic web-sites dedicated to the chosen programming language and software complex.
+
+The result and the main goal of the work implies a successful completion of the MTS and its testing on a historical data or a demo account of one of the brokering companies.
+
+Literature and Other Sources of Information
+
+Most of the traditional printed books oriented on the research area tend to have the same disadvantage: they contain only basic information without any direct instructions or advices. The same feature is also specific for most of the websites. The explanation for this treat, however, is simple, as any working strategy is considered to be a commercial secret, critically important for their owners. 
+
+On the whole, three types of information sources will probably be used during the research. The list of the sources will apparently be modified in future.
+
+The first group includes classic textbooks. Due to the mentioned above specificity, this type of sources will be mostly used for obtaining a systematized overview on whole area of algorithmic trading. At the moment of writing the draft, the following books were used as a source of information:
+
+Berzon N. I., Buyanova E. A., Kozhevnikov M. A., Chalenko A. V. (1998). Stock Market. A Handbook for Economic Universities. Vita-Press.
+
+The Reuters Financial Training Series (2001). An Introduction to Technical Analysis. John Wiley & Sons, Inc.
+
+L. Borsellino, P. Crisafulli (2002). The Day Trader’s Course. John Wiley & Sons, Inc.
+
+The second category of sources includes a wide range of specialized websites, which contain material related to the technical analysis and programming languages. Among the representatives of this group, the following can be mentioned:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Finally, some basic information about trading strategies and functionality and architecture of software may also be found on the websites of broking companies.
+
+Structure of the Graduation Work
+
+Taking into consideration the goals and methodology of the research listed above, the project will probably have the following structure:
+
+Introduction
+
+Subject area description
+
+Topicality and novelty
+
+Theoretical part
+
+Software systems overview
+
+Classes of strategies and categories of technical indicators overview
+
+Analytical part
+
+Review and comparison of the software
+
+Examination of the toolkit for MTS development
+
+Review and comparison of certain technical indicators
+
+Practical part
+
+MTS development
+
+MTS testing
+
+Conclusion
+
+Generalization of the work
+
+Recommendations for further activities
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conclusion
+
+In the process of writing the given draft, the key aspects and stages of the final work were formulated. The most significant aim pursued during the forthcoming research lies in the acquisition of the competence sufficient for independent subsequent work in the sphere of algorithmic trading.
+
+Speaking of recommendations for further work, it is important to mention the need for additional specification of goals. The nature of the research implies, however, that this specification can be done only mutually with the study itself, because the set of tasks for most of the stages of work depends upon the previous results. 

@@ -1,0 +1,506 @@
+Национальный исследовательский университет -
+
+Высшая школа экономики
+
+Международный Институт Экономики и Финансов
+
+
+
+
+
+ВЫПУСКНАЯ КВАЛИФИКАЦИОННАЯ РАБОТА
+
+
+
+
+
+на тему: Influence of Investors on the dynamics of Palladium’s Price.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Студент 4 курса 2 группы
+
+ Спрогис Михаил Викторович
+
+ 
+
+
+
+Научный руководитель
+
+ Звание доцент, степень д.э.н. Фридман Алла Александровна
+
+
+
+МОСКВА,  2013 год
+
+
+
+
+
+Abstract
+
+In this paper analysis of the main drivers of price of palladium and how these factors evolved over time will be conducted. In particular the effect that increased investment had on palladium’s price dynamics will be evaluated. The distinctive feature of analysis is the relaxation of assumption of homogeneity of investors. Investors are divided based on the length of investment horizon: short run and long run. The second criterion is their motivation for investing into palladium: attractiveness of current price based on fundamental analysis of this particular market or use of palladium to diversify a broad portfolio of commodities. Distinction between long run and short run investors will enable me to establish a logical and intuitive interconnection between futures and physical markets. The distinction between motives for investment is important because, as will be shown in the paper, investments made based on fundamental analysis do not distort the functioning of the market, while investments made for diversification purposes do. The result is that before 2004 palladium price was driven primarily by fundamental factors. After 2004, however, role of the fundamentals diminished while importance of investment flows has increased. At the same time, palladiums price during this period became more interconnected with that of other commodities. This can lead to divergence of market price from value dictated by its fundamentals.
+
+Аннотация.
+
+В работе рассмотрены основные движущие факторы цены палладия и проанализировано изменение этих факторов с течением времени. В частности, исследованы последствия роста инвестиционного спроса применительно к динамике цен палладия. Отличительной чертой анализа является введение разного типа инвесторов, которые, исходя из длины инвестиционного горизонта, подразделяются на краткосрочных и долгосрочных. Вторая особенность работы заключается в учете мотивации для инвестиций в палладий: привлекательность текущей цены исходя из фундаментального анализа этого конкретного рынка или использования палладия для диверсификации широкого портфеля сырьевых товаров. Различие между долгосрочными и краткосрочными инвесторами позволило  установить логическую взаимосвязь между фьючерсным и физическим рынками. В работе показано, что в то время как инвестиции, сделанные на основе фундаментального анализа, не искажают функционирование рынка, вложения, осуществляемое с целью диверсификации рисков, оказывают дестабилизирующие влияние на цену. Выявлено, что до 2004 года динамика цены объяснялась в основном за счет фундаментальных факторов. После 2004 года, однако, роль фундаментальных факторов уменьшилась, в то время как важность инвестиционных потоков возросла, а цена палладия стала теснее связана с ценами на другие сырьевые товары. Показано, что эта усиленная взаимосвязь может привести к расхождению рыночной цены с ценой, определяемой фундаментальными параметрами рынка.
+
+
+
+Table of Contents
+
+
+
+Abstract. Page 2
+
+
+
+Introduction. Page 4-5
+
+Literature. Page 5-7
+
+Data. Page 7-8
+
+Description of the market. Page 8-10
+
+Heterogeneous Investors and Open Interest. Page 10-14
+
+Fundamental Model. Page 14-18
+
+A more flexible fundamental model. Page 18-24
+
+Finacialization. Page 24-31
+
+Conclusion. Page 30-31
+
+References. Page 32
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+The issue of impact of speculators on commodity markets is one of the most controversial in economic literature. One point of view is that speculators provide producers of commodities possibility for to hedge their price risk and hence help producers improve performance of their businesses. Speculators themselves, however, have no effect on fundamental conditions and commodity price. This point of view was predominant before the commodity price boom of 2000s. Many economists attributed the massive price increase in this period not to change in fundamentals but to a massive increase in commodity speculation. There is no conclusive evidence regarding the role that speculators played in increase of commodities prices during this period as like many economists point out merely observing high speculative activity and massive price increase doesn’t prove causality. Critics such as Paul Krugman point out that if price indeed diverged from the level determined by fundamentals it would have to lead to an increase in inventories. Since inventory levels were not particularly high during 2006-08 period when prices reached their peak he concludes that the current market price in that period reflected fundamental supply and demand. This argument may be valid for oil market< where there is good quality inventory data but it is very difficult to test it in regards to other commodities due to presence of large non transparent stocks. For example in the case of Copper the majority of stocks are kept in Chinese bonded warehouses that don’t report the amount of metal they hold. Even for Oil the very low elasticity of demand and supply in the short run means that even if price is way above the one dictated by fundamentals it can take a long time for it to affect inventory levels.
+
+The second major problem in the way of proving that speculators caused prices to change is providing a link between speculators and physical markets. Speculators normally take position through futures not through physical material and hence cannot push market into physical deficit or surplus. There is some evidence that in the years that preceded the 2008 commodities price spike there was also increase in physical investment into commodities. For example, many exchange traded funds that had physical commodity holdings were introduced during this period. But overall the amount of physical investment was far less than that in the futures market and was insufficient to cause such big price swings. This problem is much more easily solved in the case of Palladium.  Palladium is interesting because on the one hand it is an industrial metal heavily used in environmental technologies, electronics and chemical industry and on the other hand it is one of the four precious metals. Despite not being as popular as its peers, such as gold, palladium possesses all the attributes of a precious metal: high value, low storing costs and almost no corrosion. This means that like gold, silver and platinum palladium is also used for investment purposes. In fact investors use both derivatives and physical metal. The fact that investors are able to take physical positions enables them to influence the physical market balance. Hence this is a possible solution to the problem of link of the futures and physical markets. 
+
+In this appear I will test whether investment demand for palladium makes the price of palladium diverge from the price dictated by its fundamentals. The analysis will thus proceed as follows. First of all investors will be divided into two groups based on their investment horizon: short term and long term. Then a model with short and long term investor’s will be introduced in which palladiums price will be determined solely by the current market fundamentals. Later on it will be shown that this model fails empirically. Then an alternative model will be introduced in which current price will depend be a function of all future fundamental conditions with declining weights. In this model palladiums price will be driven primarily by investors’ expectations of these fundamentals. Finally investors will be further separated into fundamental investors and index investors, where the former will make investment depending on careful analysis of palladium market and the latter will invest into palladium for the purpose of diversifying their portfolio of commodities. In this model palladiums price will be a much less efficient signal of fundamental conditions of the market. 
+
+
+
+Literature.
+
+My study will predominantly employ two strands of literature.  The first is a set of fundamental models of commodity markets. These can be subdivided into two further categories: those based on Theory of Storage Model developed by Keynes (1930) and those based on Hotelling’s model of optimal exploitation of exhaustible resource (1931). 
+
+Almost all modern Theory of Storage Models use the model developed by Deaton and Laroque (1992). In this model there are two periods and three types of agents: inventory holders, speculators and consumers. Inventory holders are unsure about state of demand and hence price in the next period and hedge by selling material using a futures contract. The buy side is taken by speculators who demand a risk premium for taking on the price risk. The classical explanation is that during periods of low demand there is an increase in stocks and hence an increase in the demand for insurance by the holders of stocks. This means that speculators will demand a higher risk premium to increase their positions in the metal and hence maximum return should be in times of surpluses. Alternative explanation of dependence of price performance on market fundamentals is based on a model developed by Gorton, Hayashi, Rouwenhorts (2008). They find significant dependence between physical market tightness and commodity return. The logic is that if market is in deficit this decreases amount of inventory in the warehouses and hence risk of stock out increases, which makes the price of the commodity in the subsequent period much more volatile. They found empirically significant result of jump in volatility in response to decrease in inventory levels. If investors are risk averse and require a risk premium that is increasing in volatility, then tight market conditions are predictive of future price change.
+
+Models based on Hotteling’s theory in contrast to Theory of Storage aim to solve the problem of maximizing the discounted profit of the owner of the stock of an exhaustible resource. In the classical model the price growth of the commodity must be such that the discounted marginal profit of the producer is the same in each period. This means that marginal profit of the producer of the commodity has to increase at the rate equal to interest rate rate in each period. The model is very restrictive as it assumes constant marginal costs, perfect competition and no uncertainty. Further papers aimed to relax these assumptions. Loury (1986) solved the model for the case of symmetric oligopoly. Dasgupta and Stigliz (1981) introduced uncertainty regarding technological shocks. Kemp (1976) introduced uncertainty regarding the level of reserves left in the ground and Long (1975) introduced expropriation risk for owners of the stock. All of these studies have a have a different result regarding the optimal growth path of the market price. Some of them predict the price to grow faster than the interest rate, while others predict it to grow slower than the interest rate. I will use the Hotelling’s model as a base for my fundamental model, which will then be used to derive dynamic of price that should arise solely due to fundamental conditions. 
+
+Second strand of literature employed in this study is related to testing of influence of investors on commodity prices. These two can be subdivided into two categories. The first group argues that investment flows didn’t cause the price bubble in the 2000’s, while the second group argues the opposite. This debate has given birth to a new term: finacialization. Finacialization of commodities means that commodity prices have become increasingly driven by financial factors which caused commodities and equity markets to become heavily correlated.  A study done by the IMF (2011 ) concludes that financial position taking was not a reasons of the commodity price boom, which was instead caused by increase in demand for commodities by the emerging economies. Other studies such as Coleman and Dark (2012) on the other hand find empirical evidence of influence of investor positions on price. Mayer (2009) in his report for the United Nations also found evidence that positions of some groups of investors Granger Cause prices and that this relationship became stronger during 2006-09. Tang and Xiong (2012) discover that cross sector correlations of commodity prices increased greatly after 2004. Moreover, they provide evidence that correlations among commodities that were included in the popular commodity indexes had a much greater increase in correlations then other commodities. They thereby conclude that financialization indeed happened and that increased investor interest had a considerable impact on price dynamics. I will employ the techniques of these studies to test for influence of investors on dynamics of palladiums price.
+
+
+
+Data
+
+The Data used in this paper comes from multiple sources. All the data of fundamental market parameters comes from analytical department of Johnson Matthey. Johnson Matthey has been publishing analytical papers on Platinum and Palladium (known as Platinum Group Metals: PGMs) markets for the past 20 years. The firm is also a major consumer of PGMs as it is one of the world’s three biggest catalytic convertors manufacturers. It should be noted that most of the world PGM supply is used in catalytic convertors. Finally, Johnson Matthey also acts as a PGM trader and provides output marketing services to PGM producers. All of these factors contribute to Johnson Matthey’s estimates of PGM market fundamentals being one of the most reliable and by far the most popular. Unfortunately, reports are only published annually and linear interpolation had to be  used to get estimates of fundamentals in any particular point in time.
+
+The data of Open Interest (total amount of futures contracts outstanding) and its constituting parts is taken from website of Chicago Futures Trading Commission (CFTC), which is regulatory agency that collects data of futures positions from the Futures Exchanges. CFTC publishes not only the data on the total amount of futures contracts outstanding, but also classifies the holders of the contracts as commercials and non-commercials. Commercials are defined as agents that use the futures market to hedge their exposure to the price risk of a commodity, while non-commercials hold the futures contract most often for speculation. The Open interest data used in this paper corresponds to the New York Mercantile Exchange (NYMEX) data. This is the largest PGM futures exchange after London Platinum and Palladium Market that unfortunately publishes no statistics. Data is available on a weekly bases dating back to 1996. Data set is not perfect with some years containing significantly less data points than others.
+
+The data of dollar prices of Palladium futures with different maturities at NYMEX was obtained from CME group, which is current owner of NYMEX. The data was later used to construct the slope of the futures curve at each particular point in time. The slope of the futures curve was calculated as the percentage difference in the price of the futures contract whose maturity is furthest away and the price of the futures contract with the closest maturity, which was later annualized. Data is available at daily frequency from 1984 and onwards. 
+
+Data of the value of S&P 500 Goldman Sachs Commodity Index was downloaded from Bloomberg. Data is available at daily frequency from 1970 and onwards. 
+
+Interest Rate data was downloaded from Federal Reserve Bank of St. Louise database.
+
+Description of the market
+
+Palladium market is characterized by extremely low elasticity of industry supply and demand in short run. Palladium is used mainly in auto manufacturing in catalytic convertors, which in their turn are used in cars to clean air emissions. It is used only in small quantities in each car ranging from 2 to 4 grams. This means that the value of palladium used in each car ranges from 50 to 100$ in today’s price of 750$ per ounce. When a car company chooses an auto catalyst technology it normally doesn’t change it for several years. This means that even if price were to skyrocket consumption in short run would be little affected. In long run it is possible to reduce quantity of palladium per vehicle by using more efficient technology or substituting it for platinum, which is its twin metal with very similar physical properties. 
+
+On the supply side during the past decade there were three main supply sources. The first was primary supply from mining activity. The second was recycling which became an increasingly important factor towards the end of the 2000s. And the third factor was shipments from Russian government stocks, which were built up during soviet era when the material had little applicable use. The exact amount of these stocks was always a state secret and hence was a considerable source of uncertainty to the market participants.  
+
+The low elasticity of demand and supply in short run meant that there was a need for some agent to accumulate stock during surpluses and sell them during deficits. Since holding stocks is a capital intensive and risky activity neither producers nor consumers could take on this role. This role perfectly suited investors though. This is indeed what happened in the market: market deficits and surpluses were absorbed by changes in the stocks held by investors. This is indicated in Johnson Matthey’s yearly PGM report (2003, 2004). 
+
+It is very often argued that investor interference in the market leads to destabilizing effects. Namely their presence means that price becomes less informative of current market fundamental conditions. However, I would like to show that under a certain type of assumptions regarding long term fundamental investors this is not necessarily so. That is if investors use fundamental analysis as a basis for their investment decision, are long term orientated and are willing to hold the material until market returns to equilibrium, then price can be just as informative. 
+
+In the end of 1999 and beginning of 2000 there was a sharp deficit in the market due to decrease in shipments from Russian stocks together with a jump in demand due to technology that allowed greater substitution of platinum for palladium in petrol cars. 
+
+However, the price of palladium in 2000, when it became more expensive than platinum led made many car producers switch to more platinum intensive technologies. This led a decrease in demand over the next several years. The metal has thus been in surplus starting from 2002 to 2010, when it returned back to deficit. 
+
+Graph 1
+
+
+
+Heterogeneous Investors and Open Interest.
+
+All the previous papers on fundamentals of commodity returns have assumed homogeneous investors. In this paper I relax this assumption and assume that investors can be divided into two groups based on the time horizon used to evaluate their performance. Thus I distinguish between short and long run investors.
+
+Long run investors are high net worth individuals, pension funds and some hedge funds that are evaluated based on a long term performance. These agents do not need to make quarterly reports on their performance and are thus highly tolerant to short run losses and low liquidity. They care only about their performance in the long run and are ready to wait however long it takes for their forecast to realize. They use fundamental analysis to determine the long run price of the metal and invest predominantly into physical metal instead of futures. The reason for this is that long term investment in a commodity through futures market is costly due to necessity of constantly rolling ones position. In order to take a long position in a commodity using futures market one buys a futures contract with maturity of normally ranging from 3 to 6 months. As the contract approaches maturity investor has two options: wait until it matures and take delivery or sell the commodity at the spot thereby cancelling his obligation to accept physical delivery. If he still wants to have long exposure to the commodity without physical ownership he will go on to buy another futures contract with futures maturity. This practice of selling short the low maturity futures and buying long maturity futures is called rolling. However, normally futures curve is upward sloping, with the slope approximately equal to the interest rate. Thus as short maturity futures price is lower than long maturity price rolling becomes one of the major costs of having a long position in a commodity through futures market. In Gorton, Hayashi, Rouwenhorts (2008) prove that long run performance investment in commodities through futures is strongly negatively related on the roll yield. Thus long run investors prefer to buy physical metal. Cost of storage of precious metals is very small and basically amounts to the cost of a bank vault, which due to high cost of the metals is many times less than 1% of the value of the material. 
+
+Short run speculators are primarily hedge funds and trading desks of investment banks. Their investment horizon is between 3-6 months. They are evaluated based on their quarterly performance and thus are much more sensitive to factors such as liquidity and short term market risk. Thus they make their investment based on the relative attractiveness of return to risk for the next period. They primarily use the futures market to make their investments as futures are a more liquid and cheaper way to invest then physical metal if one has a short time horizon. 
+
+Open interest is the amount of current futures and options contracts outstanding. In fact a common way to view futures market, which is also employed in the theory of storage model, is as a market for insurance. Generally futures market participants are separated into two categories: commercials and non-commercials. The former are agents that use futures market to hedge their activities such as production and marketing of the material. They can thus be treated as purchasers of insurance. Non-commercials on the other hand use futures market for speculative purposes and normally take the other side of the contract for commercial market participants. Hence they can be seen as providers of insurance. Open interest can thus be interpreted as total amount of insurance purchased. Now let us now discuss the components of the open interest in more detail.
+
+Commercials are almost always net short. This class includes producers and traders of the commodity that have a long physical exposure to changes in its price and hence sell the material in the futures market to hedge their price risk. This category also includes the consumers of the metal that take long positions in the futures market to secure the price at which they will be able to buy the metal in the next period. But their positions are normally many times smaller than that of producers and traders. There are a number of studies that examine the determinants of hedging demand by producers. The classical argument is that use of hedging is only useful if a company has substantial default risk as commodity prices on average increase hedging on average leads to a decrease in profits. Thus the only incentive for the commodity producer to hedge is to reduce the possibility of the default. Hence numerous studies have found relationship between default risk and the hedging demand by producers. For Example, Acharya, Lochstoer and Ramadorai (2007) in their study provide evidence that hedging demand by producers depends on the companies default probability, which they calculate based on companies balance sheet ratios. But during the considered time interval 1999-2012 producers of palladium had virtually no default risk expect for 2012. Moreover, there producers normally use over the counter derivatives to hedge their risk and very seldom employ exchange listed futures. In fact the primary commercial users of the exchange listed futures are trading companies that sell the commodity on the behalf of the producer. Trading companies have a large share of the market. For Example Anglo American Platinum, which is the world’s second biggest producer of palladium, sells its material exclusively through trader Johnson Matthey. Traders normally buy the material from the producer at the average price for the past month in 12 bundles each year and then gradually sell this material at the market. The price at which they buy from the producer constitutes the costs of the trader. Their hedging demand hence depends on the difference of the current market price and the price at which they bought the material. The price of purchase will be modeled by an 8 week moving average of price. This can be explained by the following logic: suppose that a trader bought material from producer at average price for the past 4 weeks and plans to sell this product within one month. In the beginning of the month the cost of trader will be the average of prices 1, 2, 3 and 4 weeks ago. Then at the end of this month his cost will be based on the average price of the previous month, which is an average of prices that were on the market 5, 6, 7 and 8 weeks ago. Thus on average the difference between current price and 8 week moving average will constitute the profit of the trader. The bigger is his profit the more he would be willing to hedge it. 
+
+Noncommercial agents are those that use the futures markets for speculation. These are hedge funds and other investors that are betting on price changes. They have a short investment horizon of between 3 and 6 months. On average they are net long. By taking a long position these agents enable the producers to take a short position and thus hedge the price risk of their output. Hence they can be seen as providers of insurance. In the model they will represent the long side of the futures contracts. Their demand will positively depend on their expected futures price. Speculators can be assumed to have rational expectations, as they will try to use all available information to make the most efficient forecast. Their demand will also positively depend on liquidity of the market and negatively on the Value at Risk. The most common proxy for liquidity is in fact open interest itself. 
+
+In order for the market to balance Commercial Short must be equal to Non Commercial Long and equal to open interest, which will be denoted by.
+
+
+
+
+
+-Current price of palladium; - 8 week moving average of price; - Expected palladium price in the next period; - is amount of open interest; -Value at Risk.
+
+Slope is the percentage difference in the price of the nearest and the furthest futures contract on any given day annualized. It constitutes the cost of having a long position in commodity futures and hence it should negatively affect the amount of long positions speculators take at the futures market. 
+
+From here one can see that open interest is a function of expected future price and the average price for the past several periods. It is also a function of risks captured by VAR and liquidity. The presence of open interest itself on the right hand side of the equation as a proxy for liquidity also means that the influence of all the other variables is increased. The logic is very simple: if expected price will increase then there will be speculators willing to take a long position which will drive current price up and increase open interest. This in its turn will improve liquidity of the market drawing even more market participants to enter.
+
+Graph 2
+
+
+
+Fundamental Model
+
+Now let us create a model for long run investors. Unlike short term investors they buy and sell physical metal and hence it is they who absorb market deficits and surpluses. 
+
+In order to model behavior of long term investors let us first model the ideal functioning market without any disturbances and shocks and hence no need for investors. Let us consider Hotelling’s (1931) model for nonrenewable resource. In it there is deterministic demand. There is a fixed stock of commodity underground. The extraction industry of the commodity is assumed to be a symmetric oligopoly. The cost of extracting the commodity positively depends on the amount of commodity already extracted. This happens due decrease in the quality of the oar as the mine goes deeper. Once the rich upper layers have been used up one has to go deeper where oar contains less units of metal per ton and hence more units of oar have to be processed to obtain the same unit of metal. 
+
+The owners of the mine want to maximize their discounted expected profit. In equilibrium the discounted marginal profit from extracting a good in each period must be equal. This implies that the marginal profit has to grow at a rate equal to the discount rate. 
+
+The final formula for the price is:
+
+
+
+ is the marginal cost of extraction,  – interest rate,  – price palladium.
+
+In the classical Hotelling model the price is growing at a pace lower than the interest rate. In fact the higher are marginal costs relative to price the lower is price growth. The decrease in the quality of the oar is proved to have no effect on the price growth of price and will only decrease the rent of the owners of the mine. 
+
+Relaxing the assumption of perfectly competitive market and instead assuming a symmetric oligopoly results in change of formula:
+
+
+
+ - is demand elasticity, which is assumed to be constant, and N –number of producers. 
+
+ In this model price is growing at even lower rate than in Hotellings classical model. The smaller is the number of firms and the elasticity of demand the slower is the growth of price. The logic is very simple: the higher is the monopoly power of each firm the less they will choose to produce in current period and hence output will be shifted from current to future period decreasing the growth rate of price. The model was proposed by Loury (1986). 
+
+An alternative model was proposed by Dasgupta and Stigliz (1981). They assumed that in each period there is risk of a technological shock that will create a substitute for the commodity that can be produced in unlimited quantities at a fixed price, with this price lower than the price then the price that would have been on the market under classical Hotelling model. This risk motivates producers to deplete the commodity faster and hence increases the growth rate of price. Intuitively in order to induce the producer to keep the material in the ground for one more period the expected price increase has to be greater than the interest rate to account for the risk of the technological discovery. 
+
+
+
+ - is the probability of technological shock occurring given that it didn’t occur already and  is the price that will be in the market if this shock indeed occurs. Hence as one can see the higher is the probability of the shock and the lower is the price given that it occurs the greater is the growth of the price.
+
+Another popular amendment of Hotelling’s model is based on a model of uncertain endowment proposed by Kemp (1976).  If underground stocks of the recourse are unknown and that by extracting the resource this uncertainty is reduced. This will lead to more intense resource extraction and higher price growth. A similar effect will be caused by risk of expropriation of the mine from the owners. Long (1975)  proves that introduction of this risk leads to a shift of production from future to current periods and leads to overexploitation. Due to this shift of production from future to present the price growth will increase.
+
+All in all, there are multiple versions of the Hotelling model. In some of which price grows less than the interest rate and in some greater. Hence we can assume that on average price in equilibrium will grow at a rate equal to the interest rate. This is a restrictive assumption and it will later on be relaxed. But for now let us analyze market dynamics if the price growth of the price is exactly equal to the required interest rate.
+
+When market is balanced the price is given by Hotellings model. Let us thus define the price of a balanced market as fundamental price. In reality market is not always balanced. Both demand and supply shocks are possible that will push market into either deficit or surplus. This creates a need for investors that will purchase material during surplus times and sell it during deficits. For example, if market is in surplus physical investors have to come into the market and buy the excess material. This is necessary because both supply and demand are extremely inelastic in short run. When the market is not balanced actual price can deviate from the fundamental in order to induce the investors to buy or sell stock. The Net Present Value of an investment strategy of buying the material when market is not balanced and selling it when the market returns to equilibrium is:
+
+
+
+is current fundamental price in the market: the one that would balance the market had there been no shocks.   is the expected time for the market to return to equilibrium in which price will be equal to its fundamental value.  is hence the expected price when market returns to equilibrium given by Hotteling’s rule. As one can see NPV of the investment decision does not depend on how long it takes for the price to return to equilibrium because the discount rate is the same as the growth rate of the fundamental price. I assume that investors demand for purchase or sale of physical material is a linear function of NPV. This is reflected in equation (2) below. This means that change in current fundamental conditions should explain all the systematic deviations of the price around trend.
+
+(1) 
+
+(2) 
+
+(3)
+
+
+
+Equation (1) defines  as market deficit. 
+
+Equation (2) says that market surplus has to be matched by purchases of material by the investors. These purchases linearly depend on the NPV of the investment decision.  
+
+Equation (3) states that deficits and surpluses tend to wear out over time. It also tells us that market cycles tend move smoothly with deficit first gradually increasing and then gradually falling and vice versa. 
+
+As one can see it follows from this model that market price in each period is a function of fundamental price and current market deficit. Thus price is extremely informative of market fundamentals, which is good.
+
+
+
+Expected price change between periods should be given by:
+
+
+
+This means that return of the commodity is driven by changes in the fundamentals. This contradicts the predictions of Gorton, Hayashi, Rouwenhorts (2008) model in which expected return is should be predicted not by change in fundamentals but the absolute level of the fundamentals.
+
+Let us test that price is driven by change in fundamentals and interest rate as opposed to interest rates and absolute deficit level.
+
+:     My version
+
+                                      vs
+
+:   Gorton, Hayashi and Rouwenhorts version
+
+
+ - is current spot market price of palladium. 
+
+- is current value of deficit of palladium.
+
+R- is given by three month USA T-bills rate.
+
+ 
+
+Table 1. Fundamental model regression
+
+
+This relationship holds rather well indicating that current fundamental conditions do indeed influence current market price. The variable of market deficit is significant at 1%. The interest rate is significant but only at 10% significance level.  R-squared of the regression is extremely low: only 1%. This is a very simple equation and has high risk of omitted variable bias. This will be checked later on by introducing several new variables into the model.
+
+
+
+Gorton, Hayashi and Rouwenhorts model though performs even worse. Absolute level of deficit in the palladium market seems to have no influence on the direction of the price change. At the same time, interest rates also become insignificant. R –squared of the regression is 0.2%
+
+
+
+
+
+
+
+
+
+A more flexible fundamental model.
+
+Another criticism of the model is that it doesn’t explain the strongly positive relationship between price and current open interest. By extending model with deficit and including open interest we get the following relationship:
+
+Graph 3
+
+
+
+Table 2. 
+
+
+
+In the previous model it was shown that open interest should lead price but there is no reason for it to change together with current price. In fact open interest is an even more significant variable then palladium deficit. It is clear that speculative interest in the market is also a very important factor in explaining palladiums price dynamics.
+
+There is no immediate intuition of why open interest has a positive influence on price as open interest is a parameter of the futures market, while price is determined in the physical market. In their work D. Sanders, C. Alexander and M. Roberts (2011) argue that open interest should be a function of inventories. The logic is very simple. In the traditional theory of storage model the larger are an inventory the greater is demand for insurance in the form of futures and hence the greater is the hedging pressure from the producers. The greater is hedging pressure the higher is the risk premium speculators demand for taking on a long position in the metal. Thus when inventories are high so is open interest and expected price change. However, the authors found very weak empirical evidence of the relationship between stocks and open interest for agricultural commodities. Moreover, they found that this relationship is gradually diminishing. Hence explanation of significance of open interest due to its signaling effect of inventory levels cannot be considered as satisfactory. At the same time, the above explanation implies that the market surpluses and deficits are absorbed by changes in stocks of producers of the metal, which is very unrealistic as it implies that producers don’t sell all of the material they produce and hence require a lot of additional capital to hold large inventories on their balance sheet. It is much more reasonable to assume that the surpluses and deficits are absorbed by changes in the stocks of the physical investors, which are highly unlikely to hedge as they bought the material for the very reason of a price appreciation.
+
+In their paper Coleman and Dark (2012) also find significant evidence of significance of open interest in explaining dynamics of commodity price. They found cointegrating relationship between price and scaled open interest (open interest divided by world physical consumption) for 17 out of 22 commodities they tested. They argue that open interest is equivalent to physical demand and that price should be determined by intersection of supply and sum of physical demand with open interest. Though they do not provide a coherent explanation of why open interest is equivalent to physical demand. 
+
+So in order to explain the positive relationship between open interest and price let us expand our model with long and short run investors. Now let us suppose that demand by long term investors depends on expectations of price change in the next period. This implies relaxing the assumption that fundamental price is growing at the required interest rate. This makes the model more flexible and realistic. At the same time, it means that we don’t have to choose any particular version of the Hotelling model. 
+
+Assuming that the demand of long term investors depends on the price in the next period seems to contradict the fact that investors care about long term performance; however, it will later be shown that there is no contradiction. By making their decisions based on expected price in next period investors still have to consider all the fundamental conditions many periods ahead. 
+
+As was shown in previous section open interest depends on the expected price in the next period. Thus open interest can be used to derive this expected price. Then open interest can be significant because of it is highly correlated with investors’ expectations of the future. 
+
+
+
+-Current price of palladium; - 8 week moving average of price; - Expected palladium price in the next period; - is amount of open interest; -Value at Risk.
+
+VAR will be calculated as loss such that it was exceeded in α% of the time during the past 250 weeks. Two VARs will be included in the model with α 5% and 10%.
+
+The third equation basically states that actual price dynamics depends only on discounted expected price and not on measures of risk, liquidity, or cost of carrying a futures position. This is explained by the fact that the price is determined by long term investors that care only about long run return and not about liquidity or short run risk. This equation is the only one that changes compared to the model in the previous section, where instead of discounted expected price in the next period we used the fundamental price from Hottelings model. 
+
+The first two equations are the same as in the open interest model in the previous section and will be used to derive market participant’s expectations price in the next period. Having derived market expectations of price as a function of open interest and various risk measures I use it to model current price. 
+
+All the variables will be log differenced in order to ensure that they are stationary.
+
+Estimated model:
+
+
+
+When testing for structural breaks of the model it was found that there was one structural break at the beginning of 2003. It can be explained by a rapid increase in open interest that occurred in this year. During it open interest in palladium futures market reached record high. It can be explained by the fact that in this year investor’s view of the future of the market changed dramatically. The interesting thing is that the relationship didn’t change after crises as there is little evidence of structural breaks in the beginning of 2008 or 2009.
+
+
+
+Table 3. Breakpoint tests for more flexible fundamental model.
+
+
+
+Thus there will be three regressions considered: for period from 1999 to 2003, for period from 2004 to 2012 and a regression for the whole period 1999-2012.
+
+Table 4. Regression output for more flexible fundamental model.
+
+
+
+As one can see for the period from 1999 to 2003 the only significant variable is current market deficit. Hence the initial fundamental model works quite well. All the other variables are insignificant. 
+
+
+
+For the period from 2004 to 2012 the picture changes dramatically. Deficit becomes the only insignificant variable. All the other variables, which were obtained from the system of equations that determine open interest, are significant. Moreover all of them are of the correct sign. R-squared of the model also goes up greatly in the second period.  Hence one can conclude that during 2003 the main determinants of the market price changed. One of the reasons why it changed may be the greater significance of the signal open interest in the physical investor’s analysis. Or alternatively it may introduction of a new type of investor into the market. This explanation will be expanded in more detail in the next section.
+
+
+
+One way of explaining why current fundamental conditions are unimportant is the small size of the market. Even if deficit is large in relation to the market size it is still not a large sum of money compared to the money flows going into commodities and other precious metals. 
+
+At the same time, the model above still implies that palladiums price is driven by fundamental conditions. The only difference is that it is no longer driven solely by current fundamental conditions but rather by all future fundamentals.  
+
+The model above basically implies that:
+
+
+
+Price in next period:
+
+
+
+Thus current price is given by:
+
+
+
+One can use the above formula to illustrate why current market conditions are insignificant to determining the price. For example suppose that current market deficit is “-S” and market deficits in the future will be “D” forever. Then current price is: ). If  is small enough then    is much larger than S. 
+
+Thus in the above model the market is driven not by current fundamental conditions but rather by expectations of future fundamental conditions. If this is so, then investment does even a better job of smoothing out fundamental shocks. This means that price volatility and risk for mining companies decreases.
+
+Finacialization
+
+In the previous section the model implied that current palladiums price is a function of all future fundamental conditions. This on the one hand means that price becomes less informative regarding current market fundamentals, but at the same time it means that if market suffers a shock in demand or supply this shock will be smoothed out by investors that expect the market to correct in the future.
+
+In this section I examine whether palladiums price is driven solely by the fundamentals of the market or there are some other external factors. Many papers argue that emergence of commodities as an alternative asset class during the past decade has led to a phenomenon called financialization. Finansialization implies that due purchases of commodities by institutional investors prices became detached from their fundamental values. The motives of investors for investing into commodities often included factors that allowed them to decrease systematic risk of their traditional investment portfolio. Commodities have traditionally had low historical correlation with the stock market and dollar plus high correlation with inflation. These factors combined with boom in in world demand driven by rapid growth of Emerging Economies have led to commodities becoming one of the most popular alternative investment classes with a great number of studies arguing that inclusion of commodities in one’s portfolio improves diversification and return of the portfolios. T.N Boots (2012), for example, in his study of the role of the commodity investment argues that inclusion of commodities into ones portfolio increases its mean efficiency as commodities have low correlation with stocks. He also argues that due to increased investment into commodities this correlation gradually increases over time, meaning that commodities behave more and more like other traditional investment classes.
+
+In his paper published for the United Nations Jorg Mayer (2009) argues that Index traders had a significant impact on the dramatic price increase in the commodities in 2006-07. In his paper he finds significant evidence that Index investors have Granger caused prices of many commodities from 2006 to 2009. At the same time, he proves that share of index traders positions in open interest is driven by factors other than market fundamentals: such as correlation of the commodity with S&P 500 and inflation. This means that many index trader positions were taken with the aim of diversifying the portfolio of stocks and hedging inflation risk. He argues that index investors can have distortionary effects on the commodity markets as their presence decreases the efficiency of the price signal for actual producers and consumers.
+
+All in all, it is a fact that in that in early 2000’s a lot institutional investors made a decision to invest into a diversified portfolio of commodities to improve mean efficiency of their portfolio. The analysis behind these investments was usually confined to macroeconomic analysis and did not involve fundamental analysis of each individual commodity. This means that a lot of investments were made into commodities that had poor fundamentals simply for diversification purposes. Let us now assume that investor has made a decision to invest into a diversified portfolio of commodities. If number of commodities in his portfolio is large enough then all the individual risk of all the commodities is diversified away. This means that required return of each commodity is given not by volatility of its price but rather by sensitivity of its price to changes in the price of portfolio of commodities. This means that return on palladium should be explained by return on the aggregate index of commodities and by palladiums sensitivity to the changes in this index. In this paper S&P 500 Goldman Sachs Commodity Index will be used as a proxy of a fully diversified portfolio of commodities. The good thing about it is that it consists of a wide range of commodities, but  doesn’t contain palladium itself. 
+
+The beta will be calculated based on covariance of palladiums price and Commodity Index for the past 250 trading days. It is a measure of systematic risk of palladium in terms of general investing into commodities. 
+
+In the previous section the analysis was confined only to the case of investors that specialize in the market and hence make their investment decision based on a rational analysis of attractiveness of risk return profile of this particular market. Now in the model investors are divided by two criterions, which mean that there are four types of investors. The first division criterion is short and long run investment horizon. Short run investors are assumed to be driven by factors such as VAR, liquidity and slope of the futures curve, while long run investors do not care about these factors and only care about future fundamentals of the market. The second criterion that is introduced in this section is whether investors specialize in this market or they invest into commodities in general and use palladium as a way to diversify their investment. Let us call the first type of investors fundamentalists and the second type index investors. 
+
+The demand of index investors for long positions in the futures market depends positively on the expected return of the commodity index and negatively on the sensitivity of the commodity to the overall index, which is measure of riskiness of the commodity. If they expect the value of the index to increase then they will increase their holdings of the index. Thus increase in price of the index is positively correlated with the quantity of investment in the index and will be used as a proxy for investors overall demand for commodity investments. Unfortunately there is no direct way to check this as there is no complete data set of positions of index investors for all commodities. But this data exists for agricultural commodities. Tang and Xiong (2012) show that Index flows into agricultural commodities were very highly correlated with the price of these commodities for the period from 2006 to 2010. In fact change in index trader flows is significant in explaining dynamics of commodity prices. They also find that correlations between commodity prices increase dramatically. Thus value of index of commodities is likely to be highly correlated with the overall amount positions of index investors. The demand for short run investments into individual commodity will thus positively depend on the overall quantity of commodity investments and negatively on the beta of a particular commodity. Thus we can model the demand of index investors in by: , where  is value of Goldman Sachs Commodity Index, which is a proxy for overall demand for commodities by institutional investors.
+
+In the physical market investors are assumed to invest based on simply expected price of the material. Since they are long run investors they don’t care about short run risk and sensitivity of one commodity relative to the other. Thus demand of index investors in the physical market is modeled by.
+
+As one can graphically see there is a tight interconnection of value of Goldman Sachs Commodity Index and palladium. Moreover, this relationship tends to get stronger.
+
+Graph 4
+
+
+
+
+
+
+
+All the variables will be log differenced in order to ensure that they are stationary. Estimated model is:Like in the previous case examination of the model for structural breaks led to discovery of one structural break in the beginning of 2004 and no structural breaks during or after 2008 crises. Tang and Xiong also conclude that the cross sector correlation of commodity markets diverged from their historical levels starting in 2004. 
+
+Table 5. Results of Breakpoint test for model with Index investors.
+
+
+
+Table 6. Regression output for model with Index investors.
+
+Similarly to the previous case during the period from 1999 to 2003 the most significant variable is palladium deficit. However, open interest and HS 5% VAR are significant at 5%. This leads us to conclusion that before they may have been insignificant due to omitted variable bias.  GSCI is insignificant for the period indicating that palladium is driven primarily by factors that are specific to this market. Also the coefficient of beta is significant at 1% level. This is so, because both palladium price and all other commodity prices grew very fast until the beginning of 2000 and then had an abrupt fall, with volatility of palladiums price during the period much greater than of other commodities, due to sharp physical deficit. Other commodities probably increased in price due to bubble in the stock market and investors searching for alternative assets that had real value as a source of protection against the bubble bursting. Just like the stock market palladium deficit increased sharply by the end of 1999 driven by a sharp drop in shipments from Russian stocks and physical purchases by investors and then dropped sharply in the beginning of 2000 as shipments of Russian stocks resumed. Hence the reason why beta is so significant for this period is the coincidence of pattern of the stock market and palladiums fundamental conditions.
+
+For the period from 2004 to 2012 there is no evidence that fundamental conditions had impact on the market price. The deficit variable is not significant at all. Indeed in 2006 and 2007 both the physical surplus and the price increased greatly.  Open interest on the other hand becomes significant at 1%. This indicates that palladium became much more driven not by current fundamentals but by investor expectations regarding the future. Both VAR and interest rates became significant with the right sign. Goldman Sachs Commodity Index is also becomes significant at 1% indicating the growing interdependence of palladium with other commodities, which can be explained by emergence of the index investors. Beta is significant too but only at 5%. 
+
+One also one has to point out the fact that inclusion of variables that correspond to index investors has considerably improved the explanatory power of the model. R-squared increases from 14% to 24% for period from 1999 to 2003 and from 28% to 35% for period from 2004 to 2012. This once again proves that index investors had great on the price dynamics. The fact that index investors became a significant driver of the price means that the price no longer reflects purely expectations of the fundamentals of the market. Instead price also depends on the demand by index investors. Knowing this, fundamental investors in their analysis will have to forecast not only fundamentals of the palladium market but also the demand from index investors, which depends on the overall performance of commodities as an asset class. 
+
+ Palladium price in the current period is given by:
+
+
+
+Price in the next period by:
+
+
+
+Hence current price is given by:
+
++
+
+)
+
+
+
+Thus current palladium price depends not only on fundamental conditions of palladium but also on all expected future demand of commodities by the index investors. This means that index investors distort the signaling role of prices for producers and consumers and thereby decrease the efficiency of the market. This is further supportive evidence of financialization of commodity markets that occurred after 2004. 
+
+
+
+Conclusion
+
+Before 2004 palladium market seemed to be determined by fundamentals only. However, after 2004 dynamics market became more complex. Investment sentiment became a very important price driver. However, the increased role of investor is not by itself evidence of divergence of the market from the fundamentals as investor positions can well be driven by expectations of future fundamentals. In this case increased significance of investors and decreased significance of current fundamentals can be evidence of the success of investors of smoothing out current market demand and supply shocks. The same cannot, however, be said of the increased role of index investors which is signaled by significantly higher interdependence of palladiums price with value of the index of commodities. Index investors open their positions not based on the fundamental analysis of some particular commodity markets but because of their macro analysis of the commodities as an asset class. The increased interdependence of commodity prices that arises as a result can make commodity prices diverge from the values dictated by their fundamentals. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References
+
+IMF (2011), World economic Outlook – September 2011.
+
+Coleman and Dark (2012), “Economic significance of non-hedger Investment in Commodity Markets”.
+
+ Mayer (2009), “The growing interdependence between financial and commodity markets”, United Nations conference on trade and development discussion paper № 195
+
+Tang and Xiong (2012), “index Investment and the financialization of commodities”, Financial Analysts Journal Volume 68 page 54-74.
+
+Johnson Matthey, PGM report 2004 page 47-50.
+
+Deaton, Laroque (1992), “On the Behavior of Commodity Prices”, Review of economic Studies 59: 1-23
+
+Gorton, Hayashi, Rouwenhorts (2008) “The Fundamentals of Commodity Futures Returns”, Yale ICF working paper №. 07-08 
+
+Acharaya, Lochstoer, Ramadorai (2007), “Default Risk, Hedging Demand and Commodity prices”
+
+Hotelling (1931), “The economics of exhaustible resources” Journal of Political Economy 39(2), 137-175
+
+G.Loury, (1986) A theory of oiligopoly: Cournot equilibrium in exhaustible resource markets with fixed supplies, International Economic Review, vol.27, pp.285-301.
+
+Dasgupta P., J.Stiglitz, Resource depletion under technological uncertainty, Econometrica, Volume 49, pp. 85-104, 1981.
+
+Kemp (1976) “How to eat a cake of unknown size” “Three Topics in th Theory of International Trade” Chapter 23, pp. 297-308
+
+Long (1975) “Resource extraction under the uncertainty about possible nationalization”, Journal of economic Theory 10, 42-50
+
+Hong, Yogo (2010) “Commodity Market Interest and Asset Returns”
+
+Sanders, Alexander, Roberts (2011) “Examining the Relationship Between Physical stocks of Commodities and Open Interest in Related  Futures Markets”
+
+Boots (2012) “Has the Role of Commodity Investing Changed Over Time?”
+

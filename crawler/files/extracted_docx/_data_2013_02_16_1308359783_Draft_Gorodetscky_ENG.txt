@@ -1,0 +1,212 @@
+National Research University Higher School of Economics
+
+Faculty of Business Informatics
+
+Department of Business Analytics
+
+
+
+
+
+
+
+
+
+DRAFT
+
+of the paper
+
+« Application of Business Analytical Information Technology in Portfolio Project Management»
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Moscow
+
+2013
+
+Abstract
+
+This paper is a draft of the author’s qualifying graduation work “Application of Business Analytical Information Technology in Portfolio Project Management”. The graduation work is designed to develop and to describe the implementation of particular set of integrated tools for solving the problem of portfolio project management and for improving the efficiency of the organization. In this draft author covers the theoretical aspect of the problem.
+
+In the introduction of draft author discusses the actuality of graduation work’s topic. In the second part there is the portfolio project management concept’s definition. Author highlights the main problems arising from the theoretical part of this concept. On the basis of these problems the general statement of the work’s task is given here to resolve issues in the optimal way with use of business analytical tools.  Further the methodological side of portfolio project management’s issue is described. In this part author focuses on the potential disadvantages of this methodology particular application. This view of the question provides understanding which technologies are required to support the portfolio project management process and to troubleshoot emerging problems.
+
+In the conclusion author describes further research in the graduation work. The analysis of information systems assigned to solve posed problems is given here. Author discusses expediency of this systems’ use and the development of future applied recommendations of this use. There are also results which author plans to achieve. Attention is concentrated here on the applicability of tools. There is also analysis of the analytical tools’ capacity issues, analysis of the reasons for their low use at the moment, the advantages of portfolio project management’s concept implementation and the growing popularity of PPM-class (Portfolio Project Management) information systems.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+Dynamic changes of the modern environment force developing organizations to flexibly change its strategy for maintaining its competitiveness and for strengthening its market position. To implement their strategic plans in the lives most modern companies use project activities with the view of quickly achievement of the desired result in a timely manner. When the company makes important strategic decisions, it determines which projects or investments should start, how the investment’s budget should be increased, and what investments should close or freeze as unnecessary. 
+
+In the process of selecting investments companies want to clearly see how certain decisions will affect the achievement of corporate goals. The company's management is trying to ensure that the majority of their management initiatives have been implemented and led to the desired result. However, in practice, strategic initiatives often can be hard to translate into specific work area due to the complex interdependencies between the various projects’ content of the work, their financial performance and resource requirements. For example, if director want to increase the total ROI (Return on Investment) of company’s assets, director does not know executing of which particular work or task definitely helps to reach the goal and executing of which does definitely not.
+
+As a rule, any strategic decision is tried to begin to implement as soon as possible. Therefore there is a conflict of resource allocation between projects, one project’s objectives and tasks conflict with the objectives and tasks of another project. As a result, project tasks have no clear relations with overall corporate goals of the organization. In such circumstances, in order to achieve the strategic objectives, it is necessary to prioritize investments in different projects and manage them as a single entity through a single project portfolio management process.
+
+So, portfolio project management, as a concept, allows organizations to clearly see how they can achieve the goals, providing full comprehensiveness to organizations how realization of their strategic plans is linked with execution of particular working tasks. That’s why the problem of this concept’s application is actual issue for companies that want to improve internal performance and effectiveness of their strategic management.
+
+
+
+Problem Statement
+
+First of all, in formulating the problem of portfolio project management the special attention should be paid to the definition and concept of the projects portfolio. PMI (Project Management Institute) provides the following definition of this concept:
+
+  "Portfolio - a set of projects or programs and other work (projects and programs portfolio may not necessarily be interdependent or directly related) that are grouped togethesr to facilitate the effective management of that work to meet strategic business objectives". Here, project is considered as temporary endeavors undertaken to create a unique product, service or result; and program is a group of related projects managed in a coordinated way to obtain benefits and control not available from managing them individual.
+
+This definition is good because it reflects the essence of the portfolio project management’s concept: if the main goal of the project management is the creation of a unique end result, the mission of the portfolio management is to achieve strategic goals.
+
+The next groups of problems follow obviously from the about statements about portfolio project management concept:
+
+The problems of finding criteria and measurability of portfolio’s compliance with established strategic objectives.
+
+Without solution to this issue, the organization cannot answer to the question posed to itself: there is a portfolio A with a set of projects A1, A2, A3, ... and there is a portfolio B of projects with a set of B1, B2, B3 ... (sets A and B can overlap); which of these portfolios has more impact on the achievement of strategic objectives? This is the question of vital importance for the functioning of a dynamic organization. This question has a direct impact on organization’s ability to adapt to changes in the environmental factors, since a change in environmental factors translate strategic objectives into another plane of tactical actions. In other words, for the strategic goals achievement it becomes necessary to change the set of executed tasks or operations (this need is due either to the inability / complexity of previously planned set of operations’ implementation, or to the new prospect of a given set’s optimization, which appearing is caused by  changes in external factors). Speaking in terms of project portfolio management, you need to change the set of programs and projects in the portfolio, and if the organization does not have any criteria of portfolio’s compliance with business strategy, this action cannot be done resulting in objectively planned and expected effects. This leads to the fact that the organization either just starts to make "all at once", losing control of their investments in general, or does not make any changes to the portfolio, following the conservative approach, losing the opportunity to use their unique strengths (i.e. losing competitiveness). In any case, life of organization becomes more complicated - it cannot function preventively with well-timed reaction to its competitors’ actions and even worse with well-timed reaction to the impact of the changing environment on the organization’s development vector.
+
+The second group of problems – problems related to choice of certain projects into the portfolio.
+
+At first glance it may seem that this group of problems is similar to the first selected group, but it is fundamentally wrong. Considering the first issue we are concerned about how to evaluate the overall portfolio to meet the strategic objectives, here the essence is the different. Here the interest is in discussion how the execution of a certain project affects the portfolio as a whole. 
+
+The question, what will be, if you add a particular project in the portfolio, from the first group, of course, continues to wonder. However, it is considered from a different angle: how it will change the other projects in portfolio and how these changes will lead to changes in the level of portfolio’s compliance to the posed strategic objectives. The problem here is that not the project itself, with its resources, has an impact on portfolio, but its unique end result does it. Often the properties of this result are qualitatively and quantitatively determined; nevertheless, the certain property of this unique result is commonly hard to project onto a plane of the portfolio’s value for the company. Therefore, clarity of how this or that project contributes to the business objectives’ compliance level of the entire portfolio becomes lost, which causes the fact that the organization does not have a tool for deciding what to do with the project in order to add value for company’s portfolio.
+
+The execution of the project within the portfolio (not as a separate entity, but as part of a portfolio) - a contradiction of strategic management (achieving the certain objectives) and operational project management (production the result with the given constraints)
+
+This group of problems is related to the fact that the project should necessarily be managed not as a separate unit, but as a part of a vast and strategically important entity - the portfolio. The contradictions between the needs of individual projects and the entire portfolios can cause confusion in the company. As a rule, something similar occurs, when the top management does not pay enough attention to motivation and developing common views on the company's goals, on setting priorities among projects and on bringing the undertaken strategic initiatives to all managers and executives. Under such conditions it is necessary to consider the all complex dependencies between the projects and to have a tool that allows company to efficiently allocate resources between projects in order to multiobjectively maximize the usefulness of the portfolio.
+
+
+
+Currently existing approaches and methods of project management in practice do not fully consider or decide the problems listed above. Therefore, the aim of this work is to study theoretical models (the methodology of portfolio project management) and practical methods for implementing effective portfolio project management using information technologies, which give to companies new opportunities to achieve the strategic goals of the organization.
+
+
+
+Methodological Aspect
+
+Today's organizations, which use the concept of the portfolio project management, based on a certain methodological basis. At the heart of almost any such base, whether the development of any consulting firm or national standard, there is the PMI’s (Project Management Institute) standard for portfolio management. In this section, author analyzes this standard, as the most general description of portfolio project management’s methodology, in order to identify potential problems in the practical implementation of theoretical recommendations and in order to explore how these problems can be solved and how the implementation of the standard can be optimized and adopted to certain company in general, using information technology. Thus, author ends up this section with the requirements for Business Intelligence tools which provide solutions to the portfolio project management issue. Also these requirements will simultaneously be the criteria for the expediency of using information technology in the management of project portfolios and for the particular feasibility of portfolio project management application at all.
+
+So, in the standard for portfolio project management there are highlighted two groups of project portfolio management processes:
+
+Aligning Process Group – this group includes the processes that determine the portfolio’s eligibility to corporate objectives criteria, portfolio evaluation criteria, prioritizing strategic goals. This group includes the following processes:
+
+ Identification
+
+As part of this process, there is formulated a list of activities that could potentially be included in the portfolio. For each of the activity there is collected the information needed to make a decision in the preliminary analysis, whether or not to include this component in the portfolio.
+
+Potential implementation problems: there is a need to formalize the criteria for preliminary analysis, based on the strategic objectives. Thus information technology, firstly should link the project with different objectives, by putting a compliance rate, and secondly should provide relevant information on the budget / size / profitability / resource costs (these rates could be considered in the preliminary analysis) of the portfolio’s potential component. There should be possibility to find a component on Multicriteria filters. Also, for the flexibility of portfolio building there is desirable that the information system provides the ability to distinguish between the activities by their type, supporting the product life cycle (from concept - through the project - to the product). In this case, the portfolio manager will able to include in the portfolio not only projects and programs of projects, but also new ideas, finished products, services, assets (all of these types of investments can bring money or require resources and should also be controlled).
+
+ Categorization
+
+This process is intended for distribution selected in the preliminary analysis components into the groups (or classes). Categories should be formed on the basis of strategic planning (i.e. on strategic initiatives). Thus, if the organization’s goal, for example, is to increase the profitability of the portfolio, the possible separation of the components will be: losing components, marginally profitable components, activities with average profitability, a highly profitable activity.
+
+Potential implementation problems: each component must belong to only one category; there must be the strict rule of selection activities by category. To support the implementation of the process, information technology should provide the ability to define business rules that govern the activity inclusion in a certain category. There should also be possibility to form several categories to support the implementation of several strategic objectives and initiatives. All activities must be compared on the criteria for this or that category.
+
+ Evaluation
+
+This is a process that gains for each type of activity (which can potentially be included in the portfolio) quantitative and qualitative parameters, and, based on the strategic objectives, forms the valuation of this component for the entire portfolio.
+
+Potential implementation issues: the adequacy of a comprehensive assessment. On the part of the information system it is required to provide the tools for helping analyze and compare the different activities. These analytical tools can be multi-choice scoring models (a coefficient is assigned to each parameter depending on the weight / strategic importance, and then there is accounted the sum of parameters multiplied to corresponding predetermined ratios), bubble charts (selection is made depending on the position of the activity on the chart with the multi-criteria filtering) and others. The information system must be flexible for the successful implementation of this process and be able to realize any multiobjective business logic for grading activity in the portfolio.
+
+ Selection
+
+This process is designed to find the project’s rate of compliance to the goals of the organization, based on estimation of activity’s parameters (see description of the previous process) and based on the strategic plan. It should consider the links and dependencies between activities within the portfolio.
+
+Potential implementation problems: when there are several strategic objectives and initiatives (and there are usually more than one), it is necessary to prioritize between them to allow a full comparison of activities with each other, considering all the objectives and multi-criteria selection. Also the information system should necessarily provide a tool "Effective threshold line graph", showing the relationships between one of the portfolio’s parameter or restriction (usually the value of the portfolio) and its matching to the organization strategy aggregate index (with the help of this chart, there is a possibility to get next kind of information: what might be the best portfolio compliance to the company‘s objectives, if the whole portfolio budget equals 100 thousand rubles).
+
+ Prioritization
+
+This process is designed for the final formation of the portfolio considering the category of the activity and the strategic objectives. Within this process there are built various graphs and ranks for recording and analyzing all possible indicators.
+
+ Portfolio Balancing
+
+This process is designed to keep track of what goals match the portfolio, how much the portfolio’s compliance value. This helps to balance the portfolio by diversifying activities within it across strategic objectives and metrics.
+
+Potential implementation problems: there is a need in a tool for modeling portfolio, which can show what it would be if the new activity is included in the portfolio, if any activity is excluded or if there is a change in the restrictions for some of the portfolio’s activities. Thus, the information system, in this case, requires a means of producing «what-if» analyzes. It also requires a tool for portfolios comparison among themselves, a tool for comparison of the same portfolio under different scenarios of the environment changes or under different scenarios of the portfolio reforming during its balancing. The information system should have a flexible means of analysis – support of scenario modeling in which scenarios can influence the parameters of projects, their implementation and the deviation from the plan.
+
+ Authorization
+
+This process is intended for distribution or redistribution of any kind of resources between the portfolio components in order to optimize the way of its objectives achievement.
+
+Difficulties in the practical implementation: it is necessary to consider the complex relationships between the projects (they may be dependent on the time of the each other completion, etc.). Here, as in the previous paragraph, the organization needs the tools for «what-if» analyzing with the possibility of scenario modeling.
+
+
+
+Monitoring and Controlling Process Group – this group contains processes that monitor portfolio’s key performance indicators and processes that change the portfolio for balancing this indicators and efficiently editing and developing the strategic plan. There are two processes in this group:
+
+ Portfolio Review and Reporting
+
+This process is designed for tracking the changes in portfolio parameters and indicators, such as the use of various resources, compliance with a particular objective, and other plan-fact analysis’ metrics. Also, this process is used to track the status of activities within the project, the results of the uncertainties’ influence (risks / issues / changes in active portfolio).
+
+For closely monitoring all of this factors there is necessary a powerful reporting tool that consolidates data on different levels (at the portfolio level, the level of activity at the level of the organization as a whole or any element of the organizational structure). This will allow management of organization to see the total picture of their company’s activity.
+
+
+
+ Strategic Change
+
+This process is designed to effectively change a strategic plan under the influence of plan-fact analysis reviewing in the process described in the previous paragraph.
+
+Problems in the practical implementation: the company needs a tool that shows how a particular change in the strategic element or in the existing business logic (or business rules) affects the parameters of the entire portfolio and activities within it. How it affects dependencies between activities, restrictions and compliance to the corporate objectives. Author will return to the requirements for analytical reports further when the particular information systems will be analyzed. From this analysis there will be clear from where it is possible to take the required data and how to integrate with each other different information systems and their modules.
+
+
+
+In addition to the internal connections between themselves, all the above mentioned processes are also linked to external processes that are beyond the scope of portfolio project management. These links will also carefully analyzed later (during the development of recommendations for the use of information technology in portfolio project management) in order to create demand which components of other systems in organization’s information architecture need to be integrated with the module portfolio management, as well as integrated with each other for creation of a single functional, able to fully support the entire cycle of portfolio project management.
+
+As seeing from the descriptions of the portfolio project management processes, the success of the task’s practical implementation and the success of the planned objectives achievement is unlikely without the use of information technology. It is necessary to analyze what tools are available now for the organization to realize the task, and to develop the best recommendations for the use of these tools, considering the future potential of portfolio project management (as a concept), and considering the direction of future development  of information business analysts tools that support implementation.
+
+
+
+Research and Expected Results
+
+In this draft there have been discussed the theoretical aspects of the portfolio project management concept, there have been highlighted the main problems of the concept’s methodology, made bottleneck analysis of portfolio project management applicability. This analysis has shown where and how it is necessary to use the information business analytical set of tools to solve posed organization’s strategic task.
+
+Further in the graduation work there will be a review of certain application tools, as of which the author will consider PPM-class (Portfolio Project Management) information systems. PPM systems are a relatively new class of information systems, which becomes increasingly popular. Information systems of this class provide organizations with mechanisms for monitoring and management of project portfolios as entire object, management of projects in particular, as well as management of assets, resources, requirements and other objects related to the implementation of organization’s project activities. The biggest part of the PPM systems research will be devoted to the analysis of project portfolio management system “Clarity” by vendor “Computer Associated”, since this product is the most powerful representative of the PPM-systems class, according to the Gartner reports. There will also be made ​​assumptions about the potential of the PPM class information systems: how will change and develop business analytical tools in the nearest future, which components are necessary to be added to their functionality, what is the picture of the company, that will use in future information technology to solve the problem of portfolio project management.
+
+In addition to review of information tools there also will be analysis of the applicability and implementation issues of the portfolio project management concept in different companies. Earlier a theory of portfolio project management has been observed, but author has not yet touched on the question why the companies need to introduce the concept of portfolio project management within their structure. This issue is especially important for Russian companies, because despite their maturity, the Russian organizations which implement the project activity, during their extension try to do “all and at once”. They rely on the management and execution of every potentially successful project (and the success criterion is usually only one - this one is the project profit). In such situation there becomes extremely many projects; the company's focus on one or another project is dissipated and organization cannot easily implement its strategic initiatives and communicate their purpose, as it mired in operational management and in fact has no control over the amount of work and how this work corresponds to organization objectives. So, the next aim of further research is to show how the use of information tools for portfolio project management becomes the cause of implementation the project portfolio management concept in organization and how this implementation helps to improve the project management culture and the strategic management culture within the organization.
+
+As a result, in the graduation work there will be developed an application management tool, using which the modern organization can greatly improve the efficiency, improve the culture of project management, controlling the execution of strategy and achievement of objectives. Company also will get the ability to perform various analysts, ensuring organization’s transparency, flexibility and it’s preventive to environmental factors functioning. Author will show that this tool is necessary for any project-oriented company, which wants to develop dynamically and do not deviate from its planned growth vector.
+
+Bibliography
+
+Computer Associated, 2012: CA Clarity PPM Portfolio Management User Guide, Release 13.1.0. CA.
+
+Daniel B. Stang, Jim Duggan, 2012: Magic Quadrant for Integrated IT Portfolio Analysis Applications. Gartner (November 2012).
+
+Daniel B. Stang, Robert A. Handler, 2012: Market Scope for Project and Portfolio Management Software Applications. Gartner (27 June 2012).
+
+Matveev A. A., Novikov D. A., Tsvetkov А. В. Models and Methods of portfolio project management. M.:PMSOFT, 2005. – 206 p.
+
+Project Management Institute, 2008: A Guide to the Project Management Body of Knowledge (PMBOK Guide) 4th Edition. Project Management Institute Inc. – 463 p.
+
+Project Management Institute, 2006: The Standard for Portfolio Management. Project Management Institute Inc. – 79 p.
+
+Tovb A.S., Tsipes G.L. Project management in the modern company’s practice. M.: Olymp-Business, 2006. – 304 p.
+
+
+

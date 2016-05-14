@@ -1,0 +1,8737 @@
+НАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ УНИВЕРСИТЕТ 
+
+ВЫСШАЯ ШКОЛА ЭКОНОМИКИ 
+
+Международный Институт Экономики и Финансов 
+
+ 
+
+ 
+
+МАГИСТЕРСКАЯ ДИССЕРТАЦИЯ 
+
+по образовательной программе высшего профессионального 
+
+образования, направление 080100.68 Экономика 
+
+ 
+
+на тему: 
+
+The quality of bond credit ratings
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Студент второго курса магистратуры 
+
+ Карягин Николай Анатольевич 
+
+ 
+
+Научный руководитель 
+
+Шпренгер Карстен 
+
+PhD Economics, доцент 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+МОСКВА,  2013 год 
+
+Аннотация 
+
+Магистерская  диссертация  на  тему  «Оценка  качества  кредитных  рейтингов 
+
+облигаций» посвящена исследованию  вопроса насколько верно и адекватно кредитные 
+
+рейтинги,  присвоенные  ведущими  рейтинговыми  агентствами  облигациям,  отражают 
+
+кредитные  риски  инструментов.  Также  автор  был  заинтересован  провести  анализ 
+
+информации,  содержащейся  в  рейтингах,  об  основных  индикаторах  которые 
+
+рейтинговые  агентства  включают  в  свои  отчеты  о  точности  произведенных  оценок, 
+
+таких как вероятность дефолта инструмента и процент возврата при дефолте (или, что 
+
+эквивалентно, потерь в случае дефолта) и возможности использования альтернативных 
+
+индикаторов  качества.  Рейтинги  в  мировой 
+
+экономике  являются  важными 
+
+индикаторами как для регуляторов, так и для индивидуальных инвесторов. Несмотря на 
+
+более чем 100 летнюю историю с момента присвоения первого рейтинга и постоянное 
+
+развитие  методологий  вопрос  об  адекватности  оценки  инструментов  со  стороны 
+
+рейтинговых агентств остается актуальным в свете мирового финансового кризиса 2008 
+
+года,  в  ходе  которого  многие  инструменты  с  высоким  рейтингом  испытывали 
+
+трудности, что является результатом неточности оценки. 
+
+ 
+
+В  магистерской  диссертации  были  исследованы  и  получены  ответы  на 
+
+следующие вопросы: 
+
+1.  Какую  информацию  несут  в  себе  рейтинги  облигаций  и  насколько  надежна 
+
+данная информация для участников финансовых рынков? 
+
+2.  Обладают ли рейтинги информацией о показателях, отличных от рассмотренных 
+
+в  первом  вопросе  и  возможно  ли  ее  использовать  инвесторам  для  более 
+
+детального  анализа  при  принятии  инвестиционных  решений?  Возможно  ли 
+
+использовать  эту  информацию  чтобы  идентифицировать  облигации,  рейтинг 
+
+которых завышен или занижен? 
+
+3.  Какие  характеристики  облигаций  оказывают  существенное  влияние  на  потери 
+
+при дефолте, вероятность присвоения неправильного рейтинга и каков характер 
+
+этой взаимосвязи? 
+
+ 
+
+Для  ответа  на  эти  вопросы  была  использована  коммерческая  база  данных 
+
+рейтингового  агентства  Moody’s,  содержащая  детальную  информацию  обо  всех 
+
+инструментах,  которым  агентство  присваивало  рейтинги,  а  также  о  дефолтах  и 
+
+эмитентах.  Методика  исследований  вопросов  1  и  2  предполагала  построение  кривых 
+
+Лоренца независимо для облигаций эмитентов финансового и нефинансового секторов 
+
+экономики  и  расчет  коэффициентов  Джини  для  определения  степени  информации, 
+
+содержащейся  в  рейтингах  для  каждого  конкретного  случая.  В  результате  автор 
+
+получил следующие выводы: 
+
+-  Рейтинги  корректно  отражают  информацию  о  вероятности  дефолта  для  обоих 
+
+рассматриваемых  секторов  экономики.  Тем  не  менее,  объяснительная  сила 
+
+рейтингов  для  вероятности  дефолта  у  финансовых  облигаций  существенно 
+
+меньше,  чем  у  нефинансовых,  и одинакова  для  всех  рассмотренных  временных 
+
+интервалов.  Что  касается  нефинансовых  облигаций,  то  рейтинги  существенно 
+
+лучше  отражают  вероятность  дефолта  на  временном  промежутке  до  1  года. 
+
+Автор  полагает,  что  для  корректной  оценки  вероятности  дефолта  финансовых 
+
+организаций  требуется  использовать  дополнительные  к  рейтингам  источники 
+
+информации. 
+
+-  Рейтинги  слабо  коррелированы  с  потерями  в  случае  дефолта.  Они  практически 
+
+не объясняют вариацию для облигаций финансового сектора и слабо объясняют 
+
+для  нефинансового.  Тем  не  менее,  для  облигаций  нефинансового  сектора 
+
+наблюдается резкое увеличение корреляции рейтингов и потерь в случае дефолта 
+
+на  временном  промежутке  меньше  1  года.  Это  дает  основание  считать,  что  в 
+
+данном  случае  рейтинги  можно  использовать  как  одну  из  переменных  для 
+
+объяснения потерь на малых временных интервалах. 
+
+- 
+
+ Автор  протестировал  альтернативную  меру  качества  кредитных  рейтингов  – 
+
+«реализованный  убыток».  Данная  мера  в  силу  определения  учитывает  как 
+
+вероятность  дефолта,  так  и  потери  в  случае  дефолта  и  определена  для  всех 
+
+облигаций, а не только тех, по которым произошел дефолт (в отличие от потерь в 
+
+случае  дефолта).  Оказалось,  что  рейтинги 
+
+содержат  информацию  о 
+
+«реализованном 
+
+убытке». 
+
+Более 
+
+того, 
+
+данная 
+
+мера 
+
+превосходит 
+
+вышеприведенные два индикатора, и так как Moody’s упоминает в методологии, 
+
+что  при  присвоении  рейтингов  учитываются  оба  индикатора,  это  приводит  к 
+
+выводу, что новая мера является более подходящей оценкой качества рейтингов. 
+
+Кроме  этого,  автор  показал  возможность  использования  данной  меры  для 
+
+выявления  облигаций  с  завышенным  и  заниженным  рейтингами,  что  делает  ее 
+
+применимой для использования инвесторами. 
+
+ 
+
+Ответ  на  третий  поставленный  вопрос  показал,  что  между  характеристиками 
+
+облигаций  и  потерями  при  дефолте,  а  также  вероятностью  присвоения  неправильного 
+
+рейтинга существует взаимосвязь. Значительные эффекты наблюдаются для следующих 
+
+величин: 
+
+-  время до погашения, коэффициент положителен, что свидетельство того, что для 
+
+облигаций с большим временем до погашения характерны большие потери и им 
+
+чаще присваиваются неверные рейтинги 
+
+-  наличие  обеспечения  уменьшает  потери,  а  также  такие  облигации  реже  имеют 
+
+неверные рейтинги 
+
+-  принадлежность  к  определенной  индустрии  среди  облигаций  нефинансового 
+
+сектора  оказывает  значительный  эффект  на  рассматриваемую  взаимосвязь. 
+
+Облигации индустрий, продукты которых пользуются спросом даже в рецессиях 
+
+имеют  меньшие  потери,  что  объясняется 
+
+способностью  восстановить 
+
+деятельность в условиях непрекращающегося спроса 
+
+-  остальные  характеристики  не  продемонстрировали  значительных  эффектов,  что 
+
+может быть вызвано малым количеством облигаций с такими характеристиками 
+
+в выборке 
+
+Вопросы и направления для дальнейших исследований: 
+
+1.  Как могут рейтинговые агентства скорректировать свою методологию для учета 
+
+показателя «реализованных убытков» и будет ли более подходящим публиковать 
+
+в отчетах данный показатель вместо текущих двух? 
+
+2.  Такие  характеристики  как  тип  облигации,  приоритетность  долга  и  валюта 
+
+выпуска  показали  значимые  эффекты  в  некоторых  случаях,  но  как  было 
+
+объяснено,  это  ложная  взаимосвязь  в  виду  малого  количества  облигаций  с 
+
+такими  характеристиками  в  выборке.  Исследование  на  большей  выборке 
+
+представляет дальнейший интерес. 
+
+3.  Значение  R2  у  регрессий  довольно  низкое,  тем  не  менее,  они  значимы  в  силу 
+
+высокого  значения  F-статистики.  Это  может  быть  следствием  того,  что 
+
+оставшаяся вариация в зависимой переменной объясняется внешними данными, 
+
+такими 
+
+как 
+
+показатели 
+
+финансовой 
+
+отчетности 
+
+эмитента 
+
+и 
+
+макроэкономическими переменными. Данная гипотеза представляет интерес для 
+
+дальнейших исследований. 
+
+ 
+
+ 
+
+ 
+
+Table of Contents 
+
+Introduction ................................................................................................................................ 6 
+
+Chapter 1. Literature review ........................................................................................................ 8 
+
+1.  Studies investigating presence of information about default frequency and loss given 
+default in assigned ratings........................................................................................................ 8 
+
+1.1.  Examination of information about default frequency contained in assigned ratings .... 8 
+
+1.2.  Examination of information about loss given default contained in assigned ratings .. 11 
+
+2.  Methodologies of rating agencies for default probability and loss given default estimation
+ 
+
+13 
+
+2.1.  Moody’s methodology............................................................................................. 13 
+
+2.2.  Standard & Poor’s and Fitch methodology .............................................................. 15 
+
+3.  Conclusions for Chapter 1 .............................................................................................. 16 
+
+Chapter 2. Empirical research on credit ratings classes and information contained in ratings ..... 17 
+
+1.  Descriptive statistics of the sample used ......................................................................... 18 
+
+2.  The methodology and obtained results ............................................................................ 20 
+
+2.1. 
+
+Investigation of relationship between rating classes and default frequency............... 20 
+
+2.2. 
+
+Investigation of relationship between rating classes and loss given default .............. 26 
+
+3.  Conclusions for Chapter 2 .............................................................................................. 30 
+
+Chapter 3. Empirical research on presence of additional information in credit ratings ............... 31 
+
+1. 
+
+Investigation of relationship between rating classes and realized lifetime loss ................ 31 
+
+2.  Additional way for rating quality assessment using realized lifetime loss........................ 38 
+
+3.  Relationship between ratings quality and characteristics of the bond .............................. 40 
+
+3.1.  Regression model description and variables used ..................................................... 40 
+
+3.2.  Regression results and discussion ............................................................................ 43 
+
+4.  Conclusions for Chapter 3 .............................................................................................. 50 
+
+Conclusion ................................................................................................................................ 52 
+
+References ................................................................................................................................ 54 
+
+Appendix 1 ............................................................................................................................... 56 
+
+Appendix 2 ............................................................................................................................... 62 
+
+Appendix 3 ............................................................................................................................... 64 
+
+Appendix 4 ............................................................................................................................... 65 
+
+ 
+
+ 
+
+ 
+
+Introduction 
+
+Influence of credit ratings on the world economy became extremely significant in the last 
+
+30 years. The contemporary credit rating market started forming in 1970s when the US Security 
+
+and  Exchange  Commission  accepted  a  number  of  resolutions  for  brokers,  issuers,  banks  and 
+
+number of other financial market participants. 
+
+Nowadays  ratings  are  very  important  economic  and  political  factor  because  they 
+
+essentially determine the cost of funding for issuing companies. Before the financial crisis 2008 
+
+ratings were unquestionable indicators of issuer creditworthiness. Nevertheless, after significant 
+
+defaults  number  of  highly  rated  companies  it  became  clear  that  at  least  in  the  past  rating 
+
+methodology had not taken into account all possible risks properly. 
+
+There  is  always  asymmetry  in  information  which  makes  exceptionally  difficult  for 
+
+investor  to  estimate  all  possible  risks  inherent  in  particular  instrument.  This  happens  because 
+
+rating process takes into account many factors and requires strong expertise for it. Thus, quality 
+
+assessment  procedure  of  the  issue  becomes  almost  unrealistic  to  be  conducted  by  individual 
+
+investor  without  external  assistance.  Exactly  for  that  purpose  auditors,  rating  agencies  and 
+
+number  of  other  companies  are  operating.  Their  work  is  dedicated  to  decrease  asymmetry  in 
+
+information  and  help  to  reduce  costs  that  individual  investor  would  bear  if  conducted  this 
+
+original research. 
+
+In light of discussed above it is quite hard to imagine the present-day world without credit 
+
+rating,  which  underlines  extremely  importance  for  them  to  be  properly  assigned.  In  this  paper 
+
+author’s  intention  was  to  investigate  the  last  problem  and  to  find  answers  on  the  following 
+
+questions: 
+
+1.  What  kind  of  information  is  present  in  assigned  ratings  and  how  reliable  is  this 
+
+information for the participant of financial market? 
+
+2.  Do ratings contain any additional information that can be used by investors for more 
+
+detailed analysis of their financial decisions? Is it possible to use this information to 
+
+find inconsistently rated bonds? 
+
+3.  Which  of  the  bond  specific  variables  are  responsible  for  inconsistent  ratings  and  in 
+
+which direction do they affect the bond losses? 
+
+In order to answer these questions author studied existing scientific literature and publicly 
+
+available  rating  agencies  methodologies.  Sample  used  in  this  research  was  constructed  using 
+
+Moody’s  Default  Risk  Service  proprietary  database  which  contains  detailed  information  about 
+
+each debt’s characteristics rated by Moody’s as well as brief summary for the default event and 
+
+issuer details. For answer on the first question author studied the presence of information about 
+
+ 
+
+6 
+
+default  frequency  and  loss  given  default  in  assigned  ratings  because  Moody’s  methodology 
+
+explicitly states that ratings reflect these both indicators. Approach used to answer this question 
+
+involved  Lorenz  curves  and  calculation  of  accuracy  coefficients  as  rating  agencies  often  do. 
+
+Based on the obtained results author claims that ratings do reflect correctly probability of default. 
+
+Nevertheless, they are poor predictors of loss given default and may be used for the last purpose 
+
+only  in  the  1  year  period  after  rating  assignment  as  additional  source  of  information  for 
+
+prediction.  
+
+For the second question author tested newly  introduced  measure  called realized  lifetime 
+
+loss on the described above dataset. The idea for this indicator was mentioned in working paper 
+
+by  Hainsworth  (2012)  but  was  not  assessed  by  the  author  on  the  real  data.  Methodology  was 
+
+essentially  the  same  as  for  the  first  question  and  resulted  in  conclusion  that  information  about 
+
+realized  lifetime  loss  is  contained  in  ratings  and  moreover,  ratings  reflect  it  better  that  default 
+
+probability. Because this measure implicitly accounts for both default frequency and loss given 
+
+default by construction it can be used as alternative indicator by rating agencies for accuracy of 
+
+their predictions.  
+
+Finally,  using  this  new  measure  author  counted  inconsistently  rated  issues  and  used 
+
+indicator of misclassification in regression analysis to determine which variables are responsible 
+
+for inconsistent rating. It turned out that there are few bond specific variables that are significant 
+
+and can explain such ratings. Results obtained are significant but do not explain all variation in 
+
+realized losses. Although author’s goal was not to build the model which explains total variation 
+
+observed it would be interesting in further studies to utilize firm-specific variables and additional 
+
+set of macroeconomic indicators which may account for the unexplained variation in losses. 
+
+The rest part of the master thesis is constructed as follows: 
+
+-  Chapter 1 discusses the existing topic-related literature 
+
+-  Chapter  2  is  dedicated  to  study  the  relationship  between  rating  classes,  probability  of 
+
+default and loss given default 
+
+-  Chapter  3  introduces  realized  lifetime  loss  and  investigates  its  relationship  with  rating 
+
+classes. These results are used to count inconsistently rated bonds and to find out which 
+
+bond specific variables explain this phenomenon using regression models. 
+
+-  Master thesis is completed with conclusion and tables in Appendix 1-4 which give more 
+
+insights about sample used and other data. 
+
+ 
+
+ 
+
+7 
+
+Chapter 1. Literature review 
+
+1.  Studies  investigating  presence  of  information  about  default 
+
+frequency and loss given default in assigned ratings 
+
+There are number of studies on credit ratings quality and the relationship between default 
+
+frequencies  (which  is  good  proxy  for  default  probability)  as  well  as  recovery  rates  in  case  of 
+
+default  but  they  do  not  constitute  a  substantial  amount  in  scientific  literature.  One  possible 
+
+explanation  is  that  rating  agencies  are  publishing  their  own  very  detailed  papers  and  special 
+
+comments  and  are  able  to  do  this  on  broad  data  sample.  It  is  quite  reasonable  to  think  that 
+
+properly  assigned  ratings  should  reflect  information  about  both  probability  of  default  and  loss 
+
+given default. The purpose of this chapter is to investigate empirical results that were obtained in 
+
+the literature and highlight the most important points about rating agencies methodology. 
+
+1.1.  Examination  of  information  about  default  frequency  contained  in 
+
+assigned ratings 
+
+One  of  the  earliest  found  papers  is  Altman  (1989).  This  study  gives  an  idea  that  for 
+
+bondholders important information would be not only default probability but also volume lost in 
+
+case  of  default.  Here  it  should  be  noted  that  it  is  basically  the  idea  for  loss  given  default  (or 
+
+equally  the  recovery  rate;  this  concept  was  actually  introduced  by  three  major  rating  agencies 
+
+after recent financial crisis). Altman introduced the concept  named  mortality rate and defined it 
+
+for each rating class for a given year as 
+
+ 
+
+The result is that author found significant correlation between rating classes and this indicator of 
+
+defaults, specifically as it was expected the lowest mortality rates were obtained for the highest 
+
+rated (“AAA”) bonds which are increasing dramatically when moving into non-investment grade 
+
+issue classes. 
+
+Although at the time this article was published rating agencies have not used the notion of 
+
+recovery  rates,  Altman  did  the  research  on  relationship  between  the  percentage  of  par  that 
+
+investor could get by selling defaulted bond and rating classes. He found that actually there is no 
+
+correlation  between  first assigned rating and recovery  in case of default. Moreover, there  is  no 
+
+relationship for investment-grade and junk bond as well as time to default also has no impact on 
+
+recovery. 
+
+ 
+
+8 
+
+In  Godlewski  (2007)  paper  author  assessed  quality  of  ratings  assigned  to  banks  from 
+
+emerging economies. Sample consisted of 483 banks  from  developing  markets in  Europe, Asia 
+
+and  South  America.  On  this  data  author  run  a  logistic  model  for  defaults  prediction.  Then 
+
+according  to  these  probabilities  empirical  distribution  was  reconstructed  and  used  to  predict 
+
+ratings. Finally, these ratings were  used as inputs for scoring model as well as Moody’s ratings 
+
+to  find  appropriate  scale  for  replicated  possibilities.  As  the  result,  for  the  given  model  author 
+
+Godlewski  came  to  the  conclusion  that  Moody’s  ratings  are  on  average  in  line  with  default 
+
+frequencies presented in the data. 
+
+Another  important  question  that  was  raised  in  Bruche  and  Gonzalez-Aguado  (2010)  is 
+
+about  relationship  between  default  probabilities  and  state  of  economy.  In  addition  to  that 
+
+question  authors  also  studied  the  correlation  between  recoveries  and  credit  cycle  as  well  as 
+
+default  frequency.  Bruche and Gonzalez-Aguado claimed that  in recessions default  frequencies 
+
+should grow significantly and have to be followed by substantial drop in realized recoveries. In 
+
+the sample of about 2000 US issues experienced default event in period 1974 – 2005 they found 
+
+that  stated  above  hypothesis  is  correct.  In  order  to  model  state  of  economy  they  introduced  a 
+
+two-parameter Markov chain. Main feature of the model is that it is  completely defined by two 
+
+probabilities that are connected with  credit cycle: one for downturn state (which  is actually the 
+
+probability of switching into normal state) and the other for probability of  going into recession, 
+
+i.e. alteration from the normal state. This new additional variable indicating the state of economy 
+
+was  also  compared  to  the  set  of  macroeconomic  variables.  The  results  show  that  correlation 
+
+between  recoveries  and  probability  of  default  is  much  higher  that  correlation  between  each  of 
+
+this  two  variables  and  macroeconomics  indicators.  This  is  explicit  evidence  shows  that  for 
+
+explanation of recovery  it  is  more reasonable to use default  frequency as  the  basic  explanatory 
+
+variable  (and  vice  versa)  and  macroeconomic  ones  should  be  used  to  account  for  the  rest  of 
+
+unexplained variation in recovery rates. 
+
+The  working  paper  by  Hilscher  and  Wilson  (2013)  is  the  most  recent  one.  The  main 
+
+message of the paper is that for risk-averse bondholder credit ratings given that they are proper 
+
+measure  of  issuer  quality  should  contain  both  information  about  probability  of  default  and 
+
+market risk. The first question was assessed by modeling defaults with logistic regression using 
+
+as  explanatory  variables  available  bookkeeping  data  and  market-based  information.  Model 
+
+output was compared with actual default frequency. Prediction horizon was selected to be in the 
+
+range from one month to five years. For the shortest time period authors found that ratings do not 
+
+contain significant amount of supplementary  information compared to the used model. As  time 
+
+horizon expands it is reasonable to think that prediction power of the model will decline due to 
+
+uncertainty.  This  is  what  actually  was  found  in  the  paper.  For  all  other  time  periods  ratings 
+
+9 
+
+ 
+
+turned out to be inferior to the used model except the longest one, but ratings performance over 
+
+model  in  this  case  is  negligibly  higher.  As  for  the  second  question,  namely  whether  ratings 
+
+incorporate information for market risk authors constructed specific measure called failure beta. 
+
+They  obtained  that  there  is  strong  correlation  between  this  measure  and  rating  classes.  More 
+
+specifically,  failure  beta grows as rating class quality declines (from the highest to the  lowest). 
+
+This  fact proves that ratings are good indicators of  market risk. To conclude, authors state that 
+
+rating agencies do not incorporate all relevant information about default probability into ratings 
+
+but they turned out to be good predictors of market risk. 
+
+In Figlewski et al (2012) authors consider how various macroeconomic variables together 
+
+with firm-linked ones effect on default probability among rating classes. The main instrument for 
+
+this  purpose  was  Cox  hazard  model  in  reduced  form.  It  should  be  noted  that  sample  of  debts 
+
+utilized in the paper was extracted from Moody’s Default Risk Service database which is similar 
+
+to  those  used  in  the  master  thesis.  As  the  result  author  stated  that  rating  classes  incorporate 
+
+probability  of  default  properly  for  each  rating  category  and  predictive  power  of  the  model 
+
+increases with utilization of macroeconomic variables. This fact is in line with previous studies. 
+
+In  addition  the  higher  the  initial  rating  results  in  the  lower  probability  for  such  bond  to 
+
+experience a default event as well as to be downgraded. Another important conclusion is about 
+
+effects  connected  with  time  to  maturity  –  default  intensity  depends  on  this  bond  specific 
+
+characteristic,  namely  the  longer  the  time  horizon  the  higher  the  probability  of  default,  which 
+
+seems to be quite reasonable. 
+
+The  last  paper  in  this  subsection  mostly  refers  not  to  the  default  frequency  and  rating 
+
+classes  but  actually  to  inconsistently  rated  issues.  This  study  is  important  since  in  the  master 
+
+thesis  author  also  calculated  inconsistently  rated  issues  and  paper  may  provide  with  some 
+
+insights. Perraudin and Taylor (2004) considered sample of 1430 straight US dollar denominated 
+
+bonds that satisfied to some particular requirements. For these issues Nelson  – Siegel algorithm 
+
+was  implemented  to  extract  term  structures  for  yields  of  different  rating  classes  on  everyday 
+
+basis. In addition yield curves for different maturities were also constructed. Using term structure 
+
+of interest rates  fitted bond prices were calculated and  based on them  misclassified issues were 
+
+defined.  Finally,  authors  found that about 25% “AA”  bonds  have  misclassified rating.  Authors 
+
+claimed that such substantial amount of misclassified issues may be due to significant effect of 
+
+unaccounted risk premiums or taxes which have effectively make impact on discount rates. After 
+
+accounting for these factors authors decreased number of inconsistently rated bonds considerably 
+
+but it still remains significant. 
+
+ 
+
+10 
+
+1.2.  Examination  of  information  about  loss  given  default  contained  in 
+
+assigned ratings 
+
+There  are  a  few  major  papers  that  author  found  which  investigate  the  empirical 
+
+relationship  between  loss  given  default  (and  equivalently  recovery  rate)  and  rating  classes. 
+
+Explanation  of  this  phenomenon  is  that  rating  agencies  introduced  this  measure  only  after 
+
+numerous  default  numbers  during  past  financial  crisis.  Before  that  is  was  broadly  common  to 
+
+assume that probability of default and recovery are not correlated. The recent crisis showed that 
+
+it is quite strong and unreasonable assumption. Moreover, estimated recoveries  are published by 
+
+agencies  only  for  small  amount of  issues  that are rated and author was unable to find out why 
+
+rating agencies do not publish estimated recoveries for the rest debts. 
+
+As  in  above  review  for  default  probability  results  from  the  articles  are  not  in  line  with 
+
+each other. The first paper was already discussed; it is Altman (1989) where author specified that 
+
+there is no dependence between first assigned rating and realized recovery after default. Also it 
+
+was  stated  that  if  one  considers  subsamples  of  non-investment  and  investment  grade  bonds 
+
+separately the result remains unchanged indicating that there is no relationship irrespectively for 
+
+these subclasses. 
+
+In  paper  by  Carey  (1998)  author  investigates  main  features  of  bond  portfolios  – 
+
+distribution of losses given specific issue risk. Sample consists of  debts covering period 1986 – 
+
+1992. This issue specific risk is estimated via supervisory ratings. As the result Carey states that 
+
+distribution of losses has poor correlation with debt classes which supports Alman’s conclusion. 
+
+The next paper is of the recent ones. In Bade et al (2011) it is stated that there should be 
+
+strong correlation between rating classes and recoveries. In this article Heckman-type regression 
+
+model was  introduced for simultaneous estimation of default probability and recovery rate. Set 
+
+of  explanatory  variables  consisted  of  ratings  itself  and  broad  set of  macroeconomic  indicators. 
+
+The  choice  for  the  model  was  made  for  Heckman  regression  because  on  the  used  sample 
+
+(obtained  from  Moody’s  database  for  US  issues)  authors  found  significant  correlation  between 
+
+recoveries at default and probabilities of  such events, thus they were  intended to estimate both 
+
+parameters simultaneously. In paper mentioned one possible explanation of phenomenon that in 
+
+previous  studies  no  correlation  for  recoveries  and  rating  classes  was  found  –  recovery  rate  is 
+
+observable only for defaulted issues and is not defined for non-defaulted ones. Therefore, it may 
+
+be  the  case  that  previous  papers  suffered  from  biased  data.  Estimating  the  introduced  model 
+
+authors  claimed  that  they  considered  this  problem  carefully  when  studied  the  empirical 
+
+relationship.  In  addition,  four  different  subtypes  of  model  were  estimated  and  some  of  them 
+
+turned  out to  have  high  explanatory  power.  In  these  models  parameter  lambda  was  significant 
+
+ 
+
+11 
+
+and  it  is  explicit  proof  that  results  of  the  model  correctly  accounts  for  correlation  between 
+
+recoveries and probability of default. 
+
+Varma et al (2003) presented a special comment from Moody’s research division which 
+
+also gives the evidence that recovery rates are correlated with rating classes  – there  is positive 
+
+relationship  indicating  that  recoveries  decline  for  lower  quality  rating  classes,  the  highest  ones 
+
+are  for  AAA  issues  and  monotonously  go  down  for  non-investment  grade  bonds.  The  sample 
+
+used consisted of corporate debts only covering defaults happened in period from 2000 to 2003. 
+
+All  computational  process  was  conducted  for  equally  weighted  and  value  weighted  portfolios. 
+
+The  last  one  was  implemented  to  check  whether  ratings  perform  better  for  issues  wit h  higher 
+
+outstanding amount and it was found that defaults on higher volume issues are followed by lower 
+
+recoveries. This is reasonable to study these two cases separately and in this master thesis author 
+
+implemented both approaches. The sample used was again Moody’s DRS database and consisted 
+
+of both bonds and preferred stocks, although number of stocks is quite small (111 compared to 
+
+2500 for bonds). In spite of found positive relation it is mentioned that results are not extremely 
+
+robust. 
+
+Altman  and  Kishore  (1996)  present  a  comprehensive  research  on  recovery  rates.  There 
+
+are many variables that potentially may influence the recovery, the most important ones are: 
+
+  Debt seniority – as it was pointed out, on average in the sample recoveries decline with 
+
+decrease  in  seniority.  This  is  quite  reasonable  to  assume,  since  in  case  of  default 
+
+bondholders with the  highest priority claims (senior secured) will receive  more because 
+
+they are paid first 
+
+  Debt industry also should affect the recovery. The highest recovery rates are observed for 
+
+utilities, chemicals, petroleum and  food industries. This seems reasonable  since even  in 
+
+case of default products of companies from these industries will be in demand thus would 
+
+give the ability for business to recover more value. 
+
+Tests  for  statistical  significance  conducted  in  the  article  proved  that  debt  seniority  and 
+
+belonging to particular industry describes diverse recovery rates. Nevertheless, authors note that 
+
+rating  class  has  no  impact  on  recovery  taking  explicitly  under  consideration  debt  seniority 
+
+(considering separately investment and non-investment grade categories). 
+
+ 
+
+In  Altman  et  al  (2005)  authors  analyzed  the  relation  between  default  probabilities  and 
+
+loss given default using on corporate bonds sample. As it was mentioned earlier, before the crisis 
+
+2008 the vast majority of empirical studies as well as practical models treated default frequency 
+
+and  recovery  rates  as  uncorrelated  variables.  Functional  dependence  of  recoveries  was  based 
+
+only on previously observed recoveries, sometimes collateral and bond seniority were also taken 
+
+into account. Nevertheless, authors in 2005 on used data managed to obtain the results that such 
+12 
+
+ 
+
+approach  has  to  be  changed  due  to  presence  of  correlation  between  these  variables.  Statistical 
+
+models  used  were  able  to  describe  the  most  part  of  variation  in  recovery  rates  using  default 
+
+frequencies,  debt  classes  and  backing  indicators  as  explanatory  variables.  This  leads  to  very 
+
+important conclusion for risk-managers and credit analysts. 
+
+2.  Methodologies  of  rating  agencies  for  default  probability  and 
+
+loss given default estimation 
+
+2.1.  Moody’s methodology 
+
+Moody’s  methodology  is  described  in  more  details  than  Standard  &  Poor’s  and  Fitch 
+
+ones for two reasons:  first is because author used sample extracted from Moody’s database and 
+
+second  because  the  rest  two  agency’s  methodologies  have  more  in  common  that  each  of  them 
+
+with Moody’s. 
+
+As  it  is  stated  in  Moody’s  corporate  brochure:  “credit  ratings  are  opinions  of  the  credit 
+
+quality  of  individual  obligations  or  of  an  issuer’s  general  creditworthiness”  (Moody’s  Ratings 
+
+Symbols  and  Definitions,  2009,  p.1).  Thus,  agency  assigns  ratings  analyzing 
+
+total 
+
+creditworthiness  of  the  issuer,  its  ability  to  repay  the  debt  on  its  own,  possibility  to  obtain 
+
+support  from  the  parent  structure  (if  it  is  applied),  accounting  data,  open  information  sources  
+
+and  information  that  the  issuer  provides  on  the  meetings.  Some  of  these  factors  have  higher 
+
+weight  but  these  weights  are  not  determined  beforehand.  As  Moody’s  says  each  issuer  is 
+
+analyzed separately and methodology has only general scheme. 
+
+For  default  probability  and  loss  given  default  estimation  Moody’s  uses  original 
+
+approaches: 
+
+  For  default  probability  is  utilized  Moody’s  KMV  RiskCalc  v.3.1  model.  This  model  uses 
+
+accounting information for particular company, namely ratios for profitability, leverage, debt 
+
+coverage,  liquidity  etc.  as  inputs  for  KMV  model  (which  is  practical  implementation  of 
+
+Merton’s model 1974). Through KMV structural model these indicators are transformed into 
+
+distance  to  default  which  is  then  mapped  with  expected  default  probability  using  own 
+
+proprietary default database. This model is purely econometric. 
+
+  For loss given default – Moody’s LossCalc V2 model. This model is also purely econometric 
+
+and  as  inputs  it  requires  data  on  debt  backing  as  well  as  possible  support  from  the  parent 
+
+structure, class of the debt, firm- and industry-specific variables and finally macro indicators. 
+
+For the  last one are used dummies  for states and the same distance to default as  in previous 
+
+model.  Model  also  uses  proprietary  database  for  realized  recoveries  for  bonds,  loans  and 
+
+preferred stocks. The aim is to estimate the market price of debt in 30 days after default event. 
+13 
+
+ 
+
+There  is  discrete  time  period  scale  for  which  estimates  are  produced:  Moody’s  assesses 
+
+recovery  as  if  default  would  have  happened  at  the  very  moment  and  after  1  year  from  the 
+
+moment. 
+
+As  it  was  mentioned  above  approach  for  estimation  is  based  on  statistical  information. 
+
+Crucial  point  here  is  that  in  spite  of  highlighted correlation  between  probability  of  default  and 
+
+recovery rate as articles state (which is simply one less loss given default) Moody’s is estimating 
+
+these two variables separately. 
+
+Moody’s defines recovery rate as percentage of par value which constitutes market price 
+
+of defaulted issue 30 days after default event. As for default the definition is the following: 
+
+“a  missed  or  deferred  payment  of  interest  and/or  principal,  <…>  bankruptcy,  administration, 
+
+legal receivership, or other legal  blocks, a distressed exchange occurs where the  issuer offers a 
+
+new  security  or  package  of  securities  of  lower  amount  <…>  or  the  exchange  had  the  apparent 
+
+purpose  of  helping  the  borrower  avoid  default”  (“Frequently  Asked  Questions”,  Moody’s 
+
+Corporate Default Risk Service, p.1) 
+
+ 
+
+Having estimated rating for the particular issue Moody’s uses the following procedure to 
+
+determine the rating for a bond: agency adjusts issuer’s rating in upward or downward direction 
+
+based on difference between estimated LGD and LGD for set of issuers from the same industry. 
+
+Moody’s claims that only relative values of LGD are vital for rating assignment. LGD ranking as 
+
+well as rating scheme are the following 
+
+Assessments 
+
+Loss range 
+
+ 
+
+ 
+
+Table 1 
+Moody’s ratings and loss given default scales 
+
+LGD1 
+
+LGD2 
+
+LGD3 
+
+LGD4 
+
+LGD5 
+
+LGD6 
+
+≥0% and <10% 
+
+≥10% and <30% 
+
+≥30% and <50% 
+
+≥50% and <70% 
+
+≥70% and <90% 
+
+Investment grade ratings 
+
+Aaa, Aa, A, Baa 
+
+≥90% and ≤100% 
+
+Non – investment grade ratings 
+
+Ba, B, Caa, Ca, C 
+
+The source: Moody’s Ratings Symbols and Definitions. Moody’s Investor Service, 2009. pp. 
+12,19 
+Thus, Moody’s ratings implicitly account for recovery rates through loss given default as 
+
+indicated  above.  Using  this  result  it  makes  reasonable  to  compare  information  contained  in 
+
+ratings about probability of default and recoveries with realized lifetime loss measure that will be 
+
+introduced  in  Chapter  2.  This  measure  as  it  will  be  shown  includes  these  both  parameters  by 
+
+construction. 
+
+ 
+
+14 
+
+2.2.  Standard & Poor’s and Fitch methodology 
+
+Both  rating  agencies  again  claim  that  assigned  ratings  reflect  opinions  of  their  analysts 
+
+about credit risk. “Standard & Poor’s ratings express the agency’s opinion about the ability 
+
+and  willingness  of  an  issuer,  such  as  a  corporation  or  state  or  city  government,  to  meet  its 
+
+financial  obligations  in  full  and  on  time”  (“Guide  to  Credit  Rating  Essentials”,  Standard  & 
+
+Poor’s,  p.5).  Indicators  which  are  used  by  these  agencies  for  credit  rating  estimation  are  very 
+
+similar to those which Moody’s uses.  
+
+Standard & Poor’s and Fitch as well as Moody’s  may use technical  analysis  in order to 
+
+determine  ratings  but  only  as  a  component  for  the  process,  “Ratings  Not  Determined  by 
+
+Models.<…> The importance of a model in generating rating opinions ranges from substantial to 
+
+minor”  (“Managing  and  Developing  Criteria  and  Models”  Fitch  Ratings,  2011,  p.1).  S&P  and 
+
+Fitch also have separate approaches for default probability and recovery rates estimation but on 
+
+contrary  to  Moody’s  their  approaches  are  based  on  fundamentals  and  not  on  statistics  (like 
+
+modeling  changes  in  future  cash  flows,  possible  path  for  company’s  asset  values  etc.). 
+
+Nevertheless, agencies admit that they may use the same subset of indicators for both probability 
+
+of default and loss given default. These approaches have implied limitations – they have extreme 
+
+dependence on analyst’s assumptions. Also, S&P and Fitch are estimating the value of the issue 
+
+at  the  end  of  bankruptcy  period  while  Moody’s  estimates  market  price  30  days  after  default 
+
+event. 
+
+Rating  process  again  incudes  issue  analysis  with  preliminary  rating  assignment  and 
+
+afterwards take  place  process  called  “notching”.  It  is  very  similar  to  adjustment  technique  that 
+
+uses  Moody’s,  although  matching  scales  are  different:  S&P  has  seven  instead  of  six  levels  of 
+
+recoveries.  Also,  S&P  and  Fitch  adjust  ratings  using  estimated  recoveries  while  Moody’s  uses 
+
+loss given default. Nevertheless, due to unambiguous relationship between those two indicators 
+
+such  difference  seems  to  be  not  very  important.  Notching  standards  for  S&P  and  Fitch 
+
+respectively are listed below 
+
+Table 2 
+Standard & Poor’s and Fitch recovery rate scales 
+
+Standard & Poor’s 
+
+ 
+
+Fitch 
+
+Notches  
+
+Recovery 
+
+Recovery 
+
+from  
+
+Recovery 
+
+Recovery 
+
+level 
+
+range 
+
+level 
+
+range 
+
+1+ 
+
+1 
+
+100% 
+
+≥90% and <100% 
+
+issuer 
+
+rating 
+
++3 
+
++2 
+
+ 
+
+Notches 
+
+from 
+
+issuer 
+
+rating 
+
+RR1 
+
+RR2 
+
+≥91% and ≤100% 
+
+≥71% and ≤90% 
+
++3 
+
++2 
+
+15 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+≥70% and <90% 
+
++1 
+
+≥50% and <70% 
+
+≥30% and <50% 
+
+≥10% and <30% 
+
+≥0% and <10% 
+
+0 
+
+0 
+
+-1 
+
+-2 
+
+RR3 
+
+RR4 
+
+RR5 
+
+RR6 
+
+≥51% and ≤70% 
+
+≥31% and ≤50% 
+
+≥11% and ≤30% 
+
++1 
+
+0 
+
+-1 
+
+≥0% and ≤10% 
+
+from -2 to -3 
+
+ 
+
+ 
+
+ 
+
+The source: A Guide To The Loan Market.  Standard & Poor’s, 2011, p. 34 
+
+Ratings and Notching Criteria for Non-Financial Corporate Issuers. Fitch Ratings, 2012. p. 1 
+
+3.  Conclusions for Chapter 1 
+
+1.  Existing  literature  presents  very  controversial  conclusions  on  relationship  between 
+
+default probability and rating classes as well as recovery rates and debt ratings. 
+
+2.  Nevertheless, the trend in presented articles is the following: 
+
+- 
+
+from  the  beginning  of  studies  on  default  probability  to  nowadays  number  of 
+
+articles  in which argued  strong correlation  between default  frequency  and rating 
+
+classes increased 
+
+-  almost  all  papers  present  statement  that  ratings  are  good  indicators  for  default 
+
+probability, although  in  some of them authors argue that  ratings all alone do not 
+
+explain defaults and suggest to use additional explanatory variables 
+
+3.  All  three  rating  agencies  have  their  own  approach  for  default  probability  and  recovery 
+
+(loss given default for Moody’s). Approaches have similar trait – first step is preliminary 
+
+rating  assignment,  second  is  to  make  an  adjustment  for that rating  using  estimated  loss 
+
+given default or recovery rates. The most crucial difference among agencies is how they 
+
+estimate recovery rates: 
+
+-  Moody’s  uses  purely  statistical  approach  based  on  KMV  model  for  loss  given 
+
+default assessment 
+
+-  Standard & Poor’s as well as Fitch conduct quantitative estimation process based 
+
+on various expectations about future outcomes  for balance sheet  items and other 
+
+indicators 
+
+ 
+
+16 
+
+ 
+
+ 
+
+Chapter  2.  Empirical  research  on  credit  ratings  classes  and 
+information contained in ratings 
+
+Credit  ratings  emerged  more  than  century  ago  as  an  assessment  of  risk  associated  with 
+
+particular debtor. They present an opinion of credit rating agency about the credit quality of the 
+
+debt  issuer  which  reflects  ability  to  meet  the  obligations.  The  measure  of  risk  incorporated  in 
+
+obligation  is  closely  associated  with  likelihood  that  the  issuer  will  default.  Therefore,  having 
+
+historical data on the pool of securities one should find the correlation between assigned ratings 
+
+and  default  frequencies  in  the  sample.  In  their  methodologies,  credit  rating  agencies  typically 
+
+plot such graphs indicating that the most part of happened defaults are concentrated amongst low 
+
+rated issues. If this is the case then it may be interpreted as the evidence that agencies do make 
+
+accurate forecasts on default probabilities.  
+
+The empirical question that arises  is what would  be the appropriate way to estimate the 
+
+quality of ratings? Is it enough just simply to count defaults as credit rating agencies frequently 
+
+report.  Or  maybe  the  quality  of  ratings  is  better  reflected  by  realized  recovery  or  alternatively 
+
+loss given default? Perhaps it is the case empirically that default frequency in a given rating class 
+
+and  loss  given  default  in  the  same  rating  class  are  highly  correlated.  In  that  case,  the  default 
+
+experience alone would be a sufficient statistic on the goodness of a rating. But if the correlation 
+
+is low, both statistics could give different answers about the goodness of the ratings of a rating 
+
+agency. 
+
+In the real world investors vary with their risk appetite. Such investors may be interested 
+
+not  only  in  likelihood  that  particular  issuer  would  go  into  default  but  also  when  default  will 
+
+occur and what the recovery rate would be. In this paper author proposes alternative measure for 
+
+quality  of  credit  ratings  called  realized  lifetime  loss.  This  measure  as  its  name  indicates 
+
+compares  actually  made  payments  during  the  lifetime  of  the  bond  with  “promised”  payments. 
+
+The idea for this measure was introduced by Richard Hainsworth in the unpublished paper “The 
+
+meaning of ratings”. The goal of this paper was to test this new measure on the real data to find 
+
+how well does it perform. 
+
+According to the realized lifetime loss promised payments are simply ones scheduled  in 
+
+final terms of the  issue.  It could  be calculated as  “one”  minus the ratio of the present value of 
+
+realized cash flows and the present value of promised cash flows. In this case, it would show the 
+
+percentage of promised payment that was actually lost by the bondholder. Another way is to use 
+
+difference  between  promised  and  realized  payments  which  will  be  the  loss  indicator  of  lost 
+
+amount of money. This measure has several preferences over simple method of default counting 
+
+like:  can  be  calculated  for  all  bonds  (not  only  for  defaulted  as  recovery  rate)  thus  it  avoids 
+
+ 
+
+17 
+
+selection  bias  and  may  be  used  in  regression  analysis  for  the  whole  sample,  has  direct 
+
+relationship with lifetime of the issue, i.e. time to maturity for non-defaulted and time to default 
+
+for the rest etc. 
+
+1.  Descriptive statistics of the sample used 
+
+The  main  source  of  the  data  was  Moody’s  Default  Risk  Service  (DRS)  proprietary 
+
+database created on November 11th, 2010. This database  is  Microsoft Access  format and  is the 
+
+same source of data that is used by Moody’s analysts for rating assignment research. It contains 
+
+16  distinct  tables  describing  all  Moody’s  rated  debts,  corresponding  issuers,  defaults  history, 
+
+watch 
+
+lists  etc.  More  comprehensive  description  could  be  found 
+
+in  DRS  Technical 
+
+Specifications. 
+
+Initially DRS database  contained of 442818 debts  from 34340 distinct  issuers. The data 
+
+spans  from 1970 to the date of database creation. Numbers of constraints were  imposed on the 
+
+initial sample to make it satisfying for the requirements of this research. They are the following: 
+
+1.  Leave only bonds since the paper is dedicated to bond analysis  
+
+2.  Exclude all debts without record of coupon rate (needed for realized lifetime loss)  
+
+3.  Moody’s reported that since 1982 methodology changed significantly, restrict sale date to 
+
+be  later  than  1982.  Also  drop  all  bonds  without  record  for  maturity  date  (needed  for 
+
+realized lifetime loss) 
+
+4.  For calculation purposes needed data on issuers domicile 
+
+5.  For regression analysis needed information about industry 
+
+6.  First  assigned  rating  is  in  1982  (for  realized  lifetime  loss  and  Lorenz  curves  since 
+
+methodology changed in 1982) 
+
+7.  Author was interested in examining rating quality of long term ratings, thus all short term 
+
+and  provisional  ratings  were  excluded  (the  last  ones  excluded  due  to  fact  that  they 
+
+constituted a very small amount in the sample and only part of them was later assigned a 
+
+“regular” rating) 
+
+8.  For realized lifetime loss one needs proper discount rates. Author calculated this measure 
+
+only for U.S. debts for two reasons: U.S. bonds constitute the vast majority of sample and 
+
+discount rates for such issues can be easily obtained for broad list of maturities. 
+
+Also to analyze value weighted portfolio needed the record on bond’s face value. 
+
+All  debts  with  variable  and  unknown  frequencies  were  excluded  for  computational 
+
+purposes. 
+
+ 
+
+18 
+
+Also technical defaults were excluded. Default types are shown  in  Appendix 2. Default 
+
+was considered to be technical for the following combinations of default type – resolution 
+
+types – bankruptcy types:  
+
+Grace period default – * – * (* stands for any value of the item) 
+
+Missed  interest payment  – Made Interest Payment/Creditors paid  in  full/Made principal 
+
+payment – * 
+
+Missed  principal  and  interest  payments  –  Null/Creditors  paid  in  full/Made  principal 
+
+payment/Made interest payment – * 
+
+9.  Subsample of defaulted bonds consists of the following frequencies:  monthly, quarterly, 
+
+semiannual,  annual  and  accrued.  As  for  bonds  from  non-defaulted  subsample,  their 
+
+frequencies take the same values plus additional ones: biweekly, bimonthly, and biannual 
+
+(for  instance,  biannual  bond  pays  coupon  every  two  years).  Author  counted  number  of 
+
+such  bonds  and  come  up  with  the  following  numbers:  1  for  biweekly,  1  for  bimonthly 
+
+and 39 for biannual. These 1 + 1 + 39 = 41 bonds represent a negligible amount in non-
+
+defaulted subsample, so author decided to exclude them to make frequency types  among 
+
+two subsamples identical. 
+
+10. Due to significant discrepancies in methodologies only corporate bonds were left 
+
+Finally  sample  consisted  of  47398  debts  (19055  from  financial  and  28343  from  non-
+
+financial  sectors),  1664  defaulted  debts  (436  and  1228  defaults  in  financial  and  non-
+
+financial subsamples respectively) and 5854 issuers. 
+
+ 
+
+Sample selection summary is listed in the table 
+
+Table 3 
+Sample selection process 
+Step  Number of issues in the sample  Number of issuers in the sample 
+
+379330 
+256316 
+244710 
+244705 
+241684 
+237399 
+231439 
+121777 
+121736 
+47398 
+
+15385 
+13292 
+11825 
+11822 
+11123 
+11123 
+10653 
+5893 
+5893 
+5854 
+
+The source: author’s calculations based on Moody’s DRS database 
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+
+ 
+
+Summary for the initial Moody’s DRS database is listed in Appendix 1. 
+
+ 
+
+ 
+
+ 
+
+19 
+
+Characteristics of the final sample are the following: 
+
+  Number of debts is 47398, number of issuers is 5854 
+
+  Number of defaulted issues is 1664, number of non-defaulted issues is 45734 
+
+  Number  of  bond 
+
+types 
+
+is  5: 
+
+regular  bond/debenture,  convertible/exchange 
+
+bond/debenture, first mortgage bond, revenue bond and secured lease obligation bond 
+
+  Number  of  seniority  types  is  7:  junior  subordinated,  subordinated,  senior  unsecured, 
+
+senior subordinated, senior secured, multiple seniority and revenue bonds 
+
+  All bonds sold in period 1982-2010 
+
+  Number  of  coupon  frequency  types  is  5:  monthly,  quarterly,  semiannual,  annual  and 
+
+accrued 
+
+  Technical  defaults  were  excluded:  carefully  analyzing  sample,  author  came  to  the 
+
+conclusion that all other cases, except three ones  listed  in subentry 8 above, resulted  in 
+
+default on  bond (to avoid  here  misunderstanding,  in each  scenario  bankruptcy type was 
+
+such that is was non-technical default) 
+
+  Number of debts with collateral is 9846, number of debts without collateral is 37552 
+
+  Number  of  industries  is  35  and  distributions  of  debts  and  issuers  across  industries  are 
+
+presented in Appendix 2 
+
+  Rating distribution is listed in Appendix 2 
+
+2.  The methodology and obtained results 
+
+2.1. 
+
+Investigation  of  relationship  between  rating  classes  and  default 
+
+frequency 
+
+The  first  question  that  arises  is  whether  quality  of  assigned  ratings  can  be  assessed  by 
+
+simply  counting  number  of  defaulted  debts  as  rating  agencies  often  report.  For  this  purpose 
+
+author  plotted  graphs  that  show  the  relationship  between  cumulative  share  of  different  rating 
+
+classes  in  total  defaults  number  and  cumulative  share  of  different  rating  classes  in  total  debts 
+
+number for two cases: equally weighted portfolio and value weighted portfolio. For the first case 
+
+author  simply  calculated  share  of  bonds  in  each  rating  class  treating  them  as  having  the  same 
+
+face values, and in the second case author utilized issue’s  recorded face value as a measure for 
+
+assigning weight. To clarify the last point, used face value is the total issue value that is recorded 
+
+in Moody’s Default Risk Service database, for instance, if bond’s face value is 100 and issue size 
+
+was 5000 then used face value is equal to 500000. 
+
+For equally weighted portfolio all auxiliary steps can be summarized as follows: 
+
+ 
+
+20 
+
+-  Take the subsample of defaulted bonds, calculate shares of each rating class (C, Ca, Caa, 
+
+B,  Ba,  Baa,  A,  Aa,  Aaa)  in  this  subsample  simply  dividing  number  of  issues  from  a 
+
+particular class by total number of issues in subsample 
+
+-  Calculate  cumulative  shares  of  this  rating  classes  in  subsample  of  defaulted  bonds,  i.e. 
+
+cumulative  share  for  C  class  is  simply  its  share  in  subsample  of  defaulted  issues, 
+
+cumulative  share  of  Ca  class  is  cumulative  share  of  C  class  plus  share  of  Ca  issues  in 
+
+defaulted subsample, etc. 
+
+-  Do the same steps but use the whole sample instead of only sample with defaulted issues 
+
+-  Plot  cumulative  shares  calculated  for  defaulted  subsample  against  cumulative  shares  of 
+
+the same classes calculated for the whole sample 
+
+For  value  weighted  portfolio  the  algorithm  is  essentially  the  same  with  one  minor 
+
+exception: for this case author calculated shares of ratings classes by summing up face values of 
+
+issues  in particular rating class and then dividing  by the total  face value of  issues  in the whole 
+
+sample (for share in the whole sample) or by the face value of issues in defaulted subsample (for 
+
+share in the defaulted subsample). Then author calculated cumulative shares as described in case 
+
+of equally weighted portfolio. 
+
+Such plot  is called a cumulative accuracy plot also known as  Lorenz curve. If  assigned 
+
+ratings  contain  no  relevant  data  about  likelihood  of  default,  the  curve  on  average  would  be 
+
+diagonal. On contrary, if ratings possess a perfect information about default, only issues with the 
+
+lowest ratings would default (i.e. they accumulate all defaults happened in the sample). 
+
+For  the  purpose  of  accuracy  estimation  author  used  broadly  utilized  definition  of 
+
+accuracy ratio (Gini coefficient) defined as ratio of the area between the empirical curve and the 
+
+straight diagonal line (random model) over the area between ideal case and random model. 
+
+Also,  considering  this  case  author’s  intention  was  to  investigate  whether  the  rating 
+
+agencies better assess quality of  issues over the  shorter horizon than  in the  long run. This was 
+
+done  by  plotting  the  same  graphs  described  above  (equally  and  value  weighted  portfolios)  for 
+
+cases when bonds gone into default in period less than 1 year after initial rating assignment and 
+
+for the case when default happened after 1 year. 
+
+Sample used  is the  same as described  in this chapter. This  sample consists of corporate 
+
+debts only. Nevertheless, these bonds are from both financial (commercial and investment banks, 
+
+brokerages  etc.)  and  non-financial  industries.  Rating  methodologies  have  some  differences  for 
+
+these industries, namely accounting standards and disclosure requirements are different for banks 
+
+and non-banks. That is why when rating agencies perform their credit analysis they operate with 
+
+different indicators and in different ways for these two industries.  
+
+ 
+
+21 
+
+Results  for  relationship  between  default  frequency  and  first  assigned  rating  for  the 
+
+subsample  of  debts  from  financial  industry  is  shown  in  diagrams  1  and  2.  Here  and  thereafter 
+
+marks “Ca” – “Aaa” on diagrams denote the right end of the interval, for instance, “Baa” denotes 
+
+the cumulative share of all Baa rated issues. That is it is the share of Ca, Caa, B, Ba, Baa bonds 
+
+in total amount. 
+
+Default frequency. Equally weighted portfolio (the whole sample) 
+
+ 
+
+g
+n
+i
+t
+a
+r
+ 
+t
+n
+e
+r
+e
+f
+f
+i
+d
+ 
+f
+o
+e
+r
+a
+h
+s
+ 
+e
+v
+i
+t
+a
+u
+m
+u
+C
+
+l
+
+ 
+
+ 
+r
+e
+b
+m
+u
+n
+ 
+s
+t
+l
+u
+a
+f
+e
+d
+
+ 
+l
+
+a
+t
+o
+t
+ 
+n
+
+i
+ 
+s
+e
+s
+s
+a
+
+l
+c
+
+100%
+
+80%
+
+60%
+
+40%
+
+20%
+
+0%
+
+A 
+
+Aa 
+
+Aaa 
+
+Baa 
+Ca - Ba 
+
+Lorenz curve (empirical relationship)
+
+Random model (no dependence present)
+
+Accurate model (perfect relationship)
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+Cumulative share of different rating classes in total debts number 
+
+ 
+
+Diagram 1 
+
+The source: author’s calculations based on Moody’s DRS database 
+
+Diagrams that relate default frequency and rating classes for defaults happened in period 
+
+less  than  1  year  and  after  1  year  from  first  rating  assignment  are  not  presented  here  for  debts 
+
+from  financial  industry  because  they  show  almost  no  difference  to  the  diagram  for  the  whole 
+
+financial industry subsample. 
+
+100%
+
+80%
+
+60%
+
+40%
+
+20%
+
+0%
+
+Default frequency. Value weighted portfolio (the whole sample) 
+
+A 
+
+Aa 
+
+Aaa 
+
+Baa 
+
+Ca - Ba 
+20%
+
+0%
+
+Lorenz curve (empirical relationship)
+
+Random model (no dependence present)
+
+Accurate model (perfect relationship)
+
+40%
+
+60%
+
+80%
+
+100%
+
+Cumulative share of different rating classes in total issue amount 
+
+ 
+
+Diagram 2 
+
+22 
+
+ 
+t
+n
+u
+o
+m
+a
+ 
+s
+e
+u
+s
+s
+i
+ 
+
+d
+e
+t
+l
+u
+a
+f
+e
+d
+
+ 
+l
+
+a
+t
+o
+t
+ 
+n
+
+i
+ 
+s
+e
+s
+s
+a
+
+l
+c
+
+ 
+
+g
+n
+i
+t
+a
+r
+ 
+t
+n
+e
+r
+e
+f
+f
+i
+d
+ 
+f
+o
+e
+r
+a
+h
+s
+ 
+e
+v
+i
+t
+a
+u
+m
+u
+C
+
+l
+
+ 
+
+ 
+
+The source: author’s calculations based on Moody’s DRS database 
+
+As  for equally weighted  portfolio, diagrams  for the  horizon  less than 1  year and  after 1 
+
+year from initial rating assignment are skipped again for the same reason. 
+
+The same approach was applied for the subsample of debts from non-financial industry. 
+
+Results for relationship under investigation for this subsample are shown below in diagram 3 to 
+
+diagram 6 
+
+Default frequency. Equally weighted portfolio (the whole sample) 
+
+ 
+
+g
+n
+i
+t
+a
+r
+ 
+t
+n
+e
+r
+e
+f
+f
+i
+d
+ 
+f
+o
+e
+r
+a
+h
+s
+ 
+e
+v
+i
+t
+a
+u
+m
+u
+C
+
+l
+
+ 
+
+ 
+
+g
+n
+i
+t
+a
+r
+ 
+t
+n
+e
+r
+e
+f
+f
+i
+d
+ 
+f
+o
+e
+r
+a
+h
+s
+ 
+e
+v
+i
+t
+a
+u
+m
+u
+C
+
+l
+
+ 
+
+ 
+r
+e
+b
+m
+u
+n
+ 
+s
+t
+l
+u
+a
+f
+e
+d
+
+ 
+l
+
+a
+t
+o
+t
+ 
+n
+
+i
+ 
+s
+e
+s
+s
+a
+
+l
+c
+
+ 
+r
+e
+b
+m
+u
+n
+ 
+s
+t
+l
+u
+a
+f
+e
+d
+
+ 
+l
+
+a
+t
+o
+t
+ 
+n
+
+i
+ 
+s
+e
+s
+s
+a
+
+l
+c
+
+Ba 
+
+B 
+
+100%
+
+80%
+
+60%
+
+40%
+
+20%
+
+0%
+
+Caa 
+Ca 
+
+Baa 
+
+A - Aaa 
+
+Lorenz curve (empirical relationship)
+
+Random model (no dependence present)
+
+Accurate model (perfect relationship)
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+Cumulative share of different rating classes in total debts number 
+
+ 
+
+Diagram 3 
+
+The source: author’s calculations based on Moody’s DRS database 
+
+Default frequency. Equally weighted portfolio (defaulted in 1 year) 
+
+100.00%
+
+80.00%
+
+60.00%
+
+40.00%
+
+20.00%
+
+0.00%
+
+B  Ba 
+
+Baa 
+
+A - Aaa 
+
+Caa 
+
+Ca 
+
+Lorenz curve (empirical relationship)
+
+Random model (no dependence present)
+
+Accurate model (perfect relationship)
+
+0.00%
+
+20.00%
+
+40.00%
+
+60.00%
+
+80.00%
+
+100.00%
+
+Cumulative share of different rating classes in total debts number 
+
+ 
+
+Diagram 4 
+
+The source: author’s calculations based on Moody’s DRS database 
+
+Diagram  for  defaults  happened  in  period  after  1  year  from  first  rating  assignment  is 
+
+missed because it is essentially the same as for the whole sample. 
+
+ 
+
+23 
+
+ 
+
+g
+n
+i
+t
+a
+r
+ 
+t
+n
+e
+r
+e
+f
+f
+i
+d
+ 
+f
+o
+e
+r
+a
+h
+s
+ 
+e
+v
+i
+t
+a
+u
+m
+u
+C
+
+l
+
+ 
+
+ 
+
+g
+n
+i
+t
+a
+r
+ 
+t
+n
+e
+r
+e
+f
+f
+i
+d
+ 
+f
+o
+e
+r
+a
+h
+s
+ 
+e
+v
+i
+t
+a
+u
+m
+u
+C
+
+l
+
+ 
+
+ 
+t
+n
+u
+o
+m
+a
+ 
+s
+e
+u
+s
+s
+i
+ 
+
+d
+e
+t
+l
+u
+a
+f
+e
+d
+
+ 
+l
+
+a
+t
+o
+t
+ 
+n
+
+i
+ 
+s
+e
+s
+s
+a
+
+l
+c
+
+ 
+t
+n
+u
+o
+m
+a
+ 
+s
+e
+u
+s
+s
+i
+ 
+
+d
+e
+t
+l
+u
+a
+f
+e
+d
+
+ 
+l
+
+a
+t
+o
+t
+ 
+n
+
+i
+ 
+s
+e
+s
+s
+a
+
+l
+c
+
+Default frequency. Value weighted portfolio (the whole sample) 
+
+100%
+
+80%
+
+60%
+
+40%
+
+20%
+
+0%
+
+100%
+
+80%
+
+60%
+
+40%
+
+20%
+
+0%
+
+Ba 
+
+B 
+
+Caa 
+Ca 
+
+A - Aaa 
+
+Baa 
+
+Lorenz curve (empirical relationship)
+
+Random model (no dependence present)
+
+Accurate model (perfect relationship)
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+Cumulative share of different rating classes in total issue amount 
+
+ 
+
+Diagram 5 
+
+The source: author’s calculations based on Moody’s DRS database 
+
+Default frequency. Value weighted portfolio (defaulted in 1 year) 
+
+B  Ba 
+
+Baa 
+
+A - Aaa 
+
+Caa 
+
+Ca 
+
+Lorenz curve (empirical relationship)
+
+Random model (no dependence present)
+
+Accurate model (perfect relationship)
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+Cumulative share of different rating classes in total issue amount 
+
+ 
+
+Diagram 6 
+
+The source: author’s calculations based on Moody’s DRS database 
+
+As  for  equally  weighted  portfolio,  diagram  that  relates  default  frequency  and  rating 
+
+classes for defaults happened in period after 1 year from first rating assignment is skipped again 
+
+for the same reason. 
+
+As  measure  of  accuracy  author  has  used  Gini  coefficients.  They  are  listed  for  both 
+
+financial  and  non-financial  subsamples  below  as  well  as  for  all  time  periods  described  in  the 
+
+beginning of this section 
+
+ 
+
+ 
+
+ 
+
+24 
+
+Table 4 
+Gini coefficients for default frequency and assigned ratings 
+
+Default occurred in period 
+less than 1 year from first 
+
+rating assignment 
+
+Default occurred in 
+
+period after  1 year from 
+first rating assignment 
+
+0.554 
+
+0.574 
+
+0.671 
+
+0.486 
+
+All 
+
+sample 
+debts 
+
+0.552 
+
+0.540 
+
+0.572 
+
+0.588 
+
+0.676 
+
+0.867 
+
+0.501 
+
+0.804 
+
+Gini coefficient 
+
+ 
+s
+t
+b
+e
+d
+
+ 
+s
+t
+b
+e
+d
+
+ 
+l
+a
+i
+c
+n
+a
+n
+F
+
+i
+
+ 
+l
+a
+i
+c
+n
+a
+n
+
+i
+f
+-
+n
+o
+N
+
+p
+m
+a
+s
+b
+u
+s
+
+p
+m
+a
+s
+b
+u
+s
+
+e
+l
+
+  Equally 
+weighted 
+portfolio 
+
+Value 
+
+weighted 
+portfolio 
+  Equally 
+weighted 
+portfolio 
+
+e
+l
+
+Value 
+
+weighted 
+portfolio 
+
+ 
+
+The source: author’s calculations based on Moody’s DRS database 
+
+It  can  be  seen  from  the  diagrams  for  sample  that  includes  only  debts  from  financial 
+
+industry  assigned  ratings  on  average  contain  information  for  default  probability  but  ratings 
+
+should be used together with some other explanatory variables: 
+
+-  Gini coefficients take moderate values (around 0.55 for all cases under consideration) 
+
+-  due to high regulation and government support financial  subsample consisted  mostly of 
+
+- 
+
+- 
+
+the  highest  rated  debts  (roughly  less  than  90%  of  total  issues  are  “A”-“Aaa”  rated, the 
+
+rest are Ba-Baa). The highest defaults number is in “A” category (81%) which is due to 
+
+the fact that sample horizon includes 2008 crisis when a lot of high rated banks defaulted 
+
+this may be the evidence that rating agencies do not properly take into account all risks of 
+
+the financial industry and methodology should be adjusted 
+
+ratings better reflect default probability for value weighted portfolio as measured by Gini 
+
+coefficients  although  there  is  no  big  difference.  It  means  that  rating  agencies  assess 
+
+slightly  better  higher  volume  issues.  This  relationship  becomes  even  stronger  for  the 
+
+short run in this case but it is not observed for equally weighted portfolio 
+
+ 
+
+Results for non-financial subsample differ dramatically:  
+
+-  we  see  that  equally  weighted  portfolio  performs  much  better  in  this  case  than  for 
+
+financial  subsample.  It  is  the  evidence  that  in  spite  of  past  crisis  ratings  methodology 
+
+properly accounts for possible risks in non-financial industry 
+
+- 
+
+ratings predictive power (accuracy coefficients) for default probability dramatically rises 
+
+on the 1 year horizon for both equally and value weighted portfolios. It means that ratings 
+
+itself are sufficient predictors in the short run 
+
+25 
+
+ 
+
+-  value  weighted  portfolio  demonstrates  poorer  performance  for  non-financial  industry 
+
+compared to equally weighted one, which indicates that lower size issues are rated better 
+
+The results for both subsamples are in line with Altman (1989) in sense that there exists 
+
+strong evidence that ratings possess  information  of default probability,  for  financial  subsample 
+
+are partially consistent with Godlewski (2007). The most probable explanation for the last is that 
+
+in Godlewski sample’s time period had not overlapped with crisis 2008 (on contrary with sample 
+
+used in master thesis) as well as his model did not took into account economy cycles. The results 
+
+are  also  in  good  match  with  Brude  and  Gonzales-Aguado  (2010)  which  explains  significant 
+
+defaults  number  in  financial  debts  subsample.  Also  better  performance  of  ratings  on  1  year 
+
+horizon is line with Hilscher and Wilson (2013) and Figlewski et al (2012) 
+
+2.2. 
+
+Investigation  of  relationship  between  rating  classes  and  loss  given 
+default 
+
+The  second  question  that  arises  is  whether  credit  ratings  reflect  any  additional 
+
+information  namely  if  they  can  be  used  for  prediction  of  recovery  rate  at  default  or  loss  given 
+
+default, since these two measures are connected via relationship LGD = 1 – RR. For this purpose 
+
+author  plotted  graphs  that  show  the  relationship  between  cumulative  share  of  different  rating 
+
+classes  in  total  loss  given  default  and  cumulative  share  of  different  rating  classes  in  total 
+
+defaulted debts number. The crucial point here which  makes the  main difference with previous 
+
+part  that  author  had  to  work only  with  defaulted  subsample,  since  LGD  is  observable  only  for 
+
+defaulted  issues.  Again,  two  cases  were  considered  separately:  equally  weighted  portfolio  and 
+
+value  weighted  portfolio.  Issue’s  recorded  face  value  was  utilized  as  a  measure  for  assigning 
+
+weight. 
+
+Calculation steps for equally weighted portfolio: 
+
+-  Consider only subsample of defaulted bonds 
+
+-  Calculate shares of each rating class (C, Ca, Caa, B, Ba, Baa,  A, Aa, Aaa)  in total  loss 
+
+given default of the subsample, assuming all face values equal (for instance, equal to 1) 
+
+-  Calculate  cumulative  shares  of  this  rating  classes  in  total  loss  given  default,  i.e. 
+
+cumulative  share  for  C  class  is  simply  its  share  in  total  loss  given  default  of  the 
+
+subsample, cumulative share of Ca class is cumulative share of C class plus share of Ca 
+
+issues in total loss given default of the subsample, etc. 
+
+-  Calculate  shares  of  each  rating  class  (C,  Ca,  Caa,  B,  Ba,  Baa,  A,  Aa,  Aaa)  in  this 
+
+subsample  simply  dividing  number  of  issues  from  a  particular  class  by  total  number  of 
+
+issues in subsample 
+
+-  Calculate cumulative shares of this rating classes in subsample as was described above 
+
+ 
+
+26 
+
+For value weighted portfolio the algorithm is almost identical with the difference that in 
+
+this scenario author used “true” face values recorded in the database (these are issue face values 
+
+not bond ones). The reason to apply both methods is to investigate the sensitivity with respect to 
+
+size of the issue. This is reasonable since treatment of all bonds as having the same face value is 
+
+quite a strong assumption as well as using indicator for issue size helps to find out whether rating 
+
+quality differs for issues amongst the size. 
+
+Accuracy  was again  assessed with Gini  coefficients, as well  as approach of considering 
+
+defaults happened in period less than 1 year after rating assignment and after 1 year. 
+
+Results  for  relationship  between  loss  given  default  and  first  assigned  rating  for  sample 
+
+consisting of financial industry debts is shown in diagram 7 to diagram 8   
+
+Loss given default. Equally weighted portfolio (the whole sample) 
+
+100%
+
+80%
+
+60%
+
+40%
+
+20%
+
+0%
+
+100%
+
+80%
+
+60%
+
+40%
+
+20%
+
+0%
+
+A - Aaa 
+
+Baa 
+
+Ca - Ba 
+
+Lorenz curve (empirical relationship)
+
+Random model (no dependence present)
+
+Accurate model (perfect relationship)
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+Cumulative share of different rating classes in total defaulted debts number 
+
+ 
+
+Diagram 7 
+
+The source: author’s calculations based on Moody’s DRS database 
+
+Loss given default. Equally weighted portfolio (defaulted in 1 year) 
+
+A - Aaa 
+
+Ca - Ba Baa 
+
+Lorenz curve (empirical relationship)
+
+Random model (no dependence present)
+
+Accurate model (perfect relationship)
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+Cumulative share of different rating classes in total defaulted debts number 
+
+ 
+
+27 
+
+ 
+
+ 
+t
+l
+u
+a
+f
+e
+d
+n
+e
+v
+i
+g
+ 
+s
+s
+o
+
+l
+ 
+l
+
+a
+t
+o
+t
+ 
+n
+
+i
+ 
+s
+e
+s
+s
+a
+
+l
+c
+
+ 
+
+ 
+t
+l
+u
+a
+f
+e
+d
+n
+e
+v
+i
+g
+ 
+s
+s
+o
+
+l
+ 
+l
+
+a
+t
+o
+t
+ 
+n
+
+i
+ 
+s
+e
+s
+s
+a
+
+l
+c
+
+ 
+
+g
+n
+i
+t
+a
+r
+ 
+t
+n
+e
+r
+e
+f
+f
+i
+d
+ 
+f
+o
+e
+r
+a
+h
+s
+ 
+e
+v
+i
+t
+a
+u
+m
+u
+C
+
+l
+
+ 
+
+ 
+
+g
+n
+i
+t
+a
+r
+ 
+t
+n
+e
+r
+e
+f
+f
+i
+d
+ 
+f
+o
+e
+r
+a
+h
+s
+ 
+e
+v
+i
+t
+a
+u
+m
+u
+C
+
+l
+
+ 
+
+ 
+
+Diagram 8 
+
+The source: author’s calculations based on Moody’s DRS database 
+
+Diagram  for defaults happened  in period after 1 year  from  first rating assignment is not 
+
+presented here because it makes no difference compared to diagram for the whole sample. 
+
+Author also performed the same analysis for value weighted portfolio. The diagrams for 
+
+this  case  are  not  shown  here  because  their  shapes  repeat  the  respective  diagrams  for  equally 
+
+weighted portfolio. The reader can get acquainted with accuracy coefficients for both cases from 
+
+the table which will be listed below in the text. 
+
+The results for non-financial subsample are a bit different (diagrams 9 and 10) from the 
+
+financial debts and need a brief discussion: 
+
+Loss given default. Equally weighted portfolio (the whole sample) 
+
+ 
+
+g
+n
+i
+t
+a
+r
+ 
+t
+n
+e
+r
+e
+f
+f
+i
+d
+ 
+f
+o
+e
+r
+a
+h
+s
+ 
+e
+v
+i
+t
+a
+u
+m
+u
+C
+
+l
+
+ 
+
+ 
+
+g
+n
+i
+t
+a
+r
+ 
+t
+n
+e
+r
+e
+f
+f
+i
+d
+ 
+f
+o
+e
+r
+a
+h
+s
+ 
+e
+v
+i
+t
+a
+u
+m
+u
+C
+
+l
+
+ 
+
+ 
+
+ 
+t
+l
+u
+a
+f
+e
+d
+n
+e
+v
+i
+g
+ 
+s
+s
+o
+
+l
+ 
+l
+
+a
+t
+o
+t
+ 
+n
+
+i
+ 
+s
+e
+s
+s
+a
+
+l
+c
+
+ 
+
+ 
+t
+l
+u
+a
+f
+e
+d
+n
+e
+v
+i
+g
+ 
+s
+s
+o
+
+l
+ 
+l
+
+a
+t
+o
+t
+ 
+n
+
+i
+ 
+s
+e
+s
+s
+a
+
+l
+c
+
+100%
+
+80%
+
+60%
+
+40%
+
+20%
+
+0%
+
+100%
+
+80%
+
+60%
+
+40%
+
+20%
+
+0%
+
+Ba 
+
+B 
+
+Baa - 
+Aaa 
+
+Caa 
+
+Ca 
+
+Lorenz curve (empirical relationship)
+
+Random model (no dependence present)
+
+Accurate model (perfect relationship)
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+Cumulative share of different rating classes in total defaulted debts number 
+
+ 
+
+Diagram 9 
+
+The source: author’s calculations based on Moody’s DRS database 
+
+Loss given default. Equally weighted portfolio (defaulted in 1 year) 
+
+B 
+
+Ba - 
+Baa 
+
+A - 
+Aaa 
+
+Lorenz curve (empirical relationship)
+
+Random model (no dependence present)
+
+Accurate model (perfect relationship)
+
+Caa 
+
+Ca 
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+Cumulative share of different rating classes in total defaulted debts number 
+
+ 
+
+28 
+
+ 
+
+The source: author’s calculations based on Moody’s DRS database 
+
+ 
+
+Diagrams for the defaults occurred in period after 1 year since first rating assignment are 
+
+not  shown  again  for  the  same  reason.  It  is  interesting  whether  ratings  reflect  better  loss  given 
+
+default for issues with higher weight. For such purpose author also performed analysis for value 
+
+weighted portfolio. Very similar results were obtained, so they are not given here. 
+
+Diagram 10 
+
+Table 5 
+Gini coefficients for loss given default and assigned ratings 
+
+Default occurred in period 
+less than 1 year from first 
+
+rating assignment 
+
+Default occurred in 
+
+period after  1 year from 
+first rating assignment 
+
+-0.049 
+
+-0.009 
+
+0.021 
+
+-0.109 
+
+Gini coefficient 
+
+ 
+s
+t
+b
+e
+d
+
+ 
+s
+t
+b
+e
+d
+
+ 
+l
+a
+i
+c
+n
+a
+n
+F
+
+i
+
+ 
+l
+a
+i
+c
+n
+a
+n
+
+i
+f
+-
+n
+o
+N
+
+p
+m
+a
+s
+b
+u
+s
+
+p
+m
+a
+s
+b
+u
+s
+
+e
+l
+
+  Equally 
+weighted 
+portfolio 
+
+Value 
+
+weighted 
+portfolio 
+  Equally 
+weighted 
+portfolio 
+
+e
+l
+
+Value 
+
+weighted 
+portfolio 
+
+All 
+
+sample 
+debts 
+
+-0.056 
+
+-0.125 
+
+-0.016 
+
+-0.053 
+
+0.041 
+
+0.461 
+
+-0.078 
+
+0.344 
+
+ 
+
+The source: author’s calculations based on Moody’s DRS database 
+
+Red dotted line on all diagrams presents the case when on average there is no relationship 
+
+between  accumulated  loss  given  default  and  rating  classes.  It  can  be  obtained  by  sufficiently 
+
+large  number  of  simulations  of  random  relationship  between  LGD  and  ratings  and  then 
+
+averaging  over  all  of  them.  That  is  why  negative  Gini  coefficients  mean  that  on  average 
+
+relationship in data is inferior to one explained by random model. The results can be summarized 
+
+as follows: 
+
+- 
+
+subsample  of  financial  industry  debts  shows  no  relationship  between  LGD  and  rating 
+
+classes. This conclusion is true for all time horizons and both equally and value weighted 
+
+portfolios.  Diagrams  illustrate  that  for  LGD  prediction  one  has  to  employ  additional 
+
+explanatory variables 
+
+- 
+
+subsample of non-financial industry debts indicates that there is the relationship between 
+
+assigned  ratings  and  time  horizon.  Gini  coefficients  significantly  exceed  0  for  defaults 
+
+happened  in  1  year  period  but  still  take  moderate  values.  This  result  states  that  for  the 
+
+short  run  ratings  contain  some  information  about  LGD  but  one  still  needs  to  use 
+
+additional  information  LGD  estimation  for  that  period.  There  is  almost  no  difference 
+
+between  equally  and  value  weighed  portfolios  which  means  that  issue  size  has  no 
+29 
+
+ 
+
+substantial  impact  on  realized  LGD.  Nevertheless,  in  the  long  run  as  diagrams  indicate 
+
+ratings are not reliable indicators of LGD 
+
+Demonstrated results are in perfect match with Altman (1989), Carey (1998) for financial 
+
+subsample for all time horizons and in long run for non-financial one. The outcome on average 
+
+contradicts to Bade et al (2011) but is partially consistent with article in sense that demonstrates 
+
+relationship for non-financial subsample in the short run. Explanation is that in the article authors 
+
+made  correction  for  bias  in data caused  by property or recoveries  – they  are observed only  for 
+
+defaulted debts and approach used in this work does not take it into account. Another reason that 
+
+obtained results  are  for initially assigned ratings  and  in article authors also used altered ratings 
+
+during the lifetime of debt. Also, results for non-financial subsample for value weighted portfolio 
+
+are  in  line  with  Varma  et  al  (2003)  –  value  weighted  portfolio  performs  worse  thus  indicating 
+
+lower recoveries for higher weighted issues. 
+
+3.  Conclusions for Chapter 2 
+
+1.  Author came to the conclusion that ratings indeed can be used as indicators for default 
+
+frequency, this fact is in line with number of studies. 
+
+-  Nevertheless, for financial debts subsample 
+
+a)  Lorenz  curves  and  Gini  coefficients  imply  that  some  other  explanatory 
+
+variables should be used for default probability prediction 
+
+b)  this subsample consists mostly of “A”-“Aaa” rated issues and the most part 
+
+of which suffered default events 
+
+c)  it is consequence of risks underestimation revealed by financial crisis 2008 
+
+-  For  non-financial  industry  issues  there  is  evidence  that  rating  methodology 
+
+correctly takes into account risks inherent in bonds and ratings itself can be used 
+
+as a single predictor for default probability. This result becomes even stronger in 
+
+the short run. 
+
+2.  There  is a completely different situation with  information  contained  in  ratings  for  loss 
+
+given default 
+
+-  diagrams indicate that on average ratings are inadequate source of information for 
+
+that  purpose  and  predictive  power  in  the  long  horizon  is  negligible  for  both 
+
+financial and non-financial industries 
+
+- 
+
+- 
+
+it was shown that ratings can be used at least as one of the explanatory factors for 
+
+LGD prediction in the short run for non-financial debts 
+
+this is the case since they still contain some piece of information as Lorenz curves 
+
+and Gini coefficients imply. 
+
+30 
+
+ 
+
+Chapter 3. Empirical research on presence of additional 
+information in credit ratings 
+
+Realized  lifetime  loss  measure  is  used  in  this  paper  as  an  alternative  to  probability  of 
+
+default. Employment of this measure can be justified for the next two reasons: 
+
+-  Due  to  Moody’s  definition  of  default,  debt  restructuring  situation  with  the  following 
+
+significant  loss  of  value,  for  instance  70%  and  case  when  company  defaults  but  then 
+
+afterwards  manages  to  repay  the  most  part  of  the  debt,  i.e.  case  when  present  value  of 
+
+payments  suffers  not  too  much  are  treated  equally  as  default.  For  legal  purposes  these 
+
+two events may be named as default but for ordinary investor such cases are indeed not 
+
+the same. Thus, if ratings reflect only probability of default such information would not 
+
+be enough for investor who is interested also in type of default 
+
+-  This  measure  takes  into  account  what  fraction  the  investment  could  be  repaid  i.e. 
+
+recovery in case of default as well as it implicitly depends on time when default occurred 
+
+Therefore,  evaluation  of  ratings  quality  based  only  on  historical  default  frequency  may 
+
+not be the optimal way nowadays. As it was pointed out in previous sections information about 
+
+default probability is contained in ratings and is reliable but ratings poorly predict possible loss 
+
+given default. Investor probably would like to know both estimates for the bond but the problem 
+
+is how to choose the issue for example out of two with very close ratings and estimated losses (if 
+
+it was possible) if they still different. For instance, if according to Standard & Poor’s scale one 
+
+issue  is  AA  rated  and  has  level  3  of  estimated  recovery  and  the  other  is  AA-  rated  and  has 
+
+estimate  of  level  2  for  recovery  rate,  recovery  rates  are  scaled  in  such  way  that the  higher  the 
+
+number the better is the recovery. Having these two pieces of information it is not quite clear in 
+
+which bond it would be more appropriate to invest. The realized lifetime loss implicitly accounts 
+
+for default event and explicitly  for recovery and thus this combine  measure  may  be helpful  for 
+
+such situation. 
+
+1.  Investigation  of  relationship  between  rating  classes  and 
+
+realized lifetime loss 
+
+It was already mentioned realized lifetime loss is based on present value of promised and 
+
+realized cash flows. In order to calculate it one needs to obtain set of appropriate discount rates. 
+
+Author  made  an  assumption  about  the  investor  type.  In  this  paper  realized  lifetime  loss  was 
+
+calculated  from the viewpoint of an  investor with a perfect foresight. Such  investor has perfect 
+
+knowledge  about  stream  of  cash  flow  which  bond  will  provide  him,  that  is  he  knows  exactly 
+
+amount  and  schedule  of  coupons  and  face  value  paid  in  case  of  no  default  and  in  case  when 
+
+default  happens  he  knows  time  when  he  will  get  the  recovery  value  and  preceding  coupons. 
+31 
+
+ 
+
+Using this assumption all payments were discounted with US government bond yields1 which are 
+
+reliable proxies for risk free rates. They are listed in Appendix 3. 
+
+For  non-defaulted  issues  realized  lifetime  loss  was  set  0  by  definition.  For  issues 
+
+experienced a default event two closely connected definitions of realized lifetime loss were used 
+
+in this paper. The first one is 
+
+   
+
+    ∑
+
+ 
+
+  
+
+           
+
+ 
+
+      
+
+  
+
+              ∑
+
+ 
+
+  
+
+           
+
+                  
+
+         
+
+ 
+
+which is actually equal to present value lost due to default event. 
+
+t  –  time  interval  between  date  when  bond  was  sold  and  every  coupon  payment  (expressed  in 
+
+years),  t  increases  for  each  summand  by  365/(coupon  frequency  indicator),  where  coupon 
+
+frequency indicator equals 12, 4, 2 and 1 for monthly, quarterly, semiannually and annually paid 
+
+coupons  respectively.  For  accrued  frequency  the  coupon  and  face  value  were  paid  at  maturity 
+
+simultaneously and discounted with rate for maturity 
+
+Ct – coupon payment at this moment equal (coupon rate/coupon frequency indicator)*face value 
+
+for monthly, quarterly, semiannually and annually paid coupons and coupon rate*face value for 
+
+accrued frequency (such bond simply pays face value plus coupon simultaneously at maturity) 
+
+T – time interval between date when bond was sold and maturity date (expressed in years) 
+
+Tdef  –  time  interval  between  date  when  bond  was  sold  and  date  of  default  plus  30  days,  since 
+
+market value was estimated 30 days after default (expressed in years) 
+
+f – time interval between date when bond was sold and date when face value was paid (expressed 
+
+in years) 
+
+d  –  time  interval  between  date  when  bond  was  sold  and  date  when  recovery  value  was  paid 
+
+(expressed in years) 
+
+rt – discount rate for moment of time from sale date to coupon payment date (annualized) 
+
+rf – discount rate for moment of time from sale date to face value payment date (annualized) 
+
+rd – discount rate for moment of time from sale date to recovery value payment date (annualized) 
+
+ 
+
+As  it can  be seen  from  Appendix 3 risk  free rates are  listed  for each  year  from 1982 to 
+
+2012 (which covers all bond’s sale dates) for periods of 3 months, 6 months, 1 year, 2 years, 3 
+
+years, 5 years, 7 years, 10 years, 20 years and 30 years. There was some discontinuity in interest 
+
+rates due to fact that for some years these rates were not present. Author calculated these rates in 
+
+such way that they do not disturb pattern for all periods and across each year. Interest rates from 
+
+this table do not cover all necessary data points for payments. In order to obtain appropriate rates 
+
+                                                             
+1 http://www.federalreserve.gov/releases/h15/data.htm 
+
+ 
+
+32 
+
+for maturities that are between dates in the table author used linear interpolation which does not 
+
+influence  result  too  much  for  two  reasons:  such  approximation  is  in  line  with  yields  term 
+
+structure  and  rates  for  closest  maturities  do  not  differ  too  much.  This  interpolation  was  the 
+
+following and is presented in annualized rates for the calculated time period, since rates used are 
+
+annualized: 
+
+- 
+
+- 
+
+for periods less than 3 months was used rate r3m × (time period)/91 
+
+for periods more than 3 months but less than 6 months was used rate r3m + (r6m - r3m) × 
+
+(time period - 91) / (182 - 91) 
+
+- 
+
+for periods more than 6 months but less than 1 year was used rate r6m + (r1y - r6m) × (time 
+
+period - 182) / (365 - 182) 
+
+- 
+
+for periods  more than 1  year but  less than 2  years was used rate r1y  + (r2y - r1y) × (time 
+
+period - 365) / (730 - 365) 
+
+- 
+
+for periods more than 2 years but less than 3 years was used rate r2y + (r3y - r2y) × (time 
+
+period - 730) / (1095 - 730) 
+
+- 
+
+for periods more than 3 years but less than 5 years was used rate r3y + (r5y - r3y) × (time 
+
+period - 1095) / (1825 - 1095) 
+
+- 
+
+for periods more than 5 years but less than 7 years was used rate r5y + (r7y - r5y) × (time 
+
+period - 1825) / (2555 - 1825) 
+
+- 
+
+for periods more than 7 years but less than 10 years was used rate r7y + (r10y - r7y) × (time 
+
+period - 2555) / (3650 - 2555) 
+
+- 
+
+for periods  more than 10  years  but less than 20  years was used rate r10y + (r20y -  r10y) × 
+
+(time period - 3650) / (7300 - 3650) 
+
+- 
+
+for periods  more than 20  years  but less than 30  years was used rate r20y + (r30y -  r20y) × 
+
+(time period - 7300) / (10950 - 7300) 
+
+where time period is measured in days. 
+
+The  above  definition  was  used  to  make  conclusion  about  how  introduced  measure  is 
+
+reflected  in  assigned  ratings.  In  previous  sections  author  utilized  equally  weighted  and  value 
+
+weighted  portfolios  and  plotted  Lorenz  curves  as  well  as  provided  Gini  coefficients  for  them. 
+
+This  way  of  accuracy  assessment  also  was  utilized  for  this  definition.  For  equally  weighted 
+
+portfolio realized lifetime loss for each issue was calculated with this formula taking face value 
+
+the  same  for  all  bonds  (namely  equal  to  1).  For  value  weighted  portfolio  face  value  was  used 
+
+from  the  record  for  each  bond.  Realized  lifetime  loss  for  portfolio  of  bonds  was  calculated  as 
+
+sum of realized lifetime losses for each entity in the portfolio. 
+
+The second definition of realized lifetime loss is 
+
+33 
+
+ 
+
+      
+∑
+ 
+
+       
+
+  
+
+                  
+
+           
+  
+   
+∑
+ 
+
+           
+
+         
+
+  
+
+         
+
+ 
+
+which  is  relative  realized  lifetime  loss  taking  values  from  0  to  100%  by  the  construction; 
+
+numerator is present value of cash flows that investor actually received, denominator is what was 
+
+promised by bond’s term sheet. This definition was used further in  this research to estimate the 
+
+number of “misclassified” or inconsistently rated issues. 
+
+As  it  was  mentioned  above  two  subsamples  were  studied:  financial  and  non-financial 
+
+industry’s debts. In this section author again considered the same bonds to make comparison of 
+
+realized lifetime loss with previous results. 
+
+Using  introduced  above  definitions  author  calculated  realized  lifetime  losses  for  each 
+
+issue  in  the  sample  using  macro  code  written  on  MS  Excel  VBA.  Summary  for  the  financial 
+
+debts is presented in the single diagram below  
+
+Realized lifetime loss. Equally weighted portfolio (the whole sample) 
+
+100.00%
+
+80.00%
+
+60.00%
+
+40.00%
+
+20.00%
+
+0.00%
+
+ 
+s
+s
+o
+
+l
+ 
+
+d
+e
+z
+i
+l
+
+a
+e
+r
+ 
+l
+
+a
+t
+o
+t
+ 
+f
+o
+ 
+s
+e
+s
+s
+a
+
+l
+c
+
+A 
+
+Aa  Aaa 
+
+Baa 
+Ca - Ba 
+
+Lorenz curve (empirical relationship)
+
+Random model (no dependence present)
+
+Accurate model (perfect relationship)
+
+ 
+
+g
+n
+i
+t
+a
+r
+ 
+t
+n
+e
+r
+e
+f
+f
+i
+d
+ 
+f
+o
+e
+r
+a
+h
+s
+ 
+e
+v
+i
+t
+a
+u
+m
+u
+C
+
+l
+
+ 
+
+0.00%
+
+20.00%
+
+40.00%
+
+60.00%
+
+80.00%
+
+100.00%
+
+Cumulative share of different rating classes in total debts number 
+
+ 
+
+Diagram 11 
+
+The source: author’s calculations based on Moody’s DRS database 
+
+ 
+
+The  shape  repeats  the  diagram  for  the  relationship  between  rating  classes  and  default 
+
+frequency.  The  explanation  is  essentially  the  same  as  it  was  given  for  that  case.  Diagrams  for 
+
+defaults happened in 1 year and after 1 year since first rating assignment  are not illustrated here 
+
+as  well  as  all  diagrams  for  value  weighted  portfolio  since  they  do  not  possess  any  remarkable 
+
+difference compared to Diagram 11. Accuracy statistic for them will be reported in Table 6. 
+
+ 
+
+As for subsample of non-financial industry debts it contains much more information and 
+
+will be presented more detailed in the following diagrams: 
+
+ 
+
+34 
+
+Realized lifetime loss. Equally weighted portfolio (the whole sample) 
+
+100.00%
+
+80.00%
+
+60.00%
+
+40.00%
+
+20.00%
+
+0.00%
+
+ 
+s
+s
+o
+
+l
+ 
+
+d
+e
+z
+i
+l
+
+a
+e
+r
+ 
+l
+
+a
+t
+o
+t
+ 
+f
+o
+ 
+s
+e
+s
+s
+a
+
+l
+c
+
+Caa 
+Ca 
+
+Baa 
+
+Ba 
+
+B 
+
+A  Aa - 
+Aaa 
+
+Lorenz curve (empirical relationship)
+
+Random model (no dependence present)
+
+Accurate model (perfect relationship)
+
+0.00%
+
+20.00%
+
+40.00%
+
+60.00%
+
+80.00%
+
+100.00%
+
+Cumulative share of different rating classes in total debts number 
+
+ 
+
+Diagram 12 
+
+The source: author’s calculations based on Moody’s DRS database 
+
+Realized lifetime loss. Equally weighted portfolio (defaulted in 1 year) 
+
+Baa 
+
+B  Ba 
+
+A 
+
+Aa - 
+Aaa 
+
+Caa 
+
+Ca 
+
+Lorenz curve (empirical relationship)
+
+Random model (no dependence present)
+
+Accurate model (perfect relationship)
+
+100.00%
+
+80.00%
+
+60.00%
+
+40.00%
+
+20.00%
+
+0.00%
+
+ 
+s
+s
+o
+
+l
+ 
+
+d
+e
+z
+i
+l
+
+a
+e
+r
+ 
+l
+
+a
+t
+o
+t
+ 
+f
+o
+ 
+s
+e
+s
+s
+a
+
+l
+c
+
+ 
+
+g
+n
+i
+t
+a
+r
+ 
+t
+n
+e
+r
+e
+f
+f
+i
+d
+ 
+f
+o
+e
+r
+a
+h
+s
+ 
+e
+v
+i
+t
+a
+u
+m
+u
+C
+
+l
+
+ 
+
+ 
+
+g
+n
+i
+t
+a
+r
+ 
+t
+n
+e
+r
+e
+f
+f
+i
+d
+ 
+f
+o
+e
+r
+a
+h
+s
+ 
+e
+v
+i
+t
+a
+u
+m
+u
+C
+
+l
+
+ 
+
+0.00%
+
+20.00%
+
+40.00%
+
+60.00%
+
+80.00%
+
+100.00%
+
+Cumulative share of different rating classes in total debts number 
+
+ 
+
+Diagram 13 
+
+The source: author’s calculations based on Moody’s DRS database 
+
+Diagram for realized lifetime loss for defaults happened in period after 1 year from first 
+
+rating assignment is missed for the similar reason as before. 
+
+ 
+
+35 
+
+Realized lifetime loss. Value weighted portfolio (the whole sample) 
+
+100.00%
+
+80.00%
+
+60.00%
+
+40.00%
+
+20.00%
+
+0.00%
+
+ 
+s
+s
+o
+
+l
+ 
+
+d
+e
+z
+i
+l
+
+a
+e
+r
+ 
+l
+
+a
+t
+o
+t
+ 
+f
+o
+ 
+s
+e
+s
+s
+a
+
+l
+c
+
+Caa 
+Ca 
+
+Baa 
+
+Ba 
+
+B 
+
+A  Aa - 
+Aaa 
+
+Lorenz curve (empirical relationship)
+
+Random model (no dependence present)
+
+Accurate model (perfect relationship)
+
+0.00%
+
+20.00%
+
+40.00%
+
+60.00%
+
+80.00%
+
+100.00%
+
+Cumulative share of different rating classes in total debts number 
+
+The source: author’s calculations based on Moody’s DRS database 
+
+Diagram 14 
+
+Realized lifetime loss. Value weighted portfolio (defaulted in 1 year) 
+
+ 
+s
+s
+o
+
+l
+ 
+
+d
+e
+z
+i
+l
+
+a
+e
+r
+ 
+l
+
+a
+t
+o
+t
+ 
+f
+o
+ 
+s
+e
+s
+s
+a
+
+l
+c
+
+100.00%
+
+80.00%
+
+60.00%
+
+40.00%
+
+20.00%
+
+0.00%
+
+Baa 
+
+B  Ba 
+
+A  Aa - 
+Aaa 
+
+Caa 
+
+Ca 
+
+Lorenz curve (empirical relationship)
+
+Random model (no dependence present)
+
+Accurate model (perfect relationship)
+
+0.00%
+
+20.00%
+
+40.00%
+
+60.00%
+
+80.00%
+
+100.00%
+
+Cumulative share of different rating classes in total debts number 
+
+The source: author’s calculations based on Moody’s DRS database 
+
+Diagram 15 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+36 
+
+ 
+
+g
+n
+i
+t
+a
+r
+ 
+t
+n
+e
+r
+e
+f
+f
+i
+d
+ 
+f
+o
+e
+r
+a
+h
+s
+ 
+e
+v
+i
+t
+a
+u
+m
+u
+C
+
+l
+
+ 
+
+ 
+
+g
+n
+i
+t
+a
+r
+ 
+t
+n
+e
+r
+e
+f
+f
+i
+d
+ 
+f
+o
+e
+r
+a
+h
+s
+ 
+e
+v
+i
+t
+a
+u
+m
+u
+C
+
+l
+
+ 
+
+ 
+
+Table 6 
+Gini coefficients for realized lifetime loss and assigned ratings 
+
+Default occurred in period 
+less than 1 year from first 
+
+rating assignment 
+
+Default occurred in 
+
+period after  1 year from 
+first rating assignment 
+
+All 
+
+sample 
+debts 
+
+0.550 
+
+0.553 
+
+0.573 
+
+0.722 
+
+0.631 
+
+Gini coefficient 
+
+ 
+s
+t
+b
+e
+d
+
+ 
+s
+t
+b
+e
+d
+
+ 
+l
+a
+i
+c
+n
+a
+n
+F
+
+i
+
+ 
+l
+a
+i
+c
+n
+a
+n
+
+i
+f
+-
+n
+o
+N
+
+p
+m
+a
+s
+b
+u
+s
+
+p
+m
+a
+s
+b
+u
+s
+
+e
+l
+
+  Equally 
+weighted 
+portfolio 
+
+Value 
+
+weighted 
+portfolio 
+  Equally 
+weighted 
+portfolio 
+
+e
+l
+
+Value 
+
+weighted 
+portfolio 
+
+0.543 
+
+0.573 
+
+0.589 
+
+0.727 
+
+0.859 
+
+0.645 
+
+0.832 
+
+ 
+
+The source: author’s calculations based on Moody’s DRS database 
+
+The results obtained are  very  similar to ones  for relationship  between default  frequency 
+
+and  rating  classes  in  terms  of  Gini  coefficients  dynamics  (one  can  compare  with  Table  4). 
+
+Diagrams  for  both  considered  subsamples  indicate  that  information  about  newly  introduced 
+
+measure is contained in ratings, especially in case of non-financial subsample: 
+
+- 
+
+realized  lifetime  loss  for  financial  industry  is  reflected  essentially  the  same  as  default 
+
+frequency in the sample 
+
+-  accuracy  of  the  new  measure  for  non-financial  issues  is  much  better  than  for  default 
+
+frequency for both equally and value weighted portfolios and all time horizons. Equally 
+
+weighted  portfolio  performs  also  better  than  value  weighted  as  measured  by  Gini 
+
+coefficients for all periods (less than 1 year and more than 1 year). This may be again the 
+
+case that rating agencies assign ratings better for lower sized issues 
+
+- 
+
+in the short run ratings in non-financial industry do perform better compared to the whole 
+
+lifetime for value weighted portfolio and similarly for equally weighted. This means that 
+
+ratings  have  higher  predictive  power  for  losses  in  the  short  run  as  measured  by  Gini 
+
+coefficients. 
+
+To  conclude  this  section,  ratings  turned  out  to  be  much  better  predictors  of  realized 
+
+lifetime  loss  that  of  default  probability.  As  it  was  stated  in  Chapter  1  Moody’s  ratings  reflect 
+
+both  probability  of  default  and  recovery  rate.  Results  above  show  that  ratings  contain  more 
+
+information about realized lifetime loss thus this concept would be more appropriate measure of 
+
+ratings quality than usual default probability and loss given default. 
+
+ 
+
+ 
+
+37 
+
+2.  Additional  way  for  rating  quality  assessment  using  realized 
+
+lifetime loss 
+
+Conclusions  of  the  previous  subsection  show  that  once  one  accounts  for  debt  industry 
+
+namely, considers financial and non-financial subsamples separately it produces results that are 
+
+in  line  with  each  other.  In  the  meantime,  when  industry  is  taken  into  account  the  information 
+
+value about realized lifetime loss stored in ratings increases as measured by accuracy coefficients 
+
+when  switching  to  non-financial  issues.  There  is  no  doubt  that  newly  introduced  measure  is 
+
+indeed reflected in assigned ratings and is superior to simple approach of counting defaults and 
+
+loss given default  as  measured  by Gini coefficients. Accuracy coefficients  for realized  lifetime 
+
+loss  exceed  those  for  default  frequency  ones  in  all  cases  for  non-financial  industry.  The  next 
+
+empirical  question  that  arises  is  how  to  use  realized  lifetime  loss  measure  to  assess  quality  of 
+
+credit  ratings.  Using  the  second  introduced  definition  namely  relative  realized  lifetime  loss 
+
+author analyzed the sample on the presence of incorrectly rated bonds. As “misclassified” rating 
+
+author defined issues that were either underrated or overrated. In order to do this using relative 
+
+realized lifetime loss the next definition was utilized: 
+
+-  The  bond was considered to be underrated  if  its relative  lifetime  loss rate  is  lower than 
+
+the average loss rate of the next superior rating category 
+
+-  The bond was considered to be overrated if its relative lifetime loss rate is higher than the 
+
+average loss rate of the next inferior rating category 
+
+-  All other bonds were considered to be are consistently rated 
+
+For example, assume that loss rate Ba bond is known and equal to 3%. Using the sample 
+
+the average unconditional loss rates for B and Ba issues were calculated and equal to 5.6% for B 
+
+rated bonds and 3.1% for Baa bonds. In this example according to the definition specified above 
+
+the Ba rated bond would be treated as underrated since its loss rate is lower than the average loss 
+
+rate of the next superior rating category, namely Baa. 
+
+Utilizing this definition author counted inconsistently rated bonds by calculating relative 
+
+loss rates for each bond in the sample using VBA macro for MS Excel, then calculated average 
+
+loss  rates  for  each  rating  class  and  compared  these  values.  Results  are  the  following,  for  the 
+
+financial subsample 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+38 
+
+Ca 
+0 
+0 
+
+0 
+
+Caa 
+
+2 
+0 
+
+7 
+
+Table 7 
+Inconsistently rated issues in financial subsample 
+
+B 
+9 
+0 
+
+Ba 
+5 
+4 
+
+Baa 
+
+4 
+16 
+
+A 
+48 
+272 
+
+Aa 
+0 
+2 
+
+Aaa 
+
+Total 
+
+0 
+0 
+
+68 
+294 
+
+71 
+
+135 
+
+853 
+
+7492 
+
+7475 
+
+2660 
+
+18693 
+
+0.00% 
+
+22.22%  11.25%  6.25%  2.29%  4.10%  0.03%  0.00%  1.90% 
+The source: author’s calculations based on Moody’s DRS database 
+
+  
+
+Underrated 
+
+Overrated  
+Correctly 
+rated 
+Inconsistent 
+ratings, % 
+
+ 
+
+The same approach for non-financial industry yields 
+
+Table 8 
+Inconsistently rated issues in non-financial subsample 
+
+Caa 
+36 
+40 
+
+B 
+420 
+207 
+
+Ba 
+102 
+38 
+
+Baa 
+89 
+42 
+
+A 
+25 
+27 
+
+Aa 
+0 
+3 
+
+Aaa 
+
+0 
+0 
+
+Total 
+677 
+363 
+
+515 
+
+3050 
+
+2289 
+
+6274 
+
+10982 
+
+2784 
+
+1406 
+
+27303 
+
+Ca 
+5 
+6 
+
+3 
+
+78.57%  12.86%  17.05%  5.76%  2.05%  0.47%  0.11%  0.00%  3.67% 
+The source: author’s calculations based on Moody’s DRS database 
+
+  
+
+Underrated 
+
+Overrated  
+Correctly 
+rated 
+Inconsistent 
+ratings, % 
+
+ 
+
+These tables indicate the following: 
+
+-  Number  of  “misclassified”  bonds  according  to the  stated  definition  is  very  low:  1.90% 
+
+and 3.67% of total subsample’s amount. This indicates that on average ratings correctly 
+
+account  for  possible  losses.  However,  almost  monotonous  increase  in  percentage  of 
+
+incorrectly  rated  issues  is  observed  from  the  table:  it  is  equal  0%  for  the  highest  rated 
+
+bonds  and  22.22%  (78.57%)  for  the  lowest  non-investment  category.  It  is  possible  that 
+
+such  situation  may  take  place  due  to  incorrect  market  estimation  of  the  low  graded 
+
+issue’s  value  30  days  after  default  which  makes  calculated  realized  lifetime  loss 
+
+inaccurate. This result can be also explained by arguments listed in Perraudin and Taylor 
+
+(2004),  namely  that  number  of  inconsistently  rated  issues  may  be  lower  if  account 
+
+explicitly for risk premium. Nevertheless, author argues that obtained results are reliable 
+
+within the framework of the model.  
+
+-  For financial subsample, incorrect ratings are mostly assigned for “A” rated issues which 
+
+are  overrated.  This  supports  previous  explanation  that  such  issues  were  rated  without 
+
+taking  into  account  all  possible  risks.  As  it  is  known  this  led  to  significant  default 
+
+numbers in the industry during crisis 2008 
+
+-  For  non-financial  subsample  another  trend  is  seen,  if  rating  agency  assigns  incorrect 
+
+rating  it  rates  bond  lower  than  should  according  to  the  above  definition.  Possible 
+
+39 
+
+ 
+
+explanation  may  be  that  in  case  of  uncertainty  about  the  debt  agency  chooses  prudent 
+
+policy and prefers to rate below than above the actual rating. This is supported by Lorenz 
+
+curves and accuracy coefficients, indicating that such debts were rated properly since the 
+
+most part of defaults is accumulated by non-investment grade issues. 
+
+3.  Relationship between ratings quality and characteristics of the 
+
+bond 
+
+3.1.  Regression model description and variables used 
+
+Author’s  intention  was  to  investigate  whether  quality  of  assigned  ratings  depends  on 
+
+certain  characteristics  of  a  bond.  Moody’s  DRS  database  contains  all  relevant  information  on 
+
+each issue, namely debt class, debt seniority, collateral etc. It is interesting empirically whether 
+
+these  characteristics  have  an  impact  on  ratings  quality.  In  order  to  do  this,  author  run  several 
+
+types of regressions on all relevant independent variables presented in the Moody’s database. As 
+
+for dependent variable two types of regressions were estimated. These two types of regressions 
+
+use dependent variable which  indicates ratings  misclassification. The  first one  is ordinary  least 
+
+squares regression with dependent variable equal to calculated realized lifetime loss for the issue 
+
+less average loss for this bond’s rating category (called “lmal”). The second regression is logistic 
+
+model  and  uses  dependent  variable  “misclass”  which  takes  value  of  1  if  bond  is  rated 
+
+inconsistently and 0 otherwise. Acronym for the first variable stands for loss minus average loss, 
+
+for the second misclassified. All regressions were performed in statistical analysis software Stata 
+
+12. 
+
+As  in the previous chapter, analysis would  be conducted  for financial and  non-financial 
+
+subsamples  separately  to  make  results  comparable  with  ones  obtained  before.  Considering  the 
+
+whole  information  available  in  the  database  author  decided  to  use  the  following  independent 
+
+variables that may have explanatory power. They are listed below as well as  the hypothesis for 
+
+these variables that were tested in the first type regression. Explanation for these variables for the 
+
+second type regression would be given simultaneously with its results. 
+
+-  debt class: all bonds in the sample belong to one of the five following debt classes 
+
+a)  “REG”  -  Regular  Bond/Debenture.  These  bonds  are 
+
+the  classical  debt 
+
+instruments. Bondholders get paid only after secured creditors are paid, although 
+
+they  will  usually  be  paid  before  common  stockholders.  They  are  issued  by 
+
+companies to raise money. 
+
+b)  “CON” 
+
+-  Convertible/Exchange  Bond/Debenture.  These  bonds  can  be 
+
+transformed  into  a  stated  quantity  of  shares  of  common  stock  or,  thus  are  the 
+
+ 
+
+40 
+
+hybrid type securities. They are most often issued by companies with a low credit 
+
+rating. 
+
+c)  “FMB” - First Mortgage Bonds. These bonds are usually secured by mortgage on 
+
+real  estate/property  (although  this  is  not  the  case  in  the  used  sample).  If  issuer 
+
+defaults bondholders have a claim on the underlying which has a priority over all 
+
+other claims on this property. 
+
+d)  “IRB” - Revenue Bonds. These bonds are usually secured by a particular venture. 
+
+They  are  municipal  bonds  used  to  fund  revenue-generating  projects  and  backed 
+
+such projects. 
+
+e)  “SLB”  -  Secured  Lease  Obligation  Bond.  These  bonds  are  backed  by  lease 
+
+payments  on  a  particular  asset  which  issuing  company  owns  and  receives  rent 
+
+payments on it. 
+
+According to the description listed above author was interested in whether it can be found 
+
+empirically  that  some  of  debt  classes  can  explain  inconsistent  ratings.  In  order to  study 
+
+this question 4 dummy variables named “debt_con”, “debt_fmb”, “debt_irb”, “debt_slb” 
+
+equal  1  if  bond  belongs  to  a  particular  class  and  0  otherwise  were  introduced.  Regular 
+
+bond was chosen as base category due to the highest frequency in the sample. 
+
+Author’s intention was to test how these classes affect the dependent variable.  Here and 
+
+after if it is not stated explicitly hypotheses are formulated for “lmal” dependent variable. 
+
+Author expected to get positive coefficient for convertible bonds (“debt_con”) since they 
+
+usually are issued by low rated companies so on average they should have higher losses 
+
+than  regular  bonds.  Also  he  expected  to  obtain  negative  coefficients  for  first  mortgage 
+
+bonds, revenue bonds and secured lease obligation bonds because they are often backed 
+
+(as it is stated in description above) 
+
+ 
+
+ 
+
+- 
+
+time to maturity. This variable was simply created using information about sale date and 
+
+maturity  date,  named  “time_to_mtr”  and  expressed  in  years.  Obviously  it  is  more 
+
+difficult to predict default over a longer horizon, so hypothesis to test is that coefficient 
+
+for “time_to_mtr” is positive and significant. 
+
+ 
+
+-  debt seniority: this indicator should affect rating quality since priority of claims in case 
+
+of bankruptcy do has influence on assigned rating. As a matter of fact senior debt would 
+
+be  ranked  higher  than  junior,  all  other  factors  being  equal.  To  investigate  this  five 
+
+broadly  presented  debt  seniority  classes  were  considered:  senior  secured,  senior 
+
+unsecured,  senior  subordinated,  subordinated  and  junior  subordinated  ranked  from  the 
+
+41 
+
+highest  to  the  lowest  priority.  Consequently,  four  dummies  named  “seniority_su”, 
+
+“seniority_sr”,  “seniority_sb”  and  “seniority_js” 
+
+for  senior  unsecured,  senior 
+
+subordinated, subordinated and junior subordinated  respectively were introduced. Senior 
+
+secured class was chosen as base category. 
+
+For  these  variables  hypothesis  to  test  was  that  coefficients  are  positive  since  the  base 
+
+category  bondholders are paid  first  in case of default. Thus, it seems reasonable that  all 
+
+other categories compared to senior secured should have higher losses (which is the case 
+
+if coefficients are positive) 
+
+-  debt currency: in spite of the fact that sample consists only of US issued bonds and most 
+
+part is denominated in US dollars author decided to investigate the relationship between 
+
+ratings  and  issue  currency.  For  that  purpose  currency  dummy  named  “curr”  was 
+
+introduced,  it  takes  value  of  1  if  bond’s  currency  is  different  from  US  dollar  and  0 
+
+otherwise. 
+
+Hypothesis for this coefficient is that it should be positive. The idea behind it is that all 
+
+bonds  considered  are  issued  in  the  United  States  and  those  that  are  denominated  in 
+
+different  currency  have  higher  risks  due  to  exchange  rate  exposure  and  consequently 
+
+have higher losses. 
+
+-  payment  schedule  namely  coupon  frequency.  Sample  consists  of  5  different  coupon 
+
+frequencies, 
+
+thus  as  a 
+
+rule  4  dummies  were 
+
+introduced:  “coup_freq_mon”, 
+
+“coup_freq_qtr”, “coup_freq_ann” and “coup_freq_acr” standing for monthly, quarterly, 
+
+annual  and  accrued  frequencies  respectively.  To clarify  the  last  one  it  should  be  noted, 
+
+that  Moody’s  assigns  accrued  frequency  for  issues  which  are  paying  coupons  and  face 
+
+value simultaneously at maturity. Dummies were chosen to be equal 1 if bond has coupon 
+
+schedule as named dummy and 0 otherwise; semiannual coupon frequency was chosen as 
+
+base category. 
+
+The hypothesis to test is that for issues with coupons paid more frequently than for those 
+
+of  base  category,  namely  for  quarterly  and  monthly  coefficient  would  be  negative 
+
+showing  that  such  issues  on  average  have  relatively  smaller  losses  because  investor 
+
+receives payments more frequently (kind of risk reduction). On contrary, author expects 
+
+to get positive coefficients for annual and accrued frequencies, especially for the last one. 
+
+The intuition is that companies that are unable to make scheduled coupon payments are 
+
+more  risky  that  is  why  they  choosing  policy  to  pay  out  coupon  and  face  value 
+
+simultaneously. 
+
+42 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+-  collateral:  this  dummy  uses  information  from  column  in  the  database  which  contains 
+
+binary  information  about  security’s  backing  (has  backing/does  not  have  backing). 
+
+Variable “collateral” is equal 1 bond has a collateral and 0 otherwise. The hypothesis to 
+
+test is that coefficient for this variable is negative and significant which will indicate that 
+
+collateral reduces losses. 
+
+- 
+
+industry dummies. They were introduced to find out whether rating quality is different 
+
+among  industries.  Because  author  again  considered  two  subsamples  separately,  these 
+
+dummies will be different for subsamples. The following approach was applied: 
+
+a)  For financial debts subsample the singe dummy was introduced  – “banks”. It 
+
+is equal 1 if bond from this subsample was issued by bank and 0 otherwise. 
+
+The idea was to check how losses differ for banks and non-banks keeping all 
+
+other variables being equal. 
+
+b)  For  non-financial  debts  six  dummies  were  introduced  –  “utilities”,  “energy”, 
+
+“services”,  “media”,  “consumer_goods”  and  “transportation”  for  industries 
+
+which names coincide with dummy’s names. As base category real sector was 
+
+chosen. They are listed in Appendix 4. 
+
+Again, introducing these dummies author wanted to find out how losses differ 
+
+for  bonds  from  these  industries  compared  to  real  sector  bonds,  all  other 
+
+variables being equal. 
+
+3.2.  Regression results and discussion 
+
+The  first step  is  again to study the  financial debts subsample.  For this purpose ordinary 
+
+least  squares  regression  with  lmal  dependent  variable  was  estimated.  It  should  be  noted  that 
+
+financial  subsample  contains only  convertible, revenue  and regular  bonds. That  is why  for this 
+
+data dummies “debt_fmb” and “debt_slb” take zero values across all observations and should be 
+
+omitted in estimation. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+43 
+
+ 
+
+Ordinary least squares regression for financial subsample 
+
+Table 9 
+
+The source: author’s model estimation in Stata 12 
+
+ 
+
+First that catches sight is that regression demonstrates extremely low R-squared = 0.0018 
+
+which indicates that used explanatory variables explain even less than 0.2% of total variation in 
+
+dependent variable. Nevertheless, regression as whole is significant which is indicated by F-test. 
+
+  Signs for debt class coefficients contradict with author’s expectation but they are insignificant 
+
+at any reasonable level and thus show that debt class has no impact on dependent variable. 
+
+  Coefficient  for  “time_to_mtr”  is  significant  at  5%  level  and  positive  which  is  in  line  with 
+
+hypothesis,  value  of  0.211  indicates  that  each  additional  year  increases  difference  between 
+
+realized loss of the bond and average loss in given category for 0.211 million. 
+
+  Signs for seniority classes coincide with expectation except for junior subordinated bonds for 
+
+which it is insignificant at any reasonable level. The rest coefficients are also insignificant at 
+
+5% level and show that in the sample debt classes inferior to senior secured have no effect on 
+
+realized losses. 
+
+  Sign  for  the  “curr”  is  negative  which  contradicts  the  hypothesis  but  is  insignificant  at  any 
+
+reasonable level. Thus one can conclude that in the sample currency has no impact on realized 
+
+lifetime losses 
+
+  Signs  for  payment  schedule  are  in  line  with  expectations  except  accrued  frequency.  In  the 
+
+meantime, coefficient  is significant only  for  monthly paid coupons. It states that  bonds with 
+
+monthly  coupon  frequency  have  6.7  million  smaller  losses  than  for  semiannually  ones  all 
+
+other variables being equal. 
+
+ 
+
+44 
+
+  Coefficient for collateral is negative and significant which coincides with expectation (bonds 
+
+secured by collateral have 5.23 million smaller losses ceteris paribus) 
+
+  Coefficient for “banks” is positive but insignificant in the sample. Thus no conclusion could 
+
+be made about difference in losses for banks and non-banks. 
+
+One possible explanation of low R-squared is that financial subsample consists mostly of 
+
+non-defaulted  issues  (there  are  only  436  default  events  out  of  19055  observations).  Realized 
+
+lifetime loss for non-defaulted debts is 0 which constitute the most part of the sample. It would 
+
+be interesting to perform similar analysis for sample which contains higher number of defaulted 
+
+debts.  
+
+The  same  right  hand  side  variables  as  above  were  used  in  ordered  logistics  regression 
+
+model.  
+
+note: debt_irb != 0 predicts failure perfectly 
+      debt_irb dropped and 14 obs not used 
+
+note: seniority_js != 0 predicts failure perfectly 
+      seniority_js dropped and 125 obs not used 
+
+Iteration 0:   log likelihood =  -1790.629   
+Iteration 1:   log likelihood = -1703.4551   
+
+Iteration 2:   log likelihood = -1557.5671   
+Iteration 3:   log likelihood = -1549.6832   
+
+Iteration 4:   log likelihood = -1548.8995   
+Iteration 5:   log likelihood = -1548.8692   
+
+Iteration 6:   log likelihood = -1548.8669   
+Iteration 7:   log likelihood = -1548.8667   
+
+Iteration 8:   log likelihood = -1548.8667   
+Iteration 9:   log likelihood = -1548.8667 
+
+Logistic regression for financial subsample 
+
+Table 10 
+
+ 
+
+ 
+45 
+
+The source: author’s model estimation in Stata 12 
+
+ 
+
+Stata dropped out two variables since they both predicted perfectly bonds rated correctly 
+
+(program treats failure as 0 outcome and dependent variable  is equal to zero means that bond is 
+
+rated consistently). Table above shows that coefficients for time to maturity, currency, quarterly, 
+
+annual and accrued coupon frequency, collateral and banks are all significant at 5% level. 
+
+  For time to maturity a one year increase one should expect 0.07 increment in the log odds of 
+
+going  “misclass”  in  1  that  is  of  bond  rated  inconsistently,  ceteris  paribus.  This  can  be 
+
+explained by fact that it is more difficult to rate bonds with longer time to maturity. 
+
+  Negative coupon frequency coefficients show that compared to  semiannual  frequency  bonds 
+
+with  such  frequencies  have  lower  probabilities  to  be  rated  inconsistently.  This  result  is 
+
+contradictory  on  the  first  sight  with  OLS  regression  results  and  hypotheses  for  annual  and 
+
+accrued frequencies. It can be explained in the following way – most bonds in the sample with 
+
+annual  and  accrued  frequencies  are  rated  consistently.  Among  inconsistently  rated  issues 
+
+these  bonds  constitute  11  and  2  respectively.  Therefore,  such  signs  are  determined  by 
+
+consistently rated issues and relationship is spurious. 
+
+  Currency coefficient indicates that for non-dollar denominated debts the log odds of bond to 
+
+be  rated  inconsistently  decline  by  1.35  all  other  variables  being  equal.  This  is  quite 
+
+contradictory  result  since  such  issues  considered  to  be  more  risky  than  those  issues  in  US 
+
+dollar,  but  is  again  explained  by  low  number  of  non-dollar  denominated  bonds  among 
+
+defaulted issues (only 12). 
+
+  Negative  collateral  coefficient  illustrates  the  statement  that  backed  bonds  have  lower 
+
+probability to be rated inconsistently. This is in line with OLS regression results 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+46 
+
+ 
+
+Ordinary least squares regression for non-financial subsample 
+
+Table 11 
+
+The source: author’s model estimation in Stata 12 
+
+ 
+
+ 
+ 
+
+Regression as for financial debts demonstrates low R-squared = 0.0149. Nevertheless, as 
+
+whole it is significant which is indicated by F-test. 
+
+  All debt class coefficients are insignificant at 5% level and thus show that debt class has no 
+
+impact on dependent variable. 
+
+  Coefficient for “time_to_mtr” description is essentially the same as for financial debts. 
+
+  Signs  for  seniority  classes  for  significant  variables  differ  from  expected.  On  contrary  to 
+
+financial  sample,  number  of  bonds  belonging  to  these  debt  classes  is  significant  among 
+
+defaulted  (291  and  122  respectively)  and  non-defaulted  (1648  and  872).  One  possible 
+
+explanation  is  that  on  this  dataset  such  bonds  experienced  lower  losses  than  senior  secured 
+
+due to external factors that are not included in the model. 
+
+  Sign for the “curr” is negative which contradicts the hypothesis and is significant at 5% level. 
+
+In the meantime, defaulted issues contain only 6 out of 1228 debts denominated in currency 
+
+different from US dollar. Thus, this effect is purely explained by non-defaulted issues and is 
+
+spurious. 
+
+ 
+
+47 
+
+  Signs  for  payment  schedule  are  in  line  with  expectations  except  quarterly  frequency.  In  the 
+
+meantime,  coefficient  is  significant  only  for  annual  and  accrued  coupons.  Result  is  in  line 
+
+with expectation. 
+
+  Coefficient  for  collateral  is  negative  which  coincides  with  expectation.  Although  it  is 
+
+insignificant thus one can conclude that collateral has no impact on losses in this sample. 
+
+  As  for industry dummies they show that bonds  from utilities and services  have  lower  losses 
+
+compared  to  real  sector  and  debts  from  media  and  transportation  have  higher  losses 
+
+respectively.  The  first  part  of  the  statement  can  be  explained  as  following  –  products  from 
+
+such  industries  are  in  high  demand  even  in  recessions  and  even  if  default  event takes  place 
+
+companies manage to recover without substantial losses. For the second part the explanation 
+
+is the opposite –demand in downturns on their products declines significantly and companies 
+
+experience big losses (use Appendix 4 for more insight about companies from these sectors). 
+
+ 
+
+The same right hand side variables were used in ordered logistic regression for the whole 
+
+subsample and only defaulted issues. 
+
+note: debt_irb != 0 predicts failure perfectly 
+
+      debt_irb dropped and 319 obs not used 
+note: debt_slb != 0 predicts failure perfectly 
+
+      debt_slb dropped and 35 obs not used 
+Iteration 0:   log likelihood = -4444.7288   
+
+Iteration 1:   log likelihood = -4025.0925   
+Iteration 2:   log likelihood = -3881.8011   
+
+Iteration 3:   log likelihood = -3870.9028   
+Iteration 4:   log likelihood = -3869.6106   
+
+Iteration 5:   log likelihood =  -3869.532   
+Iteration 6:   log likelihood = -3869.5319 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+48 
+
+ 
+
+ 
+
+ 
+
+Logistic regression for non-financial subsample 
+
+Table 12 
+
+The source: author’s model estimation in Stata 12 
+
+ 
+
+As  in  financial  subsample  regression  Stata  dropped  out  two  variables  since  they  both 
+
+predicted perfectly correctly rated bonds.  
+
+  Coefficient for convertible bond is negative and significant indicating that log odds for bonds 
+
+of  this debt class to be rated inconsistently decreases  by 0.783 compared to regular  bond. It 
+
+was stated that convertible bonds are issued mostly by low rated companies. Therefore, such 
+
+result  is  questionable.  There  are  only  90  convertible  bonds  out  of  1228  defaulted  and  this 
+
+inference may be spurious due to small amount of debts. 
+
+  Time to maturity remains positive but becomes insignificant. 
+
+  All  debt  seniorities  are  significant  and  positive  (except  senior  unsecured)  showing  strong 
+
+relationship between misclassified issues and bond seniorities 
+
+  Currency coefficient  explanation  is the  same  as  before (it  is  mostly determined  by  correctly 
+
+rated issues thus is spurious) 
+
+  Coupon  frequencies  coefficients  are  also  all  significant  demonstrating 
+
+impact  on 
+
+misclassification 
+
+  Negative  collateral  coefficient  illustrates  the  statement  that  backed  bonds  have  lower 
+
+probability to be rated inconsistently. This is in line with OLS regression results 
+
+ 
+
+49 
+
+  Utilities,  energy,  services,  media,  consumer  goods  and  transportation  industries  also  reflect 
+
+the dependence with inconsistent ratings. 
+
+4.  Conclusions for Chapter 3 
+
+1.  Lorenz curves for realized lifetime loss and default frequency are very similar in their 
+
+shape.  Therefore  it  can  be  concluded  that  ratings  implicitly  contain  information  on 
+
+possible losses and may be used by investors for such purpose. 
+
+2.  Realized  lifetime  loss  compared  to  simple  default  counting  method  by  accuracy 
+
+coefficients turned to outperform default frequency in all cases for non-financial issues 
+
+and shows that can be used  for proper calculation of  inconsistently rated  issues  from 
+
+financial industry 
+
+3.  Thus, bond quality assessment using this new measure seems sensible and moreover, 
+
+this  measure  implicitly  takes  into  account  default  and  loss  given  default  and  may  be 
+
+used for purposes when these two indicators would need to be incorporated into single 
+
+factor.  Also,  as  Moody’s  stated  their  rating  reflect  both  indicators,  it  seems  that  for 
+
+bond ratings quality estimation realized loss is more appropriate measure due to higher 
+
+accuracy than default frequency 
+
+4.  Regression analysis showed low value of R-squared. Nevertheless author claims that it 
+
+is not a matter of concern because results present significant effects (and as whole all 
+
+regressions  are  significant  by  F-test  value).  Author’s  purpose  was  not  to  create  the 
+
+model which explains all variation in realized losses but to find out which of the bond 
+
+specific  variables  are  responsible  for  inconsistent  ratings  and  determine  the  signs  of 
+
+their effects. Author achieved this goal and found that  
+
+-  time  to  maturity  coefficient  is  positive  in  all  cases  and  almost  always  significant, 
+
+which  is  in  line  with  Hilscher  and  Wilson  (2013)  and  Figlewski  et  al  (2012) 
+
+meaning that default  is  more probable  for  issues  with  longer time to maturity and 
+
+such issues experience higher losses and are rated inconsistently more often. 
+
+-  collateral  coefficient  is  always  negative,  thus  showing  that  for  backed  bonds 
+
+probability to get inconsistent rating is lower as well as realized losses 
+
+-  industries  among  non-financial  debts  have  significant  impacts  on  realized  losses. 
+
+This  can  be  explained  that  essential  goods  are  in  demand  even  in  economy’s 
+
+downturns  thus  companies  from  these  industries  in  case  of  default  are  able  to 
+
+recover. 
+
+-  payment schedule barely explains misclassified bonds as well as realized losses 
+
+ 
+
+50 
+
+-  all  other  variables,  namely  debt  class,  seniority  and  currency  showed  significant 
+
+effects in some cases but as it was explained these effects are spurious. 
+
+5.  Finally, these variables explain only a small portion of the variation in  the dependent 
+
+variable.  Author  conjectures  that  R-squared  may  be  sufficiently  increased  by 
+
+introduction  external  variables,  like  firm-specific  and  macroeconomic:  profitability, 
+
+balance  sheet  ratios,  GDP  growth,  unemployment  rate  etc.  It  would  be  interesting  to 
+
+conduct similar exercise on this sample or on sample that will be presented with higher 
+
+amount of defaults as it was stated earlier in the text. 
+
+ 
+
+51 
+
+ 
+
+ 
+
+ 
+
+Conclusion 
+
+Author  dedicated  this  master  thesis  to  answer  on  the  three  questions  that  were  already 
+
+stated in the Introduction. The summary of the obtained results is the following: 
+
+1.  Ratings  do contain relevant information  for the  individual  investor. In particularly, they 
+
+can be used for default frequency estimation and this result is in accordance with number 
+
+of papers. Two types of debts were considered in this work: 
+
+  Financial  debts  subsample  showed  that  ratings  moderately  explain  defaults  and  this  is 
+
+possibly due to overlap of the sample period with  financial crisis 2008. This  subsample 
+
+consists  mostly  of  “A”-“Aaa”  rated  issues  and  the  most  part  of  which  suffered  default 
+
+events.  This  is  in  line  with  some  papers  which  state  that  number  of  defaults  increases 
+
+dramatically in the recessions. Thus, financial crisis of 2008 revealed that rating agencies 
+
+underestimate  risks  inherent  by  financial  debts.  Author  suggests  to  use  some  other 
+
+explanatory variables to account correctly for default probability  
+
+  Non-financial industry issues ratings seem to take correctly all risks and ratings itself can 
+
+be  used  as  the  only  explanatory  variable,  especially  in  the  1  year  period  from  rating 
+
+assignment. 
+
+2.  Loss given default turned out to be poorly reflected in ratings. Only in 1 year period for 
+
+non-financial debts ratings can be used for  loss given default prediction but still require 
+
+additional source of information due to moderate Gini coefficients. 
+
+3.  Newly  introduced  measure,  namely  realized  lifetime  loss  was  proved  to  be  superior  to 
+
+simple default counting  method. It outperformed  default  frequency  in  all  cases  for non-
+
+financial  issues  and  showed  the  same  accuracy  for  financial  debts.  Therefore,  due  to 
+
+implicit  account  for  default  probability  and  loss  given  default  it  seems  to  be  more 
+
+appropriate  measure  for  bond  quality  estimation.  Moreover,  this  measure  also  can  be 
+
+used to count inconsistently rated bonds. 
+
+4.  Author achieved his goal and found some significant effects in regression analysis: 
+
+- 
+
+time to maturity coefficient is positive in all cases and almost always significant proving 
+
+the hypothesis that issues with long time to maturity are more probable to go into default 
+
+and experience higher losses. Also they are more often to be rated inconsistently. 
+
+-  collateral coefficient is always negative, thus showing that for backed bonds probability 
+
+to get inconsistent rating is lower as well as realized losses 
+
+- 
+
+industries among non-financial debts have significant impacts on realized losses.  
+
+To conclude, author had found answers on all stated questions. Open questions for further 
+
+research are: 
+
+ 
+
+52 
+
+4.  How can rating  agencies  adjust their  methodology to reflect better loss given default  in 
+
+their  ratings  and  would  it  be  more  appropriate  to  publish  realized  lifetime  loss  in  the 
+
+reports instead of other two indicators? 
+
+5.  Other  variables  from  regression  analysis,  namely  debt  class,  seniority  and  currency 
+
+showed  significant  effects  in  some  cases  but  as  it  was  explained  these  effects  are 
+
+spurious.  This  happened  due  to  low  amount  of  bonds  with  these  characteristics  among 
+
+defaulted issues. It would be interesting to check these hypotheses on more broad sample 
+
+6.  Author’s  purpose  was  to  find  which  of  the  bond  specific  variables  are  responsible  for 
+
+inconsistent  ratings  and  determine  the  signs  of  their  effects.  Listed  above  variables  do 
+
+have  impact  on  the  dependent  variable  but  do  not  explain  all  variation.  Introduction  of 
+
+firm-specific  and  macroeconomic  variables  can  resolve  this  problem  and  it  would  be 
+
+interesting to do this exercise in further studies. 
+
+ 
+
+53 
+
+ 
+
+ 
+
+References 
+
+Journal articles: 
+
+1.  Altman  Edward  I.  Measuring  Corporate  Bond  Mortality  and  Performance.  Finanzmarkt 
+
+and Portfolio Management – 4. Jahrgang, 1990. Nr.1 
+
+2.  Altman  Edward  I.,  Kishore  Vellore  M..  Almost  everything  you  wanted  to  know  about 
+
+recoveries on defaulted bonds. Financial Analysts Journal, Nov/Dec 1996. 52, 6 
+
+3.  Altman  Edward  I.,  Brady  Brooks,  Resti  Andrea,  Sironi  Andrea.  The  Link  between 
+
+Default  and  Recovery  Rates:  Theory,  Empirical  Evidence  and  Implications.  Journal  of 
+
+Business, 2005. Vol. 78, no. 6 
+
+4.  Bade  Benjamin,  Rosch  Daniel  and  Scheule  Harald.  Default  and  Recovery  Risk 
+
+Dependencies  in  a  Simple  Credit  Risk  Model.  European  Financial  Management,  2011. 
+
+Vol. 17, No. 1, 120–144 
+
+5.  Bruche Max and Gonzalez-Aguado Carlos. Recovery rates, default probabilities, and the 
+
+credit cycle. Journal of Banking & Finance, 2010. 34 713–723 
+
+6.  Carey Mark. Credit Risk In Private Debt Portfolios. The Journal Of Finance, 1998. Vol. 
+
+Liii, No. 4 
+
+7.  Dwyer  Douglas  W.,  Kocagil  Ahmet  E.,  Stein  Roger  M.  Moody’s  KMV  RiskCalc  v.3.1 
+
+model. Moody’s KMV, Next-Generation Technology  for  Predicting Private Firm Credit 
+
+Risk, 2004 
+
+8.  Figlewski,  Frydman  and  Liang.  Modeling  the  effect  of  macroeconomic  factors  on 
+
+corporate  default  and  credit  rating  transitions.  International  Review  of  Economics  and 
+
+Finance, 2012. 21 57-105 
+
+9.  Godlewski  Christophe  J.  Are  Ratings  Consistent  with  Default  Probabilities.  Emerging 
+
+Markets Finance and Trade, 2007. Vol.43, no.4 
+
+10. Gupton  Greg  M.,  Stein  Roger  M.  LossCalc  V2:  Dynamic  Prediction  of  LGD.  Moody’s 
+
+KMV, Modelling methodology, 2005 
+
+11. Merton  Robert  C.  On  the  pricing  of  corporate  debt:  the  risk  structure  of  interest  rates. 
+
+Journal of Finance, 1974. p. 449-478 
+
+12. Perraudin  William  and  Taylor  Alex  P.  On  the  consistency  of  ratings  and  bond  market 
+
+yields. Journal of Banking & Finance, 2004. 28 2769–2788 
+
+13. Varma  Praveen,  Cantor  Richard,  Hamilton  David.  Recovery  Rates  on  Defaulted 
+
+Corporate  Bonds  and  Preferred  Stocks,  1982–2003.  Moody’s  Investors  Service,  Global 
+
+Credit Research, 2003 
+
+ 
+
+ 
+
+54 
+
+Books: 
+
+14. Walkenbach  John.  Excel  2010  Power  Programming  with  VBA.  Wiley  Publishing,  Inc., 
+
+2010 
+
+Working papers: 
+
+15. Hainsworth Richard. Meaning of Credit Rating, 2012 
+
+16. Hilscher Jens and Wilson Mungo. Credit ratings and credit risk: Is one measure enough? 
+
+March 2013 
+
+Rating agencies methodologies: 
+
+17. A Guide To The Loan Market. Standard & Poor’s 
+
+18. Corporate  Default  and  Recovery  Rates,  1920-2008.  Special  Comment,  Moody’s  Global 
+
+Credit Policy, 2009 
+
+19. DRS Technical Specifications. Moody’s Corporate Default Risk Service 
+
+20. Frequently Asked Questions. Moody’s Corporate Default Risk Service 
+
+21. Guide to Credit Rating Essentials. Standard & Poor’s 
+
+22. Managing and Developing Criteria and Models. Fitch Ratings, 2011 
+
+23. Moody’s Ratings Symbols and Definitions. Moody’s Investor Service, 2009 
+
+24. Ratings  and  Notching  Criteria  for  Non-Financial  Corporate  Issuers.  Fitch  Ratings 
+
+Recovery, 2012 
+
+Internet resources: 
+
+25. Board  of  Governors  of  the  Federal  Reserve  System,  historical  interest  rates  for  US 
+
+market http://www.federalreserve.gov/releases/h15/data.htm 
+
+ 
+
+55 
+
+ 
+
+ 
+
+Appendix 1 
+
+Country 
+
+Albania 
+Alderney 
+Andorra 
+Angola 
+Argentina 
+Armenia 
+Aruba 
+Australia 
+Austria 
+Azerbaijan 
+Bahamas 
+Bahamas (off 
+shore) 
+Bahrain 
+Bahrain (off 
+shore) 
+Bangladesh 
+Barbados 
+Belarus 
+Belgium 
+Belize 
+Bermuda 
+Bolivia 
+Bosnia and 
+Herzegovina 
+Botswana 
+Brazil 
+British Virgin 
+Islands 
+Bulgaria 
+Cambodia 
+Canada 
+
+Cayman Islands 
+Cayman Islands 
+(off shore) 
+
+Channel Islands 
+Chile 
+China 
+Colombia 
+Costa Rica 
+Croatia 
+Cuba 
+
+ 
+
+Number 
+of debts 
+
+6 
+2 
+6 
+3 
+
+779 
+15 
+49 
+
+10182 
+4607 
+
+24 
+622 
+
+4 
+25 
+
+22 
+3 
+16 
+17 
+879 
+
+8 
+
+457 
+88 
+
+5 
+8 
+
+985 
+
+69 
+73 
+9 
+
+10654 
+
+Country 
+
+France 
+Georgia 
+Germany 
+Ghana 
+Gibraltar 
+Greece 
+Guatemala 
+Guernsey 
+Honduras 
+Hong Kong 
+Hungary 
+
+Iceland 
+India 
+
+Indonesia 
+Iran 
+Ireland 
+Isle of Man 
+Israel 
+Italy 
+Jamaica 
+Japan 
+
+Jersey 
+Jordan 
+Kazakhstan 
+
+Korea 
+Kuwait 
+Kyrgyzstan 
+Latvia 
+
+2515 
+
+Lebanon 
+
+74 
+
+708 
+178 
+352 
+131 
+17 
+50 
+3 
+
+Liberia 
+Liechtenstei
+n 
+Lithuania 
+Luxembourg 
+Macau 
+Macedonia 
+Malaysia 
+Malta 
+
+Number 
+of debts 
+13768 
+
+9 
+
+27661 
+
+2 
+2 
+
+493 
+16 
+
+2030 
+
+27 
+869 
+229 
+
+700 
+381 
+
+223 
+
+4 
+
+3537 
+
+15 
+595 
+4446 
+
+60 
+
+12358 
+
+1959 
+
+15 
+141 
+
+1713 
+
+40 
+2 
+40 
+
+79 
+
+4 
+
+10 
+60 
+
+8366 
+
+18 
+2 
+
+307 
+44 
+
+Country 
+
+New Zealand 
+Nicaragua 
+Norway 
+Oman 
+Pakistan 
+Panama 
+Panama (off shore) 
+Papua New Guinea 
+Paraguay 
+Peru 
+Philippines 
+
+Poland 
+Portugal 
+
+Puerto Rico 
+Qatar 
+Romania 
+Russia 
+Saint Lucia 
+San Marino 
+Sark 
+Saudi Arabia 
+
+Serbia 
+Singapore 
+Slovak Republic 
+
+Slovenia 
+South Africa 
+Spain 
+Sri Lanka 
+St. Vincent and The 
+Grenadines 
+
+Supranational 
+
+Suriname 
+Sweden 
+Switzerland 
+Taiwan 
+Thailand 
+Trinidad & Tobago 
+Tunisia 
+
+Number 
+of debts 
+
+604 
+14 
+
+3371 
+
+34 
+107 
+196 
+
+2 
+3 
+4 
+77 
+467 
+
+183 
+659 
+
+74 
+43 
+49 
+762 
+
+2 
+2 
+2 
+82 
+
+3 
+
+485 
+79 
+
+64 
+283 
+2266 
+
+5 
+
+4 
+
+9087 
+
+3 
+
+4352 
+1181 
+349 
+323 
+28 
+43 
+
+56 
+
+Cyprus 
+Czech Republic 
+
+97 
+110 
+
+Marshall 
+Islands 
+Mauritius 
+
+9 
+48 
+
+2324 
+
+Mexico 
+
+1295 
+
+Turkey 
+Turkmenistan 
+Turks and Caicos 
+Islands 
+
+Ukraine 
+United Arab 
+Emirates 
+United Kingdom 
+United States 
+Uruguay 
+Uzbekistan 
+
+Venezuela 
+Vietnam 
+
+282 
+
+3 
+
+7 
+
+188 
+
+221 
+
+25319 
+255455 
+
+131 
+17 
+
+226 
+51 
+
+22 
+
+ 
+
+Denmark 
+Dominican 
+Republic 
+
+Dublin 
+Ecuador 
+Egypt 
+El Salvador 
+Estonia 
+
+Faroe Islands 
+Fiji 
+
+Finland 
+
+23 
+
+19 
+18 
+34 
+17 
+38 
+
+5 
+
+106 
+
+1467 
+
+Micronesia 
+
+Moldova 
+Monaco 
+Mongolia 
+Montenegro 
+Morocco 
+Multinationa
+l - Asia 
+Netherlands 
+Netherlands 
+Antilles 
+
+2 
+
+11 
+2 
+14 
+6 
+34 
+
+1 
+
+12651 
+
+3403 
+
+Unnamed 
+
+Country 
+
+Number of debts 
+
+Country 
+
+Number of debts 
+
+United States 
+Germany 
+United Kingdom 
+France 
+Netherlands 
+Japan 
+Canada 
+Australia 
+Supranational 
+Luxembourg 
+Austria 
+Italy 
+Sweden 
+Ireland 
+Netherlands Antilles 
+
+255455 
+27661 
+25319 
+13768 
+12651 
+12358 
+10654 
+10182 
+9087 
+8366 
+4607 
+4446 
+4352 
+3537 
+3403 
+
+Norway 
+Cayman Islands 
+Denmark 
+Spain 
+Guernsey 
+Jersey 
+Korea 
+Finland 
+Mexico 
+Switzerland 
+Brazil 
+Belgium 
+Hong Kong 
+Argentina 
+Russia 
+
+Number of 
+
+Number of 
+
+Country 
+
+issuers 
+
+Country 
+
+issuers 
+
+Country 
+
+3 
+1 
+1 
+4 
+2 
+
+191 
+
+8 
+3 
+
+508 
+
+France 
+Georgia 
+Germany 
+Ghana 
+Gibraltar 
+Greece 
+Guatemala 
+Guernsey 
+Honduras 
+
+443 
+
+4 
+
+409 
+
+2 
+2 
+32 
+6 
+44 
+3 
+
+Nicaragua 
+Norway 
+Oman 
+Pakistan 
+Panama 
+Panama (off shore) 
+Papua New Guinea 
+Paraguay 
+Peru 
+
+Albania 
+Alderney 
+Algeria 
+Andorra 
+Angola 
+Argentina 
+Armenia 
+Aruba 
+Australia 
+
+ 
+
+3371 
+2515 
+2324 
+2266 
+2030 
+1959 
+1713 
+1467 
+1295 
+1181 
+985 
+879 
+869 
+779 
+762 
+
+ 
+Number of 
+
+issuers 
+
+2 
+65 
+13 
+9 
+21 
+1 
+2 
+2 
+10 
+
+57 
+
+Austria 
+Azerbaijan 
+Bahamas 
+Bahamas (off 
+shore) 
+Bahrain 
+Bahrain (off 
+shore) 
+Bangladesh 
+Barbados 
+Belarus 
+Belgium 
+Belize 
+Bermuda 
+Bolivia 
+Bosnia and 
+Herzegovina 
+Botswana 
+Brazil 
+British Virgin 
+Islands 
+Bulgaria 
+
+Cambodia 
+Canada 
+Cayman Islands 
+Cayman Islands 
+(off shore) 
+Channel Islands 
+Chile 
+China 
+Colombia 
+Costa Rica 
+Croatia 
+
+Cuba 
+
+Cyprus 
+Czech Republic 
+
+Denmark 
+Dominican 
+Republic 
+Dublin 
+Ecuador 
+Egypt 
+El Salvador 
+Estonia 
+
+ 
+
+63 
+12 
+29 
+
+2 
+8 
+
+7 
+2 
+7 
+8 
+
+119 
+
+2 
+
+230 
+47 
+
+2 
+2 
+
+289 
+
+41 
+20 
+
+4 
+
+785 
+417 
+
+8 
+19 
+57 
+60 
+24 
+3 
+9 
+
+2 
+
+20 
+28 
+
+77 
+
+7 
+21 
+5 
+12 
+7 
+9 
+
+Hong Kong 
+Hungary 
+Iceland 
+
+India 
+Indonesia 
+
+Iran 
+Ireland 
+Isle of Man 
+Israel 
+Italy 
+Jamaica 
+Japan 
+Jersey 
+
+Jordan 
+Kazakhstan 
+Korea 
+
+Kuwait 
+Kyrgyzstan 
+
+Latvia 
+Lebanon 
+Liberia 
+Liechtenstei
+n 
+Lithuania 
+Luxembourg 
+Macau 
+Macedonia 
+Malaysia 
+Malta 
+Marshall 
+Islands 
+
+Mauritius 
+Mexico 
+
+Micronesia 
+
+Moldova 
+Monaco 
+Mongolia 
+Montenegro 
+Morocco 
+Multinationa
+
+200 
+24 
+13 
+
+39 
+112 
+
+2 
+
+345 
+
+9 
+19 
+239 
+
+7 
+
+599 
+91 
+
+6 
+53 
+115 
+
+14 
+1 
+
+14 
+7 
+6 
+
+2 
+6 
+
+433 
+
+7 
+2 
+49 
+8 
+
+3 
+
+13 
+457 
+
+1 
+
+2 
+1 
+4 
+3 
+6 
+1 
+
+Philippines 
+Poland 
+Portugal 
+
+Puerto Rico 
+Qatar 
+
+Romania 
+Russia 
+Saint Lucia 
+San Marino 
+Sark 
+Saudi Arabia 
+Serbia 
+Singapore 
+
+Slovak Republic 
+Slovenia 
+South Africa 
+
+Spain 
+Sri Lanka 
+St. Vincent and the 
+Grenadines 
+Supranational 
+Suriname 
+
+Sweden 
+Switzerland 
+Taiwan 
+Thailand 
+Trinidad & Tobago 
+Tunisia 
+Turkey 
+
+Turkmenistan 
+Turks and Caicos 
+Islands 
+Ukraine 
+United Arab 
+Emirates 
+
+United Kingdom 
+United States 
+Unknown 
+Uruguay 
+Uzbekistan 
+Venezuela 
+
+37 
+39 
+57 
+
+20 
+15 
+
+17 
+247 
+
+1 
+1 
+1 
+27 
+3 
+
+108 
+
+21 
+9 
+48 
+
+193 
+
+1 
+
+2 
+27 
+2 
+
+110 
+187 
+49 
+45 
+6 
+11 
+45 
+
+2 
+
+4 
+52 
+
+44 
+
+1452 
+19073 
+
+18 
+20 
+9 
+31 
+
+58 
+
+Faroe Islands 
+
+Fiji 
+
+Finland 
+
+Country 
+United States 
+United Kingdom 
+Canada 
+Japan 
+Netherlands 
+Australia 
+Mexico 
+France 
+Luxembourg 
+Cayman Islands 
+Germany 
+Ireland 
+Brazil 
+Russia 
+
+Industry 
+
+Aerospace & Defense 
+
+Automotive 
+
+Banking 
+Beverage, Food, & 
+Tobacco 
+Capital Equipment 
+Chemicals, Plastics, & 
+Rubber 
+Construction & Building 
+Consumer goods: 
+Durable 
+Consumer goods: Non-
+durable 
+Containers, Packaging, & 
+Glass 
+Energy: Electricity 
+Energy: Oil & Gas 
+Environmental Industries 
+FIRE: Finance 
+FIRE: Insurance 
+FIRE: Real Estate 
+
+ 
+
+l - Asia 
+
+Netherlands 
+Netherlands 
+Antilles 
+New 
+Zealand 
+
+2 
+
+2 
+
+46 
+
+Number of issuers 
+
+583 
+
+Vietnam 
+
+Unnamed 
+
+66 
+
+81 
+
+9 
+
+4349 
+
+ 
+
+Country 
+
+ 
+Number of issuers 
+
+ 
+
+19073 
+1452 
+785 
+599 
+583 
+508 
+457 
+443 
+433 
+417 
+409 
+345 
+289 
+247 
+
+Number of 
+
+debts 
+1949 
+
+6465 
+
+159762 
+
+4884 
+6829 
+
+3933 
+3193 
+
+Italy 
+Bermuda 
+Hong Kong 
+Spain 
+Argentina 
+Switzerland 
+Belgium 
+Korea 
+Indonesia 
+Sweden 
+Singapore 
+Jersey 
+New Zealand 
+Denmark 
+
+Industry 
+
+Hotel, Gaming, & Leisure 
+Media: Advertising, Printing & 
+Publishing 
+Media: Broadcasting & 
+Subscription 
+
+Media: Diversified & Production 
+Metals & Mining 
+
+Retail 
+Services: Business 
+
+934 
+
+Services: Consumer 
+
+239 
+230 
+200 
+193 
+191 
+187 
+119 
+115 
+112 
+110 
+108 
+91 
+81 
+77 
+
+ 
+
+Number of 
+
+debts 
+3542 
+
+1899 
+
+3219 
+
+1080 
+2762 
+
+4842 
+2227 
+
+905 
+
+2344 
+
+Sovereign & Public Finance 
+
+140910 
+
+1510 
+3327 
+7773 
+666 
+
+31553 
+11599 
+4697 
+
+Telecommunications 
+Transportation: Cargo 
+Transportation: Consumer 
+Unassigned 
+Unassigned 
+Utilities: Electric 
+Utilities: Oil & Gas 
+
+7107 
+4775 
+3138 
+9524 
+1277 
+17062 
+3156 
+
+59 
+
+1506 
+
+Utilities: Water 
+
+3958 
+4813 
+
+Wholesale 
+
+ 
+
+Number of 
+
+issuers 
+
+Industry 
+
+491 
+
+968 
+
+ 
+
+ 
+
+Number of 
+
+issuers 
+
+High Tech Industries 
+Hotel, Gaming, & Leisure 
+Media: Advertising, Printing & 
+Publishing 
+Media: Broadcasting & 
+Subscription 
+Media: Diversified & Production 
+
+Metals & Mining 
+Retail 
+
+Services: Business 
+
+Services: Consumer 
+
+Sovereign & Public Finance 
+Telecommunications 
+Transportation: Cargo 
+Transportation: Consumer 
+
+Unassigned 
+Utilities: Electric 
+Utilities: Oil & Gas 
+Utilities: Water 
+Wholesale 
+
+638 
+572 
+
+276 
+
+454 
+128 
+
+527 
+580 
+
+357 
+
+117 
+
+1100 
+903 
+460 
+200 
+
+484 
+998 
+278 
+93 
+188 
+
+226 
+492 
+
+4880 
+
+675 
+684 
+
+487 
+559 
+
+134 
+
+404 
+
+215 
+8412 
+364 
+1144 
+
+74 
+
+2270 
+3620 
+535 
+207 
+
+605 
+
+ 
+Number of debts  Coupon frequency  Number of debts 
+
+Forest Products & Paper 
+Healthcare & 
+Pharmaceuticals 
+High Tech Industries 
+
+Industry 
+
+Aerospace & Defense 
+Automotive 
+
+Banking 
+Beverage, Food, & 
+Tobacco 
+Capital Equipment 
+Chemicals, Plastics, & 
+Rubber 
+Construction & Building 
+Consumer goods: 
+Durable 
+Consumer goods: Non-
+durable 
+Containers, Packaging, 
+& Glass 
+Empty 
+Energy: Electricity 
+Energy: Oil & Gas 
+Environmental 
+Industries 
+FIRE: Finance 
+FIRE: Insurance 
+FIRE: Real Estate 
+Forest Products & Paper 
+Healthcare & 
+Pharmaceuticals 
+
+Coupon frequency 
+Commercial paper/Flexible 
+Daily 
+Variable 
+Accrued 
+Annual 
+Bi-Annual (Every 2 years) 
+Bi-Monthly 
+Biweekly (2x Month) 
+Every 49 Days 
+
+5 
+2 
+
+254 
+
+18284 
+58622 
+
+48 
+168 
+
+1 
+33 
+
+Every 28 Days 
+Monthly 
+Not Applicable 
+Quarterly 
+Semi-Annual 
+Tri-Annual (3x Year) 
+Unknown 
+Weekly 
+
+ 
+
+Debt type 
+
+17 
+
+15418 
+2049 
+54847 
+165308 
+
+21 
+
+127538 
+
+203 
+
+ 
+
+ 
+
+Number of 
+
+debts 
+
+60 
+
+Debt type 
+
+Number of 
+
+debts 
+
+ 
+
+11 
+
+12405 
+
+Mutual Fund 
+Master Servicer 
+
+1872 
+
+456 
+295 
+3990 
+
+1218 
+
+154 
+4902 
+4647 
+
+3 
+
+5352 
+
+2 
+
+280 
+3310 
+5622 
+
+6 
+
+9266 
+
+33 
+
+537 
+
+1 
+
+Medium-Term Note Program 
+Pass-Through 
+Pfandbriefe, Mortgage 
+Pfandbriefe, Public-Sector 
+
+Probability of Default Rating 
+Preference Stock 
+Preferred Stock 
+Primary Servicer 
+Regular Bond/Debenture 
+Deposit Rating 
+
+Speculative Grade Liquidity 
+Shelf 
+Corporate Family Rating 
+Sec. Lease Oblig. Bond 
+Surplus Notes 
+Country Ceiling Bank Deposit 
+Rating 
+Country Ceiling Rating 
+Lloyd's Syndicate 
+Performance 
+
+ 
+
+Seniority type 
+
+Preferred Stock 
+
+Preferred Stock 
+Subordinated 
+Senior Debt for Prospective 
+Shelf 
+Senior Subordinated 
+Senior Secured 
+Senior Unsecured 
+Tier III debt 
+
+Number of 
+
+debts 
+4904 
+
+17 
+
+1425 
+
+6 
+5 
+
+8175 
+18651 
+
+400 
+
+ 
+
+Asset Management Quality 
+Rating 
+Bank Credit Facility 
+Bank Financial Strength 
+Rating 
+Bank Note Program 
+Deposit Program 
+Deposit Note/Takedown 
+Insurance Financial Strength 
+Rating 
+Collateralized Note 
+Conv./Exch. Bond/Debenture 
+Commercial Paper 
+Covered Bonds - Public Sector 
+Issuer Rating 
+Custodial Management 
+Quality Rating 
+Enhanced Equipment Trust 
+Equipment Trust 
+First Mortgage Bonds 
+Investment Agreement 
+
+Revenue Bonds 
+Short-Term Rating 
+
+OSO Rating 
+Covered Bonds 
+
+Seniority type 
+
+Revenue Bonds 
+Junior Preferred 
+Stock 
+Junior Subordinated 
+
+Senior Unsecured 
+Covered Bonds 
+Multiple Seniority 
+Not Applicable 
+Preference Stock 
+ 
+ 
+
+ 
+
+1185 
+
+2 
+
+5972 
+
+272 
+
+2 
+2 
+
+2201 
+
+372 
+5471 
+
+7 
+
+353179 
+
+2228 
+
+937 
+
+11754 
+4259 
+
+64 
+76 
+
+127 
+
+127 
+
+219 
+
+ 
+
+ 
+
+Number of 
+
+debts 
+7697 
+
+3 
+
+10814 
+
+233 
+3121 
+29801 
+357517 
+
+49 
+
+61 
+
+Resolution type 
+Acquired 
+Called 
+Cancelled 
+Company taken private 
+Creditors paid in full 
+Dismissed 
+Distressed exchange 
+
+Emerged from bankruptcy 
+Emerged from Chapter 11 
+Interest paid in stock 
+Liquidated 
+
+Bankruptcy type 
+Bankruptcy 
+Chapter 11 
+Chapter 15 
+Chapter 7 
+Conservatorship 
+Liquidated 
+Placed under 
+administration 
+Prepackaged Chapter 11 
+Receivership 
+Seized by regulators 
+ 
+
+Liquidation plan confirmed 
+Made interest payment 
+Made principal payment 
+Merged 
+Partial distressed exchange 
+Reorganization plan 
+confirmed 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Appendix 2 
+
+Default type 
+Bank holiday 
+Bankruptcy 
+Chapter 7 
+Chapter 11 
+Conservatorship 
+Cross default 
+Distressed exchange 
+
+Grace period default 
+Liquidated 
+Loan forgiven 
+Missed principal and interest 
+payment 
+Missed principal payment 
+Payment moratorium 
+Placed under administration 
+Prepackaged Chapter 11 
+Receivership 
+Seized by regulators 
+
+Suspension of payments 
+This table only lists default types, resolution types and bankruptcy types presented in the sample. 
+All items from these three columns may appear for particular debt in any combination (not as it 
+presented by each line in the table) 
+
+ 
+
+Industry 
+
+Aerospace & Defense 
+Automotive 
+
+Banking 
+Beverage, Food, & 
+Tobacco 
+Capital Equipment 
+Chemicals, Plastics, & 
+Rubber 
+Construction & Building 
+Consumer goods: 
+Durable 
+Consumer goods: Non-
+durable 
+Containers, Packaging, & 
+Glass 
+Energy: Electricity 
+Energy: Oil & Gas 
+Environmental Industries 
+FIRE: Finance 
+
+ 
+
+ 
+
+Number of 
+
+debts 
+390 
+1466 
+
+8466 
+
+1027 
+1875 
+
+728 
+366 
+
+144 
+
+496 
+
+199 
+1533 
+1569 
+144 
+
+10589 
+
+Industry 
+
+High Tech Industries 
+Hotel, Gaming, & Leisure 
+Media: Advertising, Printing & 
+Publishing 
+Media: Broadcasting & 
+Subscription 
+Media: Diversified & Production 
+
+Metals & Mining 
+Retail 
+
+Services: Business 
+
+Services: Consumer 
+
+Telecommunications 
+Transportation: Cargo 
+Transportation: Consumer 
+Unassigned 
+Utilities: Electric 
+
+Number of 
+
+debts 
+960 
+717 
+
+258 
+
+603 
+257 
+
+296 
+1190 
+
+246 
+
+154 
+
+1110 
+630 
+106 
+250 
+4242 
+
+62 
+
+FIRE: Insurance 
+FIRE: Real Estate 
+Forest Products & Paper 
+Healthcare & 
+Pharmaceuticals 
+
+ 
+
+Industry 
+
+Aerospace & Defense 
+Automotive 
+
+Banking 
+Beverage, Food, & 
+Tobacco 
+Capital Equipment 
+Chemicals, Plastics, & 
+Rubber 
+Construction & Building 
+Consumer goods: 
+Durable 
+Consumer goods: Non-
+durable 
+Containers, Packaging, 
+& Glass 
+Energy: Electricity 
+Energy: Oil & Gas 
+Environmental Industries 
+FIRE: Finance 
+FIRE: Insurance 
+FIRE: Real Estate 
+Forest Products & Paper 
+Healthcare & 
+Pharmaceuticals 
+ 
+
+3948 
+1437 
+238 
+
+Utilities: Oil & Gas 
+Utilities: Water 
+
+785 
+
+Wholesale 
+
+784 
+24 
+
+171 
+
+Number of 
+
+issuers 
+
+Industry 
+
+Number of 
+
+issuers 
+
+86 
+122 
+
+379 
+
+156 
+231 
+
+136 
+119 
+
+48 
+
+High Tech Industries 
+Hotel, Gaming, & Leisure 
+Media: Advertising, Printing & 
+Publishing 
+Media: Broadcasting & 
+Subscription 
+Media: Diversified & Production 
+
+Metals & Mining 
+Retail 
+
+Services: Business 
+
+171 
+
+Services: Consumer 
+
+71 
+114 
+362 
+35 
+154 
+1070 
+160 
+45 
+
+Telecommunications 
+Transportation: Cargo 
+Transportation: Consumer 
+Unassigned 
+Utilities: Electric 
+Utilities: Oil & Gas 
+Utilities: Water 
+
+232 
+
+Wholesale 
+
+235 
+254 
+
+95 
+
+173 
+44 
+
+122 
+211 
+
+119 
+
+48 
+
+272 
+80 
+32 
+50 
+253 
+93 
+8 
+
+74 
+
+Rating 
+
+Number of debts 
+
+Rating 
+
+Number of debts 
+
+A         
+A1        
+A2        
+A3        
+Aa        
+Aa1       
+Aa2       
+Aa3       
+Aaa       
+B         
+B1        
+B2        
+B3        
+
+ 
+
+27 
+
+7116 
+6843 
+4860 
+
+15 
+
+1442 
+2943 
+5864 
+4066 
+
+2 
+
+931 
+1265 
+1559 
+
+Ba        
+Ba1       
+Ba2       
+Ba3       
+Baa       
+Baa1      
+Baa2      
+Baa3      
+Ca        
+Caa       
+Caa1      
+Caa2      
+Caa3      
+
+4 
+
+640 
+563 
+1366 
+
+11 
+
+2504 
+2731 
+2032 
+
+14 
+76 
+385 
+117 
+22 
+
+63 
+
+Appendix 3 
+
+  
+
+3m 
+
+6m 
+
+1y 
+
+2y 
+
+3y 
+
+5y 
+
+7y 
+
+10y 
+
+20y 
+
+30y 
+
+1982  11.09%  11.86%  12.27%  12.80%  12.93%  13.01%  13.06%  13.01%  12.92%  12.76% 
+
+1983 
+
+8.95% 
+
+9.27% 
+
+9.58% 
+
+10.21%  10.45%  10.79%  11.02%  11.10%  11.34%  11.18% 
+
+1984 
+
+9.92% 
+
+10.42%  10.91%  11.67%  11.92%  12.26%  12.42%  12.46%  12.49%  12.41% 
+
+1985 
+
+7.72% 
+
+8.06% 
+
+8.42% 
+
+9.27% 
+
+9.64% 
+
+10.12%  10.50%  10.62%  10.97%  10.79% 
+
+1986 
+
+6.15% 
+
+6.30% 
+
+6.45% 
+
+6.86% 
+
+7.06% 
+
+7.30% 
+
+7.54% 
+
+7.67% 
+
+7.84% 
+
+7.78% 
+
+1987 
+
+5.96% 
+
+6.33% 
+
+6.77% 
+
+7.42% 
+
+7.68% 
+
+7.94% 
+
+8.23% 
+
+8.39% 
+
+8.49% 
+
+8.59% 
+
+1988 
+
+6.89% 
+
+7.27% 
+
+7.65% 
+
+8.10% 
+
+8.26% 
+
+8.48% 
+
+8.71% 
+
+8.85% 
+
+8.91% 
+
+8.96% 
+
+1989 
+
+8.39% 
+
+8.48% 
+
+8.53% 
+
+8.57% 
+
+8.55% 
+
+8.50% 
+
+8.52% 
+
+8.49% 
+
+8.47% 
+
+8.45% 
+
+1990 
+
+7.75% 
+
+7.85% 
+
+7.89% 
+
+8.16% 
+
+8.26% 
+
+8.37% 
+
+8.52% 
+
+8.55% 
+
+8.58% 
+
+8.61% 
+
+1991 
+
+5.54% 
+
+5.69% 
+
+5.86% 
+
+6.49% 
+
+6.82% 
+
+7.37% 
+
+7.68% 
+
+7.86% 
+
+8.00% 
+
+8.14% 
+
+1992 
+
+3.51% 
+
+3.66% 
+
+3.89% 
+
+4.77% 
+
+5.30% 
+
+6.19% 
+
+6.63% 
+
+7.01% 
+
+7.34% 
+
+7.67% 
+
+1993 
+
+3.07% 
+
+3.22% 
+
+3.43% 
+
+4.05% 
+
+4.44% 
+
+5.14% 
+
+5.54% 
+
+5.87% 
+
+6.29% 
+
+6.59% 
+
+1994 
+
+4.37% 
+
+4.83% 
+
+5.32% 
+
+5.94% 
+
+6.27% 
+
+6.69% 
+
+6.91% 
+
+7.09% 
+
+7.49% 
+
+7.37% 
+
+1995 
+
+5.66% 
+
+5.82% 
+
+5.94% 
+
+6.15% 
+
+6.25% 
+
+6.38% 
+
+6.50% 
+
+6.57% 
+
+6.95% 
+
+6.88% 
+
+1996 
+
+5.15% 
+
+5.29% 
+
+5.52% 
+
+5.84% 
+
+5.99% 
+
+6.18% 
+
+6.34% 
+
+6.44% 
+
+6.83% 
+
+6.71% 
+
+1997 
+
+5.20% 
+
+5.39% 
+
+5.63% 
+
+5.99% 
+
+6.10% 
+
+6.22% 
+
+6.33% 
+
+6.35% 
+
+6.69% 
+
+6.61% 
+
+1998 
+
+4.91% 
+
+5.02% 
+
+5.05% 
+
+5.13% 
+
+5.14% 
+
+5.15% 
+
+5.28% 
+
+5.26% 
+
+5.72% 
+
+5.58% 
+
+1999 
+
+4.78% 
+
+4.95% 
+
+5.08% 
+
+5.43% 
+
+5.49% 
+
+5.55% 
+
+5.79% 
+
+5.65% 
+
+6.20% 
+
+5.87% 
+
+2000 
+
+6.00% 
+
+6.17% 
+
+6.11% 
+
+6.26% 
+
+6.22% 
+
+6.16% 
+
+6.20% 
+
+6.03% 
+
+6.23% 
+
+5.94% 
+
+2001 
+
+3.48% 
+
+3.45% 
+
+3.49% 
+
+3.83% 
+
+4.09% 
+
+4.56% 
+
+4.88% 
+
+5.02% 
+
+5.63% 
+
+5.49% 
+
+2002 
+
+1.64% 
+
+1.72% 
+
+2.00% 
+
+2.64% 
+
+3.10% 
+
+3.82% 
+
+4.30% 
+
+4.61% 
+
+5.43% 
+
+5.43% 
+
+2003 
+
+1.03% 
+
+1.08% 
+
+1.24% 
+
+1.65% 
+
+2.10% 
+
+2.97% 
+
+3.52% 
+
+4.01% 
+
+4.96% 
+
+5.91% 
+
+2004 
+
+1.40% 
+
+1.61% 
+
+1.89% 
+
+2.38% 
+
+2.78% 
+
+3.43% 
+
+3.87% 
+
+4.27% 
+
+5.04% 
+
+5.81% 
+
+2005 
+
+3.22% 
+
+3.50% 
+
+3.62% 
+
+3.85% 
+
+3.93% 
+
+4.05% 
+
+4.15% 
+
+4.29% 
+
+4.64% 
+
+4.99% 
+
+2006 
+
+4.85% 
+
+5.00% 
+
+4.94% 
+
+4.82% 
+
+4.77% 
+
+4.75% 
+
+4.76% 
+
+4.80% 
+
+5.00% 
+
+4.91% 
+
+2007 
+
+4.48% 
+
+4.62% 
+
+4.53% 
+
+4.36% 
+
+4.35% 
+
+4.43% 
+
+4.51% 
+
+4.63% 
+
+4.91% 
+
+4.84% 
+
+2008 
+
+1.40% 
+
+1.66% 
+
+1.83% 
+
+2.01% 
+
+2.24% 
+
+2.80% 
+
+3.17% 
+
+3.66% 
+
+4.36% 
+
+4.28% 
+
+2009 
+
+0.15% 
+
+0.28% 
+
+0.47% 
+
+0.96% 
+
+1.43% 
+
+2.20% 
+
+2.82% 
+
+3.26% 
+
+4.11% 
+
+4.08% 
+
+2010 
+
+0.14% 
+
+0.20% 
+
+0.32% 
+
+0.70% 
+
+1.11% 
+
+1.93% 
+
+2.62% 
+
+3.22% 
+
+4.03% 
+
+4.25% 
+
+2011 
+
+0.05% 
+
+0.10% 
+
+0.18% 
+
+0.45% 
+
+0.75% 
+
+1.52% 
+
+2.16% 
+
+2.78% 
+
+3.62% 
+
+3.91% 
+
+2012 
+
+0.09% 
+
+0.13% 
+
+0.17% 
+
+0.28% 
+
+0.38% 
+
+0.76% 
+
+1.22% 
+
+1.80% 
+
+2.54% 
+
+2.92% 
+
+Interest rates in grey fields were not presented in the initial data and were calculated by the 
+author in the way to preserve the dynamics of rates across maturities and years 
+
+ 
+
+64 
+
+ 
+
+ 
+
+Appendix 4 
+
+Industry 
+dummy 
+
+Utilities 
+
+Energy 
+
+Services 
+
+Media 
+
+Consumer 
+
+goods 
+
+Transportation 
+
+Real sector 
+
+Moody's industry classification 
+
+Utilities: Electric 
+Utilities: Oil & Gas 
+Utilities: Water 
+Energy: Oil & Gas 
+Energy: Electricity 
+Metals & Mining 
+Services: Business 
+Services: Consumer 
+FIRE: Insurance 
+Media: Broadcasting & Subscription 
+Media: Advertising, Printing & 
+Publishing 
+Media: Diversified & Production 
+Consumer goods: Non-durable 
+Consumer goods: Durable 
+Other 
+Transportation: Cargo 
+Transportation: Consumer 
+Automotive 
+Telecommunications 
+Beverage, Food, & Tobacco 
+Healthcare & Pharmaceuticals 
+Chemicals, Plastics, & Rubber 
+Aerospace & Defense 
+Construction & Building 
+Forest Products & Paper 
+Containers, Packaging, & Glass 
+Wholesale 
+Retail 
+Capital Equipment 
+FIRE: Real Estate 
+High Tech Industries 
+Hotel, Gaming, & Leisure 
+Environmental Industries 
+
+ 
+ 
+
+ 
+
+ 
+
+Number of 
+
+Total number of 
+
+debts 
+4242 
+784 
+24 
+
+1569 
+1533 
+296 
+246 
+154 
+3948 
+603 
+
+258 
+
+257 
+496 
+144 
+250 
+630 
+106 
+1466 
+1110 
+1027 
+785 
+728 
+390 
+366 
+238 
+199 
+171 
+1190 
+1875 
+1437 
+960 
+717 
+144 
+
+debts 
+
+5050 
+
+3398 
+
+4348 
+
+1118 
+
+890 
+
+2202 
+
+11337 
+
+65 
+
+

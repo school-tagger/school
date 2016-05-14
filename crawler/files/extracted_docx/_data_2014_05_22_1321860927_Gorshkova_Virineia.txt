@@ -1,0 +1,662 @@
+The Government of the Russian Federation
+
+
+
+Perm Branch of the Federal State Autonomous Educational Institution
+
+of Higher Professional Education
+
+
+
+"National Research University
+"Higher School of Economics"
+
+
+
+
+
+Faculty of Economics
+
+Department of Financial Management
+
+Admit to defense
+
+Head of the Department
+
+
+
+PhD in Economics,
+
+Associate Professor of the Financial Management Department
+
+Elena A. Shakina
+
+
+
+ "______" __________________20____
+
+
+
+GRADUATION THESIS
+
+On the topic: How external and internal factors influence interfirm relationships in Russia?
+
+Student: Virineia A. Gorshkova
+
+Group: E-10-2
+
+________________________
+
+signature
+
+
+
+Supervisor: Anna A. Bykova
+
+PhD in Economics,
+
+Associate Professor of the Financial Management Department
+
+________________________
+
+signature
+
+
+
+Consultant: Anna A. Bykova
+
+PhD in Economics,
+
+Associate Professor of the Financial Management Department
+
+________________________
+
+signature
+
+
+
+
+
+
+
+
+
+Perm 2014
+
+
+Contents
+
+
+
+
+
+
+Abstract
+
+Stereotyping about company’s management has changed because of formation of interfirm relationships. The statement that company’s performance results depend entirely on optimization of its individual operation has been disproved. This study aims to explore the key stage, when a company takes decision about participation in interfirm relationships. We determine the motives of market players for participating in interfirm network. Not only analysis of the incentives, but also a reflection of interfirm relationships’ specificity in various sectors of Russian economy makes the topic of this study relevant. Using theoretical perspectives provided by the literature, we apply an econometric survey to a sample, which consists of 992 largest Russian companies operating in the following industries: Construction & Real Estate, Manufacturing, Energy & Chemical, Trade & Related Services and Finance & Insurance. We develop a model that determines factors, which encourage companies from different sectors participate in interfirm cooperation; and then use a maximum likelihood estimation method to estimate it. We draw a conclusion that company's incentives associated with company’s intrinsic characteristics have more impact on company’s forecasted probability to cooperate than motives connected with external environmental features. This information is valuable for potential investors, managers, boards of directors’ members and owners of companies in the Russian current market. The developed model provides them with the level of cooperation probability forecasted using a particular company’s set of characteristics. Thus, it can help them to determine a potential partner for creating interfirm network. In addition, results reveal that the determinants of forecasted probability to cooperate differ considerably according to the sector. Forecasted probability to cooperate of companies operating in high and medium technology intensive industries are higher than this indicator of other companies. These differences have important implications for public policies and instruments for supporting interfirm relationships in such industries as Trade and Services in Russia.
+
+
+
+
+Introduction
+
+The problem of saving the firm’s market share and maintaining a stable financial status is urgent in modern economy. One of the ways to strengthen positions on the market for a company is collaboration with other market players, because cooperation can be a driver of company’s value. (Faems et al. 2010)   Moreover, the approach, according to which companies involved in collaboration with other firms gain competitive advantages, is becoming more and more popular among managers. Access to such additional features as knowledge and technology, economies of scale and risks’ reduction are considered to be these competitive advantages. (Sheresheva and Peresvetov 2012) Furthermore, nowadays participation in interfirm relationships is a key factor, which helps firms to minimize transaction costs and opportunism. (Williamson 2007) 
+
+The origin of different forms of interfirm cooperation is attributed to the beginning of the 1960s, the period of scientific and technological revolution. (Hagedoorn 2002) Since then many positive consequences of participation in interfirm relationships have made this phenomenon an actual topic in international academic community. (Argote and Ingram 2000a; Gattorna 1998) In spite of the popularity of this topic, not many studies are devoted to investigating the key stage, when a company takes decision about its participating in interfirm relationships. Consequently, an universal system for estimating the influence of different factors on cooperation in Russia does not exist. We determine external features’ and internal factors’ impact on participating in interfirm relationships with market players in this paper. The relevance of the topic increases because of unique characteristics of Russian industries and specific features of interfirm relationships’ development in Russia.
+
+Thus, the research question of the study is the following: "How do internal and external factors influence the probability for a company to take part in interfirm relationships in Russia?” The contribution of this research is a model for identification company’s probability to cooperate depending on the factors’ set, which characterizes a particular Russian company. This system also takes into account sectoral and industrial affiliation of firms and defines the motives that Russian participants of interfirm relationships have. Consequently, we define the differences of cooperation in various sectors of Russian economy.
+
+To achieve the aim and to answer the research question of the paper we carry out several steps. We identify factors that influence the probability of participation in interfirm relationships, develop an empirical model, which fixes external and internal factors’ impact on company’s tendency to cooperate and apply developed techniques for companies operating in Russia. According to the stated steps, the paper consists of the following five parts. To ascertain the relevance of the topic it is necessary to start the paper with studying characteristics, classification, types and others aspects of interfirm relationships in theoretical background. Then we focus on the research design, which includes possibility of using quantitative maximum likelihood method and analyzing hypothesis of the research. The next part covers the methodology of the research: describing of data collection, analysis of survey sample and specific features of interfirm relationships in Russia. In the fourth part we discuss the results that we obtain in the study. The last part is devoted to the conclusion, limitations of the study and recommendations for further research.
+
+
+
+
+Theoretical background
+
+This research is devoted to the influence of different factors on participation in Russian interfirm relationships. Despite the popularity of interfirm relationships phenomenon in academic community, the issue of factors’ influence on cooperation of Russian market players is still not explored. The literature review covers the concept of interfirm relationships. Moreover, it concentrates on types of these relationships and motives that make companies cooperate. This chapter also is devoted to the impact of different features on cooperation, which are associated with the incentives for participation in interfirm relationships.
+
+Nowadays more and more often interfirm relationships are considered to be a major source of value creation in the following fields: information systems, logistics, strategic management, marketing, financial management and operation management. (Lefaix-Durand et al. 2005) According to the existed empirical and theoretical research, participation in various forms of interfirm relationships promotes companies with better financial results than they have while functioning alone. For instance, X. Jiang and Y. Li proved existence of a significant, positive and strong link between such component of relational capital as cooperation with other market players and the following financial results: sales, profit, return on investments and return on assets for participants of German strategic alliances. (Jiang and Li 2008) B. Anand and T. Khanna found that companies, which participate in joint ventures are more likely to get abnormal profit and wealth effect than those companies, which do not cooperate with other firms.(Anand and Khanna 2000) According to the study by Lavie D., there is the rich evidence on the contribution of participation in alliances in the U.S. software industry to financial performance.(Lavie 2007) The paper by Baum, Calabrese and Silverman is about positive impact of participation in alliances on financial results for companies operating in innovative Canadian biotechnology startups. (Baum, Calabrese, and Silverman 2000) Moreover, it was discovered that the average stock price and firm value response on participation in non-technological marketing alliances  in Korea is positive (Lee et al. 2013) The identical conclusion about impact of participation in alliances on value was drawn for companies operating in telecommunications companies. (Cuéllar-Fernández, Fuertes-Callén, and Laínez-Gadea 2011) The reason for such a link is an access to diverse information and capabilities with minimum costs, conﬂict, complexity, shared risks and other competitive advantages that become available for partners in interfirm cooperation. Thus, there is no doubt that interfirm relationships of all types and in different industries is a way to improve indicators of financial performance for companies operating all over the world.
+
+After analyzing the consequences of cooperation connected with financial performance, it is necessary to turn to incentives that encourage companies to take part in interfirm relationships and let them extract abnormal profit and improve other financial indicators. Theoretical and empirical research has approached motives for cooperation from different perspectives, and the stock of literature is quite extensive and fragmented. (Hagedoorn 2002; Edwards-Schachter et al. 2012) Studies, which are devoted to interfirm phenomenon, have a tendency to classify motives to cooperate as external and internal incentives. (Fukugawa 2006; Hagedoorn 2002; Hoffmann and Schlosser 2001; Volery 1995) We present the most popular incentives to cooperate according to the existed research devoted to motives. However, presented incentives are just a part of all existed motives, because it is practically impossible to cover all of them. Difficulties connected with motives’ classification also emerge because of close correlation between incentives; sometimes even market players cannot distinguish one motive from another.  In addition to the presentation of motives’ classification, this part of the research includes factors that are used by researchers to evaluate the influence of the incentives.
+
+
+
+Internal and External Incentives to Cooperate
+
+Internal incentives are associated with the elements related to the internal mechanism of the firm: goals, values, resources and capabilities, structure. (Estanyol 2010) Thus, features of a company characterize these incentives. The earliest and the most common approach that explains company’s desire to cooperate is resource-based approach.(Conner 1991) According to it, a firm represents a unique resource base, and its association with the resource base of another entity is the primary motivation for the cooperation with other enterprises. (Das and Teng 2000) Consequently, the advantage of this tactic is that markets can be entered more quickly than if a full ownership is used because of access to the other entities’ resources. Combs and Ketchen  measured the uniqueness of resources of different entities to estimate to what extent does this incentie motivates companies to cooperate.(Combs and Ketchen 1999) As a rule, this kind of cooperation is found in industrial sectors like energy and production.(Aveni 1978)
+
+Contemporary studies of interfirm relationships focus mainly on the theory based on the concept of intellectual capital and introduce the idea of knowledge as an asset of a firm. In this case, an interfirm linkage is a component of relational capital. (Stewart, 1991) In collaboration with other firms, companies share their knowledge or acquire new intellectual assets.  (Jiang and Li 2008) This cooperation helps modern companies to respond rapidly to changing market conditions through product diversification and new technology development despite high technological uncertainty and risks.(Edwards-Schachter et al. 2012) These advantages are particularly topical for innovative organizations. Dachs and Ebersberger estimated an internal factor - firms’ innovative intencity to measure the influence of the incentive based on the concept of intellectual capital on cooperation. (Dachs, Ebersberger, and Pyka 2008) For this aim Miotti and Sachwald used the variable characterizing an internal feature - the usage of scientific resources (Miotti and Sachwald 2003) and Janne and Frenz used patent activity for companies operating in innovative industries.   (Janne and Frenz 2007)
+
+It is known that transactions costs appear and increase, because transactors want to safeguard against the hazards of opportunism. (Williamson 2007) Participation in interfirm relationships helps companies to minimize search costs, contracting costs, monitoring costs and enforcement costs, because interfirm relationships discourage opportunism. (Dyer 2002; Sambasivan et al. 2013) Trust to the partner, organization values, partners’ commitment and other social factors are used to measure the influence of this incentive on cooperation. (Das and Teng 2000; Estanyol 2010)
+
+Some types of collaboration let firms achieve a better selling position, which results in increasing sales for its participants because of product quality growth.(Wu and Callahan 2005) For instance, participation in engineering alliances helps companies to ensure a certain volume of business, because cooperation encourages firms to respond to business opportunities in the best way. (Parent-Thirion 2007) Researchers use company’s age, as a factor characterizing company’s experience to measure the influence of this motive. (Chen, Karami 2008) Newcomers tend to organize the collaborative alliances more often with enterprises, academic institutions, competing firms and even customers, because this links help them to overcome barriers to entry. (Miotti and Sachwald 2003) 
+
+Cooperation with other companies promotes a firm with an access to bigger projects and funding from the large number of research funding programs, because being a part of interfirm collaboration increases the investment capacity of an individual firm.(Estanyol 2010) Companies also increase their negotiating and political power while acting together. Chen, Karami measured the impact of these motives with the factor, characterizing the size of the entity, because very often this motive is associated with small newcomers. In turn, this factor may be measured through staff headcount (Estanyol 2010) or market power.(Edwards-Schachter et al. 2012) 
+
+By contrast, external incentives include reasons related to market share, industry’s features, response to external threats.(Dong and Glaister 2006) Cooperation with a partner represents a vital knowledge for other market players. Consequently, it has an impact on firm’s performance. The motive is connected with improving performance features alliances in trade and service industries. To measure the influence of this incentive for companies operating in service sector Combs and Ketchen used the factor characterizing consumers’ brand awareness. (Combs and Ketchen 1999)
+
+Another incentive is associated with internationalization. Interfirm networks permit firms to access to international markets, select partners in terms of quality of services or products provided, independently of their location. This motive is measured with the help of the factor that reflects the amount of foreign capital in the company. (Dachs, Ebersberger, and Pyka 2008)
+
+Cooperation helps companies to overcome uncertain economic periods. (Sheresheva and Peresvetov 2012) Unstable environmental conditions can encourage and sometimes discourage company to cooperate with other organizations. The form of this link depend on the industry type and various companies’ characteristics. To fix the influence of this incentive some authors measure the stability of economic conditions. (Weaver, Dickson, and Gibson 1997)
+
+It has been already discussed participation in cooperation promotes companies with improved competitiveness. The desire of a company to increase its competitiveness can depend on the competition in the industry, that is why some authors estimated the number of enterprises in the certain economy industry in the country to measure the effect of this motive. (Miotti and Sachwald 2003; Dong and Glaister 2006)
+
+
+
+Forms of Interfirm Relationships
+
+It may be reasonable to conclude that different incentives to cooperate provide market with various types of cooperation in different industries. In spite of the popularity of interfirm phenomenon and its various forms, there is no universal classification of these types. This part of literature review represents the most popular forms of interfirm relationships, which are presented in Table 1.
+
+Discussed forms of interfirm relationships cover just a part of all types. Practically all types of interfirm cooperation are connected with several motives, which have been presented above. On the base of this comparison, we can say that there are a lot of similarities as well as differences among these types of cooperation. For instance, all of them have different establish procedures. In addition, the form of cooperation depends on the industry type, because each market has its own unique characteristics.(Mohr and Spekman 1994) However, taking into account similar features of interfirm relationships forms, practically all types of cooperation can be perceived as synonyms. This study does not focus on the certain type of interfirm cooperation, because the research aims to develop the model for measuring factors’ influence on participating in different cooperation forms.
+
+According to the literature review, which is devoted to the incentives that make firms cooperate, factors associated with these motives and forms of this cooperation, a research worker can face severe difficulties while studying interfirm relationships. One of these problems is associated with results’ aggregation. It appears because firm-specific motives and expectations differ considerably according to the activity sector with relevant implication for norms and regulation policies. (Edwards-Schachter et al. 2012) In turn, different objectives to join interfirm relationships lead to creating various types of cooperation. Thus, the challenge is connected with results aggregation and building the model for estimation factors’ influence on different form of cooperation. The set of these factors, which also are measured in various units, is based on companies’ incentives to cooperate. Thus, this model shows, what things motivate companies to cooperate and to what extent they do it. Despite growing popularity of interfirm relationships phenomenon in scientific community, the problem of developing universal model for various types of interfirm relationships is not solved. That is why there is an opportunity to contribute to the development of interfirm cooperation phenomenon in Russia. 
+
+Table 1
+
+Types of interfirm relationships
+
+Research design
+
+According to the literature review, there is no universal system for estimation the factors’ influence on cooperation. Empirical analysis of interfirm relationships phenomenon is devoted to the model development. Several severe problems are connected with developing of these model have been determined above.  
+
+
+
+
+
+Methods for Estimation Company’s Tendency to Cooperate
+
+Nowadays, there are three general types of research, which try to solve the problems discussed above. The first type of research is qualitative study. The main advantage of this approach is detailed study of the problem and analysis of various points of view. (Chen and Karami 2006)  However, at the same time these facts are disadvantages of qualitative approach. As a rule, such questionnaires have low response rate, which, in turn, can lead to biased results. In addition, it complicates results structuring in questionnaire survey. Because of these problems, some researchers prefer to apply the mixture of qualitative and quantitative methodology. Researchers that prefer to use the mixture of the methods faced one of the main limitations of research, which are devoted to interfirm relationships: nonexistence of databases and the scarce of information about cooperation. To solve this problem authors used qualitative method while data collection. This, in turn, can lead to building of unplausible model as well as in the qualitative study. (Edwards-Schachter et al. 2012)
+
+Taking into account the problems connected with the qualitative study, quantitative method is gaining its popularity among researchers of interfirm relationships, especially among those, who have an access to special databases.(Combs and Ketchen 1999; Schartinger, Schibany, and Gassler 2001; Wu and Callahan 2005; Dong and Glaister 2006; Janne and Frenz 2007; Dachs, Ebersberger, and Pyka 2008; Edwards-Schachter et al. 2012; Sambasivan et al. 2013) Di Guardo and Paci used financial transactors database - SDC Platinum to explore the phenomenon of interfirm relationships. (Schilling and Phelps, 2007, Sampson, 2007) This database contains information about   mergers and acquisitions, syndicated loans, private equity for the global financial marketplace. [66] No doubt, the main advantage of this type of the research is its large scale that helps to avoid biased results. Unfortunately, such a big survey is expensive to conduct, that decreases its popularity among modern authors.  (Di Guardo and Paci 2014) Miotti and Sachwald analyzed factors that influence interfirm relationships phenomenon with the help of quantitative research without using specialized databases. The main constraint of the following study is the same as in qualitative research: probability to obtain biased results because of using system of proxy-variables, which replace the usage of special database.  (Miotti and Sachwald 2003) Despite all limitations, quantitative research is reliable, because it utilizes experimental methods and quantitative measures. 
+
+To develop reliable model devoted to Russian interfirm relationships we should analyze previous research that evaluate the influence of different factors on cooperation. Theoretical and empirical studies have a tendency to develop different models for various industries or to combine similar industries in several group and then develop models for these groups. The idea that interfirm relationships in different industries are characterized by various incentives to cooperate was proved in many empirical and theoretical studies. (Amit and Schoemaker 1993; Ingham and Thompson 1994; Combs and Ketchen 1999; Miotti and Sachwald 2003; Edwards-Schachter et al. 2012) For instance, Edwards-Schachter included in the research such different industries as energy, financing services, electronics, metal mechanics, medical, biotechnology, agro food, chemistry and found that activity sector determines the range of factors that effects cooperation with other market players. (Edwards-Schachter et al. 2012) Janne and Frenz drew the same conclusion, while they explored factors that influence participating in interfirm relationships in chemicals, machinery, financial and business services sectors. These authors stated that the range of these factors depend on such feature as technology intensity. That is why they classified sectors by this factor to develop models for identification the factors’ influence. (Janne and Frenz 2007) Thus, it is typical for researchers to build different models for companies from various sectors. Moreover, the choice of other external and internal factors depends on the sectoral affiliation, which is qualified as an external factor. (Dachs, Ebersberger, and Pyka 2008) 
+
+For instance, unpopular organizations from services sector (restaurants) are more likely to cooperate with companies, characterized by an internal factor - good brand name reputation. (Combs and Ketchen 1999) This link reflects the specificity of service industry. Brand name is a key factor of success for companies in this sector. Consequently, it is more beneficial for service companies to form relationships with a firm with famous and reliable brand name. In spite of specific character of each sector, several universal external factors determine participation in interfirm relationships for companies operating in various industries.  External factor that characterizes competition in the industry has a significant impact on interfirm relationships development in high-tech markets (Dachs, Ebersberger, and Pyka 2008), service industry (Masurel 1996; Masurel, E., and R. Janszen 1998) and such different sectors as energy, financing services, electronics, metal mechanics, medical, biotechnology, agro food, chemistry. (Edwards-Schachter et al. 2012) Another essential external factor, which modern companies from different sectors take into account while taking decision about cooperation, is financial uncertainty and changing risk levels in the economy. (Weaver, Dickson, and Gibson 1997) Cooperation in all industries also directly depends on the presence and effectiveness of government programs (Dachs, Ebersberger, and Pyka 2008) and the presence of private or public funding organizations.(Estanyol 2010)
+
+At the next stage of exploring the dependency of factors range on sectorial affiliation, we look at internal factors that have statistically significant effect on cooperation in certain industry according to the existent studies. For instance, cooperation of companies operating in innovative industries like biotechnology, medical, chemistry, high-tech and other emerging industries positively depends on patent activity of a company, absorptive capability, company’s innovation performance and its cooperation with public institutions. (Miotti and Sachwald 2003; Aharonson, Baum, and Plunket 2008; Dachs, Ebersberger, and Pyka 2008; Edwards-Schachter et al. 2012) No doubt, the range of factors is explained by motives for cooperation in a sector. For instance, it has been already noticed that cooperation in emerging industries lets companies minimize risk and cost connected with development of new technology or product. That is why these internal factors are directly connected with companies’ innovation activity. By contrast, such firm characteristic as specific knowledge can discourage cooperation in service sphere.(Combs and Ketchen 1999) It is notable that factors influence finance company’s decision to cooperate radically different. These companies pay attention on such internal features as their potential partner ownership of specific assets and indicator measured as assets minus debt. The higher these factors are, the more tendency to cooperate finance organizations have.(Ingham and Thompson 1994) 
+
+Nevertheless, despite the variety of factors that determine the desire of a company to cooperate in all industries, there are some internal factors, which influence is universal for organization operating in different sectors. Sometimes the influence of these factors is different, but it is another issue. For instance, practically all of analyzed empirical studies include the variable characterizing company’s experience. Edwards-Schachter found that company’s age has significant impact on participation in cooperation in such different sectors as energy, financing services, electronics, metal mechanics, medical, biotechnology, agro food, chemistry. (Edwards-Schachter et al. 2012)  The influence of this factor on company’s tendency to cooperate also exists in high-tech alliances. (Chen, Karami, 2008; Edwards, M.; Castro-Martinez, E. y Fernández-de-Lucio 2010) Another factor, which has significant influence on cooperation in all industries, is the size of a company. It was found that this factor has positive effect on cooperation in high-tech industries (Bayona, Garcı́a-Marco, and Huerta 2001; Chen, Karami, 2008; Edwards-Schachter et al. 2012). Miotti and Sachwald noted negative effect of this factor on participating in high-tech cooperation. (Miotti and Sachwald 2003) However, at this stage of the research we are interested just in the significance of the influence. Cooperation in finance industry (Ingham and Thompson 1994) and services sector (Combs and Ketchen 1999) also significantly depends on the size of potential participants of the cooperation between market players.  Large firms operating in different sectors may have a higher propensity to collaborate as they have more resources and capability to negotiate and support collaborative relationships. (Janne and Frenz 2007) Dachs and Ebersberger came to the same conclusion for companies operating in all industries. They explained it by the following fact: large companies have broader scope of activities and can devote the necessary resources for partner search.(Dachs, Ebersberger, and Pyka 2008) It may be concluded that it is reasonable to build different models for several groups of industries. This idea is discussed in empirical part of the research.
+
+Before building the model, it is necessary to state hypothesis of the research. We carry out it at this stage of our research.
+
+
+
+Hypotheses 
+
+While exploring the influence of different factors on participation in interfirm relationships we test the following hypotheses.
+
+Hypothesis_1: Influence of internal factors exceeds the influence of external environmental characteristics on participation in interfirm relationships.
+
+An inference that there is no universal approach to estimation external and internal factors influence on company’s probability to cooperate with other market players is drawn from theoretical researches and empirical studies review. Moreover, there is no decisive answer to the question: “External or internal factors influence more on participation in interfirm relationships?” There is the concept, that it is hard to separate the influence of internal characteristics from influence of environmental features in modern economy. (Lefaix-Durand et al. 2005) However, another point of view also exists. Superiority of the internal characteristics’ influence over the impact of environmental factors on the participation in interfirm relationships was proven in Fukugawa study. While the company is solving key strategic issues in the direction of development, technology changing, strategy implementation and interaction with other market players, it is orientated to its intrinsic properties. The company does it due to unstable environmental factors in the current economy. (Fukugawa 2006) Particular attention is paid to the internal characteristics (industry type, company size, the presence of strategies) as to the factors, which guarantee successful partnership cooperation. (Mohr and Spekman 1994) In addition, such features as firm’s technical development, size, loyal attitude to risk and the presence of a diversified product are the factors that motivate companies to conduct joint research work. (Bayona, Garcı́a-Marco, and Huerta 2001) We suppose in this research, that the influence of internal factors is greater than the influence of external characteristics on company’s tendency to take part in cooperation. 
+
+Hypothesis_2: Technology intensity of the industry encourages participation in interfirm relationships.
+
+In general, the link between cooperation and industry’s technology intensity is explained by the incentives connected with the concept of intellectual capital, which introduces the idea that knowledge is an asset or a resource of a firm. Consequently, cooperation provides companies with an access to intellectual capital of other organizations. There is the point of view that innovation activity reflects specific features of emerging markets and motives that make companies cooperate in technology intensive sectors. (Edwards, M.; Castro-Martinez, E. y Fernández-de-Lucio 2010)  It is considered that the propensity to cooperate is higher for firms that draw the most on scientific resources to innovate (manufactory and energy), as opposed to firms further away from the technological frontier (finance, services, trade and insurance).(Combs and Ketchen 1999; Miotti and Sachwald 2003; Janne and Frenz 2007; Dachs, Ebersberger, and Pyka 2008) Edwards-Schachter  discover that the 76.8% of the companies that participate in interfirm networks are of high and medium-high technological intensity and only the 23.2% of firms are of low and low-medium intensity in Argentine and Spain.(Edwards-Schachter et al. 2012) However, some existed research makes another point. They consider that cooperation in trade, service and finance sector is also high because of process and product innovation. (Ingham and Thompson 1994; Schibany 1998)  These suggestions are made for companies operating all over the world. In this paper, we explore the influence of industries’ technology intensity level on cooperation in various sectors of Russian economy because of different suggestions in academic community opinions. We consider that sectoral affiliation influences cooperation significantly and technology intensive companies participate in interfirm relationships more often than other firms in Russia.
+
+
+
+
+Methodology
+
+We explore the survey sample and choose the method for building the model before actual model developing. Thus, in this part we discuss the research model, possibility of using maximum likelihood method for testing the hypothesis of the paper and discuss the survey sample, which is used in this paper. 
+
+
+
+
+
+Research Model
+
+The research objective of this paper is developed model for estimation the influence of different factors on participating in cooperation with other companies. We model regression with the help of maximum likelihood estimation method in statistical software package Stata 11.0 to achieve it. The likelihood principle estimates parameter vector Q that maximizes the likelihood of observing the actual sample. In the discrete case this likelihood is the probability obtained from the probability mass function.(Cameron 2005) To measure the influence of different factors on participating in interfirm relationships we build a model with the dependent variable characterizing probability of participation in interfirm relationships. This variable equal to one, if a company is a member of interfirm relationships; otherwise it equal to zero. Due to the specific character of a dependent variable, we build a logit model in the paper. The same method was applied in papers by  Dachs and Ebersberger to determine factors, which influence participating in high-tech cooperation (Dachs, Ebersberger, and Pyka 2008) and by Ingham and Thompson, who measured factors’ impact on interfirm relationships in finance sector (Ingham and Thompson 1994). Practically the same method was used by Edwards-Schachter, when they estimates, factors’ influence on cooperation in R&D alliances. (Edwards-Schachter et al. 2012) 
+
+In this paper the model has the following form: 
+
+, (1)
+
+where:
+
+ i=1...n;
+
+- an error term. 
+
+External factors include year dummy to fix general economic conditions and industry dummy to fix sectoral affiliation. The range of external factors, which is included in the model, is presented in Appendix 1, the set of internal characteristics – in Appendix 2. 
+
+The situation in logistic regression is complicated because the value of the interaction effect changes depending upon the value of the continuous predictor variable. (Long and Freese 2001) That is why we analyze changes in forecasted probabilities and marginal effects. In the paper we estimate models with the help of MLE method. The aim of building several models is not the comparative analysis of different sectors, but determining their specific features. We refuse from the idea of comparison, because the models include different companies, consequently, it is irrelevant to find distinctions in factors that encourage and discourage firms to cooperate and the forms of the links.
+
+
+
+Specific Features of Russian Interfirm Relationships
+
+To choose the most relevant factors for assessment of cooperation forecasted probability, we focus on specific features of Russian interfirm cooperation and characteristics of different industries. First, Russian market players had a tendency to disintegration and mistrust to other market players until recent times. (Sheresheva and Peresvetov 2012) Thus, they prefer not to disclose information about participation in interfirm relationships and sometimes even refuse from cooperation. It means that Russian companies did not correspond to the organizations’ functioning in new market conditions for long period of time. This can be explained by the lack of information about other companies - potential partners due to the short history of market economy and low information disclosure readiness, which are the features of transition economies. (Sheresheva and Peresvetov 2012)
+
+Second, process of creating interfirm collaboration in Russia has many specific features. For instance, some interfirm partnerships were created in centrally planned economy; this fact prevents the market from development of modern entrepreneurial chains. Furthermore, we should not forget about widespread opportunistic behavior of Russian market players and high level of corruption. The combined influence of all these factors complicates measuring the impact of different factors on participation in interfirm relationships. Furthermore, another problem connected with studying interfirm relationships in Russia is insufficiency of data with reliable information about cooperation of Russian market players. However, there are many cases demonstrating Russian market players’ understanding the value and necessity of forming interfirm links. (Filippov and Settles 2011; Sheresheva and Peresvetov 2012; Tretyak 2013) At the next stage of the research we pay attention to the cooperation and its specificity in various Russian industries.
+
+For instance, special feature of Construction & Real Estate industry is a large number of various organizations and entrepreneurial groups. On the one hand, it promotes markets with cooperation, on the other hand, it complicates interfirm relationships because of possible incoordination. (Asaul, Vladimirskiy, Gordeev, Guzhva, Petrov, Fatlinskiy 2008) It should be noted many companies operating in Construction & Real Estate industry offer outsourcing services; while companies operating in Manufacturing industry prefer to outsource. (Kusch, Rebyazina 2011) It increases the popularity of interfirm relationships in both sectors. Manufacturing industry also includes metallurgy and engineering. Companies operating in these industries in Russia tend to cooperate with government and other market players creating industrial clusters. (Michailova, Husted 2003) One of the largest cooperation between top ranking energy, transport and manufacturing companies is United Metallurgical Company. Moreover, special features of manufactory industry is explained by the strong market position and bargaining power that increase possible return on investments in integrated network group. (Evnevich 2007) However, monopolization of many companies from this sector hinders development of interfirm relationships in our country, because some large companies prefer to act alone. Another monopolized industry is Energy & Chemical industry. Companies from this industry in Russia are export-oriented mineral organizations with big market power. (C. Reo 2006) Innovative interfirm relationships in this sphere are connected with energy efficiency and saving of energy; another type of cooperation in this sector is associated with resource-based approach. (Buchaev 2013)
+
+The forms of cooperation in finance sector are financial industrial groups, concerns and holdings, which cannot be formed without Finance & Insurance companies. Alfa group consortium is one of the largest interfirm relationships of this type; it unites such organizations from different industries as «Alfa-Bank», «TNK-BP», «VimpelCom», «X5 Retail Group», «A1 Group», «Alfa Capital Management», «AlfaStrakhovanie Group», and «Rosvodokanal Group». [64] Several companies from this group operate in Trade & Related Services industry. However, this situation is associated only with large companies. For instance, T3C is an alliance of large Russian retailers: «Gorodok», «Semja», «ABK», «Econom», «Makarovskiy», «Econom».[67] This alliance is engaged in the consolidation of orders, contracting with the federal suppliers, coordination of centralized procurement and supply of products for retailers. (Radaev, Kotelnikova, Markin 2013) However, we should not forget that many small companies with low market power, which have not tendency to cooperate, present this industry in Russian. Thus, at this stage we cannot draw a conclusion that interfirm relationships are popular in this area. 
+
+Consequently, we fully realize that different industries are characterized by various type of cooperation. At this stage of the research we decide whether it is relevant to build additional models for different groups of industries. Even if we decide to build two or more models to measure the dependence of participation in interfirm relationships on the range of environmental features and firm’s characteristic, these models are still universal, because they include various forms of interfirm relationships. To ensure in significance of the developed system it is necessary to analyze some descriptive statistics and to impliment ANOVA test. 
+
+First, we test the validity of this classification in the context of economic and financial theory. Analysis of variance (ANOVA) test the differences between group means. This method is developed by R.A. Fisher. The observed  in a variable characterizing participating in interfirm relationships is partitioned into components attributable to different sources of variation. ANOVA provides a statistical test to ensure that means of these several groups are equal to each other with the help of . The null-hypotheses of this test states that means of several groups are equal. Estimated within variance should be approximately equal to between variance. (Cameron 2005)
+ 	In this research we test the statement about significant differences between different industries and participation in interfirm relationships. According to ANOVA test in Table 2, there are statistically significant differences between group means (1% level of significance). It means that the idea to develop different models for groups, which consist of several industries, is right.
+
+Table 2
+
+ANOVA test for statistical difference of various sectors
+
+t statistics in parentheses
+
+* p < 0.1, ** p < 0.05, *** p < 0.01
+
+
+
+Second, we analyze the mean of several indicators in different industries in Table 3 and assure that the industries are different. 
+
+Table 3
+
+Mean of several indicators for companies operating in different industries
+
+
+
+ According to the existed papers and realized tests, we make two groups of industries. The first group consists of energy, manufacturing and construction sector, while the second one includes trade, services and financial industries. Thus, the first model is devoted to the real sector of economy. Operating in this sector depends on technology intensity, because it is connected with actual producing goods and services. Industries from the second model are characterized by buying and selling products and services on different markets. (Janne and Frenz 2007) 
+
+
+
+Survey Sample
+
+To answer the research question and to test the hypothesis we use the survey sample, which includes 992 large Russian companies. These companies represent six industries according to the classification by OKVED: Construction & Real Estate, Manufacturing, Energy & Chemical, Trade & Related Services, Finance & Insurance industries. They have been operating in Russia from 2004 to 2011. The survey includes large companies, because these companies are more likely to provide information about their financial standing and general performance. The data was collected using the Bureau Van Dijk databases (Ruslana). [65] While collecting the survey sample we use such sources as web publishing, companies’ websites and other public data.
+
+The empirical database includes a wide range of variables: 
+
+the common characteristics of companies (date of IPO, number of employees, industry etc.);
+
+indicators of financial performance (market capitalization, EVA, MVA, etc.);
+
+factors related to intellectual capital (number of patents, implementation of ERP system, etc.). 
+
+Analysis of the sample consists of two parts. The first one is devoted to the analysis of descriptive statistics, which is presented in Appendix 3. The second part includes the representativeness test. To check the representativeness of the sample it was divided into 14 sectors according to the OKVED classification. Then we find the share of each sector in Russian economy – total population and compare it with the share of the sectors in the sample (Appendix 4). According to this test, two industries in the sample are biased by more than 15% (Manufacture; Wholesale and Retail Trade and Repair). The sample includes the largest Russian companies. Thus, the bias in manufacturing industry exists, because many largest Russian companies operate in this sector (for instance, Mining and Metallurgical Company Norilsk Nickel, Open Joint Stock Company Uralkali, JSC Saz). Consequently, the share of manufacturing companies in the industry is greater than their share in total population. The opposite situation characterizes the bias in trade industry: the majority of firms in this industry are small and medium enterprises, which are not presented in this survey sample. That is why the percentage of companies operating in this industry in the survey sample is less that their number in total population.
+
+
+
+Classification of Companies from Survey Sample by Cooperation
+
+The absence of special databases that fixes the participants of interfirm networks in Russia has been noticed above. That is attributable to the complexity of interfirm relationships phenomenon from existed studies’ point of view, because it is difficult to measure and to fix cooperation with other market players without individual approach to particular organization and analysis of entrepreneurial chains, which it forms with other companies. Popular solution to this problem has also been already discussed. According to this analysis, the research is based on the system of proxy-indicators. In turn, choice of these indicators is based on the analysis of empirical research devoted to interfirm relationships phenomenon and questionnaires used in previous studies. In this paper we develop the model, according to which participation in interfirm relationships depends on the three factors. The first one is existence of subsidiaries.(Schartinger, Schibany, and Gassler 2001) Firms, especially newcomers need several stable interfirm linkages to maintain their market share, conform to current market conditions and develop successful relationships with other companies in future. Existence of subsidiaries is an appropriate factor to fix relationships of this form. The second indicator is participation in Russian business-association, because this form of relationships is an initial form of carrying on collaborative activity. The third indicator for recognition cooperation participant is high quality of web site, because this tool demonstrates company’s attractiveness to potential partner. This indicator is an ordinal variable in research survey sample. It is determined by the following characteristics:
+
+An opportunity to choose the language. It provides a company with high attractiveness for a potential partner. Moreover, multi-language web site is orientated toward cooperation with potential foreign partner. It is especially relevant in global economy. Shaw and Holland stated there is a high probability that a company, which provides information about its product in different languages in its web site, repays these expenditures in the form of cooperation with foreign firms.(Shaw and Holland 2010)
+
+Presence of the section group “Investors”. This web site section group covers the information about company’s performance, financial results and competitive advantages. It helps to other market players to take decision about cooperation with a company, which is ready to release information of this type.
+
+Access to information, which is presented on more than ten webpages. Web site of this type is considered to provide potential partners with full company’s characteristics. It also increases company’s attractiveness for other firms.
+
+Using flash animation elements. It is an indirect indicator of company’s willingness to use completely new and innovative web technology. In the framework of cooperation, this technology is connected with creation of joint Internet products (web sites), which task is to facilitate cooperation with the help of exchange of ideas and suggestions. (Chen, Zhang, and Zhou 2007)
+
+	If two or more options characterize a company’s web site, it is of a high quality. If a company, which is a participant of association, has subsidiaries and a web site of a high quality simultaneously, it is considered to cooperate with other market players. By applying this system of proxy-indicators, we get the following results:
+
+Table 4
+
+Classification of companies by participation in cooperation
+
+ 
+
+
+
+To ensure in significance of the developed system it is necessary to analyze some descriptive statistics and to realize ANOVA test. According to the comparative analysis of factors’ mean value of firms that cooperate and do not cooperate in Table 5, the mean value of last group is lower than these indicators of cooperation participants.
+
+Table 5 
+
+Comparative analysis of factors’ mean value of firms that cooperate and do not cooperate
+
+
+
+According to the realized ANOVA test in Table 6, the null hypothesis is rejected. It means that there are statistical differences in means of several groups (1% level of significance).
+
+Table 6 
+
+Two-way ANOVA test for statistical difference of firms that cooperate and do not cooperate
+
+t statistics in parentheses
+
+* p < 0.1, ** p < 0.05, *** p < 0.01
+
+Participants of cooperation have an access to the resources of other entities. It explains the results of ANOVA tests: companies, which participate in cooperation with other organizations, have different intangible assets and another amount of patents from those firms that prefer not to take part in interfirm relationships. This fact states statistical significance of developed system, which is based on several proxy-indicators. The main limitation of using proxy-generated variable is the possibility to obtain biased results, which, in turn, can discredit the research. This constraint has already been discussed at the stage devoted to the methods of interfirm relationships analysis.  
+
+
+
+
+Results
+
+At this stage of the research, we present the results of three models, analyze their quality and interpret estimation results. The range of the factors in the model has already been discussed in the Methodology. Variables definition is presented in Appendix 5.The data in all models is presented in the cross-sectional form due to specific features of MLE method.
+
+Model Including All Sectors of Russian Economy
+
+This model includes all sectors of Russian economy. It covers 5163 observations: 5% of trade companies, 9% - finance, 8% - services, 46% - manufactory, 19% - construction, 12% - energy. Among them there are 1721 observations of cooperation participant: 87 in trade industry, 151 - services, 192 - finance sector, 256 – energy, 283 – construction and 753 – manufactory. The mean EVA of companies that take part in cooperation is positive; it is much higher than of organizations, which prefer not to cooperate. The mean EVA of the second group is negative.   
+
+At this stage, we discuss the result of the model, presented in Table 6. Table 7 demonstrates the quality of the model: the number of correct and incorrect predictions. Area under ROC curve equals to 0.74: the quality of this model is high. (Appendix 6)
+
+Table 7 
+
+Number of correct and incorrect forecasted results in model including all sectors of Russian economy
+
+
+
+Location in the city with more than 1 million citizens, employment of foreign capital, competition (1% level of significance) and operating in high technology intensive industry (10% level of significance) are external factors that influence cooperation significantly. There are much more significant factors among internal characteristics: size of the company, company’s experience, some financial indicators (fixed assets, net capital expenses, invested capital and book value) (1% level of significance); implementation of a strategy and intellectual capital or knowledge management strategy (5% level of significance); qualification of boards of directors (10% level of significance). Consequently, the influence of internal factors exceeds the influence of external environmental characteristics on participation in interfirm relationships. The hypothesis 1 is accepted.
+
+Table 8
+
+Results of model including all sectors of Russian economy estimation
+
+
+
+Forecasted probability to cooperate is higher for companies that operate in high and medium technology intensive industries by 20% (10% level of significance) Companies operating in the real sector tend to cooperate with the high probability, because they participate in resource-based and knowledge-based cooperation more often than other companies do. Operation in these industries is associated with high-quality production, which is inseparably associated with high risk and costs. (Miotti and Sachwald 2003; Estanyol 2010; Edwards-Schachter et al. 2012) Cooperation helps companies to minimize and sometimes avoid these consequences of operation. The link is illustrated on the Figure 1. This fact confirms the hypothesis 2. 
+
+
+
+Figure 1 Predicted probability of cooperation for companies from different sectors; y-axis of a plot – size of the company
+
+The negative influence on cooperation has the volume of fixed assets, net capital expenses, book value and invested capital (1% level of significance). It is associated with resource-based approach. Companies with low meaning of these factors tend to cooperate, because participation in interfirm relationships lets them use assets of other firms. It, in turn, let them reduce risks and minimize costs.(Estanyol 2010) This link also reflects the tendency of large Russian companies to disintegration because of current economic situation in Russia. (Kusch, 2006)
+
+The age has nonlinear effect on cooperation. Analyzing of polynomial terms of higher orders in the model and an attempt to approximate the link nonparametrically does not change the obtained results. Company’s tendency to cooperate increases as a firm becomes more mature until the certain moment. Until this age, company’s probability to cooperate increases, after this age it equals to one, that is associated with the concept of company’s lifecycle. Moreover, it is connected with the tendency of Russian companies to cooperate as they become mature, that means that they have enough materiel resources to find potential partners and to invest in interfirm relationships. This connection corresponds with the idea that many Russian companies prefer not to cooperate with newcomers, which can be explained by the tendency of Russian market players not to trust to other entities. (Sheresheva and Peresvetov 2012) 
+
+Model Including Manufacturing, Energy & Chemical and Construction & Real Estate
+
+The model includes 1979 observation; 892 of them are participants of cooperation: 195 firms in construction; 177 – in energy sphere and 520 in manufactory. Participants of cooperation are innovative, because they implement IC and KM more often than other organization. Probably, it is one of the components that provide participants of interfirm cooperation with the high EVA. 
+
+At this stage, we discuss the results of the second model, which are covered in Table 10. Table 9 presents the quality of this model. 
+
+Table 9
+
+Number of correct and incorrect forecasted results in model including Manufacturing, Energy & Chemical and Construction & Real Estate
+
+
+
+Area under ROC curve equals to 0.71 The Figure is presented in Appendix 6.
+
+Table 10
+
+Results of model including Manufacturing, Energy & Chemical and Construction & Real Estate
+
+
+
+External factors (location in the city with more than 1 million citizens, employment of foreign capital and location near top-10 universities) have positive influence on cooperation (1% level of significance). Cooperation in Energy & Chemical industry is more popular than cooperation in construction and manufacturing industries in Russia by 26% (10% level of significance). Companies from this industry are export-oriented that provides them with cooperation with foreign partners. In addition, energy organizations tend to cooperate with government. (Buchaev 2013) This link implies the idea about the influence of sectoral affiliation on cooperation.
+
+Such internal factors as company’s experience, size, fixed assets  and invested capital (1% level of significance); qualification of boards of directors (5% level of significance); intangible assets, implementation of IC or KM and number of patents(10% level of significance) influence company’s probability to cooperate. The experience of the company has nonlinear effect as in the previous model.
+
+Companies with high patent activity have the higher forecasted probability to take part in interfirm relationships that those companies that have low patent activity (Table 11). The link between components of intellectual capital and cooperation in real sector of economy is explained by an incentive to cooperation - access to new resources and knowledge, which leads to learning and sharing experience, increasing flexibility and access to new markets.(Roijakkers 2003) The relationships between patents and cooperation depend on the characteristics of firms’ industrial environments: this effect is much stronger in technology intensive sector. (Janne and Frenz 2007)
+
+Table 11
+
+Comparison of forecasted probability of cooperation for companies with high and low patent activity
+
+
+
+Using information about the factors’ influence on cooperation in technology intensive sector, we compare forecasted probability to cooperate of two different types of firms (Table 12).
+
+Table 12
+
+Comparing forecasted probability to cooperate of two types of Russian companies
+
+The first company is characterized by low patent activity; members of boards of directors in this firm has 0 point; this company does not implement IC or KM strategy and it is not located near top-10 universities. The second company is located near top-10 universities; it has many patents, implement IC or KM and its boards of directors is of good quality (2 points). Probability of cooperation for the second company is much greater that for the first one.
+
+According to the developed model, components of intellectual capital encourage cooperation; it means that Russian companies from high and medium technology intensive industries are ready to share some components of intellectual capital. This fact corresponds to the tendency of companies all over the world, which cooperation is positively associated with their innovation performance.(Miotti and Sachwald 2003; Janne and Frenz 2007; Dachs, Ebersberger, and Pyka 2008) However, such internal characteristics as intangible assets, invested capital and fixed assets discourage cooperation, because Russian companies with high volume of different assets have a tendency to information hiding and disintegration because of uncertainty of business environment and relationships and relation to other market players as to competitors. (Michailova and Husted 2003)
+
+Model Including Trade & Related Services, Services and Finance & Insurance
+
+The third model is devoted to trade, services and finance industries. The model is developed for 716 observations, 235 of them participate in interfirm relationships (20% from trade industry, 35% from services industry and 45% from finance sector). Participants of cooperation in this sector are more successful at value creation than other firms that operate in this sector. We cannot call this sector innovative, because only 7% of all companies implement intellectual capital or knowledge management strategy. Table 13 contains the quality of this model. Area under ROC curve is 0.73. (Appendix 6)
+
+Table 13 
+
+Number of correct and incorrect forecasted results in model including Trade & Related Services, Services and Finance & Insurance
+
+According to the estimation of this model (Table 13), such external factors as location in the city with more than 1 million citizens, employment of foreign capital, location near top-10 universities and citation have an impact on cooperation (5% level of significance). Brand name reputation has negative influence on cooperation. Brand name reputation is a critical factor in the restaurant industry, because it is a key determinant of whether or not potential customers patronize an establishment. Customers often make first-time purchases based on brand name reputation. Thus, chains with unknown brand names should engage in cooperation with well-known entities to become more famous. (Combs and Ketchen 1999) 
+
+Cooperation in finance sphere is more popular than cooperation in trade industry (forecasted probability of cooperation decreases by 31%) and service industry (forecasted probability decreases by 29%) (5% level of significance). This tendency reflects the popularity of financial industrial group in Russia. While discussing the specific features of cooperation in interfirm relationships, we noticed that cooperation in trade and services industries is not popular among small companies, which present these industries in Russia. 
+
+The internal characteristics like book value, fixed assets, qualification of boards of directors (1% level of significance) and size, company’s experience (10% level of significance) influence cooperation significantly. The components of intellectual capital do not influence on cooperation in finance, trade and services industries, because operation in this sector do not depend on technology and production directly, that is why companies can ignore to some degree incentives connected with intellectual capital. (Dumont and Meeusen 2000; Audretsch and Feldman 2004). 
+
+Table 14
+
+Results of model including Trade & Related Services, Services and Finance & Insurance
+
+Overall, we can draw a conclusion that companies from finance, trade and services industry cooperate with high probability if they are mature, because in this way they have enough power and resources to find potential partners. However, potential participant of interfirm relationships understand that they not famous enough to improve their financial position by functioning along; or they have not enough assets or investments to be flexible and to increase their market position.
+
+
+
+
+Conclusion
+
+The aim of this paper attempts to provide information for a better understanding of interfirm cooperation in the country, on which the literature and empirical evidence is scarce. In this sense, the study aims to provide a major knowledge about different motives of cooperation and contributes with empirical evidence on the identification of company’s probability to cooperate in different sectors of Russian economy. 
+
+This paper presents quantitative research of interfirm relationships. Contribution of this paper is developed criteria for identifying company’s probability to cooperate with the help of its internal and external features. These factors, in turn, demonstrate motives that encourage Russian companies to cooperate and reflect special features of interfirm relationships in a certain country in different industries. It is known, that current economic turbulence prevents Russian markets from the development of relationships in Russia. However, according to the obtained results, the influence of internal factors exceeds the influence of external characteristics of environment on cooperation in Russia. Consequently, Russian market players can disregard some environmental characteristics and develop their activity connected with interfirm relationships. It has significant implication for companies operating on Russian markets. Nowadays it is essential for market agents to recognize potential participants of interfirm relationships and their motives for cooperation, because participating in cooperation is an indicator of a firm, which optimizes its operation, maintains costs and conforms to current market conditions. This information is valuable for potential investors, managers, boards of directors’ members and owners of a company in the Russian current market in actual practice. 
+
+In addition, it was found that cooperation in Russia depends on industrial affiliation: interfirm relationships in different sectors are associated with various factors. Furthermore, forecasted probability of participation in interfirm relationships is different for various industries. Despite the fact that, we cannot carry out comparative analysis of the results of models developed for various samples, this aspect has significant implications for governmental policies. Probably, the forecasted probability of cooperation in various sectors of Russian economy is not equal to each other because of different supported policy and financial mechanism of supporting interfirm relationships. In turn, it can be an important barrier to cooperation in such sectors as Trade and Services. It means the necessity of Russian economy in the policy of fostering interfirm relationships in these industries to correspond to the new market conditions.
+
+Although this study has attempted to provide an in-depth view on interfirm relationships in Russia, factors influencing such collaborative arrangement are not exhaustive. Given the diversity of current business environment, future study should therefore consider other elements that challenge the interfirm linkages. We noticed a severe problem of developing interfirm relationships in Russia connected with company’s tendency to disintegration because of lack of confidence to other market players. Thus, including such social factor as trust to other partners in the study with the help of questionnaire method can improve the quality of the model. Moreover, this method can help us to eliminate the main constraint of the paper: using proxy-indicators as a dependent variable in the estimated model. Another way to remove this limitation is the usage of specialized databases like SDC Platinum. Special databases provide researchers with specific information about the number of companies, with which a certain firm cooperates. It will maximize the reliability of the study and minimize the probability of obtaining biased results.
+
+Another constraint of the study is associated with factors’ classification. According to the existed papers, there is no standard classification of motives to cooperation. Thus, it is hard to separate external features from internal characteristics because of their interdependency. Probably, the definition of some motives and factors is misguided. 
+
+Finally, future research should analyze the influence of the presence and effectiveness of government programs and the presence of private or public funding organizations on cooperation. The most appropriate way to do it is analysis of dynamic panel. In spite of these limitations, the research can be relevant. It provides with information about the development of interfirm relationships between Russian market players and point out the specific features of this phenomenon in various sectors and industries. Furthermore, it has significant implications for governmental policies in Russia and Russian market players who can use the results of this paper, while taking strategic decisions and determine a potential partner for cooperation.
+
+
+
+
+
+
+
+
+
+
+Acknowledgments
+
+This study comprises research findings from the «The Changing Role of Companies’ Intangibles over the Crisis» carried out within The National Research University Higher School of Economics’ Academic Fund Program in 2013, grant No 13-05-0021.
+
+ 
+
+
+References
+
+Special literature
+
+Aharonson, B. S., J. A. C. Baum, and A. Plunket. (2008), “Inventive and Uninventive Clusters: The Case of Canadian Biotechnology”, Research Policy, Vol. 37 No.6, pp. 11–31.
+
+Amit, Raphael, and Paul JH Schoemaker. (1993), “Strategic Assets and Organizational Rent.” Strategic Management Journal, Vol.14 No.1, pp. 33–46.
+
+Anand, Bharat N., and Tarun Khanna. (2000), “Do Firms Learn to Create Value? The Case of Alliances.” Strategic Management Journal, Vol. 21 No 3, pp. 295–315.
+
+Asaul, Vladimirskiy, Gordeev, Guzhva, Petrov, Fatlinskiy. (2008). “Zakonomernosti I tendencii razvitiia sovremennogo predmrinimatelstva” Pod red. d.e.n. prof. Asaula SPb: ANO IPEV – p. 280.
+
+Argote, Linda, and Paul Ingram. (2000), “Knowledge Transfer: A Basis for Competitive Advantage in Firms.” Organizational Behavior and Human Decision Processes, Vol. 82 No. 1, pp. 150–69.
+
+Audretsch, David B., and Maryann P. Feldman. (2004), “Knowledge Spillovers and the Geography of Innovation”. Handbook of Regional and Urban Economics. Elsevier, available at: http://ideas.repec.org/h/eee/regchp/4-61.html.
+
+Aveni, Adrian F. (1978), “Organizational Linkages and Resource Mobilization: The Significance of Linkage Strength and Breadth.” Sociological Quarterly, Vol. 19 No. 2, pp. 185–202.
+
+Baum, Joel AC, Tony Calabrese, and Brian S. Silverman. (2000), “Don’t Go It Alone: Alliance Network Composition and Startups’ Performance in Canadian Biotechnology.” Strategic Management Journal, Vol.21 No.3, pp. 267–94.
+
+Bayona, C., T. Garcı́a-Marco, and E. Huerta. (2001), “Firms’ Motivations for Cooperative R&D: An Empirical Analysis of Spanish Firms.” Research Policy, Vol. 30 No.8, pp. 1289–1307.
+
+Buchaev. (2013), “Modernizaciia rossiyskoi ekonomiki: shans dlya germanskogo biznesa” Sbornik trudov Mezhdunarodnoy nauchno-ekonomicheskoi konferencii imeni academika P.P. Maslova. No.1, s. 252. 
+
+Cameron, A. Colin. (2005), “Microeconometrics: Methods and Applications”. Cambridge university press.
+
+Chen, Minder, Dongsong Zhang, and Lina Zhou. (2007), “Empowering Collaborative Commerce with Web Services Enabled Business Process Management Systems.” Decision Support Systems, Vol. 43 No. 2, pp. 30–46. 
+
+Combs, James G., and David J. Ketchen. (1999), “Explaining Interfirm Cooperation and Performance: Toward a Reconciliation of Predictions from the Resource-Based View and Organizational Economics.” Strategic Management Journal, Vol. 20 No.9, pp. 86–88.
+
+Conner, Kathleen R. (1991), “A Historical Comparison of Resource-Based Theory and Five Schools of Thought Within Industrial Organization Economics: Do We Have a New Theory of the Firm?” Journal of Management, Vol. 17 No.1, pp. 54-121.
+
+Cuéllar-Fernández, Beatriz, Yolanda Fuertes-Callén, and José A. Laínez-Gadea. (2011), “The Impact of Strategic Alliances on the Market Value of Telecommunications Firms.” The Journal of High Technology Management Research, Vol. 22 No.1, pp. 1–13. 
+
+Dachs, Bernhard, Bernd Ebersberger, and Andreas Pyka. (2008), “Why Do Firms Cooperate for Innovation? A Comparison of Austrian and Finnish CIS3 Results.” International Journal of Foresight and Innovation Policy, Vol. 4 No.3, pp. 200–229.
+
+Das, T. K., and Bing-Sheng Teng. (2000), “A Resource-Based Theory of Strategic Alliances.” Journal of Management, Vol. 26 No.1, pp. 31–61.
+
+Das, T. K., and Bing-Sheng Teng. (2001), “A Risk Perception Model of Alliance Structuring.” Journal of International Management, Vol. 7 No.1, pp. 1–29.
+
+Di Guardo, Maria Chiara, and Raffaele Paci. (2014), “M&A and Knowledge Flows in the European Union’s Neighboring Countries.”, available at: http://crenos.unica.it/crenos/sites/default/files/WP12-36.pdf.
+
+Dong, Li, and Keith W. Glaister. (2006), “Motives and Partner Selection Criteria in International Strategic Alliances: Perspectives of Chinese Firms.” International Business Review, Vol. 15 No.6, pp. 577–600. 
+
+Dumont, Michel, and Wim Meeusen. (2000), “Knowledge Spillovers through R&D Cooperation.” In Workshop Paper, available at: http://www.oecd.org/science/inno/2093436.pdf.
+
+Edwards-Schachter, Mónica, Guillermo Anlló, Elena Castro-Martínez and Ignacio Fernández De Lucio. (2010), “Forms and barriers in interfirm international cooperation on innovation and R&D”. INGENIO (CSIC-UPV)
+
+Edwards-Schachter, Mónica, Guillermo Anlló, Elena Castro-Martínez, Mabel Sánchez-Barrioluengo, and Ignacio Fernández De Lucio. (2012), “Motives for InterFirm Cooperation on R&D and Innovation: Empirical Evidence from Argentine and Spain”. INGENIO (CSIC-UPV), available at: http://www.ingenio.upv.es/sites/default/files/working-paper/motives_for_interfirm_cooperation_on_r_d_and_innovation.pdf.
+
+Estanyol, Francesc. (2010), “The SME Co-Operation Framework: A Multi-Method Secondary Research Approach to SME Collaboration.”, available at: http://212.92.53.45/microart/index.php?option=com_jresearch&view=publication&task=show&id=1&Itemid=176&lang=en.
+
+Evnevich. (2007), “Osobennosti Rossiyskih Integrirovannyh biznes-grupp I upravlenie imi” Izvestiia Rossiyskogo Gosudarstvennogo Pedagogicheskok Universiteta I. A.I. Gercena, Vol. 24 No 6.
+
+Faems, Dries, Matthias De Visser, Petra Andries, and Bart Van Looy. (2010), “Technology Alliance Portfolios and Financial Performance: Value-Enhancing and Cost-Increasing Effects of Open Innovation*.” Journal of Product Innovation Management, Vol. 27 No.6, pp. 85–96.
+
+Fukugawa, Nobuya. (2006), “Determining Factors in Innovation of Small Firm Networks: A Case of Cross Industry Groups in Japan”. SSRN Scholarly Paper ID 886779. Rochester, NY: Social Science Research Network, available at: http://papers.ssrn.com/abstract=886779.
+
+Gattorna, John. (1998), “Strategic Supply Chain Alignment: Best Practice in Supply Chain Management”. Gower Publishing, Ltd.
+
+Glaister, Keith W. (2004), “The Rationale for International Equity Joint Ventures.” European Management Journal, Vol. 22 No.5, pp. 493–507. 
+
+Gulati, Ranjay. (1998), “Alliances and Networks.” Strategic Management Journal, Vol. 19 No.4, pp. 293–317.
+
+Hagedoorn, John. (2002), “InterFirm R&D Partnerships: An Overview of Major Trends and Patterns since 1960.” Research Policy, Vol. 31 No.4, pp. 477–92.
+
+Hoffmann, Werner H., and Roman Schlosser. (2001), “Success Factors of Strategic Alliances in Small and Medium-Sized enterprises—An Empirical Survey.” Long Range Planning, Vol. 34 No.3, pp. 357–81.
+
+Ingham, Hilary, and Steve Thompson. (1994), “Wholly-Owned vs. Collaborative Ventures for Diversifying Financial Services.” Strategic Management Journal, Vol. 15 No.4, pp. 325–34.
+
+Janne, Odile Em, and Marion Frenz. (2007), “Patents and Collaborations for Innovation: An Analysis of the Fourth UK Community Innovation Survey.” In DRUID Summer Conference, available at:  http://www2.druid.dk/conferences/viewpaper.php?id=1512&cf=9.
+
+Jiang, Xu, and Yuan Li. (2008), “The Relationship between Organizational Learning and Firms’ Financial Performance in Strategic Alliances: A Contingency Approach.” Journal of World Business, Vol. 43 No.3, pp. 65–79. 
+
+Kusch. (2006), “Podhody k razrabotke mehanisma koordinacii upravleniya vzaimootnosheniyami promyshlennoy kompanii c partnerami”. Vestnik Sankt-Peterburgskogo universiteta, Vol. 8 No.3, pp. 16-18.
+
+Kusch, Rebyazina. (2011), “Portfel vzaimootnosheniy kompanii c partnerami na promyshlennyh rynkah” Vestnik Sankt-Peterburgskogo universiteta, No.1, pp. 79-81.
+
+Lavie, Dovev. (2007), “Alliance Portfolios and Firm Performance: A Study of Value Creation and Appropriation in the U.S. Software Industry.” Strategic Management Journal, Vol. 28 No.12, pp. 1187–1212. 
+
+Lee, Hyunchul, Euije Cho, Chongcheul Cheong, and Jinsu Kim. (2013), “Do Strategic Alliances in a Developing Country Create Firm Value? Evidence from Korean Firms.” Journal of Empirical Finance, No.20, pp. 30–41. 
+
+Lefaix-Durand, Aurelia, Diane Poulin-Dubois, Robert Kozak, and Robert A. Beauregard. (2005), “Interfirm Relationships and Value Creation: A Synthesis, Conceptual Model and Implications for Future Research”, Faculté des sciences de l’administration, Université Laval, available at: https://www.cirrelt.ca/DocumentsTravail/2005/DT-2005-DP-1.pdf.
+
+Long, J. Scott, and Jeremy Freese. (2001), “Regression Models for Categorical Dependent Variables Using Stata”. College Station: Stata Press.
+
+Lui, Steven S., and Hang-yue Ngo. (2005), “An Action Pattern Model of InterFirm Cooperation.” Journal of Management Studies, Vol. 42 No.6, pp. 23–53. 
+
+Michailova S., Husted K. (2003), “Knowledge Sharing Hostility in Russian Firms” California Management Review, No.3, pp. 59–77.
+
+Miotti, Luis, and Frédérique Sachwald. (2003), “Co-Operative R&D: Why and with Whom?: An Integrated Framework of Analysis.” Research Policy, Vol. 32 No.8, pp. 1481–99.
+
+Mohr, Jakki, and Robert Spekman. (1994), “Characteristics of Partnership Success: Partnership Attributes, Communication Behavior, and Conflict Resolution Techniques.” Strategic Management Journal, Vol.15 No.2, pp. 35–52. 
+
+Parent-Thirion, Agnès. (2007), “Fourth European Working Conditions Survey: Impact of Interfirm Relationships – Employment and Working Conditions”. European Foundation for the Improvement of Living and Working Conditions.
+
+Poulymenakou, Angeliki, and Elpida Prasopoulou. (2004), “Adopting a Lifecycle Perspective to Explain the Transition from Technological Innovation to Alliance Management.” Management Decision, Vol. 42 No.9, pp. 15–30. 
+
+Radaev, Kotelnikova, Markin (2013), “Razvitie Rossiyskova Riteila: Mery Gosudarstvennogo Regulirovania I Ih Posledstviia (zakon O Torgovle V Zerkale Issledovaniy)” Zhurnal Issledovaniy Socialnoy Politiki, available at: http://www.hse.ru/sci/publications/70856654.html.
+
+Ramanathan, Usha. (2014), “Performance of Supply Chain Collaboration – A Simulation Study.” Expert Systems with Applications, Vol. 41 No.1, pp. 10–20. 
+
+Roijakkers, N. (2003), “InterFirm Cooperation in High-Tech Industries: A Study of R&D Partnerships in Pharmaceutical Biotechnology”. [Maastricht]: Universitaire Pers Maastricht.
+
+Sambasivan, Murali, Loke Siew-Phaik, Zainal Abidin Mohamed, and Yee Choy Leong. (2013), “Factors Influencing Strategic Alliance Outcomes in a Manufacturing Supply Chain: Role of Alliance Motives, Interdependence, Asset Specificity and Relational Capital.” International Journal of Production Economics, Vol. 141 No.1, pp. 339–51. 
+
+Sampson, R. C. 2007. “R&D Alliances and Firm Performance: the Impact of Technological Diversity and Alliance Organization on Innovation.” Academy of Management Journal, Vol. 50 No.2, pp. 364–86.
+
+Schartinger, Doris, Andreas Schibany, and Helmut Gassler. (2001), “Interactive Relations between Universities and Firms: Empirical Evidence for Austria.” The Journal of Technology Transfer, Vol. 26 No.3, pp. 55–68.
+
+Schibany, Andreas. (1998), “Co-Operative Behaviour of Innovative Firms in Austria”. Österreichisches Institut für Wirtschaftsforschung, available at:  http://www.oecd.org/innovation/inno/2368867.pdf.
+
+Schilling, M. A., and C. C. Phelps. (2007), “Interfirm Collaboration Networks: The Impact of Large-Scale Network Structure on Firm Innovation.” Management Science, Vol. 53 No.7, pp. 13–26.
+
+Segil, Larraine. 2005. “Metrics to Successfully Manage Alliances.” Strategy & Leadership 33 (5): 46–52. doi:10.1108/10878570510616889.
+
+Shaw, Duncan R., and Christopher P. Holland. (2010), “Strategy, Networks and Systems in the Global Translation Services Market.” The Journal of Strategic Information Systems, Vol. 19 No.4
+
+Sheresheva, Marina, and Sergei Peresvetov. (2012), “InterFirm Relationships of Russian SMEs: A Way to Survive the Crisis and to Innovate.” Journal of Entrepreneurship & Innovation, No. 4, pp. 1–19.
+
+Tretyak, Olga. (2013), “InterFirm Relationships in Russia: Responding to New Challenges.” Journal of Business and Industrial Marketing, Vol. 28 No.3, pp. 63–66.
+
+Volery, Thierry. (1995), “Critical Success Factors in Interfirm Cooperation: The Case of Swiss Small and Medium-Sized Enterprises (SMEs)”
+
+Weaver, K. Mark, Pat H. Dickson, and Bryan Gibson. (1997), “SME-Based Alliance Use: A Three Country Comparison of Environmental Determinants and Individual Level Moderators.” In International Council for Small Business Conference, San Francisco, CA, June.
+
+Williamson, Oliver E. (2007), “Transaction Cost Economics: An Introduction”. Economics Discussion Papers/Institut für Weltwirtschaft, available at: http://www.econstor.eu/handle/10419/17926.
+
+Wu, Jian, and John Callahan. (2005) “Motive, Form and Function of International R&D Alliances: Evidence from the Chinese IT Industry.” The Journal of High Technology Management Research, Vol. 16 No. 2, pp. 173–91.
+
+
+Electronic sources
+
+Alfa Group [WWW Document], alfagroup.ru; URL www.alfagroup.ru
+
+Ruslana Database [WWW Document], ruslana.bvdep.com; URL 
+
+Thomson reuters [WWW Document], thomsonreuters.com; URL 
+
+Federalnyi zakupochnyi souz [WWW Document], t3c.ru ; URL www.t3c.ru
+
+Unified System of Classification and Codification of Technical and Economic and Social Information 2010 [WWW Document], info.tradedir.ru; URL info.tradedir.ru
+
+Appendices
+
+APPENDIX 1
+
+External factors, which influence cooperation
+
+
+
+
+
+
+
+
+
+
+APPENDIX 2
+
+Internal factors that influence cooperation
+
+
+
+APPENDIX 3
+
+Variables definition
+
+
+
+
+
+APPENDIX 4
+
+Descriptive statistics of the variables
+
+
+
+
+
+APPENDIX 5
+
+Test of representativeness
+
+
+
+
+
+
+APPENDIX 6
+
+The quality of estimated models (ROC curves)
+
+
+
+Figure 2 ROC curve of model including all sectors of Russian economy
+
+
+
+
+
+Figure 3 ROC curve of model including Manufacturing, Energy & Chemical and Construction & Real Estate
+
+
+
+
+
+Figure 4 ROC curve of model including Trade & Related Services, Services and Finance & Insurance
+

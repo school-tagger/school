@@ -1,0 +1,311 @@
+National Research University
+
+Higher School of Economics
+
+
+
+Faculty of Business Informatics
+
+Department of Business Analytics
+
+
+
+
+
+DRAFT
+
+of the paper
+
+“Development of functional requirements to automate the “Analytical reports preparation on the working curriculum” process”
+
+ 
+
+Student:  A. U. Ivanyuk
+
+Group    476
+
+Argument Consultant:  N. L. Korovkina
+
+Style and Language Consultant: M. A. Volkova
+
+
+
+
+
+
+
+
+
+
+
+
+
+2013
+
+Abstract
+
+This paper discusses in detail the processes of analytical reports preparing on the working curriculum at the National Research University "Higher School of Economics". As well as this, it reflects the relevance of the topic to date, and accordingly it considers the problems, which are inherent to the process. Further there is a detailed describing, modeling and analyzing the processes to determine the most painful bottlenecks and the changes that will be applied in these processes. As a result of the analysis there have been developed requirements to solve the problems that appear during the formation of reports on the working curriculum. The topic of this work might be interesting for different analysts, who are engaged in analyzing and modeling business processes.   
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents 
+
+Introduction………………………………………………………………………………………..4
+
+Chapter 1. Research of the report preparation process on the working curriculum………………6
+
+    1.1. Identification of reports preparation problems…………….…………………………....…6
+
+    1.2. Analysis of the experience in the automation of the Russian and foreign universities…....7
+
+Chapter 2. Research of the reports formation processes on the working curriculum……………..7
+
+    2.1. Modeling the processes of “AS-IS” model………………………………………..……….7
+
+    2.2. Identification of bottlenecks in processes….………………………………..........………11
+
+Chapter 3. Processes reengineering…………………………………………………………..….11
+
+    3.1. Development of proposals to eliminate bottlenecks in processes……………………...…12
+
+    3.2. Building of “TO-BE” model…………………………………………………………..….12
+
+    3.3. Development of functional requirements to automate the process……………………….12
+
+    3.4. Solution validation……………………………………………………………………..…12
+
+Conclusion…………………………………………………………………………………….....13
+
+Bibliography………………………………………………………………………………….….14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+One of the most important spheres of our life is education, where in the last few years various technologies have been actively implemented. In spite of the fact that ‘the first computer equipment in schools appeared relatively long time - over 15 years ago’  on which different software for training was installed, only recently there has appeared software designed to support the learning processes. This qualification work is dedicated to the analysis of the process “Analytical reports preparation on the working curriculum” at the National Research University “Higher School of Economics” (HSE).
+
+Annually in HSE a number of reports are prepared to analyze various activities that the university leads. 
+
+The major work directed at conducting information and analytical activities regarding the methodological support issues of the educational process is conducted by Educational Department of the university, which prepares most reports. Among the other activities of this department there can be highlighted developing and updating original educational standards, forming university teaching schools, improving the quality of methodical work at the university, and others.
+
+Among the systems used by the HSE, probably the most important one is the automated accounting system for the educational process ASPG (Applicants, Students, Postgraduate and Graduate). The name of this system is an acronym formed by the letters taken from the names of the four main modules, which are part of the system. 
+
+The company engaged in development and implementation of this system is a Russian company “Melnitsa technology”. Implementation of this system began with the module “Applicant” in 2006.
+
+In general, ASPG consists of eleven different modules, such as curriculum development, applicant, student, postgraduate, additional education, graduate, execution control regulations, department workplace, dormitory, financial aid and payment of the execution of contracts. 
+
+These modules automate a lot of different processes such as: accounting students’ data and the course of their training, preparing the various reports and documents, drafting curricula of faculties and checking their compliance with the approved requirements and regulations and many others.
+
+Since the main goal of this system implementation is to create and analyze information about students as ‘all over their life cycle in the university, and after graduation’ then one of the most important processes is the preparation of analytical reports. These reports allow analyzing various information required for effective work of the university and monitoring the necessary parameters.  
+
+Among all the reports which a system ASPG allows creating, the most significant ones are reports, based on data contained in the working curriculum.
+
+Working curriculum is one of the most important documents which are prepared by educational department. It contains information about the formal disciplines taught at a particular course. Among them there are such disciplines as the status of the discipline (mandatory, special, elective courses, electives, research seminar), department, which is responsible for the teaching of the discipline, the duration in hours of teaching (by the duration of classroom and self-study classes), forms control (by their module).  
+
+As a rule, each working curriculum is designed for one academic year for students of one course and is based on the basic curriculum. Actually, working curriculum is a more detailed part of the basic curriculum.
+
+In the course of conducting numerous interviews with the head of the department of educational and methodical Higher School of Economics there have been found several problems that are encountered during the formation of analytical reports based on working curriculum, with the help of ASPG. These problems demonstrate the relevance of the chosen topic , as employees of the university always have to create a variety of reports on working curriculum to monitor the a number of important figures. 
+
+The purpose of this work, in view of the problems mentioned above is improving the process of “Analytical reports preparation on the working curriculum in the automated system ASPG”.
+
+To achieve this goal there have been identified several tasks that are necessary to fulfill, namely the analysis of the problems formation of reports on working curriculum, process modeling of the system ASPG, identification of bottlenecks in the process, proposals to eliminate bottlenecks and testing of the developed solutions.
+
+The practical value of this work lies in the fact that in the future the solution proposed to solve the problems, can be used by the Higher School of the economies to achieve a higher rate of formation of reports on working curriculum.
+
+The first chapter of this work is devoted to the theoretical part, namely, a variety of problems that are inherent to the preparation reports process is identified and the analysis of Russian and foreign universities is conducted. Further using the methodology of functional modeling “AS-IS” model is built, which shows the current situation and then bottlenecks in the process are identified. In the practical part of the draft proposals for the elimination of the bottlenecks in the process are developed. Then “TO-BE” model is built and the functional requirements for the process automation are developed and finally solution is validated. 
+
+ Chapter 1. Research of the report preparation process on the working curriculum 
+
+Since the amount of general information in the analytical system ASPG is constantly increasing, which is directly reflected in the number of working curricula and basic curriculum, then the solution to the problems that the preparation reports process has are becoming a matter of paramount importance.
+
+1.1. Identification of reports preparation problems 
+
+One of the problems encountered in the preparation of different kinds of reports on working curriculum, are errors that sometimes appear in the source data (active curriculum, or core curriculum), resulting in an incorrect report. An example of such an error can serve as mismatch hours to discipline the number of credits or a lack of discipline titles in English. One of the reasons why there may be this kind of error is carelessness of the university employees while introducing plans in the system, or carelessness of the employees of Educational Department. 
+
+Incorrect data in a report may also be the result of errors that are in the formulas needed for the formation of various aggregates, such as the number of subjects studied in the third module in English in 2012-2013, or the average number of disciplines and research seminars in basic training planning departments for 2011/2012 year. Such problems can also occur as a result of carelessness of different staff. In its turn, there may be some technical errors of the system. As a result, during the preparation employees of the University have to spend most part of their work on finding and fixing errors.
+
+In addition to data errors, that may take place in reports on working curriculum, there is another important problem which is inefficient search for data in the system.
+
+As not all of the modules of ASPG, which the system consists of, were in the beginning, and implementation was conducted in parts, the search of necessary data is possible just by browsing a huge number of tables with lots of tabs. It is obvious that such kind of searching is not the most efficient one.
+
+Also, according to the staff of education department methods, it is quite difficult to track various data changes in the system, because currently the system does not have any mechanism for automatic update multiple sources.
+
+This problem results in a substantial increase in time of the report preparation process which is performed by the employees of the Educational Department.
+
+1.2. Analysis of experience in the automation of the Russian and foreign universities
+
+In this section there will be analyzed how various universities automate the process of report preparation.
+
+Chapter 2. Research of the processes of reports formation on the working curriculum 
+
+2.1. Modeling the processes of “AS-IS” model 
+
+This section involves a detailed consideration of the process “Preparation of the report on working curriculum” in HSE.
+
+Model «AS-IS» is a model of an existing process or function, which is based on functional modeling. The development of  “AS-IS” model ‘enables to fix clearly the processes which occur at the company, what kind of  information objects are used while performing functions of different kinds of specification’.
+
+The whole process of preparation of reports on working curriculum has been modeled according to IDEF 3 which is a business process modeling methodology. 
+
+This methodology was chosen because it ‘reveals the cause-effect relationship between the situations and events in an understandable form to the expert. To do this, it uses a ‘structured way of expressing knowledge of how the system functions’.  Besides, it is quite widespread among analysts. 
+
+For modeling the process of preparing reports on working curriculum there has been chosen one of the two types of diagram, namely “Process Flow Description Diagrams” (PFDD) diagram. 
+
+The graphical representation of the whole model consists of functional units connected by lines and so-called junctions, which show the logic of flows interaction at the confluence or ramification. Further some of the functional elements will be decomposed i.e. some sub-functions of the process of preparing a report on the working curriculum will be modeled, namely, report generation, reference to technical support, downloading data from the system, data validation. 
+
+Analysis of “AS-IS” model  enables to determine where the problem situations are, what exactly advantages of the new processes will be, and what changes the existing organization structure of the business process will undergo.
+
+Now consider in detail all phases of the preparation of reports on working curriculum. 
+
+First, “Preparation of the report on working curriculum” process is considered (Figure 1).        This process consists of four functional elements: “Checking ASPG for the presence of the required report”, “Downloading a report from ASPG”, “Report formation” and “Report printing” Also there is a referent “Request from the management for the preparation of the report” and two junctions.
+
+The whole process begins with the acceptance of request from the management who needs a particular report. Then the employee of Educational Department checks ASPG system for the presence of a required report. Currently there are seven different reports on working curriculum in the system, which can be downloaded. Further, if the report is found, it is downloaded and sent to the printer. If the report is not found, the employee starts preparing a new one. Then it is printed.
+
+
+
+(Figure 1. “Preparation of the report on working curriculum”)  
+
+The process of forming a new report has been decomposed into six functional units: “analysis of the common directories for the presence of data for the report”, “Browsing the data on the working curriculum and the basic curriculum for the presence of data for the report”, “Processing a request by technical support”, “Importing the found data in Excel”, “Data correction”, “Data validation” (Figure 2).  
+
+In this process the search of the right data begins with an analysis of directories. If the data have been found, then it is downloaded, corrected and verified. Otherwise, employees search for a working curriculum and basic curriculum. If the data at this stage are found, they are downloaded, corrected and verified. If the data have not been found either in the directories or in the working curriculum, the employee contact the technical support and says what kind of data they need.
+Support processes the request and provides the data, and then data is imported into Excel, corrected and verified.
+
+
+
+(Figure 2. “Report formation”)
+
+During the analysis of the whole process, in its turn there has also been decomposed the “Data validation” process into seven functional elements including “Identifying the cause of the error”, “Browsing the curriculum on which the report was created”, “Correcting the errors by educational department”, “Correcting the errors by technical support”, “Report downloading”, “Data rechecking”, “Report saving”. There is also one referent “Corrected data” and several various junctions (Figure 3).
+
+After all of data has been found, imported into Excel, and corrected, data is checking. If while checking no one error has been found, the process is finished. If some errors have been found, the employee tries to identify the cause of error. There are two types of errors that may be encountered. The first one is formula error, another one is incorrect data in curriculum. If it was found that the error is in the formula, the employee refers to technical support system, and they fix the error. Further the employee downloads the report and rechecks it. If a new error has been detected, the “Validation data” process is repeated again, otherwise the report is saved and the process is completed.
+
+It is also possible that the cause of the error is in the curriculum or curricula from which the data were taken. In this case it is identified where error is. Further educational department fix the error and the process is completed.
+
+
+
+
+
+(Figure 3. “Data validation”)
+
+
+
+2.2. Identification of bottlenecks in processes
+
+As it was shown above, the process of preparing reports on the working curriculum has some problems, therefore, “AS-IS” model was built. This model reflected all the processes which the main process consists of. Then in this section it will be conducted the analysis of all the sub-processes in order to find all the bottlenecks in the model, i.e., it will be highlighted the steps where various problems may occur.    
+
+Chapter 3. Processes reengineering
+
+After the “AS-IS” model has been built and drawbacks of the model have been identified, the next stage is process reengineering. At this stage there will be developed some proposals to eliminate the bottlenecks and a “to-be” model will be built. This model is usually created based on "AS-IS" model and ‘reflects the necessary changes of business processes taking into account the implementation of information system’.
+
+3.1. Development of proposals to eliminate bottlenecks in processes
+
+After the “AS-IS” model has been modeled and highlighted the bottlenecks, before a new “to-be” model has been built, different proposals on elimination of various problem areas, which the original model contain, will be presented in detail. 
+
+3.2. Building of “TO-BE” model
+
+As a result of a detailed description of proposals for the improvement of processes, there will be built “TO-BE” model, in which will be reflected all above mentioned suggestions for improving business processes. 
+
+3.3. Development of functional requirements to automate the process
+
+In this section, on the basis of “TO-BE” model there will be formed functional requirements for automating the process of reports preparation on working curriculum, including the table of transactions and table of documents.
+
+The table of transactions will contain structured information about each transaction of “TO-BE” model , such as transaction name, the number on the chart, executor, and table of documents will reflect a variety of information about the documents, which are formed during the preparation of reports.
+
+3.4. Solution validation
+
+In this section it will be described the results of the changes while preparing reports on working curriculum and it will be showing their effectiveness compared to the original situation.
+
+The results will be presented in the form of tables, each containing two columns. In the first table “Problems” in the first column there will be formulated the problem and in the second one there will be described consequences of each problem. In the second table “Solutions to bottlenecks” there will be formulated briefly the bottlenecks and suggested solutions for each bottleneck. The third table is the result of combining the first two ones in which the proposed solutions will be put on problems.
+
+Conclusion
+
+In this work there was analyzed in detail the process of analytical reports forming on working curriculum in ASPG system, used in the Higher School of Economics. There also were listed and considered in details various issues, due to which it is spent sometimes quite a lot of time on preparing analytical reports. 
+
+In addition to the detailed consideration of the reports preparation process and identification various problems, there were developed a detailed model of the processes and conducted analysis of it. There also were developed several proposals for elimination of problems while reports preparation. As a result, an additional model taking into account all submitted proposals was built. 
+
+Thus, it can be stated that the purpose of the work has been fully achieved. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bibliography
+
+Грекул В.И., Денищенко Г.Н., Коровкина Н.Л. Проектирование информационных систем – М.: Интернет-Универсистет Информационных Технологий, 2005. Стр. 37
+
+Материалы по системе АСАВ. «Дополнительные главы документации по учебному процессу».  
+
+IDEF 3// Режим доступа от 07 февраля 2013 года: <>
+
+НИУ ВШЭ. АСАВ // Режим доступа от 29 января 2013 года: < >
+
+НИУ ВШЭ. Методическое управление // Режим доступа от 07 февраля 2013 года: <>    
+
+Itstan.ru. Функциональная модель AS-IS // Режим доступа от 4 февраля 2013 года: <>
+
+Планета железяк. Решения для поддержки учебных процессов. Режим доступа от 29 января 2013 года: < >
+

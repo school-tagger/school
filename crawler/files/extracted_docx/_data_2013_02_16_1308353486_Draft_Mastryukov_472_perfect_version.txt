@@ -1,0 +1,292 @@
+Scientific Research University
+
+Higher School of Economics
+
+
+
+
+
+Faculty of Business Informatics
+
+Department of Innovation and Business in Information Technology
+
+
+
+
+
+DRAFT
+
+of the paper
+
+
+
+“Technological approach to the problem of 
+
+customer feedback management and analysis”
+
+
+
+
+
+Student N. Mastryukov
+
+Group 472
+
+Argument Consultant 
+
+Ph.D. A. Chumichkin
+
+Style and Language Consultant 
+
+Candidate of Philology N. Bagramyants
+
+
+
+
+
+
+
+2013
+
+Abstract
+
+
+
+In a modern economic world, where competition between companies becomes more and more complex and tough, consumer feedback becomes highly important for manufacturers. Feedback provides the most reliable information about demand for goods and services, promising business development areas, mistakes and inaccuracies in planning, possible ways of product promotion in the market. Thus, a well-established feedback gives organization additional competitive advantage over such market players, who underestimate this tool and pay it less attention. 
+
+This paper is a description of Graduation Qualifying Work project of HSE Bachelor of Business Informatics, containing main approaches to the implementation of the project, as well as its’ goals, objectives and methods of the study. Additionally - a list of key terms (glossary) used in GQW is presented in this paper. 
+
+
+
+
+
+
+
+
+
+Topic choice justification
+
+
+Every citizen of a modern city is more and more often contacted by the companies trying to obtain the “first-hand” information about consumers’ opinion on their goods and services, i.e. directly from the consumers. This happens because the importance of this information and the speed of response to it can now hardly be underestimated. In fact, it seriously affects the competitiveness of the organization on the modern market. After all, consumer feedback on company’s products not only can enable assessment of the market relevance of these goods and services, but also – allow a reasonable manager to predict the development of new trends in consumer behavior.
+
+Facing various forms of feedback in life and at work, the Author became interested in the topic, understood its importance in the modern sector of consumer goods and services, and decided to research possible ways of development of this interesting tool for business control and development.  Author’s attempts to research this topic faced substantial fragmentation of information and lack of consolidating works in this area. Moreover, Author got a feeling of non-scientific, non-systematic and sometimes even chaotic nature of many companies’ efforts to perform feedback. At this point, Author conceived the idea of creating this project, where existing principles and “first-hand” data collection methods as well as their results processing will be collected and analyzed. In the future, this work could form the basis for the establishment of a scientific and meaningful approach to this crucial marketing tool. 
+
+
+
+
+Case history 
+
+
+Feedback is always accompanied by commercial relations, since their occurrence. Moreover, in the early stages of the relationship, customer opinion was easy to get, as the manufacturer-to-consumer chain was extremely short. Products were quite simple and opinion on them could be asked at the moment and point of sale. With the development of capitalism and the emergence of large factories and plants, consumer goods costs reduction became possible. Goods and services of such enterprises easily won the competition because of low price, making it possible to forget about customer’s opinion. 
+
+But the time of price wars became past. In the world, where there are many global multinational corporations, the competition is so tough now, that every manufacturer has to fight for its customers in the market place,  trying to understand their demands and expectations - price-based competition is no longer meaningful, since it leads to enterprise decline and collapse.
+
+
+
+
+Glossary
+
+
+
+Feedback – in the broadest sense means reply, response to some action or event. Here-in-after, in this document feedback means the process of collection and analysis of consumers’ opinion regarding some goods and/or services. 
+
+Direct feedback – respondent explicitly answers given question. 
+
+Inferred feedback – respondent isn’t given any explicit question; analysis is based on post-factum review of consumer’s behavior.
+
+Statistical data analysis – process of identifying patterns from selected data array using statistical techniques. Statistical data analysis is the final stage of a statistical research, with the ultimate goal of which is to obtain the theoretical and practical findings about the trends and patterns of the studied social and economic phenomena and processes. The importance of this phase of the study is determined by the use of only an objective and comprehensive information, which is obtained from statistical surveys in later stages of the study and provides evidence based-conclusions about the nature and patterns of the studied object (L. Harchenko, 1997). 
+
+Statistical data – set of qualitative parameters of social and economic events and processes, collected as a result of statistical observation or corresponding calculation. (L. Harchenko, 1997)
+
+CAWI (computer-assisted web interviewing) – quantitative data collection method with surveys over internet. (Official site of the company GFK)
+
+
+CATI (computer-assisted telephone interviewing) – quantitative data collection method over the phone, where interviewer follows specific scenario, created by a computer program. This method is known for efficiency and relatively low costs, comparing to face-to-face interviews. In big cities it allows to reach substantial target audience in short timeframe. (Official site of the company GFK)
+
+CAPI (computer-assisted personal interviewing) – quantitative data collection method based on face-to-face interviews which are conducted via centralized computer system. Interview logic is fully controlled by a computer program. All logical transitions in the survey are tracked and performed by computer system, what allows avoiding errors. (Official site of the company GFK)
+
+Crowdsourcing - is the practice of obtaining needed services, ideas, or content by soliciting contributions from a large group of people and especially from the online community rather than from traditional employees or suppliers. (J. Howe. The Rise of Crowdsourcing)
+
+Big data – techniques, methods and tools to store and process structured and unstructured data in huge volumes to achieve human-readable results, valuable in context of persistent growth and distribution across computing network. (L. Chernyak. Big Data: new theory and practice)
+
+Visualization – methods of presenting data graphically, for example as pictures, charts, photos, diagrams and/or analytical portals.
+
+Sentiment analysis – unstructured text processing using methods of mathematical linguistics, enabling to derive quantitative estimates of emotional flavor of informational segment. 
+
+Respondent – a person, participating in some survey.
+
+Interviewer – a person, who asks questions to respondent and collects their answers as a result of survey. 
+
+Survey – an observation method, where necessary data is collected from respondents. It assumes addressing direct carrier of properties supposed to be registered to a reservation. Surveys are normally used to get information about events and processes which cannot be measured directly. 
+
+Interview – a type of a conversation between two or more people, where interviewer asks questions and gets answers from the respondents.
+
+Sample – specific group of consumers, who’s opinion is being observed. Results of this observation are then extrapolated towards all consumers. 
+
+Paper-based surveys – assumes data collection using printed documents. Respondents are provided with paper surveys either in person, or through internet or printed media. Printed survey completion is voluntary and typically anonymous. This data collection method is used for non-continuous observation. 
+
+Target audience – people, who are supposed to be reached by marketing communications. Target audience is usually identified by social-demographic parameters: gender, age group, education, income. Sometimes psychographic parameters are used: buying preferences, lifestyle, etc. 
+
+Consumer analysis - analyses, targeting consumer preferences, breakdown of buying habits by consumer groups, identifying unmet needs, as well as purchasing drivers of certain goods.
+
+Focus-group – qualitative data collection method, where participants with the help of moderator discuss a certain problem (topic) in order to identify their attitude and understand underlying drivers of certain actions. 
+
+
+
+
+Goals and targets of the study
+
+
+The final goal of the study is to identify and provide definition for feedback methods on the basis of collected materials, provide detailed analysis of these methods and on the basis of it – to present the most efficient and modern techniques and evaluate feature prospects of their development. 
+
+The tasks to be performed during the creation of the final document are both exploratory and analytical:
+
+Justify the relevance of selected topic
+
+Study historical development
+
+Become familiar with existing works on the subject
+
+Gather facts about existing methods
+
+Analyze existing methods
+
+Evaluate enterprise feedback case studies 
+
+Identify the most efficient and modern methods
+
+Consider feature prospects of development
+
+The final document will be the first convenient reference and source of information to be available in Russian language, including a review of all basic consumer opinion survey methods as well as their analysis, allowing later to build a scientific theory covering enterprise feedback management methods oriented towards consumer sector. 
+
+
+
+
+Research methods
+
+
+Research methods and tasks, used in this study, can be separated into exploratory and analytical.
+
+Here-in-after the Author is going to use the following methods: 
+
+Searching for the information on the Internet and the media (this method of research provides a broad overview of the methods of feedback data collection and analysis)
+
+
+
+Searching for information in published scientific literature (use of scholarly articles and scientific books)
+
+
+
+Searching for information in informal sources (data obtained through my work in the company connected with the industry, as well as from friends who have access to insider information of marketing agencies)
+
+
+
+Author’s personal experience of participation in surveys and other forms of feedback data collection
+
+
+Searching for information in analytical agencies reports, available in public domain, internet, mass-media. 
+
+
+Consultation with psychologists about the forms impact, effectiveness, features of perception. The scientific rationale for the success or error of various types and methods of feedback are explained in terms of psychological and behavioral characteristics of consumers.
+
+
+Comparative analysis in terms of efficiency, simplicity, frequency of use, the use of innovation
+
+
+Real-life examples, business practice, experience of leading Russian and international companies.
+
+
+
+
+Graduation Qualifying Work Structure
+
+
+
+Abstract
+
+Introduction
+
+Review – feedback data collection methods
+
+Data collection methods
+
+Direct feedback data collection methods
+
+CAWI
+
+CATI
+
+CAPI
+
+Paper-based survey
+
+Mobile interviewing
+
+Focus groups
+
+Inferred feedback
+
+Internet behavior monitoring
+
+Text analysis or sentiment analysis
+
+Retail audit
+
+Feedback data analysis methods
+
+Statistical data analysis
+
+Visualization
+
+Big data
+
+Future prospects of feedback management technologies
+
+Crowdsourcing 
+
+Big data
+
+Conclusion
+
+
+
+
+Conclusion 
+
+
+As previously mentioned in this study, now – within existing economical formation when competition and fight for market share is getting tougher every day, feedback management technologies are the key to success for every entrepreneur. It is critically important not only to listen to, but to hear the voice of the customer. This is why, collection and analysis of feedback data allow to quickly respond to customer needs, to optimize business processes and to ensure that the company is moving into the right direction. All of us could see that the most striking commercial success was achieved through efficient analysis and response to customer expectations (apple, facebook, etc.).   
+
+The key feature of this study is an attempt to categorize, analyze and summarize all available feedback methods including most modern and innovative. Previously, this important topic was not well described in Russian scientific articles. The idea of this study is to contribute into scientific research of this topic and to create the framework for development of the set of best practices of enterprise feedback management implementations. 
+
+ 
+
+Bibliography 
+
+
+
+A. Ulyanovsky, 2008 – Marketing communications. 28 tools of the millennium – Moscow: Eksmo.
+
+V. Galperin, S. Ignatiev & V. Morgunov, 2008 – Microeconomics – Moscow: State University Higher School of Economics. 
+
+K. Bashket, 1996 – Business statistics – Moscow: Finance and Statistics  
+
+L. Harchenko, 1997 – Statistics – Moscow: Infra-M
+
+Morgan Brennan. How the authorities read your blogs: Forbes investigation // Forbes, 2012. №8: 34-36.
+
+ J. Howe. The Rise of Crowdsourcing // Wired, 2006. №4: 12-15.
+
+ Chris Hadoop. 'Big Data' Brighten BI Future // EWeek, 2011. №9: 23-25.
+
+ L. Chernyak. Big Data: new theory and practice // Open systems, 2011. №10: 45-56.
+
+Official site of the company Confirmit. -  - Solutions
+
+ Official site of the company TNS. -  – Intelligence Applied
+
+ Official site of the company GFK. – Types  - CUSTOMER EXPERIENCE AND LOYALTY
+
+
+
+
+

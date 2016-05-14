@@ -1,0 +1,361 @@
+National Research University
+
+Higher School of Economics
+
+
+
+Faculty of Business Informatics
+
+Department of Business Analytics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DRAFT
+
+of the paper
+
+«Project Management of Mobile App Development»
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Student Spartak Arutyunyan
+
+Group 471(2)
+
+Argument Consultant Bogdanova Tatyana K.
+
+Language Consultant Bagramyants Nonna L.
+
+
+
+
+
+
+
+
+
+Moscow 2013
+
+
+Abstract
+
+This project considers theoretical aspects and approaches to terms “project” and “project management”, analyzes the peculiarities of mobile application development project management and problems inherent to it.
+
+This work consists of  14 pages. It also includes enclosures in the form of concepts and graphs. The reference list includes 7 titles.
+
+Introduction
+
+Currently, there are a lot of various project management practices and methodologies. These techniques are necessary for organization and successful implementation of the tasks set, and basically for the survival of the organization. Today the market of mobile applications is growing rapidly. This leads to creation of many projects for development of applications for mobile platforms. These are the game-developing companies or independent teams, which are realizing just one project, or major organizations, which develop applications for corporate use. There is a huge number of examples, and it confirms the importance of the given problem. The development of a mobile application is a project just like the development of software for a big operation system. And therefore these projects need Project management as well.
+
+The vast majority of applications are currently developed for 3 major platforms - IOS, Android and WP7. The restart and the rapid development of the market of mobile applications began in 2008, with the release of IPhone and the launch of App Store. These events have significantly changed the landscape. Software applications took a different form and purpose. Many of them even substituted “big applications” for big operation systems. The market is still developing, so all developers rush to grab a niche, and therefore the application development time is very small (six months is an eternity for a mobile project). Also, such projects have very limited budgets. As a rule, companies do not invest much money in the development of applications. Independent teams also initially have limited budgets because of their independence. Therefore the topic of this research is important.
+
+The object of this study is the mobile application.
+
+The subject of this study is the specifics of projects management in mobile application development.
+
+The aim of this DRAFT is to analyze and identify the peculiarities and the most effective approaches to project management in mobile application.
+
+The objectives of this thesis are:
+
+Analyze the peculiarities of the mobile applications market
+
+Identify the specifics of the process of mobile application development
+
+Systematize the main project management methodologies
+
+Analyze the problems of use of the classical methodologies for the development of mobile applications
+
+Identify the differences in approaches to management of project of mobile applications and desktop applications development.
+
+The structure of this work is as follows: introduction, three chapters and a conclusion. The first chapter addresses the concept of mobile applications, the analysis of the history of the mobile applications market, and its specificity. The second chapter discusses the terms "project" and "project management", and covers the main classical project management methodologies, that are successfully used and implemented worldwide. The third chapter describes the management of mobile application development projects, the differences between project management in development of desktop applications, and the methodologies used in management of mobile projects.
+
+Chapter 1. Mobile applications market and its specificity. Formulation of the problem.
+
+This area is of great interest for research due to a number of its peculiarities. Management of mobile application development projects is a unique process. Firstly, it was impossible to develop methodologies designed exclusively for mobile projects, because the mobile application market was  new and unstudied. The characteristic features of these projects are: Limited time and budget; specific requirements, which differ from those for large applications; different structure and size of the team; different industry and a different culture as a result.
+
+The world of mobile development has restarted and began to flourish in 2008. This was due to the release of iPhone with IOS and the launch of the App Store. These events pushed the developers to rethink the purpose of mobile applications. New prospects and opportunities have opened. Companies began to struggle to take a niche. Some time later new mobile operating systems were launched, which created even more opportunities for implementation of projects on the new platforms. Accessibility and simplicity of these platforms allowed many developers to implement their ideas. There are very few requirements – a team and some money to buy a means for development. Figure 1.1. shows a graph with the forecast of the number of downloads and total profit from mobile applications. This clearly shows the rapid growth of the market.
+
+
+
+Figure 1.1. Mobile app market development forecast
+
+There are several basic types of mobile application developers:
+
+Organizations which specialize in the development of applications (both game developers and companies that manufacture custom applications);
+
+Independent development teams, consisting of several people (2 programmers and a designer);
+
+A department within organization, creating an enterprise application for the company;
+
+All these developers are implementing projects on the development of mobile applications, and generally pursue the same objectives: Create an application, enter the market and conquer a niche for the product.
+
+The market of mobile application is very specific and differs from the market of large desktop applications. Due to the ease of development of mobile applications and ease of market entry, applications are created in large numbers. And delays are not acceptable in these projects. Six months equals eternity in terms of mobile applications development. During this time, another developer (competitor) may come up with the same idea, and enter the market with a similar application, which would be fatal to the initial project. The process of management of a mobile application development project and the specificities of such process will be discussed in the third chapter.
+
+Chapter 2. Definitions of project and project management. Project management methodologies.
+
+“A project is a set of interrelated activities, undertaken to meet unique goals and objectives within certain time and funding constrains” – “Consulting Prim” company.
+
+Home construction, development of new equipment, business re-engineering, development and implementation of software, carrying out an advertising campaign or an election, preparation of a performance, introduction of a new taxation system, flight to the moon – all these are examples of activities, that have characteristics of projects. Since the concept of the project is primarily associated with purposeful modifications of large systems, the most general definition of the term "project management" (PM) is "change management." Some executives describe PM as a form of modern art, an arbitrary set of ideas and principles, aiming to overcome emerging challenges in the process, and successfully complete the project. Other people see PM exclusively from the standpoint of a scientific approach, assuming that all factors can be predicted, and all alternatives are analyzed in advance. Project management is planning, coordination and control of project activities to achieve its objectives within a given budget and time, with appropriate quality (“Consulting Prim”). The PMI body of knowledge for project management says:
+
+Project Management (PM) is the art of leadership and coordination of human and material resources throughout the life cycle of the project through the use of modern management methods and techniques to achieve the results, specified in the project on the composition and volume of works, cost, time, quality and satisfaction of the participants.
+
+Project management is the application of knowledge, skills, tools and techniques to the project activities to meet the project requirements, and expectations of the participants. To meet these demands and expectations it is necessary to find the best combination of the goals, timeframes, costs, quality and other characteristics of the project. PM is following clear logic that connects various knowledge areas and processes of project management (Moscow Branch of PMI). Thus, project management is a "straight interprofessional corporation of planning, management and decision-making processes in an interprofessional setting of goals."
+
+Project management is a totally unique process. There are no identical projects, but there are similar ones. Each project is always unique: objectives, timing, resources, finances, personnel and other parameters are different for each project. A project is a complex multiparameter mission. This mission requires its leaders (managers) to timely adopt the necessary measures at the right time. With a full understanding of all the consequences of their actions.
+
+The question then arises – how to correctly organize the project and track the stages of its implementation, if all projects are different and the same approach can not be used for all projects.
+
+This requires experts in network planning who will be able to do (in general terms) the following:
+
+Prepare a detailed plan for the project;
+
+Carry out a qualitative analysis of the implementation of the plan;
+
+Provide the top management with clear and understandable reports, needed for top management to make the right managerial decisions.
+
+At the preliminary stage, network planning experts should consider and formulate precisely what, in fact, the company wants to achieve, plan steps to achieve the goals and determine the resources required for the project.
+
+Only then comes the first part of the work: Drafting a detailed plan, which will be used to monitor the  progress of the project, make suggestions and check the results. There are two very important additions to this plan: The project network (a graph depicting the works and their dependencies) and a resource histogram (graphical display of the needs of the project in various resources at every moment in time).
+
+
+
+Then the project schedule is drawn, which contains the following:
+
+Detailed analysis of all the actions that are needed to complete the project;
+
+Time estimates (of course, realistic!) for each stage;
+
+Relationships between different types of work and the results of each phase.
+
+As a result, the aggregate of all these elements will give the answer to three main questions: What should be done, what the results should be, and by when. It is also important to know the answer to the question “how?” What resources are required for each type of work? Are these resources going to be available, when they will be vitally important?
+
+And finally, in project management, we must not lose sight of the control of the project implementation, which means consistent monitoring of execution of works. For only monitoring ensures objective (not speculative) assessment of the current status of the project.
+
+For this purpose there is a variety of reports on the progress of the project in relation to the initial plan. This allows doing the main thing: Separate the real from the imaginary. To do so, it is necessary to take into consideration all the changes in the project and constantly update the current state of the project. New tasks are developed (if necessary) based on this information.
+
+Management of the company, by using project management as a tool, will have the exact idea of what is really going on in this project, what should be paid special attention to, and what issues require immediate attention.
+
+PMI methodology
+
+The PMI methodology, formulated in the form of the PMBOK standard, is based on the concept of project management through a group of standard processes. However, the latest version of the PMBOK standard reflects a substantial correction of methodology in the direction of interactive methods. PMBOK is the body of professional knowledge in project management. This standard describes the essence of project management processes in terms of the integration between the processes and the interactions between them, and the purposes they serve. These processes are divided into five groups, called "groups of the project management processes." They are represented on Figure 2.1.
+
+The main procedures of project management according to this methodology are:
+
+Identification of project requirements;
+
+Setting clear and achievable goals;
+
+Balancing the competing demands for quality, capacity, time and cost;
+
+Adaptation of specifications, plans and approaches to the needs and concerns of different stakeholders.
+
+
+
+Fig. 2.1. Processes of the PMI approach
+
+IW URM methodology
+
+This methodology was developed and perfected to make every project successful - client's goals are achieved within the specified period, within a given budget and with required quality. A set of different procedures, documents and technologies that best suit a particular type of project are used for the implementation of the different types of projects.
+
+TenStep Project Management Process
+
+It helps project managers to successfully manage projects of all kinds. TenStep offers a step by step approach, starting with the simplest things and ending with very sophisticated techniques, which may be required for special projects. It also includes document templates.
+
+P2M methodology 
+
+Its basic principle is in its orientation not on a product or a process, but on improvement of the organization as a result of execution of projects. In other words, the methodology describes how to use the resulting project implementation experience in the development of the company. P2M is a system of knowledge, presented in the form of the "Guidelines for the management of innovative projects and programs of the businesses." The main advantage of P2M in relation to other schools of project management is that P2M has an emphasis on the development of innovation as an approach to program management and managing expectations of stakeholders. At the same time, the project in P2M is first of all a commitment of the project manager to create value as a product in accordance with the mission of the program and the organization.
+
+Traditional methodology
+
+The methodology consists of the following sequence of procedures of project management:
+
+Defining the project environment
+
+Formulation of the project
+
+Project planning
+
+Technical implementation of the project (except for planning and control)
+
+Control over the implementation of the project.
+
+PRINCE2 methodology
+
+PRINCE2 is a structured approach to project management. It is a method for managing projects within a clearly defined structure. PRINCE2 describes procedures to coordinate the activities of the project team in the development and monitoring of the project, and the procedures that are used to change the project or to cope with significant (unforeseen) deviations from the initial project plan. In the method, each process is defined with its key inputs and outputs and with specific goals and activities to be implemented, which gives an automatic control over any deviations from the plan. Due to division of processes into manageable stages, the method makes it possible to efficiently manage resources.
+
+Project management procedures in this methodology:
+
+Starting Up a Project (SU)
+
+Initiating a Project (IP)
+
+Planning (PL)
+
+Directing a Project (DP)
+
+Controlling a Stage (CS)
+
+Managing Stage Boundaries (SB)
+
+Managing Product Delivery (MP)
+
+Closing a Project (CP)
+
+
+
+Other procedures (team management, contract management, etc.) are brought “outside” the methodology and are called the instruments of the project manager. In addition, the methodology considers the "components" which consist of a Business Plan (Business Case), organization, planning, risk management, quality management, configuration management, control and management of changes. The structure of processes of this methodology is shown on Fig. 2.2.
+
+
+
+Fig. 2.2. The structure of processes of the PRINCE2 method
+
+MSF methodology
+
+Microsoft Solutions Framework (MSF) was developed by Microsoft as a methodology for delivering information technology solutions. MSF represents each phase of the project as:
+
+Envisioning;
+
+Planning;
+
+Stabilizing;
+
+Deploying.
+
+
+
+Fig. 2.3. MSF scheme
+
+Chapter 3. Management of a mobile application development project.
+
+Management of mobile development projects is quite a unique process. It has its own specific characteristics and is very different from management of "big" desktop applications development projects. Most of the traditional methodologies and approaches are often not applicable for such projects.
+
+We will further provide the main characteristics of management of mobile projects and also present and discuss the Agile methodology, which is called project management methodology in mobile development by many experts.
+
+The main differences between mobile projects and desktop projects are their sizes, deadlines and budgets. Mobile application developer companies do not allocate large budgets for development due to the small size of the projects and the amount of work. Deadlines are also critical for mobile projects. Developers can not extend the project for six months or a year. It is unacceptable for mobile applications and can lead to the failure of the entire project. First of all, the number of developers on the market is huge and anyone can come up with the same idea and implement it faster. Secondly, the platforms for applications are updated once a year, and the new version of devices like iPhone and iPad are released once a year, which does not allow developers to delay the production of their products and forces them to introduce their applications to the market as soon as possible.
+
+Also, mobile projects have a peculiar lifecycle, which is different from one for desktop applications. It is "more mobile", so to speak:
+
+Classic lifecycle:
+
+System analysis;
+
+Requirements analysis;
+
+Drawing up of documentation;
+
+Design;
+
+Coding;
+
+Testing;
+
+Support.
+
+Mobile applications:
+
+Coding of prototypes starts at the stage of sales;
+
+Requirements analysis and design are very rarely made separately, part of the analysis and coding are performed simultaneously;
+
+After the application is approved by the AppStore, further support of the application may not be needed anymore;
+
+Documentation is rare in such projects.
+
+The main recommendations for management of mobile projects:
+
+Develop a flexible, easy process of requirement management, which allows to quickly rewrite and recoordinate everything;
+
+Regularly demonstrate the application to the customer;
+
+The code has to be written while keeping in mind that everything can change and the code will have to be rewritten;
+
+Understand how a typical application should behave.
+
+Agile methodology
+
+This is one of the most popular methodologies today. Main credo of Agile can be defined as "Flexibility, communication and result, result, result." The methodology adheres to the following principles:
+
+People are more important than processes;
+
+Outcome (software) is more important than its description;
+
+The customer should be involved in the project as much as possible;
+
+Changes on the fly are "natural."
+
+Limitations of Agile methodology:
+
+Fixed Price projects. It is impossible to adequately assess the project if late gathering of requirements is implied.
+
+Software projects that perform critical works. Standardized templates and processes are important for these projects, as they allow to create software of predetermined quality.
+
+Projects in a completely new area. Without knowing the specifics of the subject, it is necessary to start a project with a deep analysis, gathering of requirements, prototyping, fixing of architecture, etc. This is contrary to the principles of Agile methodology.
+
+Projects of large size and complexity, with long period of development and implementation.
+
+Low qualification of the team.
+
+Agile is so widespread because most of the projects meet these requirements. Indeed, average teams perform noncritical projects of average complexity in familiar business domains. The diagram below is given for better understanding of Agile concepts (Figure 3.1).
+
+
+
+Figure 3.1. Agile concept 
+
+The expected results
+
+Future diploma work considers in-depth analysis of methodologies used in project management, analysis of successful mobile application development projects , analysis and identification of efficient approach to management and its testing on a real mobile application development project.
+
+Conclusion
+
+The main focus of this paper is determining differences in approaches to management of project of mobile applications and desktop applications development. Also classic methodologies and reasons for rejecting them in connection with existing restrictions and differences in approaches to management of mobile application development projects were analyzed. 
+
+Reference List
+
+C. F. Gray, E. W. Larson - Project Management. The managerial process.
+
+Project Management Institute. PMI PMBOK (4th Edition).
+
+V. V. Bogdanov – Project management in Microsoft Project 2007.
+
+V. Cuperstein – Microsoft Project 2010 in Project Management.
+
+V. V. Bogdanov – Project Management. Corporate system – step by step.   
+
+ – Agile Manaegment
+
+ – Denis Cyplakov lectures. “Mobile app development Project Management”. 
+
+
+

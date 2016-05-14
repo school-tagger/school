@@ -1,0 +1,328 @@
+State University
+
+Higher School of Economics
+
+
+
+Faculty: Business Informatics
+
+
+
+
+
+DRAFT
+
+of the paper
+
+
+
+“Identification and formalization of   business processes of the organization of development and maintenance of railways”.
+
+
+
+
+
+
+
+Student: Adamchuk Yulia Andreevna
+
+Group: 475(1)                                             
+
+Argument Consultant:________________________
+
+Style and Language Consultant:________________________
+
+
+
+
+
+
+
+2013
+
+Contents:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+This academic project deals with the main aspects of a computer-aided design of business processes on the example of creation the major procedure for the company of development and maintenance of railways. The main emphasis will be placed on the features of identification and formalization for basic procedure of the organization using a system approach and an Architecture of Integrated Information Systems (ARIS) methodology. This study considers the problems associated with major stages of discernment and creation of the project and development business processes of company. There will be introduced the description of the project, its functions, main purposes and objectives, structure and ways of achieving success. 
+
+The introduction part is devoted to the historical background of the system approach and justification of the topic chosen for my graduation work. The second part entitled “Key definitions” presents the main terms associated with business processes and the system approach. The third part presents two approaches to the identification of business processes of an organization and some findings and benefits of the system approach. In the next part, can find a brief description of the ARIS methodology and comparative analysis of the opportunities of tools such as ARIS, BPwin and Erwin, Visio. Then, it would be necessary to review features of organization, which business processes are investigated in this paper. In the next part will be introduced the concluding part, which contains a review of key points touched upon in this paper. 
+
+The main result of the study lies in identifying and formalization the most relevant and efficient models of business processes of the organisation «SetStroyEnergo» for a management efficiency increase.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+
+
+Transport sector has a strategic meaning for the Russian Federation.  Role of a rationalization of different transport modes increases significantly due to the fact that it is important part of the market infrastructure, in the context of development the market relations. Undoubtedly, for Russia,  which is the largest country in the world, a railway transport is a link of a single economic system, provides a stable activity of an industrial enterprise,  provides an opportune supply of an important goods to the most remote areas of the country, also it is the most cheapest transport for millions of people. Therefore, the railway transport is a systemic industry of Russian economic that largely forms additional demand in many related industries and all sectors of economics depend on the work of railway transport. So, the above - listed cause led to selection for this academic project the company of development and maintenance of railways.
+
+The study of «SetStroyEnergo» organization will be placed on the features of identification and formalization for basic procedure of the organization using a system approach and Architecture of Integrated Information Systems (ARIS) methodology.
+
+Before analyzing the system approach, firstly it is necessary to review the historical background this method of identification business processes.
+
+Scientists believed that the first step towards the formation of a systems approach for solving problems of the development of mankind made an Austrian biologist and author of "general system theory" Ludwig von Bertalanffy, who in 1941 proposed this term. Bertalanffy published his most important work "General System Theory" in 1969. There he formulated the objective of a new science that is the development of the mathematical apparatus of the study of systems of any physical nature and the establishment of the isomorphism of laws in different areas of knowledge. Such outstanding scientists as Russel Ackoff, U.Churchman, Fred Emery, Jay Wright Forrester and many others also made a contribution to the further development of system theory. However, it should be emphasized that many of the system ideas were expressed much earlier by Russian scientist A. A. Bogdanov in his book "Tectology. Universal Organization Science "(1922). 
+
+Nowadays the consideration of the organization as a system is generally accepted. This fact inevitably leads to the necessity of application of a system approach while solving problems related to the study of activity of organizations. Moreover, among managers and consultants there are ambiguous or inaccurate interpretations of the terms "system", "system approach", "business process", different views on the use of scientific methods to solve practical problems related to the activity of the organization. 
+
+
+
+
+
+	
+
+Key Definitions 
+
+In order to make clear the points discussed later in this essay it is necessary to define the basic concepts concerning business processes and system approach. So this paragraph will be devoted to the definitions of the following concepts: 
+
+ a system; 
+
+ a system approach; 
+
+ an organization; 
+
+ integrity; 
+
+ business processes. 
+
+The primary definition of a system is a set of two or more elements that satisfies the following three conditions:
+
+1) The behavior of each element has an effect on the behavior of the whole. 
+
+2) The behavior of the elements and their effects on the whole are interdependent. It means that the way each element behaves and the way it affects the whole depends on how at least one other element behaves. 
+
+3) However subgroups of the elements are formed, each has an effect on the behavior of the whole and none has an independent effect on it. Therefore, the elements of the system are connected in a way that the formation of independent subgroups is impossible. [ 1] 
+
+According to Ackoff, the following important features result from the definition of a system: 
+
+•	Each part of the system has essential properties that it loses in case of separation from the system; 
+
+•	Each system has certain essential properties that are not possessed by any of its parts. The essential properties of the system as a whole stem from the interaction of its parts, and not from their actions. 
+
+Consequently, when the system is taken apart, it loses its essential properties. A system is a whole that cannot be understood through the analysis. Therefore, an application of a system approach must be started with the stages of synthesis. 
+
+ On the assumption of Ackoff's definition a system approach is formed by the following sequence: 
+
+• identification of a system, a part of which is a subject that needs to be explained; 
+
+• explanation of the behavior or properties of a system; 
+
+• explanation of the behavior or properties of a part of the system relying on its role (roles) or function (functions) in the whole that contains this part. [1]
+
+The first two stages of the system approach are a synthesis of a system. And the method of analysis is used at the third stage. A synthesis is always precedes an analysis in system approach. The method of synthesis focuses on the functioning of the system. It gives understanding (explanation) of the system. 
+
+Integrity is a generalized description of objects with complex internal structure. The concept of integrity expresses integration, self-sufficiency, independence of these objects, their opposition to the environment related to their internal activity; it describes their qualitative peculiarity, due to their distinctive specific patterns of functioning and development. [2]
+
+Integrity characterizes a qualitative peculiarity of the system, due to its distinctive specific patterns of functioning and development. Integrity reflects the fundamental irreducibility of properties of the system to the sum of the properties of its component parts and the non-deducibility of the properties of the whole from the properties of the latter. 
+
+Thus, the correct application of a system approach to the study of a system is possible only with provision of the integrity of the study. 
+
+Business process is a chain of coherent, repetitive actions, in the result of which the company's resources are used for the processing of the object (physically or virtually) in order to achieve specific measurable results or products to satisfy the requirements of internal or external customers. [3]
+
+Any business process has a supplier and a customer. The customer can be either internal or external (see Chart 1). Relying on the definition of a business process, all actions within the organization (company) can be considered either as a business process or as a part of it.
+
+
+
+
+
+
+
+Chart 1. Model of business process.
+
+An organization is a technical and social economic system. The concept of the organization (organizational system) is associated with a systematic, conscious union of actions of people who pursue the achievement of certain goals through the implementation of specific actions. [3]
+
+
+
+Approaches to the identification of business processes
+
+From the methodological point of view, there are two main approaches to the identification of business processes of an organization.
+
+The first one, which is the most frequently used in practice, consists in making a list of the organization's processes based on the analysis of documents, conducting of interviews, surveys, workshops with officials of the organization. The view of the organization's activities practically "from within a system" is the basis of this approach. 
+
+The second one is a system approach, on the contrary, implements the view of the organization's activities "from the outside of a system." The identification of processes begins with the definition of strategies and strategic objectives defined by the interested parties considering their expectations of the results of the organization's activities and finishes by the identification of the results' sources, that is, actual organization's processes. 
+
+These two approaches (see Chart 2) are significantly different. They are different not only in the efforts that should be made to obtain results, but also in the attitude to the already obtained results. 
+
+
+
+Chart 2. Approaches to the identification of business processes.
+
+The first approach gives fast results, in the form of a list of the organization's processes, but bears the subjective views of informational sources and is mechanistic: it begins with the decomposition of the whole into elements, that is begins with the analysis of the system. It's not a system approach and it cannot ensure requirements of the integrity of identification of processes of an organization. 
+
+It is quite natural to start with the synthesis of the system applying the second approach. That means that firstly we need to determine what will be included in its composition. Depending on the purpose of research and complexity of the organization a whole organization or its part can form the system. An organization, depending on its type (financial conglomerate, holding company, an industry group, an independent company, and so on) can be considered, either as a whole system itself or as a number of different systems. 
+
+After synthesis of a system it is necessary to determine its behavior. Identify and describe the relationships of the organizational system with the environment of the direct influence (see Chart 3): with customers, suppliers, competitors, shareholders, banks, public authorities, etc. 
+
+
+
+Chart 3. The relationships of the organizational system with the environment.
+
+Additionally, external environment of the indirect influence can be included in the description. It includes: the political situation, normative legal acts, social and cultural factors, economic trends, environmental factors, scientific and technical factors and many others. 
+
+As a result of the research of the environment we should create a strategy (or strategies) of behavior of the organization and define its strategic objectives. Strategies and objectives that were designed in that way should allow the organization to adapt itself to the characteristics of the environment and to oppose the influence of negative factors, including by force of reorganization of the internal environment (in particular, of processes). 
+
+Thus, only the second of the methodological approaches stated above (see Chart 2) corresponds to the definition of the system approach and provides the integrity. 
+
+Based on what have been discussed, can draw the following findings: 
+
+1. The concept of "the system approach" is inseparable from the concept of "the integrity of a system". 
+
+2. A system approach to the identification of the organizational processes consists of the following steps that ensure requirements of the integrity: 
+
+A synthesis of a system is an identification of the elements that are included in the organizational system being under consideration, and of the elements related to the environment; 
+
+Identification and description of the interaction of the organizational system as a "black box" with the external business environment (inputs and outputs); 
+
+Identification of strategies and objectives of the organization, which should ensure its successful existence in the environment and the resistance to the negative environmental factors; 
+
+Identification of processes that should comply with the relevant roles in the interaction of the organization with the environment and be aimed to achieve strategic objectives. The inputs and outputs of processes are inputs and outputs of the organization as a "black box"; 
+
+Identification of the whole list of processes (main and auxiliary, of management or development) based on the view "from within a system", and on the industrial and international experience (e.g. standard and reference models); 
+
+Combination of the two previous steps to complete the identification of processes. 
+
+3. A system approach to the identification of processes is used in the initial determination of the organization's processes (if the organization is not involved in its own processes) as well as in the restructuring of processes caused by changes in the environment and in strategy. 
+
+
+
+Architecture of an Integrated Information Systems (ARIS) methodology
+
+One of the modern methodologies of a computer-aided design of business processes is the Architecture of Integrated Information Systems (ARIS) methodology. This methodology contains approximately one hundred different business models, used for describing, analyzing and optimizing the various aspects of the organization structure.
+
+In consideration of a large number of business models the ARIS methodology divides them into four groups:
+
+ group.
+
+This group consists of models, which describe the organizational structure of the company, as well as other elements of the internal infrastructure of the organization.
+
+Function group.
+
+Function group consists of models, which used to describe the company's strategic goals, functions, and other elements of the functional organization.
+
+Information group.
+
+Next section, «Information group» consists of models, which describe the information using in the organization.
+
+Processes group
+
+This type of group consists of models, which used to describe the business processes and the various relationships between the structure, functions and information.
+
+Comparative analysis of the opportunities of ARIS for a computer-aided design of business processes, BPwin and Erwin, Visio.
+
+
+
+So, analyze differences between the ARIS opportunities for a computer-aided design of business processes, the BPwin and Erwin, the Visio opportunities, can find that the ARIS methodology is the most advanced and modern methodology from above – listed and allows to the users to perform many functions by computer – managed.
+
+
+
+
+
+Conclusion
+
+As a result of this research is expected the relevant and efficient models of business processes of the organization - «SetStroyEnergo» for a management efficiency increase. To achieve this goal the main emphasis will be placed on the features of identification and formalization for basic procedure of the organization using the system approach and an Architecture of Integrated Information Systems (ARIS) methodology. 
+
+Based on what have been discussed can draw the following conclusion about the system approach and an Architecture of Integrated Information Systems (ARIS) methodology. Firstly, the first approach, which includes making a list of processes having a significant meaning for an  organization, gives fast results, but bears the subjective views of informational sources and is mechanistic: it begins with the decomposition of the whole into elements, that is begins with the analysis of the system. In second turn, strategies and objectives that were designed with using the system approach allow the organization to adapt itself to the characteristics of the environment and to oppose the influence of negative factors. Therefore, only the system approach provides the integrity. 
+
+The same way, if turn to comparative analysis of the opportunities of ARIS, BPwin and Erwin and Visio, can find that the ARIS methodology is the most advanced and modern methodology from above – listed.
+
+So, use the most innovative and improved tools for study aim to achieving visible results in short terms.
+
+
+
+
+
+Bibliography
+
+
+
+Ackoff  Concept of Corporate Planning. - New York: Wiley-Interscience, 1970
+
+The Great Soviet Encyclopedia
+
+Andersen B. Business Processes. Instruments of improvement. - Moscow: RIA Standards and Quality, 2003
+
+Шеер А.-В. Бизнес-процессы. Основные понятия. Теория. Методы. –М.: Весть-МетаТехнология, 1999
+
+Каменнова М.С., Громов А.И., Ферапонтов М.М., Шматалюк А.Е. Моделирование бизнеса. Методология ARIS. – М.: Весть-МетаТехнология, 2001
+
+А.И.Громов, В.Г.Чеботарев. Применение системного подхода к идентификации процессов организации //Информационные технологии в проектировании и производстве. №3. -М. Изд-во ФГУП «ВИМИ», 2008.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,412 @@
+National Research University
+
+Higher School of Economics
+
+
+
+Faculty of Business Informatics
+
+Department of Business Analytics
+
+
+
+
+
+DRAFT
+
+of the paper
+
+“Optimization of the financial market trading algorithms”
+
+
+
+
+
+
+
+Student: S.O. Shirokov
+
+Group: 474(2)
+
+Argument Consultant: A.P. Kirsanov
+
+Language Consultant: M.A. Volkova
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Moscow, 2013
+
+Abstract
+
+One of the most perspective directions on the financial market is an algorithmic trade and creation of trade systems. There is a set of various financial instruments and tactics of trade. But the market changes every day and the problem of optimization of trade strategy become actual under new realities of the market.
+
+In this work the structure of trade algorithms, the rules of their construction and optimization under various tools will be considered. Also the analysis of indicators of their efficiency and an assessment of their stable work will be performed.
+
+The optimized parameters of trade algorithms have the term of stable work and recommendations about an assessment of the importance of these parameters and the temporary horizons of their working capacity will be made in the research.
+
+
+
+
+
+
+
+Introduction
+
+Today there is a set of trade algorithms for the automated transactions or giving the signals of the possible profitable transaction on financial markets. Each trader chooses the most effective, in his opinion, algorithm of trade due to the tool suitable for it. Prior to preceding with a new financial instrument the necessity to optimize trade algorithm on this concrete tool and the current state of the market arises.
+
+The main method of the trade algorithm optimization is the search for numerical or logical values of parameters of algorithm, choosing more profitable strategy on a limited interval of time. But at the same time there is a complex problem of a choice of parameters of the algorithm suitable for optimization, also a choice of already optimized values of these parameters, which will allow using this algorithm for profitable trade.
+
+Moreover there is a problem of verification of the significance of the optimized parameters and definition of the system capacity horizon periods.
+
+The research objective is the definition of methods of optimization of trade algorithms, consideration of approaches to allocation of parameters for optimization, and also the ways of completion of algorithm for more effective optimization.
+
+The research tool will be the specific software, which provides an access to the trade on the financial market, and also the tools for the description of trade algorithms built in it, as well as their testing and optimization.
+
+In the course of the research a comparison of various construction approaches and optimization of trade algorithms an assessment of their efficiency and the experiments for receiving practical experience of application of results of work will be conducted.
+
+Thereafter, firstly, the trade algorithms for various financial instruments will be optimized in the practical part of the research. Secondly, the recommendations regarding methods of trade based on these algorithms will be presented. Thirdly, the calculated temporary horizons of application of data of systems will be provided.
+
+In the conclusion the recommendations concerning the practical application of the received results of the research will be made.
+
+Financial markets and access to them 
+
+The financial market in the widest sense represents a certain system of the economic relations for an exchange of the economic benefits.
+
+The main representatives of the financial markets are as follows:
+
+1) Securities market which includes bond markets and actions
+
+2) Market of production financial tools, such as option, future, etc.
+
+3) Forex. 
+
+
+
+Each of these markets represents the pattern of satisfying the acquiring requirements and sale of goods worldwide. The daily auction volumes on these markets reach trillion dollars, and the number of market insiders runs to tens of millions.
+
+Brokers
+
+An access to these markets is provided with the Internet, and trade terminals represent appendices for computers and mobile devices.
+
+The broker or broker firm provides an access to any of the financial market. The broker is an intermediary in the market between the seller and the buyer.
+
+Brokers provide an access to the auction in the financial markets, and also provide the conclusion of transactions and observance of obligations of the parties.
+
+Likewise, brokers supply traders with the necessary software for an access to the auction, grant the trade loan and store the client’s funds.
+
+Trade platforms
+
+There is a set of trade platforms for implementation of trade operations on the Internet. Within the research only trade platforms with built-in means of the description, testing and optimization of trade algorithms will be considered.
+
+The most popular representatives of such platforms are the following ones:
+
+1) MetaTrader 4 and 5;
+
+2) Quick;
+
+3) MetaStock.
+
+Also there is a set of paid trade platforms, which have additional tools of the analysis of the market and optimization of trade algorithms.
+
+During the research the trade MetaTrader 4 platform will be used as it is the most popular, convenient and free representative of this software class.
+
+MT4 trade platform
+
+The MetaTrader4 (MT4) trade platform is the free software for an access to quotations and trade in the FOREX and the contracts CFD.
+
+The program presents three types of Quotations:
+
+1) Bars
+
+2) Candles
+
+3) The line connecting the prices of bars closing 
+
+In order to describe the trade algorithms systems the candlesticks charts of the quotations and the MQL 4 (MetaQuotes Language 4), which is built-in MT4, will be used. This language allows describing trade algorithms, and also creating the automated trade systems, scripts and indicators for the technical analysis on their basis. Also, the free tester of trade algorithms is built in MT4 on the basis of the historical data sets, which have been especially prepared by the MetaQuotes Company.
+
+The most important issue is the possibility of optimization of parameters of algorithms, and also representation of key indicators of trade when testing on historical data.
+
+MQL4 programming language
+
+MQL4 is a special programming language in the software environment of the trade MT4 platform. This high-level programming language has built-in functions for the appeal to quotations and other indicators of trade information, such as a spread, a swap, the amount of slipping, etc. Besides, it contains initialization functions of all possible trade operations.
+
+The programs created with this language can be used only in the trade MT4 platform, but within the research on optimization of trade algorithms this tool appears to be convenient, familiar and available to the researcher.
+
+Description and optimization of trading algorithm
+
+The trade algorithm is a sequence of actions, which according to market conditions opens the transaction on purchase or on sale in a certain volume, and also closes this transaction under certain market conditions.
+
+The main units of the trade algorithm are:
+
+The case analysis on the market or reviewing of the trading terms;
+
+Determination of transactions volume;
+
+Evaluation of buying- in levels.
+
+     	In other words, it defines when, at what price and in what quantity it is necessary to buy or sell one or another of the financial instrument.
+
+     	Also the trade algorithm can optionally encompass mathematical methods of capital management, risk burden, open transactions tracking, etc.
+
+The description of the chosen algorithms and tools
+
+     	Within the research any trade tool will be accepted, as optimization process under each of them does not differ.
+
+     	The trade MT4 platform, which is offered by the company "Finam Ltd." that provides an access to the Forex and CFD market. Forex is the world currency market where exchange rates act as trade tools, and transactions represent an exchange of one currency for another. CFD is the market of contracts on a difference of the prices of other trade tools, which allows speculating with real stock prices, bonds, futures and options without feasible purchase of these papers.
+
+     	These markets represent the trade tools that vary in nature, which means their trade index for identical trade algorithms are significantly distinguished. For the trade algorithms optimization we will choose one trade tool from each market to show all features of optimization strategy of trade algorithms in these markets.
+
+     	EUR/USD as the most popular currency pair in the world will represent the Forex, and the CFD market will be represented by the contracts on the prices of Sberbank’s stocks, as one of the most volatile and lenient to the technical analysis of financial instruments.
+     	The two quite popular trade algorithms are going to be considered and their testing on the chosen financial instruments will be conducted.
+
+     	The first algorithm is based on false breakdowns of support and resistance levels. The main idea of this algorithm narrows down to the fact that the price in any financial market stays for 70% of time in the price channel and only 30%is in a trend, that is in the directed movement up or down. It means that in 70% of cases the price comes back to limits of the price channel after bursting the price band. This fact also will be applied in creation of the first trade algorithm.
+
+     	The second algorithm uses another aspect of the financial market, which is price feed gaps. There are strategies based on the usage of information on price gaps. The trade strategy relying on the assumption that price gaps are bridged in 80% of cases will be used. 
+
+     	Now the concepts of trade conditions will be described in more details.
+
+The algorithms based on false breakdowns of price channels
+
+     	To describe this trade algorithm it is important to designate the understanding of the price channel, breakdown of the price channel, false breakdown of the price channel and the breakdown direction.
+
+     	The price channel is an interval between the prices of a financial instrument in which the price varies. In other words, if a long period of time is taken, the price does not exceed the limit of this range of the prices.
+
+The breakdown of the price channel is a price overrun out of the price range limits in which the price had been changing through the long times pan.
+
+     	The false breakdown of the price is the breakdown of price range after which the price comes back to this price channel.
+
+     	The direction of breakdown or false breakdown is the direction in which the price exceeds the existing price range. If the price exceeds the supreme price range, that is an upper breakdown.
+
+     	In the research price range will be determined so that the ceiling price for a certain period, and the bottom limit minimum price for the same period will be the top limit of the price.
+
+     	The stocks will be sold, if the price punches up price range, and then returns back and buy if the price punches down price range and then returns back.
+
+     	The transaction will be closed achieving the fixed profit and losses ratio of the transaction.
+
+
+
+Figure 1
+
+The algorithms based on price gaps
+
+     	The price gap is a gap in price feed in which the preceding price strongly differs from the succeeding one.
+
+     	The gaps arise for two reasons:
+
+strong impact of an external economic situation on a financial instrument, which happens out of working session in the market. In this case the opening of new trading session will begin with a price gap.
+
+great prevalence of buyers or sellers on the market demands for purchase or sale at the price, which differs from the current one. In that case the price leaps towards demands, omitting several price points. (Point is the minimal division of the financial instrument price change).
+
+     	The algorithm will trigger the purchase transactions if there is a down gap that is the price jumping strongly below the previous mark. Closing the transaction will proceed through a certain period of time.
+
+
+
+Figure 2
+
+Testing trade algorithms
+
+     	In order to test the chosen algorithms there will be used the MQL4 programming language, built in the trade MT4 platform and the trade strategy tester.
+
+     	For testing a time interval in two years is chosen, from 01.01.2010 to01.01.2013 will be chosen. Only the prices of opening and closing candles of the quotations chart will be considered.
+
+     	The testing method which uses the opening prices considers each change in the price only when opening a new candle of the set time interval, considering thus the opening prices, closing, the ceiling and minimum price of each candle of the schedule.
+
+     	This method is good, as the both strategies in the analysis of conditions on transaction consider only these indicators.
+
+     	Before testing algorithms, the indicators of results of trade system work will be described:
+
+1) Total net profit – a difference between final and initial value of the deposit;
+
+2) Gross profit – the sum of results of all transactions, which made the profit;
+
+3) Gross losses – the sum of the results of all transactions, which yielded a loss;
+
+4) Profit factor – the general profit / the general loss;
+
+5) Expected payoff – the profit/number of transactions;
+
+6) Average profit trade – the general profit/number of profitable transactions;
+
+7) Average loss trade – the general loss/number of unprofitable transactions.
+
+On these indicators all results of testing of the trade algorithms will be estimated.
+
+
+
+      	The testing of the chosen trade algorithms showed the following results:
+
+1) Algorithm of the trade from the false breakdowns of price ranges
+
+• On a currency pair EUR/USD
+
+
+
+Figure 3
+
+
+
+• On contracts on a difference of the prices of the Sberbank’s stocks
+
+
+
+Figure 4
+
+
+
+2) Algorithm of the trade from the price gaps
+
+• On a currency pair of EUR/USD
+
+
+
+Figure 5
+
+
+
+• On contracts on a difference of the prices of the Sberbank’s stocks
+
+
+
+Figure 6
+
+
+
+     	Apparently from the results of testing, the algorithms work with rather big distinction. The algorithm of trade from the price gaps showed much better results, than the trade from the false breakdowns. Also there is an essential difference between the work of algorithms on various financial instruments.
+
+Allocation of optimization parameters
+
+     	In the algorithm based on breakdown of price channels, the following parameters for optimization will be allocated:
+
+1.Theminimum time interval of the price channel. We will consider the emergence of the price channel, only on the expiration of this quantity of time;
+
+2. The minimum size of the price channel;
+
+3. The size the breakdown that is on howthe price went beyond the channel;
+
+4. The sizes of the fixed profit;
+
+5. The sizes of the fixed loss;
+
+6. Considered time intervals of the prices, timeframes (15 minutes, 30 minutes, hour, etc.).
+
+
+
+     	In the second algorithm the following parameters will be optimized:
+
+1. The minimum size of a price gap;
+
+2. The quantity of time before position closing;
+
+3. Considered timeframes of the prices.
+
+Optimization of trade algorithms
+
+     	For optimization of the trade algorithms also the internal means of the trade MT4 platform will be used.
+
+     	Algorithms will be optimized on the same time interval.
+
+     	The optimization will happen also at the opening prices, thus for the selection of the best parameters the “genetic algorithm” of selection of the parameters, built in the optimizer, will be used.
+
+     	All results of optimization of algorithms will not be given. There were chosen those results, which showed the greatest profitability on the chosen time interval or made the greatest profit.
+
+     	Testing the optimized trade algorithms yielded the following results:
+
+1) The optimized algorithm of trade from the false breakdowns of price ranges
+
+• On a currency pair of EUR/USD
+
+
+
+Figure 7
+
+
+
+• On contracts on a difference of the prices of Sberbank’s stocks
+
+
+
+Figure 8
+
+
+
+2) The optimized algorithm of trade from the price gaps
+
+• On a currency pair of EUR/USD
+
+
+
+Figure 9
+
+
+
+• On contracts on a difference of the prices of Sberbank’s stocks
+
+
+
+Figure 10
+
+
+
+     	After optimization the trade algorithms in all cases show the positive results. Also the difference between the quality of work of the algorithms among themselves is stable. But now the algorithm of the trade from breakdowns shows the higher profitability, than the trade from the gaps. The difference of quality of work of algorithms on various tools increased.
+
+Conclusion
+
+     	In the course of the work the problem of trade algorithms optimization on the financial markets was specified. Also, the examples of the trade strategy structure and ready-made solutions were given. 
+
+     	The consideration of system of electronic access to trading platforms, as well as the instruments of creation of the automated trade systems allowed conducting research on the efficiency of popular trade algorithms.
+
+     	The performed testing of one of the most popular trade strategies on the most popular financial instruments showed the differences between approaches to the trade and their efficiency in the market.
+
+     	Also the examples of optimization of the trade algorithms and results of work of system with the optimized characteristics were given.
+
+     	In the framework of the research under the graduate qualification work the examples of other trade algorithms will be also given. In the work the examples of optimization of numerical parameters of ready algorithms will be reviewed. Also the influence of changes in conditions of an assessment of the market, decision-making on the transaction opening, control methods of open positions, calculation of volume of transactions, exit conditions from the transaction, and also combinations of all these changes will be also reviewed. Moreover, the methods of an assessment of stability of ready systems and the importance of the optimized parameters will be rendered.
+
+	The results of this research can be allegedly useful in an assessment of efficiency of trade algorithms for traders, who are engaged in algorithmic trade in the financial markets. The recommendations, which will be offered in the final qualification work will help traders to estimate the efficiency of optimized trade algorithms and their reliability at trade.
+
+
+Bibliography 
+
+Katz, J.O., McCormick, D.L. (2000) The Encyclopedia of trading Strategies. New York City: The McGraw-Hill Companies, Inc.
+
+Lien, K. (2006) Day Trading the Currency Market: Technical and Fundamental Strategies to Profit from Market Swings". London: John Wiley & Sons, Inc.
+
+Weissman, R. (2005) Mechanical Trading Systems: Pairing Trader Psychology with Technical Analysis.London: John Wiley & Sons, Inc.
+
+Williams, L. (1999) Long-Term Secrets to Short-Term Trading.London: John Wiley & Sons, Inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

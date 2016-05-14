@@ -1,0 +1,300 @@
+Scientific Research University
+
+Higher School of Economics
+
+
+
+
+
+
+
+Faculty: Business Informatics
+
+Department _______/_________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DRAFT
+
+of the paper
+
+«Project management of specialized software implementation in the bank»
+
+
+
+
+
+
+
+
+
+
+
+Student: Natalia Mazurina
+
+Group: 471
+
+Argument Consultant: Bogdanova T. K.
+
+Style and Language Consultant: Klepko E. Y.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2013
+
+
+
+
+Abstract
+
+This paper is dedicated to the topic of the graduation work entitled “Project management of specialized software implementation in the bank”. The introduction part presents the actuality of this topic with issues that will be discussed in the essay. In the next three paragraphs key definitions and features of the project, project management, IT-project, the project lifecycle and the models of lifecycle can be found. The fifth paragraph describes the banking area and the main problem (how the choice of the lifecycle model affects the whole process of the software program implementation in the bank). The concluding paragraph summarizes key ideas and results touched upon in this essay. 
+
+
+
+
+
+
+
+Introduction
+
+	This paper is the project of the diploma which is entitled ‘Project management of specialized software implementation in the bank’. 
+
+Project management today differs from project management in the 1950s when it was firstly applied by building and engineering companies as a tool for effective organization of their new activities. Now project management is used almost in all areas, as it maintains the economic activity of organizations. 
+
+Since the information technologies began to develop, a lot of companies have started to use them for the maximizing their profitability. Especially it is very important for the banks because they try to be more competitive by using special bank software that appeared not so long ago; therefore, the idea of good IT project management is very popular nowadays. 
+
+Because of the specific character of the banking area and features of IT-projects, project management of software implementation or creation has a lot of difficulties: shifts in timing, improper quality etc. It is important to notice that all project problems affect project value. There is a suggestion that unsuccessful project realization is caused by planning its lifecycle as a ‘waterfall’ (each step starts only when the previous one finishes). The situation may be improved by iterative model (for example, by the methodology Scrum).
+
+The main purpose of this paper is to describe characteristics of the popular models of the IT-project lifecycle and the new methodology – Scrum. The subject of investigation is the Bank “XXX” which implements special software for automation the level of a client’s solvency and the decision making solution about giving the credits.
+
+Chapter 1. Theoretical issues concerning the “Project management”
+
+1.1. Definitions and characteristics of the project and project management
+
+To analyze the problem of this work, it is important to define the key terms concerning project management. The terms related to the diploma are: “the project”, “project management”, “IT-project”, “the project lifecycle” (and its models). 
+
+Earlier business processes were dominant in organizations (the business process refers to the repeating steps which aimed at achieving a certain result). However, now there is a necessity of creating unique products or services (i.e. projects) in order to solve some kind of problem. It is caused by the rapidly changing environment, so the prior approaches stop to work well in new conditions. Except the unique, the project has other characteristics:
+
+A particular aim (desired results, services or products);
+
+A defined timescale (projects have established start and end date);
+
+A wide range of required resources (necessary amount of labor, funds, time and equipment);
+
+Involved people from different departments (a synthesis of various activities). 
+
+(Roberts, 2007), (Westland, 2006).
+
+Consequently, the project is a ‘temporary endeavor undertaken to create a unique product, service or result’ (PMBOK Guide, 2008, p. 5). It should also be noticed that the project is done only one time, so it can’t be repetitive. 
+
+In the past, projects were managed only by their creators such as architects, engineers and builders; as a result, project management was popular only in a few industries. Since last century the work environment has changed, now to be successful in business and also to improve personal skills, people should learn modern project management concepts and techniques. As a result, project management now is more popular than earlier.
+
+ So, project management is 
+
+‘…the application of knowledge, skills, tools and techniques to project activities to meet the project requirements’ (PMBOK Guide, 2008, p. 5).
+
+ ‘…the process of guiding a project from its beginning through its performance to its closure’ (Pornty, 2007, p. 14).
+
+There are a lot of people involved in the project. They cooperate with each other and have the same goal – to execute the project successfully. The project team consists of the customer, the sponsor, the project manager, and the project team members. The customer refers to a business unit which defines specified requirements of the project and the basic schedule. The sponsor is a group of people (or just an individual) that provides financing for the project. In some cases a company can be both the customer and the sponsor simultaneously. The project manager is the person responsible for completing of all phases of the project. For Lewis (2006, p. 5) the project manager’s job ‘is to help the team get the work completed, to “run interference” for them, to get scarce resources that they need, and to buffer them from outside forces that would disrupt the work’. The project manager is also responsible for solving problems related to budget and the time schedule. The last component of the group is the project team members. Directed by the project manager they are responsible for executing project tasks in time. 
+
+1.2. The main features of IT-project
+
+IT-project refers to a set of activities of using or creating an information technology (Грекул, 2011, p. 9). On the grounds that the purpose of the diploma is to consider the project management of specialized software (i.e. the information technology) implementation, it is clear that the main features of IT-project should be marked. First, there is a significant difference in the project understanding between the customer and the project team members with their project manager. In most cases the idea of the project is created by the business unit of the organization, while it is executed by IT specialists. Therefore, it may be difficult to define business requirements, as a lot of issues can be understood in different ways. In addition, IT sphere is very specific, so the business unit can’t know everything about the characteristics of software what leads to developers’ subjectivism during the period of realization. Another feature of IT-project is equal distribution of responsibility between the developers and the customers in case of the project failure; therefore, the customers and the developers should try to improve their communication in order to avoid possible misunderstandings in future. The third feature of IT-project is its fairly high cost. As it has been already mentioned, the likelihood of subjectivism is not low, so there could be changes in the project (for instance, in the architecture). Each change must be paid, thus the project costs may increase dramatically. 
+
+1.3. The popular models of the IT-project lifecycle and their description
+
+Every IT-project takes the path from the beginning through the middle stages to the end (when the information technology is created or implemented). In other words, the project has the main phases that are generally called the project lifecycle. The project lifecycle helps to coordinate members’ efforts taking special observations into account. For example, the project manager should understand how the inputs and outputs of one stage of the lifecycle affect the others. As a rule, the standard scheme of the project lifecycle has four main phases: initiation, planning, execution and closure.
+
+Initiation: the idea of the project is created, the business rules and the objectives are identified
+
+Planning: the project plan, the financial plan, the quality plan and the resource plan are created, all the work to be done is identified
+
+Execution: the work is performed, and the project manager controls the results comparing them with the project plan
+
+Closure: the final result and the documentation are released to the customer; the level of the project success is determined
+
+1.3.1. The waterfall model
+
+Nowadays there are two popular models in the IT-project lifecycle modeling: waterfall and iterative.
+
+‘A waterfall process is an orderly progression through various development phases, marking each step from phase to phase with a set of gates’ (Holtsnider, 2010).  The basic phases are represented below (pic. 1):
+
+
+Pic. 1. The waterfall model of the IT-project lifecycle
+
+‘Requirements’. Gathering information about the customer needs and its transformation to the software requirements;
+
+‘Architecture and design’. Defining software requirements such as databases, security parameters, data models and interface scheme;
+
+‘Developing’: A creation of a software product which is based on specifications that have been determined in the previous stages;
+
+‘Testing’. Verifying that the developed product is free from errors and meet the customer’s requirements;
+
+‘Implementation’. Installation of the product
+
+‘Maintenance and support’. Software verification (it should perform as expected).
+
+(Ledbrook, 2012), (Melonfire, 2006).
+
+ 	The key point of this model is sequence. It means that phases are processed one at a time, one by one. Consequently, it is easy to maintain the discipline during the development. The waterfall model is characterized by the necessity of good planning what helps to perform all project tasks in time with minimum level of financial deviations. To sum up, it can be said that benefits of this model work only when the requirements are clearly defined in the beginning of the project; in other cases, adjusted plans can kill the project.  
+
+1.3.2. The iterative model
+
+The iterative model differs from a waterfall one significantly. ‘Iterative development is a rework scheduling strategy in which time is set aside to revise and improve parts of the system’ (Cockburn, 2008, p. 27). This approach refers to a sequence of cyclic iterations where each of them has four phases: requirements, design, test and build (Jalote, 2004, p.118). The scheme of the structure is (pic. 2):
+
+
+Pic. 2. The structure of iterations in the iterative model
+
+The main characteristic of the iterative model is that each iteration adds new functionality to the product. For Jalote (2004, p. 117) ‘a new iteration commences before the system produced be the current iteration is released, and hence development of the current release’. In this case the direction of the project can be changed in the beginning of each iteration what seems to be very convenient considering rapidly changing environment. Moreover, the iterations can be used as a feedback tool to measure both the project progress and the project team productivity. Another feature of this model is its ability to minimize the risk by planning the iteration based on previous results what helps the project team to operate only with relevant information and data (Schuh, 2004, p. 210). 
+
+This approach is used in different methodologies, for instance, in Scrum.
+
+1.3.3. Scrum
+
+	‘Scrum is simply an agile, lightweight process for managing and controlling software and product development in rapidly changing environments’ (Cervone, 2010, p. 19). The main functionality of scrum is to fix small iterations (which are called ‘sprints’) in order to get a new version of the product by the end of this iteration.
+
+The scrum model consists of three main components: roles, artifacts and events. There are three roles in this model: the Product Owner, the Scrum Master and the Development Team. 
+
+The Product Owner is the person who is responsible for the work of the Development Team and for the total success of the project;
+
+The Scrum Master is responsible for understanding the scrum process by other participants;
+
+The Development Team ‘… consists of  professionals who do the work of delivering a potentially releasable Increment of ‘Done’ product at the end of each Sprint’ (Schwaber, 2011, p. 6);
+
+The scrum artifacts include the product backlog, the sprint backlog, and burn down charts (Cervone, 2010, p. 21). ‘The Product Backlog is an ordered list of everything that might be needed in the product and is the single source of requirements for any changes to be made to the product’ (Schwaber, 2011, p. 12). Before the beginning of the sprint, the development team decides which tasks should be performed during this iteration; consequently, the chosen tasks are recorded in the Sprint Backlog. In other words, the Sprint Backlog shows the work which should be done in order to meet the goal of the particular Sprint (Schwaber, 2011). Burn down charts are used for describing the volume of performed work and the volume of work-to-do. It can be said that burn down charts help to indicate the overall progress of the project.
+
+Except the Sprint, Scrum has four events: sprint planning meeting, daily scrum, sprint review and sprint retrospective. The activities that are performed during these events are presented below (pic. 3):
+
+
+Pic. 3. Scrum events
+
+(Schwaber, 2011), (Cervone, 2010).
+
+Chapter 2. Problem statement
+
+2.1. The influence of the specific character of the banking area on the IT-project lifecycle
+
+The diploma’s title is ‘Project management of specialized software implementation in the bank’, so the data domain is correlated with the banking area which has several distinctive features. First of all, the market requires banks to be adaptive to changes in the external environment. Moreover, in order to gain competitive advantages banks have to be automated; therefore, there is a tendency of implementing new software that can maximize the profitability. Another feature is the complexity of IT-project management in banks (one point is big budgets and second one is conflicts between business and risks departments). As a consequence, the business requirements for software are gathered slowly with many changes.
+
+After summarizing all information above, it is clear that waterfall model of the IT-project lifecycle is not seem to be the appropriate solution in this case because, as it has been noticed, it works well only in small projects with clearly defined requirements. Moreover, this model assumes that the requirements are stable during the whole lifecycle. In fact, the requirements do change, especially in such areas as banking; as a result, the application of waterfall model causes a lot of change requests what can be very costly for the bank. Another disadvantage of the waterfall model is that the software product is created in one shot; for this reason, by the end of the respective phase the product can contain errors that are caused by the developers’ subjectivism. 
+
+In contrast, the iterative model (particularly Scrum) may work better in this case because the all requirements need not be completely specified or understood in the beginning of the project; in fact, some of them can be created during the particular iteration (the Sprint). Other positive aspects of this model are an ability to see the results (new functionality of software) of each Sprint and make changes in rules and requirements easily without the necessity to use change requests. 
+
+2.2. Project plan of software implementation in the bank based on the waterfall model
+
+	Software of the decision making solution about giving credits is implemented in the Bank “XXX”. The project plan has been created as a set of consecutive steps; thus, the lifecycle model is “waterfall”.  The project baseline plan and the Gantt chart that have been built in Microsoft Project 2010 are presented below (pic. 4, pic. 5):
+
+
+
+Pic. 4. The baseline plan of software implementation in the Bank “XXX”
+
+
+
+
+
+Pic. 5. The Gantt chart
+
+Meanwhile, according to the real situation, the interim plan has been also built. In fact, almost in all cases the time planned by the project members to perform tasks was not enough, so the timescale shifted significantly. Deviations of the interim plan from the baseline plan are presented below (pic. 6):
+
+Pic. 6. Deviations of the interim plan from the baseline plan
+
+
+
+In the diploma there will be the analysis of the realization of the project which has been built with Microsoft Office Project 2010 based on the waterfall model. After the drawbacks of this model are identified, the possibility of the realization of this project based on the iterative development Scrum with special software will be analyzed. In addition, the causes of the project plan deviations will be fixed, and the ways to prevent them by using the new methodology will be also considered. 
+
+
+
+
+Conclusion
+
+In this paper such basic terms as “the project”, “project management” and “the project lifecycle” have been defined; the main features of IT-project and the models (waterfall and iterative) that are often used in IT-project management also have been described. In addition, the specific character of the banking area (its influence on project management) has been analyzed, and it has been suggested that the waterfall model does not work good in this case due to its significant drawbacks. Found deviations between the baseline plan and interim plan are the result of the practice part based on the waterfall planning. Consequently, another solution (the Scrum methodology) will be considered in the diploma. It would be interesting to examine how this approach influences the IT-project schedule time. In the concluding part of the diploma all these results will be presented. 
+
+
+
+
+Bibliography
+
+H. Frank Cervone, (2011), “Understanding agile project management methods using Scrum”, OCLC Systems & Services, Vol. 27 Iss: 1 pp. 18-22 
+
+Dr. Alistair Cockburn, “Using Both Incremental and Iterative Development”, 2008, The Journal of Defense Software Engineering pp.27-30 
+
+Clifford F. Gray, Erik W. Larson, Project Management: The Managerial Process, 4th Edition, 2008 by McGraw-Hill/Irwin, 608p
+
+Bill Holtsnider, Tom Wheeler, George Stragand and Joseph Gee, “Agile Development & Business Goals”, 2010 by Elsevier Inc.
+
+Pankaj Jalote, Aveejeet Palit, Priya Kurien, V.T. Peethamber, “Timeboxing: a process model for iterative software development”, The Journal of System and Software (2004), pp. 117-127 
+
+Louise Ledbrook, “Waterfall Project Management: An Overview”, 2012,  
+
+James P. Lewis, “Fundamentals of Project Management” (3rd Edition) 2006 by AMACOM Books, 176 p 
+
+Stanley E. Portny, “Project Management For Dummies”; 2nd Edition, 2007 by Willey Publishing, Inc., 111 River St, Hoboken, NJ07030-5774
+
+Paul Roberts, “Guide to Project Management”, 2007 by Profile Books/The Economist, 319p
+
+Peter Schuh, “Integrating Agile Development in the Real World”, 2004 by Charles River Media, 364p
+
+Ken Schwaber, Jeff Sutherland, “The Scrum Guide”, 2011
+
+Jason Westland, “Project Management Life Cycle”, 2006 by Kogan Page Ltd., 255p
+
+Melonfire, “Understanding the pros and cons of the Waterfall Model of software development”, 2006, 
+
+Project Management Institute, Inc., “A Guide to the Project Management Body of Knowledge (PMBOK Guide)”, Fourth Edition (2008)
+
+В. И. Грекул, Н. Л. Коровкина, Ю. В. Куприянов, “Методические основы управления ИТ-проектами”, 2011, Издательство: Интернет-университет информационных технологий, 392с.
+
+
+
+
+

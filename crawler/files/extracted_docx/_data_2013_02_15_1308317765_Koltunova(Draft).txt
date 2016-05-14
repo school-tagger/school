@@ -1,0 +1,271 @@
+NATIONAL RESEARCH UNIVERSITY
+
+HIGHER SCHOOL OF ECONOMICS
+
+
+
+Faculty of Business Informatics
+
+Department of Enterprise resource planning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DRAFT 
+
+of the paper
+
+“Development of “Arsenal Optics” IT architecture”
+
+
+
+
+
+
+
+
+
+Prepared by 
+
+Koltunova A. A. 
+
+Group 471 (1)
+
+
+
+Argument consultant
+
+									Oleynik A.I.
+
+
+
+
+
+Language and style consultant
+
+Klepko E.Y.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Moscow
+
+2013
+
+
+Abstract
+
+Today companies face a common problem of misunderstanding between the business as a whole, and the IT department. The difficulties range from bad infrastructure and deregulation to failing to correctly determine business processes. Needs of the company are often left unfulfilled due to the inability to convey the needs of the business to the IT department. This paper describes a research aimed at the development of the IT architecture of “Arsenal Optics” enterprise. It will focus on improving the architecture, thus helping enterprises reach strategic goals, maintain effective management and to establish mutual understanding. The problem can be solved by the using the key methodology of ITSM – a guidance of the best practices in IT service management.
+
+
+
+
+
+
+
+
+
+
+
+Novelty
+
+Today one of the main difficulties that enterprises face is associated with failure to build an adequate architecture of the enterprise as well as the fact that businesses often underestimate the IT department. The latter, as a rule, is expressed simply by not giving much importance to the IT role in a company. There is often a misunderstanding, because the employees can’t often get their idea across in a businesslike manner.										For example, the need for purchasing modern IT equipment is often explained by the IT department through specific metric indicators or simply by listing the required software or apparatus means, instead of explaining what they need through general indicators of effectiveness.								Bearing that in mind, the significance of this research is defined by the fact that this problem is very sharp in Russia, where the implementation of western technologies experiences substantial lag. For example, Europe and America have already been using methodologies such as ITSM or popular standards such as ISO/IEC 20000 for a long time, whereas the majority of IT companies in Russia are only planning to provide jobs for ITSM-consultants. The situation with Russian small and medium sized business is even worse. They don’ even see the potential advantages that the new management methods may bring. 				This misunderstanding between the IT sphere and business leads to the majority of projects, initiated by the IT department to be closed or lacking finance. The main difference between businesses and IT departments is that the former look at numerical indicators of efficiency in the first place, trying to estimate the potential profit a given IT modernization might bring, whereas the latter use different means of conveying their needs, different from those, used in the business language, which causes much misunderstanding.
+
+This paper provides a detailed infrastructure analysis of “Arsenal Optics” – a distributor which specializes in corrective medical optics. This organization provides an illustrative example of the problems that exist in the majority of companies where IT and business interact. This example also shows the common architectural difficulties that enterprises face and gives possible options for curing them. Improvements in IT infrastructure that use worldwide experience in the sphere of organization and standards will help to simplify the interaction of the IT department with the business.
+
+Goal
+
+The main goal of this paper is to improve the architecture of “Arsenal Optics” enterprise.
+
+Objectives
+
+Gather general information about “Arsenal Optics” enterprise;
+
+Analyze the architecture of “Arsenal Optics”;
+
+Identify the shortcomings of the architecture;
+
+Come up with an architectural solution, that will help to eradicate the identified shortcomings.
+
+Structure of the research
+
+This paper is structured in the following manner: first comes the general information and theory, which will be the basis of the consecutive practical analysis. After that, the main information about “Arsenal Optics” will be represented, along with the analysis of their current architecture and the identified issues.   
+
+Part 1 (theory): significance of the IT-architecture, overview of the standards;
+
+Part 2 (analysis): description of the enterprise and further analysis.
+
+Theoretical Basis
+
+Importance of the IT-architecture
+
+The IT- architecture of an enterprise is basically the description of the company from the stand point of its technological components – computer or apparatus resources, security, software. The IT- architecture helps to form models, which might show the best way to achieve the goals of the company through its IT-infrastructure.
+
+An effective architecture must show the following:
+
+Business strategy;
+
+Alternatives for achieving strategic goals of the business through the infrastructure of and enterprise (a structural or informational component).
+
+In this paper, IT-infrastructure is understood as the hardware and software, network, objects that require IT servicing (such as: upgrading, testing, additional purchases, monitoring, support and control). Meanwhile, the infrastructure does not include people, processes and documents, associated with IT. The main mission of the infrastructure is to satisfy the requirements and goals of the business, maintain the key business-processes. Bearing that in mind, it becomes clear that infrastructure is the core element in an enterprise, and IT is a service that supports it. 
+
+Overview of different standards 
+
+ISO/IEC20000 – a general standard for companies that provide IT services inside an organization, or for third parties. Following thist standard is often mandatory for participating in the outsourcing tender. Either way, accreditation for ISO/IEC20000 is a competitive advantage for any service provider;
+
+ISO/IEC27001 – specifies the requirements for the creating and sustainable development of the management system of IT security (MSIS);
+
+ISO 9001:2008 – (a requirement of the quality management system) compliance with this standard of the ISO 9000 family serves as an indicator for the accredited enterprise keeps track of, records and improves the procedures, embracing all key business processes;
+
+BS25999 helps the business to run continuously;
+
+И ISO/IEC19770 is aimed at process management, associated with software developers. 
+
+ITIL
+
+ITIL is basically a collection of the prime experience in the sphere of ITSM. It is written in the form of a guide, aimed at describing the IT-department in an enterprise as a quality IT- service. The guide describes the planning stage, the processes, gives an understanding of the roles and responsibilities, as well as knowledge in management. All of this might help organizations to develop, manage and improve their IT department as a service.  
+
+To this moment, ITIL is being used in a large number of organizations across the world in many areas. It is important to understand that ITIL is not a standard, but rather a compilation of knowledge and recommendations that may come in handy, considering the specifics of this sector. ITIL is known as the most famous and popular theory for ITSM. 
+
+The main difference between ITSM and the aforementioned ISO/IEC 20000 standard is that the latter describes the level at which a sector will be serviced, and how it should be supported, whereas ITSM describes different ways of achieving the goal, rather than giving the big picture.
+
+General information 
+
+"Arsenal Optics" is a company that distributes corrective medical optics since 2001. Their main specialization is glass lens. The company is oriented towards mass production in the sphere of optical medicine, where the approach to each client is individual. Their motto is: “We are helping people see and look better". This implies that the strategic advantages of the company are based on the use of the latest technological advances in the production process. They focus on quality and employ only high-qualified specialists.
+
+The company currently counts 500 employees, with 50% of them being maintenance personnel, servicing the ERP (Enterprise Resource Planning) of the company. 
+
+The main objective of the company is to increase their market share in the sphere of corrective medical optics. In the future they are planning to take the leading positions (approximately 30% of total market share), and to expand their production line, thus satisfying 80% of the target consumer audience.
+
+Activity analysis
+
+Organizational structure
+
+The company has a line structure organization. In “Arsenal Optics” the management is exercised through direct control, where the regulations play a secondary role.
+
+
+
+The current organizational structure of the company is presented below (figure 1):
+
+
+
+Figure : The current organizational structure of the company
+
+The peculiarities in management consist of the absence of clear regulations. The department tasks resemble a set of vague strategic goals, rather than specifying anything concrete. The board of directors relies upon the vision that the superiors are qualified enough to formulate the policy for their own department in a way, which would help them get the most benefit for the company as a whole. As a result, the actions of each department lack coordination, which is reflected in the low efficiency of the company. Efficiency is only achieved at the level at which each separate department functions.
+
+Business-processes of an enterprise
+
+The activity of “Arsenal Optics” is barely regulated, and lacks accounting and budgetary policies. Only the top level of business-processes is described on the level of functional departments. The managers trust the heads of each department, which leads to a shallow description of only the of sub-processes levels. But despite all of the aforementioned, most business-processes are automated.
+
+It is this approach to modeling business-processes that has already caused serious concern. For example, this approach has been the major cause for the first stages of import to fail. The inability to keep track of the stock saturation and non-transparency of the sales and accounting made the company unable to estimate the required volume of goods and financial resources.
+
+Formulating the structural problems and identifying solutions
+
+Among the drawbacks of the company’s structure are:
+
+Noncompliance between the functional departments, vagueness of the aims and;
+
+In order to solve this problem it is essential to clarify the marketing and operational strategies, nevertheless details would be unnecessary. It is important to leave space for various deviations and maximizing potential of each executive.
+
+Non-transparency of departmental activities;
+
+Due to the absence of the business-process model for each department, in is difficult to keep track of the activity inside. As a result, the role and influence of certain managers increases, making it virtually impossible to accuse them of being incompetent. This can lead to additional an unjustified expenditures, spent on specific business processes, hence, the price for incompetency.
+
+It appears that despite the fact that business-processes of a company are automated, systematic understanding of the system as a whole is absent. Understanding the objectives and ways of their accomplishment seems to be lacking.
+
+Automating a company
+
+The hierarchical system of automation is presented below (figure 2): 
+
+
+
+Figure : The hierarchical system of automation
+
+The trade system keeps track of the total goods on listing, and the managerial system only keeps track of consolidated account.
+
+The automation of the company was based on the 1C 7.7 platform by attracting an exterior company, in order to modify the package configuration – the settings of the client configuration. The automation was intended to be a complex process, however, due to the fact that they did not nominate a single coordinator of requests from the multitude of business sub-divisions, the goal was not achieved.
+
+At the time, when the company was integrating systems, they did not have their own IT-department. Neither did they have at their disposal qualified specialists, that would be able to clearly and amply formulate unified business-requirements of the company and that would hand them over to the programmers. Instead, the tasks were assigned in a decentralized manner, separately from each functional department. As a result, the business-processes were not tied together.
+
+Stating the problems, associated with inadequate automation strategies
+
+On account of the aforementioned automation process, there appeared to be several flaws:
+
+Mismatches in the manuals to different informational systems;
+
+Data duplication;
+
+Despite the fact, that it was possible to lay down managerial accountability, it was not suitable for use because it lacked common regulatory data input;
+
+The system was not documented, which made it difficult to work with and lowered its effectiveness;
+
+Multi-tier raw data processing (trade system, managerial system, accounting and fiscal system);
+
+Integration between systems was not carried out on a single bus;
+
+Data swapping between systems is not formatted (possible either through swap files, or through direct data output);
+
+Lack of coordination between the system revisions(changes in one, do not correlate with the other);
+
+Most of the superiors of different departments had engineering education. As a rule, they tried to abstain as much as possible from mechanical work, leading to the processes being automated. The problem is that either there was no need for them to be automated, or the cost of automation was not justified by the utility of the functional modules.
+
+
+
+Current condition of the IT Company
+
+Due to the fact that “Arsenal Optics” fails to understand the basic business-processes of a company, they are forced to constantly reorganize their structure under the influence of the suppliers, consumers and the board of directors. It appears that instead of sustainable development of the infrastructure, the IT role boils down to searching useful information for the business that is vital for carrying out business-processes and cutting down transaction expenses.
+
+
+
+Conclusion
+
+Having analyzed the “Arsenal Optics” enterprise we have found a series of drawbacks in the infrastructure of the company, preventing it from achieving strategic goals.
+
+The future plan is to describe the model of business-processes of the enterprise, and to improve the architecture by introducing new systems and methodologies, justifying the choice made. 
+
+
+
+
+References
+
+Dugmore, Jenny (2006). Achieving ISO/IEC 20000 - The Differences Between BS 15000 and ISO/IEC 20000 in BSI Group
+
+ISO 9000 at the Open Directory Project
+
+FSM. David Cannon (2011). ITIL Service Strategy 2011 Edition. The Stationery Office. ISBN 978-0113313044
+
+Lou Hunnebeck (2011). ITIL Service Design. The Stationery Office. ISBN 978-0113313051
+
+Stuart Rance (2011). ITIL Service Transition. The Stationery Office. ISBN 978-0113313068
+
+Randy A. Steinberg (2011). ITIL Service Operation. The Stationery Office. ISBN 978-0113313075
+
+Vernon Lloyd (2011). ITIL Continual Service Improvement. The Stationery Office. ISBN 978-0113313082
+
+McGee, Marianne K. (2006-07-24). Certification Programs Arrive For IT Architects Information Week, retrieved December 18, 2012

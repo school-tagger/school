@@ -1,0 +1,4582 @@
+NATIONAL RESEARCH
+
+UNIVERSITY
+
+HIGHER SCHOOL OF ECONOMICS
+
+INTERNATIONAL COLLEGE OF ECONOMICS AND
+
+FINANCE
+
+MASTER’S THESIS
+
+on the educational program of higher education
+
+080100.68 Economics
+
+Capital, Aggregate Fluctuations and Idiosyncratic Risk
+
+Author:
+2nd year Master
+Vadim KANOFYEV
+
+Supervisor:
+
+Dr. Udara PEIRIS, Ph.D.
+
+MOSCOW, 2014
+
+Abstract
+
+Nowadays idiosyncratic productivity shocks have a signiﬁcant consequences in an
+
+aggregate production. We consider a model of an economy, where ﬁrms experi-
+
+ence i.i.d. productivity shocks. In such an economy some speciﬁc capital allocation
+
+rules can lead to minimization of aggregate ﬂuctuations. We deﬁne three classes of
+
+investment rules, which are resulting in vanishing of the uncertainty in the aggre-
+
+gate economy. Our innovation is a proportional capital allocation, when each ﬁrm
+
+receives new capital according to some Borel measurable function of its productiv-
+
+ity. After that we examine dynamic properties of the aggregate output, savings and
+
+capital holdings under different strategies of capital distribution and determine the
+
+most optimal one.
+
+Key words: investment; capital allocation; idiosyncratic risk
+
+Contents
+
+1
+
+Introduction
+
+2 Model
+
+.
+
+.
+
+2
+
+2.1 Households .
+2.2 Firms
+.
+2.3 Financial Intermediate
+
+. .
+.
+.
+
+.
+
+.
+. . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+8
+8
+9
+. . . . . . . . . . . . . . . . . . . . . . . . 11
+
+3 Aggregate Economy
+
+14
+3.1 Ex-ante Allocation . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+3.2 Ex-post Allocation: Simple Case . . . . . . . . . . . . . . . . . . . 15
+3.3 Ex-post Allocation: Proportional Allocation . . . . . . . . . . . . . 22
+
+4 Proportional Allocation: Optimal Function
+
+29
+. . . . . . . . . . . . . . . . . . . . . . . . . . 29
+4.1 Linear Function .
+4.2 Power Function .
+. . . . . . . . . . . . . . . . . . . . . . . . . . 32
+4.3 Exponential Function . . . . . . . . . . . . . . . . . . . . . . . . . 34
+4.4 Logarithmic Function . . . . . . . . . . . . . . . . . . . . . . . . . 36
+
+.
+.
+
+5
+
+Impulse Response Functions
+38
+5.1 Ex-ante Allocation . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+5.2 Ex-post Allocation: Simple Case . . . . . . . . . . . . . . . . . . . 41
+5.3 Ex-post Allocation: Proportional Allocation . . . . . . . . . . . . . 43
+5.4 Comparison .
+. . . . . . . . . . . . . . . . . . . . . . . . . . 46
+
+. .
+
+.
+
+6 Conclusion
+
+References
+
+A Stationarity of the Capital Distribution
+
+B Simulation Results
+
+1
+
+48
+
+49
+
+51
+
+53
+
+1
+
+Introduction
+
+Macroeconomic models typically consider the effect of aggregate shocks on eco-
+
+nomic variables such as aggregate savings and output growth. The role that id-
+
+iosyncratic risk may play in generating aggregate ﬂuctuations is usually ignored.
+
+However, there are evidences that support that persistence of idiosyncratic shocks
+
+in the economy increases over time.
+
+It is a widely known fact that distributions of the capital and production have
+
+positive skew. Thus in the economy most of the ﬁrms have small or intermediate
+
+size, however most of goods are produced by large ones. For example, in the U.S.
+
+in 2013 sales of top 10 companies exceeded 13% of total GDP, sales of the ﬁrst
+
+50 companies were over 35% of the GDP (ﬁg. 1). Therefore productivity and, as
+
+a result, sales of individual ﬁrms from the top of the list play a considerable role
+
+in the aggregate behavior of the economy. Hence, idiosyncratic shocks to these
+
+companies can lead to a sufﬁcient changes in the aggregate output.
+
+Figure 1: Cumulative sales of top 100 U.S. companies as a percent of GDP in
+2013.
+
+2
+
+Irvine and Schuh (2002) consider empirical data for the U.S. economy and show
+
+that after 1984 the economy was subject to the following stylized facts:
+
+• Firm-level production volatility has considerably risen.
+
+• Volatility of aggregate output on contrary signiﬁcantly decreased.
+
+• Covariance between ﬁrms and between industries declined.
+
+If we assume that the micro-structure of the economy (ﬁrm-level volatility and
+
+inter-ﬁrm correlations) is an exogenous parameter, arises a very interesting question
+
+concerning the mechanism of reduction of the aggregate ﬂuctuations in such an en-
+
+vironment. There are different views on this issue: Stock and Watson (2003) argue
+
+that this result can be achieved through improvement of the inventory management
+
+and the proper monetary policy. Dynan et al. (2006) show that the aggregate volatil-
+
+ity reduction may be caused by the ﬁnancial innovations (e.g. development of loan
+
+markets etc.). We examine how this result can be obtained through the regulation
+
+of the investment strategies. Speciﬁcally, we consider how at the economy, where
+
+ﬁrms experience independent and identically distributed productivity shocks, dif-
+
+ferent investment rules can be used in order to minimize volatility of the aggregate
+
+production.
+
+We want to determine long-term effects of a short-term investment decisions
+
+driving by the current ﬁrm productivities. In such an economy savings will be a
+
+function of only a current state of nature and rate of return, therefore each period
+
+investments would not depend on the expectations on the future path of the econ-
+
+omy. For this purpose we choose an Overlapping Generations model as a baseline
+
+because it exhibits all the underline features. We consider the OLG growth model of
+
+Polemarchakis and Dutta (1992), which describes an economy with a population of
+
+ﬁrms that experience independent and identically distributed productivity shocks. If
+
+3
+
+investment decisions are made before the realization of productivity, the limit econ-
+
+omy converges to the risk-less one with constant aggregate production. However if
+
+new investments can be reallocated ex-post, aggregate productivity in general is not
+
+a constant because of the persistence of sunk production of less efﬁcient ﬁrms that
+
+use the capital that was accumulated during previous periods. Their result leaves
+
+open the question of the stationarity of such an economy: in fact, in general it will
+
+not be stationary. Our innovation is consideration of the proportional capital alloca-
+
+tion rules, when ﬁrms receive new capital according to some invertible continuous
+
+function of its productivity. This distribution of the capital leads to vanishing of the
+
+aggregate ﬂuctuations, whereas the aggregate level of the output exceeds the one
+
+obtained under ex-ante capital allocation.
+
+Our approach is consistent with the literature on Real Business Cycles, albeit
+
+preserving the role of idiosyncratic risk in generating aggregate ﬂuctuations. Kyd-
+
+land and Prescott (1982) show that the delay of adjustment of the capital leads to
+
+aggregate ﬂuctuations. They consider agents who make the optimal decisions on
+
+the level of consumption and investment subject to the expected future aggregate
+
+productivity level. The innovation of the model is that today’s investment does not
+
+increase tomorrows capital. Because of the lag between the investment decision and
+
+the change in the capital stock, the model ﬁts the cyclical variance of economic time
+
+series fairly well. We also consider the long term effect of the investment decisions,
+
+but instead of aggregate ﬂuctuations we want to examine the effect of individual
+
+shocks.
+
+There are many papers, which consider idiosyncratic risks and try to ﬁnd the
+
+path of all economy due to such risks. One of classical models that study idiosyn-
+
+cratic risks is Aiyagari (1994).They consider an impact of stochastic labor income.
+
+Agents, who are faced with borrowing constraints, optimize their expected utility
+
+subject to idiosyncratic labor and deterministic income from risk-less bond. Ac-
+
+4
+
+cumulated asset holdings reﬂect the history of agent’s individual shocks.
+
+In the
+
+equilibrium per capita asset holdings coincide per capita capital level. The model
+
+argues that under the idiosyncratic risk the capital holdings are higher than in the
+
+complete market equilibrium, whereas the interest rate is lower than its complete
+
+market analog. Even though this model is very good in explanation of the equilib-
+
+rium path of the aggregate savings, this approach does not capture some important
+
+features that we wish to examine. Firstly it does not deal with capital-related risk.
+
+Secondly the behavior of the aggregate production does not studied properly. In our
+
+paper we want to study the risk that is determined by stochastic capital income and
+
+results of the aggregate output of the economy.
+
+Angeletos (2007) considers the idiosyncratic risk of capital income. House-
+
+holds have access to production technology and to risk-less bonds. Production is
+
+stochastic and independent across agents. As a result markets are incomplete and
+
+the economy is risky. Angeletos receives similar to Aiyagaris result of the lower
+
+level of interest rate. But in his model this fact does not imply increase in the cap-
+
+ital level. In general the space of all possible states of the world in such economy
+
+is inﬁnite, nevertheless if it is used a Cobb-Douglas production function with linear
+
+return on capital and there is a homoscedasticity of preferences all optimal invest-
+
+ment decisions are linear functions of the agents wealth. It gives an opportunity to
+
+reduce the number of dimensions, which are needed to describe the equilibrium, and
+
+ﬁnally to solve the model and to make some simulations. Angeletos and Panousi
+
+(2011) study a two-country extension of this model, that helps them to explain the
+
+cross-country differences in the interest rate and capital accumulation. But Angele-
+
+tos (2007) and Angeletos and Panousi (2011) examine economies where capital
+
+depreciates fully: we do not. As a result every period each agent makes a decision
+
+on the level of capital that does not directly depend on the previous capital level,
+
+whereas in our approach the ﬁrm’s capital holdings is a function of previous capital
+
+5
+
+level and current productivity.
+
+Even though Krusell and Smith (1999) consider a welfare effects of eliminat-
+
+ing business cycles, their approach of modulating of ﬂuctuations is close to ours.
+
+They study an economy with agents, who experiences idiosyncratic uncertainty in
+
+employment in the next period. Because of the fact that probability to be unem-
+
+ployed in the next period depends on the unemployment rate as well as on the cur-
+
+rent agent’s status, this model represents a direct dependence of the state on the
+
+previous sequence of shocks. However Krusell and Smith consider inﬁnite living
+
+agents, which may allow them to consider dynamic strategies, whereas our model
+
+represents a sequence of static decisions.
+
+Carvajal and Polemarchakis (2011) examine the effect of the idiosyncratic en-
+
+dowments on the Pareto efﬁciency of the equilibrium allocations. They have found
+
+spaces of preferences that under additional constraints on the level of diversiﬁca-
+
+tion of the commodities, which can be traded, guarantee an existence of ﬁnitely
+
+many Pareto efﬁcient equilibria. However they consider two period model: we
+
+multi-period. As a result our model allows us to consider long-term effects of the
+
+individual shocks.
+
+Gabaix (2005) considers questions that a very close to our. He shows that
+
+idiosyncratic shocks can help to explain aggregate ﬂuctuations in the economy.
+
+Huggett and Ospina (1998) describe a steady-state equilibrium in the model with
+
+idiosyncratic labor income. Khan and Thomas (2011) study an (S,s) equilibrium in
+
+the economy with heterogeneous productivities, debt and capital holdings. Bian-
+
+coni and Turnovsky (2003) show aggregate effects of individual shocks, but their
+
+main point is an individual gain from the regulation of the aggregate shock. San-
+
+tos Monteiro (2008) study multiple equilibria that are generated by the idiosyncratic
+
+labor risk. Antunes et al. (2008) look for the stationary equilibrium of the general
+
+equilibrium models with independent exogenous abilities, endogenous bequest and
+
+6
+
+ﬁnancial market with deadweight costs. Hopenhayn and Prescott (1992) study the
+
+stability of invariant distributions of stochastically monotone processes.
+
+The paper proceeds as follows. We present the model in Section 2, study aggre-
+
+gate outputs under different investment rules in Section 3. In section 4 we examine
+
+different classes of the investment rules and ﬁnd optimal shapes of capital distribu-
+
+tion functions. Finally, in section 5 we study the dynamic properties of the economy
+
+under different investment rules and discuss which ones are more preferable.
+
+7
+
+2 Model
+
+In our paper we consider an Overlapping Generations model with agents living for
+
+two periods and inﬁnitely living ﬁrms and ﬁnancial intermediate. Agents has an
+
+endowment of labor when they are young. They supply their labor to competitive
+
+ﬁrm and use the wage for consumption and savings. Households’ savings go to the
+
+ﬁnancial intermediate that guaranties competitive ﬁxed capital income and invests
+
+the capital in the ﬁrms operating in the economy.
+
+The combination of the Overlapping Generations model with inﬁnitely living
+
+ﬁnancial intermediate was chosen because it allows us to concentrate on the long-
+
+term effects of the short-term investment decisions and individual shocks under
+
+different allocation strategies.
+
+2.1 Households
+
+Representative agent, who is young in period t chooses optimal levels of con-
+sumptions in both periods (Ct
+t+1) and savings (St) taking wage (wt) and
+interest rate (rt) as given in order to maximize his intertemporal utility function
+U(Ct
+
+t+1), where β ∈ (0,1):
+
+t ) + β ·U(Ct
+
+t ,Ct
+
+t+1) = U(Ct
+
+t and Ct
+
+max{Ct
+
+t+1,St}[U(Ct
+
+t ,Ct
+
+t ) + β ·U(Ct
+
+t+1)]
+
+Subject to:
+
+t + St ≤ wt
+Ct
+t+1 ≤ (1 + rt)· St
+Ct
+
+(1)
+
+(2)
+
+Optimization yields (3). An explicit solution can be obtained after speciﬁcation
+
+of the utility function. We are going to use a standard notation - log-utility (i.e.
+U(Ct) = log(Ct), which gives us (4).
+
+8
+
+t = wt − St
+Ct
+t+1 = (1 + rt)· St
+Ct
+β ·U
+
+((1 + rt)· St) = U
+
+(cid:48)
+
+(cid:48)
+
+(wt − St)
+
+Ct
+t =
+
+Ct
+t+1 =
+
+St =
+
+1 + rt
+· wt
+1 + rt + β
+(1 + rt)· β
+1 + rt + β
+β
+· wt
+
+1 + rt + β
+
+· wt
+
+(3)
+
+(4)
+
+The result (4) consistent with the intuition:
+
+• As consumption during the ﬁrst period is more valuable, the agent consumes
+
+more, when he is young (Ct
+
+t > Ct
+
+t+1).
+
+• Sum of the consumption and savings during the ﬁrst period equals to the total
+
+labor income of the household (Ct
+
+t + St = wt).
+
+• When the wage is proportional to the income (which is true for example for
+Cobb-Douglas production function) savings of the households are propor-
+
+tional to the output at the correspondent period.
+
+2.2 Firms
+
+Every ﬁrm in the economy uses capital knt, labor lnt and technology θnt to produce
+each period:
+
+xnt = θ nt · k1−α
+
+nt
+
+· lα
+nt
+
+0 < α < 1
+
+(5)
+
+9
+
+Firms can choose only labor, whereas capital is endogenously distributed be-
+tween ﬁrms and productivity (θnt) is randomly assigned to each ﬁrm every period.
+
+The capital of each ﬁrm changes by the following law:
+
+knt = (1− δ )· kn t−1 + zn t−1
+
+0 ≤ δ ≤ 1
+
+(6)
+
+Given the capital holding, productivity and wage level each ﬁrm maximizes its
+
+proﬁt, which will be paid to the stockholders as dividends:
+
+max{lnt}[πnt] = max{lnt}[xnt − lnt · wt]
+
+First Order Condition:
+
+dπnt
+dlnt
+
+= α · θ nt · k1−α
+nt
+l1−α
+nt
+
+− wt = 0
+
+So the optimal amount of labor used for production equals to :
+
+(cid:18)α · θ nt
+
+(cid:19) 1
+1−α · knt
+
+wt
+
+l∗
+nt =
+
+(7)
+
+(8)
+
+(9)
+
+Using the labor market clearing condition and normalizing the total labor supply
+
+to one, we can get an expression for the equilibrium wage:
+
+(cid:18)α · θ nt
+(cid:32) N
+
+wt
+
+θ nt
+
+∑
+
+n=1
+
+N
+
+∑
+
+n=1
+
+l∗
+nt =
+
+N
+
+∑
+
+n=1
+
+wt = α ·
+
+(cid:19) 1
+1−α · knt = L = 1
+
+(cid:33)1−α
+
+1
+
+1−α · knt
+
+(10)
+
+(11)
+
+Plugging in (9) and (11) into (5), we can obtain an equilibrium output of each
+
+ﬁrm in period t (12). As we can see after the optimization the output of any arbitrary
+
+ﬁrm is a function of not only endogenous for it parameters (capital, productivity)
+
+10
+
+but also of the joint distribution of the capital and productivity of all the others ﬁrms.
+
+(cid:33)α
+α
+
+(cid:19) 1
+1−α · knt
+
+· knt
+1−α · knt
+
+1
+
+wt
+
+(cid:32)(cid:18)α · θ nt
+ θ
+(cid:19)α
+
+∑N
+n=1 θ nt
+· knt
+· knt
+1
+1−α
+nt
+
+1
+1−α
+nt
+
+·
+
+xnt = θ nt · k1−α
+
+nt
+
+·
+
+= θ nt · k1−α
+
+nt
+
+(cid:18)
+
+=
+
+θ
+
+1
+1−α
+nt
+∑N
+n=1 θ
+
+(12)
+
+The output of the whole economy can be obtained by the summarizing of the
+
+outputs of the individual ﬁrms (13). In general, the aggregate result can be calcu-
+
+lated buy plugging in all the parameters (capital holdings and productivity) of each
+
+ﬁrm, but, as it will be shown below, under some capital-distribution rules the aggre-
+
+gate result can be simpliﬁed and, as a result, can be written using some aggregate
+
+terms regardless the micro-structure of the distribution.
+
+Xt =
+
+=
+
+n=1
+
+N
+
+∑
+(cid:18)
+
+xnt =
+
+N
+
+∑
+
+n=1
+
+∑N
+n=1 θ
+∑N
+n=1 θ
+
+1
+1−α
+nt
+1
+1−α
+nt
+
+(cid:18)
+
+θ
+
+1
+1−α
+nt
+∑N
+n=1 θ
+· knt
+· knt
+
+(cid:19)α =
+
+· knt
+· knt
+1
+1−α
+nt
+
+(cid:32) N
+
+∑
+
+n=1
+
+(cid:19)α
+
+1
+1−α
+nt
+
+θ
+
+· knt
+
+(cid:33)1−α
+
+(13)
+
+2.3 Financial Intermediate
+
+As it was mentioned above, ﬁnancial intermediate operates inﬁnitely, assuming de-
+
+posits of the households and investing in ﬁrms. The net proﬁt - ﬁrms’ dividends
+
+(ﬁnancial intermediate is assumed to be the only stockholder of all the ﬁrms) minus
+
+11
+
+payment to households - is used for consumption. Therefore ﬁnancial intermediate
+chooses the distribution of the new investments between the ﬁrms (zit) in order to
+maximize the utility of its consumption in the current and all proceeding periods
+
+subject to three constraints. The ﬁrst constraint is a pure budget constraint of the ﬁ-
+
+nancial intermediate, the second one is the same as (6) - capital ﬂow equation of the
+ﬁrm n and the last constraint yields that total investment cannot exceed households’
+deposits.
+
+max{zn t−1,n∈[1,N]}
+
+∞
+∑
+τ=0
+
+FI ·U FI(CFI
+β τ
+t+τ )
+
+Subject to:
+
+t ≤ N
+∑
+CFI
+
+n=1
+
+(1 + rnt)· knt − (1 + rt−1)· St−1
+knt = (1− δ )· kn t−1 + zn t−1
+zn t−1 ≤ St−1
+
+N
+
+∑
+
+n=1
+
+(14)
+
+(15)
+
+Where rnt - return on capital of ﬁrm n at period t. From the equation (5) the
+
+marginal product of capital of ﬁrm n is:
+
+(cid:18)α · θ nt
+
+(cid:19) α
+
+1−α
+
+wt
+
+(16)
+
+= (1− α)· θ nt ·
+
+1
+1−α
+nt
+
+1 + rnt = MPKnt
+
+=
+
+dxnt
+dknt
+
+= (1− α)· θ nt · lα
+nt
+kα
+nt
+1−α · θ
+(1− α)· α α
+α
+1−α
+w
+t
+
+=
+
+= γt · θ
+
+1
+1−α
+nt
+
+12
+
+As we have agreed before households make their savings at the end of their ﬁrst
+
+period, when the productivities of the ﬁrms during the next period are not known
+
+yet. Therefore the fair rate of return of their savings will be equal to the expected or
+
+just average marginal product of capital.
+
+1 + rt−1 = E(1 + rnt)
+
+(17)
+
+This optimization problem (14, 15) cannot be solved explicitly, however we
+
+can consider different classes of rules of capital allocation and compare the long
+
+term effects of these actions. Therefore we need to make some assumptions on the
+
+preferences of the ﬁnancial intermediate.
+
+• Financial intermediate has the time preference coefﬁcient βFI close to unite,
+so its valuation of the consumption today and tomorrow are practically iden-
+
+tical.
+
+• Financial intermediate has sufﬁcient degree of risk-aversion such that it tends
+to make investment decisions in order to smooth its consumption as much as
+
+possible.
+
+In the next section we’ll consider three generalized types of the capital alloca-
+
+tion: ex-ante allocation, when all the ﬁrms get the same amount of capital, and two
+
+speciﬁcations of the ex-post allocation: when only the most productive ﬁrm gets
+
+new capital and when each ﬁrm receives capital accordingly to its productivity. Un-
+
+der some additional conditions these allocation rules will give the absence of the
+
+uncertainty on the aggregate behavior of the economy.
+
+13
+
+3 Aggregate Economy
+
+In this section we will consider aggregate behavior of the economy under differ-
+
+ent investment rules. As all individual ﬁrms uses the same production technology
+
+(Cobb-Douglas, which gives us the fact that cost of capital is a constant fraction of
+
+the output) and the return on households savings is predetermined each period, the
+
+optimization problem of the ﬁnancial intermediate shrinks to the optimization of the
+
+aggregate output given risk-less output. Therefore we can skip optimization prob-
+
+lems of ﬁrms, households, ﬁnancial intermediate and concentrate on the aggregate
+
+effect of different investments.
+
+3.1 Ex-ante Allocation
+
+Firstly, let’s consider the simplest variation of the model, when the investment de-
+
+cision is done before the realization of the productivities. In this case all ﬁrms are
+
+ex-ante identical, hence, the investment is equally distributed between all of them.
+
+The timing of the model:
+
+• Households save some fraction of its labor income.
+
+• Financial Intermediate assumes savings and distributes capital between the
+
+ﬁrms.
+
+• Realization of productivities of all ﬁrms.
+
+• A decision of each ﬁrm on the optimal level of labor.
+
+• Production.
+
+• Payment of dividends, wages and deposits.
+
+14
+
+As it was assumed before the capital is equally allocated between all the ﬁrms
+N ). Hence, the aggregate output (13) can be rewritten as
+
+∑N
+n=1 knt
+N = Kt
+
+(knt = kmt =
+follows:
+
+(cid:33)1−α
+
+1
+1−α
+nt
+
+θ
+
+· knt
+
+= vt · K1−α
+
+t
+
+(18)
+
+(cid:32) N
+
+∑
+
+n=1
+
+Xt =
+
+N
+
+∑
+
+n=1
+
+xnt =
+
+From the equation (18) we can conclude that the output of the whole economy
+
+depends on the aggregate capital stock and aggregate productivity shock. As indi-
+
+vidual shocks are iid, the aggregate are independently distributed. Moreover when
+the number of ﬁrms goes up without bound the aggregate productivity vt converges
+to a constant. The proof of this fact that uses Strong Law of Large Numbers can
+
+ﬁnding. The sum of the individual productivities to the power of
+
+be found in Polemarchakis (1992). I would like just to discuss the intuition of this
+1
+1−α divided by
+the number of ﬁrms equals to the sample average of the productivity shock to the
+1
+1−α . Under the Law of Large Numbers the sample average converges to
+the expected value. Thereafter we will use this fact and associate the sum of func-
+
+power of
+
+tions of the individual shocks divided by the number of the ﬁrms with expectation
+
+of this function under the assumption of the inﬁnitely large size of the economy.
+
+Therefore aggregate output in the limit economy equals to the:
+
+(cid:16)
+
+(cid:17)1−α · K1−α
+
+t
+
+Xt = vt · K1−α
+
+t
+
+=
+
+E(θ 1
+
+1−α )
+
+(19)
+
+3.2 Ex-post Allocation: Simple Case
+
+Much more interesting result can be obtained if there is a possibility to allocate
+
+the new capital after the realization of the productivities. In this case ﬁnancial in-
+
+termediate will be able to allocate its investments taking the ﬁrms’ productivities
+
+into account. As now the amount of information available for the investor before
+
+15
+
+making the decision is higher than in the previous example, obviously there is such
+
+investment rule, that gives at least the same level of the aggregate output.
+
+At ﬁrst glance when all the productivities are realized investment in the most
+
+productive company seems rather rational. Obviously the short run effect of this
+
+decision will outperform the output in the case of the equal capital distribution.
+
+However the behavior of the economy in long run is not so clear. Therefore let’s
+
+consider this case in details.
+
+The continuation of the model in this case is as follows:
+
+• Households save some fraction of its labor income.
+
+• Financial Intermediate assumes savings.
+
+• Realization of productivities of all ﬁrms.
+
+• Financial Intermediate transfer all the new capital to the most productive ﬁrm.
+
+• A decision of each ﬁrm on the optimal level of labor.
+
+• Production of the most productive ﬁrm and the sunk production of the others.
+
+• Payment of dividends, wages and deposits.
+
+From the equation (16) the marginal product of capital of each ﬁrm doesn‘t
+
+depend on the initial capital holdings of the ﬁrm. It depends only on the productivity
+
+level and the wage that is set in the economy. Thus, only the most productive ﬁrms
+
+would increase their capital holdings using new investments.
+
+Proposition 1.
+If X1,X2, ,Xn are iid random numbers distributed with the function F(X), than
+max{i}Xi is distributed with probability function Fmax(X) = Fn(X).
+
+16
+
+Proof.
+
+Fmax (X) = Prob
+
+(cid:18)
+
+max
+
+i
+
+(cid:19)
+
+Xi < X
+
+= Prob (X1 < X)∪ Prob (X2 < X)∪ ∪ Prob (Xn < X)
+= F1 (X)· F2 (X)· · Fn (X)
+= F (X)· F (X)· · F (X)
+= Fn(X)
+
+(20)
+
+Proposition 2.
+If X1,X2, ,Xn are iid random numbers distributed with the function F(X), than
+max{i}Xi converges to a constant with probability 1.
+
+N
+
+(cid:1)n
+
+N
+
+Proof.
+Assume Prob (Xi < X) = 1− 1
+
+From the proposition 1 Prob (maxi Xi < X) =(cid:0)1− 1
+such n0 that for all n > n0 we have(cid:0)1− 1
+
+As f (x) = ax is continuously decreasing positive function of x when, a ∈ (0,1) for
+any ε > 0 there is such x that f (x) < ε. Therefore for any N > 2 and ε > 0 there is
+< ε. Hence, as number of iid random
+variables increases maximum of these numbers converges to the upper bound of
+
+(cid:1)n
+
+N
+
+their distribution with probability 1.
+
+When the number of ﬁrms increases, the distribution of the maximum of pro-
+
+ductivities shrinks to the one number (see proposition 2). Therefore the new capital,
+
+as it was mentioned above, will get the ﬁrm with the maximal possible productiv-
+
+ity. Without loss of generality we can assume that only one ﬁrm has the maximal
+
+productivity level, otherwise two or more ﬁrms will share the new capital, but as
+
+17
+
+the MPK doesn‘t depend on the capital level in our set up, the aggregate production
+
+will be the same as if only one ﬁrm gets all new investments.
+
+Let‘s denote the index of the most productive ﬁrm by m. Then the capital hold-
+
+ings of ﬁrms (6) in period t are
+
+knt = (1− δ )· kn t−1,
+n (cid:54)= m
+kmt = (1− δ )· km t−1 + Zt−1
+knt ≡ Kt = (1− δ )· Kt−1 + Zt−1
+
+(21)
+
+(22)
+
+(23)
+
+N
+
+∑
+
+n=1
+
+Using equations (11) and (13) we can ﬁnd the new equilibrium wage and the
+
+(cid:33)1−α
+
+(24)
+
+aggregate output in such an economy
+
+(cid:32) N
+
+wt = α ·
+
+∑
+
+n=1
+
+θ nt
+
+1
+
+1−α · (1− δ )· kn t−1 + θ mt
+
+1
+
+1−α · Zt−1
+
+18
+
+1
+
+1−α · (1− δ )· kn t−1 + θ mt
+
+1
+
+1−α · Zt−1
+
+1
+
+1−α · (1− δ )· knt−1 + θ mt
+
+1
+
+1−α · Zt−1
+
+(cid:33)1−α
+(cid:33)1−α
+
+Xt =
+
+=
+
+=
+
+=
+
+=
+
+N
+
+n=1
+
+xnt
+
+θ nt
+
+∑
+
+n=1
+∑N
+n=1 θ nt
+
+(cid:32) N
+∑
+(cid:32)
+Kt−1 ·(cid:16)
+(1− δ )· µt + θ mt
+
+Kt
+
+(1− δ )· µt + θ mt
+(1− δ )· Kt−1 + Zt−1
+1−α · Zt−1
+Kt−1
+
+1
+
+1
+
+1−α · Zt−1
+Kt−1
+
+1−α
+
+(1− δ ) + Zt−1
+Kt−1
+
+(cid:17)
+
+1−α
+
+· K1−α
+
+t
+
+(25)
+
+· K1−α
+
+t
+
+= ˜vt · K1−α
+
+t
+
+Where µt is a weighted average productivity shock. Note that in this setup ˜vt
+depends not only on the maximal value of productivity among all ﬁrms, but on the
+
+market capitalization of ﬁrms in the previous period (as long as the depreciation
+
+is less that 1). The latter does not converge to a constant even if the number of
+
+ﬁrms is sufﬁciently large. The intuition of this conclusion can be explained using
+
+the following example. Assume that in period t al ﬁrms had the same amount of
+capital. In period t+1 ﬁrm m1 was the most productive. Hence, in this period the
+distribution of capital was
+
+kn t+1 = (1− δ )· kn t = (1− δ )· Kt
+N ,
+km1 t+1 = (1− δ )· km1 t + Zt = (1− δ )· Kt
+
+n (cid:54)= m1
+
+N + Zt
+
+(26)
+
+In period t+2 the most productive ﬁrm is m2 (cid:54)= m1 and new distribution of capital
+
+19
+
+is
+
+n (cid:54)= m2
+
+kn t+2 = (1− δ )2 · Kt
+n (cid:54)= m1
+N ,
+km1 t+2 = (1− δ )2 · Kt
+N + (1− δ )· Zt
+km2 t+2 = (1− δ )2 · Kt
+N + Zt+1
+
+(27)
+
+And so on. After T steps the distribution of capital will be
+
+k j t+T = (1− δ )T · Kt
+
+N +
+
+T−1
+∑
+
+i=0
+
+i · (1− δ ) j · Zt+T− j−1
+a j
+
+(28)
+
+where a j
+
+i equals to one, if ﬁrm j was the most productive in period t+i, and to
+
+zero otherwise (a j
+
+i (cid:54)= ak
+
+i , if j (cid:54)= k).
+
+So, the capital holdings generally are not the same, moreover the allocation of
+
+capital changes over time even if the aggregate capital remains constant. It leads to
+the uncertainty of the aggregate productivity of the economy ( ˜vt), which depends
+on distribution of capital and on the iid shocks. As a result such an economy is
+
+risky. In Polemarchakis (1992) it is shown that there is a stationary equilibrium in
+
+such an economy only if there is full depreciation. Let’s brieﬂy consider this case.
+
+From the equation (26) when δ = 1
+
+knt = 0, n (cid:54)= m
+kmt = Zt−1
+
+(29)
+
+Using (25), (29) and the fact that the most productive ﬁrm has maximal possible
+
+productivity (θmax) the aggregate output equals to
+
+20
+
+(cid:18)
+
+1
+1−α
+θ
+mt
+
+Xt =
+
+· Zt−1
+
+(cid:19)1−α
+
+= θm · Z1−α
+t−1
+
+(30)
+
+Now let’s consider the aggregate output in the economy without ex-post reallo-
+
+cation and full depreciation, from (19) under the assumption that shocks are from
+the uniform distribution U[θmin,θmax]
+
+E(θ 1
+
+(cid:16)
+(cid:32)(cid:90) θmax
+ θ
+
+θmin
+
+Xt =
+
+=
+
+=
+
+(cid:17)1−α · K1−α
+
+t
+
+1−α )
+
+dx
+
+x 1
+1−α
+
+θmax − θmin
+max − θ
+1
+1−α +1
+
+(cid:33)1−α
+1−α
+
+· Z1−α
+t−1
+
+(θmax − θmin)· ( 1
+
+1
+1−α +1
+min
+1−α + 1)
+
+· Z1−α
+t−1
+
+(31)
+
+It is easy to show that the aggregate output (30) in this economy exceeds the
+output with ex-ante allocation (31). Let’s denote θmin = A· θmax with A < 1, than
+
+21
+
+ θ
+ θ
+(cid:32)
+(cid:32)
+(cid:32)
+
+1
+
+Xt =
+
+=
+
+=
+
+=
+
+1
+1−α +1
+min
+1−α + 1)
+
+max − θ
+1
+1−α +1
+
+(θmax − θmin)· ( 1
+· (1− A 1
+θmax · (1− A)· ( 1
+
+1
+1−α +1
+max
+
+1−α +1)
+1−α + 1)
+
+(cid:33)1−α
+(cid:33)1−α
+
+1− A 1
+(1− A)· ( 1
+1− A
+(1− A)· ( 1
+
+1−α +1
+1−α + 1)
+
+(cid:33)1−α
+
+1−α + 1)
+
+1−α
+1−α
+
+· Z1−α
+t−1
+
+· Z1−α
+t−1
+
+· θmax · Z1−α
+t−1
+
+· θmax · Z1−α
+t−1
+
+(32)
+
+· θmax · Z1−α
+t−1
+
+=
+
+1
+1−α + 1
+< θmax · Z1−α
+t−1
+
+This simple case helped us to understand that the ex-post capital allocation can
+
+skew the equilibrium output of the economy. Moreover the simplest and the most
+
+obvious rule, when all the new capital goes to the most productive ﬁrm, can signiﬁ-
+
+cantly increase the aggregate output of the economy under condition of full capital
+
+depreciation. Unfortunately, without the condition of the full depreciation the so-
+
+lution is not stable and can‘t be considered for the further research. In the next
+
+section we will consider other investment rules that can be used under the ex-post
+
+reallocation.
+
+3.3 Ex-post Allocation: Proportional Allocation
+
+Now let’s assume that after the realization of the productivity shocks capital is dis-
+tributed proportionally to the shocks. Let f (x) is some Borel measurable function1,
+1Let (X,Fx) and (Y,Fy) be measurable spaces. A function f : X → Y is said to be (Fx,Fy)-
+
+measurable if f −1(A) ∈ Fx for any A ∈ Fy.
+
+22
+
+we don‘t specify it now, further we will consider different variants of its realization.
+The ﬁrm that experiences productivity θi will obtain
+capital. As we have a restriction on the short sell of the existing capital, the fraction
+
+fraction of the new
+
+f (θi)
+∑N
+n=1 f (θn)
+
+that ﬁrm will obtain should be non-negative for any realization of the shock. To
+guarantee this result we need f (x) ≥ 0,∀x ∈ D(θ ). Moreover as ﬁnally all the new
+capital should be distributed between the ﬁrms the function of the shock should have
+
+positive values for the non-empty set of the realizations of shocks. This approach is
+
+fairly reasonable, the sum of the fractions adds up to one, under the assumption of
+the increasing function f (x) the more productive is the ﬁrm, the more capital it will
+receive.
+
+Assume that initially (at the period t − 1) all ﬁrms held the same amount the
+
+capital (ki t−1 = Kt−1
+
+N ,∀i ∈ [1,N]). Therefore at the period t ﬁrm i will have:
+
+kit = (1− δ )· ki t−1 + zi t−1 = (1− δ )· ki t−1 +
+
+f (θit)
+∑N
+n=1 f (θnt)
+
+· Zt−1
+
+(33)
+
+And so on. After p steps the capital holdings of the i‘th ﬁrms are equal to:
+
+ki t+p = (1− δ )p · ki t−1 +
+
+(1− δ )g ·
+
+p
+
+∑
+
+g=1
+
+· Zt+p−g−1+
+
+f (θi t+p−g)
+∑N
+n=1 f (θn t+p−g)
+f (θi t+p)
+∑N
+n=1 f (θn t+p)
+
+(34)
+
+· Zt+p−1
+
+Now let’s consider the aggregate output. Using equations (13), (33) and (34):
+
+23
+
+(cid:33)1−α
+
+·
+
+θ
+
+θ
+
+n=1
+
+n=1
+
+∑
+
+∑
+
+1
+1−α
+nt
+
+1
+1−α
+nt
+
+· knt
+
+(cid:32) N
+(cid:32) N
+(cid:20)
+(1− δ )· Kt−1
+(1− δ )· Kt−1 · E
+(1− δ )· Kt−1 · E
+
+N
+
+n=1
+
+· N
+∑
+(cid:18)
+(cid:16)
+
+Xt =
+
+=
+
+=
+
+=
+
+=
+
+(1− δ )· kn t−1 +
+
+f (θnt)
+∑N
+i=1 f (θit)
+
+· Zt−1
+
+· f (θnt)
+
+1
+1−α
+n=1 θ
+nt
+∑N
+i=1 f (θit)
+
+θ
+
+· f (θnt)
+
+1
+1−α
+nt
+E ( f (θit))
+
+1
+1−α
+
+nt + Zt−1 · ∑N
+θ
+(cid:19)
+(cid:17)
+
++ Zt−1 ·
+
++ Zt−1 · E
+
+1
+1−α
+nt
+
+E
+
+(cid:18)
+(cid:16)
+
+θ 1
+1−α
+
+θ
+
+(cid:21)(cid:33)1−α
+1−α
+(cid:19)
+
+1−α
+
+(cid:17)
+
+1−α
+
+1−α · f (θ )
+θ 1
+E ( f (θ ))
+
+(35)
+
+Using the fact that individual shocks are identically distributed and that the dis-
+
+tribution does not change over time we have skipped sub-indexes on the ﬁnal step
+
+in the equation (35) under the expectations.
+
+Much more interesting result we can get if we consider the output in p periods
+
+ahead (to simplify notations let’s denote τ = t + p):
+
+24
+
+(cid:33)1−α
+
+· knτ
+
+Xτ =
+
+1
+1−α
+nτ
+
+θ
+
+∑
+
+n=1
+
+(cid:16)
+
+θ
+
+∑
+
+(cid:32) N
+(cid:32) N
+(cid:32)
+(cid:32)
+(cid:32)
+
+n=1
+
+=
+
+=
+
+=
+
+=
+
+1
+1−α
+nτ
+
+(1− δ )p+1kn t−1 +
+
+(1− δ )p+1Kt−1
+
+1
+1−α
+∑N
+n=1 θ
+nτ
+N
+
++
+
+p
+
+∑
+
+g=0
+
+p
+
+∑
+
+g=0
+
+(1− δ )g f (θn τ−g)Zτ−g−1
+∑N
+i=1 f (θi τ−g)
+(1− δ )g ∑N
+n=1 θ
+
+(1− δ )p+1 · Kt−1 · E(θ
+
+1
+1−α
+nτ
+
+) +
+
+(1− δ )g · E(θ
+
+p
+
+∑
+
+g=0
+
+(1− δ )p+1 · Kt−1 · E(θ 1
+
+1−α ) +
+
+(1− δ )g · E(θ
+
+p
+
+∑
+
+g=0
+
+· f (θτ−g))
+
+1
+1−α
+τ
+E( f (θ ))
+
+Zτ−g−1
+
+(cid:17)(cid:33)1−α
+
+f (θn τ−g)Zτ−g−1
+
+1
+1−α
+nτ
+∑N
+i=1 f (θi τ−g)
+1
+1−α
+f (θn τ−g))
+nτ
+E( f (θi τ−g))
+
+Zτ−g−1
+
+(cid:33)1−α
+(cid:33)1−α
+(cid:33)1−α
+
+(36)
+
+Note that now on the last step we cannot skip all the time indexes under the
+
+expectations. We are not able to do this because the Borel measurable functions of
+
+the shocks taken with different lags are independently distributed (proposition 4).
+
+Proposition 3.
+Sigma-algebra generated by any Borel measurable function f (x) is not bigger than
+the sigma-algebra generated by the random variable x (i.e. σ ( f (x)) ⊆ σ (x)).
+
+Proof.
+
+This fact follows from the deﬁnition of the Borel measurable function.
+
+Proposition 4.
+For any Borel measurable functions f (x) and g(x) if x1 and x2 are independent
+random variables than f (x1) and f (x2) are also independent.
+
+Proof.
+
+This fact follows from the proposition 3.
+
+25
+
+Therefore using proposition 4 we can rewrite the sum in the brackets from the
+
+equation (36) as follows:
+
+(1− δ )g · E(θ
+
+· Zt+p−g−1
+
+t+p · f (θt+p−g))
+1
+1−α
+E( f (θ ))
+1−α )· E( f (θ )))
+E( f (θ ))
+
+(1− δ )g · E(θ 1
+
+(1− δ )g · E(θ 1
+
+1−α )· Zt+p−g−1 +
+
+p
+
+∑
+
+g=0
+
+=
+
+=
+
+p
+
+∑
+
+g=1
+p
+
+∑
+
+g=1
+
+= E(θ 1
+
+1−α )·
+
+p
+
+∑
+
+g=1
+
+(1− δ )g · Zt+p−g−1 +
+
+E(θ 1
+
+1−α · f (θ ))
+E( f (θ ))
+1−α · f (θ ))
+E( f (θ ))
+
+E(θ 1
+
+· Zt+p−1
+
+· Zt+p−1
+
+· Zt+p−g−1 +
+
+E(θ 1
+
+1−α · f (θ ))
+E( f (θ ))
+
+· Zt+p−1
+
+(37)
+
+Not that as aggregate capital does not depend on the allocation of new invest-
+
+ment (as all ﬁrms experience the same depreciation rate).
+
+Kt+p = (1− δ )p · Kt +
+
+(1− δ )g−1 · Zt+p−g
+
+p
+
+∑
+
+g=1
+
+(38)
+
+Now let’s plug in results of the (37) and (38) into the expression in the brackets
+
+from (36):
+
+(1− δ )g · E(θ
+
+p
+
+∑
+
+g=0
+
+1
+1−α
+t+p f (θt+p−g))
+E( f (θ ))
+
+· Zt+p−g−1
+
+(cid:35)
+
+(1− δ )g · E( f (θt+p−g))· Zt+p−g−1
+
+p
+
+∑
+
+g=1
+
+(39)
+
+(cid:16)
+
+(cid:17)
+
+1−α · f (θ )
+θ 1
+E ( f (θ ))
+
+(cid:34)
+(cid:16)
+
+(1− δ )p+1 · Kt−1 · E(θ 1
+
+1−α ) +
+
+= E(θ 1
+
+1−α )·
+
++ Zt+p−1 · E
+
+(cid:17)
+
+(1− δ )p+1 · Kt−1 +
+1−α · f (θ )
+θ 1
+E ( f (θ ))
+
+= (1− δ )· Kt+p−1 · E(θ 1
+
+1−α ) + Zt+p−1 · E
+
+26
+
+Finally aggregate output at the period t + p equals to
+
+(1− δ )· Kt+p−1 · E(θ 1
+
+1−α ) + Zt+p−1 · E
+
+Xt+p =
+
+(cid:16)
+
+(cid:17)
+
+1−α
+
+(40)
+
+1−α · f (θ )
+θ 1
+E ( f (θ ))
+
+Comparison of the results of calculation of the output 1 and p periods ahead
+((35) and (40)) shows that under the proportional reallocation the economy becomes
+
+risk-less if at some arbitrary period of time all ﬁrms held the same amount of the
+
+capital. Moreover if the capital depreciation is greater than zero and the economy
+
+uses the proportional reallocation rule for sufﬁciently long time, than the effect of
+
+the initial unequal capital allocation can be neglected.
+
+In this case the distribution of the capital holdings of each individual ﬁrm be-
+
+comes stationary, that is does not change over the time (see Appendix A). As indi-
+
+vidual capital holdings represent a whole history of individual productivity shocks
+and follows the same stochastic stationary process, ”long-run distributions for an
+individual coincide with cross-section distributions for the population” Aiyagari
+(1994).
+
+To make a thumbnail estimation of the goodness of the effect of the proportional
+
+ex-post reallocation, let’s compare the aggregate output of the economy with such
+
+type of the capital reallocation (40) and without it (19). For this purpose let‘s re-
+
+call that expectation of the product equals to the product of expectations plus the
+
+covariance. Therefore it is convenient to rewrite the equation (40):
+
+27
+
+(cid:32)
+
+Xt+p =
+
+θ 1
+1−α ; f (θ )
+
+(cid:17)
+
+(cid:33)1−α
+
+(cid:16)
+
++ Zt+p−1 · E
+
+(cid:16)
+
+θ 1
+1−α
+
+(1− δ )· Kt+p−1 · E(θ 1
+
+1−α )
+
+(cid:17)· E ( f (θ )) + cov
+(cid:16)
+(cid:2)(1− δ )· Kt+p−1 + Zt+p−1
+(cid:3)· E(θ 1
+(cid:16)
+Kt+p · E(θ 1
+
+1−α ) + Zt+p−1 · cov
+
+E ( f (θ ))
+
+=
+
+=
+
+1−α ) + Zt+p−1 · cov
+
+θ 1
+1−α ; f (θ )
+E ( f (θ ))
+
+(cid:17)
+
+1−α
+
+θ 1
+1−α ; f (θ )
+E ( f (θ ))
+
+(cid:17)
+
+1−α
+
+(41)
+
+As a result when f (θ ) is positively correlated with θ 1
+
+1−α and has positive mean2,
+the aggregate output of the economy with ex-post proportional reallocation outper-
+
+forms the output without re-allocation. The intuition of this result is very straight-
+
+forward, when the ex-post capital reallocation is done to increase the aggregate out-
+
+put of the economy, it is quite obvious that more productive ﬁrm should gain more
+
+new capital rather than the less productive. The latter gives us positive correlation
+
+of the capital distribution and the productivity level.
+
+In the next section we will try to ﬁnd the speciﬁcation of the function that would
+
+maximize the aggregate output. Obviously this speciﬁcation will depend on the
+
+distribution function of the shocks. To simplify calculations we will assume that
+
+the shocks are drawn from the uniform distribution with positive values.
+
+2As it was discussed above for any realization of the shock the f (θ ) should be non-negative and
+should be positive for the non-empty set of shocks. Obviously the expected value of this function of
+the shock is positive.
+
+28
+
+4 Proportional Allocation: Optimal Function
+
+As we have shown in the previous part the aggregate output in the economy with
+
+proportional ex-post reallocation is stable and exceeds the output in the case of
+
+the absence of the reallocation. Now it makes sense to investigate how the exact
+
+speciﬁcation of the capital distribution function changes the aggregate output of
+
+the economy. From now assume that the productivity shocks are distributed with
+uniform distribution U[θmin,θmax] with θmin > 0.
+
+4.1 Linear Function
+
+The simplest and very common group of functions as linear functions, i.e. functions
+that can be written as f (x) = a·x +b with a (cid:54)= 0. We will start our analysis with type
+of functions because even though this functions are very simple in use, the linearity
+
+of the expectation can lead to interesting results.
+
+Firstly let‘s consider the fraction from the brackets in the equation of the aggre-
+
+gate output (41).
+
+29
+
+(cid:17)
+
+(cid:16)
+
+cov
+
+θ 1
+1−α ; f (θ )
+E ( f (θ ))
+
+E(θ 1+ 1
+
+cov
+
+=
+
+1−α ;a· θ + b
+θ 1
+E (a· θ + b)
+1−α )· E(θ )
+
+(cid:17)
+
+1−α )− E(θ 1
+a· E (θ ) + b
+x1+ 1
+1−α
+θmax−θmin
+
+dx−(cid:82) θmax
+a·(cid:82) θmax
+
+θmin
+
+1
+1−α
+
+x
+
+θmax−θmin
+x
+
+(cid:16)
+a·(cid:16)
+(cid:18)(cid:82) θmax
+(cid:32)
+
+a·
+
+θmin
+
+a·
+
+=
+
+=
+
+=
+
+(cid:17)
+
+=
+
+(cid:17)
+
+(cid:16)
+
+a· cov
+
+θ 1
+1−α ;θ
+a· E (θ ) + b
+
+dx·(cid:82) θmax
+
+θmin
+
+x
+
+θmax−θmin
+
+dx
+
+(cid:19)
+
+θ
+
+2+ 1
+2+ 1
+1−α
+1−α
+max
+min
+1−α )·(θmax−θmin)
+(2+ 1
+
+−θ
+
+θmin
+− θ
+
+dx + b
+θmax−θmin
+1+ 1
+1+ 1
+1−α
+1−α
+−θ
+max
+min
+1−α )·(θmax−θmin)
+(1+ 1
+a· θmax+θmin
+
+(cid:33)
+(cid:18)
+(cid:19)
+2
+max − θ 2+ 1
+max − θ
+θ 2+ 1
+1
+1−α
+1−α
+1−α
+θ
+2· (2 + 1
+1−α )· (1 + 1
+1−α )· (θmax − θmin)· (a· θmax+θmin
++ b)
+
+1−α )· θmax · θmin
+
++ b
+− (2 + 1
+
+· θmax+θmin
+
+= ···
+
+(cid:18)
+
+min
+
+2
+
+2
+
+1
+1−α
+min
+
+(42)
+
+(cid:19)
+
+1
+
+1−α ·
+
+= a·
+
+Now let’s try to ﬁnd the values of a and b that would maximize this expression.
+As b is left only in the denominator, the whole expression increases when b de-
+creases. Recall that f (θ ) > 0 for all possible values of θ, therefore b has a lower
+bound ( a· θmin + b ≥ 0 ⇒ b ≥ −a· θmin). Combining the fact that the expression
+increases when b decreases and the presence of the restriction we have that the in-
+equality for b binds. Thus b = −a·θmin. After plugging in the optimal value of b to
+the equation (43) we will get that the expression does not depend on the value of a.
+
+30
+
+min
+
+1
+1−α
+min
+
+(cid:18)
+
+(cid:18)
+
+(cid:19)
+
+− (2 + 1
+
+1−α )· θmax · θmin
+
+(cid:18)
+(cid:19)
+max − θ 2+ 1
+max − θ
+θ 2+ 1
+1
+1−α
+1−α
+1−α
+(cid:18)
+(cid:19)
+1−α )· (θmax − θmin)· (a· θmax+θmin
+2· (2 + 1
+1−α )· (1 + 1
++ b)
+1−α )· θmax · θmin
+1−α ·
+max − θ 2+ 1
+max − θ
+1
+1
+θ 2+ 1
+1−α
+1−α
+1−α
+1−α
+1
+θ
+min
+(cid:18)
+(cid:19)
+(cid:18)
+1−α )· (θmax − θmin)· (a· θmax+θmin
+1−α )· (1 + 1
+2· (2 + 1
+− a· θmin)
+2
+max − θ
+1−α )· θmax · θmin
+max − θ 2+ 1
+1
+θ 2+ 1
+1−α
+1−α
+1−α
+θ
+min
+1−α )· (θmax − θmin)2
+1−α )· (1 + 1
+(2 + 1
+
+− (2 + 1
+
+− (2 + 1
+
+(cid:19)
+
+1
+1−α
+min
+
+θ
+
+2
+
+min
+
+1
+
+1−α ·
+
+a·
+
+= a·
+
+1
+
+1−α ·
+
+=
+
+(cid:19)
+
+(43)
+
+Assume α = 1
+2:
+
+(cid:16)
+
+cov
+
+θ 1
+1−α ; f (θ )
+E ( f (θ ))
+
+=
+
+(cid:17)
+
+2·(cid:0)θ 2+2
+
+min
+
+max − θ 2+2
+max − θ 2
+(θ 2
+
+min)
+
+6
+
+= ··· =
+
+(cid:1)− (2 + 2)· θmax · θmin
+
+(cid:0)θ 2
+
+(2 + 2)· (1 + 2)· (θmax − θmin)2
+
+max − θ 2
+
+min
+
+(cid:1)
+
+(44)
+
+Combining result of (44) with (41) we can get the aggregate output in such an
+
+economy with α = 1
+2:
+
+Kt+p · E(θ 1
+(cid:18)
+Kt+p · θ 2
+
+Xt+p =
+
+=
+
+(cid:16)
+
+(cid:17)
+
+0.5
+
+1−α ) + Zt+p−1 · cov
+max + θmax · θmin + θ 2
+
+min
+
+θ 1
+1−α ; f (θ )
+E ( f (θ ))
++ Zt+p−1 · θ 2
+
+3
+
+max − θ 2
+
+min
+
+6
+
+(cid:19)0.5
+
+(45)
+
+Hence, the optimal shape of the linear function is f (x) = a · (x − θmin) with
+a > 0 (note that we eliminate negative values of a because x− θmin is not negative
+for any realization of the shock and the value of the function of the shock should be
+
+non-negative, as we have discussed before). The intuition that in the class of linear
+
+31
+
+function optimal solution gives only this shape is rather clear:
+
+• It is optimal to allocate a zero fraction of the capital to the less productive
+
+ﬁrm ⇒ f (θmin) = a· (θmin − θmin) = 0;
+
+• Let‘s consider two different realizations of the function: f1(x) = a1·(x−θmin)
+and f2(x) = a2· (x−θmin) ∀a1 > 0,a2 > 0,a1 (cid:54)= a2. The fraction of the capital
+that will receive the ﬁrm with productivity θ does not depend on the choice of
+the function:
+
+= a1·(θ−θmin)
+
+= a2·(θ−θmin)
+
+= θ−θmin
+
+=
+
+n=1(θn−θmin)
+∑N
+
+a2·∑N
+
+n=1(θn−θmin)
+
+a1·∑N
+
+n=1(θn−θmin)
+
+f1(θ )
+∑N
+n=1 f1(θn)
+
+f2(θ )
+∑N
+n=1 f2(θn)
+
+.
+
+4.2 Power Function
+
+The next type of functions that we will consider is the power functions, i.e. func-
+tions of the form f (x) = xγ. The power functions are fairly convenient to use in our
+context, because we can always ﬁnd an integral of the power function, therefore the
+
+explicit solution of the equation of the aggregate output exists.
+
+Similarly to the equation (43):
+
+(cid:17)
+
+(cid:16)
+
+(cid:17)
+
+1−α )· E(θ γ )
+
+(cid:16)
+(cid:32)
+
+cov
+
+=
+
+=
+
+=
+
+θ 1
+1−α ; f (θ )
+E ( f (θ ))
+γ+1+ 1
+γ+1+ 1
+1−α
+1−α
+θ
+max
+min
+1−α )·(θmax−θmin)
+(γ+1+ 1
+
+−θ
+
+E(θ γ+ 1
+
+1−α )− E(θ 1
+E (θ γ )
+1+ 1
+1+ 1
+1−α
+1−α
+max
+min
+1−α )·(θmax−θmin)
+(1+ 1
+max −θ γ+1
+θ γ+1
+min
+
+−θ
+
+− θ
+
+(γ+1)·(θmax−θmin)
+− θ γ+1+ 1
+1−α
+−
+
+min
+
+max
+
+· θ γ+1+ 1
+1−α
+max − θ γ+1
+θ γ+1
+
+min
+
+γ + 1
+
+γ + 1 + 1
+1−α
+
+(cid:33)
+
+(46)
+
+·
+
+max −θ γ+1
+θ γ+1
+min
+
+(γ+1)·(θmax−θmin)
+
+max − θ 1+ 1
+θ 1+ 1
+1−α
+1−α
+1−α )· (θmax − θmin)
+(1 + 1
+
+min
+
+As the second part of the expression does not depend on the γ the maximization
+
+of the whole expression equivalent to the maximization of its ﬁrst part:
+
+32
+
+
+
+max
+
+− θ γ+1+ 1
+1−α
+
+· θ γ+1+ 1
+1−α
+max − θ γ+1
+θ γ+1
+
+min
+
+min
+
+
+
+maxγ
+
+FOC :
+
+γ + 1
+
+γ + 1 + 1
+1−α
+
+1
+1−α
+
+(γ + 1 + 1
+
+1−α )2
+
++
+
+−
+
+γ + 1
+
+γ + 1 + 1
+1−α
+
+γ + 1
+
+γ + 1 + 1
+1−α
+
+− θ γ+1+ 1
+1−α
+
+min
+
+max
+
+· θ γ+1+ 1
+1−α
+max − θ γ+1
+θ γ+1
+· (θ γ+1+ 1
+
+max
+
+min
+
+1+α
+
+max · log(θmax)− θ γ+1
+
+· (θ γ+1
+
+= ··· =
+
+1
+1−α
+
+(γ + 1 + 1
+1−α )2
+max · θ γ+1
+· θ γ+1
+
+γ + 1
+
+−
+
+γ + 1 + 1
+1−α
+
+min
+
+max
+
+· θ γ+1+ 1
+1−α
+max − θ γ+1
+θ γ+1
+min
+min · (θ
+max − θ
+min )· log( θmax
+1
+1
+1−α
+1−α
+θmin
+max − θ γ+1
+(θ γ+1
+min )2
+
+· log(θmax)− θ γ+1+ 1
+
+1+α
+
+min
+
+· log(θmin))
+
+max − θ γ+1
+θ γ+1
+
+min
+
+min · log(θmin))· (θ γ+1+ 1
+1−α
+max − θ γ+1
+(θ γ+1
+min )2
+− θ γ+1+ 1
+1−α
+
+max
+
+− θ γ+1+ 1
+1−α
+
+min
+
+)
+
+)
+
+= 0
+
+(47)
+
+Even though we cannot ﬁnd the explicit solution for the optimal level of γ, the
+result can be obtained either numerically after determination of all the parameters
+of the economy (θmin,θmax,α) or using approximation under the assumption that
+θmax−θmin
+(cid:28) 1. Under this assumption we can rewrite equation using the lin-
+1− ( θmin
+ear approximation: θ β
+min = θ β
+=
+θmax
+= θ β−1
+max · β · (cid:52)
+1− (1− β · (cid:52)
+max · β ·(cid:52). Using this linearization
+θ β
+= θ β
+θmax
+θmax
+equation (47) can be rewritten as:
+
+max ·(cid:16)
+
+max·(cid:16)
+
+max·(cid:16)
+
+1− (1− (cid:52)
+θmax
+
+)β(cid:17)
+
+)β(cid:17)
+
+max−θ β
+
+≡ (cid:52)
+θmax
+
+= θ β
+
+(cid:17)
+
+θmax
+
+)
+
+γ =
+
+2· θmin − θmax
+θmax − θmin
+
+33
+
+(48)
+
+Now let‘s discuss the intuition of the result. From the assumption that (cid:52)
+θmax
+
+(cid:28) 1
+we can conclude that θmin ≈ θmax = θ, therefore 2 · θmin − θmax ≈ θ. Thus γ ≈
+(cid:29) θ. As a result the power of the function is sufﬁciently high, i.e. the ﬁrm
+θmax−θmin
+with higher productivity will obtain more capital rather than the one with lower
+
+θ
+
+productivity, which is consistent with our previous analysis.
+
+4.3 Exponential Function
+
+The third speciﬁcation of the function is an exponential, i.e.
+
+f (x) = eφ·x. In this
+case the part of the expression for the aggregate output with the covariance term
+
+will be as follows:
+
+(cid:16)
+
+cov
+
+=
+
+θ 1
+1−α ; f (θ )
+E ( f (θ ))
+E(θ 1
+
+1−α · eφ·θ )
+E(eφ·θ )
+
+(cid:17)
+
+(cid:16)
+
+=
+
+E(θ 1
+
+− E(θ 1
+
+1−α ) =
+
+1−α )· E(eφ·θ )
+
+1−α · eφ·θ )− E(θ 1
+E(eφ·θ )
+1−α · eφ·xdx
+x 1
+
+(cid:82) θmax
+
+θmin
+
+eφ·θmax−eφ·θmin
+
+φ
+
+(cid:17)
+
+−
+
+min
+
+max − θ 1+ 1
+θ 1+ 1
+1−α
+1−α
+1−α )· (θmax − θmin)
+(1 + 1
+(49)
+
+In general, the integral in the nominator can be written using the gamma-function,
+but if we specify the the value of the α the result will be much easier. For example,
+when α = 0.5 as we have considered before, equation (49) can be simpliﬁed:
+
+34
+
+−
+
+max − θ 1+ 1
+θ 1+ 1
+1−α
+1−α
+1−α )· (θmax − θmin)
+(1 + 1
+
+min
+
+max−2·φ·θmax+2)−eφ·θmin·(φ 2·θ 2
+
+min−2·φ·θmin+2)
+
+φ 3
+
+eφ·θmax−eφ·θmin
+max − 2· φ · θmax + 2)− (φ 2 · θ 2
+
+φ
+
+φ 2 · (eφ·(θmax−θmin) − 1)
+
+−
+
+max − θ 1+ 1
+θ 1+ 1
+1−α
+1−α
+1−α )· (θmax − θmin)
+(1 + 1
+
+min
+
+min − 2· φ · θmin + 2)
+
+(cid:82) θmax
+
+θmin
+
+1−α · eφ·xdx
+x 1
+
+eφ·θmax−eφ·θmin
+eφ·θmax·(φ 2·θ 2
+
+φ
+
+=
+
+=
+
+−
+
+eφ·(θmax−θmin) · (φ 2 · θ 2
+
+max − θ 1+ 1
+θ 1+ 1
+1−α
+1−α
+1−α )· (θmax − θmin)
+(1 + 1
+
+min
+
+Optimization yields:
+
+(50)
+
+(51)
+
+= (eφ·(θmax−θmin) · (φ 2 · θ 2
+
+eφ·(θmax−θmin) · (φ 2 · θ 2
+
+max · (θmax − θmin) + 2· φ · θmax · θmin − 2· θmin)
+−(2· φ · θ 2
+min − 2· θmin)
+min − 2· φ · θmin + 2))·
+max − 2· φ · θmax + 2)− (φ 2 · θ 2
+·(2· (eφ·(θmax−θmin) − 1) + (θmax − θmin)· φeφ·(θmax−θmin)
+
+φ · (eφ·(θmax−θmin) − 1)
+
+Again this equation can be solved numerically, when all the parameters of the
+
+economy are known, or under the assumption of the relatively small distance be-
+tween θmax and θmin. We will use the latter technique. After some calculations:
+
+max + θmaxθmin − 2· θ 2
+
+φ 2θmax · (θ 2
+= φ · (θmax − θmin)· (φ · θ 2
+
+min)
+
+max − θmax + θmin)· (3 + φ · (θmax − θmin))
+
+(52)
+
+This equation can be approximated after eliminating of the members that are
+
+35
+
+proportional to the θmax − θmin to the power larger than 1:
+
+φ ≈ 1
+θmax
+
+or φ ≈ − 1
+
+3· θmax
+
+(53)
+
+Consistently to the ours previous intuition ﬁrm with higher productivity level
+
+should obtain more new capital rather than less productive one. Therefore the power
+of the exponent should be positive, so the only optimal solution is φ ≈ 1
+θmax
+
+.
+
+4.4 Logarithmic Function
+
+Finally let‘s consider logarithmic functions, the solution we will search in the form
+of f (x) = log(c· x) = log(c) + log(x).
+
+(cid:16)
+
+(cid:17)
+
+(cid:16)
+
+(cid:17)
+
+(cid:16)
+
+(cid:17)
+
+cov
+
+θ 1
+1−α ; f (θ )
+E ( f (θ ))
+
+cov
+
+=
+
+θ 1
+1−α ;log(c) + log(θ )
+E (log(c) + log(θ ))
+
+θ 1
+1−α ;log(θ )
+cov
+log(c) + E (log(θ ))
+
+=
+
+(54)
+
+As we can see the nominator of the equation (54) does not depend on the choice
+of the parameter c. Therefore the value of c that minimizes the denominator in the
+space of positive values (this condition we need because the nominator obviously is
+
+positive). Moreover similarly to the case of the linear function we have to remember
+
+that the value of the function should be non-negative for any realization of the shock
+(i.e.∀θ : log(c) +log(θ ) ≥ 0 or just c ≥ 1
+θmin
+yields that the latter one binds, so c = 1
+θmin
+
+). Combination of these two constraints
+
+. In this case equation (54) gives us:
+
+36
+
+(cid:16)
+
+(cid:16)
+
+(cid:17)
+
+(cid:17)
+
+(cid:16)
+
+θ 1
+1−α ;log(θ )
+cov
+log(c) + E (log(θ ))
+cov
+
+=
+
+(cid:16)
+
+θ 1
+1−α ;log(θ )
+
+cov
+E (log(θ ))− log(θmin)
+θ 1
+1−α ;log(θ )
+
+(cid:17)
+
+=
+
+θmax·log(θmax)−θmax−θmin·log(θmin)+θmin
+
+− log(θmin)
+
+θmax−θmin
+θ 1
+1−α ;log(θ )
+
+θmin · cov
+
+θmax − θmin
+
+= ··· =
+
+(cid:17)
+
+(55)
+
+Here we have used a linearization of the logarithm under condition of close θmin
+and θmax. Finally, to calculate the covariance we have to specify the value of α, as
+usual, let α = 0.5.
+
+θmin · cov(cid:0)θ 2;log(θ )(cid:1)
+θmin ·(cid:16) 2
+≈ (θmax − θmin)· (3· θmax + 4· θmin)
+
+θmax − θmin
+9 · (θ 3
+
+= ···
+min)− 1
+
+max − θ 3
+
+=
+
+18
+
+3 · θmax · θmin · (θmax + θmin)· log( θmax
+θmin
+(θmax − θmin)2
+
+(cid:17)
+
+)
+
+(56)
+
+Again the last step in the equation (56) using the linearization under the assump-
+
+tion that θmax and θmin are close enough.
+
+Now when we have found optimal shapes of the distribution functions from dif-
+
+ferent main classes, we can proceed to the consideration of its dynamic properties.
+
+In the next section we will study impulse response functions of the aggregate output
+
+under different investment rules. As a result we will be able to compare resulting
+
+ﬂuctuations and select optimal investment rule.
+
+37
+
+5
+
+Impulse Response Functions
+
+In the previous sections we have considered different types and functions of capi-
+
+tal allocation. All this investment rules give us different resulting behavior of the
+
+economy. In this section ﬁrstly we will provide the classiﬁcation of all studied in-
+
+vestment rules with its properties. Then we will study the dynamic properties of
+
+these rules: amplitude and length of the shock persistence.
+
+Investment rule
+
+Ex-ante
+
+Simple
+
+Ex-post
+
+Proportional
+
+Linear
+
+Power
+
+Exponential
+
+Logarithmic
+
+Fraction that goes to n’th ﬁrm
+
+(cid:26) 1
+
+0
+
+(cid:16)
+
+1
+N
+if θnt = θmax
+otherwise
+
+(cid:17)
+
+θnt−θmin
+θit−θmin
+γ ≈ 2· θmin − θmax
+θmax − θmin
+
+∑N
+i=1
+θ γ
+nt
+i=1 θ γ
+∑N
+it
+
+θmax )
+θit
+θmax )
+
+exp( θnt
+∑N
+i=1 exp(
+log( θnt
+θmin
+∑N
+i=1 log(
+
+)
+θit
+θmin
+
+)
+
+Table 1: Considered investment rules.
+
+To ﬁnd impulse response functions ﬁrst of all we need to calculate the steady
+
+state production level, capital holdings and other parameters of the economy. After
+
+that we will introduce a one period production shock, for instance, assume that in
+the period t production was 10% higher than the equilibrium level. Using equations
+for households’ savings, capital ﬂow and aggregate output we will be able to ﬁnd
+
+the path of the economy after the shock.
+
+5.1 Ex-ante Allocation
+
+We will consider investment rules in the same order as we have in the previous
+
+sections. The simplest distribution was done in the case of ex-ante allocation. To
+
+38
+
+ﬁnd a steady state we need to combine equations for the aggregate output in this
+
+case (19), aggregate capital ﬂow (38), household savings (4):
+
+t
+
+Xt =
+Kt = (1− δ )· Kt−1 + St−1
+
+1−α(cid:1)(cid:17)1−α · K1−α
+(cid:16)
+E(cid:0)θ 1
+E(cid:0)1 + rnt
+(cid:16)
+α ·(cid:16)
+
+(1− α)· α α
+∑N
+n=1 θ nt
+
+(cid:1) + β
+
+1 + rnt =
+
+St−1 =
+
+· α · Xt−1
+1−α · θ
+1−α · knt
+
+1
+
+β
+
+1
+1−α
+nt
+
+(cid:17)1−α(cid:17) α
+
+1−α
+
+The steady state solution of the equation (57) yields:
+
+(cid:32)
+(cid:32)
+
+X =
+
+K =
+
+α · β − (1− α)· δ
+
+β · δ
+
+α · β − (1− α)· δ
+
+β · δ
+
+S = δ · K
+
+(cid:16)
+
+(cid:33) 1−α
+α · E
+(cid:33) 1
+(cid:16)
+α · E
+
+θ 1
+1−α
+
+α
+
+(cid:17) 1−α
+(cid:17) 1−α
+
+α
+
+θ 1
+1−α
+
+(57)
+
+(58)
+
+Let’s now assume that Xt = φX · X. The shock in the output will shift savings.
+This change does not have to be proportional to the shock as the households’ expec-
+
+tations on the marginal product of capital will change. The level of the aggregate
+capital does not change in this period, so φK = 1. Values of the deviation of the
+capital and output at the next period we will denote with hats.
+
+39
+
+1−α
+
+(cid:99)φX =(cid:99)φK
+(cid:99)φK = (1− δ )· φK + δ · φS
+φS = φX ·(cid:16)
+
+((cid:99)φK
+
+1 +
+
+(1− α)· E
+
+θ 1
+1−α
+
+α − 1)· (1− α)· E
+
+(cid:16)
+
+(cid:17) 1−α
+
+α
+
+(cid:17) 1−α
+(cid:16)
++ β Kα ·(cid:99)φK
+
+θ 1
+1−α
+
+α
+
+α
+
+(59)
+
+(cid:17)
+
+)
+
+This recursive system of equations can be solved after determination of the ini-
+tial parameters of the system. Assume φX = 1.1 in this case the diagram of the
+impulse responses of the output (ﬁg. 2) shows us that the latter gradually declines
+
+to its initial value. Moreover the rate of convergence decreases with depreciation
+
+rate. Capital holdings experience 1 period lag as the deviation of the capital occurs
+
+only after installation of the new capital (ﬁg. 3).
+
+The phenomenon that rate of convergence decreases with depreciation can be
+
+explained by the fact that when the fraction of the new capital in the equilibrium is
+
+not too high the deviation of the new investment does not shift aggregate parame-
+
+ters too much. Moreover the fact that all the ﬁrms receive the same amount of new
+
+capital whatever has happened leads to the lack of optimality of the capital alloca-
+
+tion, therefore higher shocks decreases slower. The diagram of the response of the
+
+capital (ﬁg. 3) can help to understand the previous explanation even better: from
+the graph we can see that the deviation of the capital, when the δ = 0.2 is almost 10
+times lower than when δ = 1.0. Therefore when the value of depreciation is signif-
+icantly high the response of the capital holdings is fairly high, it leads to rather high
+
+deviation of the output the next period as the only variable source of production -
+
+capital was shifted.
+
+40
+
+Figure 2: Aggregate output in the economy with ex-ante capital allocation and
+with initial deviation of the output by 10%.
+
+Figure 3: Aggregate capital in the economy with ex-ante capital allocation and
+with initial deviation of the output by 10%.
+
+5.2 Ex-post Allocation: Simple Case
+
+Now let’s move to the case of the ex-post capital allocation. As we have agreed this
+
+case will be considered under condition of the full capital depreciation. Therefore
+
+41
+
+the system of the equations that describes this economy is slightly different from
+
+(57).
+
+Xt = θmax · K1−α
+Kt = St−1
+
+t
+
+St−1 =
+
+1 + rnt =
+
+β
+
+E(cid:0)1 + rnt
+(cid:16)
+α ·(cid:16)
+
+(cid:1) + β
+
+· α · Xt−1
+1−α · θ
+1−α · knt
+
+(1− α)· α α
+∑N
+n=1 θ nt
+
+1
+
+1
+1−α
+nt
+
+(cid:17)1−α(cid:17) α
+
+1−α
+
+Similarly, the steady state solution of this system is
+
+(cid:16)α · β − (1− α)
+
+S = K =
+X = θmax · K1−α
+
+β
+
+(cid:17) 1
+
+α
+
+· θmax
+
+(60)
+
+(61)
+
+Using the same notations as in the previous subsection, we can get the responses
+
+on the shock in output:
+
+(cid:99)φX = φ 1−α
+S(cid:99)φK = φS
+φS = φX ·(cid:16)
+
+1 +
+
+(cid:17)
+
+S − 1)· (1− α)· θmax
+(φ α
+(1− α)· θmax + β · Sα · φ α
+
+S
+
+(62)
+
+It is easy to mention that impulse response functions in this case (ﬁg. 4) are
+
+pretty much similar to ones that we have obtained in the previous case.
+
+42
+
+Figure 4: Output, savings and capital holdings in the economy with ex-ante
+capital allocation and with initial deviation of the output by 10%.
+
+5.3 Ex-post Allocation: Proportional Allocation
+
+The last step in our analysis is to study impulse responses in the case of the propor-
+
+tional capital allocation. This investment rule requires to solve the following system
+
+of equations:
+
+Xt =
+
+Kt = (1− δ )· Kt−1 + St−1
+
+(cid:16)
+
+Kt · E(θ 1
+1−α ) + St−1 · cov
+(cid:1) + β
+E(cid:0)1 + rnt
+(cid:16)
+α ·(cid:16)
+
+· α · Xt−1
+1−α · θ
+1−α · knt
+
+(1− α)· α α
+∑N
+n=1 θ nt
+
+β
+
+1
+
+St−1 =
+
+1 + rnt =
+
+(cid:17)
+
+1−α
+
+(63)
+
+θ 1
+1−α ; f (θ )
+E ( f (θ ))
+
+1
+1−α
+nt
+
+(cid:17)1−α(cid:17) α
+
+1−α
+
+The steady state solution yields (64), equations for the responses are (65).
+
+43
+
+(cid:32)α · β ·(cid:16)
+
+(cid:18)
+1−α ) + δ · cov
+
+E(θ 1
+
+1
+1−α ; f (θ )
+θ
+E( f (θ ))
+
+K =
+
+β · δ ·(cid:16)
+(cid:16)
+
+S = δ · K
+
+(cid:16)
+
+1−α ) + δ · cov
+
+E(θ 1
+
+X =
+
+(cid:19)
+(cid:18)
+
+(cid:17)− (1− α)· δ E(θ 1
+
+1−α )
+
+(cid:19)
+
+(cid:17)α
+
+1
+1−α ; f (θ )
+θ
+E( f (θ ))
+
+(cid:33) 1
+
+α
+
+(64)
+
+E(θ 1
+
+1−α ) + δ · cov
+(cid:17)
+
+θ 1
+1−α ; f (θ )
+E ( f (θ ))
+
+(cid:17)1−α · K1−α
+
+1−α
+
+(cid:99)φX =(cid:99)φK
+(cid:99)φK = (1− δ )· φK + δ · φS
+(cid:16)
+
+φS − φX =
+
+(1− α)E
+
+θ 1
+1−α
+
+φX · ((cid:99)φK
+(cid:17) 1−α
+
+α
+
+(cid:16)
+
+(cid:17) 1−α
+(cid:18)
+
+α
+
+α − 1)· (1− α)· E
+
+θ 1
+1−α
+
++ β Kα(cid:16)
+
+E(θ 1
+
+1−α ) + δ
+
+cov
+
+1
+1−α ; f (θ )
+θ
+E( f (θ ))
+
+(cid:19)
+
+(65)
+
+(cid:17)α(cid:99)φK
+
+α
+
+We can notice that the system (65) is practically the same with (59) the only
+
+difference is that there are brackets with covariance in the denominator of the last
+
+equation.
+
+Impulse response functions for all types of proportional allocation are very close
+to each other (up to the 6th decimal)it was because covariance over the expectation
+are rather close for this functions too, moreover the fraction of these members in
+
+the ﬁnal result is fairly small.
+
+Interesting difference in the case of proportional capital allocation from the case
+
+of the ex-ante allocation is that even if the initial deviation from the steady state
+
+of the parameters increases with the depreciation rate, the rate of convergence also
+
+is higher when depreciation is higher. The possible explanation in this case is that
+
+44
+
+more optimal capital allocation provides an opportunity to the economy to behave
+
+in better way. The result of this superior behavior is faster movement to the equilib-
+
+rium path.
+
+Figure 5: Aggregate output in the economy with ex-post proportional (linear)
+capital allocation and with initial deviation of the output by 10%.
+
+Figure 6: Aggregate capital in the economy with ex-post proportional (linear)
+capital allocation and with initial deviation of the output by 10%.
+
+45
+
+5.4 Comparison
+
+To summarize the results let’s consider all the investment rules and the level of the
+
+output that can be obtained under different rates of depreciation.
+
+δ
+Ex-ante
+Simple ex-post
+Linear ex-post
+Power ex-post
+Exponential ex-post
+Logarithmic ex-post
+
+0.2
+50.8
+-
+51.1
+50.9
+50.8
+51.1
+
+-
+
+0.4
+0.6
+33.9 25.9
+-
+34.3 26.4
+34.0 26.1
+33.9 25.9
+34.3 26.4
+
+0.8
+20.7
+-
+21.4
+21.0
+20.8
+21.4
+
+1.0
+16.9
+18.3
+17.8
+17.3
+17.0
+17.8
+
+Table 2: Aggregate output level.
+
+As we can see all the investment rules leads to rather close level of the aggregate
+
+output. However proportional allocation outperforms ex-ante allocation under any
+
+values of depreciation rate. Among all types of the proportional capital allocation
+
+the best results have linear and logarithmic functions. This result intuitively is very
+
+clear: optimal parameters of the linear and logarithmic functions gives zero capital
+
+investment in the company with the lowest possible productivity, therefore capital
+
+was distributed more optimal.
+
+There is no surprise that under full depreciation the best performance shows
+
+simple case of ex-post capital allocation. Obviously, we cannot do better than invest
+
+all the money to the most productive ﬁrm, if we 100% sure that the next period this
+
+ﬁrm would not use any capital in case if it is not the most productive once again.
+
+Comparison of the impulse response functions of the aggregate outputs (7) gives
+
+us the result that proportional capital allocation has the highest convergence rate
+
+under full depreciation. From the previous discussion we can conclude that propor-
+
+tional allocation has grate convergence rate than the one in case of ex-ante allocation
+
+because of the more optimal capital investment. From this point of view it is not
+
+clear why the simple ex-post capital allocation has slower convergence rate than
+
+46
+
+proportional allocation. But recall that simple ex-post allocation has the highest
+
+level of the aggregate parameters and aggregate productivity, therefore the same
+
+response in capital holdings has higher effect on the aggregate production.
+
+Figure 7: Aggregate output in the economy with full depreciation and with
+initial deviation of the output by 10% under different investment rules.
+
+As a result we cannot give a general answer on the question, what type of capital
+
+allocation one should choose. When we deal with the depreciation rate smaller than
+
+one, there is no doubt that linear or logarithmic allocation should be selected, as
+
+both of them have the highest aggregate level of output and the rate of convergence.
+
+More tricky question occurs when we have full capital depreciation. On the one
+
+hand, simple ex-post allocation has higher level of production, on the other hand,
+
+proportional allocation has higher rate of convergence to the equilibrium path. The
+
+ﬁnal decision on the allocation rule under full depreciation should be done with
+
+respect to the individual preferences and the risk tolerance.
+
+47
+
+6 Conclusion
+
+There are different approaches of explanation of the stylized facts that describe
+
+recent behavior of the U.S. economy: decline of the aggregate ﬂuctuations subject to
+
+increased level of the ﬁrm-speciﬁc shocks. In this paper we show that some classes
+
+of distribution of new investment among ﬁrms can diminish aggregate uncertainty
+
+in the economy. We have deﬁned 3 classes of the capital investment rules that
+
+gives stationary distribution of the capital between the ﬁrms in the economy and
+
+under which aggregate ﬂuctuations of production vanish. The ﬁrst class is so called
+
+ex-ante capital allocation, when the distribution occurs before the realization of
+
+the individual productivities. The second one is a simple case of ex-post capital
+
+allocation, when only the most productive ﬁrm assumes new capital each period.
+
+Unfortunately, stationary equilibrium in such an economy exists only under full
+
+capital depreciation. The last studied class of distribution rules is our innovation
+
+and it deals with proportional ex-post capital allocation, when each ﬁrm receive
+
+new capital accordingly to some Borel measurable function of its productivity.
+
+All classes of the capital allocations that we consider guarantee the persistence
+
+of the stationary capital distribution in the economy. As a result joint distribution
+
+of productivities and capital holdings of ﬁrms are stationary as well. Latter leads to
+
+the steady state equilibrium in the aggregate economy.
+
+Among capital allocation rules that give stationarity without full capital depre-
+
+ciation best performance exhibit linear and logarithmic proportional capital alloca-
+
+tions. Equilibrium production level and the convergence rate to the equilibrium path
+
+are the highest in this cases. This phenomenon can be explained by the diminished
+
+fraction of the new capital that goes to less productive ﬁrms.
+
+48
+
+References
+
+Aiyagari, S. Rao (1994), ‘Uninsured idiosyncratic risk and aggregate saving’, The
+
+Quarterly Journal of Economics 109(3), 659–684.
+
+Angeletos, George-Marios (2007), ‘Uninsured idiosyncratic investment risk and ag-
+
+gregate saving’, Review of Economic Dynamics 10(1), 1–30.
+
+Angeletos, George-Marios and Vasia Panousi (2011),
+
+integration,
+risk and global dynamics’, Journal of Economic Theory
+
+‘Financial
+
+entrepreneurial
+146(3), 863–896.
+
+Antunes, Antonio, Tiago Cavalcanti and Anne Villamil (2008), ‘Computing general
+equilibrium models with occupational choice and ﬁnancial frictions’, Journal of
+Mathematical Economics 44(7-8), 553–568.
+
+Bianconi, Marcelo and Stephen J. Turnovsky (2003), The welfare gains from stabi-
+
+lization in a stochastically growing economy with idiosyncratic shocks and ﬂex-
+
+ible labor supply, Technical Report 277.
+
+Carvajal, Andres and Herakles Polemarchakis (2011), ‘Idiosyncratic risk and ﬁnan-
+
+cial policy’, Journal of Economic Theory 146(4), 1569–1597.
+
+Dynan, Karen E., Douglas W. Elmendorf and Daniel E. Sichel (2006), ‘Can ﬁ-
+
+nancial innovation help to explain the reduced volatility of economic activity?’,
+Journal of Monetary Economics 53(1), 123–150.
+
+Gabaix, Xavier (2005), The granular origins of aggregate ﬂuctuations, Technical
+
+Report 470.
+
+Hopenhayn, Hugo A. and Edward C. Prescott (1992), ‘Stochastic monotonicity
+and stationary distributions for dynamic economies’, Econometrica 60(6), 1387–
+1406.
+
+49
+
+Huggett, Mark and Sandra Ospina (1998), On aggregate precautionary saving:
+
+When is the third derivative irrelevant?, Technical Report 9802.
+
+Irvine, Owen and Scott Schuh (2002), Inventory investment and output volatility,
+
+Technical Report 02-6.
+
+Khan, Aubhik and Julia K. Thomas (2011), Credit shocks and aggregate ﬂuctuations
+
+in an economy with production heterogeneity, Technical Report 17311.
+
+Krusell, Per and Jr. Smith, Anthony A. (1999), ‘On the welfare effects of eliminat-
+
+ing business cycles’, Review of Economic Dynamics 2(1), 245–272.
+
+Kydland, Finn E. and Edward C. Prescott (1982), ‘Time to build and aggregate
+
+ﬂuctuations’, Econometrica 50(6), 1345–1370.
+
+Polemarchakis, H. and J. Dutta (1992), ‘On the aggregate effects of individual
+risks’, Economic Analysis of Markets and Games: Essays in Honor of F.H. Hahn
+pp. 478–500.
+
+Santos Monteiro, Paulo (2008), Family labor supply and aggregate saving, Techni-
+
+cal Report 875.
+
+Stock, James H. and Mark W. Watson (2003), Understanding changes in interna-
+
+tional business cycle dynamics, Technical Report 9859.
+
+50
+
+A Stationarity of the Capital Distribution
+
+By the deﬁnition the distribution of capital is stationary if the joint distribution of
+
+capital holdings of individual ﬁrms is time invariant. We will proof it using the
+
+wide-sense stationarity, i.e. when the mean and auto-covariance functions do not
+
+depend on time.
+
+Recall that capital holdings of ﬁrm i are described by the equation:
+
+Expectation of the capital holding:
+
+kiT =
+
+T
+
+∑
+t=−∞
+
+(cid:17)
+
+(cid:16)
+
+kiT
+
+E
+
+= E
+
+(cid:1)
+
+∑N
+
+∑N
+
+(1− δ )T−t ·
+
+(1− δ )T−t ·
+
+(cid:16) T
+(cid:16)
+∑
+t=−∞
+∑T
+
+f(cid:0)θit
+(cid:1)· Zt
+n=1 f(cid:0)θnt
+f(cid:0)θit
+(cid:1)· Zt
+(cid:1)(cid:17)
+n=1 f(cid:0)θnt
+(cid:1)(cid:17)
+t=−∞(1− δ )T−t · f(cid:0)θit
+(cid:1)
+n=1 f(cid:0)θn
+(cid:1)(cid:17)
+(cid:16)
+f(cid:0)θit
+(cid:1)
+n=1 f(cid:0)θn
+t=−∞(1− δ )T−t · E
+(cid:1)(cid:17)
+(cid:16)
+f(cid:0)θi
+n=1 f(cid:0)θn
+(cid:1) · ∞
+(cid:16)
+(cid:1)(cid:17)
+∑
+f(cid:0)θi
+τ=0
+(cid:1)
+n=1 f(cid:0)θn
+
+∑N
+
+∑N
+
+(1− δ )τ
+
+Z · E
+
+Z · ∑T
+
+Z · E
+∑N
+Z · E
+δ · ∑N
+
+=
+
+=
+
+=
+
+=
+
+(A.1)
+
+(A.2)
+
+Here we use explored above facts that in the equilibrium total investments are
+
+a constant fraction of the output, which is constant in equilibrium too. Therefore
+
+expected value of capital holdings does not depend on time, that is remains constant
+
+over time.
+
+51
+
+(cid:1)−E(cid:0) f (θi)(cid:1)(cid:3)(cid:17)(cid:33)
+(cid:1)−E(cid:0) f (θi)(cid:1)(cid:3)(cid:17)(cid:33)
+
+Auto-covariance of kiT1 and kiT2 (T2 > T1):
+
+COV (kiT1,kiT2) = E
+
+Z2·E
+
+Z2·E
+
+∑T1
+
+Z2·E
+
+∑T1
+
+(cid:32)(cid:16)
+(cid:32)(cid:16)
+(cid:32)
+(cid:32)
+
+∑T2
+
+∑N
+
+∑N
+
+∑T2
+
+∑T−1
+
+(cid:32)(cid:16)
+
+kiT2 − E(kiT2)
+
+(cid:17)(cid:33)
+(cid:17)·(cid:16)
+kiT1 − E(kiT1)
+(cid:1)−E(cid:0) f (θi)(cid:1)(cid:3)(cid:17)(cid:16)
+t=−∞(1−δ )T1−t(cid:2) f(cid:0)θit
+t=−∞(1−δ )T2−t(cid:2) f(cid:0)θit
+(cid:16)
+(cid:1)(cid:17)2
+n=1 f(cid:0)θn
+(cid:1)−E(cid:0) f (θi)(cid:1)(cid:3)(cid:17)(cid:16)
+t=−∞(1−δ )T1−t(cid:2) f(cid:0)θit
+t=−∞(1−δ )T2−t(cid:2) f(cid:0)θit
+(cid:16)
+(cid:1)(cid:17)2
+n=1 f(cid:0)θn
+(cid:33)
+t=−∞(1−δ )T1+T2−2∗t(cid:2) f(cid:0)θit
+(cid:1)−E(cid:0) f (θi)(cid:1)(cid:3)2
+(cid:1)(cid:17)2
+n=1 f(cid:0)θn
+∑t1(cid:54)=t2 (1−δ )t1+t2·(cid:2) f(cid:0)θit1
+(cid:1)−E(cid:0) f (θi)(cid:1)(cid:3)(cid:2) f(cid:0)θit2
+(cid:16)
+(cid:1)(cid:17)2
+n=1 f(cid:0)θn
+(cid:32)(cid:2) f(cid:0)θit
+(cid:1)(cid:17)2
+(cid:16)
+n=1 f(cid:0)θn
+(cid:1)(cid:17)
+(cid:16)
+f(cid:0)θi
+(cid:1)(cid:17)2
+n=1 f(cid:0)θn
+
+(cid:1)−E(cid:0) f (θi)(cid:1)(cid:3)(cid:33)
+(cid:33)
+(cid:1)−E(cid:0) f (θi)(cid:1)(cid:3)2
+
+(cid:16)
+
+(cid:16)
+
+∑N
+
+∑N
+
+∑N
+
++
+
+=
+
+=
+
+=
+
++
+
+=
+
+=
+
+Z2·E
+
+Z2·(1−δ )T2−T1·∑T1
+
+t=−∞(1−δ )2∗(T1−t)E
+
+Z2·(1−δ )T2−T1·VAR
+
+2·δ·(1−δ )·
+
+∑N
+
+(A.3)
+
+As we can see from (A.3) covariance does not depend on the values of T1 and T2,
+but only on its difference. Therefore, mean and covariance of the capital holdings
+
+does not vary over time. Consequently, we can conclude, that the distribution of the
+
+capital of any arbitrary ﬁrm is stationary.
+
+52
+
+B Simulation Results
+
+For the simulation we use the following parameters of the economy:
+
+Parameter
+
+Value
+
+α
+0.67
+
+β
+0.95
+
+θmin θmax
+10
+9
+
+Table B.1: List of Parameters.
+
+δ
+
+parameter
+
+ex-ante
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+capital
+output
+
+productivity
+
+capital
+output
+
+productivity
+
+capital
+output
+
+productivity
+
+capital
+output
+
+productivity
+
+capital
+output
+
+productivity
+
+153.4
+50.8
+9.509
+45.1
+33.9
+9.509
+20.1
+25.9
+9.509
+10.4
+20.7
+9.509
+5.6
+16.9
+9.509
+
+simple
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+6.1
+18.3
+10.000
+
+ex-post
+power
+152.8
+50.9
+9.523
+45.5
+34.0
+9.536
+20.4
+26.1
+9.550
+10.6
+21.0
+9.564
+5.9
+17.3
+9.578
+
+linear
+153.4
+51.1
+9.542
+46.0
+34.3
+9.575
+20.8
+26.4
+9.608
+11.0
+21.4
+9.640
+6.2
+17.8
+9.672
+
+Table B.2: Simulation Results.
+
+exp
+152.4
+50.8
+9.510
+45.2
+33.9
+9.512
+20.1
+25.9
+9.514
+10.4
+20.8
+9.515
+5.7
+17.0
+9.517
+
+log
+153.4
+51.1
+9.541
+46.0
+34.3
+9.573
+20.8
+26.4
+9.606
+11.0
+21.4
+9.638
+6.2
+17.8
+9.670
+
+Here we consider implied productivity, so such θ that solves X = θ · K1−α
+
+53
+
+

@@ -1,0 +1,395 @@
+National Research University
+
+ Higher School of Economics
+
+Faculty of Business Informatics
+
+Department of Information Systems Strategic Management
+
+
+
+
+
+DRAFT
+
+of the paper
+
+«Automation of contract management in holding company»
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2013
+
+Abstract
+
+This paper represents a draft of bachelor's graduation project, which attempts to overcome the problem of automation of contract management in holding companies. The question of holding company management as well as business process automation is deeply studied. Although the task of automation of contract management in holdings is not central issue of the most studies in the field of improving efficiency of company by means of information technology, nevertheless in practice, the solution is automation of business processes. The papers on automation of contract management are often devoted to the research of characteristics and challenges of contract management. In contrast, this paper addresses the problem of business process automation in holdings in the scope of contract management and proposes a solution, that allows widen the knowledge in this field. The approaches used in this paper include business process modeling and functional value analysis. Urgency and insufficiency of knowledge about the problems of automation of contract management in holdings determine the relevance of the research topic. The results can be used for business process automation in holdings.
+
+Key terms: business process, business process modeling, automation, holdings.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+Nowadays competitive environment requires from the majority of companies the use of information technology (IT) to improve the manageability of business processes. In response to a business need many vendors offer IT solutions, which differ by type of data storing, the degree of automation, scope, and nature of the data management level. Existing solutions can improve execution and quality control of processes by entering metrics and indicators and increase their speed, which potentially has a positive effect on the productivity of the company. The most popular functional modules, that such solutions include, are financial management and manufacturing. Document management is an important part of corporate information systems; it is a component of systems of different standards such as ERP, SCM, CRM, CSRP, ERP II. Tadviser’s database records the fact of implementing of 338 automation projects on electronic document management in various sectors of the economy only in 2012, which also include automation of contract management. "In a period of rapid, extensive growth tasks of implementing of automated information systems are solved independently. Parent companies only outline the composition and structure of the output data. As a result, there are not two identical information systems in all the subsidiaries, furthermore standardized solutions are not mentioned at all. As the management tasks require more and more information, receive it in a uniform way is getting harder and harder. Standardization of business processes and detailed study of accounting processes and workflow become relevant" (Pilkin, 2005). In practice, this statement is confirmed by the work on development of standardized data systems for holding companies and their subsidiaries; for instance, "Russian Railways", "Gazprom" and "LUKOIL" use SAP ERP solutions.
+
+The problems arising in the scope of contract work explain the need for its automation. A contract is the basis for delivery of products or services, sales, procurement and hiring. This document and complex of contractual documentation (invoices) capture the fact of substitution of financial resources by the others. The absence of a standardized approach to the management of contracts causes problems such as inability of operational access to an original agreement or contract and the accompanying documentation (additional agreements, documents confirming delivery, payment), long period of contract approval, inability to control the fulfillment of obligations by the parties, fragmentation of contract accounting systems. The solution to these problems is an automated system of contract management. The effective contract management improves the speed and quality of decision-making at all levels of management: strategic, tactical, and operational. Moreover contract management systems allow providing near real-time access to relevant documents and ensuring their safety. During the automation of business processes occurs a number of difficulties, for example, Dolotin I.V. identifies the following ones:
+
+• Related to the difficulty of management of holding company:
+
+«absence of full and complete information of enterprise in the whole company;
+
+necessity of long period of time for decision making;
+
+disparity of the structural units of the company, the growing of amount of time of daily work"(Dolotin I.V., 2004). 
+
+• Related to the specific of IT infrastructure of holding company:
+
+«disconnection corporate information database consists of several  d components;
+
+duplication of input data of the automated management system (AMS);
+
+expensive cost of ownership of AMS and IT-infrastructure and dependence of effectiveness of automated operation on a individual employee;
+
+data security issues" (Dolotin I.V., 2004).
+
+The consequences of these problems within the automation of contract work are: complexity of accumulation of data and integration of different systems, data duplication, long and laborious route matching contracts, rationality of user access and permission. There are so many problems, which lead to fails of IT projects, that result not only in loss of investments in them, but also indirect costs due to lack of functionality of the claimed design, that is caused by incorrect operation of the system. "The failed implementation of IT projects in 2009 brought a loss of $ 6.2 trillion dollars"(Krigsman, 2009). The statistics of losses referencing to electronic document management systems are not collected, but in terms of the success of their implementation "world statistics provide disappointing statistics: only about 40% of the projects are implemented relatively well, half of them - successful. The rest of them are a complete or partial failure" (Pivnenko, 2007). As for holdings the risk of failure of automation project is especially critical, since a significant financial loss of a large holding, for example, "Gazprom" or "Rosatom" can cause serious negative consequences for the economic situation in country. Process automation tools should not threaten the economic welfare of business entities; on the contrary, their purpose is to improve the efficiency of organizations. Thus it is important to clarify what reasons cause irrelevance of contract management systems to needs of business and solve emerging issues. Since this process is very closely linked to the processes of procurement, marketing, financial management, planning, it allows to identify the barriers to efficient automation of an entire company. However the theme is extremely important, it is not well-studied. Among the works in this subject area can be noted a thesis for the degree of Candidate of Economic Sciences "Visual modeling and simulation and process automation of the contract activity at the enterprises holding type "dedicated to the management of the contract work in the companies of holding type written by Corjov D.P. Therefore, this topic is relevant both from a practical point of view, and from a theoretical one; it is not yet completely studied by researchers, at the same time it is critically important for businesses. Hence the problem of automation of contract management in holding companies is in the focus of attention of the author in this paper.
+
+The objects of the study are the companies of holding type and their constituent subsidiaries. The subject of the research is the process of contract management in holding companies and their subsidiaries. 
+
+The aim of the study is to develop a set of recommendations for automation of contract management in holdings, performing the following tasks: 1. Examination and determination of characteristics of the business process of contract management in holdings; 2. Review, analysis and selection of methodology for business processes modeling and formulation of rational requirements for models, modeling of process of contract management "as is" and "as it should be"; 3. Functional value analysis of the processes "as is" and "as it should be"; 4. Analysis of market of automated contract management systems and experience of contract management automation, formation the requirements for IT solutions; 5. Development of the procedure and criteria for the selection of IT solutions of automation of contract management, recommendations for organizing and execution of the selection process in holding companies;
+
+During the study the following methods and research tools are employed:
+
+theoretical methods of analysis, formalization, modeling, induction, classification; 
+
+empirical methods: observation, comparison, and measurement;
+
+special methods: functional value analysis; 
+
+tools for business process modeling: Ramus, ARIS. 
+
+The work has the following results: the description of the problems encountering in typical business process of contract management in the holdings, the recommendations on the choice of methodology for business process modeling, the requirements for business process models, the functional models of business processes of contract management "as is" and "as it should be", the functional value analysis of processes of the models "as is" and "as it should be", the analysis of the market of automated contract management systems and the development of the set of the requirements for information technology solutions in this domain, the  development of the procedure for the choice of IT solutions and the suggestions on selection and evaluation of its criteria, the development of the example, which demonstrates applicability of the suggestions.
+
+The research has several limitations, firstly, the legal distinction between a treaty and a contract in this paper is not considered. Secondly, the findings and recommendations can become obsolete due to changes in technology, methodologies and legislation. Since the success of technology standards is influenced by qwerty-effects, more effective modeling methodology can be introduced in this area. Also, the Russian legal system is changing periodically, although the Federal Law of Russian Federation about Electronic Signature equates most electronic documents to paper ones, there can be kinds of contracts, which are valid just in paper form. These conditions could have a significant impact on the applicability of the recommendations that is the reason why the existing legislation should be monitored for their adequate use.
+
+The developed methods and recommendations are tested on demonstrational examples in order to prove their effectiveness and relevance to the problem of automating of contract management in holdings. Examples are developed through analysis of completed projects.
+
+The results may be useful for IT organizations involved in automation of business processes of a holding company. In the scope of this paper the term “IT organization” is referred to an organizational unit, which is one of subsidiaries of holding or not, providing information technology services. For instance, it can be IT department of a holding, a subsidiary or a third-party organization.
+
+The research consists of three components: theoretical, analytical and practical which are observed further. 
+
+Theoretical part
+
+In this part of the final paper work the problems and characteristics of contract management in holdings are revealed and discussed. In addition, a business process of contracting work in the holding is defined. This part also describes the situation of the use several automated systems simultaneously and the challenges of their integration. The basis of this work is formed by literature, which can be subdivided into 3 groups. Two of them is referred to the one issue, the third to the other. 
+
+The study of problems of automation of contract management in holding companies is based on pieces of research from two groups. The first group of investigations is focused on the issue of holding company management. The following authors have studied this problem: Gorbunov A.R., Tarelkina T., Prokopovich D.A., Kostrov I. A., Kovshov E. E., Osipenko O.V., Kizina I.D. The second group contains works of Romanov D.A. and Kunyayev N.N., who have analyzed the question of contract management automation. According to the named authors, the process of contract management automation in holding company includes the following tasks, which causes difficulties:
+
+accumulation and processing data of different structure;
+
+integration of different systems within information technology infrastructure;
+
+avoidance of duplication of data, reducing the duration of contract endorsement;
+
+planning of optimal routes of contract endorsement;
+
+management of user permissions and rights;
+
+standardization of the structure of contracts;
+
+protection of confidential and sensitive information.
+
+The next point of this chapter is to explore and describe the typical process of contract management. According to project documentation of automation of contract management in the subsidiaries of the holding company XXX, it consists of the following sub-processes: choice of the counterpart, development of the project agreement, endorsement with the counterpart, endorsement within the company, signing, execution, prolongation, changing the terms of the contract, control the execution of the contract, termination of the contract.
+
+The second question, which is necessary to discuss, is choice of modeling methodology. In the scope of business process modeling there are several popular methodologies and notations. Business-process modeling methodologies are described in pieces of research written by Scheer A., Kalyanov G. N., Vsyakikh E.I., Grekul V.I. The named authors in their research have provided modeling standards and methodologies with descriptions of their main principles and features. This information allows taking an option on them depending on the subjecting area. The advantages and disadvantages of SADT, IDEF, DFD and ARIS are listed in the table 1.
+
+Table . Modeling methodologies
+
+Therefore data flow diagrams are best suited for analysis and workflow. Methodology and software for modeling business processes, developed by A. Scheer, relieve to describe business processes from multiple perspectives: organizational, functional, data and control. Basing on the fact, that process of contract management should be decomposed into sub-processes as well as illustrative to show the document flow and sequence of execution of functions in the business processes, notations VAD, EPC and DFD are used. The above theoretical material is basis for the analytical part of the work.
+
+Analytical part
+
+The analytical component of this research involves the analysis of the demand for IT-solutions for automation of contract management, the justification for the automation of the process and the objectives, which are pursued by the project of automation. The task list of automation includes automation of management of contracts with individual suppliers and customers, optimization of the list of persons with the division of administrative decisions between the levels of management, monitoring of contractual obligations, ensuring prompt and regular access to contracts and their safety. The main objective of automating of the process of contract management is to develop standardized rules of contract work, which allow producing reports on various aspects of decision making quickly and improving the efficiency of interaction with counterparties. The necessity of automation of this process in a company is justified on the criteria of the volume and intensity of contract work, cost of errors and the time of processing of each document. If the cost of manual processing of paper contracts is comparable to the cost of ownership of an automated system, the choice is made in favor of automation.
+
+To perform the above mentioned tasks the following list of measures is proposed: standardization of contract structure, classification of contracts by type, specifying a list of required attributes of each type of contract. The order of backup and storage contracts also should be regulated. Furthermore quantitative assessment of criteria and indicators of efficiency of business processes of different types of contracts should be introduced. An example of these criteria for the process of employment is given in the article "Practical experience in building business process models in the regional network companies" written by Vorobyov A.A.:
+
+ "Criterion: Cost of selection on one candidate.
+
+Indicator: Number of wasted money.
+
+Significance: from ___ to _____ thousands of rubles to manager, from ___ to _____ thousands of rubles the worker.
+
+The method of calculation: Head of the Department of Personnel Management calculates the average rate for the quarter and provides detailed report to process owner 2 days before the end of the quarter" (Vorobyev, 2008).
+
+The next analytical component is the business process modeling and optimization. Models are designed using the notations selected in the theoretical part. Functional value analysis model is performed to assess and determine the effectiveness of the suggested changes. A list of automated functions is formed basing on the description of the existing model of contract management process and suggestions that proves their rationality during functional value analysis. To make the final decision on the automation of processes and functions, this possibility is carefully considered. For some contracts may be legal restrictions that require the conclusion of the contract in paper form, although the Federal Law of Russian Federation about Electronic Signature removes most of these limitations.
+
+The next part of the study is the analysis of automated systems for contract work and practical experience in the sphere of automation of contract management in holding companies. The recommended IT solution for illustrative example is obtained from the list of the most popular IT solutions that have proven their advantages in the implementation in the holding companies. The research of positive qualities of the list of IT solutions and the list of automated functions is used to devise a procedure and criteria for the choice of IT solution.
+
+The findings of the analytical part of the work allow formulating of applicable recommendations.
+
+Practical part
+
+The practical part of the work involves the development of selection criteria and the guidelines for their evaluation. Also in this part of the study the procedure for selecting IT solutions for automation contract management is offered, as well as illustrative examples, which prove the relevance of the recommendations to the problem of the choice of IT solutions in the company of holding type.
+
+The criteria include qualitative and quantitative indicators. Qualitative indicators comprise the presence of the required functionality at the IT solutions and compatibility with other components of IT infrastructure, scalability, and support the consistency and security of data. Quantitative criteria contain the cost of ownership of solution, the maximum amount of data stored, and the maximum number of users working in the system simultaneously.
+
+The developed selection procedure consists of three stages, each of which uses different criteria to narrow the list of solutions-candidates. At the end of the procedure should be selected one IT solution that satisfies all the requirements of contract management process automation in holding company. In order to ensure the applicability of the proposed selection strategy, the guidance, which makes it adaptive, is provided.
+
+Conclusion
+
+The goal, which was set initially, is achieved. The set of recommendations for automation of contract management in the holding is developed according to the principle of convenience and efficiency of practical use. During the research the characteristics of the business process of contract management in holding company are determined and studied, the review and the analysis of methodologies and notations of business process modeling are provided, the modeling notations are chosen and the models "as is" and "as it should be" are designed. Moreover functional value analysis is performed. The situation in the market of automated contract management and experience of contract management automation are analyzed. The conclusions of the analysis define the functional requirements for IT solutions. Moreover the procedure and a set of criteria for the selection of IT solutions for automation of contract management are developed, recommendations for the organization as to how organize the process of choice to select the most suitable IT solution.
+
+ However a great work is done, there is still a number of interesting aspects to explore. For example, master data management systems have been implemented in the holdings in this decade fairly often.  The use of such systems influences on the correctness of the data almost in all company documents, particularly contracts. Whereas the necessity of updating and adjustment of records about counterparties and materials in the enterprise information system significantly affects the duration of conclusion of treaties.
+
+In conclusion it can be said that holding company structure has a significant impact on the complexity of the management of its operations and processes automation. The attention should be paid to the specifics of the holding companies in automation projects, although the results of the implementation may not justify the investment. The proposed guidelines can be used to consider this fact. They can and should be modified depending on the particular situation and only indicate the possible direction structuring the procedure for automation of a business process of contract management in a company of holding type and facilitating it.
+
+Glossary
+
+ARIS (Architecture of Integrated Information Systems) is a methodology to enterprise modeling. It offers methods and tools for analyzing processes and taking a holistic view of process design, management, work flow, and application processing. 
+
+Customer relationship management (CRM) is a model of an information system for managing a company’s interactions with current and future customers. 
+
+Customer synchronized resource planning (CSRP) – company resource planning oriented on customer’s needs.
+
+Data flow diagram (DFD) is a graphical representation of the "flow" of data through an information system, modeling its process aspects. 
+
+Enterprise resource planning  II (ERP II) – is a system which comprises software and hardware that allows these companies to run the equivalent of two ERP systems at once: one at the corporate level and one at the division or subsidiary level. 
+
+Event-driven Process Chain (EPC) is a type of flowchart used for business process modeling.
+
+Integration DEFinition (IDEF) refers to a family of modeling languages in the field of systems and software engineering. 
+Enterprise resource planning (ERP) is a term referring to information systems integrate internal and external management information across an entire organization.
+
+Ramus – a business process modeling software. 
+
+Structured Analysis and Design Technique (SADT) is a software engineering methodology for describing systems as a hierarchy of functions. 
+
+Supply chain management (SCM) is the management of a network of interconnected businesses involved in the provision of product and service packages required by the end customers in a supply chain. 
+
+Value added chain (VAD) is a means of describing the way that commercial businesses tend to generate additional benefits or values during the course of their usual operation. 
+
+List of references
+
+Krigsman M. (2009) Worldwide cost of IT failure: $6.2 trillion. ZDNet. (URL: http://www.zdnet.com/blog/projectfailures/worldwide-cost-of-it-failure-6-2-trillion/7627);
+
+Алынанников А. Все под контролем, или Автоматизация договорной работы. PC Week, №12/2006, 13 апреля 2006г;
+
+Вендров А.М. Методы и средства моделирования бизнес-процессов (обзор), Jet Info №10, 2004 г. (URL: );
+
+Войнов И. В., Пудовкина С. Г., Телегин А. И. Моделирование экономических систем и процессов. Опыт построения ARIS-моделей: Монография. – Челябинск: Изд. ЮУрГу, 2002. – 392 с.;
+
+Воробьев А.А., Ярин А.В. Практический опыт построения модели бизнес-процессов в региональных сетевых компаниях, 2008, №1();
+
+Горбунов А. Р. Дочерние компании, филиалы, холдинги. Профессиональные методики. Регламенты и инструкции. Учёт в холдинге. — 5-е изд., доп. и перераб. — М.: Глобус, 2005. — 216 с. 
+
+Грекул В.И., Денишенко Г. Н., Коровкина Н. Л. Проектирование информационных систем. М.: Интернет-Ун-т Информ технологий, 2005  – 304 с.;
+
+Гританс Я. М. Организационное проектирование и реструктуризация (реинжиниринг) предприятий и холдингов: экономические, управленческие и правовые аспекты (практическое пособие по управленческому и финансовому консультированию). М.: Волтерс Клувер, 2005. – 205 с.
+
+Гришин В.Н., Панфилова Е.Е. Информационные технологии в профессиональной деятельности: Учебник.  - М. : ФОРУМ : ИНФРА-М, 2005 – 416 с.;
+
+Джеймс Харрингтон, K.C. Эсселинг, Харм Ван Нимвеген Оптимизация бизнес-процессов. Документирование, анализ, управление, оптимизация. СПб.: Азбука, 2002. – 171 с.;
+
+Долотин. И. Автоматизация холдинговых структур: основные подходы, Корпоративный менеджмент, 2004, №10. (URL: )
+
+Калянов Г.Н. Моделирование, анализ, реорганизация и автоматизация бизнес-процессов: Учеб. Пособие. – М.: Финансы и статистика, 2006. – 240 с.;
+
+Карпов С.Н., Павличенко С.И., Якштес В.А. Применение штрихового кодирования в промышленности. Качество, инновации, образование и CALS-технологии. Материалы международного симпозиума под редакцией д.т.н., профессора В.Н. Азарова. — М.: Фонд «Качество», 2005. —129-135 с.;
+
+Кизина И.Д. Решения ОАО "НЕФТЕАВТОМАТИКА" для современных систем оперативного управления производством в нефтегазодобыче, Автоматизация, телемеханизация и связь в нефтяной промышленности, 4/2009; 
+
+Коржов Д. П. Визуальное и имитационное моделирование и автоматизация процессов ведения договорной деятельности на предприятиях холдингового типа: диссертация на соискание ученой степени кандидата экономических наук: 08.00.13. Ростов-на-Дону: РГЭУ «РИНХ», 2009. – 147 с.
+
+Костров И. А., Ковшов Е. Е.  Построение и реализация информационной системы для управления персоналом промышленного холдинга. ФГБОУ ВПО Московский государственный технологический университет «СТАНКИН»,  Москва, 2012;
+
+Куняев Н.Н., Фабричнов А.Г., Дёмушкин А.С. Конфиденциальное делопроизводство и защищенный электронный документооборот: учебник. – М.: Логос, 2011. – 448 с.
+
+Макаров С. Управление договорами — на стыке интересов и технологий. BYTE Россия, №4 (103) апрель 2007 (URL: , дата просмотра: 29.01.2013);
+
+Остервальдер А., Пинье И. Построение бизнес-моделей: Настольная книга стратега и новатора; Пер. с англ. – 2-е изд. – М.: Альпина Паблишер, 2012 – 288 с.;
+
+Пилькин Р. , CNews, 2005 (URL: );
+
+Романов Д.А., Ильина Т.Н., Логинова А.Ю. Правда об электронном документообороте. - М.: Компания АйТи: ДМК Пресс, 2004
+
+Скутин А. Автоматизация управления договорной деятельностью. «Финансовый директор», №5 (май), 2006г;
+
+Тарелкина Т.В. Что холдинг должен знать о своих дочках, Справочник экономиста, №3(33), март 2006;
+
+Черемных С. В., Семенов И. О., Ручкин В. С. Структурный анализ систем. М.: Финансы и статистика, 2003. – 208 с.;
+
+Шеер А. Моделирование бизнес-процессов; Пер. с англ. – 2-е изд. – М.: Весть-МетаТехнология, 2000 – 222 с.;
+
+Шубенцева Л.А. Информационное обеспечение процессов управления дочерними и зависимыми обществами в холдинге. Сборник научных трудов SWORLD по материалам международной научно-практической конференции, №1(21), 2012. – с. 28-30;
+
+ Институт типовых решений – производство "Потери заказчика на проектах ИТ - о чем молчат "автоматизаторы"?" – 50 с.
+
+Проектная документация автоматизации бизнес процесса управления договорами в дочерних обществах компании XXX.
+
+Федеральный закон Российской Федерации от 6 апреля 2011 г. N 63-ФЗ "Об электронной подписи";
+

@@ -1,0 +1,6753 @@
+ 
+
+Правительство Российской Федерации 
+
+ 
+
+Федеральное государственное автономное образовательное 
+
+учреждение высшего профессионального образования 
+
+ 
+
+"Национальный исследовательский университет 
+
+"Высшая школа экономики" 
+
+ 
+
+Факультет менеджмента 
+
+Кафедра управления проектами 
+
+ 
+
+ 
+
+МАГИСТЕРСКАЯ ДИССЕРТАЦИЯ 
+
+на тему 
+
+«Управление проектами по принципам бережливого производства: 
+
+разработка метода оценки эффективности проектного контроля» 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Студент группы № 
+
+726 
+
+Андреев А.Д. 
+
+ 
+
+Научный 
+
+руководитель 
+
+Царьков И.Н., доцент, 
+
+к.э.н. 
+
+ 
+
+ 
+
+Москва, 2014 г. 
+
+1 
+
+ 
+
+ 
+
+Abstract 
+
+This  dissertation  is  an  attempt  to  shed  the  light  on  the  use  of  lean  principles  and 
+
+tools  in  project  based  service  organization  and  their  potential  meaning  for  project 
+
+management  in  terms  of  expanding  the  functions  of  current  methodology  of  project 
+
+progress  and performance measurement.  In more detail, this is  an exploratory desk-based 
+
+research  conducted  to  demonstrate  the  application  of  devised  methodology  of  measuring 
+
+project  efficiency,  grounded  in  key  concepts  of  lean  manufacturing,  such  as  Overall 
+
+Equipment Effectiveness (OEE), Waste identification and Value Stream Mapping (VSM). 
+
+At  present,  numerous  successful  attempts  have  already  been  made  to  adopt  lean  thinking 
+
+within  Project  Based  Organizations  (PBOs)  in  industries  ranging  from  management 
+
+consulting  to  publishing  and  IT  companies  (Corbet,  2007).  However,  the  link  between 
+
+technical  (operational)  management,  which  lean  is  primarily  aimed  at,  and  project 
+
+management,  remains  indistinct.  In  other  words,  the  debates  continue  on  whether  lean 
+
+principles and tools can lay in foundation of a purely management method. The results of 
+
+the  study  elaborate  on  the  applicability  and  significance  of  the  learning  connected  with 
+
+project performance measurement and provide project managers with a powerful extension 
+
+of the Earned Value (EV) methodology.   
+
+ 
+
+ 
+
+ 
+
+2 
+
+ 
+
+ 
+
+Table of Contents 
+
+ 
+
+ 
+
+ ...................................................................................................................................................2 
+Abstract 
+Table of Contents .........................................................................................................................................3 
+ ...................................................................................................................................................5 
+Glossary 
+List of Figures...............................................................................................................................................6 
+
+INTRODUCTION ....................................................................................................................................................... 7 
+
+1.1. 
+1.2. 
+1.3. 
+
+Research actuality and aim .......................................................................................................7 
+Research scope, questions and objectives ............................................................................... 11 
+Paper methodology and structure ........................................................................................... 13 
+
+THEORETICAL FOUNDATION OF LEAN PROJECT MANAGEMENT AND ITS APPLICATION 
+IN SERVICE PBO ..................................................................................................................................................... 16 
+
+2.1. 
+
+Lean management: from manufacturing to service industry ............................................ 16 
+
+2.1.1. 
+2.1.2. 
+
+Lean concepts in support of project control ............................................................................ 17 
+Analytical tools ........................................................................................................................ 18 
+
+2.2. 
+
+Antecedents for application in service industry ................................................................. 20 
+
+2.2.1. 
+2.2.2. 
+2.2.3. 
+2.2.4. 
+
+Definition of a service ............................................................................................................. 21 
+Lean Service: cases and impact on performance .................................................................... 21 
+Differentiating among service industries ................................................................................. 23 
+Challenges for the custom cluster............................................................................................ 25 
+
+2.3. 
+
+Towards lean project management: framework of the study ............................................ 27 
+
+2.3.1. 
+2.3.2. 
+2.3.3. 
+2.3.4. 
+
+Earned value ............................................................................................................................ 29 
+Relation to project and project management success .............................................................. 30 
+Process efficiency and value stream: towards effective Project Management ........................ 32 
+Management and learning aspects of proposed approach ...................................................... 33 
+
+MAPPING THE CURRENT STATE: EMPIRICAL JUSTIFICATION OF PROPOSED 
+METHODOLOGY .................................................................................................................................................... 35 
+
+3.1.  Methodological framework ................................................................................................. 35 
+
+3.1.1. 
+3.1.2. 
+
+Research hypothesis ................................................................................................................ 38 
+Main goal and objectives ......................................................................................................... 39 
+
+3.2. 
+
+Data analysis ....................................................................................................................... 40 
+
+3.2.1. 
+3.2.2. 
+3.2.3. 
+3.2.4. 
+3.2.5. 
+
+Sample and dataset characteristics ......................................................................................... 40 
+Qualitative stage ...................................................................................................................... 41 
+Secondary data analysis .......................................................................................................... 44 
+Quantitative stage: OEE project overview .............................................................................. 46 
+Value Steam Map of company’s processes .............................................................................. 48 
+
+3.3. 
+
+Discussion of the results ..................................................................................................... 50 
+
+PRACTICAL RECOMMENDATIONS .................................................................................................................. 53 
+
+4.1 Standardization .......................................................................................................................... 53 
+
+ 
+
+3 
+
+ 
+
+ 
+
+4.2. Knowledge-based project control loop (KPCL) ........................................................................ 55 
+
+CONCLUSION  ......................................................................................................................................................... 58 
+
+CRITICAL REFLECTIONS ................................................................................................................................... 61 
+
+REFERENCES  ......................................................................................................................................................... 62 
+
+APPENDIX A 
+
+ ......................................................................................................................................................... 72 
+
+Exhibit 1. McKinsey & Company case study of Lean in global investment bank ..................................... 72 
+Table 1. Lean Principles ............................................................................................................................. 73 
+Exhibit 2. Lean methodologies and tools.................................................................................................... 74 
+Table 2. Description of original lean tools ................................................................................................. 74 
+Exhibit 3. Calculation of OEE .................................................................................................................... 76 
+Exhibit 4. Categorization of literature related to application of lean principles ......................................... 77 
+Table 3. Characteristics of service industry clusters ................................................................................... 78 
+Table 5. Ten wastes of service industry ...................................................................................................... 79 
+Exhibit 5. Value Stream Map ..................................................................................................................... 80 
+Exhibit 6. Abbreviations for Value Stream Map ........................................................................................ 81 
+
+APPENDIX B 
+
+ ......................................................................................................................................................... 83 
+
+PART 1 Interview Guide ............................................................................................................................ 83 
+PART 2 Supplementary materials for interview guide ............................................................................... 85 
+Table 1. Codes of waste types in the study ................................................................................................. 87 
+Table 2. Common waste types (interview material) ................................................................................... 88 
+Table 3. Process-dependent waste types ..................................................................................................... 89 
+Table 4. Secondary data analysis output (Number of Hours) ..................................................................... 91 
+Exhibit 1. List of abbreviations for Value Stream Map .............................................................................. 92 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4 
+
+ 
+
+ 
+
+Glossary 
+
+(1) Value Stream Map – the simple process of directly observing the flows 
+of  information  and  materials  as  they  now  occur,  summarizing  them 
+visually,  and  then  envisioning  a  future  state  with  much  better 
+performance’ (Voelkel and Chapman, 2003); 
+
+(2) Project Efficiency – meeting time, cost and scope goals by optimal 
+
+utilization of capital, material and human resources (Frinsdorf, 2014; 
+Turner & Serrador, 2014);    
+
+(3) Project Based Organization (PBO) – a type of organization unit in 
+
+which a project is the primary business mechanism for coordinating 
+and integrating all the main business functions of the firm (e.g., 
+production, R&D, engineering, NPD, marketing, personnel, and 
+finance)(Hobday, 2000); 
+
+(4) Secondary data analysis - a multidimensional method, which implies 
+
+any subsequent analysis of the dataset providing interpretations, 
+conclusions and investigations additionally or apart from preliminary 
+study report in general or in its particular aspects (Hakim, 1982)  
+
+(5) Project success – long-term utilization of the project outcome, which 
+
+enables a business or enterprise to meet wider goals (Munns & Bjermi, 
+1996; Turner & Serrador, 2014); 
+
+(6) Project management success – planning and control (preferably, 
+
+quantifiable) of the project, concerned with on-time delivery, within-
+budget expenditures and appropriate performance standards (Munns & 
+Bjeirmi, 1997) ; 
+
+(7) Earned Value Methodology (EV/EVM) - an integrated management 
+control system for assessing, understanding and quantifying what a 
+contractor or field activity is achieving with program dollars (NASA, 
+2014). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5 
+
+ 
+
+ 
+
+List of Figures  
+
+Exhibit 1. Nominal GDP generated by Service Industries (2012) 
+
+8 
+
+Exhibit 2. Service industry matrix 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exhibit 3. Project Performance Measurement dimensions 
+
+Exhibit 4. Framework of the study 
+
+ 
+
+ 
+
+Exhibit 5. Characteristics of analyzed projects 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exhibit 6. Structure of Waste log assembled through interviews 
+
+Exhibit 7. Structure of business activities 
+
+ 
+
+ 
+
+ 
+
+Exhibit 8. Overview of waste types observed across projects 
+
+Exhibit 9. Single project OEE   
+
+Exhibit 10. OEE across projects 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exhibit 11. Value Stream Map for market research PBO  
+
+Exhibit 12. Timesheet template  
+
+ 
+
+ 
+
+ 
+
+Exhibit 13. Knowledge-based Project Control Loop 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+24 
+
+28 
+
+37 
+
+41 
+
+43 
+
+44 
+
+46 
+
+47 
+
+48 
+
+49 
+
+54 
+
+57 
+
+ 
+
+6 
+
+ 
+
+ 
+
+ 
+
+1.  Introduction 
+
+The  current  dissertation  is  aimed  at  providing  valuable  insights  for 
+
+facilitating  the  learning  of  scholarly  and  practitioner  aspects  of  project 
+
+management and establishing, therefore, a platform for development of the 
+
+current  methodology  of  project  control  and  progress  performance 
+
+measurement.  Apart  from  establishing  a  problem-solving  approach, 
+
+overall, the research provides a vantage point for differentiation regarding 
+
+the  management  practice 
+
+in  knowledge-intensive  project  based 
+
+organizations,  which  range  from  management  consultancy  to  software 
+
+development  organizations.  In  my  viewpoint,  the  study  underlines  the 
+
+specific  aspects  of  the  aforementioned  knowledge  areas  as  well  as  sheds 
+
+light  onto  the  means  of  dealing  with  common  management  issues: 
+
+schedule deviations, process efficiency losses, and increased project lead-
+
+time.  
+
+The  first  chapter  of  the  dissertation  is  devoted  to  developing 
+
+research focus and background. Within this section, the topicality as well 
+
+as  chief  research  aim  is  introduced.  Further,  I  articulate  the  main 
+
+objectives  and  essential  research  questions  that  form  the  context  of  the 
+
+investigation, which are also useful in defining the scope of the study. In 
+
+conclusion of the section a brief description of methodology used and the 
+
+structure of the study are provided. 
+
+ 
+
+1.1. Research actuality and aim 
+
+Nowadays,  the  concept  of  Lean  manufacturing  has  become  a 
+
+synonym  for  high  productivity,  lower  cost  and  outstanding  quality. 
+
+Notably,  this  philosophy  can  be  traced  back  to  1975  in  Toyota  motor 
+
+company  in  Japan.  However  when  competitive  advantage  of  high  in 
+
+productivity, flexibility and quality Japanese car manufacturing companies 
+
+7 
+
+ 
+
+ 
+
+ 
+
+became evident, leading American companies urged to study and adopt it. 
+
+“The  machine  that  changed  the  world”  called  by  Womack  (1990) 
+
+originally known as Toyota Production System (TPS), lean manufacturing 
+
+is now a standard for more than a hundred of multinational assembly line 
+
+giants,  among  which  are IBM,  Canon  Inc.,  Bayer,  General  Motors, 
+
+Intel, Nike, Ford, Boeing, etc. 
+
+Exhibit  1.  Nominal  GDP  generated  by  Service  Industries  (2012) 
+
+(IMF, 2012) 
+
+Percentage of total nominal GDP 
+
+79.7% 
+
+71.4% 
+
+80.0%
+
+70.0%
+
+60.0%
+
+50.0%
+
+40.0%
+
+30.0%
+
+20.0%
+
+10.0%
+
+0.0%
+
+60.1% 
+
+38.8% 
+
+e
+c
+n
+a
+r
+F
+
+ 
+
+e
+c
+e
+e
+r
+G
+
+ 
+
+ 
+
+s
+e
+t
+a
+t
+S
+d
+e
+t
+i
+n
+U
+
+ 
+
+i
+
+m
+o
+d
+g
+n
+K
+d
+e
+t
+i
+n
+U
+
+ 
+
+ 
+
+i
+
+m
+u
+g
+e
+B
+
+l
+
+ 
+
+y
+l
+a
+t
+I
+ 
+
+k
+r
+a
+m
+n
+e
+D
+
+ 
+
+s
+d
+n
+a
+l
+r
+e
+h
+t
+e
+N
+
+ 
+
+i
+
+n
+a
+p
+S
+
+ 
+
+n
+a
+p
+a
+J
+ 
+
+n
+e
+d
+e
+w
+S
+
+ 
+
+y
+n
+a
+m
+r
+e
+G
+
+ 
+
+a
+d
+a
+n
+a
+C
+
+ 
+
+a
+
+i
+l
+
+a
+r
+t
+s
+u
+A
+
+ 
+
+l
+i
+z
+a
+r
+B
+
+ 
+
+n
+a
+w
+a
+T
+
+i
+
+ 
+
+o
+c
+i
+x
+e
+M
+
+ 
+
+l
+
+a
+e
+u
+z
+e
+n
+e
+V
+
+ 
+
+a
+i
+s
+s
+u
+R
+
+ 
+
+a
+n
+i
+t
+n
+e
+g
+r
+A
+
+ 
+
+ 
+
+a
+c
+i
+r
+f
+A
+h
+t
+u
+o
+S
+
+ 
+
+i
+
+a
+d
+n
+
+I
+ 
+
+ 
+
+a
+e
+r
+o
+K
+h
+t
+u
+o
+S
+
+ 
+
+Country 
+
+i
+
+a
+b
+m
+o
+o
+C
+
+l
+
+ 
+
+n
+a
+r
+I
+ 
+
+i
+
+a
+n
+h
+C
+
+ 
+
+d
+n
+a
+
+l
+i
+
+a
+h
+T
+
+ 
+
+a
+i
+s
+e
+n
+o
+d
+n
+
+I
+ 
+
+i
+
+a
+b
+a
+r
+A
+
+ 
+i
+
+d
+u
+a
+S
+
+ 
+
+s
+e
+t
+a
+r
+i
+
+ 
+
+m
+E
+b
+a
+r
+A
+d
+e
+t
+i
+n
+U
+
+ 
+
+ 
+
+ 
+
+Even though lean philosophy is highly embedded in the automotive 
+
+industry,  which,  of  course,  has  its  own  specific  characteristics  and 
+
+limitations, the hard work of both management practitioners and scholarly 
+
+thought  has  managed  to  extend  the  applicability  of  lean  methods  far 
+
+beyond manufacturing, namely, to service industries. According to data of 
+
+International  Monetary  Fund  (IMF)  for  2012,  service  industries  (non-
+
+manufacturing)  account  for  on  average  63.6%  (IMF,  2012)  of  world`s 
+
+gross domestic product (GDP), in which figures go as high as  about 80% 
+
+(79.7%  United  States,  78.3%  United  Kingdom)  for  the  developed  and  up 
+
+ 
+
+8 
+
+ 
+
+ 
+
+to 65% for the emerging (Russia – 60,1%) countries (see Exhibit 1). Even 
+
+though further in the  study  the heterogeneity  of  service industries  will be 
+
+explored  in  more  detail,  at  this  point  it  is  important  to  note,  that  a 
+
+proportion  of  this  percentage  is  generated  not  only  by  services  with 
+
+repetitive  operations,  but  also by  contractual,  unique and  custom  services 
+
+(projects). This statistical input suggests that: 
+
+a)  The applicability of project management is spreading or already 
+
+had  done  so  from  manufacturing  and  construction  projects 
+
+towards  service 
+
+industry  projects.  Many  service  sector 
+
+companies operate through contracted work, which is associated 
+
+with 
+
+legal,  control  and  performance 
+
+issues  (accounting, 
+
+consulting,  market  research,  etc.).  In  such  context,  contrary  to 
+
+management  of  operations,  “one  might  expect  to  find  greater 
+
+emphasis on items related to the performance of the contract to 
+
+include  scope  change  control  and  cost  control.  These  are 
+
+precisely  the  areas  where  the  professional,  scientific,  and 
+
+technical service organizations reported higher levels of project 
+
+management  maturity”  (Grant  &  Pennypacker, 2006:  66). This 
+
+highlights  the  definite  presence  of  project  management  in 
+
+service context; 
+
+b)  Partly  referenced  from  the  previous  point,  service  industries 
+
+require  project  management  methods  that  can  warrant  the 
+
+delivery  of  the  defined  contractually  service  (i.e.  project),  e.g. 
+
+low  cost  and  quality  deviations  (Grant  &  Pennypacker,  2006). 
+
+At the same time, service industry companies face the challenge 
+
+of  operational  efficiency,  which  deals  with  the  need  for  high 
+
+productivity  and  shorter  lead  times  (Damrath,  2012;  Bortolotti 
+
+and  Romano, 2012) –  which falls in  line with  the  field of  lean 
+
+management; 
+
+ 
+
+9 
+
+ 
+
+ 
+
+c)  High  competition 
+
+in  service  sectors  requires  a  project 
+
+management  approach  capable  of  remaining  effective  in 
+
+turbulent multi-project environment (Hobday, 2000). 
+
+The  aforementioned  preconditions  form  my  understanding  of  the 
+
+relation between (1) service industry companies and project management, 
+
+(2)  project  management  and  lean  management  fields  of  regulation  in 
+
+service  context.  Furthermore,  an  approach,  combining  the  elements  of 
+
+project management and lean management appears to be a logical conduct 
+
+(from  the  premise  c),  which  can  be  defined  as  project  management 
+
+methodology aimed at delivering a project with more value and less waste. 
+
+A  waste  is  defined  as  an  activity  that  does  not  add  value  to  the  project 
+
+from  the  viewpoint  of  either  external  (client  organization)  or  internal 
+
+(contractor  employees,  project  managers,  etc.)  customers  (Arcidiacono  et 
+
+al., 2012). There are certain waste types for every industry or service, for 
+
+instance  in  project  management  this  might  be  creation  of  documentation, 
+
+which  is  not  going  to  be  used  or  maintaining  overly  detailed  schedule 
+
+(PMAW,  2012).    In  my  viewpoint,  “lean  project  management”  is  a  not 
+
+merely  a  concept;  it  has  applied  nature  with  the  potential  of  project 
+
+optimization, keeping in mind that a project is both unique and temporary 
+
+(PMI,  2004),  facilitating  competitive  advantage  for  the  company,  which 
+
+utilizes this approach.  
+
+However,  when  a  service  requires  customization, 
+
+i.e. 
+
+it 
+
+is 
+
+characterized  by  low  repeatability  and  high  customer  involvement 
+
+(Shemmer,  1986),  which  is  the  case  for  industries  like  management 
+
+consulting,  accounting,  market  research,  software  development,  design, 
+
+advertising,  legal  and  tax  advisory  and  so  on,  the  introduction  of  lean 
+
+management  and  specifically  lean  project  management  becomes  a 
+
+complicated endeavor. This particular cluster of service industries is often 
+
+called  Project  Based  Organizations  (PBO)  (Hobday,  2000),  which 
+
+ 
+
+10 
+
+ 
+
+ 
+
+underpins  the  temporary  and  variable  nature  of  the  operations  –  the 
+
+essence of a project (PMI, 2004) – required to create value.  
+
+Specifically, the current research paper is aimed at developing such 
+
+a methodological approach, which would allow project managers to define 
+
+waste  and  numerically  measure  process  or  project  efficiency,  which,  in 
+
+turn,  suggests  how  effective  company’s  project  management  is  and 
+
+whether  project  decision-making  is  literate  in  terms  of  creating  value  for 
+
+the  client.  Notably,  the  exploration  of  project  management  based  on  lean 
+
+methods in PBO is yet poorly reflected in literature, which therefore makes 
+
+this study a first step towards lean project management in service PBO.  
+
+Although the need for project control and performance measurement 
+
+differs from industry to industry depending, for instance, on utilization of 
+
+non-reusable materials, in information intensive service industries the use 
+
+of  project  control  loop  is  known  to  define  performance,  outcome  and, 
+
+ultimately,  customer  experience of a service  (Upte  and  Goh, 2004).  This, 
+
+due  to  imperative  character  of  the  customer  satisfaction  for  service 
+
+industry  (Frei,  2006),  is  directly  related  to  project  success  (Osei-Bryson, 
+
+2009).  
+
+ 
+
+1.2.  Research scope, questions and objectives 
+
+This  paragraph  deals  with  the  process  undertaken  to  achieve  the 
+
+main aim of the study.  
+
+As  the  research  aim  is  very  closely  connected  to  mapping  the 
+
+current  state  of  firm’s  processes  as  well  as  numerical  indications  for 
+
+establishing  process  efficiency,  the  closest  area  of  project  management 
+
+knowledge  concerned  with  such  aspects  is  project  control.  Therefore,  the 
+
+scope  of  the  paper  covers  the  use  of  classic  and  currently  most  used  and 
+
+recognized project control methodology – Earned Value (EV) – as well as 
+
+draws on  the  need  for  its  extension  which  utilizes  a non-monetary  aspect 
+
+ 
+
+11 
+
+ 
+
+ 
+
+of  value  or  waste  and  allows  to  perform  root  cause  analysis  of  major 
+
+reasons  for  schedule  deviations.  This  conceptual  core,  achieved  by 
+
+literature  review  of  lean  practices  and  methods  is  used  to  lay  the 
+
+foundation of a new approach.  
+
+The preamble inevitably leads to the palpitating scientific problem, 
+
+verified by subsequent literature review:  
+
+At present there is no methodological approach, suited to recognize 
+
+and  measure  project  performance  and  indicate  the  prospects  for 
+
+enhancing process efficiency; a worthwhile extension of Earned Value.  
+
+The  articulation  of  the  problem  in  essence  draws  the  red  line  of 
+
+dissertation scope:  
+
+The study does not seek to develop either an integral organizational 
+
+standards  of  project  management  or  application  of  lean  tools  related  to 
+
+quality  management  –  the  core  problem  is  selection  and  justification  of 
+
+lean methods that lie within applicability to project control and is suitable 
+
+for diagnostic judgment of project progress and efficiency.  
+
+This  argument  is  particularly  important  to  formulate  the  main 
+
+hypothesis that drives research interest:  
+
+A  number  of  approaches  at  the  intersection  of  lean  (technical) 
+
+management and classical project management are misused and therefore 
+
+the essential data about project performance may not inform management 
+
+decisions. 
+
+Nevertheless,  to  sharpen  the  research  focus,  a  number  of  research 
+
+questions are posed and followed in a coherent and evolving manner:  
+
+1. What  are  the  lean  management  tools  or  principles  and  which 
+
+of them can be implemented in service industries?  
+
+2. What is the essence of waste in service industries? 
+
+3. What impact does implementation of lean thinking have on:  
+
+a. Project Success?  
+
+ 
+
+12 
+
+ 
+
+ 
+
+b. Labor productivity?  
+
+c. Work in progress (WIP)?  
+
+4. What  are 
+
+the  current  methods  of  measuring  project 
+
+performance  and  why  lean  tools  can  be  used  to  form  a 
+
+worthwhile extension?  
+
+5. How  can  the  dynamic  diagnosis  of  lean-adopted  techniques 
+
+inform project management decisions and what insights does it 
+
+have for the way in which a PBO operates? 
+
+The  study  seeks  to  address  these  questions  in  order  to  develop  a 
+
+holistic  view  and  understanding  of 
+
+the  problem 
+
+topicality,  various 
+
+methodologies  and  the  cluster  of  industries  for  which  these  methodologies 
+
+are expected to bring about change in the way projects are managed. 
+
+ 
+
+1.3. Paper methodology and structure 
+
+For  the  purpose  of  achieving  the  primary  aim  of  the  study  in  a  a 
+
+distinct and transparent manner, I outline the structure and methodology of 
+
+the  study  according  to  Collis  &  Hussey  (2003),  who  offer  a  set  of 
+
+classifications using the parameters of research:  
+
+1)  Purpose; 
+
+2)  Methodological approach; 
+
+3)  Essence of application;  
+
+4)  Philosophy.  
+
+Each of the aforementioned aspects is clarified in further in detail.  
+
+As  mentioned  in  the  previous  section,  I  regard  this  study  as  the  first 
+
+step  towards  lean  project  management  in  service  companies  of  a  particular 
+
+cluster  characterized  by  high  customization  of  operations.  In  the  following 
+
+sections the thesis is supported by investigation of available literature, which 
+
+is  rare  and  implicit  about  any  guidelines  of  such  applications.  This  point 
+
+highlights  the  exploratory  purpose  of  the  paper,  which  seeks  to  test  a 
+
+ 
+
+13 
+
+ 
+
+ 
+
+hypothesis  on  specific  company  data,  forming  a  case  study,  rather  than 
+
+providing  a  sufficient  statistical  validation  across  the  specific  industry  or 
+
+industries.  The  generalization  at  this  point  is  consciously  sacrificed  to 
+
+embark  on  use  of  proposed  approach  within  the  time  scale  available  for 
+
+developing the master thesis. 
+
+With  regard  to  methodological  approach,  essentially  both  qualitative 
+
+and  quantitative  methods  have  drawbacks  and  advantages.  However,  the 
+
+logic of lean methods as well as the data available for analysis constitutes a 
+
+problem  that  can  only  be  solved  by  a  combination  of  the  two:  at  the  first 
+
+stage,  the  nature  of  operational  outputs,  such  as  waste  and  value,  which  is 
+
+less tangible in a PBO, has to be defined and interpreted; at the second stage, 
+
+the  output  of  qualitative  analysis  serves  as  input  for  codification  of  data  in 
+
+project-based dataset, that is further analyzed quantitatively.  
+
+In  order  to  be  conclusive  both  in  terms  of  its  scientific  meaning  and 
+
+pragmatic  application,  the  research  is  applied,  i.e.  as  mentioned  it  utilizes 
+
+both primary and secondary data from a service PBO based in Russia. Even 
+
+though statistically this investigation can present little interest for the general 
+
+public  of  project  management  society,  I  believe  that  the  proposed 
+
+methodology can impact companies at similar life-cycle stage in the settings 
+
+of  emerging  countries  and  additionally  be  suitable  across  project-based 
+
+industries.  
+
+The  research  philosophy  stems  from  the  problem-solving  approach, 
+
+selected  for  the  current  study  based  on  data  availability  as  well  as  few 
+
+relevant  studies  conducted  in  similar  context.  For  the  most  part,  it  is 
+
+positivistic  due  to  desk-based  essence,  as  it  adopts  the  approach  of  the 
+
+natural sciences: a proposed methodology is based on the synthesis of theory 
+
+an  previous  studies,  the  new  algorithm  is  followed  and  examined  in-depth, 
+
+while the benefits of use are presented in an objective manner as inference of 
+
+hypothesis  verification;  however 
+
+it  also  has  classical  elements  of 
+
+ 
+
+14 
+
+ 
+
+ 
+
+phenomenological  approach, 
+
+such  as 
+
+illustrative  case 
+
+study  and 
+
+interpretations  of  interviews  with  company  experts  as  one  of  its  research 
+
+methods. 
+
+Following  the  prevalence  of  positivistic  philosophy,  the  research 
+
+design is built around the three major parts:  
+
+a) 
+
+Theoretical  foundation  for the  applicability  of  lean  techniques 
+
+within  management  of  service  organizations  and  PBO  in 
+
+particular.  Within  this  section,  I  elaborate  on  the  fact  that  the 
+
+scope  of  the  paper  is  intertwined  with  a  number  of  project 
+
+management  fields  and  most  of  all  with  project  control.  In 
+
+addition, I discuss the current lean methodology (Chapter 2);  
+
+b) 
+
+Empirical 
+
+justification  of 
+
+the  selected 
+
+framework: 
+
+the 
+
+application  of  a  devised  algorithm  on  actual  PBO  data  and 
+
+testing research hypothesis as well as discussing the output. In 
+
+lean terms this part deals with mapping the current state of the 
+
+investigated  scientific  problem  and  relying  on  the  results  of 
+
+this inquiry (Chapter 3); 
+
+c) 
+
+Pragmatic  implications  and  recommendations  for  project 
+
+managers  as  well  as  indication  of  adjacent  areas  for  future 
+
+research (Chapter 4).  
+
+The following chapter presents the critical review of relevant literature 
+
+that  forms  a  conceptual  basis  of  the  study.  In  chapter  three  I  apply  the 
+
+conceptual  model  to  the  data  gathered  from  both  primary  and  secondary 
+
+sources,  while  in  chapter  four  the  results  of  this  investigation  are  used  as 
+
+foundation for practical recommendations and directions of further research. 
+
+ 
+
+ 
+
+  
+
+ 
+
+15 
+
+ 
+
+ 
+
+ 
+
+2.  Theoretical  foundation  of  Lean  Project  Management  and  its 
+
+application in Service PBO 
+
+2.1. Lean management: from manufacturing to service industry 
+
+Unsurprisingly,  the  currently  observed  trend  of  lean  expansion  is 
+
+somewhat similar to the chronology of its development in manufacturing, in 
+
+which lean concept has undergone, first, emulation, and, decades later, after 
+
+a  number  of  major  failures,  second  –  customization  and  localization 
+
+(Womack et al., 1990).  
+
+Since,  a  number  of  works  identify  the  transfer  of  lean  production 
+
+techniques to service  industries of repetitive operations,  such  as healthcare, 
+
+banking, food services, insurance, education, etc. in mid 90s and further on 
+
+(Womack  &  Jones,  1996;  Kells,  1995;  Swank,  2003;  Radnor  &  Boaden, 
+
+2008).  These  and  alike  industries  have  a  lot  in  common  with  service-
+
+oriented  retail  companies  (Kollberg  et  all.,  (2007);  Swank  2003).  A  case 
+
+study by McKinsey & Company (Coxon et. al., 2011) is a clear example, in 
+
+which  the  application  of  lean  principles  in  banking  has  brought  about 
+
+significant  positive  changes  (see  Exhibit  1,  Appendix  A).  The  same  source 
+
+suggests  a  number  of  ambitious  improvements  made  for  Royal  Bank  of 
+
+Scotland, BNP Paribas and The Society for Worldwide Interbank Financial 
+
+Telecommunication (SWIFT). 
+
+The first step of this study is to evaluate its principles and tools from 
+
+the viewpoint of project management. In the second step of literature review, 
+
+I  outline  the  logic  of  application  of  lean  thinking  in  service  industries, 
+
+reflecting current challenges, cases and impact on performance, elaborating 
+
+on  the  characteristics  of  target  industry  and  objective  limitations  of  lean 
+
+tools, which can nevertheless be effectively applied to measure and manage 
+
+projects.  In  conclusion,  I  form  a  specific  framework  that  is  based  on 
+
+ 
+
+16 
+
+ 
+
+ 
+
+applicability  of  selected  lean  tools,  which,  if  used  in  complex  on  regular 
+
+basis, can serve as a project management method, particularly in the area of 
+
+project control. 
+
+ 
+
+2.1.1.  Lean concepts in support of project control 
+
+In the review of basic elements of lean production, it seems relevant to 
+
+mention  that  in  lean,  except  for  philosophy  and  culture,  the  main 
+
+improvements  are  carried  out  at  process  level,  which  falls  into  the  field  of 
+
+regulation  of  project  management  (George  et  al.,  2003).  The  summary  of 
+
+key  principles  of  lean,  taken  from  Andersson  et  al.  (2006),  is  provided  in 
+
+Table  1  (Appendix  A).  Ahlström  (2004)  defines  a  7-principle  model,  in 
+
+which there are notable extensions: elimination of waste, decentralization of 
+
+responsibility and vertical information systems (IS). Each of these additional 
+
+elements,  combined  with  the  classic  principles  of  lean  thinking,  provides 
+
+fruitful  basis  for the framework  offered further in  the study  for  the  reasons 
+
+described below. 
+
+In  project  management  literature  project  control  is  seen  as  a  tool  to 
+
+optimize  (a)  employee  behavior  to  achieve  organizational  goals  (Flamholtz 
+
+et  al.,  1985),  (b)  project  performance  through  user  contribution  (Liu  et  al., 
+
+2010).  These  aspects  contribute  to  the  effective  management  of  projects 
+
+through their lifecycles (Bernroider and Ivanov, 2010), i.e. lead times, which 
+
+is one of the core metrics in use of lean management. These aspects bridge 
+
+yet another gap between project management and lean management: (a) and 
+
+(b) highlight the role of decentralization and standardization of activities as 
+
+the  need,  which  comes  from  within  project  management.  Both  aspects 
+
+contribute to elimination of waste at process level.  
+
+In  more  detail,  elimination  of  waste  denotes  that  in  product  creation 
+
+lifecycle everything that does not add value to the product, service or, in our 
+
+case,  project  should  be  excluded  (Monden,  1983).  The  notable  exception 
+
+ 
+
+17 
+
+ 
+
+ 
+
+from  the  list  of  potential  wastes  is  business  activities,  which  are 
+
+indispensable  strategically  for  operations,  although  still  are  to  be  kept  at 
+
+minimum  in  total  proportion  of  activities  (Arcidiacono  et  al.,  2012).  For 
+
+instance, a template for project report or new software to operate tasks may 
+
+not directly add value to the project, but is vital for future success.  
+
+The aspect of decentralization is developed to push the responsibility 
+
+down  to  the  level  of  project  employees  (Hayes,  Wheelwright  and  Clark, 
+
+1988).  Conceptually,  lean  settings  require  a  transfer  to  flat  organization 
+
+(Gunn,  1987),  so  that  cell  employees  or  project  team  in  many  cases  has 
+
+shared  responsibility  versus  the  imposed  control  by  project  manager. 
+
+Leonard-Barton (1992) calls this step a must to avoid micromanagement at 
+
+process level and concentrate on actual problem solving.  
+
+The role of vertical IS consists in “relying on direct information flows 
+
+to  the  relevant  decision  makers”  (Ahlstrom,  2004),  which  combined  with 
+
+shared responsibility of project team allows to update an IS and actually use 
+
+the  system 
+
+to 
+
+increase  efficiency  and  effectiveness  of  managers’ 
+
+performance, observed by Raymond & Bergeron (2008). 
+
+ 
+
+2.1.2.  Analytical tools 
+
+A  number  of  tools are  displayed  in  Exhibit  2 (Appendix  A), adopted 
+
+from  Broughton  (2012),  the  most  general  ones  are  briefly  reviewed  due  to 
+
+poor suitability to the framework developed in this study (Table 2, Appendix 
+
+A).  However,  stemming  from  the  study  on  maturity  of  project  control  in 
+
+both  manufacturing  and  professional  service  organizations  (Grant  & 
+
+Pennypacker,  2006:  67),  a  number  of  tools  are  considered  to  suit  the 
+
+definition  of  the  top  level  control  mechanisms,  which  reads  as  “an 
+
+improvement process is in place to continuously improve resource planning, 
+
+schedule  definition  and  cost  control  processes”.  Notably,  this  is  a  project 
+
+ 
+
+18 
+
+ 
+
+ 
+
+management  framework  that  utilizes  one  of  the  key  elements  of  lean: 
+
+continuous improvement or “kaizen”. 
+
+  Value Stream Mapping 
+
+The  bottleneck  of  this  approach  is  that  the  essence  of  projects: 
+
+temporality and uniqueness (PMI, 2008), which highlights the fact that only 
+
+one state can be captured. Nevertheless, as for PBO projects are the primary 
+
+business  mechanism  for  coordinating  and  integrating  all  the  main  business 
+
+functions of the firm (Hobday, 2000), there is a high possibility of repetitive 
+
+elements,  i.e.  wastes,  across  projects.  VSM  then  can  be  used  to  assess  the 
+
+repetitive  elements  among  the  projects  at  process  or  activity  level  and 
+
+continuously update waste logs, after which project management can easily 
+
+identify common waste types, locations at which they occur and dispose of 
+
+the underlying reasons for their occurrence.  
+
+  Standardization of work 
+
+Standard  work  refers  to  standardizing  the  operations  as  well  as 
+
+operation  sequences  (Damrath,  2012).  Standardization  of  procedures  in 
+
+project  management  is  highly  important,  especially  in  the  field  of  project 
+
+control.  Nidumolu  (1996)  advocates  this  statement:  “…increases  in  the 
+
+standardization  were  directly  associated  with  decreases  in  the  residual 
+
+performance  risk,  defined  as  the  extent  of  difficulty  in  estimating 
+
+performance  outcomes  during  the  later  stages  of  the  project”  (Nidumolu, 
+
+1996:135).  Data  collection  on  project  performance  in  particular  requires 
+
+highly  standardized  forms  (or  spreadsheets)  with  data  to  be  filled  each  day 
+
+of  project  work,  to  estimate,  for  instance,  earned  value  (EV)  up  to  current 
+
+time  period (Hanna, 2012).  In the devised  framework standardization plays 
+
+important role of reducing the volume of non-value added activities. 
+
+  Overall Equipment Effectiveness (OEE) 
+
+The key tool at this section is Overall Equipment Efficiency, which is 
+
+OEE  is  “a  quantification  of  how  efficiently  and  effectively  a  company 
+
+ 
+
+19 
+
+ 
+
+ 
+
+performs compared to its designed capacity, during its scheduled run time” 
+
+(Zuashkiani et al., 2011). This source suggests that this tool has already been 
+
+applied  for  performance  improvement  in  asset  management,  which  is  non-
+
+manufacturing context. This is highly important in underpinning the decision 
+
+points  for  project  managers.  For  instance,  if  a  certain  waste  type,  which 
+
+drives  a  performance  loss  across  several  projects  and  has  been  observed  in 
+
+project history, causes a negative deviation of 10%, this may reflect the need 
+
+to restructure the process to exclude such loss from the value chain.  
+
+Initial evaluation has demonstrated that the contents of lean principles 
+
+and some of its analytical tools  form a fruitful background for a transfer of 
+
+various aspects to project management. These isolated points will be united 
+
+in section 2.3, in which I attempt to develop an integral framework suitable 
+
+for project control, the basis for lean project management.  
+
+ 
+
+2.2.  Antecedents for application in service industry 
+
+Unsurprisingly,  project  management  literature  remains  rather  scant  in 
+
+application  of  lean  principles;  there  are  few  examples  in  the  field  of 
+
+scheduling  (Lee  et  al.,  2007),  generic  philosophy  of  application  to  project 
+
+management  (Gabriel,  1997);  the  rest  of  case  studies  pays  close  attention  to 
+
+particular projects and performance measurement, such as in construction (Yu 
+
+et  al.,  2009),  software  development  (Middleton  and  Joyce,  2012),  supply 
+
+chain (Arif-Uz-Zaman, & Ahsan, 2014) etc., which at the moment cannot be 
+
+aggregated  or  generalized  for  wide  use  in  project  management  community. 
+
+Even  though  there  are  plenty  of  reasons  behind  application  of  technological 
+
+solutions offered by lean production principles, at the moment the majority of 
+
+case  studies  relate  to  healthcare,  financial  services,  IT,  insurance  and  other 
+
+service industries of repetitive operations (Wei, 2009).  
+
+The  introduction  of  lean  principles  to  service  industry  begins  with 
+
+recognition  of  the  fact,  that  service  products  differ  from  manufacturing 
+
+ 
+
+20 
+
+ 
+
+ 
+
+products, although not that dramatically to forbid application of lean tools, “if 
+
+some peculiarities of the sector are taken into account” (Bortolotti & Romano, 
+
+2012:  514).  Furthermore,  Ahlström  (2004)  refers  to  cases  in  which  the 
+
+essence  of  services  is  fundamentally  more  suitable  for  lean  practices  than 
+
+manufacturing.  The  followers  of  this  view  concentrate  on  different  aspects 
+
+and  types  of  service  companies,  for  instance  Allway  and  Cobertt    (2002) 
+
+examine the meaning of alignment of processes and activities to client value 
+
+creation  in  consultancy  services,  Dahlgaard  and  Dahlgaard-Park  (2006) 
+
+explore the proportion of NVA activities in total volume of  activities (which 
+
+turns out to be 74%). 
+
+ 
+
+2.2.1.  Definition of a service 
+
+First,  it  is  necessary  to  highlight  the  specific  nature  of  services  in 
+
+order  to  be  clear  with  further  industry  classifications.  One  of  the  notable 
+
+definitions of a service comes from Haksever et al. (2000:3), who view them 
+
+as  “economic  activities  that  produce  time,  place,  form,  or  psychological 
+
+utilities”.  To  demonstrate  this  further,  authors  introduce  an  example  of  a 
+
+consulting firm, which assembles all the necessary information in the form, 
+
+suitable  for  a  manager  to  make  a  decision.  According  to  this  definition, 
+
+project  management  itself  can  be  viewed  as  a  service.  Since  there  is  a 
+
+principal analytical difference between goods and services, it seems relevant 
+
+to  propose  that  management  of  these  entities  differs  as  well.  The 
+
+characteristics  of  services  (Table  4,  Appendix  A)  are  taken  into  account 
+
+further  to  establish  management  aspects  of  service  delivery  as  an  output 
+
+product  of  project  management  in  particular  types  of  service  industries, 
+
+described in the next section. 
+
+ 
+
+2.2.2.  Lean Service: cases and impact on performance 
+
+ 
+
+21 
+
+ 
+
+ 
+
+As  stated,  lean  principles  have  been  widely  applied  to  service 
+
+industry.  Most  of  the  cases  focus  on  improvements  in  productivity,  costs, 
+
+waste elimination, reduction of WIP  and quality  deviations. The  full  list of 
+
+publications on particular industry adopted from literature review of Suarez-
+
+Barraza et al. (2012) can be found in Appendix A (Exhibit 4).  
+
+The pioneering sector, in  which  lean  principles have been  applied, is 
+
+healthcare.  The  first  indications  of  such  possibilities  are  summarized  by 
+
+Womack and Jones (1996), improvements in management and time savings 
+
+are outlined by Jones & Mitchell (2006) and Lipley (2008). Commenting the 
+
+findings of Kollberg, Dahlgaard, and Brehmer (2007), Suarez-Barraza et al., 
+
+(2012) notes: “Lean Service was considered as one element that formed part 
+
+of  an  overall  management  plan  to  change the  mentality  and  the  daily  work 
+
+performed  by  health-care  centers”,  which  highlights  the  changes  related  to 
+
+particularly  management aspect of operations. There are other  management 
+
+examples, which are facilitated by lean projects, for instance Dahlgaard et al. 
+
+(2011)  proposed  self-assessment  framework  (ILL),  which  turned  out  to  be 
+
+valid  in  identification  of  organizational  bottlenecks.  In  general,  primary 
+
+target  of  lean  transformation  projects  in  this  sector  are  inadequate 
+
+procedures  and  bureaucratic  processes,  which  decrease  the  quality  and  rate 
+
+of customers served per shift (Collins & Muthusamy, 2007).  
+
+Another  sector,  in  which  lean  principles  turned  out  to  be  highly 
+
+applicable,  is  education.  The  majority  of  studies  (Dahlgaard  et  al.,  (1995); 
+
+Kells, 1995; Suarez-Barraza et al., 2012) indicate that main improvements in 
+
+this  sector  relate  to  Total  Quality  Management  (TQM)  and  waste 
+
+elimination.  Again,  the  restructuring  of  processes  based  on  information 
+
+flows, provided by lean analytical tools, “helped to improve the management 
+
+of services” (Suarez-Barraza et al., 2012: 370).  
+
+As  indicated  in  introduction,  financial  and  banking  sectors  also  fall 
+
+into the sphere of transfer to lean management. Swank (2003) elaborated on 
+
+ 
+
+22 
+
+ 
+
+ 
+
+the  result  of  process  redesign  as  “surprising”  due  to  decrease  at  26%  in 
+
+labour  costs  and  40%  in  costs  related  to  errors,  rework  and  corrections.  A 
+
+study  of  global  investment  bank  by  Coxon  et  al.,  (2011)  has  shown  an 
+
+increase in productivity by 50%, while the volume of documents with errors 
+
+reduced by 40%.  
+
+Significantly  less  academic  papers  can  be  found  about  airlines, 
+
+restaurant and hotel services. The commonality between these industries is 
+
+high  process  repetitiveness  and  high  customer  interaction.  The  practitioner 
+
+studies  of  application  of  lean  principles  to  restructure  and  reorganize 
+
+processes  in  airline  industry  (Greenwood  et  al.,  2002;  Reinhardt,  2007) 
+
+enumerate savings and reduction of lead times, while Suarez-Barraza (2008) 
+
+reports on reduction of operating costs, client-response time and the quality 
+
+of service in hotels and restaurants.  
+
+ 
+
+ 
+
+2.2.3.  Differentiating among service industries 
+
+Given  the  specifics  of  a  service  as  an  output  product  of  a  cluster  of 
+
+industries,  it  is  vital  to  define  these  segments,  explore  the  extent  of  lean 
+
+spread  within  them  and  establish  target  industry.  As  described  in  the 
+
+methodological  introduction  to  the  study,  service  sectors  can  be  clustered 
+
+based  on  repeatability  of  processes  and  customer  involvement.  Schemmer 
+
+(1986)  first  proposed  a  matrix  with  these  dimensions,  which  incorporate 
+
+common problems during service production and delivery. The dimension of 
+
+repeatability refers to common stages and processes, rather than activity level, 
+
+while  customer  involvement  stands  for  the  frequency  of  interaction  with 
+
+external  customers  (Damrath,  2012).  Even  though  this  framework  is  simple 
+
+and  plain  in  contents,  it  allows  investigate  the  spread  of  lean  principles  by 
+
+gradations and define the industry of interest (see Exhibit 2). 
+
+ 
+
+ 
+
+23 
+
+ 
+
+ 
+
+Exhibit 2. Service industry matrix (based on Bicheno, 2008) 
+
+ 
+
+Even  though  in  reality  the  boundaries  between  formulated  categories 
+
+can be fuzzy, four distinct clusters can be characterized (Damrath, 2012). The 
+
+detailed description is provided in Table 3, Appendix A). 
+
+The  overview  of  cases  on  application  of  lean  principles  in  service 
+
+industries  (section  2.2.2)  has  shown,  that  practically  every  sector  has  been 
+
+attempted to transfer to lean, except for the custom one, characterized by high 
+
+customer  interaction  and  low  repeatability,  which  forms  a  direct  link  to 
+
+project  work  and  PBO.  This  is  one  of  the  primary  reasons  why  it  has  been 
+
+chosen  to  concentrate  on  companies  operating  in  this  gradation,  especially 
+
+with regard to potential positive outcomes for management of projects.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+24 
+
+ 
+
+ 
+
+2.2.4.  Challenges for the custom cluster 
+
+As  described,  the  custom  cluster  has  low  repeatability  of  operations 
+
+(high  uniqueness)  and  higher  customer 
+
+interaction,  which  provides 
+
+connection  with  project  work  (PMI, 2004).  One  of  the  main  challenges  for 
+
+custom service sector is to follow the footpath of manufacturing in terms of 
+
+reduced  project  lifecycles  (Damrath,  2012).  As  a  result  of  increasing 
+
+competition in service industry in general with high rates of innovation and 
+
+know-how,  faster  response  to  market  conditions  and  management  of 
+
+operations  is  required  by  service  business  models  and  processes  (Sellitto, 
+
+Borchardt,  &  Pereira,  2003).    According  to  Upte  and  Goh  (2004),  who 
+
+investigated  management  aspects  of  lean  in  information  intensive  service 
+
+industries,  such  as  mentioned  contract  working  management  consulting, 
+
+accounting, market research and other PBO, the processes could be managed 
+
+with the tools, which are applicable to manufacturing processes (particularly 
+
+bottleneck  identification  and  cycle  time  analysis).  However  another  aspect 
+
+of information intensive services remains unnoticed: feedback control loop, 
+
+which denotes  that  generated information  is suitable  for  “the  measurement, 
+
+monitoring,  and  control  of  process  performance.  …The  efficiency  and  the 
+
+effectiveness  of 
+
+information  processing 
+
+activities 
+
+in 
+
+collection, 
+
+transformation, storage, use and dissemination of information determine the 
+
+ultimate performance and outcome of such services” (Upte and Goh, 2004: 
+
+493).   
+
+Another argument for the use of information generated within projects 
+
+of service organization to manage operations is voiced in the study published 
+
+by  Ahlstrom  (1998),  in  which  author  insists  on  constant  monitoring  of 
+
+processes  using  relevant  metrics.  In  absence  of  such  tools  processes  can 
+
+degrade  and  decrease  customer  satisfaction.  Yassine  et  al.  (2004)  suggests 
+
+that  a  technique  that  uses  workflow  data  can  be  widely  used  to  manage  a 
+
+process.  Bortolotti  and  Romano  (2012)  consider  this  proposition  “useful  to 
+
+ 
+
+25 
+
+ 
+
+ 
+
+improve  efficiency  and  lead  time  performances  with  faster  information 
+
+exchanges,  faster  task  execution  and  concurrency  of  tasks”  (Bortolotti  and 
+
+Romano, 2012: 519). 
+
+Overall, these arguments suggest, that perhaps the main management 
+
+challenge  for  many  organizations  in  custom  cluster  of  service  sector  is 
+
+meaningful  data  for  sufficient  decision-making  regarding  process  structure 
+
+and  value  creation  stream  (Damrath,  2012).  At  the  moment  scholarly 
+
+literature  (George,  2003)  suggests  the  impossibility  to  verify  the  quality  or 
+
+speed of processing in any other metric, except for actual time to complete 
+
+the  task  (or  cost),  while  any  other  indicator  can  be  referred  as  judgmental 
+
+and  subjective.  However  many  companies  do  not  manage  their  processes 
+
+with  regard  to  quality  or  processing  speed  even  using  this  metric;  rare 
+
+examples  of  managing  these  two  parameters  include  excel  spreadsheets 
+
+(Archibald,  1992).  The  need  for  project  management  technique  (since 
+
+projects  are  the  primary  form  of  business  operation  for  companies  of  this 
+
+sector (Hobday, 2000)), which can cope with the challenge of combination, 
+
+analytics, dissemination  of  workflow  information  in  a  clear,  accessible  and 
+
+understandable way is evident. Upte and Goh (2004) back up this suggestion 
+
+with  the  proposition  of  relevant  metric  -  the cycle time for completion of a 
+
+service  request,  i.e.  contractually  defined  project.  A  related  study  by 
+
+Blackburn (1991) indicated, for service companies at that time about 90% of 
+
+cycle time is occupied by first and most dangerous waste described in lean 
+
+principles – waiting time. 
+
+The  important  preconditions  for  adopting  lean  techniques  in  project 
+
+control, which would operate with the mentioned indicators - elimination of 
+
+certain  wastes  types  and  consequent  cycle  time  reduction  –  are  set  by  the 
+
+synthesis of practitioners’ cases and scholarly arguments above. One of the 
+
+resulting  definitions  of  a  service  suggests  that  customer  experience  is  as 
+
+important as the output product itself. Frei (2006) suggests that this point in 
+
+ 
+
+26 
+
+ 
+
+ 
+
+application  of  lean  techniques  is  of  utmost  importance,  as  the  increase  in 
+
+process  efficiency  can  discard  customer  satisfaction,  which  in  long-term 
+
+may  offset  any  discrete  competitive  advantage,  profit  or  market  share  (see 
+
+Bortolotti and Romano, 2012). Some scholars insist on VSM being the most 
+
+important lean tool to adopt in service sector (Piercy and Rich, 2009). 
+
+ 
+
+2.3.  Towards lean project management: framework of the study 
+
+The scope of the framework developed in the study is closely related 
+
+to the field of project control and project performance measurement, defined 
+
+as  the  aggregate  identification  of  process  efficiency.  Even  though  the 
+
+debates  over  the  optimal  control  mechanisms  of  projects  is  still  ongoing, 
+
+some authors readily confirm that the use of “iron-triangle” paradigm is no 
+
+longer viable (Atkinson, 1999; Shenhar et al., 2001; Yu et al., 2005; Barclay 
+
+and  Osei-Bryson,  2009).  The  alternatives  suggested  to  overcome  the 
+
+restrictions  of  classic  methods  of  project  control  (such  as  critical  success 
+
+factors  (CSF),  key  performance  indicators  (KPI))  are  considered  to  be 
+
+concentrated on either side of value definition (Yu et al., 2005; Barclay and 
+
+Osei-Bryson,  2009).  This  aspect  is  somewhat  common  between  project 
+
+management and lean schools of thought.  
+
+The  project  management  idea  of  value  differs  from  the  business 
+
+(economic)  definition  and  consists  in  an  allocation  of  project  budget  often 
+
+expressed  in  currency  or  time.  The  tool  aimed  at  control  and  estimation  of 
+
+project  performance  is  most  often  earned  value  (Yu  et  al.,  2005;  Cioffi, 
+
+2006;  Lauras  et  al.,  2009).  A  number  of  significant  additions  have  been 
+
+made as for the EV methodology and other monitoring tools, some of which 
+
+sought to either extend the parameters of “iron triangle” or reduce them (see 
+
+Khosrowshahi. 1997; Shenhar et al., 2001; Lipke 2003), however the overall 
+
+approach  remained  mainstream  comparison  of  budget  to  actual  cost  of 
+
+activities. This school of thought also learned to distinguish between project 
+
+ 
+
+27 
+
+ 
+
+ 
+
+management  success,  project  success  and  output  product  success  as 
+
+important  dimensions  of  project  performance  measurement  (PPM)  (see 
+
+Exhibit  3,  adopted  from  Barclay  and  Osei-Bryson  (2009)).    These  aspects 
+
+are developed further in sections 2.3.1. and 2.3.2. 
+
+ 
+
+Exhibit  3.  Project  Performance  Measurement  dimensions  (Barclay  and 
+
+Osei-Bryson, 2009) 
+
+ 
+
+Since projects are temporary and unique activities that result in a new 
+
+product or service (APM, 2006; PMI, 2004) a transfer of lean thinking from 
+
+lean  service  examples,  discussed  earlier  with  particularly  management 
+
+ability to diagnose process efficiency and restructure processes as a result of 
+
+such  diagnosis,  project  management  as  a  science  may  well  be  subject  to 
+
+intervention for some tools from manufacturing and service sectors (section 
+
+2.3.3.)  There  are  numerous  examples  of  lean  techniques  that  were  used  in 
+
+transformation  projects  of  both  manufacturing  (Boeing,  Alcoa)  and  service 
+
+sector,  however  these  techniques  and  methodologies  were  primarily 
+
+considered as objects (or facilities) of change, while there are still no scholar 
+
+or  practitioner  suggestions  that  they  have  become  a  project  management 
+
+methodology (i.e. subject of change). 
+
+ 
+
+28 
+
+ 
+
+ 
+
+In  my  study,  I  refer  to  project  based  organizations  (PBO)  as  perfect 
+
+settings for such transfer due to, first, their prevalence in custom cluster, but 
+
+also because of: 
+
+a)  Multi-project  environment,  in  which  single  projects  compete  for 
+
+organizational resources (Frinsdorf et al., 2014); 
+
+b)  Difficulties arising from poor operationalization of value and/or 
+
+waste within particular projects and numerical measurement of these 
+
+parameters; 
+
+c)  The difficulty of attributing performance attributes (e.g. flexibility, 
+
+effectiveness,  efficiency  and  return  on  investment)  to  particular 
+
+factors such as organizational form (e.g. PBO) or industry-specific 
+
+forms  of  projects,  rather  than  other  factors  (e.g.  project  team, 
+
+stakeholder management, company culture, etc.) (Hobday, 2000) 
+
+One  of  the  main  reasons  for  adoption  of  lean  principles  in  custom 
+
+cluster  is  that  the  function  of  performance  measurement  is  not  only  in 
+
+monitoring,  but  also  in  learning  and  improvement  (Wegelius-Lehtonen, 
+
+2001). Project-based structure of many companies in custom sector perfectly 
+
+allow  this  idea  to  proliferate  in  business  processes  and  PPM  tools, 
+
+accompanied  by  knowledge  collection  and  distribution  mechanisms  in  the 
+
+form of information systems (IS) (section 2.3.5).  
+
+ 
+
+2.3.1.  Earned value 
+
+At  the  moment,  the  area  of  project  control  has  only  one  widely 
+
+utilized 
+
+tool  for 
+
+tracking  project  performance, 
+
+the  Earned  Value 
+
+(EV)(Pajares and Lopez-Paredez, 2011). The tool was introduced in late 60th 
+
+and since a number of amendments, such as Earned Schedule (Lipke, 2003, 
+
+2004),  had  been  made,  a  lot  more  provide  an  estimation  of  tool  accuracy 
+
+(Vandevoorde and Vanhoucke, 2006, 2007; Lipke et al., 2009). Notably, the 
+
+EV methodology has numerous benefits and I by no means suggest that it is 
+
+ 
+
+29 
+
+ 
+
+ 
+
+either  outdated  or  inappropriate,  however  it  has  not  been  tailored  to  any 
+
+specific  industry  except  US  military  service,  which  is  the  birthplace  of  the 
+
+method.  
+
+The  method  uses  three  estimates  of  costs  –  budgeted,  actual  and 
+
+scheduled to measure how much value should have been earned (or, rather, 
+
+how  much  should  have  been  spent)  at  the  moment  of  measurement.  High 
+
+tool  validity  is  assured  by  its  forecasting  power  regarding  budget  cost  at 
+
+completion  with  current  dynamics  and  underpinning  of  time-dependent 
+
+deviations. At the same time, the universal character of this tool has led to a 
+
+number of drawbacks, among which are: 
+
+  Voluntary  root-cause  analysis  (RCA)  of  reasons  behind 
+
+deviations; 
+
+  No  iterative  approach  to  scheduled  and  budgeted  costs  (i.e.  no 
+
+optimality check of resource allocation); 
+
+  Misleading indictors (SPI and SV) towards the final third of the 
+
+project (Lipke, 2003). 
+
+The  aforementioned  extensions  of  EV,  such  as  Earned  Schedule  or 
+
+fine-tuning  of  accuracy  have  mended  some  of  the  calculation  problems 
+
+(third  aspect),  however  first  two  aspects  at  the  moment  are  left  without 
+
+common problem-solving approach.  
+
+Using  suggestions  of  Seddon  &  Caulkin  (2007)  and  Piercy  &  Rich 
+
+(2009)  to  mend  these  problems,  I  will  use  the  two  lean  tools,  which  are 
+
+specifically aimed at resolving first and to some extend second drawbacks of 
+
+EV: Value Stream Analysis and Waste identification. 
+
+ 
+
+2.3.2.  Relation to project and project management success 
+
+Since relation to project success is one of the key metrics developed in 
+
+PPM  over  the  years  (Osei-Bryson,  2009),  the  conceptual  framework  of  the 
+
+study  has  to  conceptually  tight  the  aim  of  the  study  (project  management 
+
+ 
+
+30 
+
+ 
+
+ 
+
+success)  with  overall  success  of  the  project.  I  will  define  the  two  concepts 
+
+first: 
+
+  Project success  – long-term utilization of the project outcome, which 
+
+enables  a  business  or  enterprise  to  meet  wider  goals  (Munns  & 
+
+Bjermi, 1996; Turner & Serrador, 2014); 
+
+  Project  management  success  –  planning  and  control  (preferably, 
+
+quantifiable) of  the project, concerned  with  on-time  delivery,  within-
+
+budget expenditures and appropriate performance standards (Munns & 
+
+Bjeirmi, 1997). 
+
+Classic  studies  on  this  subject, for  instance  Munns  &  Bjermi  (1997), 
+
+Belassi  &  Tukel  (1996),  suggest  that  project  management  alone  cannot 
+
+define  project  success.  However  there  is  evidence  that  good  project 
+
+management  allows  avoiding  project  failure.  The  same  sources  denote  that 
+
+higher  customer  involvement  “in  planning  and  production  phases”  helps  to 
+
+meet wider objectives, i.e. also influence project success.  
+
+Additionally, project management  considers traditional  parameters of 
+
+projects,  i.e.  time,  cost  and  quality  (PMI,  2004),  while  project  success 
+
+highlights  objectives  of  project  stakeholders  (Cooke  -  Davies,  2002).  The 
+
+combination of the two sets of criteria is believed to be suitable for improved 
+
+analysis of project performance and considered as guidance pulled from the 
+
+literature (Osei-Bryson, 2009). 
+
+Notably, lean perspective helps to develop such a combination due to 
+
+its  orientation  on  “voice  of  the  customer”  (Griffin  and  Hauser,  1993)  or 
+
+“customer  perspective”  (Kaplan  and  Norton,  2004).  It  appears  that 
+
+customer/stakeholder 
+
+requirements  develop 
+
+the  understanding  of 
+
+value/waste  on  the  level that controls  for key  “iron-triangle”  parameters on 
+
+condition that they are suited to create customer satisfaction. In the papers, 
+
+which discuss Lean Service cases, there is often no mention of whether the 
+
+project outcome is success or failure, however using logical deduction from 
+
+ 
+
+31 
+
+ 
+
+ 
+
+generous increase in productivity, reduction of lead times, cost effectiveness, 
+
+etc., it is evident that either the majority or all the stakeholder requirements 
+
+lead  to  customer  satisfaction.  Additionally,  the  voice  of  the  customer  can 
+
+come  both  from  inside  and  outside  the  project  or  organization.  Therefore, 
+
+principles  (1)  and  (2)  in  Table  1  (Appendix  A),  are  the  primary  elements, 
+
+which are used in conceptual framework of the study.  
+
+ 
+
+2.3.3.  Process  efficiency  and  value  stream:  towards  effective  Project 
+
+Management 
+
+Methodologically,  the  framework  of  the  current  study  is  aimed  at 
+
+providing  an  approach  assembled  from  lean  tools  suited  to  diagnose  process 
+
+efficiency using practically the same inputs as used in EV methodology. The 
+
+main difference, however, as described in section 2.3.1.. is that  my approach 
+
+allows to highlight the bottlenecks of processes, which facilitates action-based 
+
+improvements.  
+
+Process  efficiency,  if  separately  considered,  consists  in  meeting  time, 
+
+cost  and  scope  goals  by  optimal  utilization  of  capital,  material  and  human 
+
+resources  (Frinsdorf,  2014;  Turner  &  Serrador,  2014)  and  is  an  object  of 
+
+technical  construction  of  a  process,  which  cannot  be  considered  a  project 
+
+management method. However, if the input for such tool comes from project 
+
+stakeholders,  and  the  tool  itself  is  used  primarily  to  control  the  planned 
+
+resources (the way EV does), then this newborn method becomes suitable for: 
+
+  Project control; 
+
+  Performance  measurement  (planned  vs.  actual 
+
+time,  products, 
+
+resources spent on tasks); 
+
+  Optimization (elimination of non-value-added activities). 
+
+The  proposed  methodology  consists  in  application  of  Value  Stream 
+
+Analysis,  which,  in  essence,  allows  more  transparency  in  value  creation 
+
+process. Exhibit 5 (Appendix A) shows that there are two basic characteristics 
+
+ 
+
+32 
+
+ 
+
+ 
+
+of processes: total lead-time and value added time (a ladder in the bottom of 
+
+the  picture, see  the  full  list  of  abbreviations  in  Exhibit  6,  Appendix  A).  The 
+
+visual  map  of  processes  allows  identifying  certain  waste  types,  which 
+
+immediately  informs  management  decisions  on  restructuring  a  business 
+
+process,  therefore  reducing  lead-time  and  increasing  value-added  time.  The 
+
+necessary  comparison  of  these  indicators  among  projects  by  means  of 
+
+calculation  OEE  helps  to  see  the  overall  process  efficiency  level  across 
+
+different projects. 
+
+The  incorporation  of  such  tool  in  the  process  of  project  control  and 
+
+performance  measurement  will  allow  projects 
+
+to  be  managed  more 
+
+effectively, i.e. doing the right things, selecting and focusing on producing an 
+
+output that there is a demand for (Sundqvist et al., 2014). 
+
+ 
+
+2.3.4.  Management and learning aspects of proposed approach 
+
+The  proposed  framework  (Exhibit  4,  section  3.1)  is  aimed  at  one  of 
+
+the  most  basic  forms  of  management  as  a  science  –  control.  Importantly, 
+
+project control allows using lean principles to holistically scrutinize the root 
+
+causes  of  process  inefficiencies,  which  means  that  this  is  jointly  a  tool  for 
+
+optimization.  One  of  the  main  suggested  outcomes  is  that  management 
+
+decisions should be aimed at not only monitoring the current state, but also 
+
+at  developing  a  more  efficient  high  value-added  processes  by  means  of 
+
+reduction  of  lead  times  (Bortolotti  and  Romano,  2012).  This  means,  that 
+
+streamlined  activities  that  drive  value  and  exclude  waste  shorten  the  time 
+
+required to complete a service request, i.e. a project. In turn, this means that 
+
+a  PBO  can  process  more  projects  at  a  time  period  without  any  detrimental 
+
+effects  to  project  quality,  which  is  in  line  with  the  constant  strive  for 
+
+competitive advantage between project organizations (Lindkwist, 2008). 
+
+In  such  circumstances,  there  are  some  characteristics  of  services  that 
+
+can  cause  negative  deviations  in  project  performance,  for  instance 
+
+ 
+
+33 
+
+ 
+
+ 
+
+homogeneity  in  IHIP  framework  (Table  4,  Appendix  A)  denotes,  that 
+
+deviations  in  performance  depend  on  human  operator.  Another  negative 
+
+affect  can  be  drawn  from  perishability  of  services  in  the  way  that  a 
+
+completed request has to be somehow reflected, depicted, and systematized 
+
+in order for organization to be able to refer to it when needed.  
+
+The  answer  to  these  as  well  as  other  specifics  of  service  industry  is 
+
+organizational  learning.  A  recent  study  by  Pemsel  &  Wiewiora  (2012) 
+
+concludes,  “PBO  has  to  ensure  effective  knowledge  sharing  (KS)  and 
+
+integration within and between projects to avoid the risk of reinventing the 
+
+wheel  and  so  repeating  the  same  mistakes“(also  noted  in  Schindler  and 
+
+Eppler,  2003).  Project-based  learning  is  commonly  referred  to  as  1)  the 
+
+creation  and  acquisition  of  knowledge  generated  within  the  project,  and  2) 
+
+the  codification  and  transfer  of  knowledge  (Scarbrough  et  al.,  2004). 
+
+Undoubtedly,  project-based 
+
+learning  has 
+
+to  be 
+
+institutionalized, 
+
+i.e. 
+
+transferred  into  a  continuous  process,  which  would  allow  a  PBO  to 
+
+constantly evolve in their practice. In doing so, an organization would have 
+
+to transform or even create from a scratch the mechanisms of codification in 
+
+a  most  simple,  reliable  and  accessible  way.  Essentially,  the  use  of 
+
+knowledge  or  information  systems  is  one  of  the  preconditions  for  adopting 
+
+lean methodology (see section 2.1.2), and many scholars already emphasized 
+
+the  need  for  project  learning  in  the  process  of  control  and  monitoring 
+
+(Wegelius-Lehtonen, 2001; Upte and Goh, 2004; Ahlstrom, 2004; Raymond 
+
+& Bergeron, 2008). 
+
+The  next  chapter  of  the  study  is  aimed  at  providing  empirical 
+
+justification  of  the  proposed  framework, testing  the basic  hypothesis  of  the 
+
+study (section 1.2).  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+34 
+
+ 
+
+ 
+
+3.  Mapping 
+
+the  current  state:  empirical 
+
+justification  of 
+
+proposed methodology 
+
+Theoretical overview of the key concepts of the research, case studies 
+
+on  the  use  of  lean  in  service  industries, drawbacks  of  current  methodology 
+
+and  the  challenges  faced  by  a  PBO  in  the  custom  cluster  has  narrowed  the 
+
+need  for  improvement  and  optimization  down  to  the  project  management 
+
+methodology  with  elements of lean. The evidence  of both  the need  for and 
+
+absence  of  methodology,  suited  to  perform  the  two  functions  of  project 
+
+control  and  project  performance  measurement,  has  been  presented  in  the 
+
+previous  chapter.  This  chapter  is  designed  to  empirically  test  the  proposed 
+
+framework on the data provided by a market research PBO.  
+
+ 
+
+3.1. Methodological framework 
+
+The  methodological  framework  is  a  technical  guideline  for  the 
+
+theoretical  framework  of  the  study. In  this  section, first, the  overall logic 
+
+of  data  analysis  and  sampling  is  described;  second,  I  outline  the  main 
+
+hypothesis of the study and, third, I proceed with research objectives.  
+
+The  application  of  lean  tools  within  project-based  cluster  of 
+
+industries is yet poorly explored  in both literature and empirically, which 
+
+highlights a methodological complexity associated with: 
+
+1)  Adaptation  of 
+
+the  philosophy  of  constant  processes  and 
+
+operations to temporary and variable operations; 
+
+2)  Control  and  Information  Systems.  If  we  regard  project 
+
+management as a control system, then the temporary knowledge 
+
+generated  within  a  project  has  to  be  captured  and  distributed  to 
+
+inform  management decisions; this particular point constitutes a 
+
+controversy with lean thinking, which emphasizes elimination of 
+
+ 
+
+35 
+
+ 
+
+ 
+
+unnecessary control and embedding it within the [stable] system 
+
+(Ohno, 1988).  
+
+The  aforementioned  parameters  drive  this  study  inevitably  towards 
+
+process  and  activity  level,  which  goes  hand  in  hand  with  the  terms  of 
+
+effectiveness  and  efficiency  as  well  as  overall  project  success  -  all  of 
+
+which are the hallmarks of lean manufacturing principles (Upte and Goh, 
+
+2004; Kaplan and Norton, 2004). Process level is also the key element of 
+
+lean management regarded as a tool for optimization by first and foremost 
+
+concentrating on elimination of waste, defined as any activity that does not 
+
+add  value  to  the  end  product.  The  essence  of  value  in  this  study  is 
+
+considered  from  the  viewpoint  of  internal  customers,  i.e.  project  team 
+
+members  that  create  value  based  on  client  specifications.  Based  on  the 
+
+Toyota  Production  System  principles,  this  study  seeks  to  resolve 
+
+company’s  internal  contradictions  and  gaps  in  value  creation  process  by 
+
+offering  an  applied  management  tool  of  measuring  project  performance. 
+
+The emphasis on VSM, as well as key indicators suitable for performance 
+
+measurement in service environment comes directly from the literature and 
+
+serves as conceptual basis of the devised framework (Exhibit 4). 
+
+The research design, following the devised framework (Exhibit 4) is 
+
+multiphased.  The  first  stage  consists 
+
+in  developing 
+
+the  specific 
+
+understanding  of  either  waste  for  the  chosen  company  by  means  of 
+
+qualitative  methods,  specifically  –  interviewing  company  experts.  In  the 
+
+current paper, I have chosen to study waste types due to inability to reach 
+
+company clients and project stakeholders, which is the result of: 
+
+1)  Dataset  collection  took  place  in  the  past  and  was  performed  by 
+
+company management; 
+
+2)  The  research  is  external  to  the  PBO,  which  deals  with  data 
+
+sensitivity and confidentiality to open sources. 
+
+ 
+
+36 
+
+ 
+
+ 
+
+Accounting  for  the  service  industry  waste  types  found  in  scholarly 
+
+literature (Bonaccorsi et al., 2011), an interview guide was developed (Part 
+
+1,  Appendix  B)  in  order  to  assess  the  classic  waste  types  (Table  5, 
+
+Appendix  A),  cross  out  the  unnecessary  ones  and  add  industry  and 
+
+process–specific wastes.  
+
+The second phase draws on the waste log, assembled during the first 
+
+phase, to perform secondary data analysis of company’s dataset in order to 
+
+define the proportion of wastes  across processes. Secondary data analysis 
+
+represents  a  multidimensional  method,  which  implies  any  subsequent 
+
+analysis  of 
+
+the  dataset  providing 
+
+interpretations,  conclusions  and 
+
+investigations  additionally  or  apart  from  preliminary  study  report  in 
+
+general  or  in  its  particular  aspects  (Hakim,  1982).  This  means  that  the 
+
+company in question did not previously used or assembled the dataset for 
+
+the purposes described in this study.  
+
+During  the  third  step  the  repetitive  processes  across  and  within 
+
+projects  are  analyzed  using  Overall  Equipment  Efficiency  (OEE)  for  the 
+
+reasons  described  in  section  2.1.2.  This  method  represents  a  Total 
+
+Productive  Maintainance 
+
+tools  and  visually 
+
+represents  process 
+
+losses/wastes  independently  of  the  whole  system,  in  which  the  process  is 
+
+integrated.  
+
+ 
+
+37 
+
+ 
+
+ 
+
+Exhibit 4. Framework of the study 
+
+The  fourth  stage  is  performed  by  depicting  a  Value  Stream  Map, 
+
+specifically  –  current  state  of  process  alignment  and  flow.  This  technique  is 
+
+adopted  in  order  to  provide  inputs  for  root  cause  analysis  of  process 
+
+inefficiencies, which form a platform for management decisions. 
+
+ 
+
+ 
+
+3.1.1.  Research hypothesis 
+
+The  main  hypothesis  of  the  paper  consists  in  proposition  that  a 
+
+methodology assembled from lean tools and following lean principles can be 
+
+used  to  measure  project  performance  in  service  PBO  (H1).  The  sub-
+
+hypotheses of this proposition are: 
+
+1)  Average  project  lead  time  can  be  reduced  by  at  least  10%  by 
+
+means of waste elimination (H1.1); 
+
+2)  Average  process  OEE  is  below  world-class  figures  (85%) 
+
+(Arcidiacono et al., 2012) (H1.2); 
+
+Testing  these  hypotheses  is  helpful  to  demonstrate  the  diagnostic 
+
+power  of  the  devised  methodology  in  addition  to  ability  to  be  utilized  to 
+
+measure project progress as development of EV methodology.  
+
+ 
+
+38 
+
+ 
+
+ 
+
+ 
+
+3.1.2.  Main goal and objectives 
+
+The  main  goal  of  the  study  is  to  develop  current  methods  of  project 
+
+control  and  project  performance  measurement 
+
+in  order 
+
+to 
+
+inform 
+
+management  decisions  on  project  structure,  resource  allocation  and 
+
+optimization.  The  following  objectives  have  to  be  addressed  prior  to 
+
+achievement of research goal: 
+
+(1) In  theoretical  field:  synthesis  of  generic  waste  types  in  lean 
+
+manufacturing  and  lean  service  to  provide  input  for  interview 
+
+guides used to survey company experts. 
+
+(2) In practical application: 
+
+(a) Devise  a  semi-structured  interview  guide  and  screening 
+
+questionnaire  to  assess  common  waste  types  and  assemble 
+
+waste log; 
+
+(b) Interview company experts; 
+
+(c) Data  analysis  and  interpretation:  Secondary  data  analysis; 
+
+visual  representation  of  process  OEE;  Depicting  Current 
+
+State Map. 
+
+In my viewpoint, these objectives will facilitate hypotheses validation 
+
+and take the study directly to achievement of the main goal.  
+
+ 
+
+ 
+
+39 
+
+ 
+
+ 
+
+3.2.   Data analysis 
+
+The process undertaken to acquire secondary as well as gather primary 
+
+data is provided in section 3.1. The main findings of the study are presented 
+
+in this section. During the first step, I outline the common characteristics of 
+
+empirical  data  (3.2.1),  while  further  sections  pay  close  attention  to  the 
+
+contents  and  interpretations  of  the  output  of  each  phase  (3.2.2-3.2.5), 
+
+drawing  on  identified  specifications  and  frameworks,  used  as  theoretical 
+
+basis of the devised framework.  
+
+ 
+
+3.2.1. 
+
+Sample and dataset characteristics 
+
+The dataset is taken from longitudinal study carried out by one of the 
+
+leading Project-Based Russian market research company in IPSOS group, in 
+
+which  a  project  for  internal  monitoring  purposes  was  held  in  2012,  during 
+
+which all employees filled in daily timesheets indicating:  
+
+1)  Date; 
+
+2)  Activities and processes to which the activities belong; 
+
+3)  Time  estimate  for  the  specific  activities  by  project  manager 
+
+(calculation of Total Available Time);  
+
+4)  Actual time required to complete the task; 
+
+5)  Project ID; 
+
+6)  Project methodology; 
+
+7)  Employee comments. 
+
+The dataset itself was collected in Moscow, Russia. Sample size is 23 
+
+500 observations, which represents about 700 projects within the time scope 
+
+of one year and seven month. The main input for secondary data analysis as 
+
+interpretative qualitative methodology is contained in the comment section, 
+
+in which main issues, activity contents and characteristics are described, and 
+
+which,  in  majority  of  project  cases,  remained  blank.  This  characteristic  of 
+
+the  dataset  extremely  limited  the  number  of  projects,  suitable  for  analysis. 
+
+ 
+
+40 
+
+ 
+
+ 
+
+Total number of projects, reviewed via the secondary data analysis contains 
+
+20  observations  (Exhibit  5).  All  projects  are  divided  into  several  types, 
+
+ranging from ClickTest (Online questionnaire for testing how appealing the 
+
+product  is)  to  PackTest  (Study  of  the  devised  alternatives  to  current  form-
+
+factor  of  product  package).  Consequently,  the  selected  projects  differ  by 
+
+size,  complexity  and  methodology  offered  to  the  client,  which  should  be 
+
+valuable  in  terms  of  building  an  unbiased  and  holistic  perspective  of 
+
+analysis. 
+
+Exhibit 5. Characteristics of analyzed projects 
+
+Project sample characteristics 
+
+Team size, N. of projects 
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+ 
+
+N. of hours, activities 
+455
+
+405
+
+355
+
+305
+
+255
+
+205
+
+155
+
+105
+
+55
+
+5
+
+AdValuation
+
+ClickTest
+
+New Product
+tests (field)
+
+New Product
+tests (online)
+
+PackTest
+
+Price sensivity
+measurement
+
+Top-line study Tracking Study
+
+Usage &
+
+attitute study
+
+Avrg. Project duration
+
+Avrg. num. of avtivities
+
+Avrg. team size
+
+Num. of projects in sample
+
+During  the  first  stage,  which  required  gathering  primary  data,  I 
+
+conducted  a  total  number  of  six  interviews  with  company  experts,  all  of 
+
+which worked for various projects in the company and have been part of the 
+
+committee, which initiated the project of internal monitoring.  
+
+ 
+
+3.2.2.  Qualitative stage 
+
+The first stage of qualitative stage is sampling. According to Marshall 
+
+(1996:  522),  “an  appropriate  sample  size  for  a  qualitative  study  is  one  that 
+
+adequately  answers  the  research  question”.  This  strategy  was  used  to  build 
+
+theoretical sample, which, prompted by the main goal of the research, aims 
+
+ 
+
+41 
+
+ 
+
+ 
+
+to  advance  project  management,  i.e.  project  control.  This  is  why  all 
+
+observations were gathered from project managers and coordinators, directly 
+
+involved  in  the  process  of  project  control  across  projects  of  the  company. 
+
+The validity of semi-structured interviews is considered to be high (Bariball 
+
+and  While,  1994),  although,  as  any  qualitative  method,  it  does  not  provide 
+
+the level of generalization, required of any quantitative technique. Therefore, 
+
+the  results  of  the  study  are  confined  to  the  specific  company  data.  The 
+
+validity of interview data in this study is based on: 
+
+1) 
+
+Personal  and  professional  acquaintance  with  interviewees, 
+
+which  sets  mentally  comfortable  and  constructive  interview 
+
+settings; 
+
+2) 
+
+Professional acquaintance  with  working  conditions, projects 
+
+and  project  management  of 
+
+the  company 
+
+(previous 
+
+employment); 
+
+3) 
+
+Interviewee  motivation  to  use  the  output  of  the  study  in 
+
+enhancing  current  project  control  methodology  of  the 
+
+company. 
+
+All interviews were recorded and then transcribed for the purposes of 
+
+data  analysis.  Research  ethics  was  closely  watched,  taking  interviewee’s 
+
+consent for data processing, anonymity and confidentiality of data provided.  
+
+The  interview  guide  contains  five  sections,  in  which  organizational 
+
+context,  project  management,  project  and  process  efficiency  as  well  as 
+
+organizational  learning  aspects  are  reflected  (Part  1,  Appendix  B).  A 
+
+screening  questionnaire  was  also  prepared  as  supplementary  material  for 
+
+interviews (Part 2, Appendix B).  
+
+The  main  findings  of  each  section  were  organized  in  a  table,  which 
+
+depicts a synthesis of waste types, experienced by interviewees (Table 2 and 
+
+3,  Appendix  B).  To  summarize,  the  proportions  of  waste  categories  in 
+
+accordance with Table 5 (Appendix A) are depicted in Exhibit 5. This chart 
+
+ 
+
+42 
+
+ 
+
+ 
+
+evidently  shows  that  the  structure  of  waste  in  the  company  is  highly 
+
+fragmented, with Duplication/Rework, Waiting and Motion forming 54% of 
+
+total structure. This suggests, first, that project resources are poorly utilized 
+
+and  these  problems  deserve  close  consideration  by  itself,  and,  second,  that 
+
+there is, in fact, cross-project set of wastes, that can be assembled, updated 
+
+and  looked  at  when  filling  in  timesheets,  necessary  for  calculation  Earned 
+
+Value.  
+
+ 
+
+Exhibit 6. Structure of Waste log assembled through interviews 
+
+Proportion in waste log 
+
+Outdated 
+materials 
+
+6% 
+
+Defects 
+
+5% 
+
+Lack of 
+
+standardization 
+
+8% 
+
+Waiting 
+
+17% 
+
+Variation 
+
+8% 
+
+Duplication/Rew
+
+ork 
+25% 
+
+Overproduction 
+
+3% 
+
+Underutilized 
+
+Employees 
+
+Motion 
+
+6% 
+
+11% 
+
+Unclear 
+
+communication 
+
+6% 
+
+ 
+
+ 
+
+ Exhibit 6 shows the structure of business activities (the ones that are 
+
+wastes,  however  are  necessary  for  business  functioning),  which  in  total 
+
+constitute  34%  of  total  number  of  waste  types.  The  proportion  of  business 
+
+activities straight away is high; however, this only regards general mentions 
+
+in  the  interview,  which  does  not  reflect  the  actual  proportion  in  project 
+
+processes.  
+
+ 
+
+ 
+
+43 
+
+ 
+
+ 
+
+Exhibit 7. Structure of business activities 
+
+Business activities 
+
+Outdated 
+materials 
+
+17% 
+
+Lack of 
+
+standardization 
+
+25% 
+
+Motion 
+
+16% 
+
+Variation 
+
+17% 
+
+Waiting 
+
+25% 
+
+ 
+
+3.2.3. 
+
+Secondary data analysis 
+
+This  stage of  data  analysis  consisted  in  assigning  waste  type  codes 
+
+to activities, which contained comments about activity content. In total, the 
+
+deviation  between  actual  activity  descriptions  and  waste  definitions, 
+
+presented in Table 3 (Appendix B), turned out to be low, which means that 
+
+the majority of descriptions highlighted specific characteristics of defined 
+
+waste types. In Exhibit 7, each waste type is shown according to the total 
+
+number  of  project  hours  (Supplementary  materials  are  shown  in  Table  4, 
+
+Appendix B).  
+
+The  key  findings  from  Exhibit  7  consist  in  definition  of  four  most 
+
+dangerous  waste 
+
+types  for  company  projects  and  processes:  (1) 
+
+Duplication/Rework, 
+
+(2)  Unclear 
+
+communication, 
+
+(3)  Lack  of 
+
+standardization  and  (4)  Lack  of  customer  focus.  Drawing  from  IHIP 
+
+framework  (Table  4,  Appendix  A),  wastes  (1)  and  (4)  may  represent  the 
+
+characteristics  of  perishability  and  intangibility  accordingly.  In  other 
+
+words,  significant  amount  of  rework  is  connected  to  inability  to  store  a 
+
+ready service or lack of customer focus as another reason, where the latter, 
+
+in turn, can stem from promised performance and client  internal conflicts 
+
+resulting  from  incomplete  understanding  at  project  initiation  phase  (high 
+
+proportion of brief and proposal processes). Waste (2) is most often seen at 
+
+ 
+
+44 
+
+ 
+
+ 
+
+questionnaire stage, where organizational communication channel seem to 
+
+be highly ineffective. Lack of standardization is most often at other project 
+
+processes, which is  usually  pre-proposal stage, concerned  with  winning a 
+
+client and giving paper documentation for prices, project details and other 
+
+contractual information. 
+
+ 
+
+ 
+
+ 
+
+45 
+
+ 
+
+ 
+
+ 
+
+Exhibit 8. Overview of waste types observed across projects 
+
+Overview of  wastes by total number of hours 
+
+Overproduction
+
+26.25 
+
+Underutilized Employees
+
+8.75 
+
+20.57 
+
+Outdated materials
+
+28.46 
+
+4.84 
+
+Waiting
+
+10.08 
+
+12.5 
+
+19.5 
+
+12.1 
+
+Variation
+
+24.39 
+
+11.76 
+
+10 
+
+9 
+
+Motion
+
+13.44 
+
+Defects
+
+18.48 
+
+45 
+
+42 
+
+Lack of focus
+
+16.26 
+
+58.8 
+
+Lack of standardization
+
+43.36 
+
+8.4 
+
+6 
+
+26.62 
+
+Unclear communication
+
+23.04 
+
+52.5 
+
+19.36 
+
+Duplication/Rework
+
+47.04 
+
+15 
+
+28.5 
+
+37.51 
+
+0.00
+
+20.00
+
+40.00
+
+60.00
+
+80.00
+
+100.00
+
+120.00
+
+140.00
+
+Other
+
+Brief and Proposal
+
+Questionnaire
+
+Link Programming/Fieldwork
+
+Processing
+
+ 
+
+Another  significant  point  is  that  secondary  data  analysis  did  not 
+
+allow  to  split  waste  types  from  business  activities,  which  happened 
+
+because  short  comment  and  incomplete  sections  of  project  monitoring 
+
+dataset.  Nevertheless,  in  terms  of  control  of  waste  occurrence  and 
+
+underutilized  value  in  time  or  currency  equivalent  this  type  of  analysis 
+
+turned out to be suitable.  
+
+ 
+
+3.2.4.  Quantitative stage: OEE project overview 
+
+The  devised  methodology  allows  depicting  efficiency  of  either  a 
+
+process  or  a  project.  Since  I  search  for  an  aggregate  measure  of  project 
+
+performance,  I  depicted  OEE  of  both  a  particular  project  (Exhibit  8)  and 
+
+across projects (Exhibit 9). 
+
+ 
+
+ 
+
+46 
+
+ 
+
+ 
+
+Exhibit 9. Single project OEE 
+
+ 
+
+To summon, Exhibit 8 depicts a project, in which all waste types are 
+
+defined.  It  is  evident,  that  some  waste  types  occur  even  before  the  project 
+
+has started, which is shown in the gap between “Total Available Time” and 
+
+“Project  Time”.  Also,  the  transparency  of  project  efficiency  calculation  is 
+
+seamless  in  representation  of  the  gap  between  “Project  Time”  and  “Value-
+
+Added Time”.  
+
+At the same time, the history of company’s project allows to develop 
+
+understanding  of  possible  control  pitfalls  depending  on  the  size  of  the 
+
+project. After  cross-project  calculation of OEE, I  noticed that projects  with 
+
+average duration over 200 hours tend to be less effective than the small ones 
+
+(Exhibit  9).  Each  project  is  represented  by  a  set  of  four  dots  on  a  vertical 
+
+line, the example of which is shown on project number 20. Apparently, the 
+
+rising  scale  of  project  turns  out  to  have  a  negative  effect  on  project 
+
+efficiency  in  the  particular  case  of  this  company.  By  means  of  calculating 
+
+average  OEE  across  projects,  a  figure  of  80%  can  be  directly  compared  to 
+
+world  class  figures,  observed  by  Arcidiacono  (2012),  which  is  85%. 
+
+Therefore,  hypotheses  H1.1  and  H1.2  are  verified  by  the  study.  Regarding 
+
+ 
+
+47 
+
+ 
+
+ 
+
+the  first  hypothesis,  project  OEE  ranges  from  61%  to  88%  which  denotes 
+
+that  at  least  10%  of  project  lead  time  can  be  shortened  by  careful  waste 
+
+elimination. 
+
+ 
+
+Exhibit 10. OEE across projects 
+
+Relation between Project Characteristics and OEE 
+
+Project 20 OEE 
+
+Project 20  characteristics 
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+450
+
+Total Available time
+
+Value-Added Time
+
+Project Time
+
+OEE
+
+100%
+
+90%
+
+80%
+
+70%
+
+60%
+
+50%
+
+40%
+
+30%
+
+20%
+
+10%
+
+0%
+
+ 
+
+500
+
+450
+
+400
+
+350
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+
+ 
+
+3.2.5.  Value Steam Map of company’s processes 
+
+During  the  last  stage  of  data  analysis,  I  depicted  a  simplified  Value 
+
+Stream Map (VSM) for the investigated market research PBO (Exhibit 10). 
+
+Even  though  to  read  the  diagram,  the  list  of  abbreviations  (Exhibit  1, 
+
+Appendix  B)  is  required,  the  understanding  of  the  key  insights  is  easy  to 
+
+capture.  It  is  the  overview  of  interconnections  between  typical  project 
+
+processes and highlights of the key project areas at which key wastes occur.  
+
+Firstly, one of the lean-evident key defects of the system, for instance, 
+
+is  push-based  transfer  from  one  process  to  the  next;  on  contrary,  scholarly 
+
+literature  advocates  the  role  of  pull-based  transitions  for  service  sector 
+
+(Ahlstrom,  2004).  Second,  project  management  department  seem  to  be 
+
+overloaded  with  current  procedures  of  project  control,  since  there  are 
+
+multiple  points  of  client  interaction  and  regulations;  much  of  project 
+
+ 
+
+48 
+
+ 
+
+ 
+
+manager’s  workload  comes  from  poorly  standardized  interaction  between 
+
+project  team  and  support  department  and  suppliers.  This  stands  for  higher 
+
+proportion  of  micromanagement  of  processes,  which  leaves  less  time  for 
+
+process improvement, shortening of project lifecycle and, in effect, a number 
+
+of projects processed in time period.  
+
+ 
+
+ Exhibit 11. Value Stream Map for market research PBO
+
+ 
+
+Nevertheless,  the  devised  approach  including  VSM  shows  positive 
+
+results  in  terms  of  extending  the  role  of  project  control  and  performance 
+
+measurement  by  bringing  in  visual  representation  of  processes  and  their 
+
+efficiency.  From  researcher’s  viewpoint  it  is  difficult  to  depict  the 
+
+characteristics of each process due to insufficient sample, sensitive data and 
+
+lack  of  company-specific  insights  into  project  management.  Additionally, 
+
+company’s projects range according to selected methodology, field, scale of 
+
+representativeness and other market research parameters. The depicted map, 
+
+though,  shows  a  generalized  view  on  the  flow  of  value  creation  process, 
+
+ 
+
+49 
+
+ 
+
+ 
+
+operating  with  average  OEE  for  available  projects  at  80%  level.  Thus,  I 
+
+consider the main hypothesis of the study to be valid.  
+
+3.3.  Discussion of the results 
+
+ 
+
+The  analytical  materials,  presented  above,  follow  the  devised 
+
+methodological  framework  of  the  study  (Section  3.1).  The  data  gathered 
+
+from primary and secondary sources verified all the hypotheses, which were 
+
+set  to  test  whether,  in  fact,  there  are  measurable  insights  into  project 
+
+efficiency acquired from lean principles and tools. 
+
+ Although  the  aforementioned  company-specific  set  of  wastes  has 
+
+been  defined,  systematized  and  used  to  interpret  project  non-value-added 
+
+time,  this  paper  does  not  build  direct  empirical  connection  of  the  proposed 
+
+methodology  with  Earned  Value  data.  At  this  stage,  this  was  not 
+
+accomplished  due  to  a  number  of  reasons,  including  competitor  sensitive 
+
+schedule  and  budget  costs  of  analyzed  projects,  some  of  which  were  still 
+
+ongoing.  The  unavailability  of  the  data  on  client  interaction  also  draws  the 
+
+line under interpretation of waste and/or value, because primary “clients” of 
+
+the  firm  played  secondary  role  in  the  study,  while  “the  voice  of  the 
+
+customer”  was  considered  to  be  articulated  by  internal  customers,  namely 
+
+project  managers  and  coordinators,  which  had  diverse  project  work 
+
+experience. 
+
+One of the specific problems of attributing waste or value indicators in 
+
+project  activities  consisted  in  active  involvement  of  client  representatives 
+
+during the whole value creation process. In practice, although the theoretical  
+
+foundation denotes that customer experience as well as value definition from 
+
+external  (primary)  client  is  in  priority  (Frei,  2006),  this  study  shows  that 
+
+clients  do  change  their  mind  due  to  budget  restrictions,  scope  redefinition, 
+
+schedule  adjustments  and  other  circumstances,  which  significantly  distorts 
+
+project  scope  approved  during  initiation  phase.  While  the  contracting 
+
+ 
+
+50 
+
+ 
+
+ 
+
+company (PBO in question) continues to execute projects regardless of these 
+
+changes,  they  actually  produce  more  rework  than  internal  communication 
+
+and standardization problems of the company (see Exhibit 7). This may alter 
+
+the way, in which value is defined in project-based settings (outside service 
+
+companies with repetitive operations). 
+
+Overall, the selected lean principles and tools turned out to be closely 
+
+connected  to  project control  methodology  both  at  conceptual  and  empirical 
+
+levels.  When  a  particular  project  is  analyzed  using  Earned  Value  and  a 
+
+negative deviation is observed at specific time period, a defined set of wastes 
+
+helps to classify all the activities occurring at specific date according to the 
+
+standardized understanding of value (via Waste Log), gathered from internal 
+
+clients  of  the  company.  With  this  tool  at  hand,  the  people  as  well  as  the 
+
+reasons  for  deviations  can  be  scrutinized,  since  a  responsible  person  (for  a 
+
+particular activity) fills in a timesheet required for EV. As a result, less time 
+
+is needed to actually control project execution and more time can be devoted 
+
+to managing deviations as they occur.  
+
+At this point, the secondary aspects of lean (defined in section 2.1.1), 
+
+namely  decentralization  and  vertical  information  systems  are  beginning  to 
+
+make  more  sense  in  terms  of  their  actual  potential  of  reducing  waste.  For 
+
+instance,  decentralization  may  act  like  a  waste  and  to  be  hidden  in  defined 
+
+underutilized employees, which, combined with increased volume of unclear 
+
+communication  waste  may  demonstrate  that  management  must  be  more 
+
+centralized  and  coordinated.  At  the  moment  project  employees  seem  to 
+
+strive  for  tackling  the  problems  themselves  under  supervision  of  project 
+
+managers, however the resulting proportion of inefficiency calls for definite 
+
+intervention from the management side.  
+
+The  aspect  of  vertical  IS,  on  the  contrary,  is  conceptually  more 
+
+suitable for the chosen PBO as a solution point for unclear communication, 
+
+standardization,  updating  project  materials  and  waiting  waste  types.  The 
+
+ 
+
+51 
+
+ 
+
+ 
+
+output  of  interviews,  which  contained  questions  regarding  knowledge 
+
+management  in  the  organization  revealed  a  lack  of  unity  in  knowledge 
+
+codification, storage and distribution. The majority of projects were held in 
+
+secure  folders  on  shared  intranet  repositories,  where  no  single  system  is 
+
+utilized  to  make  the  knowledge  generated  within  projects  available  and 
+
+learnable.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+52 
+
+ 
+
+ 
+
+4.  Practical recommendations 
+
+Essentially, lean principles and handbooks denote that each waste type 
+
+has specific ways of resolving; however, the definition of the custom cluster 
+
+(low  repetitiveness of  operations)  of  service  companies partially  prevents a 
+
+definitive set of solutions to be established across companies. 
+
+ At the same time, there is another integral parameter, which can serve 
+
+as  an  indicator  for  applicability  of  potential  recommendations  within  the 
+
+cluster: organizational maturity stage. Notably, according to OPM3, the last 
+
+stage  of  maturity  is  continuous  improvement  held  at  the  level  of  managing 
+
+portfolio  of  projects  (PMI,  2004),  which  sounds  incredibly  similar  to  the 
+
+principle  of  kaizen,  formulated  and  utilized  by  Japanese  manufacturers 
+
+decades  before  the  establishment  of  Project  Management  Institute  (PMI). 
+
+Nevertheless,  following  this  approach  it  becomes  evident,  that  a  set  of 
+
+recommendations can be highly applicable to PBO, which are at the level of 
+
+measurement and standardization held at the level of projects and programs.  
+
+The  recommendations  formulated  in  this  section  stem  directly  from 
+
+the  results  of  the  empirical  study  held  in  the  chosen  market  research  PBO. 
+
+As  noted  in  earlier  chapters,  the  first  milestone  on  the  way  to  continuous 
+
+improvement is standardization of input forms (4.1). Secondly, in order for 
+
+standardization to be used, a pull-based mechanism of project analytics has 
+
+to  be  established  in  the  form  of  information  system  (IS),  which  would 
+
+support  a  demand  for  project  analytics  in  further  organizational  structure, 
+
+enabling  the  feedback  loop  to  project  managers;  I  refer  this  aspect  as 
+
+knowledge-based control loop (4.2). 
+
+ 
+
+4.1 Standardization 
+
+ 
+
+The aspect of standardization plays the paramount role of reducing the 
+
+risk of making a uniformed decision about project progress. As noted above, 
+
+while EV methodology gives a numerical estimate for progress, however the 
+
+53 
+
+ 
+
+ 
+
+ 
+
+reasons behind any deviation have to be qualitatively investigated by project 
+
+manager,  which,  in  essence,  is  micromanagement.  To  avoid  the  need  for 
+
+micromanagement, a set of baseline causes for deviations must be somehow 
+
+reflected and estimated in the form of, for instance, a timesheet, required of 
+
+EV.  Using  the  approach,  developed  in  this  paper,  the  essentiality  of  waste 
+
+identification in timesheets becomes more and more obvious.  
+
+After  the  initial  monitoring  of  waste  types  of  the  company  has  been 
+
+completed,  the  information  gathered  on  this  stage  serves  as  an  input  for 
+
+defining,  estimating  and  eliminating  performance  losses.  However  if  the 
+
+form of a timesheet is too complicated or requires too detailed information, 
+
+no single employee of the firm is going to use it. That is why a template of 
+
+information required for waste estimation is devised (Exhibit 12) 
+
+ 
+
+Exhibit 12. Timesheet template 
+
+Date 
+
+Project 
+
+ID 
+
+Process type 
+
+Employee 
+
+12.09.2014 
+
+76327 
+
+Brief & Proposal 
+
+784663 
+
+13.09.2014 
+
+32742 
+
+Link programming 
+
+876376 
+
+14.09.2014 
+
+18937 
+
+Interview decoding 
+
+763874 
+
+N. of 
+hours 
+
+2 
+
+1 
+
+3 
+
+Waste 
+
+Comment 
+
+Estimate 
+
+Waiting 
+
+Rework 
+
+Defects 
+
+XXX 
+
+XXX 
+
+XXX 
+
+10% 
+
+15% 
+
+20% 
+
+ 
+
+A  standardized  form,  in  which  only  basic  parameters  are  included, 
+
+becomes  a  powerful  tool  for  decision-making.  Column  “Waste”  contains 
+
+waste  type  (or  code),  which  serves  as  explanation  for  missing  deadlines  or 
+
+budgeted  costs,  while  column  “Estimate”  contains  an  approximate  value  in 
+
+percentage of the operation completed. This timesheet template, in addition 
+
+to  information  about  milestone  achievement, can  as  well  serve  as  input  for 
+
+EV.  Taking  into  consideration  the  resistance  to  complete  reports  daily,  a 
+
+standardized  form  like  this  enables  to  put  less  strain  on  employees  by 
+
+offering a single form to fill in the end of the day. 
+
+Another  solution  for  initial  estimation  of  waste  can  be  transferred  to 
+
+IS,  particularly  by  enabling  intra-program  analytics  about  duration  of 
+
+ 
+
+54 
+
+ 
+
+ 
+
+activities and offering to select reasons for overdue. This approach might be 
+
+more sensible also because a system can be programmed to allow timesheet 
+
+submission  only  in  case  deviations  are  explained  using  standard  waste  log. 
+
+However,  conditions  of  timesheet  usage  can  differ  from  company  to 
+
+company, and that is why both alternatives present an excellent opportunity 
+
+to  gather  more  project  data.  The  use  of  the  data  gathered  at  this  stage  is 
+
+presented in the next section. 
+
+ 
+
+4.2. Knowledge-based project control loop (KPCL) 
+
+As  stated  above,  project  control  mechanisms  are 
+
+the  main 
+
+determinants  of  project  performance  in  service  industries  (Upte  and  Goh, 
+
+2004),  which  is  why  the  form  of  project  control  has  to  be  (a)  based  on 
+
+feedback  from  project  managers  and  project  team  on  the  one  hand  and  (b) 
+
+aligned  with  the  rest  of  firm’s  projects  (as  projects  might  compete  for 
+
+resources)  on  the  other.  While  at  the  moment  project  control  in  the 
+
+investigated  PBO  remained  indisputably  in  the  hands  of  project  managers, 
+
+the alignment of projects in a program or portfolio cannot be held by simple 
+
+awareness  of  other  managers’  projects.  This  is  why  a  control  system  to 
+
+maintain both functions simultaneously is needed. The first step, however, is 
+
+to establish a project management office (PMO) to actually use project data 
+
+and inform alignment of projects, including process optimization.  
+
+The  scheme  of  proposed  project  control  loop  for  assembling, 
+
+analyzing and distributing knowledge about project bottlenecks is presented 
+
+in Exhibit 13. The picture takes on view from three perspectives – employee 
+
+intranet  access,  IS  and  PMO,  because  these  are  the  main  three  forces  of 
+
+knowledge creation and distribution: project team is the source of data, IS is 
+
+used to both clarify, pre-analyze and distribute ready-to-use solutions, while 
+
+PMO  acts  like  “knowledge  broker”,  which  makes  a  research,  analyses  and 
+
+ 
+
+55 
+
+ 
+
+ 
+
+makes  decisions  on  whether  a  process  (practice)  can  be  optimized  to 
+
+increase project efficiency.  
+
+It  is  important  to  note,  that  Exhibit  13  shows  both  instant  and  long-
+
+term  processes  of  knowledge  usage  to  transform  the  way  in  which  an 
+
+organization  operates.  For  instance,  timesheet  submission  might  be  a  daily 
+
+or weekly procedure, while drawing current state map and future state map, 
+
+as well as establishing which practice should be a standard, usually takes up 
+
+the  input  of  a  number  of  projects,  i.e.  significant  amount  of  time.  The 
+
+difference  of  time  horizons,  at  the  same  time,  should  not  be  an  excuse  to 
+
+discard the search for continuous improvement, which Exhibit 13 ultimately 
+
+represents.  Both  theoretically  and  in  practice,  the  knowledge  accumulated 
+
+and  distributed  among  team,  which  takes  on  a  typical  project,  helps  to 
+
+immensely reduce the activity of reinventing the wheel, i.e. waste time. The 
+
+leading  role  of  PMO  can  be  drawn  from  the  prognostic  function  (duration 
+
+analysis  using  EV)  and  optimization  (removing  reasons  behind  waste 
+
+activities),  which  is  why  establishment  of  PMO  is  highly  desirable  for  the 
+
+analyzed company.  
+
+At  the  moment,  highly  dispersed  knowledge  exists  in  the  minds  of 
+
+project  managers  and  teams,  which  remain  rather  stable  across  one  or 
+
+several  industries.  The  unnoticed  similarity  of  both  waste  and  value  across 
+
+industries  and  firm’s  projects  presents  a  potential  for  boosting  firm’s 
+
+performance  by  first  and  foremost  reducing  project  lead  times,  which,  as 
+
+shown in the study, can be achieved by defining and eliminating waste. 
+
+ 
+
+56 
+
+Exhibit 13. Knowledge-based project control loop  
+
+ 
+
+57 
+
+5. Conclusion 
+
+The current dissertation provides a number of insights into the field of 
+
+project  management,  lean  management  and  combination  of  the  two  with 
+
+respect  to  project  control  and  project  performance  measurement.  First,  the 
+
+development  of  lean  thinking  has  spread  from  manufacturing  and  service 
+
+repetitive  operations  to  project-based  work,  which  builds  a  bridge  for 
+
+retranslation of lean principles in project control tools, which would structure 
+
+project planning  and execution,  placing value  (in both  economic  and project 
+
+control  meaning)  front  and  center.  The  second  insight  builds  on  specific 
+
+aspects  of  service  industry  and  the  need  to  follow  the  path  of  concept  and 
+
+practice  localization.  While  the  tools  I  used  to  demonstrate  applicability  did 
+
+not undergo significant modifications, some characteristics of a service helped 
+
+to  shape  the  understanding  of  root  causes  of  certain  wastes.  Thirdly,  the 
+
+understanding  of  the  significance  of  project  diagnostics,  which  form  a 
+
+transparent  structure  of  value  creation,  provides  a  practice,  which  can  be 
+
+utilized in the management of project-driven organizations.  
+
+Due to unsurprisingly low availability of data, required to construct a 
+
+precondition  for  lean  project  management,  the  necessary  conceptual  links 
+
+between  project  and  lean  management  exist  in  both  literature  and  practical 
+
+application.  The  justification  of  this  thesis  has  led  the  study  towards  a 
+
+conclusion,  according  to  which  project  management  has  to  take  control  of 
+
+value  creation  chain.  Although  at  the  moment  the  requirements  for 
+
+transparency of value creation are confined to timesheets filling and Earned 
+
+Value  methodology  in  one  case,  or  Key  Performance  Indicators  (KPI)  or 
+
+Critical  Success  Factors  (CSF)  in  other,  the  actual  understanding  of  value 
+
+differs across the three. The breakthrough idea of the dissertation is that the 
+
+different understandings of value do not necessarily have to be converted in 
+
+a  single  analytical  unit;  on  the  contrary,  one  method  can  cope  with  the 
+
+drawbacks of the other.  
+
+ 
+
+58 
+
+ 
+
+ 
+
+One  of  the  main  findings  related  to  the  overload  of  project 
+
+management department builds a link with the need for a more centralized, 
+
+aggregate  and  knowledge-based  means  of  communication,  storage  and 
+
+distribution of project information. One of the outtakes related to vertical IS 
+
+actually  deals  with  this  need,  however  in  a  too  generalized  way.  More 
+
+specifically,  the  main  solution  to  corporate  problems  and  leveraging  the 
+
+already  existing  knowledge 
+
+in  the  company  consists 
+
+in  aggressive 
+
+knowledge management methods, which constitute a good practice in more 
+
+advanced  and  knowledge-literate  companies.  The  pool  of  such  systems  is 
+
+often called Project Management Information Systems (PMIS). Although the 
+
+positive  links  of  these  systems  with  increased  user  productivity  as  well  as 
+
+project success have already been discovered (Raymond & Bergeron, 2008), 
+
+the  current  case study  revealed the  absence  of  such  mechanism  for, first of 
+
+all,  formulating  the  arguments  for  management  decisions.  The  important 
+
+prerequisite  of  data-based  decision-making  is  simply  disregarded;  the 
+
+knowledge generated within projects remains buried in the minds of project 
+
+managers  and  abandons  the  flow  of  valuable  information  across  the 
+
+company.  As  noted  before,  this  facilitates  the  need  for  more  trainings, 
+
+coaching  and  other  knowledge  sharing  procedures,  which,  at  the  current 
+
+company’s  lifecycle  stage,  remain  unstandardized  and/or  outdated,  pulling 
+
+valuable human resources for project control. 
+
+The  directions  for  further  research  stem  from  the  main  conceptual 
+
+edges of  the  current study. For  instance, the  understanding  of value, which 
+
+differs  from  one  methodology  to  another,  is  still  uncertain  regarding  lean 
+
+principles  as  applied  in  project-based  companies.  The  availability  of  the 
+
+necessary data, as well as client interaction, in my viewpoint, could form a 
+
+framework of measuring value from actual understanding of what value is at 
+
+particular  project  stages.  This  notion  would  also  improve  the  methodology 
+
+devised in this study: the understanding of value refines the understanding of 
+
+ 
+
+59 
+
+ 
+
+ 
+
+waste.  Another  significant  direction  is  to  more  specifically  define  the 
+
+algorithms  of  knowledge  accumulation  and  sharing,  project  learning.  This 
+
+may  refer  to  either  building  a  Future  State  Map,  or  developing  the  internal 
+
+principles or  standards of project work or devising templates for more lean 
+
+friendly  data  access  points,  which  would  reflect  company’s  regulations  on 
+
+knowledge  management  procedures.  Overall, a  study, which  would  test  the 
+
+applicability of the devised EV extension on quantitative industry-wide data, 
+
+is  highly  desirable  due  to  its  fresh  and  independent  view  on  the  current 
+
+project management practice.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+60 
+
+ 
+
+ 
+
+6. Critical reflections 
+
+This study is notable for me in two respects. First, this is a conscious 
+
+attempt  to  develop  a  methodology,  which  is  commonly  used  and  widely 
+
+known.  This  sets  a  particular  challenge  in  terms  of  conceptual  linkage, 
+
+easiness  of  practical  application  and  critical  reflections  of  the  main 
+
+stakeholders,  involved  in  this  processes.  Second,  although  this  is  a  desk-
+
+based research, a defined and detailed project plan prevented or alleviated a 
+
+number  of  risks,  connected  to  stakeholder  environment  of  the  project, 
+
+schedule deviations and project control mechanisms. For instance, when risk 
+
+mitigation  was  developed  for  an  unfavorable  outcome  of  negotiations  with 
+
+initially selected market research PBO management, I already developed the 
+
+possible options of resolving the problem of unavailable data. In this regard, 
+
+I  mastered  the  combination  of  both  development  and  support  of  project 
+
+documentation, required of a good project management practice.   
+
+This  study  has  also  formed  a  springboard  for  a  future  career  of 
+
+optimization  of  project  management  procedures  in  Russian  and  European 
+
+counties,  which  lack  the  systematic  and  value  driven  approach  for 
+
+performance  measurement  and  project  control.  The  critical  incident  of 
+
+articulation,  search,  justification  and  application  of  a  never  defined  or 
+
+conceptually  established  method  increased  my  personal  awareness  of  tools 
+
+and  methodologies,  which  can  form  a  basis  for  actual  performance 
+
+improvement, versus purely theoretical claims. My dissertation establishes a 
+
+means  to  insightfully  manage  schedule  deviations,  providing  crucial 
+
+understanding of the hidden causes.  
+
+ 
+
+ 
+
+ 
+
+61 
+
+ 
+
+ 
+
+References 
+
+1.  AHLSTROM,  P.  (2004).  Lean  service  operations:  translating  Lean 
+
+production  principles  to  service  operations.  International  Journal  of 
+
+Services Technology and Management , 5 (5), 545 – 564; 
+
+2.  ALLWAY, M., & COBERTT, S. (2002). Shifting to lean service: Stealing a 
+
+page  from  manufacturers  ‘play-books’.  Journal  of  Organizational 
+
+Excellence, 21(2), 45–54; 
+
+3.  ANDERSSON, R., ERIKSSON, H., & TORSTENSSON, H. (2006). Similarities 
+
+and  differences  between  TQM,  Six  Sigma,  lean.  The  TQM  Magazine, 
+
+18 (3), 282-296; 
+
+4.  APM,  (2006).  The  APM  Body  of  Knowledge,  fifth  edition.  The 
+
+Association of Project Management; 
+
+5.  APTE,  U.M.  AND  GOH,  C-H.  (2004).  Applying  lean  manufacturing 
+
+principles  to  information  intensive  services,  International  Journal  of 
+
+Services Technology and Management, 5(5/6), 488–506; 
+
+6.  ARCIDIACONO,  G.,  CALABRESE,  C.,  YANG,  K.  (2012)  Leading 
+
+processes to lead companies: Lean Six Sigma: Kaizen Leader & Green 
+
+Belt Handbook. Springer Milan: Milano, XV, 334; 
+
+7.  ARIF-UZ-ZAMAN,  K.  &  AHSAN,  A.M.M.N.  (2014).  Lean  supply  chain 
+
+performance  measurement.  International  Journal  of  Productivity  and 
+
+Performance Management, 63(5), 588-612; 
+
+8.  ATKINSON R., (1999). Project management: cost, time and quality, two 
+
+best  guesses  and  a  phenomenon,  its  time  to  accept  other  success 
+
+criteria. International Journal of Project Management, 17(6), 337–42; 
+
+9.  BARCLAY  C.,  OSEI-BRYSON,  K-M.,  (2012).  Project  performance 
+
+development  framework:  An  approach  for  developing  performance 
+
+criteria  &amp;  measures  for  information  systems  (IS)  projects, 
+
+International Journal of Production Economics, 124 (1), 272-292; 
+
+10. BELASSI,  W.,  TUKEL,  O.I.,  (1996).  A  new  framework  for  determining 
+
+62 
+
+ 
+
+ 
+
+ 
+
+critical  success/  failure  factors  in  projects.  International  Journal  of 
+
+Project Management, 14 (3), 141–151; 
+
+11. BELFRAGE, J., & HEDBERG, P. (2006). Are you lean or just  mean? – A 
+
+study  of  the  application  of  lean  principles  in  face-to-face  service 
+
+operations. Stockholm: Stockholm School of Economics; 
+
+12. BERNROIDER W.N., IVANOV (2010). IT project management control and 
+
+the  Control  Objectives  for  IT  and  related  Technology  (CobiT) 
+
+framework, International Journal of Project Management, 29(3), 325-
+
+336; 
+
+13. BICHENO,  J.  (2008).  The  Lean  Toolbox  for  Service  Systems. 
+
+Buckingham: PICSIE Books; 
+
+14. BLACKBURN,  J.D.  (Ed.)  (1991)  Time-Based  Competition:  The  Next 
+
+Battle Ground in American Manufacturing, Business One Irwin, IL; 
+
+15. BORTOLOTTI & PIETRO ROMANO (2012). “Lean first, then automate”: a 
+
+framework for process improvement in pure service companies. A case 
+
+study,  Production  Planning  &  Control:  The  Management  of 
+
+Operations, 23(7), 513-522; 
+
+16. BROUGHTON, R. (2012). Business Excellence – The way how Business 
+
+should 
+
+be 
+
+done.  Recuperado 
+
+de 
+
+Lean  Manufacturing: 
+
+http://www.bexcellence.org/Lean-manufacturing.html 
+
+17. COLLINS,  K.,  &  MUTHUSAMY,  S.  (2007).  Applying  the  Toyota 
+
+production  system  to  a  healthcare  63  tandardizat:  A  case  study  on  a 
+
+rural  community  healthcare  provider.  The  Quality  Management 
+
+Journal, 14(4), 41–52; 
+
+18. COLLIS, J. & HUSSEY, R. (2003) Business Research: a practical guide for 
+
+undergraduate  and postgraduate  students,  second  edition. Basingstoke: 
+
+Palgrave Macmillan; 
+
+19. CORBETT,  S.  (2007).  Beyond  manufacturing:  the  evolution  of  lean 
+
+production, McKinsey Quarterly (3), 94–95; 
+
+ 
+
+63 
+
+ 
+
+ 
+
+20. COXON, M., OGUZ, T., SCHULZ, C. (2011). Wholesale ﬁnancial services: 
+
+Higher  pressure  means  greater  rewards  from  lean.  Lean  Management: 
+
+new frontiers for financial institutions, McKinsey Quarterly, 92-99; 
+
+21. D.  F.  CIOFFI  (2006).  Completing  Projects  According  to  Plans:  An 
+
+Earned-Value  Improvement  Index.  The  Journal  of  the  Operational 
+
+Research Society, 57(3), 290-295; 
+
+22. DAHLGAARD, J.J., & DAHLGAARD-PARK, S.M. (2006). Lean production, 
+
+six sigma quality, TQM and company culture – a critical review. TQM 
+
+Magazine, 18(3), 263–281; 
+
+23. DAHLGAARD,  J.J.,  KRISTENSEN,  K.,  &  KANJI,  G.  (Eds.).  (1995).  A 
+
+special issue on ‘total quality in education’. Total Quality Management, 
+
+6(5&6), 443–619; 
+
+24. DAHLGAARD,  J.J.,  PETERSEN,  J.,  &  DAHLGAARD-PARK,  S.M.  (2011). 
+
+Quality and lean health care: A system for assessing and improving the 
+
+health  care  organisations.  Total  Quality  Management  and  Business 
+
+Excellence, 22(6), 673–689; 
+
+25. FLAMHOLTZ, E.G., DAS, T.K., TSUI, A.S., (1985). Toward an interative 
+
+framework  of  organizational  control.  Accounting,  Organizations  and 
+
+Society, 10 (1), 35–50; 
+
+26. FRINSDORF,  O.,  ZUO,  J.,  XIA,  B.  (2014)  Critical  factors  for  project 
+
+efficiency  in  a  defence  environment.  International  Journal  of  Project 
+
+Management, 32 (5), 803-814;  
+
+27. GEORGE, M., ROWLANDS, D. AND KASTLE, B. (2003), What is Lean Six 
+
+Sigma? McGraw-Hill Companies, New York, NY; 
+
+28. GOLDRATT E., M., (2003). Production the TOC Way (Revised Edition).  
+
+29. GRANT,  K.P.;  PENNYPACKER,  J.S.,  (2006).  Project  management 
+
+maturity: an assessment of project management capabilities among and 
+
+between 
+
+selected 
+
+industries,  Engineering  Management, 
+
+IEEE 
+
+Transactions , 53(1), 59-68; 
+
+ 
+
+64 
+
+ 
+
+ 
+
+30. GREENWOOD, T., BRADFORD, M., & GREEN, B. (2002). Becoming a lean 
+
+enterprise: A tale of two firms. Strategic Finance, 84(5), 32–39; 
+
+31. GRIFFIN  A,  HAUSER  JR  (1993)  The  voice  of  the  customer.  Mark 
+
+Science, 12, 1–27; 
+
+32. GUNN,  T.G.  (1987)  Manufacturing  for  Competitive  Advantage: 
+
+Becoming  a  World  Class  Manufacturer,  Ballinger  Publishing, 
+
+Massachusetts, Cambridge; 
+
+33. HAKSEVER, C., RENDER, B., RUSSELL, R.S. AND MURDICK, R.G. (2000) 
+
+Service  Management  and  Operations,  Second  Edition,  Prentice-Hall, 
+
+Upper Saddle River, NJ, p.3; 
+
+34. HAYES,  R.H.,  WHEELWRIGHT,  S.C.  AND  CLARK,  K.B.  (1988)  Dynamic 
+
+Manufacturing:  Creating  the  Learning  Organization,  The  Free  Press, 
+
+New York; 
+
+35. HINES,  P.,  HOLWEG,  M.,  &  RICH,  N.  (2004).  Learning  to  evolve:  A 
+
+review  of  contemporary  lean  thinking.  International  Journal  of 
+
+Operations & Production Management , 24 (10), 994-1011; 
+
+36. HOBDAY M. (2000). The project-based organization: an ideal form for 
+
+managing  complex  products  and  systems?  Research  Policy,  29(7–8), 
+
+871-893; 
+
+37. JOHNSTON, R. AND CLARK, G. (2001). Service Operations Management, 
+
+Pearson Education, London; 
+
+38. JONES,  D.,  &  MITCHELL,  A.  (2006).  Lean  thinking  for  the  NHS. 
+
+London: NHS Confederation; 
+
+39. KAPLAN RS, NORTON DP (2004). Strategy maps: converting intangible 
+
+assets into tangible outcomes. Harvard Business School Press, Boston; 
+
+40. KELLS,  H.  R.  (1995).  Creating  a  culture  of  evaluation  and  self-
+
+regulation 
+
+in  higher  education  organizations.  Total  Quality 
+
+Management , 6 (5/6), 457–467; 
+
+41. KHOSROWSHAHI  F.  (1997).  The  optimum  project  duration  and  cost 
+
+ 
+
+65 
+
+ 
+
+ 
+
+curve  for  Hong  Kong  housing  projects.  Journal  of  Engineering 
+
+Construction and Architectural Management; 4(4), 249–69; 
+
+42. KILPATRICK,  J.  (2003).  Lean  Principles.  Utah:  MEP  Manufacturing 
+
+Extension Partnership; 
+
+43. KOLLBERG, B., DAHLGAARD, J.J., & BREHMER, P.O. (2007). Measuring 
+
+lean iniatives in health care services: Issues and findings. International 
+
+Journal of Productivity and Performance Management, 56(1), 7–24; 
+
+44. LAURAS,  M.,  MARQUES,  G.  and  GOURC,  D.,  (2010)  Towards  a 
+
+multi-dimensional project Performance Measurement System. Decision 
+
+Support Systems, 48(2), 342-353; 
+
+45. LEONARD-BARTON,  D.  (1992)  ‘The  factory  as  a  learning  laboratory’, 
+
+Sloan Management Review, 23–38; 
+
+46. LINDKVIST,  L.,  (2008).  Project  organization:  exploring  its  adaptation 
+
+properties.  International  Journal  of  Project  Management,  26  (1),  13–
+
+20; 
+
+47. LIPKE, W. (2003) Schedule is different. The Measurable News, 3, 31–
+
+34; 
+
+48. LIPKE,  W.  (2004)  Connecting  earned  value  to  the  schedule.  The 
+
+Measurable News, 1, 6–16; 
+
+49. LIPKE,  W.,  ZWIKAEL,  O.,  HENDERSON,  K.,  ANBARI,  F.  (2009) 
+
+Prediction of project outcome: the application of statistical methods to 
+
+earned  value  management  and  earned  schedule  performance  indexes. 
+
+International Journal of Project Management, 27 (4), 400–407; 
+
+50. LIPLEY, N. (2008). Lean times ahead. Nursing Management, 15(1), 1–3; 
+
+51. LIU,  J.Y.-C.,  CHEN,  H.H.-G.,  JIANG,  J.J.,  KLEIN,  G.,  (2010).  Task 
+
+completion  competency  and  project  management  performance:  the 
+
+influence  of  control  and  user  contribution.  International  Journal  of 
+
+Project Management, 28 (3), 220–227;  
+
+52. MARSHALL,  M.  N.  (1996).  Sampling  for  qualitative  research.  Family 
+
+ 
+
+66 
+
+ 
+
+ 
+
+Practice, Oxford University Press, 13 (6), 522-525; 
+
+53. MCINTOSH,  R.I.,  CULLEY,  S.J.,  MILEHAM,  A.R.  and  OWEN, 
+
+G.W., 2000. A critical evaluation of Shingo’s ‘SMED’ (Single Minute 
+
+Exchange  of  Die)  methodology.  International  Journal  of  Production 
+
+Research, 38(11), 2377-2395; 
+
+54. MIDDLETON, P. & JOYCE, D.  2012, “Lean  software  management:  BBC 
+
+worldwide  case 
+
+study”, 
+
+IEEE  Transactions  on  Engineering 
+
+Management, 59(1), 20-32; 
+
+55. MOELLER,  S.  (2010).  Characteristics  of  services  –  a  new  approach 
+
+uncovers their value. Journal of Services Marketing, 24 (5), 359 – 368; 
+
+56. MONDEN, Y. (1983). Toyota Production System: Practical Approach to 
+
+Production  Management,  Industrial  Engineering  and  Management 
+
+Press, Atlanta. 
+
+57. MUNNS, A.,  BJEIRMI, J. (1996). The  role of project  management in 
+
+achieving  project 
+
+success. 
+
+International  Journal  of  Project 
+
+Management, 14 (2), 81-87; 
+
+58. NASA web-site (2014). EVM. URL: [http://evm.nasa.gov] 
+
+59. NIDUMOLU,  S.R.,  1996.  Standardization,  requirements  uncertainty 
+
+and  software  project  performance.  Information  and  Management, 
+
+31(3), 135-150; 
+
+60. OHNO,  T.  (1988).  Toyota  Production  System.  (f.  p.  Translated  from 
+
+Japanese original, Trad.) Portland, Oregon: Productivity Press; 
+
+61. PAJARES, J., L PE -PAREDES, A. (2011) An extension of the EVM 
+
+analysis  for  project  monitoring:  The  Cost  Control  Index  and  the 
+
+Schedule Control Index. International Journal of Project Management, 
+
+29 (5), 615-621  
+
+62. PEMSEL  S.,  WIEWIORA,  A.  (2013)  Project  management  office  as 
+
+knowledge broker in project-based organizations. International Journal 
+
+of Project Management, 31(1), 31-42; 
+
+ 
+
+67 
+
+ 
+
+ 
+
+63. PIERCY, N. AND RICH, N., 2009. Lean transformation in the pure service 
+
+environment:  the  case  of  the  call  service  centre.  International Journal 
+
+of Operations and Production Management, 29 (1), 54–76; 
+
+64. PMI, 2004. A Guide to Project Management Body of Knowledge, third 
+
+edition, Project Management Institute; 
+
+65. PROJECT  MANAGEMENT  AT  WORK  (2012).  Lean  tools  and  techniques 
+
+for 
+
+project 
+
+management, 
+
+Web-Source. 
+
+URL: 
+
+[ 
+
+http://projectmanagement.atwork-network.com/2012/03/16/lean-tools-
+
+and-techniques-for-project-management/ ] 
+
+66. RADNOR, Z., BOADEN, R. (2008). Editorial: Lean in the Public Services: 
+
+Panacea or Paradox? Public Money and Management, 28 (1), 3-6; 
+
+67. RAYMOND  L.,  BERGERON,  F.  (2008)  Project  management 
+
+information  systems:  An  empirical  study  of  their  impact  on  project 
+
+managers  and  project  success.  International  Journal  of  Project 
+
+Management, 26 (2), 213-220; 
+
+68. REINHARDT,  K.  (2007).  Kaizen:  A  change  for  the  better.  Ground 
+
+Support Worldwide, 15(8), 14–17; 
+
+69. ROTHER, M., SHOOK, J. (2003). Learning to see: Value stream mapping 
+
+to  create  value  and  eliminate  muda,  Version  1.3,  Lean  Enterprise 
+
+Institute, Brookline, Mass; 
+
+70. SCARBROUGH, H., SWAN, J., LAURENT, S., BRESNEN, M., EDELMAN, L., 
+
+NEWELL,  S.  (2004)  Project-based  learning  and  the  role  of  learning 
+
+boundaries. Organization Studies, 25, 1579–1600; 
+
+71. SCHEMMER,  R.  W.  (1986).  How  can  service  businesses  survive  and 
+
+prosper? Sloan Management Review ,27 (3), 21-32. 
+
+72. SCHINDLER, M. & EPPLER, M.J. (2003). Harvesting project knowledge: 
+
+a review of project learning methods and success factors. International 
+
+Journal of Project Management, 21, 219-228; 
+
+73. SEDDON,  J.,  CAULKIN,  S.,  (2007).  Systems  thinking,  Lean  production 
+
+ 
+
+68 
+
+ 
+
+ 
+
+and action learning. Action Learning Research and Practice, 4 (1), 9–
+
+24; 
+
+74. SELLITTO  A.  S.,  BORCHARDT  M.,  &  PEREIRA  G.,  (2003). Assessing  the 
+
+degree  of  promptness  of  a  service  industry  to  adopt  lean  thinking, 
+
+REAd, 36, 9(6); 
+
+75. SERRADOR,  P.,  TURNER,  J.  (2014).  The  Relationship  between 
+
+Project  Success  and  Project  Efficiency.  Procedia  –  Social  and 
+
+Behavioral Sciences, 119, 75-84; 
+
+76. SHENHAR A.J., DVIR D., LEVI O., MALTZ A.C., (2001). Project success: 
+
+a  multidimensional  strategic  concept.  Long-Range  Planning,  34,  699–
+
+725; 
+
+77. SHINGO S., DILLON K., (1986) “Zero Quality Control: Source Inspection 
+
+by the Poka-Yoke System”, Productivity Press; 
+
+78. S  RE -BARRAZA,  M.  F.,  SMITH,  T.,  &  DAHLGAARD-PARK,  S.  M. 
+
+(2012).  Lean  Service:  A  literature  analysis  and  classification.  Total 
+
+Quality Management & Business Excellence , 23 (3-4), 359-380; 
+
+79. SUAREZ-BARRAZA,  M.F.,  &  RAMIS-PUJOL,  J. 
+
+(2008).  Process 
+
+standardization and sustainable continuous improvement: A closer look 
+
+at  the  application  of  ISO  9000  to  Logron  o  City  Council  (Spain). 
+
+International Journal of Quality and Standards, 1(2), 1–35; 
+
+80. S NDQVIST,  E.,  BACKL ND,  F.,  CHRONÉER,  D.  (2014)  What  is 
+
+Project  Efficiency  and  Effectiveness?  Procedia  –  Social  and 
+
+Behavioral Sciences, 119, 278-287;   
+
+81. SWANK,  C.  K.  (2003).  The  Lean  Service  Machine.  Harvard  Business 
+
+Review, 81, 123-129. 
+
+82. TAPPING,  D.,  LUYSTER,  T.,  AND  SHUKER,  T.  (2002).  Value  stream 
+
+management, Productivity Press, New York. 
+
+83. VANDEVOORDE,  S.,  VANHOUCKE,  M.  (2006)  A  comparison  of 
+
+different project duration forecasting methods. International Journal of 
+
+ 
+
+69 
+
+ 
+
+ 
+
+Project Management, 24, 289–320;  
+
+84.  VANDEVOORDE,  S.,  VANHOUCKE,  M.  (2007)  A  simulation  and 
+
+evaluation  of  earned  value  metrics  to  forecast  the  project  duration. 
+
+Journal of the Operational Research Society, 58, 1361– 1374; 
+
+85. VOELKEL,  J.G.  AND  CHAPMAN,  C.  (2003).  Value  stream  mapping. 
+
+Quality Progress, 25 (5), 65-68; 
+
+86. WEGELIUS-LEHTONEN,  T.,  (2001).  Performance  measurement 
+
+in 
+
+construction logistics. International Journal of Production Economics, 
+
+69 (1), 107–116; 
+
+87. WEI,  J.C.,  (2009).  Theories  and  principles  of  designing  lean  service 
+
+process,  Proceedings  of  the  2009  6th  International  Conference  on 
+
+Service  Systems  and  Service  Management,  ICSSSM  ‘09  2009,  821-
+
+826; 
+
+88. WOMACK J., (2004). A Lean Walk Through History. 
+
+89. WOMACK,  J.,  JONES,  D.T.  (1996),  Lean  Thinking:  Banish  Waste  and 
+
+Create Wealth  for  Your  Corporation, Simon  and  Schuster, New  York, 
+
+NY; 
+
+90. Womack,  J.P.,  Jones,  D.T.  &  Roos,  D.,  (1990).  The  Machine  That 
+
+Changed the World: The Story of Lean Production, New York: Rawson 
+
+Associates; 
+
+91. World economic outlook (2012) International Monetary Fund 
+
+92. Yassine,  A.,  et  al.,  (2004).  Investigating  the  role  of  IT  in  customized 
+
+product design. Production Planning and Control, 15 (4), 422–434; 
+
+93. YU,  A.G.,  FLETT,  P.D.  and  BOWERS,  J.A.,  (2005).  Developing  a 
+
+value-centered  proposal  for  assessing  project  success.  International 
+
+Journal of Project Management, 23(6), 428-436; 
+
+94. YU,  H.,  TWEED,  T.,  AL-HUSSEIN,  M.  AND  NASSERI,  R.  (2009). 
+
+Development  of  Lean  Model  for  House  Construction  Using  Value 
+
+Stream  Mapping.  Journal  of  Construction  Engineering  and 
+
+ 
+
+70 
+
+ 
+
+ 
+
+Management, 135 (8), 782-790;  
+
+95. ZUASHKIANI,  A.,  RAHMANDAD,  H.,  &  ANDREW  K.S.  JARDINE.  (2011). 
+
+Mapping  the  dynamics  of  overall  equipment  effectiveness  to  enhance 
+
+asset  management  practices.  Journal  of  Quality  in  Maintenance 
+
+Engineering, 17(1), 74-92; 
+
+ 
+
+ 
+
+ 
+
+71 
+
+ 
+
+ 
+
+Appendix A 
+
+Exhibit 1. McKinsey & Company case study of Lean in global investment bank 
+
+Source: Coxon, M. et al. (2011) Using lean in wholesale financial services, McKinsey 
+
+Quarterly,  
+
+ 
+
+ 
+
+ 
+
+72 
+
+ 
+
+ 
+
+ 
+
+Table 1. Lean Principles (based on Andersson et al., 2006) 
+
+Principle 
+
+Description 
+
+(1) Understanding 
+
+customer value 
+
+(2) Value stream 
+
+analysis 
+
+(3) Flow 
+
+(4) Pull 
+
+(5) Perfection 
+
+This means that only the requirements of customers, either internal 
+or  external  are  important.  In  project  management  literature  the 
+“customers” are the main stakeholders of the project, who always 
+define the value of each product in their own terms. The role of a 
+project manager at this point is to synthesize the concept of value, 
+which is maximal to satisfy each stakeholder’s need; 
+This principle facilitates the need to walk all the way through value 
+creation processes: process-by-process and even further – down to 
+activity  level.  If  the  process  is  regarded  as  value-added,  there  is 
+still  a  need  to  analyze  activities  and  see  whether  all  of  them  are 
+indispensable  for  the  next  project  stakeholder.  The  non-valued-
+added  activities  and  processes  have  to  be  eliminated  from  the 
+structure of business unit functioning; 
+Having  taken  a  snapshot  of  the  current  state  and  eliminated  the 
+unnecessary  elements,  it  is  important  to  take  a  step  further  and 
+cater  for  the  coherency  and  seamless  connections  between 
+processes  and  activities,  so  that  the  continuous  flow  of  value 
+creation  processes  proliferates  from  supply  chain  through  the 
+production  and  further  to  product  distribution.  In  classic  project 
+management  a  risk  plan  plays  a  role  of  identification  of  potential 
+wastes and gaps between activities or processes; 
+Pull  as  transfer  to  low-buffer  system  of  activity-based  scheduling, 
+which  similarly  to  theory  of  constrains  (TOC),  introduced  by 
+Goldratt (2003), is based on the staged release of system bottlenecks 
+and  extension  of  this  approach  throughout  the  value  chain.    In 
+essence, an activity should only be performed at pace, at which the 
+output  of  this  activity  is  required  downstream  (Andersson  et  al., 
+2006), which prevents stock and waiting time for the whole chain; 
+
+This  principle  reflects  the  philosophical  aspect  of  lean,  called 
+“kaizen”,  continuous  improvement,  which  outlines  the  importance 
+of constant efforts aimed at reducing waste. In project management, 
+this refers more to knowledge base maintenance and constant pull of 
+knowledge,  generated  by  ongoing  projects,  and  further  distribution 
+to  future  project  entities,  which  would  reduce  waste  of  reinventing 
+the wheel. 
+
+ 
+
+73 
+
+ 
+
+ 
+
+Exhibit 2. Lean methodologies and tools (Broughton, 2012) 
+
+ Table 2. Description of original lean tools 
+
+Tool 
+
+Description 
+
+ 
+
+VSM  is  a  lean  tool  that  identifies  the  flows  of  information  and 
+materials,  thereby  helping  practitioners  to  concentrate  on  the  principle  of 
+flow  instead  of  particular  wastes  in  the  system  (Yu  et  al.,  2009).  After  the 
+idea  of  value-added  and  non-value-added  activities  is  obtained  (Hines  & 
+Rich,  1997),  the  first  step  is  to  depict  a  current  state  map  (CSM),  which 
+describes  the  processes  as  they  now  occur  (Tapping  et.  Al.,  2002).  In 
+production line shop floor, it is invaluable to use stopwatch to record actual 
+times  for  each  process  to  obtain  reliable  data  (Rother  and  Shook,  2003), 
+however in  either classic project  management settings (i.e. construction) or 
+service  industries  management  where  projects  are  highly  customized, 
+walking the whole way through the value stream is hardly possible. Instead, 
+in likewise cases Yu et al. (2009) suggests to use an intranet tracking system 
+distribute  the  role  of  data  collection  among  project  executers,  in  which  the 
+data  inputs  are  quite  similar  to  earned  value  methodology:  “the  booking 
+date,  confirmed  start  date,  actual  start  date,  and  actual  finish  date  of  every 
+task”  (Yu  et  al.,  2009:  783).  After  the  CSM  is  analyzed  and  wastes  are 
+eliminated,  a  future  state  map  (FSM)  has  to  demonstrate  the  improved 
+structure of processes with corresponding timing (Tapping et al., 2002). 
+
+74 
+
+Value 
+stream 
+analysis 
+
+ 
+
+ 
+
+ 
+
+Poka-
+Yoka 
+
+Another tool, which is very close to standardized work, is error proofing. It 
+refers to the introduction of visual control mechanisms, which embed safety 
+and functionality (Shingo & Dillon, 1986) (in manufacturing settings), for 
+instance, by changing the form of a socket, which physically does not engage 
+if applied upside down 
+
+Using  description  provided  by  Kilpatrick  (2003),  Total  Productive 
+Maintenance  (TPM)  utilizes  methods  of  equipment  maintenance  and  “calls 
+upon  the  knowledge  and  cooperation  of  operators,  equipment  vendors, 
+engineering,  and  support  personnel 
+to  optimize  plant  performance” 
+(Damrath, 2012: 19). The main goal of this tool is to increase the lifecycle of 
+equipment usage, therefore decreasing downtime, breakages, stops, etc. The 
+OEE  is  an  approach  adopted  from  lean  management  and  it  represents  a 
+powerful  method  to  monitor  and  improve  the  efficiency  of  manufacturing 
+and  transactional  processes,  and  is  frequently  used  as  key  metric  in  Total 
+Productive Maintenance (TPM) and Lean programs. One of the main goals 
+is  to  reduce  the  “Six  big  losses”,  clustered  in  three  categories:  Downtime, 
+Speed and Quality losses (Arcidiacono et al, 2012). This is a significant tool 
+for  project  management,  as  the  metrics  for  equipment  can  be  emulated  for 
+human operators, as the numerical estimation for task completion is mainly 
+given  in  time  equivalent.  In  manufacturing  environment  the  calculation  of 
+OEE  has  already  become  both  standard  and  additional  business  solution, 
+offered  by  giants  of  assembly  lines  such  as  Siemens  (2014),  which  has 
+devised  automatic  calculation  software.  The  logic  of  OEE  calculation  is 
+presented in Exhibit 3 (Appendix). 
+
+Manufacturing  settings,  however  have  a  range  of  other  highly 
+applied tools, one of which is  Single Minute Exchange of  Dimes (SMED), 
+which stands for reduction of setup time (below 10 minutes), when multiple 
+types of units are manufactured using the same equipment, which allows to 
+achieve lower unit costs and decrease the amount of stock (McIntosh et al., 
+2000). Another tool closely related to maintenance is 5S, which represents a 
+guideline  of  visual  control  of  workplace  and  operations  optimization  (i.e. 
+sorted  tools,  standard  movements,  etc.).  There  is  also  a  Failure  Mode  and 
+Effects  Analysis  (FMEA),  which  is  used  to  “prioritize  potential  defects 
+based  on  their  severity,  expected  frequency,  and  probability  of  detection” 
+(Damrath,  2012:  20).  These  and  other  tools  are  highly  applicable  to  highly 
+repetitive and standardized production process, however their adjustment to 
+project  management  is  highly  challenging  due  to  the  aforementioned  non-
+repetitive essence of activities in most projects.  
+
+75 
+
+TPM and 
+Equipment 
+reliability 
+
+Other 
+lean 
+tools 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exhibit 3. Calculation of OEE 
+
+ 
+
+ 
+
+76 
+
+ 
+
+ 
+
+Exhibit 4. Categorization of literature related to application of lean principles (Suarez-
+Barraza et al., 2012) 
+
+ 
+
+ 
+
+77 
+
+ 
+
+ 
+
+Table 3. Characteristics of service industry clusters (Bicheno, 2004) 
+
+Cluster name 
+
+Idealized type  
+
+4) 
+ 
+
+5) 
+
+Custom type  
+
+6) 
+
+Transaction type 
+
+7) 
+
+Interactive type 
+
+ 
+
+ 
+
+ 
+
+Description 
+
+This  type  of  services  stands  for  a 
+restructuring  of  a  system,  for  instance  in 
+education,  government,  public  safety,  etc.  The 
+repeatability  of  such  projects  is  low  due  to  the 
+volume and scale of work to be done. Customer 
+involvement  is  usually  high  in  the  planning 
+phase,  where  customer  requirements  have  to 
+define  the  new  system;  however,  the  next 
+contact occurs only when the project is finished 
+and the service is handed to the client. . 
+
+ 
+Custom type of services is characterized 
+by significant role of facilities: resources, tools, 
+datasets,  etc.  of  service  provider,  which  are 
+utilized  to  solve  customer’s  problem.  Although 
+the solution to the problem is easy to articulate, 
+the  way  to  actually  solve  the  problem  is  not. 
+This  is  why  higher  customer  interaction  is 
+needed  to  define  and  redefine  the  provider’s 
+approach  to  problem  solving.  Some  classic 
+examples  of  this  category  are  management 
+consulting,  legal  services,  market  research  and 
+analytics,  branding,  advertising,  IT  platform 
+development,  etc.  The  majority  of  such 
+companies  are  project-based  organizations 
+(PBO).  
+
+highly 
+
+ 
+This  category  is  characterized  by  high 
+similarity  with  manufacturing  process,  as  it 
+requires 
+standardized 
+operations  to  be  optimized,  while  customer 
+inputs 
+into 
+standard groups. Examples of this category may 
+include  fast  food,  banking,  insurance,  call 
+centers, retail, etc.  
+
+(requirements) 
+
+repeatable, 
+
+are 
+
+classified 
+
+this 
+
+category 
+
+Interactive  type  is  based  on  the  history 
+of  interaction  between  customers  and  service 
+providers.  Generally, 
+is 
+characterized  by  high  competition  among 
+companies  and  customer  experience 
+is  as 
+important  as  the  service  itself.  Even  though 
+initial  set  of  customer  requests  is  defined  and 
+optimized,  there  are  numerous  factors  that 
+contribute 
+to  more  personal  and  deviant 
+requests,  which  are  also  considered  to  be 
+important  part  of  service  provision.  Some 
+examples  include  airline  companies,  hotels, 
+healthcare and restaurants. 
+
+ 
+
+78 
+
+ 
+
+ 
+
+Table 4. IHIP framework (Bortolotti & Romano, 2012) 
+
+Principle 
+
+Description 
+
+Intangibility (I) 
+Heterogeneity (H) 
+
+Inseparability (I) 
+
+Perishability (P) 
+Common Characteristics  
+(Ahlstrom, 2004) 
+
+Promised performance (Moeller, 2010); 
+Refers to increased presence of human factor in service 
+quality, which differs from one operator to another. It also 
+highlights that service standardization is only possible to 
+some extent (Damrath, 2012) 
+Services are consumed as they are being produced, 
+simultaneously 
+Inability to store a ready service 
+
+- Customers are the central part of orientation in 
+
+many service industries;  
+
+- The customer evaluates both the output of 
+
+value creation process and the experience (Johnston and 
+Clark, 2001). This point is extremely relevant for many 
+service PBO, be because customer interaction and 
+negotiations, which may distort the working order and 
+be seen as waste, may actually add value to their 
+experience. 
+
+- The classic waste type, inventory, is not a 
+
+problem for service sector, since a pure service cannot 
+be physically stored. This highlights that in service 
+value stream each activity always has to be pulled. 
+
+ 
+
+ 
+
+Table 5. Ten wastes of service industry (Bonaccorsi et al., 2011) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+79 
+
+ 
+
+ 
+
+Exhibit 5. Value Stream Map (Rother  and Shook, 1999) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+80 
+
+ 
+
+ 
+
+Exhibit 6. Abbreviations for Value Stream Map (Rother and Shook, 1999) 
+
+ 
+
+81 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+82 
+
+ 
+
+ 
+
+Appendix B 
+
+ 
+
+PART 1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Interview Guide  
+
+Applied Project Management Research Project 
+
+ 
+
+Part 1. Organizational context.  
+
+1.  Grand-tour question. What is your current/previous position in the company? Could you 
+
+please describe your main responsibilities?  
+
+2.  How is the work in the company generally organized? Who operates task delegation?  If 
+
+“project” was mentioned -> What is your role in the project work? 
+
+Could  you  please  reflect  on  how  project  work  is  organized  (with  what  tools, 
+
+methods, software, etc.)?  
+
+ 
+
+Part 2. Project management of the company. 
+
+1.  Grand-tour  question.  What  do  you  think  about  project  management  of  the  company? 
+
+What  aims  and  goals  does  it  effectively  solve?  (Clarify  the  meaning  of  effectiveness  if 
+
+needed)  
+
+2.  Do  you  participate  in  management  activities  (monitoring,  optimization,  etc.)?  Please, 
+
+describe in which way. 
+
+3.  How  would  you  reflect  on  the  relation  of  company’s  project  management  to  project 
+
+success?  
+
+ 
+
+Part 3. Process efficiency and waste types. 
+
+1.  Grand-tour question. Could you please tell me about the main processes, in which you are 
+
+employed?  
+
+After  the  answer  show  the  supplementary  questionnaire  with  the  list  of  processes  to 
+
+select from 
+
+Can you call them “efficient”? Why/Why not? 
+
+2.  What  types  of  performance  losses  (wastes)  specific  to  each  process  can  you  think  of? 
+
+How often do they occur? Are these impossible to get rid of?  
+
+After the answer show the supplementary questionnaire with the list of common 
+
+waste types to select from 
+
+3.  What  types of business  activities (the ones that  do not  add value immediately, however 
+
+are important for business functioning)? 
+
+ 
+
+ 
+
+83 
+
+ 
+
+ 
+
+Part 4. Project and organizational learning. 
+
+1.  Grand-tour question. Is there any mechanism of knowledge codification and distribution? 
+
+What is it? Are there any case studies and examples of past work to refer to?  
+
+Who is responsible for accumulation of project knowledge?  
+
+If  “knowledge  codification”  was  mentioned  Would  you  characterize  this 
+
+process/mechanism as effective?  
+
+ 
+
+Part 5. Biographical questions. 
+
+1.  Gender  
+
+2.  Age  
+
+3.  Marital status  
+
+4.  Highest education level achieved  
+
+a.  Specialization (if exists) 
+
+ 
+
+84 
+
+ 
+
+ 
+
+PART 2  
+
+ 
+
+ 
+
+ Supplementary materials for interview guide 
+
+ 
+Introduction 
+ 
+This  questionnaire  is  a  part  of  a  graduation  project  for  the  study  of  application  of 
+
+lean in principles in project management methodology. 
+
+All the questions presented relate to your experience of working on the projects of 
+
+the company related to market research and consumer preferences. 
+
+We  kindly  ask  you  to  answer  much  as  possible  honestly.  Completing  the  survey 
+
+will take no more than 5 minutes. 
+
+All the information will be used in a generalized form. 
+
+ 
+
+D1. What is your gender? 
+ONE ANSWER 
+
+Male 
+
+Female 
+
+ 
+
+1 
+
+2 
+
+D2. What is your age? 
+PLEASE FILL IN YOUR AGE BELOW 
+________________ years old 
+ 
+
+S1. What processes are/were you employed at?  
+MULTIPLE ANSWERS 
+
+For online research designs 
+
+ 
+
+For non-online research 
+
+Negotiation of Project Brief  
+
+Division of Research Proposal 
+
+Division of Questionnaire 
+
+Questionnaire approval 
+
+Programming of the questionnaire 
+
+designs 
+
+1
+
+Division of purchasing list  
+
+2
+
+Purchasing of test goods/materials 
+
+3
+
+Goods marking, audit 
+
+4
+
+Product sending to regions 
+
+5
+
+Start of the fieldwork 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+Questionnaire  link  check  and  proof 
+reading 
+
+6 
+
+Search 
+
+(data 
+
+6
+
+toplines 
+report 
+
+template 
+
+for 
+for 
+representation)  and 
+
+16 
+
+Link approval 
+
+Other 
+
+ 
+
+7
+
+Outline  proposal 
+
+for  data 
+
+7 
+
+analysis 
+
+9
+
+98 
+
+Preliminary research report 
+
+17 
+
+18 
+
+85 
+
+ 
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+ 
+
+For online research designs 
+
+ 
+
+ 
+
+ 
+
+ 
+
+For non-online research 
+
+designs 
+
+Final project report 
+
+19 
+
+ 
+
+1
+
+IF THE CODE 98 IS CHOSEN -> CLARIFY  
+
+ 
+
+ 
+A1.  There  are  the  categories  of  major  waste  types  found  in  literature 
+regarding  waste  types.  Please  read  each  category  and  following  examples  and  select 
+the wastes you have faced in practice accordingly. 
+
+ 
+
+ONE ANSWER FOR EACH CATEGORY 
+
+DEFECTS 
+
+1
+
+DUPLICATION 
+
+2
+
+Data  entry  errors;  Lost  files;  Lost  or 
+
+damages goods; 
+
+Data 
+
+re-entering;  Multiple 
+
+signatures; 
+
+Unnecessary reporting; Multiple queries 
+
+INCORRECT INVENTORY 
+
+Stock  out;  Wasting  time  finding  what  was 
+
+3
+
+needed; Unnecessary copies NOTHING 
+
+LACK OF CUSTOMER’S FOCUS 
+
+Unfriendliness;  Rudeness;  Poor  attention  to 
+
+4
+
+the customer 
+
+OVERPRODUCTION 
+
+Reports  no  ones  will  ever  read;  Processing 
+
+5
+
+paperwork before time;  
+
+UNCLEAR COMMUNICATION 
+
+Incorrect information; Lack of standard data 
+
+6
+
+format; Unclear work flow;  
+
+MOTION/TRANSPORTATION 
+
+Poor 
+
+layout; 
+
+Ineffective 
+
+filing;  Poor 
+
+7
+
+ergonomic  
+
+UNDERUTILIZATION OF KNOWLEDGE  Inadequate  tools;  Excessive  bureaucracy; 
+
+8
+
+VARIATION 
+
+9
+
+Limited authority;   
+
+Lack  of  procedures;  Lack  of  standard 
+
+formats; Standard time not defined 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+WAITING/DELAY 
+
+Waiting  for  approvals;  Downtime;  Waiting 
+
+10 
+
+for supplies;  
+
+ 
+
+86 
+
+ 
+
+ 
+
+ 
+
+Table 1. Codes of waste types in the study 
+
+Id 
+
+Waste type 
+
+1  Defects 
+2  Duplication/Rework 
+3  Overproduction 
+4  Lack of focus 
+5  Unclear communication 
+6  Motion 
+7  Underutilized Employees 
+9  Variation 
+
+10  Waiting 
+11  Lack of standardization 
+12  Outdated materials 
+
+ 
+
+ 
+
+ 
+
+ 
+
+87 
+
+ 
+
+ 
+
+Table 2. Common waste types (interview material) 
+
+Common waste types across organization 
+
+id 
+
+Description 
+
+id 
+
+Description 
+
+id 
+
+Description 
+
+Lack of client's focus: rework 
+connected poor client 
+awareness of connection 
+between request change and 
+schedule, cost and quality of 
+the project 
+
+Motion: Control and 
+monitoring of fieldwork 
+personnel, undefined 
+authority 
+
+5 
+
+9 
+
+4 
+
+6 
+
+Unclear 
+communication: Lack 
+of coaching for 
+common projects and 
+requests, connected to 
+them 
+
+2 
+
+Duplication: Lack of 
+standardized trainings 
+about use of technocal 
+equipment and 
+software 
+
+Variation: Project 
+reports using client 
+formatting 
+
+1 
+
+Defects: data entry 
+errors 
+
+12 
+
+Updating report templates: 
+standardization of visual 
+output 
+
+11  Developing macros 
+
+  
+
+   Waste 
+
+Business Activity 
+
+  
+
+ 
+
+11 
+
+12 
+
+Standardizing request 
+forms (data 
+processing, purchase 
+outline, etc.) 
+
+Updating descriptions 
+of project 
+methodology 
+
+ 
+
+ 
+
+11 
+
+Creation of corporate 
+libraries: picture, logos, 
+methods, etc. 
+
+ 
+
+ 
+
+ 
+
+88 
+
+ 
+
+Table 3. Process-dependent waste types 
+
+id  Project brief and proposal 
+
+id  Questionnaire 
+
+id  Link programming 
+
+id  Fieldwork 
+
+id  Processing 
+
+Process-dependent wastes 
+
+Unclear communication: 
+Questionnaire rework 
+connected to change of client 
+of request 
+
+2 
+
+Rework connected to 
+errors of operators 
+
+6 
+
+Motion: marking 
+and calculating 
+product supply 
+without technical 
+tools 
+
+Duplication: Re-
+identification of client needs 
+due too poor formulation at 
+the first stage 
+
+Lack of customer focus: 
+Time-consuming 
+negotiations on client brief 
+
+5 
+
+7 
+
+Underutilized employees: 
+Questionnaire rework 
+connected to unsupervised 
+initial creation 
+
+2 
+
+Rework connected to 
+lag of client feedback 
+loop: no correction until 
+this stage, which puts 
+additional strain on 
+project schedule 
+
+Motion: Visual 
+corrections, related to 
+variation in 
+questionnaire aim, 
+method: screen 
+separation, text layout, 
+picture editing. Related 
+to unstandardized 
+questionnaire and 
+variation at request 
+level 
+
+2 
+
+Rework of errors 
+on previous stages 
+
+1 
+
+Defects: Additional 
+interviewing due to 
+malfunctioning of 
+technical 
+equipment or poor 
+measurement 
+
+10 
+
+Waiting: lag in start 
+of fieldwork related 
+to errors of 
+subcontractors 
+
+Rework related 
+to poor 
+communication 
+
+2 
+
+Unstandardized 
+request forms 
+for data analysis 
+- waiting time 
+and rework 
+
+10 
+
+Underutilized 
+employees: data 
+processing 
+request, which 
+can be 
+performed by 
+employees 
+themselves 
+
+7 
+
+2 
+
+ 
+
+89 
+
+2 
+
+4 
+
+2 
+
+9 
+
+Rework for proposal due to 
+hidden budget restrictions 
+unstated by the client at 
+initial meetings 
+
+3 
+
+Overproduction: creating too 
+detailed instructions for link 
+programming 
+
+6 
+
+Variation: Unstandardized 
+price list, requiring waiting 
+time for additional approval 
+
+2 
+
+Rework connected to client 
+unregulated requests: format 
+rework, interview length, etc. 
+Internal variation on client's 
+side 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Waiting: Time-consuming 
+regulation and information 
+requests due to lack of IS that 
+combines information on 
+ongoing projects: PM name, 
+Schedule, Risks, etc. 
+
+Variation: No standardized 
+library for brand picture and 
+logos necessary for proposal 
+design 
+
+Motion: Paper work related 
+to client documentation and 
+confirmation. This is a 
+supplementary function 
+unrelated to creation of 
+project proposal 
+
+10 
+
+9 
+
+6 
+
+    Waste 
+  
+
+Business Activity 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10 
+
+10 
+
+10 
+
+Incorrect inventory: 
+time lag required to 
+revise and prepare 
+questionnaire on 
+sub-contractor's 
+side 
+
+Delay in the start of 
+fieldwork due to 
+waiting for 
+approval from field 
+shops. Poor supply 
+management and 
+regulatory gaps. 
+
+Time lag needed to 
+gather additional 
+interviews 
+connected to client 
+request (no extra 
+capacity) 
+
+Duplication of work 
+
+related to client 
+
+inquiries, which are 
+
+unrelated to data 
+
+quality or 
+
+representation 
+
+ 
+
+90 
+
+Table 4. Secondary data analysis output (Number of Hours) 
+
+Project ID 
+
+Other 
+
+Brief and 
+Proposal 
+
+Link 
+
+Questionnaire 
+
+Programming/
+
+Processing 
+
+Project Time 
+
+Fieldwork 
+
+Total Available 
+
+Value-Added 
+
+time 
+
+Time 
+
+OEE 
+
+4 
+12 
+16 
+10 
+9 
+11 
+15 
+7 
+8 
+17 
+3 
+19 
+2 
+20 
+6 
+13 
+1 
+5 
+18 
+
+14 
+
+1 
+3 
+2 
+3 
+21 
+8 
+3 
+0,5 
+7 
+4 
+1 
+15 
+8 
+6 
+5 
+12 
+6 
+6 
+12 
+
+12 
+
+1 
+1 
+1 
+4 
+12 
+9 
+4 
+2 
+7 
+4 
+1 
+2 
+22 
+16 
+7 
+10 
+5 
+4 
+23 
+
+33 
+
+1 
+2 
+2 
+3 
+10 
+2 
+1 
+1 
+2 
+2 
+4 
+3 
+18 
+4 
+4 
+21 
+8 
+2 
+4 
+
+31 
+
+1 
+1 
+1 
+1 
+12 
+1 
+3 
+2 
+2 
+3 
+2 
+4 
+21 
+11 
+3 
+13 
+4 
+32 
+21 
+
+12 
+
+1 
+1 
+1 
+2 
+4 
+2 
+2 
+1 
+3 
+2 
+4 
+2 
+10 
+3 
+17 
+14 
+4 
+12 
+32 
+
+4 
+
+Total number of hours 
+
+135,5 
+
+168 
+
+125 
+
+150 
+
+121 
+
+ 
+
+ 
+
+ 
+
+43 
+67 
+54 
+99 
+442 
+150 
+81 
+38,5 
+129 
+86 
+63 
+149 
+405 
+197 
+168 
+324 
+119 
+230 
+299 
+
+245 
+
+Average OEE 
+
+42 
+64 
+52 
+96 
+421 
+142 
+78 
+38 
+122 
+82 
+62 
+134 
+397 
+191 
+163 
+312 
+113 
+224 
+287 
+
+233 
+
+ 
+
+37 
+56 
+45 
+83 
+362 
+120 
+65 
+31,5 
+101 
+67 
+50 
+108 
+318 
+151 
+127 
+242 
+86 
+168 
+195 
+
+141 
+
+ 
+
+88% 
+88% 
+87% 
+86% 
+86% 
+85% 
+83% 
+83% 
+83% 
+82% 
+81% 
+81% 
+80% 
+79% 
+78% 
+78% 
+76% 
+75% 
+68% 
+
+61% 
+
+80% 
+
+91 
+
+Exhibit 1. List of abbreviations for Value Stream Map (Bonaccorsi et al., 2011) 
+
+ 
+
+92 
+
+  
+
+ 
+
+93 
+
+

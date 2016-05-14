@@ -1,0 +1,2660 @@
+Федеральное государственное автономное образовательное учреждение 
+
+высшего профессионального образования 
+
+Международный Институт Экономики и Финансов 
+
+ 
+
+ 
+
+ 
+
+ДИПЛОМНАЯ  РАБОТА 
+
+ 
+
+ 
+
+Выполнил 
+
+Гришин Дмитрий Алексеевич 
+
+  
+
+Научный руководитель 
+
+Тимушев Андрей Иванович 
+
+ 
+
+Москва 2014 
+
+Contents 
+
+1. 
+2. 
+3. 
+3.1. 
+3.2. 
+3.3. 
+3.3.1. 
+3.3.2. 
+3.3.3. 
+3.3.4. 
+3.4. 
+4. 
+4.1. 
+4.1.1. 
+4.1.2. 
+4.2. 
+4.3. 
+5. 
+6. 
+7. 
+
+ 
+
+Introduction 
+Literature overview 
+Model overview 
+Payoff function derivation 
+Accounting for investor expectations and risk-aversion 
+Scenario modeling 
+Overall approach 
+Macroeconomic variables 
+Estimating scenario probabilities 
+Bank parameter evaluation 
+Arriving at the final result 
+Numerical outcomes 
+Data and sampling 
+Banks choice 
+Choice of macroeconomic variables 
+Regression analysis for bank metrics 
+Scenario modeling 
+Model limitations and potential for further 
+research 
+Conclusion 
+References 
+
+3 
+4 
+9 
+9 
+11 
+12 
+12 
+13 
+15 
+17 
+17 
+18 
+18 
+18 
+19 
+21 
+31 
+36 
+37 
+38 
+
+ 
+
+ 
+
+ 
+
+ 1. 
+
+ 
+
+Introduction 
+
+In this paper I am focusing on research of stress-testing of banks from the perspective of 
+investors. I am studying the payoffs for investors depending on their degree of risk-aversion 
+and expectations about the state of economy for 10 large US banks and try to find the optimal 
+choice for each type of investor.  
+
+The choice of topic for my research has been quite easy for me for several reasons. To begin 
+with, each financial crisis shows again and again that all existing stress-testing capabilities 
+fail to provide banks and other financial institutions with a proper protection against severe 
+macroeconomic environment. We observed it in 1998, when the world known fund – LTCM 
+– run by Nobel Prize winners collapsed in a moment. We observed this again when the 
+dotcom bubble led to catastrophic losses in 1999-2000. The crisis was preceded by a lot of 
+statements of well-known people from banks and even regulators that all was going fine. 
+What we could expect is that following such events, financial institutions would enhance 
+their stress-testing capabilities and as a result limit their losses in the next adverse scenario 
+which of course would happen sooner or later. Or at least that these institutions would 
+forecast such a scenario and prepare some contingency plan including cutting risk exposures 
+within a certain period preceding the crisis. Obviously, what happened in 2008, didn’t meet 
+such expectations. Once again, banks were hit by severe losses, and many institutions even 
+from the top world banks had to be bailed out (we all remember the collapse of Lehman 
+Brothers, but it is important to note that almost all other large banks were also on the brink of 
+announcing defaults and received huge capital inflows from governments – both in the 
+United States, and in Europe. The cause of all the crises mentioned above were different: 
+sovereign defaults of developing countries, price bubble in a certain industry, 
+mismanagement of a certain type of risk (credit risk if we are speaking about 2008 crisis). 
+What is common behind all these cases? Investors of banks experienced sharp losses, and 
+banks’ and regulators’ stress-testing capabilities failed to catch these scenarios and get those 
+institutions ready.  
+
+In this paper I am attempting to define an approach that will enable investors to choose the 
+optimal bank for holding shares in based on the historical performance (both during crises 
+and normal economic environment) and their financial position (probability of falling below 
+regulatory requirements for capital adequacy). My goal is to find an optimal choice for 
+different types of investors (based on their macroeconomic expectations and risk-aversion).  
+
+2. 
+
+ 
+
+The paper is structured as follows. Section 2 provides an overview of the literature and 
+research related to the topic of this paper. Section 3 describes the theoretical framework of 
+this research. Section 4 provides the step-by-step numerical outcomes of the model as well as 
+the key conclusions. Section 5 describes limitations to the model and potential for further 
+research. Section 6 concludes the paper. 
+
+Literature overview 
+
+When I started to look into the topic, I immediately found a lot of research that was related to 
+stress-testing. This topic started to gain popularity in the end of 1990s with the development 
+of advanced computers which enabled to produce computationally heavy models that could 
+not have been used previously. As a result, there was a huge wave of researchers (both in 
+Universities, financial companies, and regulators) that started to generate scenario modelling 
+frameworks trying to produce the most accurate estimates of various parameters. 
+
+All stress testing exercises are mostly focused on loss forecasting or forecasting capital 
+adequacy. Another type of stress testing is about tests on the whole financial system, which is 
+becoming now more and more popular with regulators – the Federal Reserve produced such 
+an exercise in 2009, Bank of Spain recently finished its assessment of the capital adequacy of 
+the Spain banking system, currently the ECB is carrying out such an exercise to define the 
+need of the European financial system for capital injections. These types of models are 
+covered in Sorge M. (2004). In this paper the author provides a description of the macro 
+stress-testing frameworks which he splits into two broad types: “piecewise approach” (which 
+in other words means that the stress-testing model examines how a single parameter can 
+impact the financial system) and “integrated approach” (this is about how sensitive the 
+financial system is to a group of parameters simultaneously). This paper gives quite a 
+
+comprehensive vision of the existing approaches, their strong and weak points, and 
+summarizes that significant progress has been achieved in stress-testing techniques in terms 
+of econometric modeling. In addition, the paper highlights the issues that are perceived by 
+the author as key challenges to stress-testing frameworks: 
+
+1)  Risk correlations (both across various banks and across different time periods) – 
+
+measurement of this still remains quite ambiguous 
+
+2)  Short time periods that are used for parameterization of stress-testing models – this 
+
+decreases the model predictive power as well as fails to catch some of the effects that 
+may follow longer economic cycles. However, this still remains an issue as low data 
+availability (particularly for less developed markets and smaller companies) prevents 
+researchers from developing more comprehensive models 
+
+3)  Correct accounting for feedback effect – due to this phenomenon, all reduced-form 
+
+parameter estimates may be unstable 
+
+Compared to the paper described above, this paper tends more towards micro-prudential 
+stress-testing, so issues 1) and 3) are not that relevant for this research. Short time horizon is 
+on the other hand an issue. In terms of the approach applied, this paper focuses on “integrated 
+approach” if we stick for now to Sorge’s terminology – effects on banks’ parameters are 
+estimated from the simultaneous impact of several external variables. 
+
+Another paper that covers stress-testing frameworks quite broadly is Blasche W., Jones M. 
+T., Majnoni G., Peria S. M. (2001). This paper is structured around four essential areas: 
+general review of basic stress-testing models, discussion of “conceptual issues” that arise 
+when looking at the system-wide risks assessment, description of the core stress-testing 
+toolbox, and FSAP analysis.  
+
+Among the issues identified by the authors of the paper, are the following: 
+
+1)  Scope definition – this issue is not as crucial for individual bank stress testing. In macro-
+
+prudential stress-testing the authors state that there are problems in choosing the set of 
+financial institutions to be included in the research (e.g. only banks, or also insurance 
+
+companies, asset management companies, hedge funds etc., should there be any 
+thresholds by total assets / revenues, and so on). Another issue here is about taking into 
+account multinational institutions – how local macroeconomic shocks will be linked to 
+international shocks and if there is going to be any support for domestic subsidiaries from 
+foreign banks / parent companies. In my research I do not include some of large US 
+banks for this exact reason – this would require to incorporate quite ambiguous and often 
+expert based judgments concerning support from the Group. This is why I do not include 
+for example HSBC North America Holdings in the research sample 
+
+2)  Another issue outlined in the paper is about aggregation approaches. On the one hand, 
+conducting system-wide tests by gathering stress-test results from individual banks and 
+then aggregating those requires very sophisticated risk management capabilities from 
+banks themselves (to take into account all interlinkages in the economy accurately), and 
+is hardly a viable option even in developed economies. On the other hand, if the regulator 
+collects portfolio data from individual banks and then runs stress test itself, there are still 
+significant requirements for the quality of these data and the level of their granularity for 
+the model to reflect all the peculiarities of various business lines. This issue is not 
+actually crucial for my research, as it only matters for stress-testing of a banking system, 
+whereas this paper focuses on stress-testing of individual institutions. 
+
+Among the early papers on the topic I would also like to mention Berkowitz J. (1999). 
+The focus of this paper is about mixing stress-testing models with internal risk 
+assessment models (e.g. portfolio VaR1 models). The author argues that putting stress-
+testing outside risk models – which means that stress scenarios are generated without 
+links to risk models – makes stress-test results much less valid and decreases the degree 
+of responsibility of those who calibrate the stress-testing models. The reason for this is 
+that defining the stress scenario parameters tends to be quite subjective, and if scenarios 
+are set outside risk models, there is no probability assigned to them. If instead they are set 
+within risk models, this helps produce a loss distribution for the bank, which is easier to 
+validate and imposes more responsibility on the risk managers who generate those 
+
+                                                      
+1 Value-at-Risk 
+
+scenarios. In my work I do not touch this issue; however, I do build a distribution of 
+payoffs based on various scenarios. The difference is that I use the same unified 
+assumption for all banks in the sample. 
+
+Another paper related to the stress-testing frameworks is about Finnish credit risk 
+assessment. Again, as we can observe, stress-testing is mainly applied to evaluate losses 
+under certain scenarios. Virolainen K. (2004)” covers credit risks of Finland corporates. 
+The core idea of the paper is to estimate dependencies between industry-specific default 
+rates and macroeconomic variables. The author finds out that there is significant 
+relationship between corporate default probabilities and several macroeconomic 
+parameters, among which he names GDP, interest rates, and corporate indebtedness. As a 
+next step, Virolainen uses the obtained relationships in order to evaluate the risks of 
+Finnish banks with regards to corporates and comes to the conclusion that these are not at 
+all critical (at the point of publishing the paper).  
+
+In my research I follow partially this approach in terms of starting with defining 
+relationships between bank-specific parameters and macroeconomic variables which is 
+then followed by using these relationships to estimate parameter values under different 
+scenarios. This approach is generally at the core of stress testing, and more recently 
+researchers have started to apply more sophisticated and mathematically advanced 
+procedures for modeling, but the degree of advancement doesn’t necessarily imply better 
+accuracy. Coming back to comparing my research with Virolainen, I do not limit my 
+research to corporates or retail and do not look explicitly at various industries. In 
+addition, my target metric is investor payoff for each bank, and not the credit risk loss as 
+in the case with the paper described above. 
+
+Another paper that is worth noting here is Hoggarth G., Sorensen S. & Zicchino L. 
+(2005).  This paper is in fact among the pioneers of the multivariate analysis on how 
+write-offs are defined by macro economy “both in aggregate and at sectoral level”. The 
+paper is about the effects of macroeconomic variables on the write-off-to-loan ratio 
+which the researchers treat as a measure of realized losses of a bank. The key findings are 
+that GDP fluctuations have a significant effect on overall and corporate ratios, whereas 
+
+retail ones are more exposed to household income and indebtedness changes. The 
+methodology applied also takes into account feedback effects from banking sector 
+parameters to macroeconomic ones.  
+
+This paper is different to my research in the sense that they focus purely on realized 
+losses (again, stress-testing focus is on losses), while I am looking at a composite view of 
+profitability and capital position. In addition to this, I take into account the aggregate 
+impact of macroeconomic variables, but not the feedback effect from the banking system. 
+This is mainly due to the fact that I am running stress tests on individual institutions, and 
+feedback effects are best captured when running a model on the financial system as a 
+whole. 
+
+Among more recent publications, I would like to say a few words about Hirtle B., Kovner 
+A., Vickery J. & Bhanot M. (2014). In this paper discussion is built around CLASS 
+model (Capital and Loss Assessment under Stress Scenarios). The model uses regressions 
+on the banks’ Balance and P&L items to arrive at the capital adequacy projections under 
+various scenarios, and the final result is the capital gap – how much capital is required in 
+order to bring all banks in the system to the required threshold. 
+
+This is similar to my approach in the way that I also estimate separate models for bank 
+parameters, but I focus on individual institutions and investor payoff instead of system-
+wide capital adequacy. 
+
+Another related paper is Duane M., Schuermann T. & Reynolds P. (2013). The authors 
+focus on stress testing income statements of banks and state that it is crucial for an 
+accurate stress testing procedure to ensure the deepest level of granularity in modeling. In 
+my research I include profitability metric (ROE) into the framework, but remain at the 1st 
+level of granularity (bank as a whole), which is one of the directions for upgrading the 
+model. 
+
+ 
+
+ 
+
+Model overview 
+
+Payoff function derivation 
+
+ 
+
+3. 
+
+3.1. 
+ 
+
+As I have already mentioned in the literature overview, stress-testing exercise is most 
+often used to evaluate the exposure of an institution or a system of institutions to a certain 
+type of risk. As a result, the researchers obtain the probabilities of default, or potential 
+losses from a predefined scenario / set of scenarios. Regulators often look at the capital 
+assessment side – how much capital may be required for the system to remain stable 
+under a determined probability (or again predefined scenarios). The majority of stress 
+tests are looking at the outcomes from the perspective of the institution or from the 
+perspective of the regulators. Instead, I am looking at stress-testing from the perspective 
+of the investors of the institution in question. After all, the ultimate goal of an institution 
+(private one) is to maximize shareholder value, and this is exactly the point of view that 
+is applied in my paper for applying stress-testing exercise. This is why, in my paper I am 
+talking about investor payoff. 
+
+So, what do we perceive as investor payoff? Some naïve answer would probably go for 
+dividends and capital gains derived from the increase in market price of the company 
+stock. However, there are several issues if we are looking at these components from the 
+stress-testing position.  
+
+Let us start with dividends. One would argue that there should be a significant 
+dependence of dividends on the state of economy (in crises dividends are certainly 
+lower). I would put it in a different way saying that dividends depend on two key things: 
+company profits and the policy of the company management. The latter is hard to 
+measure explicitly given that even with the same people perceptions of the optimal ways 
+for business development may change over time and management itself often changes, 
+which makes any model trying to parameterize this quite unreliable. The first component 
+
+– profit fluctuations – does depend on the macroeconomic situation and of course cannot 
+be ignored under the stress-testing.  
+
+Turning to the second component of our naïve payoff, here I would split the gains (or 
+losses in bad times) experienced by shareholders into two parts: changes in company 
+fundamentals, mainly, its profitability and risks, and overall market fluctuations, that are 
+often very much based not on the company / economy fundamentals, but rather on more 
+random and behavioral patterns among traders.   
+
+What we see here is that we definitely need to base the payoff function on the company 
+fundamentals thus eliminating side effects of traders’ irrational behavior, overall market 
+swings, policy of a company’s management etc. This is why I have defined the following 
+payoff function for an investor of bank j: 
+
+1,𝑖𝑓 𝑇𝑖𝑒𝑟 1 𝑟𝑎𝑡𝑖𝑜𝑗𝑡<4%
+1,𝑖𝑓 𝑇𝑜𝑡𝑎𝑙 𝑐𝑎𝑝𝑖𝑡𝑎𝑙 𝑟𝑎𝑡𝑖𝑜𝑗𝑡<8%
+2+𝑅𝑂𝐸𝑗𝑡,𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒
+
+�
+
+ 
+
+Where: 
+
+𝑇𝑖𝑒𝑟 1 𝑟𝑎𝑡𝑖𝑜𝑗𝑡 is the Tier 1 capital ratio of Bank j at time period t (tier 1 capital over risk-
+
+weighted assets), which is one of the main requirements by regulators these days – the 
+ratio must exceed a certain threshold (4% for Basel II, and for Basel III things are 
+becoming more complicated with introduction of various buffers, so I am not going to 
+start this discussion in this paper)2 
+
+𝑇𝑜𝑡𝑎𝑙 𝑐𝑎𝑝𝑖𝑡𝑎𝑙 𝑟𝑎𝑡𝑖𝑜𝑗𝑡 is the total capital ratio of Bank j at time period t (total capital 
+
+divided by risk-weighted assets) which is another regulatory metric. The key point here is 
+that the breach of these limits leads to a revocation of banking license from the institution 
+that has breached them. In this case, I assume that investors lose all their investment (this 
+is simplified approach, not taking into account possible proceeds from bankruptcy) 
+
+                                                      
+2 For a discussion of Basel III capital rules please refer to the official guidelines by BIS (http://www.bis.org/publ/bcbs189.pdf) 
+
+𝑅𝑂𝐸𝑗𝑡  - ROE (return on equity) of Bank j at time period t. This is the core metric for an 
+
+investor as it says directly how much profit the Bank has generated with each invested 
+dollar.  
+
+As you may have noticed, the lower bound of the payoff function is 1. The reason is 
+purely mathematical – for further analysis of risk-aversion, I raise the payoff to different 
+powers, and this may yield ambiguous and incorrect results if payoffs are less than one in 
+absolute values or if they are negative. In addition, ROE downside is limited to -1 (-
+100%): you cannot lose more than you have invested; this is what all this limited liability 
+is about. 
+
+Another reason not to take into account market information is that it is forward looking, 
+thus it reflects somehow investor expectations. There are two issues with this fact. The 
+first is that expectations are not necessarily rational, thus market prices may not 
+objectively reflect company value at any given point in time, and as I have mentioned 
+before, I am looking at stress-testing from the perspective of shareholder value. Another 
+issue is that I take into account investor expectations further in the model, so I would like 
+to avoid accounting for expectations twice as this may produce certain bias in the model 
+estimates. 
+
+Accounting for investor expectations and risk-aversion 
+
+Now when the payoffs have been calculated for each bank, it is important to say that 
+investors differ with respect to their degree of risk-aversion and their expectations about 
+the future. In my research I am looking at both these differences.  
+
+As far as expectations are concerned, I divide all investors into 20 groups, each expecting 
+some 5% of macroeconomic scenarios. This means that there are investors expecting 5% 
+worst scenarios, investors that expect the economy to be between 10% and 5% worst 
+scenarios etc. For the purposes of this analysis I assume that all investors are risk-neutral. 
+Then I estimate the expected payoffs in each bucket of scenarios and look at what banks 
+are the leaders and outsiders under each set of macroeconomic expectations. 
+
+3.2. 
+ 
+
+For the risk-aversion, I include it as a power applied to the payoff function. If an investor 
+is risk-averse, he will always prefer “point in the middle” to endpoints, which 
+corresponds to the utility function of the form  
+
+𝑈𝑅𝑖𝑠𝑘−𝑎𝑣𝑒𝑟𝑠𝑒=𝑃𝑎𝑦𝑜𝑓𝑓𝛼,𝑤ℎ𝑒𝑟𝑒 0<𝛼<1 
+
+This is why I chose to design the payoff function which always exceeds 1. I choose 
+
+different values of the risk-aversion parameter 𝛼 (up to 0.001) and look at how the 
+
+investor choices change with the degree of risk-aversion. 
+
+A similar approach is applied to risk-lovers. Their utility function corresponds to the one 
+of the form: 
+
+𝑈𝑅𝑖𝑠𝑘−𝑙𝑜𝑣𝑒𝑟=𝑃𝑎𝑦𝑜𝑓𝑓𝛼,𝑤ℎ𝑒𝑟𝑒 𝛼>1 
+
+Here I choose values of risk-aversion parameter 𝛼 (up to 900, above this it produces 
+
+computational errors) and again look at how investor choices alter with the increase of 
+risk appetite. 
+
+Scenario modeling 
+
+3.3. 
+3.3.1.  Overall approach 
+ 
+
+From all the above it has now become evident that scenario modeling is required to 
+produce the desired outcomes. In scenario modeling there are generally several 
+approaches, including historical scenarios, expert-based scenarios, and multiple scenario 
+simulation. I go with the latter option, and here I explain why.  
+
+The recent crises have shown that adverse scenarios are often generated by 
+macroeconomic phenomena that have not been observed before – dotcoms, subprime 
+derivatives, etc. This implies that simply taking a historical crisis scenario may not 
+capture all the significant risks to an institution. 
+
+As for an expert-based scenario, the name of this approach speaks for itself. Scenario 
+choice may be quite subjective and not fully reflect the potential downside to an 
+institution. In addition, even if it does, this approach doesn’t work for comparing 
+institutions – a severe scenario for one bank may be quite non-problematic for another. 
+For a proper comparison I need the whole set of scenarios that contain “hard” and “easy” 
+ones for each institution. That is why I choose Monte-Carlo simulation – it allows 
+looking at all combinations of possible macroeconomic fluctuations irrespective of 
+whether they happened in the past or not and irrespective of expert judgment, which 
+eliminates possible bias. 
+
+3.3.2.  Macroeconomic variables 
+3.3.2.1. 
+
+Variable choice 
+
+ 
+
+When choosing macroeconomic variables, there are two aspects that I consider: 
+econometrical and economic.  From the economic point of view, I take the metrics that 
+can be seen as describing the overall state of economy and that are representative of 
+crises / booms. This is how the long list of macroeconomic variables is compiled. From 
+the econometric point of view, I try to eliminate multicollinearity from the models, so I 
+look at the correlation matrix of the long list of macroeconomic variables. Here the 
+approach is much expert-based – I do not define a numerical criterion for eliminating 
+variables from the list. I look at the similar variables that are highly correlated and try to 
+choose the one that has least correlations (by absolute value of course) with other 
+variables. The one not chosen is eliminated. This generates the final list of variables to be 
+used in regressions. However, even if some multicollinearity is present, it leads to less 
+significant coefficients, and this I try to avoid when choosing the optimal model. 
+
+3.3.2.2. 
+
+Generating uncorrelated shocks 
+
+ 
+
+Each scenario is in essence a combination of values of macroeconomic variables. Here 
+we face several issues. Firstly, we need to choose a wide set of macroeconomic variables 
+
+which provides a fine description of the state of economy. This is described above. 
+Secondly, we need to decide how scenarios are generated. For this purpose, I employ a 
+multistep procedure. On the 1st step I estimate the mean and variance for each 
+macroeconomic variable that is included in scenarios. I use simple historic mean and 
+variance: 
+
+Where 𝑋� is the sample mean of macroeconomic variable X; T is the total number of 
+
+periods in the sample. This is just the sample mean formula.  
+
+Parameter variance is given by: 
+
+Where 𝜎𝑋𝑖2  is the sample variance of macroeconomic variable𝑋𝑖𝑡. This formula is just the 
+
+sample variance formula, so there is no sense in elaborating on this topic any more. 
+
+After mean and variance for each macroeconomic variable are estimated, I make an 
+assumption that all macroeconomic variables are distributed normally: 
+
+𝑋𝑡
+
+ 
+
+𝑋�=∑
+
+𝑇𝑡=1𝑇
+
+𝜎𝑋𝑖2=∑ (𝑋𝑡−𝑋�)2
+𝑇𝑡=1𝑇−1
+
+ 
+
+𝑋𝑖𝑡~𝑁(𝑋�𝑖,𝜎𝑋𝑖2) 
+
+ 
+
+𝑋𝑖𝑡𝑁𝑜𝑟𝑚𝑎𝑙𝑖𝑧𝑒𝑑=𝑋𝑖𝑡−𝑋�𝑖
+𝜎𝑋𝑖 
+{𝑋1𝑡,𝑋2𝑡,…,𝑋𝑛𝑡} 
+
+This is a strong assumption, but it is required for the purposes of further analysis. When 
+generating scenarios, I first generate random deviations of all factors as if they were 
+independent. For simplicity and for comparability purposes I generate random deviations 
+for the normalized factors: 
+
+So, in each scenario I obtain a vector of normalized macroeconomic variables: 
+
+Where 𝑋1𝑡 is the value of a random deviation of macroeconomic variable i. 
+
+Generating correlated shocks 
+
+3.3.2.3. 
+
+ 
+
+However, it is obvious that these variables are far from independent. Thus we need to 
+take into account correlations across the variables involved in scenarios. In order to do so, 
+I apply the Cholesky matrix decomposition to the correlation matrix of the 
+macroeconomic parameters used in scenario modeling.  
+
+Cholesky decomposition is applied to the positive definite correlation matrix and derives 
+such a matrix X that  
+
+𝐶𝑂𝑅𝑅=𝑍∙𝑍′ 
+
+Where CORR is the correlation matrix of the macroeconomic variables involved in 
+scenario analysis. Z is the resulting matrix and Z’ is its conjugate. I wouldn’t describe the 
+step-by-step procedure, for a more detailed description of Cholesky decomposition please 
+refer to Dereniowski D., Kubale M. (2004)3. As a result, when we multiply the vector of 
+uncorrelated deviations by the Cholesky matrix, we arrive at the vector of correlated 
+deviations of macroeconomic variables: 
+
+{𝑋1𝑡𝑐𝑜𝑟𝑟,𝑋2𝑡𝑐𝑜𝑟𝑟,…,𝑋𝑛𝑡𝑐𝑜𝑟𝑟}={𝑋1𝑡,𝑋2𝑡,…,𝑋𝑛𝑡}∙𝑍 
+
+Where 𝑋𝑖𝑡𝑐𝑜𝑟𝑟 is the value of deviation of macroeconomic variable i which takes into 
+
+account its correlations with all other macroeconomic variables in the scenario. 
+
+3.3.3.  Estimating scenario probabilities 
+ 
+
+For the purposes of estimating expected payoffs across scenarios, I need to evaluate the 
+probabilities of these scenarios. In order to do so, I introduce the aggregate 
+macroeconomic variable – AG, which is simply the sum of correlated normalized random 
+
+                                                      
+3 Can be retrieved from http://www.eti.pg.gda.pl/katedry/kams/wwwkams/pdf/Cholesky_fmprg.pdf 
+
+deviations of macroeconomic variables. As it is the sum of normal random variables, it is 
+itself a normal random variable. Since it is the sum of standard normal random variables, 
+its mean is equal to zero, and its variance is equal to 
+
+And as we are assuming equal weights (𝑤𝑖=𝑤𝑗 ∀𝑖,𝑗) on all the variables, then this 
+
+formula can be rewritten as 
+
+ 
+
+𝑛
+ 
+𝜎𝐴𝐺2 =�𝑤𝑖2
++2∙�𝑤𝑖∙𝑤𝑗∙𝜌𝑖,𝑗
+𝑖≠𝑗
+𝑖=1
+𝜎𝐴𝐺2 =1𝑛+2𝑛2∙�𝜌𝑖,𝑗
+ 
+𝑖≠𝑗
+
+ 
+
+Where 𝜎𝐴𝐺2  is the variance of AG variable, n is the number of macroeconomic variables 
+used in scenario analysis, 𝜌𝑖,𝑗 is the correlation between macroeconomic variables i and j. 
+
+The value of AG is estimated for each generated scenario in order to evaluate the 
+scenario probability. We now know the distribution of AG: 
+
+𝐴𝐺~𝑁(0,𝜎𝐴𝐺2) 
+
+However, we cannot calculate probability of a scenario by simply taking one point 
+(probability of hitting exactly a certain point is zero for any point chosen). That is why I 
+start from the worst scenario and evaluate its probability as inverse cumulative normal 
+
+probability at this point: 𝑃(𝐴𝐺=𝐴𝐺𝑊𝑜𝑟𝑠𝑡 𝑐𝑎𝑠𝑒)=𝑁−1(𝐴𝐺𝑊𝑜𝑟𝑠𝑡 𝑐𝑎𝑠𝑒) 
+Where 𝑁−1 is the inverse cumulative normal distribution with zero mean and variance 
+equal to 𝜎𝐴𝐺2 . For the remaining scenarios, I evaluate probabilities as the difference 
+other words, if we rank all AG values from lowest to highest, with 𝐴𝐺1=𝐴𝐺𝑊𝑜𝑟𝑠𝑡 𝑐𝑎𝑠𝑒 
+
+between the cumulative inverse normal distribution of the corresponding values of AG 
+and the cumulative inverse normal distribution of the nearest AG value from below. IN 
+
+then we will have the following probability formula: 
+
+𝑃(𝐴𝐺=𝐴𝐺𝑖)=𝑁−1(𝐴𝐺𝑖)−𝑁−1(𝐴𝐺𝑖−1) 
+
+This is how probabilities of scenarios are derived.  
+
+3.3.4.  Bank parameter evaluation 
+ 
+
+After the derivation of scenario probabilities I need to evaluate the bank parameters’ 
+values in these scenarios in order to calculate the payoffs.  Payoffs are not explicitly 
+observable in each scenario, so I need to evaluate the parameters that serve as the 
+constituents of the payoff function. After estimating each of the parameters for all banks, 
+I can estimate the payoffs under each scenario with the formula provided in Section 3.1. 
+
+In order to estimate the banks’ parameters in each scenario, I require parameterizing their 
+dependencies on the macroeconomic variables that are included in these scenarios. This 
+exercise is to be performed on each of the three metrics (ROE, Tier 1 capital ratio, and 
+Total capital ratio) for each of the banks in the research sample. The independent metrics 
+used in the regressions should all be included in scenario modeling otherwise it will be 
+not possible to calculate the forecasted parameter values in each scenario. For each bank 
+parameter as a result, I obtain the following parameterization: 
+
+𝑌𝑖=𝛽0+𝛽1∙𝑋1+⋯+𝛽𝑘∙𝑋𝑘 
+
+Where 𝑌𝑖 is the bank parameter to be estimated under scenario analysis, 𝑋𝑗 are the 
+macroeconomic variables used in the regression and 𝛽𝑗 are regression coefficients 
+
+obtained using OLS4 approach.  
+
+Arriving at the final result 
+
+3.4. 
+ 
+
+After all the calculations I arrive at the final goal of my research – estimating expected 
+payoffs under predefined conditions: 
+
+                                                      
+4 OLS – Ordinary Least Squares 
+
+𝑛
+𝑖=1
+
+𝐸(𝑃𝑎𝑦𝑜𝑓𝑓 | 𝑅𝑖𝑠𝑘−𝑎𝑣𝑒𝑟𝑠𝑖𝑜𝑛,𝐸𝑥𝑝𝑒𝑐𝑡𝑎𝑡𝑖𝑜𝑛𝑠)=�𝑃𝑖∙𝑃𝑎𝑦𝑜𝑓𝑓𝑖𝛼
+|𝐴𝐺𝑖≤(≥)𝐴𝐺𝑇ℎ𝑟𝑒𝑠ℎ𝑜𝑙𝑑 
+Where 𝑃𝑖 is the probability of i-th scenario derived under the approach described in 
+Section 3.6; 𝑃𝑎𝑦𝑜𝑓𝑓𝑖𝛼 is the payoff in i-th scenario for the investor with risk-aversion 
+factor 𝛼 calculated in accordance with the approach described in Section 3.1; 𝐴𝐺𝑖 is the 
+value of macroeconomic aggregate in i-th scenario; 𝐴𝐺𝑇ℎ𝑟𝑒𝑠ℎ𝑜𝑙𝑑 is the value of 
+Numerical outcomes 
+
+macroeconomic aggregate value corresponding to the critical value of scenario 
+probability (e.g. if we want to estimate the expected payoff in top 5% scenarios, this 
+value would correspond to the value which has cumulative inverse normal distribution 
+value of 95%).  
+
+4. 
+
+Data and sampling 
+
+4.1. 
+4.1.1.  Banks choice 
+ 
+
+For this research I am focusing on the US banks and US macroeconomic variables. In the 
+macroeconomic variables I also include some parameters that characterize the state of the 
+US financial system as a whole. I will later provide an overview of the macroeconomic 
+variables used. As for banks, I have chosen 10 large banks (all being in Top-15 by assets 
+as at the end of 2013). I have excluded Goldman Sachs and Morgan Stanley from my 
+research as they are almost purely investment banks (although Morgan Stanley had some 
+loan business, however, not significant compared to its investment banking business), and 
+looking at investment banks would have required to produce an approach to account for 
+their specifics. I also do not include the players owned by parent companies from outside 
+the US. As discussed in the literature overview, this requires taking into account 
+international shocks, and policies of the parent companies (e.g. is the parent company 
+going to provide cheap funding), which for the purposes of this paper I do not touch. 
+Among those not included are HSBC North America Holdings and TD Bank. I use 
+quarterly observations from Q3 2001 up to Q4 2013 (including endpoints).  
+
+The full list of banks is provided below, in Table 1. 
+
+Table 1 
+
+List of banks included in the research 
+
+ 
+
+J.P. Morgan 
+Bank of America 
+ 
+Bank of New York Mellon 
+Wells Fargo 
+U.S. Bancorp 
+PNC Financial Services Group 
+Capital One 
+Citibank 
+BB&T 
+Fifth Third Bank 
+
+ 
+
+ 
+
+4.1.2.  Choice of macroeconomic variables 
+
+ 
+
+For the long list of macroeconomic variables I have chosen the key economic parameters 
+as well as several metrics that define the state of the US financial system. This choice 
+was based purely on expert judgment, and can be refined for the purposes of further 
+research. The long list of metrics is presented below, in Table 2. 
+
+After the long list has been produced, I look at the correlation matrix of the variables. I 
+choose two with the highest correlation and if they have economically close meaning, I 
+eliminate one of them. For example, out of the three stock indices I keep only one – S&P 
+500. I look at the correlations of all indices with other metrics and choose the one that is 
+least correlated with them in order to minimize the impact of multicollinearity on the 
+regression models that are built further. 
+
+The decisions and the short list of macroeconomic variables are presented in Table 3. 
+
+Variable 
+Real GDP 
+
+Nominal GDP 
+Inflation 
+Unemployment 
+Oil 
+Consumption 
+Investment 
+Net exports 
+Government spending 
+
+Table 2 
+
+Long list of macroeconomic variables 
+
+Source 
+US Bureau of Economic Research 
+
+Description 
+Real GDP in 2005 prices 
+(2005=100) 
+Nominal GPD (in $ BLN) 
+US Bureau of Economic Research 
+Year-over-year price growth (in %)  US Bureau of Economic Research 
+US Bureau of Economic Research 
+ 
+US Energy Information Administration 
+WTI crude oil price ($/barrel) 
+Nominal consumption (in $ BLN) 
+US Bureau of Economic Research 
+US Bureau of Economic Research 
+Nominal investment (in $ BLN) 
+US Bureau of Economic Research 
+Nominal net exports (in $ BLN) 
+Nominal government spending     
+US Bureau of Economic Research 
+(in $ BLN) 
+House price index 
+
+Bloomberg 
+Bloomberg 
+Bloomberg 
+Bloomberg 
+Bloomberg 
+Bloomberg 
+Bloomberg 
+Bloomberg 
+
+Bloomberg 
+
+Bloomberg 
+
+Bloomberg 
+
+Bloomberg 
+
+Bloomberg 
+
+Bloomberg 
+
+Bloomberg 
+
+Bloomberg 
+
+House price 
+Dow Jones Industrial Average  Dow Jones stock index 
+S&P 500 
+NASDAQ 
+Gold price 
+M1 monetary aggregate 
+M3 monetary aggregate 
+Banking system total assets 
+
+S&P 500 stock index 
+NASDAQ composite stock index 
+Gold spot prices, $ / oz. 
+Nominal M1, $ TRLN 
+Nominal M3, $ TRLN 
+Total assets of banking system , 
+$BLN 
+
+Banking system total liabilities  Total liabilities of banking system , 
+
+Banking system total deposits 
+
+Banking system total loans 
+
+Banking system average CIR 
+
+$BLN 
+Total deposits of banking system , 
+$BLN 
+Total loans of banking system , 
+$BLN 
+Average Cost-to-Income ratio of the 
+banking system, % 
+
+Banking system average ROE  Average Return on Equity of the 
+
+banking system, % 
+
+Banking system average ROA  Average Return on Assets of the 
+
+banking system, % 
+Total loans to total deposits of the 
+banking system, % 
+Quarterly growth of non-performing 
+loans of the banking system, % 
+
+Banking system Loan-to-
+Deposit ratio 
+Banking system NPL quarter-
+over-quarter growth 
+
+ 
+
+ 
+
+Table 3 
+
+Short list of macroeconomic variables 
+
+Decision 
+Keep in the model 
+Exclude 
+Keep in the model 
+Keep in the model 
+Keep in the model 
+Exclude 
+Keep in the model 
+Keep in the model 
+Keep in the model 
+Keep in the model 
+
+Variable 
+Real GDP 
+Nominal GDP 
+Inflation 
+Unemployment 
+Oil 
+Consumption 
+Investment 
+Net exports 
+Government spending 
+House price 
+Dow Jones Industrial Average  Exclude 
+Keep in the model 
+S&P 500 
+Exclude 
+NASDAQ 
+Keep in the model 
+Gold price 
+Keep in the model 
+M1 monetary aggregate 
+Exclude 
+M3 monetary aggregate 
+Banking system total assets 
+Exclude 
+Banking system total liabilities  Exclude 
+Banking system total deposits  Keep in the model 
+Keep in the model 
+Banking system total loans 
+Keep in the model 
+Banking system average CIR 
+Banking system average ROE 
+Exclude 
+Banking system average ROA  Keep in the model 
+Banking system Loan-to-
+Keep in the model 
+Deposit ratio 
+Banking system NPL quarter-
+over-quarter growth 
+
+Keep in the model 
+
+Explanation if excluded 
+ 
+High correlation with real GDP 
+ 
+ 
+ 
+High correlation with real GDP 
+ 
+ 
+ 
+ 
+High correlation with S&P 500 
+ 
+High correlation with S&P 500 
+ 
+ 
+High correlation with M1 
+High correlation with total loans 
+High correlation with total deposits 
+ 
+ 
+ 
+High correlation with total ROA 
+ 
+ 
+
+ 
+
+ 
+
+4.2. 
+ 
+
+Regression analysis for bank metrics 
+
+The next step in my calculations is estimating models for the 10 banks’ ROE, Tier 1 capital ratio 
+and Total capital ratio. Here given that I have only 50 observations I choose to include no more 
+than 5 regressors in the models counting the constant as one of regressors.  
+
+In order to find the optimal regression, I run all possible combinations of factors and first select 
+the group of models having the largest explanatory power (measured by R-squared). I also look 
+only at the models which have all coefficients significant at 5% level or no more than one 
+coefficient not significant at 5% significance level. Then I check the models for economic sense 
+and choose the ones which exhibit both statistical explanatory power and make economic sense. 
+
+Here I present the outcomes of regression analysis for the 30 models I estimate for the 10 banks 
+outlined previously. For all further tables the following notation is used: 
+
+* - coefficient significant at 10% significance level 
+
+** - coefficient significant at 5% significance level 
+
+*** - coefficient significant at 1% significance level 
+
+Table 4 
+
+J. P. Morgan Tier 1 capital ratio model 
+
+Parameter 
+Coefficient 
+R-squared 
+ 
+
+time 
+0.002** 
+0.94  
+
+realgdp 
+0.0007*** 
+ 
+
+unemployment 
+-0.0558*** 
+ 
+
+Const 
+-0.049** 
+ 
+
+Time variable accounts for period of estimation – its value is “1” for Q3 2001 and “50” for Q4 
+2013. I do not use “detrending” in this exercise as it can remove some of the significant 
+relationships between parameters. For example, if loans and interest income both grow with 
+time, and if we “detrend” both metrics, we will not capture the direct effect that interest income 
+depends on loans.  
+
+As we can see, J. P. Morgan Tier 1 capital ratio is pro-cyclical which means it is higher in period 
+of economic stability and is lower in crises.  
+
+Table 5 
+
+Bank of America Tier 1 capital ratio model 
+
+time 
+
+-0.00437** 
+0.905  
+
+netexports 
+
+0.00001**  
+ 
+
+govspending 
+
+0.00002*** 
+ 
+
+m1 
+
+0.00059** 
+ 
+
+Const 
+
+0.241** 
+ 
+
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+For Bank of America Tier 1 capital ratio results are also pro-cyclical. An interesting fact is that 
+the ratio tends to decrease with time – BofA pursues less capital-solid strategy. 
+
+Table 6 
+
+Bank New York Mellon Tier 1 capital ratio 
+
+time 
+
+0.0022819*** 
+0.956  
+
+oil 
+
+ -0.0002** 
+ 
+
+houseprice 
+
+-0.00029** 
+ 
+
+bankingsysroa 
+
+-0.90376*** 
+ 
+
+Const 
+
+0.165*** 
+ 
+
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+An interesting note is that for New York Mellon the Tier 1 ratio is counter-cyclical. This can be 
+explained by the fact that in adverse periods the bank chooses to keep more capital as a safety 
+buffer, which is released during good macroeconomic conditions. 
+
+Table 7 
+
+Wells Fargo Tier 1 capital ratio model 
+
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+time 
+
+0.002475** 
+0.967  
+
+investment 
+
+-0.00001** 
+ 
+
+-0.00001*** 
+ 
+
+bankingsysdeposits  bankingsysloans 
+
+-0.0001*** 
+ 
+
+Const 
+
+0.227*** 
+ 
+
+For Wells Fargo the Tier 1 ratio also exhibits counter-cyclical behavior. 
+
+Table 8 
+
+U.S. Bancorp Tier 1 capital ratio model 
+
+time 
+
+0.0013515*** 
+0.924  
+
+oil 
+
+-0.00056** 
+ 
+
+netexports 
+
+-0.00010*** 
+ 
+
+houseprice 
+
+-0.0005** 
+ 
+
+Const 
+
+0.176** 
+ 
+
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+The Tier 1 ratio for U.S. Bancorp is also counter-cyclical. 
+
+Table 9 
+
+PNC Tier 1 capital ratio model 
+
+time 
+
+0.003974*** 
+0.882  
+
+realgdp 
+
+0.00215** 
+ 
+
+houseprice 
+
+0.00027** 
+ 
+
+bankingsysloans 
+
+0.000001** 
+ 
+
+Const 
+
+0.146** 
+ 
+
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+For PNC the Tier 1 ratio is on the other hand fully pro-cyclical. 
+
+Table 10 
+
+Capital One Tier 1 capital ratio model 
+
+time 
+
+0.004121** 
+0.742  
+
+netexports 
+
+-0.00014** 
+ 
+
+govspending 
+
+-0.00006** 
+ 
+
+s&p 
+
+-0.0001** 
+ 
+
+Const 
+
+0.111** 
+ 
+
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+For Capital One the Tier 1 ratio is counter-cyclical which can be explained by the fact that they 
+operate in riskier segments and thus may treat their portfolio as more vulnerable to crises. 
+
+Table 11 
+
+Citi Tier 1 capital ratio model 
+
+time 
+
+0.002645** 
+0.946  
+
+netexports 
+
+0.00004*** 
+ 
+
+s&p 
+
+-0.00004** 
+ 
+
+bankingsysloans 
+
+0.000001** 
+ 
+
+Const 
+
+0.182*** 
+ 
+
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+For Citi the capital ratio exhibits pro-cyclical dynamics with a counter-cyclical dynamics for the 
+stock market. 
+
+Table 12 
+
+BB&T Tier 1 capital ratio model 
+
+time 
+
+0.002748** 
+0.833  
+
+realgdp 
+
+0.00122*** 
+ 
+
+investment 
+
+0.000047** 
+ 
+
+govspending 
+
+0.000037*** 
+ 
+
+Const 
+
+-0.11** 
+ 
+
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+For BB&T the Tier 1 ratio is pro-cyclical. 
+
+Table 13 
+
+Fifth Third Bank Tier 1 capital ratio model 
+
+time 
+
+0.000920** 
+0.901  
+
+realgdp 
+
+-0.00092*** 
+ 
+
+unemployment 
+
+0.833276*** 
+ 
+
+s&p 
+
+-0.000031* 
+ 
+
+Const 
+
+0.054** 
+ 
+
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+For Fifth Third the Tier 1 dynamics is counter-cyclical. 
+
+Table 14 
+
+J. P. Morgan Total capital ratio model 
+
+time 
+
+0.0024437** 
+0.891  
+
+realgdp 
+
+-0.00080** 
+ 
+
+houseprice 
+
+-0.000178*** 
+ 
+
+m1 
+
+-0.000551*** 
+ 
+
+Const 
+
+0.209* 
+ 
+
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+Interesting to note that unlike the Tier 1 ratio, Total capital ratio for J. P. Morgan is counter-
+cyclical. 
+
+Table 15 
+
+Bank of America Total capital ratio model 
+
+time 
+
+0.001233* 
+0.922  
+
+investment 
+
+-0.00003** 
+ 
+
+gold 
+
+0.000022** 
+ 
+
+bankingsysloans 
+
+-0.000012*** 
+ 
+
+Const 
+
+0.175717** 
+ 
+
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+For BofA, total capital ratio is also counter-cyclical – again the same fact as with J. P. Morgan 
+that the ratios move in different directions – during crises they diverge (maybe because it 
+becomes easier to gain non-Tier 1 capital).  
+
+Bank New York Mellon Total capital ratio model 
+
+Table 16 
+
+time 
+
+0.000624** 
+0.908  
+
+oil 
+
+-0.00037** 
+ 
+
+govspending 
+
+0.000014*** 
+ 
+
+houseprice 
+
+0.000237** 
+ 
+
+Const 
+
+0.201974* 
+ 
+
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+Once again, we can see that the ratios exhibit opposite behavior patterns – for New York Mellon 
+the Total capital ratio is pro-cyclical 
+
+Table 17 
+
+Wells Fargo Total capital ratio model 
+
+time 
+
+0.002401* 
+0.944  
+
+investment 
+
+-0.00002** 
+ 
+
+houseprice 
+
+-0.000208*** 
+ 
+
+bankingsysloans 
+
+-0.000031** 
+ 
+
+Const 
+
+0.121913** 
+ 
+
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+For Wells Fargo both ratios exhibit counter-cyclical behavior. 
+
+Table 18 
+
+U.S. Bancorp Total capital ratio model 
+
+time 
+
+0.000693** 
+0.803  
+
+oil 
+
+-0.00021** 
+ 
+
+netexports 
+
+-0.000078** 
+ 
+
+s&p 
+
+-0.000085*** 
+ 
+
+Const 
+
+0.168882** 
+ 
+
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+For US Bancorp both ratios are also counter-cyclical. 
+
+Table 19 
+
+PNC Total capital ratio model 
+
+time 
+
+0.004038*** 
+ 0.849  
+
+realgdp 
+
+-0.00258*** 
+ 
+
+houseprice 
+
+-0.000314* 
+ 
+
+bankingsysloans 
+
+-0.000029*** 
+ 
+
+Const 
+
+0.22099** 
+ 
+
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+For PNC we once again observe the pattern of J. P. Morgan and BofA – ratios depend oppositely 
+on macroeconomic parameters. 
+
+Table 20 
+
+Capital One Total capital ratio model 
+
+time 
+
+-0.005112** 
+0.738  
+
+unemployment 
+
+1.34254** 
+ 
+
+investment 
+
+-0.000037** 
+ 
+
+bankingsysloantodep 
+
+-0.090717*** 
+ 
+
+Const 
+
+0.3032** 
+ 
+
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+For Capital One both ratios are counter-cyclical. 
+
+Table 21 
+
+Citi Total capital ratio model 
+
+ 
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+time 
+
+0.000551* 
+0.935  
+
+unemployment 
+
+0.29468** 
+ 
+
+houseprice 
+
+-0.000012** 
+ 
+
+bankingsysloantodep 
+
+-0.055579** 
+ 
+
+Const 
+
+0.16438*** 
+ 
+
+For Citi the ratios move in opposite directions.  
+
+Table 22 
+
+BB&T Total capital ratio model 
+
+time 
+
+0.001160** 
+0.708  
+
+realgdp 
+
+-0.00076*** 
+ 
+
+investment 
+
+-0.000078** 
+ 
+
+govspending 
+
+-0.000107* 
+ 
+
+Const 
+
+0.31534** 
+ 
+
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+For BB&T the case is the same as for Citibank. 
+
+Table 23 
+
+Fifth Third Bank Total capital ratio model 
+
+time 
+
+0.000699** 
+0.947  
+
+unemployment 
+
+1.22611** 
+ 
+
+houseprice 
+
+-0.000309** 
+ 
+
+m1 
+
+-0.000364** 
+ 
+
+Const 
+
+0.15645*** 
+ 
+
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+For Fifth Third both ratios are counter-cyclical. 
+
+Table 24 
+
+J. P. Morgan ROE model 
+
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+realgdp 
+
+0.00093** 
+0.715  
+
+0.00003*** 
+ 
+
+bankingsysdeposits  bankingsysroa 
+
+0.505370** 
+ 
+
+bankingsysloantodep 
+
+0.025325** 
+ 
+
+Const 
+
+-0.018** 
+ 
+
+As we can see, J.P. Morgan ROE is pro-cyclical – the bank extracts higher profits in the periods 
+of economic stability and experiences profit declines in turmoil. 
+
+Table 25 
+
+Bank of America ROE model 
+
+time 
+
+0.001235** 
+0.724  
+
+oil 
+
+-0.00011*** 
+ 
+
+govspending 
+
+0.000052*** 
+ 
+
+houseprice 
+
+0.000245* 
+ 
+
+Const 
+
+0.0347*** 
+ 
+
+ 
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+Bank of America ROE is also pro-cyclical. 
+
+Table 26 
+
+Bank New York Mellon ROE model 
+
+time 
+
+0.008874** 
+0.756  
+
+inflation 
+
+0.455* 
+ 
+
+govspending 
+
+-0.000015** 
+ 
+
+bankingsysdeposits 
+
+-0.000014** 
+ 
+
+Const 
+
+-0.34651** 
+ 
+
+ 
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+For New York Mellon the ROE model shows that ROE is counter-cyclical. 
+
+Table 27 
+
+Wells Fargo ROE model 
+
+time 
+
+-0.002172*** 
+0.699  
+
+realgdp 
+
+0.00126** 
+ 
+
+investment 
+
+0.000016** 
+ 
+
+bankingsysloans 
+
+-0.000005** 
+ 
+
+Const 
+
+0.069923*** 
+ 
+
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+Wells Fargo ROE is pro-cyclical, but depends negatively on the total loans in the banking 
+system. This can be explained by the competition effect – if competitors increase loans, it is 
+usually accompanied by a decrease in rates which drives down ROE. 
+
+Table 28 
+
+U.S. Bancorp ROE model 
+
+time 
+
+0.002946*** 
+0.805  
+
+houseprice 
+
+0.00017*** 
+ 
+
+m1 
+
+0.001130** 
+ 
+
+bankingsysdeposits 
+
+-0.000085* 
+ 
+
+Const 
+
+0.030835*** 
+ 
+
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+For US Bancorp ROE is pro-cyclical and depends negatively on the total deposits. This may be 
+explained by the fact that if there are deposits which the bank cannot profitably utilize (only 
+invest in low margin instruments), then it puts downward pressure on ROE. 
+
+Table 29 
+
+PNC ROE model 
+
+time 
+
+0.014816** 
+0.792  
+
+govspending 
+
+-0.00005** 
+ 
+
+s&p 
+
+-0.00003** 
+ 
+
+bankingsysdeposits 
+
+-0.000081** 
+ 
+
+Const 
+
+-0.25507*** 
+ 
+
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+For PNC ROE is counter-cyclical. 
+
+Table 30 
+
+Capital One ROE model 
+
+time 
+
+-0.001686** 
+0.749  
+
+realgdp 
+
+0.00226** 
+ 
+
+investment 
+
+0.000025* 
+ 
+
+bankingsysloans 
+
+-0.000023** 
+ 
+
+Const 
+
+0.019469** 
+ 
+
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+For Capital One the ROE model exhibits pro-cyclical dependencies. 
+
+Table 31 
+
+Citi ROE model 
+
+time 
+
+0.00743*** 
+0.678  
+
+realgdp 
+
+-0.00072** 
+ 
+
+houseprice 
+
+-0.000427** 
+ 
+
+bankingsysloans 
+
+-0.000056** 
+ 
+
+Const 
+
+-0.22579*** 
+ 
+
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+For Citi ROE is counter-cyclical. 
+
+Table 32 
+
+BB&T ROE model 
+
+time 
+
+-0.002098*** 
+ 0.758  
+
+oil 
+
+0.001** 
+ 
+
+investment 
+
+0.000018** 
+ 
+
+bankingsysdeposits 
+
+0.000055** 
+ 
+
+Const 
+
+-0.18881*** 
+ 
+
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+For BB&T ROE is pro-cyclical. 
+
+Table 33 
+
+Fifth Third Bank ROE model 
+
+realgdp 
+
+0.00065*** 
+0.689  
+
+netexports 
+
+0.00002** 
+ 
+
+houseprice 
+
+0.00108** 
+ 
+
+bankingsyscir 
+
+0.436158** 
+ 
+
+Const 
+
+-0.31023*** 
+ 
+
+Parameter 
+
+Coefficient 
+R-squared 
+
+ 
+
+For Fifth Third ROE is pro-cyclical as well. 
+
+Scenario modeling 
+
+4.3. 
+When all the models have been estimated, I turn to scenario generation. Applying the approaches 
+that are described in detail in Section 3.3, I generate 10,000 scenarios. Below you can see the 
+distributions of bank parameters under the generated set of scenarios. 
+
+Bank parameters distribution within the generated set of scenarios 
+
+Table 34 
+
+Parameter 
+jpmtier1 
+boatier1 
+mellontier1 
+wellstier1 
+bancorptier1 
+pnctier1 
+caponetier1 
+cititier1 
+bbtier1 
+fifthtier1 
+jpmtotcap 
+boatotcap 
+mellontotcap 
+wellstotcap 
+bancorptotcap 
+pnctotcap 
+caponetotcap 
+cititotcap 
+bbtotcap 
+fifthtotcap 
+jpmroe 
+boaroe 
+mellonroe 
+wellsroe 
+bancorproe 
+pncroe 
+caponeroe 
+citiroe 
+bbroe 
+fifthroe 
+ 
+
+Mean value 
+11.93% 
+12.40% 
+16.37% 
+11.85% 
+11.67% 
+12.02% 
+12.99% 
+17.15% 
+11.75% 
+10.30% 
+14.43% 
+15.36% 
+17.20% 
+14.99% 
+13.13% 
+16.69% 
+15.05% 
+17.52% 
+13.96% 
+14.02% 
+2.62% 
+2.73% 
+2.31% 
+2.98% 
+3.41% 
+2.31% 
+2.04% 
+2.11% 
+2.44% 
+2.68% 
+
+Minimum value 
+8.44% 
+9.63% 
+14.53% 
+8.96% 
+8.14% 
+3.32% 
+6.34% 
+15.52% 
+6.71% 
+3.58% 
+10.95% 
+12.29% 
+15.03% 
+11.67% 
+9.15% 
+6.30% 
+7.68% 
+15.53% 
+7.82% 
+6.26% 
+-3.59% 
+-2.42% 
+-1.55% 
+-2.72% 
+-3.90% 
+-11.21% 
+-8.43% 
+-1.48% 
+-7.06% 
+-9.84% 
+
+Maximum value 
+14.71% 
+14.79% 
+18.33% 
+14.83% 
+15.31% 
+21.92% 
+19.05% 
+18.86% 
+17.35% 
+18.37% 
+18.24% 
+18.44% 
+19.50% 
+18.30% 
+17.80% 
+28.70% 
+22.27% 
+19.49% 
+20.63% 
+21.47% 
+8.62% 
+7.30% 
+5.72% 
+8.33% 
+10.12% 
+15.46% 
+11.44% 
+5.18% 
+11.27% 
+14.73% 
+
+At first I estimate the expected payoffs under certainty – I look at 5% scenario buckets (worst 
+5% scenarios, second worst 5% scenarios etc.) and the expected payoffs for each bank in these 
+buckets. For the purpose of this exercise I assume investors are risk-neutral.  
+
+In this case the utility function for a “pessimistic” investor is defined by the following formula: 
+
+𝑈(𝑃𝑒𝑠𝑠𝑖𝑚𝑖𝑠𝑡𝑖𝑐)= �𝑃𝑟𝑜𝑏𝑖∙𝑃𝑎𝑦𝑜𝑓𝑓𝑖
+
+|𝐴𝐺𝑖≤𝐴𝐺5% 
+
+10000
+𝑖=1
+
+Where 𝑃𝑟𝑜𝑏𝑖 is the probability of i-th scenario; 𝑃𝑎𝑦𝑜𝑓𝑓𝑖 is the payoff in i-th scenario; 𝐴𝐺𝑖is the 
+value of macroeconomic aggregate in i-th scenario; 𝐴𝐺5% is the value of macroeconomic 
+𝐴𝐺5% is 5%) 
+
+aggregate corresponding to the 5% worst scenarios (probability of AG being less than or equal to 
+
+This means that a “pessimistic” investor expects the economy to be in the worst 5% of scenarios 
+and makes his choice based on the expected payoffs within this set of scenarios. 
+
+For an “optimistic” investor the utility function takes the following form: 
+
+𝑈(𝑂𝑝𝑡𝑖𝑚𝑖𝑠𝑡𝑖𝑐)= �𝑃𝑟𝑜𝑏𝑖∙𝑃𝑎𝑦𝑜𝑓𝑓𝑖
+
+|𝐴𝐺𝑖≥𝐴𝐺95% 
+
+10000
+𝑖=1
+
+Where 𝑃𝑟𝑜𝑏𝑖 is the probability of i-th scenario; 𝑃𝑎𝑦𝑜𝑓𝑓𝑖 is the payoff in i-th scenario; 𝐴𝐺𝑖is the 
+value of macroeconomic aggregate in i-th scenario; 𝐴𝐺95% is the value of macroeconomic 
+𝐴𝐺95% is 95%) 
+
+aggregate corresponding to the 5% best scenarios (probability of AG being more than or equal to 
+
+This means that an “optimistic” investor expects the economy to be in the best 5% of scenarios 
+and makes his choice based on the expected payoffs within this set of scenarios. 
+
+Below are the results obtained (0%-5% means 5% worst scenarios, on the y-axis there are 
+expected payoffs for banks in each range of scenarios): 
+
+Figure 1 
+
+Expected payoffs under certainty 
+
+ 2.04
+
+ 2.04
+
+ 2.03
+
+ 2.03
+
+ 2.02
+
+ 2.02
+
+ 2.01
+
+ 2.01
+
+ 2.00
+
+jpm
+pnc
+
+boa
+capone
+
+mellon
+citi
+
+wells
+bb
+
+bancorp
+fifth
+
+0% 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95%
+
+ 
+
+What insights can we obtain from this chart?  
+
+•  The bank choice depends on investor expectations – there is no universal optimum 
+•  PNC yields quite plausible payoff in adverse scenarios, but underperforms all others in 
+
+positive scenarios 
+
+•  Bancorp leaves the Top-5 only in the most positive scenarios and remains the leader for more 
+
+than half scenarios 
+In positive scenarios, Wells Fargo and Fifth Third are the leaders, but they show low payoffs 
+in crises 
+
+• 
+
+•  Next come Capital One and J.P. Morgan 
+•  Citi and New York Mellon show moderate payoffs under all scenarios with very little 
+
+volatility 
+
+•  Bank of America is a better choice if investors expect a crisis than if investor expectations 
+
+are positive 
+ 
+Now if we move to uncertainty, we introduce the risk-aversion parameter. Here instead of 
+looking at different scenario buckets, I am looking at the expected payoffs over all scenarios, 
+but now with different attitude towards risk. 
+
+Here investor utility is defined by the following formula: 
+
+10000
+𝑈= �𝑃𝑟𝑜𝑏𝑖∙𝑃𝑎𝑦𝑜𝑓𝑓𝑖𝛼
+𝑖=1
+
+ 
+
+Where 𝑃𝑟𝑜𝑏𝑖 is the probability of i-th scenario; 𝑃𝑎𝑦𝑜𝑓𝑓𝑖𝛼 is the payoff in i-th scenario 
+
+adjusted for the investor’s risk-aversion. 
+
+So, investors maximize the expected payoff raised to the power of their risk-aversion 
+parameter over the whole set of scenarios.  
+
+Expected payoffs under uncertainty and various degree of risk-aversion 
+
+Figure 2 
+
+ 2.12
+
+ 2.10
+
+ 2.08
+
+ 2.06
+
+ 2.04
+
+ 2.02
+
+ 2.00
+
+jpm
+pnc
+
+boa
+capone
+
+mellon
+citi
+
+wells
+bb
+
+bancorp
+fifth
+
+1
+
+7
+3
+
+3
+7
+
+9
+0
+1
+
+5
+4
+1
+
+1
+8
+1
+
+7
+1
+2
+
+3
+5
+2
+
+9
+8
+2
+
+5
+2
+3
+
+1
+6
+3
+
+7
+9
+3
+
+3
+3
+4
+
+9
+6
+4
+
+5
+0
+5
+
+1
+4
+5
+
+7
+7
+5
+
+3
+1
+6
+
+9
+4
+6
+
+5
+8
+6
+
+1
+2
+7
+
+7
+5
+7
+
+3
+9
+7
+
+9
+2
+8
+
+5
+6
+8
+
+ 
+
+On the chart above you can see the expected payoffs of different banks raised to the 
+
+power 1/𝛼 for the purposes of comparability. On the x-axis there are values of the risk 
+aversion parameter𝛼.  
+
+Here there is a set of interesting findings: 
+
+1.  I have found that there is no difference between the preferences of risk-averse and 
+
+risk-neutral investors if we are comparing the expected payoffs over the whole set of 
+
+scenarios (that is why I am not showing risk-aversion degrees less than 1 on the chart 
+above) 
+
+2.  Riskier banks exhibit parabolic function form towards higher degrees of risk loving 
+
+3.  More stable banks have their expected payoff relationship to risk-loving degree more 
+
+in a linear form 
+
+5. 
+
+ 
+
+4.  With the increase in love for risk the choice of banks for the investor changes 
+
+dramatically (PNC, Fifth Third and Capital One occupy Top-3 places in terms of 
+expected payoff compared to Bancorp, Wells Fargo and New York Mellon for the 
+risk-neutral investor) 
+
+Model limitations and potential for further research 
+
+To begin with, the model could be extended to a larger set of banks / other financial 
+institutions. In fact, it can be extended to non-financial institutions as well. This will 
+allow having a more comprehensive assessment closer to the one an investor usually 
+faces in real life. The most obvious extension here is to include large banks owned by 
+foreign companies and investment banks. This will require further investigation of 
+interdependencies not covered in this paper. 
+
+In addition, the set of macroeconomic variables used for estimating bank parameter 
+models could also be extended. For example, we could also take into account 
+international shocks. This could be particularly important as many banks (e.g. Citi) have 
+international businesses. 
+
+Another potential amendment which is often discussed in the literature is incorporating 
+feedback effects – how the changes in banks’ profitability / capital adequacy impacts 
+macroeconomic variables. 
+
+One more potential for the model refinement is simply to generate more scenarios thus 
+increasing model stability. I go with 10,000 scenarios due to computational limitations – 
+running 100,000 requires more machine time and more memory. 
+
+When estimating the payoff function, instead of using the capital ratios, better predictors 
+for bank insolvency may be found – for example, also taking into account default 
+probabilities of banks and / or liquidity metrics. 
+
+One important issue with the proposed model is that correlations across macroeconomic 
+variables are assumed constant, whereas in reality they tend to be higher during adverse 
+scenarios.  
+
+Finally, as it has been proposed by many researchers, it is important to go for the highest 
+granularity possible and to estimate effects separately on various business lines / 
+portfolios in order to correctly capture all the dependencies. 
+
+6. 
+
+Conclusion 
+
+In my research I find out several things about optimal investor choices among the 10 
+banks considered: 
+
+1.  Under certainty, there is no universal winner 
+
+2.  For “pessimists” the top 3 picks would be PNC, Bancorp, and Bank of America 
+
+3.  For “optimists” the top 3 picks would be Fifth Third, Wells Fargo, Capital One 
+
+4.  There is no difference in preferences between risk-averse and risk-neutral investors – 
+
+for both the top 3 picks are Bancorp, Wells Fargo and New York Mellon 
+
+5.  Very risk-loving investors would find it optimal to invest in PNC, Fifth Third, and 
+
+Capital One 
+
+There is still large potential for extending the model (increasing its scope) and increasing 
+its accuracy, which is mainly based on higher granularity, accounting for feedback 
+
+effects, making a wider choice of explanatory variables, and running more simulations to 
+ensure stability of solutions. 
+
+7. 
+
+ 
+
+ 
+
+References 
+
+[1] Sorge M. (2004): Stress-testing financial systems:  an overview of current 
+methodologies, BIS Working Paper No. 165 
+
+[2] Blasche W., Jones M.T., Majnoni G. & Peria S.M. (2001): Stress testing of financial 
+systems: an overview of issues, methodologies, and FSAP experience, IMF Working 
+Paper WP/01/88 
+
+[3] Berkowitz J. (1999): A coherent framework for stress-testing, SSRN ID 181931 
+
+[4] Virolainen K. (2004): Macro stress testing with a macroeconomic credit risk model 
+for Finland, Bank of Finland discussion papers 
+
+[5] Hoggarth G., Sorensen S. & Zicchino L. (2005): Stress tests of UK banks using a 
+VAR approach, Bank of England working papers 
+
+[6] Hirtle B., Kovner A., Vickery J. & Bhanot M. (2014): The capital and loss assessment 
+under stress scenarios, Federal Reserve Bank of New York staff report No. 663 
+
+[7] Duane M., Schuermann T. & Reynolds P. (2013): Stress testing bank profitability, 
+SSRN ID 2333951 
+
+

@@ -1,0 +1,422 @@
+National Research University
+
+Higher School of Economics
+
+
+
+
+
+Faculty Business-Informatics
+
+Department of Corporate Information Systems
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DRAFT
+
+Of the paper
+
+
+
+«The Implementation of Information System in Federal State Statistics»
+
+
+
+
+
+
+
+
+
+Student: J.D.Novikova
+
+Group: 472
+
+Argument Consultant V.V. Kuznetsov
+
+Style and Language Cosultant N.L.Bagramyants
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2013
+
+Abstract
+
+This work is dedicated to the implementation of the information system in the Federal State Statistics (Rosstat) for automation the business processes of preparation the electronic economic descriptions (EED) of statistical works. The purpose of this work is the implementation of the information system of preparation the electronic economic descriptions (SPEED) in the Rosstat. The achievement of this particular goal will increase an efficiency of the specified business process. For achievement of the goal the analysis of object of automation and an automation subject will be carried out, and also requirements to information system will be created. Besides, results of work have to become: the prepared and approved EED template, the created format of electronic versions of forms of the statistical reporting (EVF), possibility of creating and changing EED, tracking of changes of EED by supporting versioning, the created EED library, the created the information space for preparing EEDs, the created storage of metadata of the statistical works, created EVF in the unified XML format.
+
+
+
+
+
+
+
+Key definitions
+
+In order to make clear the points discussed later in this paper it is needed to give some definitions concerning the topic to be discussed. The key definitions and reductions are given in the table below.
+
+
+
+
+
+
+
+
+Introduction
+
+On the basis of statistical information the government develops the economic and social policy, estimates its results and makes economic forecasts. Granting the official statistical information by subjects of the official statistical accounting to the President of the Russian Federation, to Federal Assembly of Russia and the Government of the Russian Federation is obligatory and free.
+
+The Federal State Statistics is the federal executive authority which is carrying out functions of formation the official statistical information on social, economic, demographic, ecological and other public processes in the Russian Federation.
+
+The preparation of the economic description is the basis of formation the official statistical information. The ED contains all stages of the organization and carrying out statistical supervision.
+
+The main problem consists in loss of relevance of the ED soon after writing as the history of changes of the document isn't conducted.
+
+The automation of the process of preparation the ED is the main and most effective tool, which will allow to solve the problems connected with preparation of economic descriptions; therefore, the subject of this paper is actual.
+
+The Object of the research is The Federal State Statistics.
+
+The Subject of the research is the automation of business processes of preparation the ED by implementing the information system.
+
+The main purpose of this paper is the implementation of the information system of preparation the electronic economic descriptions of statistical works in the Rosstat.
+
+For achieving the specified purpose the following problems are formulated and solved:
+
+The analysis of business processes of object of automation;
+
+The analysis of the subject of automation;
+
+The formation of functional and nonfunctional requirements to implemented information system;
+
+The realization of requirements.
+
+The implementation of SPEED will allow:
+
+to prepare and approve the EED template;
+
+to create the EVF format of the statistical reporting;
+
+to create and change EED;
+
+to track changes of EED by supporting versioning;
+
+to create EED library;
+
+to create information space for preparing EEDs;
+
+to create storage of metadata of statistical works;
+
+to create EVF in the unified XML format to be placed on the site of the Rosstat.
+
+
+
+
+The analysis
+
+Tools and research methods
+
+While developing the project the following tools and research methods will be used:
+
+The environment of modeling, ARIS, for the analysis and the description of existing business processes of the Rosstat;
+
+The environment of modeling, MS Visio, for the description of IT infrastructure of the Rosstat.
+
+In the process of research the requirements to the information system introduced in the Federal State Statistics will be exact formulated.
+
+The characteristic and analysis of the object of automation
+
+The Federal State Statistics is the federal executive authority which is carrying out functions of formation the official statistical information on social, economic, demographic and ecological status of the country. The Rosstat also controls the supervision in the field of the state statistical activity in the territory of the Russian Federation.
+
+The Federal State Statistics has three-level structure:
+
+The Federal level – Rosstat Central Office (CO);
+
+The Regional level – the Territorial Bodies of the State Statistics (TBSS);
+
+The District level.
+
+The CO of the Rosstat has internal division into Managements:
+
+Administrative management;
+
+Management of the organization of statistical supervision and control;
+
+Management of summary statistical works and public relations;
+
+Management of national accounts;
+
+Management of statistics of the prices and finance;
+
+Management of statistics of the enterprises;
+
+Management of statistics of agriculture and surrounding environment;
+
+Management of statistics of construction, investments and housing and communal services;
+
+Management of statistics of trade and services;
+
+Management of statistics of work, science, education and culture;
+
+Management of statistics of the population and health care;
+
+Management of statistics of a standard of living and inspections of house farms;
+
+Management of statistics of foreign countries and international cooperation;
+
+Financial and economic management;
+
+Management of the organization of carrying out censuses and continuous inspections;
+
+Management of information resources and technologies;
+
+Management of development of a property complex.
+
+The TBSS has similar, but not obligatory identical, structural division.
+
+For providing consumers with statistical information in the Rosstat process of production of the statistical information is realized. The production of the statistical information includes collecting, processing, storage and distributing data. Process of collecting and processing of the primary statistical information is carried out in 82 territorial bodies of the Rosstat. The aggregated information from district and regional level is transferred to the CO of the Rosstat where its processing at federal level is carried out.
+
+The formation of the official statistical information is made according to the federal plan of statistical works approved by the Government of the Russian Federation. The economic description of the statistical work is developed for each statistical work.
+
+The economic description is the most important stage of the preparation and carrying out statistical supervision and contains all stages of the organization and carrying out statistical supervision. The economic description answers the following questions:
+
+Who the respondents of statistical supervision are?
+
+What forms of collecting are used?
+
+What are the terms of collecting reports?
+
+What are the rules of controlling the data?
+
+What are the algorithms of transformation and preparation the aggregated data?
+
+etc.
+
+Today more than 350 EDs are already developed. Nowadays the EDs are prepared by the specialists of the Central Office of the Rosstat. After preparation they are approved by the order of the Rosstat and arranged in a library of economic descriptions.
+
+At the moment the development of economic descriptions is organized by the specialists of the CO of the Rosstat. Thus, when developing the ED the various databases, containing necessary information and SRI are used. Simultaneous use of several systems involves a number of problems.
+
+On the basis of the ED software developers create XML templates of electronic versions of forms of the statistical reporting, which are necessary for respondents for the reporting. The developed templates take place on the site of the Rosstat.
+
+Let us allocate the main problems connected with preparation of the economic descriptions:
+
+Quick access to necessary databases is too complicated;
+
+There is no possibility of quick updating of the catalog of statistics;
+
+The preparation of the XML templates of electronic versions of forms of the statistical reporting is not automated and takes a lot of time;
+
+There is no electronic library of actual EDs;
+
+Etc.
+
+The implementation of information system of preparation the electronic economic descriptions will allow to solve the revealed problems and to automate the process of preparation the EDs.
+
+The characteristic of the subject of automation
+
+The subject of automation is the information system of preparation the electronic economic descriptions.
+
+The SPEED has the following functional and nonfunctional requirements:
+
+The functional requirements:
+
+The SPEED has to be integrated with the information systems functioning in the Rosstat;
+
+All documents of the library of the economic descriptions have to be stored in Documentum;
+
+The SPEED has to provide the user interface for work with the documents which are storing with Documentum;
+
+The SPEED has to provide an opportunity of creation, editing, viewing, import and export the documents;
+
+The structure of the developed EED has to conform to the standard;
+
+The SPEED has to have opportunity to track changes in EED by supporting versioning;
+
+The SPEED has to give opportunity of formation, editing and import the EVFs;
+
+The SPEED has to provided possibility of checking the correctness of the text of the ED;
+
+The SPEED has to provide the authorized access of users to the SPEED functions;
+
+The SPEED has to store the list of changes of the document;
+
+The SPEED has to give opportunity for searching the EEDs;
+
+There has to be a possibility of creation reports.
+
+
+
+The nonfunctional requirements:
+
+The SPEED has to be available in a 24x7 mode;
+
+The technological breaks should not exceed 1 hour a month;
+
+The possibility of modernization of the system should be provided;
+
+Simultaneous functioning not less than 100 experts has to be ensured;
+
+The maximum quantity of EEDs in EED library should be 10 000 pieces;
+
+The duration of formation of a EED template should not exceed 10 seconds;
+
+The speed of performance other operations in the system should not exceed 5 seconds;
+
+The SPEED has to restore automatically after any failures in hardware or software;
+
+The SPEED has to provide correct processing of the emergencies caused by incorrect actions of users, an incorrect format or unacceptable values of input data;
+
+The system has to possess the interface which would not contradict the standard graphic Windows interface (appearance, purpose of keys of the keyboard and a mouse etc.);
+
+The SPEED interface has to be created in Russian.
+
+
+
+The information system of preparation the electronic economic description includes:
+
+The subsystem of integration with CS and PDB;
+
+The subsystem of preparation the EEDs;
+
+The subsystem of controlling the input data;
+
+The subsystem of verification the EEDs;
+
+The Library of electronic economic descriptions;
+
+The storage of metadata of statistical works;
+
+The subsystem of export the documents;
+
+The administration subsystem;
+
+The automated user workplace for  preparation EEDs;
+
+
+
+
+Graduation paper structure
+
+The graduation paper structure includes theoretical, analytical and practical parts. The planned structure of the final document can be presented by the following scheme:
+
+
+
+Abstract
+
+Key definitions
+
+Table of contents
+
+Introduction
+
+Chapter 1. The characteristic of the object of automation – Theoretical part
+
+The general characteristic of the Federal State Statistics
+
+The analysis of the research area
+
+The description of business processes
+
+Problem statement
+
+1.5The purposes of creation the SPEED
+
+Chapter 2. The analysis of the System of preparation the electronic economic descriptions – Analytical part
+
+2.1 The analysis of business processes
+
+2.2 The formation of requirements to the information system
+
+2.3 The architecture of the SPEED
+
+2.4 The integration the SPEED and the IS
+
+Chapter 3. The implementation of the project – Practical part
+
+3.1 The analysis of the opportunities of the system
+
+3.2 The development of the EVF template
+
+3.3 The preparation of the working and operational documentation
+
+Conclusion
+
+References
+
+
+
+
+
+
+Conclusion
+
+The main purpose of this particular project is the implementation of the information system in the Federal State Statistics for automation the process of preparation the economic descriptions.
+
+During the introduction of the decision the following activities are performed:
+
+The research of the subject area and  the object of automation are carrying out;
+
+The analysis and description of business processes of object of automation are carrying out;
+
+The problems connected with preparation of EDs are identifying;
+
+The functional and nonfunctional requirements to introduced system are formulating;
+
+The proposed solution is describing;
+
+The integration of introduced system and the systems functioning in the Rosstat is carrying out;
+
+The implementation of all the subsystems of the SPEED is carrying out.
+
+The following has to become a result of the project:
+
+The implemented System of preparation the electronic economic descriptions in all responsible managements of the Rosstat;
+
+The developed EED template;
+
+The developed unified format of electronic versions of the forms;
+
+The prepared working and operational documentation;
+
+The procedural providing of the SPEED is carried out.
+
+The implemented System has to automate the process of preparation the economic descriptions, accelerate and facilitate the work of the specialists of the CO of the Rosstat.
+
+
+
+
+References
+
+ «Техническое задание на разработку Системы подготовки электронных экономических описаний», 2012
+
+«Технические требования к Системе подготовки электронных экономических описаний», 2012
+
+«Регламент функционирования Системы подготовки электронных экономических описаний», 2012
+
+«Функциональная спецификация Системы подготовки электронных экономических описаний», 2012
+
+ 

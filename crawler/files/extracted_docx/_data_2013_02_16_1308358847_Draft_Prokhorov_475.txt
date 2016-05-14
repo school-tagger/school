@@ -1,0 +1,348 @@
+National Research University
+Higher School of Economics
+
+
+Faculty of Business-Informatics
+Department of Information Security Management
+
+
+
+
+
+DRAFT
+of the paper
+“Ensuring the Safety of Costumers Information in the Cloud Network”
+
+
+
+
+
+
+
+Student: Prokhorov Vadim
+
+Group 475
+
+Argument Consultant: Elin Vladimir
+
+Language Consultant: Podobed Karina
+
+
+
+
+
+
+
+2013
+
+Abstract
+
+The subject inquiry of the research is the cloud computing system. This system allows to use enormous computing capacities, store and process data remotely. Thus, the study urgency is defined by the necessity of more effective information security protection. The graduation work is aimed at building of cloud computing information security system. And in order to meet this goal, the author analysed the cloud structure and examined advantages and disadvantages of the system. Based on the core mass media editions and academic works, the author highlighted weaknesses of cloud computing process and, as a result, proposed several measures which should be taken in order to minimise risks of data damage.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Introduction
+
+Nowadays Information technologies are developing quickly. There is an immense development of software. Earlier developed applications were distributed on physical media, and then they had to be installed on a computer. Software developers are exhibited the minimum system requirements that a computer should correspond to for all programs correct functioning. The Internet is evolving, servers are constantly being upgraded. At some point, it turned out that the processing power can be combined with support software services. This was the starting point of the cloud computing development.
+
+The widespread using of computers and based on them all kinds of administrative and technical ("human-machine") systems, such as "cloud" computing, arise information security problems.
+
+Information security issues take a special place in society and attract to themselves increasing attention. The success of any activity largely depends on the ability to dispose such value, as information. The Russian Federation Law "On Information, Informatization and Protection of Information" emphasizes that "information resources are objects owned by citizens, organizations, associations, the state".
+
+This study is the first chapter version of the Graduate Qualification Work on the topic: “Ensuring the Safety of Customers Information in the Cloud Network”.
+
+According to the information given above the graduation work is aimed at building the information security ensuring system of cloud computing services. In order to meet the goal it was necessary to solve the following tasks:
+
+to analyse theoretical aspects of cloud computing;
+
+to study the cloud types;
+
+to examine the system advantages and disadvantages;
+
+to analyse information security data specificity by studying the problem of cloud computing protection.
+
+
+
+
+
+
+
+
+
+
+Chapter 1. Characteristics of services in the cloud
+
+1.1 The concept of cloud computing
+
+Cloud computing is the technology of distributed data processing, in which computing resources and capacities are available to the user as an Internet service. The essence of cloud computing is to provide computing resources and applications (including operating systems and infrastructure) to users with remote access through the Internet.
+
+The term "cloud computing" is applicable to any services that are provided over the Internet. Cloud computing is a powerful approach for calculations resource. It becomes more and more popular. Anyone has ever used the services provided with the opportunity to work with applications without installing them on their computer.
+
+1.2 Types of clouds
+
+Since the cloud is a collective term, it makes sense to classify them according to some criteria. There are two classifications of clouds below, where one is suggested publication InfoWorld, and other - business manager Parallels, one of the market leaders in virtualization.
+
+Analysts from InfoWorld propose to divide all the clouds into six types:
+
+SaaS - Software as a Service (for example, Zoho Office and Google Apps);
+
+Utility computing, for example, virtual servers;
+
+Web service in the cloud - optimized online services for virtual environments (for example, Internet banking);
+
+PaaS - Platform as a Service (for example, Live Mesh from Microsoft);
+
+MSP - Managed Service Provider (for example, built-in virus scanner for email portals);
+
+Commercial platform for services - union PaaS and MSP (for example, Cisco WebEx Connect).
+
+Clouds can also be public or private. Public cloud services can be used by anyone. At the moment, Amazon Web Services is the most famous and largest provider in the public cloud. The main difference between private and public cloud is providing services from the cloud in a closed from public access infrastructure to a limited number of users. Under such a structure, part of customer data is stored and processed by the resources of its own infrastructure, and another part by the resources of the external provider. Service from Amazon called Amazon Virtual Private Cloud (Amazon VPC) is an example of a virtual private cloud.
+
+1.3 Advantages and disadvantages of using cloud technology
+
+1.3.1 Advantages
+
+Cheap computers for users
+
+Users do not need to buy expensive computers with more memory and disk drives to use the program through the web interface. There is also no need for CD and DVD drives, because all the information and programs are held in the "cloud." Users can switch from conventional computers and laptops to a more compact and convenient netbooks.
+
+Increased performance of customer computers
+
+Most of the programs and services are run remotely through Internet. Therefore, computers with a smaller number of programs start and run faster. One good example is Panda Cloud Antivirus, which allows you to scan data for viruses remotely on powerful servers and thus twice reduces the load on the user's computer.
+
+Reduce costs and increase the efficiency of IT infrastructure
+
+Ordinary server loaded on the average of 10-15%. In some periods of time there is a need for additional computing resources, in others these costly resources are idle. Using the required amount of computing resources in the cloud (for example, Amazon EC2), at any time, companies reduce the cost of equipment and maintenance up to 50%. The flexibility of production in a constantly changing economic environment always increases. If a sufficiently large firm is concerned that valuable information will be stored and processed on the side, company can build its own cloud and enjoy all the benefits of virtualization infrastructure.
+
+Less service problems
+
+Because of physical servers with the introduction of Cloud Computing becomes smaller, they become faster and easier to maintain. Software is automatically updated in the cloud.
+
+Less costs with software purchasing
+
+Instead of purchasing software packages for each local user, companies buy the right software in the cloud. These programs will be used only by users which are required to use programs in their work. Moreover, the price of programs for the Internet access is much lower than their counterparts for PCs. The costs of updating and support programs are reduced to zero.
+
+Software update
+
+At any time, when user starts the remote program, he can be sure that the program has the latest version - without the need to reinstall or pay something for the upgrade.
+
+The increase in computing capacities
+
+Compared to a personal computer, computing power of cloud is limited only by its size, that is, the total number of remote servers. Users can deal with more difficult problems with a large number of necessary memory space for your data.
+
+Unlimited amount of storage
+
+Storage in the "cloud" can be flexibly and automatically adjusted to the user's needs. When storing the information in the "cloud," users can forget about the limitations imposed by conventional disks - "cloud" dimensions reach billions of gigabytes of free space available.
+
+Operating system compatibility
+
+Operating systems do not play any role in cloud computing. Unix users can share documents with users of Microsoft Windows, and vice versa, without any problems. Access to programs and virtual machines occurs using a Web browser or other means of access, installed on any personal computer with any operating system.
+
+Increased document format compliance
+
+If the same "cloud" software to create and edit documents is used, format compliance problem will not arise. A good example of this compliance is an office suite Google Docs.
+
+Simple work within a user group
+
+While working with documents in the "cloud" it is not necessary to send the document version or edit it constantly. Users can be sure that they have the latest version of the document, and any change made by one user is seen by all the others.
+
+Widespread access to documents
+
+If the documents are stored in the cloud, they can be available to users any time and everywhere. Users do not face such thing as a forgotten file because if there is the Internet, files are always available.
+
+Access from various devices
+
+Cloud Computing users have wide choice of devices to access documents and programs. It is possible to choose between a standard PC, laptop, Internet tablet, PDA, smartphone or netbook.
+
+Saving the natural resources
+
+Cloud computing allows to save on electricity, computing resources, the physical space occupied by the servers. Moreover, cloud computing spends natural resources reasonably. Data centers can be placed in a cooler climate. Users can replace heavy, demanding computers and laptops on easy and economical netbooks. This saves not only energy and space, but also the materials that those devices are made from.
+
+Stability of data loss or theft of equipment
+
+If data is stored in the cloud, copies are automatically distributed across multiple servers, which may be located on several continents. Theft or damage to the user's PC does not cause the loss of valuable information, because it can be found by any other user.
+
+1.3.2 Disadvantages
+
+Permanent connection to the Internet
+
+Cloud Computing is almost always requires a connection to the Internet. Some of the cloud programs downloaded to the local computer and used at a time when the Internet is not available. In other cases, if there is no access to the Internet - no work, programs, and documents. This is probably the strongest argument against the cloud computing
+
+Bad working with slow Internet access
+
+Many of the cloud programs require a good Internet connection with high bandwidth. But these days, access speeds are increasing, and prices - are falling.
+
+Programs may run slower than on a local computer
+
+Some programs that require the transfer of a significant amount of information will work on your computer faster not only because of the restrictions on Internet connection speed, but due to busy remote servers and problems in the way between you and the cloud.
+
+Not all programs or their properties are available remotely
+
+Cloud analogues lose in functionality. For example, Google Docs table have far fewer features and functions than Microsoft Excel.
+
+Data security can be under the threat
+
+It all depends on who provides "cloud" services. If the cloud provider encrypts the data, always back-up copies should be made. With more than a year working experience on the market of such services and good reputation a company does not have any data security risk.
+
+If the data in the cloud is lost, they are lost forever. This is a fact. But to lose the data in the cloud is much more difficult than to lose it on a local computer.
+
+Despite the fact that there are more advantages than disadvantages, still, each time it’s a particular case needed to be observed.
+
+
+
+
+Chapter 2. Protection problems
+
+Recent years, the question aimed on the development of cloud computing, considering their prospects, arises more often. Only for the 2011 business growth in this area was more than 25%. The main principle of computing in the cloud is based on the implementation of various wishes of the users by providing the different services. The main goal of this approach is to move from the problems by the choice of hardware and supporting software applications to provide guaranteed data storage providers in the cloud service process. Data center construction is the basis solution of this strategy. This makes it possible to provide enormous computing resources, the ability to store and provide instant access to data for average user of the Internet or ordinary employee who has access to the corporate network. In such conditions, user's side of the process is most important. In this situation, the issue of information security pushed into the background. An intensive advertising campaign represents cloud computing as something new, the decision problem of information security is postponed at a later time. User data and the stability of the entire structure as a whole are at risk. This situation is reminiscent of the development of electronic "banking" in the last ten years, where the question of information security has been intensively considered due to large losses which reached 10-15% of the profits.
+
+Analogy processes of cloud computing can be seen in large computer systems, the 80's of the last century, where the main difference was a breadth of opportunities for high-speed user access to the data center resources. And such access was possible only within individual organizations that have used these centers for computing. But already in the 90's, when the computing speed exceeded the speed of processing and preparation of the information in peripherals, possibility of parallel tasks on a computing device was realized.
+
+The process of development of cloud computing began a few decades ago. At the same time began to consider the problems of information security. Basic principles of information security in computer systems that have developed over the last 20 years, can be used in cloud computing. Baranov A.P. in his article "Is it possible to protect confidential information within a cloud?" discusses the use of this opportunity and reveals unresolved problems that hinder the development of the information security for computing in the cloud.
+
+For the analysis considered the organization of the cloud computing which based on the data center, that implements the principle of virtualization computing.
+
+The author divides the computing system in a cloud on the six main parts:
+
+1. Hardware components of the data center; 
+
+2. Telecommunications section of the access to the resources of the data center;
+
+3. Users and their software and hardware;
+
+4. Middleware;
+
+5. Application services provided by data centers as a layer of application software for the guest operating systems;
+
+6. Storage Systems (primarily databases).
+
+In article the author examines the problem of information security in each of the above parts, dividing the use each of them in two possible directions: corporate and public system.
+
+2.1 Hardware components of the data center
+
+For corporate networks that handle confidential information, the principles of selection and certification of hardware parts are well known and is to ensure the reliability and stability of operation that give manufacturers. Also, these principles are reflected in number of organizational measures to ensure no access hackers to the hardware components of a data center. If the side effects of radiation or electromagnetism appear, exploration activities on the side signals and protective measures should be conducted by known methods. Similar events are held, as a rule, for a system of public cloud computing.
+
+2.2 Telecommunications section of the access to the resources of the data center
+
+Telecommunications is based either on the open traffic or on IP-packet encryption by software or hardware. The personal data are processed in a corporate network typically require confidentiality. Therefore, to keep access to IP-based networks applies encryption at the IP-packets. In order to minimise costs to encryption, corporate network can be built in a tree structure of ties and form a dedicated VPN (virtual private network) for one hundred thousand users. Through this network structure it is sufficient to ensure simultaneous communication with a small number of users. The situation is more complicated in the systems of public cloud computing. In contrast to the corporate network, public system must provide Internet network access to more than one million people, workplaces which can constantly change the IP-address. Packets may arrive with a delay on the Internet. This creates a serious burden on the computer system data center. Obviously, there are a number of human activity areas in which these restrictions are unacceptable. Therefore, increasing the speed of IP-encryption is currently relevant and perspective task.
+
+2.3 Users and their software and hardware
+
+Encryption of IP-flow in the workplace by using SSL by software and especially hardware at 1Mbit /s is not a problem. In the market a number of companies are offering certified products. More complex, but solvable problem for the corporate cloud is the protection of keys, operating system and information within the workplace user. Workplace can be equipped with special tools such as electronic locks, etc., the operation of which can be controlled by the user of this place, as well as information security services of the company. The situation is more difficult for the public system. A cracker may be officially registered user has a legal right of access to the system, and he can try to overcome the security system, in particular, access control system, using special equipment installed on workplaces. Practically it is impossible to control the user workplace composition in public networks. Obviously, the safety equipment in the data center of public systems should be highly effective and the requirements for them are very stringent.
+
+2.4 Middleware
+
+The structure of the data center implements the concept of virtual machines. Consider the "middle" layer as the hypervisor and guest operating systems with application tasks on them. The control system is also rated as one of the virtual machines. The hypervisor is a key element of information security in the development and operation of virtual machines. Simultaneously, the hypervisor itself is an operating system that operates directly with the hardware, sometimes by delegating functions of basic systems guest. Thus, the hypervisor can be viewed as a traditional operating system. The question of creating or providing safe mode of the system is reduced to hypervisor complying with the requirements for standard operating systems.
+
+2.5 Application services
+
+Situation is identical certification of application software for operating systems. Typically, constraint checking to software developed during certification of operating systems with the participation of the developer for the above systems takes no more quarter. Certification of large and complex products like Word or Explorer, require one year of effort in initial certification systems. In the future, the time for certification of the following systems versions was reduced significantly. The main challenge in this area is to develop a minimum set of requirements for the application software in the certification of operating systems. The same applies to the principles of certification hypervisor.
+
+2.6 Storage Systems
+
+In terms of application of certified information security requirements for the storage situation is very grim. Only certified database MS SGL. Such powerful database like Oracle or DV2 must certify to the requirements FSTEC to Category 1-D. In the absence of certification must rely on the imposed protection remedies that do not affect the internal mechanisms mentioned databases. The market of protection means contains almost no proposals in this area. It appears that this situation will be maintained and supported by database vendors as long as in Russia will not create or certified alternative, quite effective database that can be applied to large data centers. Create a national database that is comparable with the products of the leading manufacturers and package business applications for it that can reduce development time of application software, is a national task, comparable to the task of creating and maintaining native operating system.
+
+
+
+Conclusion
+
+As a result of the research the author has made the following conclusions:
+
+In the theoretical part of the research the author studied cloud computing characteristics and worked out the following advantages and disadvantages of the system:
+
+Advantages:
+
+Cheap computers for users;
+
+Increased performance of customer computers;
+
+Increased performance of customer computers;
+
+Reduce costs and increase the efficiency of IT infrastructure;
+
+Less service problems;
+
+Less costs with software purchasing;
+
+Software update;
+
+The increase in computing capacities;
+
+Unlimited amount of storage;
+
+Operating system compatibility;
+
+Increased document format compliance;
+
+Simple work within a user group;
+
+Widespread access to documents;
+
+Access from various devices;
+
+Saving the natural resources;
+
+Stability of data loss or theft of equipment.
+
+Disadvantages:
+
+Permanent connection to the Internet;
+
+Bad working with slow Internet access;
+
+Programs may run slower than on a local computer;
+
+Not all programs or their properties are available remotely;
+
+Data security can be under the threat.
+
+Based on the article of A.P. Baranov, professor, Head of Information Security Management Department in National Research University Higher School of Economics, “Is it Possible to Protect Confidential Information within a Cloud”, the problem of information security was examined. 
+
+The cloud computing process was studied and six main parts of the system were defined:
+
+Hardware components of the data center; 
+
+Telecommunications section;
+
+Users and their software and hardware;
+
+Middleware;
+
+Application services;
+
+Storage Systems (primarily databases).
+
+The author analysed all parts of cloud computing system and found their weaknesses. In the practical part of the research the information security risks will be evaluated, and several measures aimed at minimizing those risks will be proposed.
+
+
+
+
+Bibliography
+
+1) V.F. Shangin Data Protection. \\ Effective measures. − M.: DMK Press, 2008. – p. 544.
+
+2) V.M. Belogrudov Cloud Computing – advantages and disadvantages \\ http://www.smart-cloud.org/sorted-articles/44-for-all/96-cloud-computing-plus-minus. 03.03.2012
+
+3) A.P. Baranov “Is it Possible Confidential Information within a Cloud” \\ High Availability Systems, 2012. T. 8. № 2. p. 12—15
+
+4) M.C. Kondrathin Cloud Computing Security \\ http://www.pcmag.ru/solutions/detail.php?ID=38248. 15.02.2010 
+
+5) Information Security Treat \\ http://www.internet-technologies.ru/articles/article_1147.html. 3.10.2007
+

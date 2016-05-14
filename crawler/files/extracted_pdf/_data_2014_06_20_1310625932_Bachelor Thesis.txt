@@ -1,0 +1,3130 @@
+National Research University
+Higher School of Economics
+
+International College of Economics and Finance
+
+BACHELOR THESIS
+
+Rank-Order Tournaments
+
+Author:
+Arina Chokati,
+4th year student at ICEF
+
+Under the direction and supervision of:
+Kosmas Marinakis,
+PhD
+
+MOSCOW
+
+2014
+
+Contents
+
+1 Introduction
+
+2 The Rank-Order Tournament with 3 Risk-Neutral Agents
+
+2.a Setup . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.b Probabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.c
+Incentive Compatibility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.d Individual Rationality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.e Proﬁt Maximization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.f
+
+Solutions
+
+3 The Rank-Order Tournament with 3 Risk-Averse Agents
+
+3.a Setup . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.b Probabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.c
+Incentive Compatibility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.d Individual Rationality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.e Proﬁt Maximization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.f Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4 The Rank-Order Tournament with N Risk-Neutral Agents
+
+4.a Setup . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.b Probabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.c
+Incentive Compatibility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.d Individual Rationality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.e Proﬁt Maximization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.f Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5 Conclusions
+
+Appendices
+
+A Appendix 1
+
+B Appendix 2
+
+3
+
+5
+5
+6
+7
+8
+9
+10
+
+12
+12
+12
+12
+14
+14
+14
+
+16
+16
+16
+17
+17
+18
+18
+
+19
+
+21
+
+21
+
+21
+
+2
+
+1
+
+Introduction
+
+There exist numerous types of compensation schemes. In practice, though, not necessarily optimal,
+hourly and monthly rates most of the time. Questions widely addressed among economists are why do
+
+organizations choose one incentive payment scheme over the others and does there even exist an optimal
+
+and feasible one? Answers to those question are of a vital importance to economic theory and thus vast
+
+majority of papers on this topic are devoted to comparison of diﬀerent incentive compensation schemes.
+
+One possible classiﬁcation framework for incentive payment schemes is dividing them into compen-
+
+sations based on absolute and relative performance. The former of the two takes into account absolute
+
+level of output produced by an agent, while the latter uses information on relative position of the agent’s
+
+output, compared to that of other agents. On one extreme of this classiﬁcation lays individual piece-rate,
+
+under which an agent receives a payment linearly dependent on her absolute performance, on the other -
+
+rank-order tournament, where the payment to the agent depends on her rank, i.e. her performance relative
+
+to other agents. Between the to absolutes are cardinal tournaments or relative piece-rates, a payment
+
+structure including some elements of individual piece-rates and ordinal tournaments, i.e. consisting of a
+
+base payment proportional to the absolute performance and a bonus or penalty depending on average
+
+performance of all agents. All of the three schemes were extensively analyzed and compared at diﬀerent
+
+times in the literature and in the next few paragraphs I will present a brief history of that analysis.
+
+Before the prominent paper by Lazear and Rosen (1981), most of the focus was on analyzing simple
+
+linear piece rate schemes (e.g., see Stiglitz (1975), Mirrlees (1976)), under which an agent receives com-
+
+pensation as function of the output she produces, widely used in various contracts, examples here would
+
+be a payment to salesman based on the sales he made, a payment to a worker on the plantation linearly
+
+dependent on the amount of harvested crop. On the other hand, Lazear and Rosen (1981) and later
+
+Holmstr¨om (1982), Green and Stokey (1983) and Nalebuﬀ and Stiglitz (1983) analyzed more intriguing
+
+rank-order tournaments and compared them to other schemes to ﬁnd that under certain circumstances
+
+the former can be superior to many others. Careful study of rank-order tournaments helps explain why
+
+are those at the top of the pyramid (refering to CEOs mainly) are paid so much, why, when only best
+
+three of Olympiad athletes are rewarded and others, sometimes being just one hundredths of a second
+
+behind, get virtually nothing, so many people are eager to participate?
+
+In their work Lazear and Rosen (1981) examined an ordinal tournament with two agents, both for the
+
+case where agents were risk-neutral and the one where they were risk-averse. Authors show that when
+the agents are riskneutral, there can be designed a tournament which will ensure the same allocation of
+
+resources as an individual piece-rate. This equivalence vanishes when agents are assumed to be risk-averse:
+
+depending on various parameters, tournament may or may not be superior in terms of allocation to piece
+
+rate. Finally, the paper considers a case with heterogeneous workers, yielding some very diﬀerent results,
+
+which are beyond the scope of this discussion. Lazear and Rosen, though, do not generalize results to
+
+more than two players, and this issue is addressed in Malcomson (1986), where author solves a game for
+
+the continuum of players and most recently in Akerlof and Holden (2012).
+
+Holmstr¨om (1982) analyzed various relative compensation schemes, among which a rank-order tour-
+
+naments. He considered production functions of two types, with multiplicative and additive shocks, and
+
+many risk-averse agents. Holmstr¨om main ﬁnding is that ”rank-order tournaments may be information-
+
+ally quite wasteful f performance levels can be measured cardinally rather than ordinally” (p.335).
+
+Further investigation of the optimality of rank-order tournaments relative to individual compensation
+
+schemes is oﬀered by Green and Stokey (1983). In their paper they have a setup very similar to Lazear
+
+3
+
+and Rosen (1981) and Holmstr¨om (1982), the main distinctive assumption made is that Green and Stokey
+
+allow agents to observe private signals, correlated with this common shock,before they chose their eﬀort
+
+levels” (p.3). Authors ﬁnd that rank-order tournament’s superiority in terms of allocation of resources
+
+depends largely on the common shock structure and the number of agents in participating in the tourna-
+
+ments: with a common error term or the number of agents being suﬃciently large, a tournament is able
+
+to eliminate the major source of volatility in production.
+
+Lately, most of the literature on tournaments is related to cardinal version of the scheme (e.g. Mari-
+
+nakis and Tsoulouhas (2013)), i.e. a scheme under which an agent receives a base payment and a bonus
+
+or penalty depending on the agent performance relative to the average performance of all agents in the
+
+group, as this type of incentive payment scheme is argued by Holmstr¨om (1982) to be superior in terms
+of use of information to the rank-order tournaments. As for ordinal tournaments, the interest of the
+
+researches has shifted from pure theory towards empirical work based on experiments. In this regard,
+
+Bull, Schotter, and Weigelt (1987) ﬁnd supportive evidence for the theory outlined in Lazear and Rosen
+
+(1981).
+
+In contrast with current research, this paper will be devoted to the analyses of rank-order tournaments
+
+per se. I believe that this is the most spectacular of all compensation schemes as so many sports use it.
+
+This paper was apparently developed parallel to the work of Akerlof and Holden (2012) and thus one of
+
+the objectives of this research will be to generalize results of Lazear and Rosen to a contract for three
+
+agents and a contract with N discretely distributed agents. As Bull, Schotter, and Weigelt (1987) mention
+
+in their article ”a tournament, unlike the piece rate, is a game and so requires strategic, as opposed to
+
+simply maximizing, behavior” (p. 3), I will use strategic approach in this paper. The main goal is to
+
+see whether the results of Lazear and Rosen (1981) still hold, ones we abolish the assumption of perfect
+
+competition and thus drop the zero-proﬁt constraint and increase the number of players to 3 or to N. Due
+
+to this diﬀerence in assumptions, I will employ backward induction to solve the game and to ﬁnd optimal
+
+value-maximizing prize structure explicitly in ordinal tournament. The main advantage of this work when
+
+compared to Akerlof and Holden (2012) is that in their paper Akerlof and Holden try to solve very general
+
+form of the problem which requires a lot of assumptions and do not provide exact prizes structure, while
+
+this work explicitly ﬁnds the optimal prize structure for the tournament with 3 risk-neutral agents and
+
+provides some insights for the 3 risk-averse.
+
+The rest of the work is organized as follows: Section 2 describes a case of a contract between a risk-
+
+neutral principal and 3 risk-neutral players, in Section 3 a more realistic situation is considered, i.e. players
+
+are now assumed to be risk-averse, Section 4 presents an attempt to generalize a model to N agents and
+
+describes some diﬃculties with that, ﬁnally, in Section 5 provides a review the work done and presents
+
+conclusions.
+
+4
+
+2 The Rank-Order Tournament with 3 Risk-Neutral Agents
+
+2.a Setup
+
+In this paper only one period is under consideration, during this period a contract is signed between
+a principal and 3 homogeneous agents. Under the contract agent i produces output xi according to the
+production function (used by Marinakis and Tsoulouhas (2013)):
+
+xi = ei + a + η + i
+
+(1)
+
+where a is agent’s ability, equal for all agents, ei is agent i’s eﬀort level, η is a common shock, η ∼ N (0, σ2
+η),
+and i is an idiosyncratic shock, i ∼ N (0, σ2
+ ) iid. This production function diﬀers from that used by
+Lazear and Rosen in two ways: the ability is separated from investment (eﬀort) and the risk is split into
+
+common, aﬀecting all agents, for example, economics crisis, which is not diversiﬁable for the principal,
+
+and speciﬁc risk to each agent, for example, sickness, which is diversiﬁable for the principal.
+
+For simplicity of exposition, the price of the output is normalized to 1. Under the contract all of
+
+the resulted revenue goes to the principal, while agents are compensated according to their ”rank”, i.e.
+
+depending on the value of their output relative to that of other agents. Here and in all that follows I
+assume that the principal is risk-neutral and acts as a value-maximizer. In this section agents are assumed
+
+to be risk-neutral as well. I will use a utility function for an agent i that is separable in income and cost
+
+of eﬀort, following absolute majority of papers on the topic:
+
+u(wi, ei) = wi − e2
+i
+2a
+
+(2)
+
+where wi is a wage received by the agent i and e2
+2a is a cost of eﬀort for the agent, decreasing in ability.
+Under the ordinal tournament the wage rate (prize) received by the agent depends on the rank of xi, so
+the precise structure of the compensation scheme for 3 agnets is as follows:
+
+i
+
+
+
+wi =
+
+if xi > xj ∀i (cid:54)= j
+if xi < xj ∀i (cid:54)= j
+otherwise
+
+W1
+
+W3
+
+W2
+
+(3)
+
+where W1 ≥ W2 ≥ W3 or, more speciﬁcally let W2 = αW1 + (1 − α)W3, where 0 ≤ α ≤ 1.
+
+All the above information is available both to the principal and the agents. An interesting peculiarity
+
+of the rank-order tournaments when compared to other incentive schemes like piece rates is that the
+
+model can be viewed as a non-cooperative game: at stage 1 the principal designs a compensation scheme,
+at stage 2 the agents are oﬀered this compensation scheme, if agents agree to sign a contract, then at
+
+stage 3 they choose the level of investment (eﬀort) and at stage 4 the production happens and agents get
+
+compensation. Because each agent chooses the level of eﬀort (investment) before the production takes
+
+place and after, when the output is observed each agent receives her compensation, this model is similar
+
+to Stackelberg leadership model with ﬁrst-mover advantage for the principal.
+
+Therefore we will use backwards induction: ﬁrst the principal will calculate each agent’s eﬀort level
+
+as a function of a prize structure, for this the principal needs to calculate the agent’s expected utility
+
+ﬁrst, as the she knows that each agent will choose to sign a contract only if the expected payment gives
+
+5
+
+her maximum expected utility comparing to other oﬀers, i.e. the contract is incentive-compatible. At
+
+the same time, the expected payment must also provide the agent with utility level at least equal to her
+
+reservation utility (let us assume that it is the utility level an agent enjoys staying out of production), i.e.
+
+satisfy individual rationality constraint. Finally, principal maximizes her total expected proﬁts subject to
+
+the above incentive compatibility and individual rationality constraints.
+
+The rest of the section will thus reﬂect the structure of the process of solving the game outlined above.
+
+2.b Probabilities
+
+The expected utility for the agent i is simply the expected wage less the cost of eﬀort:
+
+EU = W1P (Rank First) + W2P (Rank Second) + W3P (Rank Third) − e2
+i
+2a
+
+(4)
+
+To ﬁnd EU we need to ﬁnd the probability of each payoﬀ, i.e.:
+
+P (Rank First) = P1 = P (xi > xj and xi > xk)
+
+Substituting each agent’s production function (1) into the above expression and rearranging further, we
+
+get:
+
+P1 = P (ei + a + η + i > ej + a + η + j and ei + a + η + i > ek + a + η + k) =
+
+= P (ei + i > ej + j and ei + i > ek + k) =
+= P (i − j < ei − ej and i − k < ei − ek)
+
+As cov(i−j, i−k) = var(i) = σ2
+and thus we can ﬁnd the probability of ranking ﬁrst as:
+
+ (cid:54)= 0, random variables i−j and i−k have dependent distributions
+
+P1 = Fi−j ,i−k (ei − ej, ei − ek) =
+
+(cid:90) ei−ej
+
+(cid:90) ei−ek
+
+=
+
+−∞
+
+−∞
+
+fi−j ,i−k (s, t)dsdt
+
+(5)
+
+where Fi−j ,i−k (.) is the joint cdf of ei − ej and ei − ek, fi−j ,i−k (.) is its joint pdf. By analogy, the
+probability of ranking third out of three agents is:
+
+P (Rank Third) = P3 = P (xi < xj and xi < xk) =
+
+(cid:90) ∞
+
+(cid:90) ∞
+
+=
+
+ei−ej
+
+ei−ek
+
+fi−j ,i−k (s, t)dsdt
+
+So probability of receiving W2, in other words, raking second can be found as:
+
+P (Rank Second) = P2 = 1 − P1 − P3
+
+6
+
+(6)
+
+(7)
+
+2.c
+
+Incentive Compatibility
+
+After calculating the probabilities of each outcome, we can now substitute the expressions (5), (6) and
+
+(7) into the expected utility for agent i (4) to get:
+
+EU = W1P1 + W2(1 − P1 − P3) + W3P3 − e2
+i
+2a
+
+(8)
+
+The principal want to ﬁnd the level of eﬀort that the agent will choose treating prize speciﬁcation as
+given, so she maximizes the agent’s expected utility (8) with respect to ei. First order condition is:
+
+∂EU
+∂ei
++ W2(− ∂P1
+∂ei
+
+W1
+
+∂P1
+∂ei
+
+= 0 ⇔
+
+− ∂P3
+∂ei
+
+) + W3
+
+∂P3
+∂ei
+
+− ei
+a
+
+= 0
+
+(9)
+
+Diﬀerentiating P1 from (5) with respect to ei, we can easily ﬁnd ∂P1
+∂ei
+
+:
+
+(cid:20)(cid:90) ei−ek
+
+∂
+∂ei
+
+(cid:18)(cid:90) ei−ej
+(cid:90) ei−ek
+(cid:90) ei−ek
+
+−∞
+
+−∞
+
+∂P1
+∂ei
+
+=
+
+=
+
+=
+
+(cid:21)(cid:19)
+
+(cid:90) ei−ej
+(cid:90) ei−ej
+
+−∞
+
+−∞
+
+ds
+
+fi−j ,i−k (s, t)dt
+
+−∞
+
+−∞
+fi−j ,i−k (ei − ek, t)dt +
+
+=
+
+(cid:20)(cid:90) ei−ek
+
+ds
+
+∂
+∂ei
+
+−∞
+
+(cid:21)
+
+fi−j ,i−k (s, t)dt
+
+=
+
+(10)
+
+By analogy, diﬀerentiating (6), we can ﬁnd ∂P3
+∂ei
+
+fi−j ,i−k (ei − ek, t)dt +
+(cid:90) ∞
+(cid:32)(cid:90) ∞
+
+ei−ek
+
+:
+
+fi−j ,i−k (ei − ek, t)dt −
+
+fi−j ,i−k (ei − ek, t)dt +
+
+fi−j ,i−k (s, ei − ek)ds
+(cid:90) ∞
+(cid:90) ∞
+
+(cid:33)
+fi−j ,i−k (s, ei − ek)ds =
+fi−j ,i−k (s, ei − ek)ds
+
+ei−ej
+
+ei−ek
+
+ei−ej
+
+= −
+
+∂P3
+∂ei
+
+= −
+
+(11)
+
+If the Cournot-Nash assumptions are satisﬁed, as every agent has symmetric reaction function, then
+in equilibrium each agent will choose the same optimal level of eﬀort ex-ante, meaning that ei = ej =
+ek = e∗ in equilibrium and thus ex-post probabilities of ranking ﬁrst, second and third will be equal
+P1 = P2 = P3 = 1
+3 . Substituting these conditions into (10), due to symmetry of the distribution around
+0 we get the following ∂P1
+∂ei
+
+:
+
+(cid:90) 0
+
+fi−j ,i−k (0, t)dt +
+
+fi−j ,i−k (0, t)dt =
+
+−∞
+
+fi−j ,i−k (s, 0)ds =
+
+(12)
+
+∂P1
+∂ei
+
+=
+
+(cid:90) 0
+(cid:90) ∞
+
+−∞
+
+=
+
+−∞
+= g(0)
+
+where g(.) is the marginal density function of the i−j, which under the assumption of normal distribution
+
+7
+
+for i − j with mean 0 and variance of 2σ()2 becomes:
+
+g(ei − ej) =
+
+1√
+√
+2σ
+
+e
+
+2π
+
+−(ei−ej )2
+
+2σ2
+
+
+Evaluated at 0:
+
+g(0) =
+
+1√
+√
+2σ
+
+2π
+
+=
+
+2(cid:112)πσ2
+
+1
+
+
+
+(13)
+
+(14)
+
+It is important to stress here that the above result will only hold for symmetric distributions with
+
+mean 0. This topic is further explored in great detail in Akerlof and Holden (2012).
+
+By analogy with (12), in equillibrium ∂P3
+∂ei
+
+= −g(0), so ∂P1
+
+∂ei
+
++ ∂P3
+∂ei
+
+= 0. It will be worth noting, that
+
+this result will hold in a more general form for symmetric distributions with mean 0:
+
+if the number of
+
+agents will be even, 2k, then for all pairs of marginal probabilities for i from 1 to 2k the following will hold
+∂Pi
+∂ei
+to eﬀort of getting exactly in the middle, i.e. ranking k + 1, will be zero as in the case with 3 agents.
+
+= 0, in case the number of agents will be odd, 2k + 1, marginal probability with respect
+
++ ∂Pi+2k−1
+
+∂ei
+
+Substituting the above equilibrium conditions (12) and (14) into (9), we get the optimal eﬀort as
+
+function of W1 and W3:
+
+∂P1
+∂ei
+
+(W1 − W3)
+− ei
+a
+g(0)(W1 − W3) − ei
+a
+(W1 − W3) − ei
+1
+a
+
+2(cid:112)πσ2
+
+= 0 ⇔
+= 0 ⇔
+= 0 ⇔
+
+
+
+e∗ =
+
+2(cid:112)πσ2
+
+a
+
+
+
+(W1 − W3)
+
+(IC.1)
+
+What this says is that when choosing an eﬀort level to apply, the agent only considers the spread
+between the ﬁrst and the last prize! Intermediate prize, W2, doesn’t appear in the optimal eﬀort function
+at all. So when agents are risk neutral, the principal can elicit higher eﬀort by increasing the spread
+
+between the ﬁrst and the third price. This is by far the most interesting result of the paper, it is
+
+consistent with the ﬁnding of Lazear and Rosen (1981) for the two agents, although, this paper has used
+
+entirely diﬀerent approach and did not restrict itself to the case of principal facing perfect competition in
+
+the market.
+
+This result is far more intriguing though than the same one for two agents. And this is why: Lazear
+and Rosen found that the spread between W1 and W2 mattered for two agents engaging in the production,
+so all prized in the compensation scheme matter, but what this paper ﬁnds is that with greater number
+
+of contestants, three, not all of the prizes matter for the decision on how hard to work! The intuition
+
+might be as follows: when working at the large corporation you always think of the CEO’s compensation
+
+as compared to yours, this diﬀerence is exactly the thing that motivates you to apply best eﬀort in the
+
+whole course of you career.
+
+2.d Individual Rationality
+
+Principal knows that at the same time as being incentive-compatible, the expected prize must also
+
+translate into the expected utility at least equal to the agent’s reservation utility u, or the agent will
+
+8
+
+simply choose not to work, in other words it has to satisfy individual rationality constraint:
+
+EU ≥ u
+
+Following Marinakis and Tsoulouhas (2013), I further assume that the principal has all the bargaining
+
+power and wants to insure participation at the least costs, so the agent is left with no rents and individual
+
+rationality constraint holds with an equality:
+
+EU = u ⇔
+
+W1P1 + W2P2 + W3P3 − e2
+i
+2a
+
+= u
+
+(15)
+
+Substituting e∗ from (IC.1) and equilibrium probabilities, further rearranging, we get an expression for
+W2:
+
+(
+
+√
+
+a
+πσ2
+
+
+1
+3
+
+2
+
+(W1 + W2 + W3) −
+(W1 + W2 + W3) − a
+1
+8πσ2
+3
+
+1
+3
+
+W2 = u +
+
+a
+
+(W1 − W3))2
+= u ⇔
+2a
+(W1 − W3)2 = u ⇔
+(W1 + W3) ⇔
+
+(W1 − W3)2 − 1
+8πσ2
+3
+
+(W1 − W3)2 − (W1 + W3)
+3a
+8πσ2
+
+
+W2 = 3u +
+
+(IR.1)
+
+2.e Proﬁt Maximization
+
+Finally, at stage 1 of the game, the principal maximizes her total expected proﬁt subject to incentive
+
+compatibility (IC.1) and individual rationality (IR.1) constrains to ﬁnd the prize structure that will ensure
+
+both participation and required level of eﬀort from the agent and maximum proﬁt for the principal:
+
+EΠ = Exi + Exj + Exk − W1 − W2 − W3 =
+
+= 3(e∗ + a) − W1 − W2 − W3
+
+Substituting e∗ from (IC.1) and W2 from (IR.1):
+
+3a
+
+2(cid:112)πσ2
+2(cid:112)πσ2
+2(cid:112)πσ2
+
+3a
+
+3a
+
+
+
+
+
+
+
+EΠ =
+
+=
+
+=
+
+(W1 − W3) + 3a − W1 − (3u +
+
+3a
+8πσ2
+
+(W1 − W3) + 3a − W1 − 3u − 3a
+8πσ2
+
+(W1 − W3)2
+
+(W1 − W3) + 3a − 3u − 3a
+8πσ2
+
+
+(W1 − W3)2 − (W1 + W3)) − W3 =
+
+(W1 − W3)2 + W1 + W3 − W3 =
+
+(16)
+
+9
+
+The principal maximizes the expected proﬁt with respect to W1 − W3. First order condition gives:
+
+= 0 ⇔
+
+∂EΠ
+
+∂(W1 − W3)
+− 6a
+8πσ2
+
+
+2(cid:112)πσ2
+
+3a
+
+
+
+(W1 − W3) = 0 ⇔
+
+√
+
+3a
+πσ2
+
+3a
+
+⇔
+
+2
+
+W1 − W3 =
+
+W1 − W3 = 2(cid:112)πσ2
+
+4πσ2
+
+
+
+
+(17)
+
+2.f Solutions
+
+This subsection will be devoted to ﬁnding the closed form solutions for the prizes. Any precise solutions
+
+for speciﬁc functions are entirely absent in Lazear and Rosen (1981) and others, including Akerlof and
+
+Holden (2012), because the researches tend to solve most general models, do not specify any distribution
+
+for individual utility and cost of eﬀort functions, often use approximations and simulations, while this
+
+paper has an advantage of showing and analyzing results explicitly using concrete functional forms for
+
+the utility and cost of eﬀort.
+
+Substituting the spread into (IC.1) we get optimal eﬀort:
+
+e∗ =
+
+(W1 − W3) =
+
+2(cid:112)πσ2
+
+a
+
+
+
+2(cid:112)πσ2
+
+a
+
+
+
+2(cid:112)πσ2
+
+ = a
+
+(18)
+
+This is a new result, that apparently can be attributed to this paper: when agents are risk-neutral and
+
+homogeneous, the optimal level of eﬀort for each agent is equal to her ability.
+
+Substituting W1 − W3 from (17) back into (IR.1), we get a relationship between W1 and W2:
+
+(2(cid:112)πσ2
+ )2 − (W1 + W1 − 2(cid:112)πσ2
+ − 2(W1 −(cid:112)πσ2
+− 2(W1 −(cid:112)πσ2
+
+4πσ2
+
+ ) =
+
+ )
+
+3a
+8πσ2
+
+3a
+8πσ2
+
+3a
+2
+
+ ) =
+
+W2 = 3u +
+
+= 3u +
+
+= 3u +
+
+(19)
+
+In the setup we speciﬁed that W2 = αW1 + (1 − α)W3, where 0 ≤ α ≤ 1, so from (17) and (18), we get
+the following system of equations:
+
+W3 = W1 − 2(cid:112)πσ2
+
+
+
+αW1 + (1 − α)W3 = 3u + 3a
+
+2 − 2(W1 −(cid:112)πσ2
+
+ )
+
+(1 − α)W3 = 3u +
+(1 − α)W3 = 3u +
+3u + 3a
+
+W3 =
+
+− 2(W1 −(cid:112)πσ2
++ 2(cid:112)πσ2
+2 + 2(cid:112)πσ2
+
+3a
+2
+3a
+2
+
+(1 − α)
+
+ − (2 + α)W1
+
+ ) − αW1 ⇒
+ − (2 + α)W1 ⇒
+
+10
+
+So W1 is:
+
+So W3 is:
+
+And W2 is:
+
+ =
+
+3u + 3a
+
+ ) = 3u +
+
+(1 − α)
+
+2 + 2(cid:112)πσ2
+W1 − 2(cid:112)πσ2
++ 2(cid:112)πσ2
+(1 − α)(W1 − 2(cid:112)πσ2
+(1 − α + 2 + α)W1 = (1 − α)2(cid:112)πσ2
+3W1 = (2 − α)2(cid:112)πσ2
+(2 − α)(cid:112)πσ2
+
+ + 3u +
+3a
+2
+
+ + 3u +
+
+3a
+2
+
+ + u +
+
+a
+2
+
+W1 =
+
+2
+3
+
+ − (2 + α)W1
+
+⇒
+
++ 2(cid:112)πσ2
+
+ − (2 + α)W1 ⇒
+ ⇒
+3a
+2
+⇒
+
+(2 − α)(cid:112)πσ2
+(1 + α)(cid:112)πσ2
+
+W3 =
+
+2
+3
+W3 = − 2
+3
+
+ + u +
+
+ + u +
+
+a
+2
+
+− 2(cid:112)πσ2
+
+ ⇒
+
+a
+2
+
+W2 = α2(cid:112)πσ2
+
+(1 + α)(cid:112)πσ2
+
+ − 2
+3
+
+(2α − 1)(cid:112)πσ2
+
+ + u +
+
+a
+2
+
+W2 =
+
+2
+3
+
+ + u +
+
+⇒
+
+a
+2
+
+(20)
+
+(21)
+
+(22)
+
+Summing (19), (20) and (21), we ﬁnd that the total payment principal makes to agents is independent
+of α, it does not matter neither for the agents nor for the principal whether W2 is set equal to W1 or W3. If
+the principal set α = 0, the resulted prizes would be W1 = 4
+ + u + a
+2 .
+3
+We can see that each prize includes a base payment, consisting of agent’s reservation utility and some
+
+2 , W2 = W3 = − 2
+
+ + u + a
+
+(cid:112)πσ2
+
+(cid:112)πσ2
+
+3
+
+compensation for the eﬀort (equal to ability), and a ”fee” increasing in volatility of production. This
+
+results is exactly the one described by Lazear and Rosen (1981), so we can conclude that their ﬁndings
+
+are robust to the drop of zero-proﬁt assumption.
+
+Summarizing the ﬁndings of this section, we see that in the game with three homogeneous risk-neutral
+
+agents, all agents choose to apply the same eﬀort, only taking into account the spread between the ﬁrst
+
+and the last price, this optimal eﬀorts turns out to be equal the agent’s ability. The setting does not allow
+
+to identify the unique structure of the prizes, but a continuum of such structures. Taking one numerical
+
+example we saw, that in this kind of game the optimal compensation can be viewed as consisting of the
+
+basic payment and a bonus or penalty depending on the rank, which reminds as of the cardinal tournament
+
+compensation scheme.
+
+11
+
+3 The Rank-Order Tournament with 3 Risk-Averse Agents
+
+3.a Setup
+
+In this section quite unrealistic assumption that agents are rick-neutral is revised and instead agents
+
+are assumed to be risk-averse. For the analysis of this case a widely used in literature (e.g. in Lazear and
+
+Rosen (1981), Marinakis and Tsoulouhas (2013)), so called CARA utility function, function that posses
+
+constant absolute risk aversion, is chosen, so the utility for agent i is now:
+
+(cid:18)
+
+−r
+
+(cid:19)(cid:19)
+
+(cid:18)
+wi − e2
+i
+2a
+
+(23)
+
+u(wi, ei) = −exp
+
+The rest of the setup duplicates that of 2.a.
+
+3.b Probabilities
+
+This section does not change from 2.b, as the only modiﬁed assumption is the utility function and the
+
+form of the utility function does not aﬀect probabilities, so P1, P2 and P3 are identical to 2.b.
+
+3.c
+
+Incentive Compatibility
+
+Just as in case with risk-neutral players, the principal needs to ﬁnd the expected utility for agent i,
+
+which is a little more complicated now:
+
+(cid:18)
+
+(cid:19)(cid:19)
+
+(cid:18)
+(cid:19)(cid:19)
+W1 − e2
+i
+2a
+P1 − exp
+
+(cid:18)
+
+EU = −exp
+
+−r
+
+(cid:18)
+
+(cid:18)
+
+= −exp
+
+−r
+
+W1 − e2
+i
+2a
+
+(cid:18)
+
+(cid:18)
+
+(cid:19)(cid:19)
+
+(cid:18)
+
+(cid:18)
+
+P1 − exp
+
+−r
+
+(cid:18)
+
+−r
+
+W2 − e2
+i
+2a
+
+P2 − exp
+
+(cid:19)(cid:19)
+W2 − e2
+i
+2a
+(1 − P1 − P3) − exp
+
+−r
+
+(cid:18)
+
+−r
+
+(cid:18)
+W3 − e2
+i
+2a
+
+W3 − e2
+i
+2a
+
+(cid:19)(cid:19)
+(cid:19)(cid:19)
+
+P3 =
+
+P3 (24)
+
+The principal maximizes the agent’s expected utility (24) with respect to ei to ﬁnd the optimal eﬀort
+
+for any values of W1, W2 and W3. First order condition is:
+
+(cid:18)
+(cid:18)
+(cid:18)
+
+−r
+
+−r
+
+−r
+
+(cid:18)
+(cid:18)
+(cid:18)
+
+W1 − e2
+i
+2a
+W2 − e2
+i
+2a
+W3 − e2
+i
+2a
+
+(cid:19)(cid:19)(cid:16) r
+(cid:19)(cid:19)(cid:16) r
+(cid:19)(cid:19)(cid:16) r
+
+a
+
+a
+
+a
+
+(cid:17)
+(cid:17)
+(cid:17)
+
+ei
+
+ei
+
+ei
+
+− exp
+
+− exp
+
+− exp
+
+∂EU
+∂ei
+
+= 0
+
+(cid:18)
+
+(cid:18)
+
+(cid:18)
+
+⇔
+−r
+
+(cid:18)
+
+−r
+⇔
+
+P1 − exp
+
+P3 − exp
+
+(1 − P1 − P3) − exp
+
+−
+
+(cid:19)(cid:19) ∂P1
+(cid:18)
+(cid:19)(cid:19) ∂P3
+
+∂ei
+
+∂ei
+
+W2 − e2
+i
+2a
+
+= 0
+
+(cid:19)(cid:19)
+
+(− ∂P1
+∂ei
+
+− ∂P3
+∂ei
+
+)−
+
+(cid:18)
+W1 − e2
+i
+2a
+−r
+
+W3 − e2
+i
+2a
+
+12
+
+(cid:18)
+(cid:18)
+(cid:18)
+
+(cid:18)
+(cid:18)
+(cid:18)
+
+−r
+
+−r
+
+−r
+
+− exp
+
+− exp
+
+− exp
+
+W1 − e2
+i
+2a
+W2 − e2
+i
+2a
+W3 − e2
+i
+2a
+
+(cid:19)(cid:19)(cid:20) r
+(cid:19)(cid:19)(cid:20) r
+(cid:19)(cid:19)(cid:20) r
+
+a
+
+a
+
+a
+
+(cid:21)
+
+−
+
+eiP1 +
+
+∂P1
+∂ei
+
+(cid:21)
+
+ei(1 − P1 − P3) −
+
+eiP3 +
+
+∂P3
+∂ei
+
+= 0
+
+(cid:18) ∂P1
+
+∂ei
+
++
+
+∂P3
+∂ei
+
+(cid:19)(cid:21)
+
+−
+
+(25)
+
+Just as in the case with risk-neutral agents, if the Cournot-Nash assumptions are satisﬁed, then
+
+ei = ej = ek = e∗ in equilibrium and thus P1 = P2 = P3 = 1
+Substituting equilibrium conditions and (12)-(14) into (25), we get the optimal eﬀort:
+
+3 . In equilibrium ∂P1
+∂ei
+
+= − ∂P3
+
+∂ei
+
+.
+
+(cid:18)
+(cid:18)
+(cid:18)
+
+(cid:18)
+(cid:18)
+(cid:18)
+
+−r
+
+−r
+
+−r
+
+(cid:19)(cid:19)(cid:20) r
+(cid:19)(cid:19)(cid:20) r
+(cid:19)(cid:19)(cid:20) r
+
+a
+
+a
+
+a
+
+W1 − e2
+i
+2a
+W2 − e2
+i
+2a
+W3 − e2
+i
+2a
+(cid:21)
+⇔
+
+− exp
+
+− exp
+
+− exp
+
+(cid:20) r
+
+ei
+
+ei
+
+ei
+
+1
+3
+1
+3
+1
+3
+
+(cid:104) r
+
+∂P1
+∂ei
+
++
+
+(cid:21)
+
+−
+
+− ∂P1
+∂ei
+
+(cid:105)
+
+(cid:21)
+
+−
+
+(cid:21)
+
+= 0
+
+(cid:16) r
+
+2a
+
+e2
+i
+
+−exp
+
+(cid:17)(cid:20)
+
+exp (−rW1)
+
+ei +
+
+3a
+
+∂P1
+∂ei
+
++ exp (−rW2)
+
++ exp (−rW3)
+
+ei
+
+3a
+
+ei − ∂P1
+∂ei
+
+exp (−rW1)
+
+ei +
+
+∂P1
+∂ei
+
+3a
+
++ exp (−rW3)
+
+ei − ∂P1
+∂ei
+
+3a
+
+= 0
+
+(cid:20) r
+
+(cid:21)
+
+(cid:105)
+
+ei
+
+(cid:104) r
+
+3a
+
+⇔
++ exp (−rW2)
+⇔
+
+(cid:21)(cid:21)
+
+= 0
+
+(cid:20) r
+
+3a
+
+(cid:21)
+
+(cid:20) r
+
+r
+3a
+
+ei (exp (−rW1) + exp (−rW2) + exp (−rW3)) +
+
+⇔
+
+(exp (−rW1) − exp (−rW3)) = 0
+
+∂P1
+∂ei
+
+ei (exp (−rW1) + exp (−rW2) + exp (−rW3)) = −g(0) (exp (−rW1) − exp (−rW3))
+
+r
+3a
+
+g(0) (exp (−rW1) − exp (−rW3))
+
+exp (−rW1) + exp (−rW2) + exp (−rW3)
+
+g(0) (exp (−rW1) − exp (−rW3))
+
+exp (−rW1) + exp (−rW2) + exp (−rW3)
+
+⇔
+
+⇔
+
+⇔
+
+ei = −
+
+r
+3a
+
+e∗ = − 3a
+r
+
+e∗ = − 3a
+
+2r(cid:112)πσ2
+
+
+
+exp (−rW1) − exp (−rW3)
+
+exp (−rW1) + exp (−rW2) + exp (−rW3)
+
+(IC.2)
+
+This incentive-compatibility constraint tells us that, in contrast with a case of risk-neutral agents, the
+
+intermediate prize now does matter for the risk-averse agent when she chooses how hard to work her whole
+
+life. Again, despite the diﬀerent approaches, this result is consistent with analysis for just two agents in
+Lazear and Rosen (1981). This result in itself is important because, although Lazear and Rosen (1981)
+
+ﬁnd that for two risk-averse agents it is the wages themselves, not the spread matter, it was not clear
+
+whether the second prize would have inﬂuence on agent’s decision for 3 agents or not. This paper ﬁnds
+
+13
+
+that it does. The intuition behind it may be that under risk-aversion, the expected payment is not equal
+
+to the expected utility of that payment and agents prefer a more certain income.
+
+3.d Individual Rationality
+
+As in the case with risk-neutral players, compensation scheme must satisfy individual rationality
+
+constraint, i.e. result in the expected utility no less than agent’s reservation utility:
+
+EU ≥ u
+
+Again, I assume that the principal has all the bargaining power and wants to insure participation at the
+
+least costs, so the agent is left with no rents and individual rationality constraint holds with an equality:
+
+(cid:18)
+
+−r
+
+EU = −exp
+
+(cid:18)
+W1 − e2
+i
+2a
+(cid:17)
+(cid:16) r
+
+e2
+i
+
+2a
+
+(cid:19)(cid:19)
+
+P1 − exp
+
+(cid:18)
+
+(cid:18)
+
+EU = u ⇔
+−r
+
+W2 − e2
+i
+2a
+⇔
+
+(cid:19)(cid:19)
+
+P2 − exp
+
+(cid:18)
+
+−r
+
+(cid:19)(cid:19)
+
+(cid:18)
+W3 − e2
+i
+2a
+
+P3 = u
+
+−exp
+
+(exp (−rW1) P1 + exp (−rW2) P2 + exp (−rW3) P3) = u
+
+exp (−rW1) P1 + exp (−rW2) P2 + exp (−rW3) P3 = −
+
+exp (−rW1)
+
+1
+3
+
++ exp (−rW2)
+
+⇔
++ exp (−rW3)
+⇔
+
+1
+3
+
+1
+3
+
+exp (−rW1) + exp (−rW2) + exp (−rW3) = −
+
+(cid:1)
+
+u
+2a e2
+i
+
+exp(cid:0) r
+exp(cid:0) r
+(cid:1)
+exp(cid:0) r
+
+3u
+2a e2
+i
+
+u
+2a e2
+i
+
+(cid:1)
+
+= −
+
+⇔
+
+(cid:18)
+
+(IR.2)
+
+(cid:19) =
+
+(26)
+
+Substituting e∗ from (IC.2) into (IR.2), we have the following equation:
+
+exp (−rW1) + exp (−rW2) + exp (−rW3) = −
+
+= −
+
+exp
+
+(cid:16) 9a
+
+8rπσ2
+
+
+3.e Proﬁt Maximization
+
+exp
+
+√
+2a (− 3a
+
+r
+
+2r
+
+πσ2
+
+
+3u
+exp(−rW1)−exp(−rW3)
+
+exp(−rW1)+exp(−rW2)+exp(−rW3) )2
+
+3u
+
+(exp(−rW1)−exp(−rW3))2
+
+(exp(−rW1)+exp(−rW2)+exp(−rW3))2
+
+(cid:17)
+
+As shown in the Appendix 2, there is no closed-form explicit solution for the proﬁt maximization
+
+problem for the case with 3 risk-averse agents.
+
+3.f Results
+
+Although the case when the principal signs a contract with three risk-averse agents, instead of risk-
+
+neutral, does not have an explicit solution for the chosen utility function and for the simpler one (see
+
+14
+
+Appendix 1), we can gain some insights by using advanced optimization techniques that will give as
+approximate optimal values of W1, W2 and W3, for diﬀerent values of parameters we get the results
+presented in Table 1.
+
+Table 1. Constant Absolute Risk Aversion
+
+σ2
+ = 0.1
+Ability (a) Risk-Aversion (r) W1
+
+σ2
+ = 0.5
+Ability (a) Risk-Aversion (r) W1
+
+5
+
+5
+
+10
+
+10
+
+1
+
+2
+
+1
+
+2
+
+5
+
+5
+
+10
+
+10
+
+1
+
+2
+
+1
+
+2
+
+5
+
+5
+
+10
+
+10
+
+1
+
+2
+
+1
+
+2
+
+158.2426
+
+W2
+-303.8109
+
+W3
+-353.2793
+
+135.7474
+
+-143.3160
+
+-176.8977
+
+160.6809
+
+-306.2753
+
+-353.2221
+
+134.5159
+
+-142.2186
+
+-176.6396
+
+145.8577
+
+W2
+-291.5832
+
+W3
+-354.2535
+
+134.1776
+
+-142.9689
+
+-177.1268
+
+159.1269
+
+-305.3333
+
+-353.9070
+
+134.1776
+
+-142.9689
+
+-177.1268
+
+147.3952
+
+W2
+-295.0908
+
+W3
+-354.6001
+
+131.0489
+
+-139.6012
+
+-177.4457
+
+145.8577
+
+-291.5832
+
+-354.2535
+
+139.1595
+
+-144.5657
+
+-177.3001
+
+σ2
+ = 1
+Ability (a) Risk-Aversion (r) W1
+
+Everywhere in the Table 1 u = −1, starting values for W1, W2 and W3 are [100 100 100].
+
+Table 1 shows an interesting result: for diﬀerent values of ability, risk-aversion and production volatility,
+
+coming from idiosyncratic risks, prize for the ﬁrst place is always positive, but the prizes for second and
+
+third are actually negative, usually an agents pays a greater sum for not winning and even greater for
+
+loosing, than the sum she gets for winning the tournament!
+
+To summarize, there are two main learnings from the work on this section. The ﬁrst one is that when
+agents are averse towards risk, their choice of the optimal level of eﬀort does depend on all the prizes W1,
+W2 and W3, not just the spread between the ﬁrst and the last prize. This does not contradict Lazear and
+Rosen (1981). And the second is that optimal wages structure suggest that winner gets positive prize,
+
+while looser have to pay for their loss.
+
+15
+
+4 The Rank-Order Tournament with N Risk-Neutral Agents
+
+4.a Setup
+
+In their prominent paper Lazear and Rosen (1981) describe a tournament for just 2 players, while
+
+this paper went further and attempted to analyze ordinal tournament with 3 contestants, main challenge
+
+was to conﬁrm ﬁndings for 2-3 players taking N agents. Malcomson (1986) took the case of a continuum
+
+of agents to compare piece rates and rank-order tournaments, but focused on the performance of agents
+
+not being public information aﬀecting the relative optimum of the two schemes. Just lately, Akerlof
+
+and Holden (2012) performed an extensive analysis of this case, though not providing a wage structure
+
+speciﬁcally. This section attempts to do a similar analysis, assuming though that agents are discrete, and
+
+describes diﬃculties that arise. So taking a simpler case with risk-neutral players, the setup here is the
+
+same as in 2.a, but the number of agents is N.
+
+Under the ordinal tournament the wage received by the agent i depends on the rank of xi:
+
+
+
+W1
+
+W2
+...
+Wn
+
+if xi > xj ∀i (cid:54)= j
+
+if xi < xj ∀i (cid:54)= j
+
+(27)
+
+wi =
+
+where W1 ≥ W2 ≥ ... ≥ Wn.
+
+4.b Probabilities
+
+The principal wants to ﬁnd the the expected utility and maximize it to ﬁnd the eﬀort level that the
+
+agent i will chooses.
+
+EU = W1P1 + W2P2 + ... + WnPn − e2
+i
+2a
+
+=
+
+(28)
+
+n(cid:88)
+
+s=1
+
+=
+
+WsPs − e2
+i
+2a
+
+To calculate the expected utility for the agent i we need the probability of each payoﬀ:
+
+P (Rank First) = P1 = P (xi > xj and xi > xk and xi > xf , etc)
+
+...
+
+P (Rank N) = Pn = P (xi < xj and xi < xk and xi < xf , etc)
+
+16
+
+Unfortunately, there exist no compact representations for this probabilities:
+
+P1 = Fi−j ,...,i−k (ei − ej, . . . , ei − ek) =
+
+(cid:90) ei−ej
+(cid:124)
+
+−∞
+
+(cid:90) ei−ek
+(cid:125)
+
+−∞
+
+. . .
+
+(cid:123)(cid:122)
+
+n times
+
+=
+
+fi−j ,...,i−k (s, . . . , t)ds, . . . , dt
+
+Obviously, probabilities must sum up to 1:
+
+P1 + P2 + ... + Pn = 1 ⇒
+
+n(cid:88)
+
+Ps = 1
+
+Taking full diﬀerential of (30) wrt ei, we get:
+
+s=1
+
+∂P1
+∂ei
+
++
+
++ ... +
+
+= 0 ⇒
+
+∂Pn
+∂ei
+
+∂P2
+∂ei
+
+n(cid:88)
+
+s=1
+
+∂Ps
+∂ei
+
+= 0
+
+(29)
+
+(30)
+
+(31)
+
+As discussed in more detail in 2.c, the relationship among these marginal probabilities is as follows
+
+depends on symmetry on the underlying distribution and whether the number of agents is odd or even.
+
+4.c
+
+Incentive Compatibility
+
+To ensure that the compensation scheme is incentive-compatible, the principal maximizes expected
+
+utility of each agent (28) with respect to eﬀort level ei. First order condition is:
+
+∂EU
+∂ei
+
+= 0 ⇔
+
+W1
+
+∂P1
+∂ei
+
++ W2
+
+∂P2
+∂ei
+
++ ... + Wn
+
+∂Pn
+∂ei
+
+− ei
+a
+
+= 0
+
+(32)
+
+If the Cournot-Nash assumptions are satisﬁed, then ei = ej = ek = e∗ in equilibrium and thus ex-post
+probabilities are equal in equilibrium, i.e. P1 = P2 = ... = Pn = 1
+n .
+
+With N players, we can not explicitly derive values of marginal probabilities in a form we derived then
+
+in 2.c, nor can we understand the relationship between them beyond the point already mentioned. This
+
+is the main obstacle on our way in this section. We can not conclude whether optimal eﬀort depends only
+
+on the spread between the ﬁrst and the last prize, or on each prize in the scheme:
+
+e∗ = a(W1
+
+∂P1
+∂ei
+
++ W2
+
+∂P2
+∂ei
+
++ ... + Wn
+
+∂Pn
+∂ei
+
+)
+
+(IC.3)
+
+4.d Individual Rationality
+
+To satisfy individual rationality constraint, the principal also needs to take into account that the
+
+optimal compensation scheme must ensure expected utility (28) at least equal to agent’s reservation
+
+17
+
+utility u:
+
+EU ≥ u
+
+Once again, I assume that the principal has all the bargaining power and wants to insure participation
+
+at the least costs, so the agent is left with no rents and individual rationality constraint holds with an
+
+equality:
+
+EU = u
+
+⇔
+
+WsPs − e2
+i
+2a
+
+= u
+
+n(cid:88)
+
+s=1
+
+(33)
+
+Substituting equilibrium conditions and e∗ from (IC.3), we get the following expression:
+
+n(cid:88)
+
+s=1
+
+1
+n
+
+n(cid:88)
+
+s=1
+
+Ws − (a(W1
+
+∂P1
+∂ei
+
++ W2
+
+∂P2
+∂ei
+2a
+
++ ... + Wn
+
+∂Pn
+∂ei
+
+))2
+
+= u
+
+Ws =
+
+an
+2
+
+((W1
+
+∂P1
+∂ei
+
+⇔
+∂P2
+∂ei
+
++ W2
+
++ ... + Wn
+
+∂Pn
+∂ei
+
+))2 + nu
+
+(IR.3)
+
+4.e Proﬁt Maximization
+
+The principal’s expected proﬁt is again:
+
+EΠ = Exi + . . . + Exk − n(cid:88)
+= n(e∗ + a) − n(cid:88)
+
+s=1
+
+Ws
+
+s=1
+
+Ws =
+
+(34)
+
+Substituting e∗ from (IC.3) and(cid:80)n
+
+s=1 Ws from (IR.3), the expression for expected proﬁt becomes:
+
+EΠ = na(W1
+
+∂P1
+∂ei
+
++ W2
+
+∂P2
+∂ei
+
++ ... + Wn
+
+∂Pn
+∂ei
+
+) + na − an
+2
+
+((W1
+
+∂P1
+∂ei
+
++ W2
+
+∂P2
+∂ei
+
++ ... + Wn
+
+∂Pn
+∂ei
+
+))2 + nu
+
+(35)
+
+Maximization of total expected proﬁt (35) with respect to a set of wages W1,. . .,Wn does not help us
+determine the optimal compensation scheme.
+
+4.f Results
+
+The objective of this section was to see whether a striking result that risk-neutral players take into
+
+account only the spread between the ﬁrst and the last prize that was discovered by Lazear and Rosen
+
+(1981) for the game with two players and conﬁrmed for the one with three in 2.c of this paper, will hold
+
+for more general setting with N agents. It appears from the above analyzes that the answer is not clear
+
+and depends on the relationship between the marginal probabilities.
+
+18
+
+5 Conclusions
+
+This paper was based mainly on the famous work of Lazear and Rosen (1981), that eﬀectively es-
+tablished the theory of rank-order tournaments. It was developed in parallel with more recent work of
+
+Akerlof and Holden (2012), though having slightly diﬀerent objectives.
+
+Lazear and Rosen started their article by stating that: ”It is a familiar proposition that under com-
+
+petitive conditions workers are paid the value of their marginal products.” So the assumption of perfect
+
+competition is vital to their work. What this research had as its purpose was relaxing the assumption of
+
+perfect competition and letting the principal enjoy economic proﬁts. This led to view of the tournament
+
+as a non-cooperative game and required choosing backwards induction as the method for solving it. In
+
+this regard the main ﬁnding is that imposition of a perfect competition in the market for the agent’s
+
+output was not crucial to the validity of results: all of the ﬁndings are consistent with a view of Lazear
+
+and Rosen (1981).
+
+Another objective of this research was obtaining closed-form solutions for the prize-structure using
+
+speciﬁc utility and cost of eﬀort functions for the agents, instead of the general form and Taylor approxi-
+
+mations used in the original paper. It turned out that it was only possible to so for the case with three
+
+risk-neutral agents, found solutions provide some further insights into the theory of tournaments and will
+
+be discussed in more detail below.
+
+Next area for this research was proving that results that were shown by Lazear and Rosen (1981) for
+
+the contract with two risk-neutral agents would hold for three. The ﬁnding that in the ordinal tournament
+
+with two risk-neutral players when choosing the optimum level of eﬀort agents only take into consideration
+
+the spread between the ﬁrst and the last prize is conﬁrmed in this paper for the game with three risk-
+
+neutral agents and relaxed zero-proﬁt assumption inherent to the analysis of Lazear and Rosen (1981)
+
+and some of their followers. This ﬁnding is important because Lazear and Rosen basically stated that
+
+when there two prizes, the spread between them matter, but what if there were more prizes? Would it be
+
+spreads between successive prizes that matters? For three players it appear that only the spread between
+
+the ﬁrst and last one matters. Moreover, another result that deserves attention and seems unique to this
+
+paper and was not possible to notice in Lazear and Rosen (1981), because the production function in
+
+their research did not include ability of the agent, is that the agent chooses the optimal eﬀort level simply
+
+equal to her ability.
+
+Although it was not possible to ﬁnd an explicit solution to the game with three risk-averse agents,
+the main result of the case when agents care for risks is that the optimum level of eﬀort they choose now
+
+deﬁnitely depends on all the prizes values, not just the spread between ﬁrst and the last one as in the
+
+case with risk-neutral agents. This is again in line with analysis by Lazear and Rosen (1981).
+
+The last goal of this work was to see whether a striking result that risk-neutral players take into
+
+account only the spread between the ﬁrst and the last prize that was discovered by Lazear and Rosen
+
+(1981) for the game with two players and conﬁrmed for the one with three in 2.c of this paper, will hold
+
+for more general setting with N agents. It appears from the above analyzes that the answer is not clear
+
+and depends on the relationship between the marginal probabilities.
+
+Summarizing it all, this paper conﬁrmed most of the results of Lazear and Rosen (1981) it chose for
+
+exploring along with ﬁnding some new and facing obstacles not mentioned in the original paper, but also
+
+described in detail on Akerlof and Holden (2012).
+
+19
+
+References
+
+[1] Akerlof, R., Holden, R., 2012. The nature of tournaments Economic Theory, October 2012, Volume
+
+51, Issue 2, pp 289-313
+
+[2] Bull, C., Schotter, A., Weigelt, K., 1987. Tournaments and Piece Rates: An Experimental Study.
+
+Journal of Political Economy, Vol. 95, No. 1 (Feb., 1987), pp. 1-33
+
+[3] Drago, R., Heywood, J., 1989. Tournaments, Piece Rates, and the Shape of the Payoﬀ Function.
+
+Journal of Political Economy, Vol. 97, No. 4 (Aug., 1989), pp. 992-998
+
+[4] Holmstr¨om, B., 1982. Moral Hazard in Teams. The Bell Journal of Economics, Vol. 13, No. 2 (Au-
+
+tumn, 1982), pp. 324-340
+
+[5] Green, J., Stokey, N., 1983. A Comparison of Tournaments and Contracts. Journal of Political
+
+Economy, Vol. 91, No. 3 (Jun., 1983), pp. 349-364
+
+[6] Lazear, E., 1986. Salaries and Piece Rates. The Journal of Business, Vol. 59, No. 3 (Jul., 1986), pp.
+
+405-431
+
+[7] Lazear, E., Rosen, S., 1981. Rank-order tournaments as optimum labor contracts. Journal of Political
+
+Economy 89, pp. 841-64.
+
+[8] Malcomson, J., 1986. Rank-Order Contracts for a Principal with Many Agents. The Review of Eco-
+
+nomic Studies, Vol. 53, No. 5 (Oct., 1986), pp. 807-817
+
+[9] Marinakis, K., Tsoulouhas T., 2013. Are Tournaments Optimal over Piece Rates under Limited
+
+Liability for the Principal? International Journal of Industrial Organization 31(3) (2013), pp. 223-
+
+237.
+
+[10] Mirrlees, J., 1976 The Optimal Structure of Incentives and Authority within an Organization. The
+
+Bell Journal of Economics, Vol. 7, No. 1 (Spring, 1976), pp. 105-131
+
+[11] Nalebuﬀ, B., Stiglitz, J., 1983. Prizes and Incentives: Towards a General Theory of Compensation
+
+and Competition. The Bell Journal of Economics, Vol. 14, No. 1 (Spring, 1983), pp. 21-43
+
+[12] Stiglitz, J., 1975. Incentives, Risk , and Information: Notes Towards a Theory of Hierarchy. The Bell
+
+Journal of Economics, Vol. 6, No. 2 (Autumn, 1975), pp. 552-579
+
+20
+
+Appendices
+
+A Appendix 1
+
+Another function popular in literature is a utility function, characterized by declining absolute risk
+
+aversion (DARA):
+
+u(wi, ei) = r(wi − e2
+i
+2
+
+)r
+
+The expected utility for agent i in the tournament for 3 agents under the above speciﬁcation is:
+
+EU = r(W1 − e2
+i
+2
+
+)rP1 + r(W2 − e2
+i
+2
+
+)rP2 + r(W3 − e2
+i
+2
+
+)rP3
+
+(36)
+
+(37)
+
+Maximizing the expected utility for agent i (37) with respect to eﬀort, ei, we get the following ﬁrst order
+condition:
+
+(cid:18)
+(cid:18)
+(cid:18)
+
+W1 − e2
+i
+2
+W2 − e2
+i
+2
+W3 − e2
+i
+2
+(cid:19)(r−1)
+(cid:19)(r−1)
+(cid:19)(r−1)
+
+(cid:19)(r−1)
+(cid:19)(r−1)
+(cid:19)(r−1)
+
++ r
+
++ r
+
++ r
+
+(−r2eiP1 + r
+
+(−r2eiP2 + r
+
+(−r2eiP3 + r
+
+(cid:18)
+(cid:18)
+(cid:18)
+
+W1 − e2
+i
+2
+W2 − e2
+i
+2
+W3 − e2
+i
+2
+(cid:18)
+(cid:18)
+(cid:18)
+
+W1 − e2
+i
+2
+W2 − e2
+i
+2
+W3 − e2
+i
+2
+
+(cid:19)r ∂P1
+(cid:19)r ∂P2
+(cid:19)r ∂P3
+
+∂ei
+
+∂ei
+
+∂ei
+
+−
+
+−
+
+= 0
+
+∂ei
+
+(cid:19) ∂P1
+(cid:19) ∂P2
+(cid:19) ∂P3
+
+∂ei
+
+∂ei
+
+)−
+
+)−
+
+) = 0
+
+∂EU
+∂ei
+
+= − r2eiP1
+
+− r2eiP2
+
+− r2eiP3
+
+Rearranging further:
+
+∂EU
+∂ei
+
+=
+
+(cid:18)
+W1 − e2
+(cid:18)
+i
+2
+W2 − e2
+(cid:18)
+i
+2
+W3 − e2
+i
+2
+
+(38)
+
+(39)
+
+So, from (39) we can clearly see that we will not be able to present an analytical solution for the optimal
+
+eﬀort and thus it was decided not to proceed with this speciﬁcation.
+
+B Appendix 2
+
+The principals expected proﬁt is again:
+
+EΠ = Exi + Exj + Exk − W1 − W2 − W3 =
+
+= 3(e∗ + a) − W1 − W2 − W3
+
+21
+
+Substituting e∗ from (IC.2), the expression for expected proﬁt becomes:
+
+EΠ = − 9a
+
+2r(cid:112)πσ2
+
+
+
+exp (−rW1) − exp (−rW3)
+
+exp (−rW1) + exp (−rW2) + exp (−rW3)
+
++ 3a − W1 − W2 − W3
+
+Given (26) and (28), the principal faces the following constrained optimization problem now, whereby
+
+she maximizes proﬁts subject to individual rationality constraint:
+
+EΠ = − 9a
+
+2r(cid:112)πσ2
+
+
+
+maximize
+W1,W2,W3
+
+exp (−rW1) − exp (−rW3)
+
+exp (−rW1) + exp (−rW2) + exp (−rW3)
+
++ 3a − W1 − W2 − W3
+
+subject to exp (−rW1) + exp (−rW2) + exp (−rW3) = −
+
+exp
+
+3u
+
+(exp(−rW1)−exp(−rW3))2
+
+(exp(−rW1)+exp(−rW2)+exp(−rW3))2
+
+(cid:16) 9a
+
+8rπσ2
+
+
+(cid:17)
+
+Which can be simpliﬁed to:
+
+EΠ = − 9a
+
+2r(cid:112)πσ2
+
+
+
+maximize
+W1,W2,W3
+
+maximize
+W1,W2,W3
+
+EΠ =
+
+2ru(cid:112)πσ2
+
+3a
+
+
+
+−
+
+(cid:18)
+
+exp
+
+exp (−rW1) − exp (−rW3)
+(exp(−rW1)−exp(−rW3))2
+⇔
+
+3u
+
+(exp(−rW1)+exp(−rW2)+exp(−rW3))2
+
+9a
+
+8rπσ2
+
+
+(cid:18) 9a
+
+8rπσ2
+
+
+(exp (−rW1) − exp (−rW3))exp
+
++3a − W1 − W2 − W3
+
+(cid:19) + 3a − W1 − W2 − W3
+
+(exp (−rW1) − exp (−rW3))2
+
+(exp (−rW1) + exp (−rW2) + exp (−rW3))2
+
+(cid:19)
+
++
+
+For the sake of manageability of calculations, let as introduce some simplifying notation
+
+and
+
+9a
+
+8rπσ2
+
+
+= C. Then the ﬁrst of the three ﬁrst order conditions looks like the following:
+
+(cid:18)
+
+√
+
+3a
+
+2ru
+
+πσ2
+
+
+= B
+
+(cid:19)
+
+(cid:18)
+
+·
+
+2C
+
+∂EΠ
+∂W1
+
+∂EΠ
+∂W1
+
+= −Brexp (−rW1) exp
+
+B(exp (−rW1) − exp (−rW3))exp
+
+(cid:18)
+
+(exp (−rW1) − exp (−rW3))2
+
+C
+
+(exp (−rW1) + exp (−rW2) + exp (−rW3))2
+
+(exp (−rW1) − exp (−rW3))2
+
+C
+
+(exp (−rW1) + exp (−rW2) + exp (−rW3))2
+
++
+
+(cid:19)
+
+·
+
+−rexp (−rW1) (exp (−rW1) + exp (−rW2) + exp (−rW3)) + rexp (−rW1) (exp (−rW1) − exp (−rW3))
+
+(exp (−rW1) + exp (−rW2) + exp (−rW3))2
+
+⇔
+= −rexp (−rW1) + (exp (−rW1) − exp (−rW3))
+1
+
+(cid:16)
+
+(cid:18)
+
+2C
+
+Bexp
+
+C
+
+(exp(−rW1)−exp(−rW3))2
+
+(exp(−rW1)+exp(−rW2)+exp(−rW3))2
+
+−rexp (−rW1) (exp (−rW2) + 2exp (−rW3))
+(exp (−rW1) + exp (−rW2) + exp (−rW3))2
+(A.1)
+
+(cid:17)
+
+(cid:19)
+
+= 1
+
+(cid:19)
+
+=
+
+22
+
+Then the second of the three ﬁrst order conditions is:
+
+∂EΠ
+∂W2
+
+= B(exp (−rW1) − exp (−rW3))exp
+
+(exp (−rW1) − exp (−rW3))2
+
+C
+
+(exp (−rW1) + exp (−rW2) + exp (−rW3))2
+
+·
+
+2rCexp (−rW2)
+
+(exp (−rW1) − exp (−rW3))2
+
+(exp (−rW1) + exp (−rW2) + exp (−rW3))3
+
+= 1
+
+(cid:18)
+
+(cid:19)
+
+(cid:18)
+
+(cid:19)
+
+·
+
+∂EΠ
+∂W2
+
+= (exp (−rW1) − exp (−rW3))
+
+=
+
+Bexp
+
+Then the third one is:
+
+(exp (−rW1) − exp (−rW3))2
+
+(exp (−rW1) + exp (−rW2) + exp (−rW3))3
+
+(exp(−rW1)−exp(−rW3))2
+
+(exp(−rW1)+exp(−rW2)+exp(−rW3))2
+
+C
+
+⇔
+2rCexp (−rW2)
+1
+
+(cid:18)
+(cid:16)
+
+(cid:18)
+
+C
+
+(cid:19)
+
+=
+
+(A.2)
+
+(cid:19)
+
+=
+
+(A.3)
+
+(cid:17)
+
+(cid:17)
+
+(cid:19)
+
+(cid:18)
+
+·
+
+2C
+
+∂EΠ
+∂W3
+
+∂EΠ
+∂W3
+
+= Brexp (−rW3) exp
+
+B(exp (−rW1) − exp (−rW3))exp
+
+(cid:18)
+
+(exp (−rW1) − exp (−rW3))2
+
+(exp (−rW1) + exp (−rW2) + exp (−rW3))2
+
+(exp (−rW1) − exp (−rW3))2
+
+C
+
+(exp (−rW1) + exp (−rW2) + exp (−rW3))2
+
++
+
+(cid:19)
+
+·
+
+rexp (−rW3) (exp (−rW1) + exp (−rW2) + exp (−rW3)) + rexp (−rW3) (exp (−rW1) − exp (−rW3))
+
+(exp (−rW1) + exp (−rW2) + exp (−rW3))2
+
+(cid:19)
+
+= 1
+
+⇔
+= rexp (−rW3) + (exp (−rW1) − exp (−rW3))
+1
+
+(cid:18)
+
+(cid:16)
+
+Bexp
+
+C
+
+(exp(−rW1)−exp(−rW3))2
+
+(exp(−rW1)+exp(−rW2)+exp(−rW3))2
+
+rexp (−rW3) (2exp (−rW1) + exp (−rW2))
+(exp (−rW1) + exp (−rW2) + exp (−rW3))2
+
+2C
+
+Thus we have a system on three non-linear equations with parameters (A.1), (A.2) and (A.3), for which it
+
+is impossible to ﬁnd an analytical solution, so the solution is to choose reasonable values for the parameters
+
+and use advanced optimization methods in Matlab to gain insights into the relationship between optimal
+values of W1, W2 and W3.
+
+23
+
+

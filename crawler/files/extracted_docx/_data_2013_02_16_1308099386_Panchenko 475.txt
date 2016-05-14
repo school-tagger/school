@@ -1,0 +1,188 @@
+National Research University
+
+Higher School of Economics
+
+
+
+Faculty of Business-informatics
+
+Department of Modeling and optimization of business processes
+
+
+
+
+
+Draft
+
+Of the paper:
+
+“Business Process Analysis of the company “Gazprom Inform”
+
+
+
+
+
+
+
+
+
+
+
+
+
+Student: Panchenko A.S.
+
+Group: 475
+
+Argument Consultant: Chebotarev V.G.
+
+Style and Language Consultant: Podobed K.A.
+
+
+
+
+
+
+
+
+
+	
+
+	2013
+
+
+Abstract.
+
+	This project devoted to an analysis of opportunities to improve business processes of company “Gazprom inform”. Classical ARIS modeling methodology and tool system is used to model the business processes in order to achieve company’s goals. As a result, some recommendations on ways to improve business-processes of the company can be given to the “Gazprom inform”.
+
+
+
+
+Contents
+
+
+
+
+	Introduction
+
+The subject of this study is business-process analysis. Nowadays analysis of business processes is widespread and held in every organization, which wants to improve productivity. … optimization or reengineering can solve various topical problems of the company.
+
+Time makes the difference and nowadays it is important for every organization:
+
+to respond quickly to all market changes;
+
+to work effectively, to supply best price on the market
+
+to introduce innovations in business
+
+to improve the quality of proposed services and products
+
+The goal of business-process analysis of the company “Gazprom inform” is its management improvement. Analysis consists of:
+
+gathering all necessary information about the company
+
+building business-process model and use it
+
+drawing the necessary conclusions about the possible optimization or reorganization of the processes
+
+
+
+	Main terms.
+
+Management Information System (MIS) - a set of information, procedures, personnel, hardware and software, combined adjustable relationship for purposeful activity, Manufacturing, organizational, economic and / or other complex and / or other process.
+
+IT services - a service provided to one or more customers IT services provider. IT service is based on the use of information technology and support customer business processes.
+
+Business process - a series of coherent, repetitive actions, which resulted in the company's resources are used for the processing of the object (physical or virtual) to achieve specific measurable results or products to meet internal and external customers.
+
+Value-added chain diagram (VAD) - describes the organization's processes that create value for customers results processes. These processes form the cost of products and services, the quantity and quality of products.
+
+Process selection diagram (PSD) - shows the various scenarios of a process in accordance with the main process.
+
+Extended event driven process chain (eEPC) - describes the sequence of functional steps (actions) within a single business process. It is used to describe the scenario process and procedures.
+
+	Actuality
+
+	Information technologies were meant as resource of some routine processes automation in the recent passed. Today the situation has changed, and information technologies joined all aspects of society.
+
+In particular, information technologies are used in the administrative and business activities of the companies. These technologies are the main tool for creating competitive advantages, enable you to manage projects, efficiency, risk management. Any company that is committed to growth and a strong position in the market is trying to introduce information technologies to create its information system. The term “information system” is closely linked to the business processes.
+
+Information systems simplify the activities of employees, reduce the time required to carry out the various procedures and work flow of the company. To create an information system, companies have to model business processes, which can then be automated to optimize.
+
+Implementation of information technology provides opportunity to the company to be more flexible to both external and internal factors of influence. The company "Gazprom inform" is engaged in the provision of IT services that support the business processes of "Gazprom" and its subsidiaries.
+
+It should be noted that "Gazprom inform" has been implementing investment projects in the oil and gas industry and the provision of services in the field of information technology. These industries are largest and fastest growing industries in the world. These industries can be characterized by the fact that they have huge amounts of investment, greater market depth and high growth. These features, in turn, make the above-mentioned areas interesting and relevant for consideration.
+
+	About the company
+
+"Gazprom inform" is a subsidiary of "Gazprom". "Gazprom inform" operates in two main areas - the company implements investment projects of "Gazprom", and also provides a service for "Gazprom" and its subsidiaries in the information technology sphere.
+
+"Gazprom inform" produces its IT activities according to Digital Strategy of "Gazprom", which was created for active use of information technology in all the companies of "Gazprom" to maintain the performance of its business objectives.
+
+	Company activities
+
+As has been said, "Gazprom inform" implements investment projects. The company serves the customer, working on a contractual basis with the "Gazprom", which actually is an investor. Among investment projects include the development of:
+
+MIS, which includes the development of a vertically integrated solutions. Such information systems are used both in the administration and in the subsidiaries of OAO "Gazprom".
+
+Objects of information security. These are the hardware and software tools that include a variety of information security systems (computer systems, automated data collection technology, etc.).
+
+Objects of automated process control systems. These are the most complex and costly objects. They include sensor and diagnostic equipment, diagnostic systems, high voltage and low voltage cabling systems, cable racks, boxes, protective equipment, means of linear remote control, automatic control gas compressor units, automatic control gas compressor compressor workshops, control panels, networking and switching equipment, hardware and software systems, workstations, and workstations;
+
+Metrology systems include accounting level, flow, temperature, pressure, weight, speed and flux density, high-voltage and low-voltage cable systems, network and communication equipment, hardware and software systems;
+
+Connection objects include telecommunications equipment, radio communication systems, encryption, cable lines, cable lines, channels, support and overpasses, workstations, control panels, hardware and software systems;
+
+Energy objects that include distributors, automated metering, workstations, hardware and software systems, control panels, electrical power generation systems, power lines.
+
+The second main activity of "Gazprom inform" is providing IT services. These services can be divided into the following groups:
+
+information services of the administration of OAO "Gazprom" and the subsidiaries, as well as to ensure the operation and maintenance of IT systems-level administration;
+
+examination of design, development, implementation and support of information analysis and information-management systems on the platform of SAP;
+
+further streamlining operating processes and IT systems to bring them in line with current regulations, sets the mode and quality parameters;
+
+participation in the implementation of control procedures (audit) compliance processes of implementation and operation of IT systems with the applicable regulations and standards of the enterprise;
+
+participation in the development and implementation of the integration of the IT infrastructure of "Gazprom"
+
+Solutions development of improvement disaster recovery and information security;
+
+participation in the formation and enforcement of unified technical policy in order to optimize the cost of implementation and operation of the components of the IT infrastructure and information systems;
+
+development of appropriate skills and priority resource support the implementation and operation of information systems in line with the in OAO "Gazprom" technical policy and based on the key recognized as 'best in class' platforms (SAP, Oracle, IBM, HP, Sun, Microsoft and others);
+
+upgrade of the equipment and software technologies used (including the replacement of obsolete equipment and software technologies, further operation of which is not possible or appropriate, for technical or economic reasons);
+
+participation in the creation and implementation of sub-systems of information security management information systems in order to standardize the design decisions and improve the security of information resources;
+
+providing constant use of information resources protection and the implementation of measures to maintain a given level of security of the IT infrastructure IVS administration of "Gazprom";
+
+
+
+	The process approach
+
+	After reviewing the company and analyzing its activities it is possible to create the model. The business model is built with the help of a certain methodology.
+
+One of the most common methodologies is ARIS, which embodies the features of different modeling techniques, allowing uniting several points of view on the system in the study.
+
+This particular methodology is based on the concept of integration and includes multiple methods. Among these methods one can distinguish eEPC, ERM, VAD diagrams as well as UML and others. This feature allows describing business models from different points of view, which makes it more complete.
+
+Once the business model is built, it needs to be decomposed to a lower level, as far as one of the main principles of model building is “from the top down”. Respectively the main activities of the “Gazprom inform” company are to be divided into small processes to simplify the further analyses. This corresponds to another principle of process approach modeling – transparency.
+
+In a model VAD diagrams are used to describe the processes of the upper, second and third level. For the process scripts it is common to use eEPC and PSD diagrams. Since the model of “Gazprom inform” business processes will be built based on how they run in the present (the “as is” model), we will need to build another model of how these processes must take place in the ideal (the “to be” model).
+
+Another important condition for business process modeling is the use of reference models, in which the uppers level processes are pre-defined based on the best business practices.
+
+Reference and standard models may be used by the company as a starting point for business process modeling and optimization.
+
+Once the model is completely built and decomposed to the desired level, the next step is analyzing the model. During the analysis it is possible to find the weaknesses of the built model and optimize business processes accordingly, otherwise – rebuild them radically.
+
+	Conclusion
+
+The process approach is an excellent tool to help companies find a solution for either global or minor problems. The identification and the analysis of business processes makes it possible to build the correct model, which in turn gives a clear and complete vision of the company’s activities and allows to shift to the process management.
+
+Such a model is vital to a competent top-management in order to use the company’s structure in the most efficient way. A well-complied model allows to see the best way to achieve company’s goals.
+
+The business processes analysis is key to solving numerous internal problems, improve operations efficiency, reduce risks and costs. A proper business process optimization might enhance company’s flexibility in the changing markets without the negative effect on company’s performance, and in the modern world it is a must.

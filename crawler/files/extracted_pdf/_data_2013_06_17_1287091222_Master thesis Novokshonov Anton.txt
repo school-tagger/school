@@ -1,0 +1,4795 @@
+НАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ УНИВЕРСИТЕТ 
+
+ВЫСШАЯ ШКОЛА ЭКОНОМИКИ 
+
+Международный Институт Экономики и Финансов 
+
+ 
+
+ 
+
+МАГИСТЕРСКАЯ ДИССЕРТАЦИЯ 
+
+по образовательной программе высшего профессионального образования, 
+
+направление 080100.68 Экономика 
+
+ 
+
+на тему: 
+
+Political Connections and Firm Performance  
+
+  
+
+ 
+
+Студент второго курса магистратуры 
+
+ Новокшонов Антон Андреевич 
+
+ 
+
+Научный руководитель 
+
+Шпренгер Карстен 
+
+PhD Economics, доцент 
+
+ 
+
+МОСКВА,  2013 год 
+
+ 
+
+     1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Аннотация  
+
+ 
+
+Дипломная  работа  “Влияние  присутствия  членов  Правительства  в  Правлении 
+
+компании  на  деятельность  компании”  исследует  современные  политические  связи  между 
+
+правительственными  органами  и  корпоративными  компаниями  частного  сектора.  В  работе 
+
+проанализировано  влияние  на  результаты  деятельности  компании  наличия  тесной  связи  с 
+
+высшими государственными органами власти.  
+
+ 
+
+В  процессе  исследования  была  собрана  база  данных  по  бывшим  и  нынешним  членам 
+
+Федеральных  государственных  органов  и  ведущим  менеджерам  и  директорам,  входящим  в 
+
+Советы  Директоров  и  Правлении  компаний.  Общее  число  выборки  составило  5199 
+
+государственных  деятелей  и  1011  директоров  корпоративного  сектора  экономики.  На  ее 
+
+основе  были  найдены  директора  компаний,  руководящие  компанией  и  занимавшие  в 
+
+прошлом  или  занимающие  государственные  должности.  Такие  компании  определены  как 
+
+“политически связанные”. 
+
+ 
+
+В  работе  используется  предпосылка  о  том,  что  близкая  связь  с  государственными 
+
+органами  позволяет  компании  получать  определенные  выгоды  от  этой  связи.  На  ее  основе, 
+
+автором  выдвигается  гипотеза,  что  назначение  политического  деятеля  из  Высших 
+
+государственных  органов  власти  в  руководство  компании  воспринимается  рынком  как 
+
+положительный сигнал и ведет к краткосрочному увеличению стоимости акций. 
+
+ 
+
+В  исследовании  используется  эконометрическая  методология  изучения  событий. 
+
+Совокупные доходности сверх нормы в течение периода около даты назначения тестируются 
+
+на статистическое отличие от показателей нормальных доходностей. Параметрические тесты 
+
+подтверждают положительный результат, однако, дальнейший анализ выявил нежелательные 
+
+характеристики  данных  доходностей.  Доходности  акций  в  рассматриваемом  периоде  не 
+
+соответствуют  нормальному  распределению,  поэтому  альтернативные  применяются 
+
+непараметрические  тесты.  Результаты  данных  тестов  не  подтверждают  сформулированную 
+
+гипотезу.  
+
+ 
+
+Результаты данного исследования были смещены в силу ограниченности информации 
+
+и  сокрытия  реальных  взаимоотношений  между  представителями  крупнейших  корпораций  и 
+
+политической  государственной  элитой.  Данная  область  требует  дальнейшего  изучения,  что 
+
+возможно исключительно при увеличении прозрачности бизнеса в Российской Федерации. 
+
+     2 
+
+ 
+
+Abstract 
+
+In  the  paper  I  demonstrate  the  presence  of  political  connections  on  Russian  market.  Own 
+
+collected database and improved definitions of political connections are implemented to establish the 
+
+political  ties  of  the  largest  Russian  public  companies.  The  short-term  performance  implications  of 
+
+these connections are derived by performing ex-ante event study’s methodology around the date of 
+
+nomination  of  politically  connected  representative  to  a  firm.  The  research  provides  insight  on  the 
+
+performance measurement topic in particular country in financial economics.  
+
+ 
+
+ 
+
+ 
+
+     3 
+
+Contents 
+
+Introduction ........................................................................................................................................... 5 
+
+Literature review ................................................................................................................................... 8 
+
+Definition of political connections ...................................................................................................... 15 
+
+Data and methodology ........................................................................................................................ 18 
+
+Model and descriptive statistic............................................................................................................ 24 
+
+Results ................................................................................................................................................. 29 
+
+Conclusion .......................................................................................................................................... 36 
+
+References ........................................................................................................................................... 38 
+
+Appendix ............................................................................................................................................. 42 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     4 
+
+Introduction 
+
+Firms  deal  with  a  multiple  economic  agents  such  as  suppliers  and  customers,  other  market 
+
+players and competitors, regulators and governments in a variety of operations (Granovetter, 1985). 
+
+The  interactions  between  corporate  and  governmental  sectors  play  an  important  role  in  business 
+
+environment  and  strategy  in  modern  economics  (Hillman  et  al.  2004).  It  is  impossible  and 
+
+unreasonable  to  explore  economy  in  the  isolation  from  politics.  Recent  studies  showed  that 
+
+politically  connected  firms  are  widely  spread  globally  and  attract  more  attention  in  scientific 
+
+literature nowadays (Faccio, 2006).  
+
+Large number of research papers in different  fields of science is  dedicated to  exploring the 
+
+relationships between the companies and the public workers. The authors set up the question: “Does 
+
+the presence of political connection help a company to perform better?” They are searching for  the 
+
+answer  on  the  local  markets,  implementing  specific  methodologies  within  separate  countries,  like 
+
+Indonesia (Fisman, 2001), Malaysia (Johnson and Mitton, 2003), China (Wu et al. 2012), the USA 
+
+(Jayachandran, 2006) and others; or globally, trying to derive common characteristics of politically 
+
+connected firms in a global context (Faccio, 2006; Faccio et al. 2006). 
+
+It is a controversial issue to state that connected companies exploit “political capital” and are 
+
+preferential  for  investor  choices.  Not  all  researchers  derive  evidences  of  connections  being 
+
+advantageous. Recent studies, for instance, tend to express doubts in positive effects of being close 
+
+to  government  (Hersch  et  al.  2008;  Aggarwal  et  al.  2012);  while  some  earlier  ones  support  them 
+
+(Fisman, 2001; Jayachandran, 2006). Thus, the issue requires additional research. 
+
+Russia is not a random choice for the research. Political life is a social and actively debated 
+
+question  in  Russia.  Concealment  of  ownership  and  real  incomes  of  political  elite  and  their 
+
+relationships with business is covered with mystery.  
+
+Evidences  on  connections  tend  to  be  stronger  in  countries  with  higher  level  of  corruption 
+
+(Faccio,  2006).  Transparency  International  organization  ranked  Russia  on  133rd  place  of  total  174 
+
+countries  in  corruption  level  in  20121.  This  is  the  worst  result  out  of  top  20  developed  countries. 
+
+                                                           
+1 http://rating.rbc.ru/article.shtml?2012/12/14/33843988 
+
+ 
+
+     5 
+
+Another organization  - World Justice Project  – ranked Russia 85th out  of 97 in  Rule of Law  Index 
+
+ranking2.  
+
+Lack of research data on this topic is a challenge for the thesis paper and it should also be a 
+
+valuable contribution to the research literature. 
+
+In  my  thesis  paper  I  discuss  circumstances,  current  situation  and  outcomes  of  connections 
+
+between corporate businesses and the political governmental elite in Russia.  
+
+Two main objectives of the research are defined:  
+
+  Prepare a thorough analysis of situation around political connections in Russia;  
+
+  Model the effects of connections on a companies’ performance by event study methodology. 
+
+In order to achieve the objectives I collected new data set of companies and revised it to find 
+
+out the presence of connections.  
+
+Two  hundred  largest  companies  by  market  capitalization  criterion  were  the  starting  point. 
+
+Firms’  final  beneficiaries  were  defined  and  state-owned  companies  were  excluded.  Database  of 
+
+former  and  current  members  of  Federal  Assembly  of  the  Russian  Federation,  Government  of  the 
+
+Russian Federation, Presidential Office and the other Committees  was collected. For the remaining 
+
+privately-owned companies in  a dataset  the definition of political  connection was implied.  Finally, 
+
+event  study’s  methodology  was  implemented  to  derive  if  stocks  demonstrated  abnormal  returns 
+
+around the nomination date.  
+
+The  procedure  implied  doesn’t  support  expected  results.  Parametric  tests  should  be 
+
+considered  with  concern  due  to  bad  assumptions.  Following  prescribed  methodologies  in  research 
+
+literature I checked the normality of stock returns and reject the null hypothesis being normal. Non-
+
+parametric  tests  relax  the  assumption  of  stock  returns  normality.  I  imply  several  commonly  used 
+
+specifications. They conclude that the event of interest has no influence on stock performance. Test 
+
+criteria  failed  to  reject  the  hull  of  cumulative  abnormal  returns  being  zero.  I  discussed  possible 
+
+biases and test weaknesses due to data limitations.  
+
+My thesis paper contributes to finance literature in several ways.  
+
+                                                           
+2 http://worldjusticeproject.org/rule-of-law-index 
+
+ 
+
+     6 
+
+First  of  all,  it  enriches  the  literature  on  political  connections.  I  improved  the  definition  of 
+
+politically  connected  firms  and  enlarged  the  sample  to  distinguish  connections.  In  particular,  I 
+
+reviewed  all  the  members  of  Board  of  Directors  and  Board  of  Management  of  every  company  to 
+
+identify the presence of connections. This modification allowed me to get more relevant sample of 
+
+political connections and develop the identification process more thoroughly.  
+
+Secondly, thesis paper adds insight on the problem in particular regions – Russia and Russian 
+
+market.  Though,  the  presence  of  government  directors  in  corporate  Boards  is  broadly  presented  in 
+
+Russia, the topic attracts little attention. Faccio (2006), Frye and Iwasaki (2011), Dolgopyatova et al 
+
+(2009), Yakovlev et al. (2010) implicitly discuss related topics. In particular, Faccio (2006) included 
+
+Russia  in  her  47  countries  analyses,  but  the  market  was  not  analyzed  deeply  (only  25  companies 
+
+under investigation). Frye and Iwasaki (2011) used dividend payments as the long term indicator of 
+
+firm performance to measure the effect of political ties. Dolgopyatova et al. (2009), Yakovlev et al. 
+
+(2010) demonstrated detailed characteristics of corporate governance issues in Russian economy.  
+
+I expected the results to be positive for the event of interest. However, the result doesn’t go 
+
+along the researches that evidence political connections have positive effect on company’s value in 
+
+short-term horizon as it was expected.  
+
+The  remaining  thesis  paper  is  organized  as  follows.  Section  2  shows  in  details  the  existing 
+
+literature  on  the  topic.  Section  3  provides  definition  specification  and  theoretical  methodology. 
+
+Section  4  describes  data  and  descriptive  statistics.  Section  5  reports  empirical  results.  Section  6 
+
+concludes. 
+
+ 
+
+ 
+
+ 
+
+     7 
+
+Literature review 
+
+A  numerous  number  of  research  papers  on  corporate-government  relationships  exist  in 
+
+academic  literature.  Political  science,  economics,  sociology,  management  and  financial  studies 
+
+contribute  to  the  development  of  the  topic.  This  part  of  the  thesis  paper  categorizes  existing 
+
+literature, utilized methods and tested hypothesis. It also explains the rationale behind the choice of 
+
+the topic and implied procedures of thesis paper.  
+
+The review is structured as follows: brief description of sciences and theoretical concepts on 
+
+the topic is given. This part is extremely important, since the techniques and concepts differ among 
+
+earlier  and  later  researches.  Recent  papers  on  financial  economics  will  be  discussed  after  that. 
+
+Review ends up with the explanation of potential improvements and caveats of the thesis.  
+
+Early  researches  relate  to  corporate  political  action  literature  (CPA).  It  supports  the  idea  of 
+
+increase of corporate activity in political sector and describes the variety of activities implemented. 
+
+Theoretical  frameworks  emphasize  the  reasons  to  become  politically  involved  and  strategies  to 
+
+establish  the  connection  (Schuler  et  al.  2002).    Evidence  concludes  that  nurturing  political 
+
+connections is an essential element of corporate policy strategy (Baysinger, 1984).  
+
+Theoretical concepts behind the topic are categorized and presented in Table 1.  
+
+Field of study  Key theories 
+
+Political 
+science 
+
+Economics 
+
+Interest group theory 
+Government  public  policy  is  responsible  for  presenting  and  preserving 
+interests  of  the  whole  society.  Businesses  form  groups  of  alike  interests  to 
+lobby  and  protect  their  favors.  Competition  between  groups  motivates 
+companies to be politically connected  
+Limitations 
+The theory lacks the explanation of benefits and doesn’t reflect reality properly 
+Source 
+Mundo,1992; Plotke,1992 
+
+Collective action theory 
+“Political  good”  has  similar  properties  with  collective  goods.  In  small  or 
+highly  concentrated  sectors/industries  there  are  no  place  for  free  riders,  so 
+participants are active. In large markets the amount of participants is high, so 
+some of them might “free ride” on donations of others 
+Limitations 
+The  theory  doesn’t  take  into  account  several  aspects,  for  instance,  specific 
+industry characteristics, country differences, and other 
+
+ 
+
+     8 
+
+Source 
+Keim and Zeithaml,1986 
+
+Public choice theory 
+Corporate-political sector relationships form an “exotic” type of market. Public 
+services  represent  supply  side.  Corporate  companies  are  consumers  of  public 
+services. The price is considered to be the amount of money or other resources 
+delegated  to  establish  desired  political  circumstances  in  economy.  Based  on 
+the expectations of public workers behavior companies vary their contribution 
+trying to optimize the degree of participation 
+Limitations 
+Expectations matter a lot. When theory is inefficient, when public workers do 
+not  completely  represent  interests  of  its  supporters.  The  price  paid  doesn’t 
+always  reflect  the  purchased  service.  The  practical  value  of  the  theory  is 
+significantly limited 
+Source 
+Grier and Munger,1993 
+
+Transaction cost theory 
+The theory developed by Olivier Williamson represents institutional approach 
+in  economy.  It  states  that  the  company  acts  in  most  possibly  rational  way 
+aiming 
+to  minimize 
+transaction  costs  coming  from  participating/non 
+participating in politics 
+Limitations 
+Public  policy  value  estimation  when  acting  in  a  coalition  with  other  less 
+similar firms is not possible 
+Source 
+Williamson,1985 
+
+Game theory 
+Company’s actions are based on expectations about the actions of other market 
+players and public policy makers. The model of two companies competing for 
+public influence is introduced  
+Limitations 
+Competitor’s behavior is overestimated in final decision making process 
+Source: 
+Austen-Smith and Wright,1996 
+
+Resource dependence theory 
+Economic  agents  are  considered  to  be  interdependent  from  each  other’s 
+decisions (in particular, from policymakers). This dependence is considered to 
+be  negative.  Successful  corporate  political  strategy  reduces  the  degree  of 
+dependence as well as the level of uncertainty 
+Limitations 
+The assumptions do not distinguish between companies with different specific 
+firm characteristics 
+Source 
+
+     9 
+
+ 
+
+ 
+
+ 
+
+Sociology 
+
+ 
+
+ 
+
+Baysinger,1984 
+
+Institutional theory 
+Institutional  theory  suggests  that  a  company  participates  in  political  life  to 
+acquire  and  maintain  “political  capital”  –  nonmaterial  resource  (network  in 
+government  structures,  knowledge  of  law,  governmental  projects)  that  might 
+be transformed into material advantage 
+Limitations 
+It  is  hard  to  separate  and  measure  political  capital  within  regular  terms  of 
+business due to its non-materiality 
+Source 
+Oberman,1993  
+
+Management  Agency theory 
+
+The  interactions  between  government  and  corporate  sector  represent  agent-
+principal  relationship.  Firms  are  active 
+in  establishing  public  sector 
+relationships in order to control agents – government; 
+Limitations 
+Entering  politics  will  not  completely  secure  a  firm  from  unfavorable  agent’s 
+behavior 
+Source 
+Keim and Baysinger,1993  
+
+The key takeaways of the initial theories on political connections are: 
+
+Table 1. Review of theoretical concepts 
+
+  earlier papers explain the rationale behind political connections; 
+
+  authors tend to ask what policy strategy could be imposed; 
+
+ 
+
+theories conclude that close relationships with government have value for a company. 
+
+The assumptions  of thesis paper are based on foundations of the described theories. Recent 
+
+researches  on  Russian  market  support  the  theory  that  connections  have  value  for  a  firm  as  well  as 
+
+government. Government allows collecting rents from companies for a group of politicians, instead 
+
+guaranteeing  their  support.  Companies’  performance  increases  due  to  availability  of  additional 
+
+resources within preferential governmental treatment (Frye and  Iwasaki, 2011). Also, the results of 
+
+the thesis paper provide support for positive nature of connections. 
+
+Measurement and quantitative estimation of the effects performing political actions remained 
+
+unexplored till then. Basically, recent  financial economics literature focuses on particular occasion 
+
+on the market that relates closely to political life and scrutinizes it in more detail. The effect of this 
+
+event on the company’s performance is derived.  
+
+ 
+
+     10 
+
+Let’s  categorize  and  structure  the  academic  literature  on  topic  by  hypotheses  tested, 
+
+methodology used and the market of the research. 
+
+1.  Hypotheses tested 
+
+Researchers  used  many  different  types  of  hypotheses  in  recent  literature  and  some  of  them 
+
+might  be  surprising.  Three  most  common  directions  are  related  to  stock  prices  fluctuations  after 
+
+political events, preferential treatment when searching for extra capital and benefits from regulatory 
+
+easing. 
+
+  Stock  prices  are  affected  by  the  presence  of  political  connection  (Jayachandran,  2006; 
+
+Fisman, 2001)  
+
+Stock  price  fluctuations  caused  by  an  event  is  a  popular  approach  to  measure  political 
+
+influence.  
+
+Sudden  switch  in  May  2001  in  Senate  power  from  republicans  to  democrats  caused  by 
+
+Vermont senator James Jeffords’ departure from the Republican Party was followed by a fluctuation 
+
+in  an  amount  of  97  billion  dollars  in  the  market  capitalization  of  500  largest  US  companies 
+
+(Jayachandran,  2006).    Jeffords  effect’s  results  were  positive  (0,5%  increase)  for  ones  companies, 
+
+since they were supporting democrats, while they were negative (-1% decrease) for those, supporting 
+
+republicans.  This  fact  provides  strong  evidence  that  the  values  of  a  firm  are  correlated  with 
+
+unexpected  political  events  and  the  ruling  party.  Standard  event  study’s  methodology  was  used 
+
+around the date of retirement. 
+
+  Capital structure of the firm differs among connected and unconnected firms (Faccio, et al. 
+
+2006; Claessens et al. 2008; Khawaja and Mian, 2005) 
+
+Faccio  et  al.  provide  evidence  that  politically  connected  companies  are  perceived  by 
+
+investors and banks as more preferred borrowers compared to unconnected firms. The reason for that 
+
+is that investors believe politically connected firms will get significant bailouts from government in 
+
+case  of  default.  This  motivates  lenders  to  finance  such  companies  more  actively.  That  is  why  the 
+
+leverage ratio of politically connected companies tends to be larger. 
+
+State-owned banks grand advantageous access to long-term financing to politically connected 
+
+companies  in  Brazil  (Claessens  et  al.  2008).  This  tendency  was  also  evident  in  Pakistan  (Khawaja 
+
+and Mian, 2005). 
+
+ 
+
+     11 
+
+  Connected firms exploit regulatory benefits (Charumulind et al. 2006) 
+
+Banks  allowed  providing  less  collateral  for  politically  connected  companies  to  obtain  more 
+
+long-term financing in Thailand, than for unconnected firms (Charumulind et al. 2006) 
+
+Methodology used 
+
+The  most  commonly  used  methodological  approach  in  empirical  research  on  the  topic  is 
+
+event  studies.  It  is  used  on  ex-ante  basis,  meaning  that  the  prices  of  stocks  are  known  around  the 
+
+required date. It allows pricing the effect of government connection as a signal on political occasion 
+
+of concern around its date.  
+
+The main hypothesis of the thesis paper is stated as follows:  
+
+Nomination of politically connected director or manager is considered as a positive signal 
+
+for investor and leads to stock price increase around the date of announcement.  
+
+The hypothesis is tested and cumulative abnormal returns explicitly represent the measure of 
+
+influence of connection on company’s performance. As shown, the implemented tools are commonly 
+
+approved and widely used. Several papers exist that use the same techniques of estimating the effects 
+
+of  different  events  on  firm’s  market  capitalization  around  nomination  date  (Jayachandran,  2006; 
+
+Fisman, 2001; Cooper et al. 2010). 
+
+Some  recent  studies  tend  to  prove  the  indifferent  or  even  negative  effects  of  political 
+
+connections on company’s performance.  
+
+Aggarwal  et  al.  (2012)  exploit  agency  conflict  idea.  Theoretically,  firms  are  willing  to 
+
+perform  political  actions  trying  to  support  the  public  workers  that  offer  them  desired  legislative, 
+
+economic or other conditions. That might result in positive response on firm’s performance. On the 
+
+other  side,  management  pursuing  own  goals  might  be  the  initiator  of  these  political  involvement. 
+
+That leads to complicating agent’s problem for shareholders and negative performance expectations. 
+
+During 1991 – 2004 periods in USA the authors analyzed donations trying to separate two effects. 
+
+They conclude that donations negatively affect the returns of the firm. “Worse corporate governance 
+
+is associated with larger donations. A $10,000 increase in donations is associated with a reduction in 
+
+annual excess returns of 7.4 basis points” (Aggarwal et al. 2012, Abstract). 
+
+ 
+
+     12 
+
+The  effects  of  being  politically  connected  are  difficult  to  materialize.  However,  they  have 
+
+value as previous analysis shows. It concludes that they might be considered as a sort of intangible 
+
+assets. This assumption forced Hersch et al. (2008) to apply Tobin q measure to estimate the value of 
+
+the connection. “If political  capital  exists, it is  an intangible  asset.  However, we find little relation 
+
+between  q  and  political  contributions,  suggesting  that  campaign  contributions  may  not  have  long 
+
+term effects on political markets” (Hersch et al. 2008, p. 396). 
+
+Geographical differences 
+
+The vast majority of the literature covers separate countries individually. Literature explores 
+
+different markets in developed and developing countries.  
+
+There are differences in  techniques used.  In developed countries, like USA, UK, Japan, the 
+
+information  on  elections  and  procedures  of  accounting  disclosure  is  highly  prescribed  what  allows 
+
+researchers to build a reliable database. For instance, Cooper et al. (2010) were able to collect data 
+
+on 25 years long period in the US elections and contributions.  
+
+Developing  countries  attract  researchers  of  the  topic  because  of  other  reasons.  They  are 
+
+relatively higher role of government as an economic player (Wu et al. 2012), presence of patronage 
+
+and informal relationships (Charumulind et al. 2006). In particular, many researchers choose Brazil 
+
+as the most suitable market to analyze different issues related to political connections.  Government 
+
+plays  an  important  role  in  economic  development  in  Brazil;  "political  institutions  favor 
+
+particularistic relationship between politicians and firms" (Bandeira-de-Mello and Marcon, 2008, p. 1).  
+
+The  literature  on  Russian  market  is  limited.  However,  the  market  is  a  good  choice  for 
+
+analyzing political connections.  
+
+Yakovlev et  al  (2010) provide evidence on the specific features of corporate  governance in 
+
+Russia.  They  state  that  Russian  market  is  characterized  by  high  “concentration  of  ownership  and 
+
+control, rapid pace of corporate integration (with integrated business groups dominating the Russian 
+
+economy)  and  tendency  to  “personify”  Russian  business”  (Yakovlev  et  al.  2010,  p.  131).  Authors 
+
+present  two  model  of  corporate  governance,  where  one  is  for  large  companies  and  corporations. 
+
+Such companies tend to use close informal ties with other market and public players. Based on these 
+
+specifications, I believe that largest public companies dataset has the best fit for the analyses.  
+
+ 
+
+     13 
+
+Political  elite  has  enormous  power  in  the  country.  Weak  law  system,  concealment  of 
+
+ownership  and  real  incomes  of  politicians,  high  level  of  corruption  are  key  features  of  Russian 
+
+economy  (Transparency  International;  World  Justice  Project).  It  is  relevant,  since  the  number  of 
+
+political  connections  tend  to  grow  in  countries  with  higher  level  of  corruption  and  weaker 
+
+regularities (Faccio, 2006).  
+
+Frye  and  Iwasaki  (2011)  provided 
+
+theoretical  description  of  business–government 
+
+relationships  in  Russian economy. They differentiated three categories of  relationships:  managerial 
+
+discipline,  rent-extraction  ideal  type  and  “collusion”  type.  Using  the  survey  of  Hitotsubashi 
+
+University  and  the  Higher  School  of  Economics  of  2005,  they  concluded  that  the  most  common 
+
+format  of  relationships  is  a  “collusion  type”.  It  happens  when  a  state  representative  governs  the 
+
+corporate firm, which tends to have relative high performance. Such appointment allows the state to 
+
+control  the  firm  and  benefit  from  it  (like  in  rent-extraction  type)  and  also  to  stimulate  its 
+
+performance  (like  in  managerial  discipline).  This  conclusion  confirms  the  literature  on  positive 
+
+effects of political connections.  
+
+In  the  conclusion,  I  would  like  to  point  out  potential  improvements  and  critics  of  the 
+
+research. Firstly due to implied procedures the performance implication effects are considered to be 
+
+short-term. However, it would be useful to perform additional research on longer terms implications 
+
+of the political connections. Secondly, the research might be improved by controlling for changes in 
+
+Board of Directors and  Board of Management.  The implemented procedure uses fixed time period 
+
+dataset  of  Boards  member  –  the  ones  that  were  heading  companies  at  the  beginning  of  2012.  The 
+
+changes  in  Boards  member  in  previous  years  might  also  be  considered  as  political  connections. 
+
+Finally,  inclusion  of  public  service  structures  on  regional  level  might  help  to  find  out  other 
+
+connections. 
+
+ 
+
+ 
+
+     14 
+
+Definition of political connections 
+
+Several  patterns  exist  in  the  research  literature  to  identify  whether  the  firm  is  politically 
+
+connected or not.  
+
+One  participation  method  allows  identifying  the  political  connection  when  the  company  is 
+
+supporting  or  sponsoring  the  nomination  of  a  particular  candidate  or  a  party  in  the  elections.  It  is 
+
+done indirectly, without nomination of firm’s own representative. Firms donate soft or hard money 
+
+or other resources to political parties or candidates during election times (Claessens et. al. 2008). 
+
+Another  participation  method  occurs  when  the  company’s  representative  (most  commonly 
+
+from  top  management  or  directors)  directly  offers  his  candidacy  for  election  in  the  country.  By 
+
+succeeding in elections, the representative will gain an official public position and a firm he will be 
+
+working for will be defined as politically connected one. If he fails then the firm will remain being 
+
+unconnected.  
+
+A company is searching for possibilities of exploiting benefits from political connections and 
+
+nominates its own representative and supports public workers, who represent favorable interests of 
+
+the  companies.  It  is  possible  to  identify  when  and  what  firms  were  willing  to  gain  political 
+
+connections by collecting the elections and candidates’ data 
+
+It  might  be  the  case,  when  the  directors  or  managers  are  personally  related  to  some  public 
+
+officer.  This  method  is  called  social  network  approach.  The  key  idea  behind  the  social  network 
+
+approach is that a “firm is connected to a politician if one of its directors shares the same educational 
+
+background with a politician” (Do et al. 2011, p. 1) 
+
+Methods  described  above  are  highly  instructive.  These  methods  allow  understanding  of 
+
+nature  of  connection.  It  means  that  it  explains  why,  when  and  at  what  circumstances  the  firm  got 
+
+connected.  The  key  drawback  of  these  methods  is  a  difficulty  of  implementation.  They  are  most 
+
+commonly  used  for  analyses  of  developed  countries,  where  the  political  system  is  mature;  the 
+
+elections are highly prescribed and completely transparent.  
+
+Finally,  a  current  director  or  manager  might  be  a  previous  public  worker.  It  is  called  firm 
+
+representatives’ method and is commonly used in many researches (for instance, Faccio, 2006). 
+
+ 
+
+     15 
+
+The  firm  representatives’  method  is  a  cross-sectional  method  of  political  connections 
+
+identification.  It  assumes  that  in  particular  point  of  time  a  sample  of  firms  by  whatever  criteria  is 
+
+gathered.  Then  a  company  is  inspected  if  it  is  connected  through  its  representatives.  It  is  so  if  the 
+
+representatives  (such  as  directors  or  managers)  are  political  workers  and  also  simultaneously  are 
+
+holding a public place. It is often the case when they are not political workers in a moment, but were 
+
+earlier,  before  being  appointed  to  the  company.  This  is  also  a  criterion  for  connection,  because 
+
+previous public experience is also relevant and might give preferences to a company.  
+
+The  advantage  of  the  method  is  its  relative  simplicity  comparing  to  direct  or  indirect 
+
+participation methods. However, there are several drawbacks. It assumes specific point of time when 
+
+a  cross-section  company’s  data  is  gathered.  It  might  be  the  case  when  the  company  was  already 
+
+previously  connected  and  have  sustainable  governmental  relationship,  but  there  are  no  direct 
+
+representatives in a firm’s Boards at this particular point of time. Another issue is that we don’t get 
+
+the  reason  and  circumstances  when  the  firm  became  connected.  This  methodology  is  more 
+
+commonly  used  in  developing  countries  since  less  information  about  the  politics  and  elections  is 
+
+disclosed.  
+
+In my thesis paper firm representatives’ method is implemented.  
+
+The  definition  used  is  based  on  the  identification  procedure  introduced  by  Mara  Faccio 
+
+(2006). She used two main criteria to identify the political connection: “at least one of its top officers 
+
+(CEO,  president,  vice-president,  chairman,  or  secretary)  or  large  shareholder  is  a  member  of 
+
+parliament, a minister, or is closely related to a top politician or party. Close relationships include: 
+
+(i)  friendship,  (ii)  former  heads  of  state  or  prime  ministers  (and  their  relatives),  (iii)  directorships 
+
+covered  by  current  politicians  in  1997,  who  recently  left  the  firm,  (iv)  connections  with  foreign 
+
+politicians, and (v) well known cases of relationships with political parties” (Faccio, 2006, p. 371). 
+
+Some  degree  of  subjectivity  exists  in  the  criterion  of  close  relationship,  when  considering 
+
+friendship and connections with former politicians.  
+
+I  improved  the  criteria  of  political  connections  in  order  to  get  more  relevant  and  suitable 
+
+results.  Instead  of  four  of  top  officers’  positions,  I  implied  the  criterion  to  the  full  composition  of 
+
+Board of Management and Board of Directors.  
+
+ 
+
+     16 
+
+I  also  introduced the time frame of the definition.  I  added not  only the current  members of 
+
+governmental  authorities,  but  also  the  former  ones.  Time  period  used  is  1991  till  nowadays.  More 
+
+details on that are in the next part of thesis. 
+
+Finally, I would formulate the definition in the following way: 
+
+The company is defined as politically connected if: 
+
+  It is a privately-owned company; 
+
+  At least one of its final beneficiaries or a member of Board of Directors or Board of Directors 
+
+is a previous or current minister or member of a parliament. 
+
+ 
+
+ 
+
+ 
+
+     17 
+
+Data and methodology 
+
+Due  to  limitations  of  reliable  databases  on  Russian  market,  a  new  database  was  created. 
+
+Creating  own  database  has  several  challenging  problems;  however,  a  number  of  assumptions  was 
+
+implied that aimed to make the analysis consistent and complete. 
+
+In  response  to  the  defined  objective  and  chosen  method  –  to  estimate  the  share  price 
+
+fluctuation around announcement date – the first limitation on data was stated.  
+
+Assumption 1: The database consists only of public companies 
+
+The most reliable dataset  of public Russian companies is  published by RA Expert Ranking 
+
+Agency. Top-200 companies by market  capitalization criterion  for the 2012  year end compiled the 
+
+initial database. According to RA Expert estimates, the total capitalization of 200 largest companies 
+
+comprises  743  billion  dollars3.  According  to  RIA  Rating,  total  market  capitalization  of  the  second 
+
+hundred of companies compose only 1,5% of the total value of the first hundred companies4. Own 
+
+calculation  based  on  RA  Expert  data  shows  this  ratio  is  equal  to  1,7%.  Assuming  that  there  are 
+
+several  differences  between  RA  Expert  and  RIA  Rating  ratings,  but  they  do  not  distort  the  figures 
+
+significantly, it might be concluded that 200 companies compound almost the whole Russian market 
+
+of public companies.  
+
+The  analyzed  sample  includes  both  state-owned  and  private-owned  companies.  As  stated 
+
+above  the  goal  of  the  model  is  to  distinguish  whether  the  designation  of  a  politically  connected 
+
+director  is  a  positive  signal  on  the  stock  market.  State-owned  companies  are  by  definition  closely 
+
+politically  connected,  so  they  are  out  of  interest.  For  such  companies  the  nomination  of  a  public 
+
+worker to a director position will not gain extra value, since it is state-owned. In order to properly 
+
+estimate the impact of a designation, the beginning sample must contain only private-owned firms. 
+
+Assumption 2: State-owned companies are excluded from the sample 
+
+Two filters are used to identify the state-ownership. The first filter is when the state possesses 
+
+at  least  10%  share  of  stocks  of  the  company.  By  implying  this  criterion  on  a  sample  of  200 
+
+companies, 28 companies were excluded.  
+
+                                                           
+3 http://www.raexpert.ru/ratings/expert400/2012/part03/p08/ 
+4 http://riarating.ru/corporate_sector_study/20130204/610537465.html 
+
+ 
+
+     18 
+
+The  second  filter  is  implemented  for  the  companies  whose  primary  or  further  shareholders 
+
+are state-owned companies. It occurs quite often when a company is owned by state not directly, but 
+
+through  other  state-owned  structures.  In  order  to  identify  these  relationships,  I  traced  the 
+
+shareholders one by one in order to find the final beneficiaries of each firm. If the final beneficiary 
+
+was a state-owned company, then the explored company was also defined as politically connected. 
+
+For  instance,  let’s  take  a  look  at  Rostelecom.  Federal  Agency  for  State  Property  Management 
+
+(FASM) owns only 7% of the company directly. By the first filter, the criterion is not met. Implying 
+
+the second filter, I found out that the largest shareholder of Rostelecom is Svyazinvest, a fully state-
+
+owned company. State ownership is detected through one additional chain link.  
+
+Two  filters  are  used  in  order  to  be  as  much  restrictive  as  possible.  A  company  might  have 
+
+strong  connection  with  government  through  its  beneficiary  and  this  will  distort  the  results.  It  is 
+
+assumed that even in this case the state will want to offer own director or manager to the company. 
+
+By implying this criterion 51 companies were excluded. Finally, the sample consisted of 121 
+
+private-owned companies.  
+
+Quarterly reports (1Q 2013) and list  of affiliates (1Q 2013) provided the  information  about 
+
+the  beneficiaries.  It  was  a  challenging  task  to  find  out  the  final  beneficiaries,  because  they  are  not 
+
+willing to be disclosed.  
+
+Cyprus  is  the  largest  country  by  the  amount  of  investments  in  Russia.  It  is  partially  so, 
+
+because  the  owners  of  the  largest  Russian  companies  are  Cyprus-registered  firms.  Another 
+
+jurisdiction  allows  the  owner  of  such  companies  being  disguised.  This  is  one  of  the  reasons,  why 
+
+management has large shares of firms through several offshore artificial companies. 
+
+The next step was to identify the political connections.  
+
+According  to  the  definition,  the  dataset  of  Board  of  Directors  and  Board  of  Managers 
+
+members  is  needed.  Quarterly  reports  (1Q  2013)  and  list  of  affiliates  (1Q  2013)  provided  the 
+
+information about the Board of Directors and Board of Managers members. This dataset composed 
+
+of 1011 current members of Board of Directors and Board of Management.  
+
+Federal Assembly of Russian Federation database 
+
+Dataset of former and current members of Federal Assembly of the Russian Federation was 
+
+collected. Federal Assembly consists of State Duma and Federal Council. 
+
+ 
+
+     19 
+
+Six convocations of State Duma were operating since 1991. The current one consists of 450 
+
+people,  while  the  former  ones  include  a  bit  less.  It  is  being  reelected  every  4  years.  Totally,  it 
+
+compounded of 2853 persons. The data was found on official site of State Duma5. 
+
+First  convocation of Federal  Council was initiated in  1994. Four periods of formation  were 
+
+established since then. I collected data on all members during that time period. Nowadays, Federal 
+
+Council consists of 166 federal Councilors. 
+
+In  order  to  make  the  research  more  consistent  I  added  current  members  of  all  related 
+
+Committees, which included Chamber of the council, Chairman and Deputy Chairman. Members of 
+
+10 committees were included: 
+
+  The Council of the  Federation Committee on Constitutional  Legislation, Legal  and Judicial 
+
+Affairs and Civil Society Development; 
+
+  The Council of the Federation Committee on the Federal Structure, Regional Policies, Local 
+
+Self-Governance and Affairs of the North; 
+
+  The Council of the Federation Committee on Defense and Security; 
+
+  The Council of the Federation Committee for Foreign Affairs; 
+
+  The Council of the Federation Budget and Financial Markets Committee; 
+
+  The Council of the Federation Committee on Economic Policy; 
+
+  The Council of the Federation Committee for Agrarian and Food Policy and Environmental 
+
+Management; 
+
+  The Council of the Federation Committee on Social Policy; 
+
+  The  Council  of  the  Federation  Committee  on  Science,  Education,  Culture  and  Information 
+
+Policy; 
+
+  The  Council  of  the  Federation  Committee  on  the  House  Rules  and  Parliamentary 
+
+Performance Management; 
+
+Finally, members of the council that don't go into committees included: 
+
+  Temporary committees; 
+
+  Head and Council establishment; 
+
+  Secretariats of the chairmen and council establishment; 
+
+                                                           
+5 www.duma.gov.ru/ 
+
+ 
+
+     20 
+
+  Committees establishment; 
+
+  Authorities of council establishment; 
+
+  Chairman committees; 
+
+  Council agencies; 
+
+  Council Legislative agency. 
+
+The  Committees  include  public  representatives  from  different  federal  parts  of  federation, 
+
+allowing  me  to  broaden  the  geographical  coverage  of  politicians.  Official  web-sides  provide  this 
+
+information6. This dataset composed of 1819 persons. 
+
+Government database 
+
+To check the presence of ministers in the Board of Directors or Managers, I collected data of 
+
+former and recent members of Government, Ministers and Presidential authorities.  
+
+Since 1991 there were 14 compositions of the Government. The database included: 
+
+  Chairman; 
+
+  Deputy Chairman;  
+
+  Federal Ministers; 
+
+  State Council; 
+
+  Security Council; 
+
+  Presidential Administration. 
+
+I added 522 persons. Official web-site information was used7. 
+
+As  a  possible  direction  of  further  research,  regional  members  of  regional  governmental 
+
+agencies  could  be  included.  Most  companies  in  a  dataset  operate  in  many  regions  of  Russian 
+
+Federation.  The  companies  under  consideration  are  the  largest  ones,  so  I  assume  that  their 
+
+representatives, if connected, should be on the highest federal level. As I mentioned, I scanned top 
+
+officers  and  found  several  cases,  when  representatives  are  presented  in  regional  authorities.  For 
+
+instance, Aleksandrovich Vladlen is a member of Norilsk town council. Such cases are also included 
+
+in analyses. 
+
+                                                           
+6 www.council.gov.ru/ 
+7 www.government.ru/ 
+
+ 
+
+     21 
+
+Finally,  the  dataset  was  completed.  It  consisted  of  5199  first  and  last  names  of  political 
+
+workers  of  the  most  important  Federal  regulatory  authorities  and  1011  corporate  directors  and 
+
+managers. 
+
+Identification procedure 
+
+To identify the connections, I used Excel functions to find the intersections in lists of public 
+
+workers and corporate directors.  
+
+I  used  VlookUp  function  in  Excel  to  get  the  intersections  in  names  between  lists  of  public 
+
+and corporate workers. For similar family names, I scanned the similarity of first name and middle 
+
+name. Logical and conditional functions were used. 
+
+To define the connection I used the following assumption.  
+
+Assumption 3: There is a connection if first, last and middle name are completely identical 
+
+This  criterion  is  the  most  restrictive  one.  Certainly,  there  might  be  close  relatives  in  the 
+
+sample. But the information  on biographies is  very  scarce. That is  why  I  relied only on maximum 
+
+objective criteria.  
+
+To  explore  the  connections  in  more  details,  I  also  scanned  the  biographies  of  companies’ 
+
+CEO  and  Chairman  of  Board  of  Directors  in  internet  sources  (Forbes,  Commersant,  Lenta, 
+
+Vedomosti etc) and search engines (Factiva, Public.ru). Results from both connections were added to 
+
+the final sample.  
+
+Direct  relationships  between  companies  and  government  are  not  disclosed.  First  of  all, 
+
+politicians use different sophisticated ways to conceal incomes and ownership. Family members are 
+
+often  involved;  however,  it  is  impossible  to  collect  consistent  dataset  on  all  family  members  and 
+
+their ownership. It is required for politicians to disclose their incomes and ownership, but there are 
+
+no strict legal requirements to disclose the incomes and ownership of relatives and family members, 
+
+that  is  why  there  is  always  an  opportunity  to  work  it  around.  Secondly,  informal  and  unofficial 
+
+connections could take place.  
+
+I  suppose that it is  one  of the most important  limitations of the presented procedure.  There 
+
+exist a large number of cases, when people, who are close to political elite, were appointed as firms’ 
+
+heads discussed in press. These cases are definitely political connections, however, there is no legal 
+
+ 
+
+     22 
+
+prove  of  being  politically  connected.  Such  criteria  are  highly  subjective,  so  I  exclude  them 
+
+completely. 
+
+Due  to  this  reasons,  the  number  of  identified  connections  by  described  procedure  could  be 
+
+small.  Analysis  based  on  smaller  than  true  number  of  politically  connections  produces  downward 
+
+bias on the effect of political connection.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+     23 
+
+Model and descriptive statistic 
+
+The number of political connections found is 23 firms, 19% of total number of public private 
+
+companies and 15% of total market capitalization. It is much larger than average 2,68% and 7,72% 
+
+of total number and capitalization of listed companies in the world correspondingly (Faccio, 2006). 
+
+It  is  consistent  with  Faccio  (2006)  that  in  Russia  over  10%  of  listed  companies  are  connected. 
+
+However,  it  doesn’t  support  the  fact  that  politically  connected  firms  represent  86,75%  (Faccio, 
+
+2006).  The  possible  explanation  for  that  is  a  small  number  of  firms  under  consideration  in  her 
+
+analysis – 25 only.  
+
+Firm characteristics are summarized in Table 2.  
+
+Company 
+
+Industry 
+
+Event Date 
+
+Connection authority 
+
+Company’s representative 
+
+Lukoil 
+
+Oil and gas industry 
+
+28.06.2007 
+
+State Duma, Federal 
+Council, Government 
+
+Shokhin Aleksandr, BoD 
+
+Norilsk Nickel 
+
+Bashneft 
+
+Baltica 
+
+Polyus Zoloto 
+
+Fosagro 
+
+ 
+
+Nonferrous-metals 
+
+industry 
+
+17.12.2012 
+
+Government 
+
+Potanin Vladimir, BoM 
+
+Oil and gas industry 
+
+29.06.2011 
+
+State Duma 
+
+Mikhail Gutseriev, BoD 
+
+Food industry 
+
+14.08.2008 
+
+Duma, Gov, Fed Con 
+
+Shokhin Aleksandr, BoD 
+
+Precious metals and 
+
+diamonds 
+
+Chemical and 
+petrochemical 
+
+industry 
+
+27.06.2008 
+
+State Duma 
+
+Suleiman Kerimov, 
+
+shareholder 
+
+24.01.2013 
+
+Federal Council 
+
+Guriev Andrei, BoM 
+
+TMK 
+
+Iron industry 
+
+27.06.2008 
+
+State Duma, Federal 
+Council, Government 
+
+Shokhin Aleksandr, BoD 
+
+Akron 
+
+LSR Group 
+
+Chemical and 
+petrochemical 
+
+industry 
+
+Constructions 
+
+material industry 
+
+29.05.2008 
+
+Federal Council 
+
+Aleksandr Dynkin, BoD 
+
+14.08.2006 
+
+Federal Council 
+
+Molchanov Andrei, 
+
+shareholder 
+
+IDGC of Centre 
+
+Power sector 
+
+11.12.2012 
+
+Government 
+
+Isaev Oleg, BoM 
+
+Fortum 
+
+Power sector 
+
+30.05.2008 
+
+State Duma, Federal 
+Council, Government 
+
+Shokhin Aleksandr, BoD 
+
+Bank Saint-Petersburg 
+
+Banks 
+
+18.05.2006 
+
+Federal Council 
+
+Karmazinov Felix, BoD 
+
+GAZ Group 
+
+Engineering 
+
+30.06.2010 
+
+Government 
+
+Shantsev Valeiry, BoD 
+
+Korshunov Mining 
+
+Plant 
+
+Sollers 
+
+Iron industry 
+
+12.05.2008 
+
+Regional authorities 
+
+Alekseev Boris, BoD 
+
+Engineering 
+
+03.06.2008 
+
+Government 
+
+Yasin Evgeniy, BoD 
+
+ChelPipe 
+
+Iron industry 
+
+30.06.2011 
+
+Government 
+
+Khristenko Valeriy, BoD 
+
+Abrau-Durso 
+
+Food industry 
+
+22.06.2012 
+
+Government 
+
+Titov Pavel, BoD 
+
+Tattelecom 
+
+Sofrinsk Experimental-
+
+Mechanical Plant 
+
+Telecommunications 
+
+industry 
+
+24.06.2005 
+
+Regional authorities 
+
+(Tatarstan) 
+
+Shafigulin Lutfulla, BoM 
+
+Engineering 
+
+29.06.2012 
+
+Government 
+
+Nechaev Andrei, BoD 
+
+GUM 
+
+Trade industry 
+
+05.06.2007 
+
+Government 
+
+Malyshev, BoD 
+
+     24 
+
+ 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+ 
+
+21 
+
+22 
+
+23 
+
+Permskaya 
+
+Energosbytovaya 
+
+Power sector 
+
+30.06.2008 
+
+Government 
+
+Urinson Yakov, BoD 
+
+Company 
+
+Primorie Bank 
+
+Yaroslavl Sbytovaya 
+
+Company 
+
+Banks 
+
+02.06.2011 
+
+Government 
+
+Sergei Darkin, shareholder 
+
+Power sector 
+
+- 
+
+Federal Council 
+
+Rogotskiy Victor, BoD 
+
+Table 2. Politically connected companies 
+
+It  could  be  concluded  from  the  sample  that  the  companies  from  different  industries  are 
+
+politically connected. For instance,  four companies represent power sector, three of them represent 
+
+iron industry. Reason for this evidence is that government is interested in pursuing control in several 
+
+strategic corporations, especially in resource industries. If we take a look on a sample  of politically 
+
+connected firms that were excluded by second filter, we can conclude that 17 out of 20 connections 
+
+are operating in resource sector. 
+
+To  find  out  if  political  connections  have  value  on  stock  performance,  I  implemented  event 
+
+study’s  methodology.  Cumulative  abnormal  returns  around  the  date  of  announcement  should  be 
+
+positive to represent the desired result. I use the same procedure as described in Brown and Warner 
+
+(1985), Campbell et al (1997) and implemented by Faccio (2006). 
+
+Event definition 
+
+Assumption 4: Event of interest is a nomination of a former or current politician to the Board 
+
+of Directors or Management.  
+
+Collecting the data on politically  connected firms,  I came across with  several  limitations in 
+
+methodology. 
+
+Revising shareholders is important, since the connections might be established through them. 
+
+However,  there  are  limitations  on  data  about  the  ownership  of  companies.  Besides,  most 
+
+shareholders  are  holding  the  shares  for  a  long  time.  These  are  the  cases,  when  a  company  was 
+
+headed in the beginning of 00th and top manager is the key shareholder. It doesn’t allow estimating 
+
+the  effect  of  political  connection,  since  the  companies  were  not  public  at  the  time  of  initial 
+
+shareholder acquisition. In order to be consistent, I excluded connections, where it is not possible to 
+
+distinguish, when a shareholder starts to head a company. As discussed previously, it could possibly 
+
+lead to downward bias. However, it commonly occurs that an initial shareholder is a top manager or 
+
+director of a company simultaneously. The modified methodology considers all members of Boards, 
+
+so it decreases the influence of described bias.  
+
+ 
+
+     25 
+
+Several  sources were used to  determine the date of directorship  announcement. Company’s 
+
+lists  of  affiliated  persons  were  primary  sources.  Usually  the  members  of  Boards  are  reelected 
+
+annually.  It happens sometimes when the board memberships change more frequently.  Information 
+
+about changes in Boards’ memberships must be disclosed and is reflected in internal documents. The 
+
+date of accidence of directorship is disclosed as well.  
+
+I scanned information in press to double check the date of announcement8. For instance, the 
+
+day when Vladimir Potanin officially entered Board of Directors of Norilsk Nickel is 17.12.2012. It 
+
+is often the case when a press reports the designation a day or two before the official entrance day. 
+
+To account for that I use (-2;+2) event window to capture price movements around these dates. 
+
+Assumption 5: Event window is (-2;+2) around the announcement date. 
+
+Selection criteria 
+
+The  sample  of  interest  is  politically  connected  companies.  However,  not  all  23  companies 
+
+provide  necessary  stock  prices  data  for  analyses.  After  adjustment,  the  final  sample  is  left  with  12 
+
+companies.  
+
+I collected stock prices for firms. Daily common stock prices were taken from Finam.ru and I 
+
+calculated daily lognormal returns. The formula for lognormal returns is  
+
+Ln Retit = ln (Pit) – ln (Pit-1), 
+
+where Pit and Pit-1 are stock prices on day and previous day for every t in estimation period 
+
+and for every stock i.  
+
+Nowadays RTS and MICEX are operating as one exchange. Previously companies could be 
+
+traded  on  either  one  of  the  exchanges  or  both.  I  included  MICEX  exchange  database,  because  it 
+
+demonstrates number of trades. Higher liquidity of trades is necessary for collecting daily price rates.  
+
+Bashneft,  Gaz  Group,  Korshunov  GOK  prices  rates  were  taken  from  RTS  stock  exchange: 
+
+stocks  were  not  traded  on  MICEX  during  the  required  period.  I  used  RTS  stock  prices  data  only, 
+
+when  MICEX  exchange  didn’t  provide  me  with  required  information.  In  all  other  cases  I  used 
+
+MICEX rates. 
+
+                                                           
+8 Public.ru, Factiva search engines 
+
+ 
+
+     26 
+
+There  exists  a  thread  of  potential  upward  bias  in  rejection  of  null  hypothesis,  when  the 
+
+trading liquidity is low (Brown and Warner, 1985). They state that the variance of returns around the 
+
+event date might be overstated, when the stock trades poorly. I decrease the quality of performance, 
+
+since  increasing  the  probablility  of  null  hypothesis.  For  this  reason,  I  exclude  Bashneft  and 
+
+Permenergosbyt. I also exclude GAZ Group and Korshunov GOK, since the number of trades during 
+
+the  year  is  too  small  –  less  than  65.  Such  small  number  of  trades  will  not  represent  daily  returns 
+
+properly and will lead to biased and inconsistent estimator (Brown and Warner, 1985). 
+
+Several  companies  were  excluded  since  stocks  were  not  trading  during  the  whole  year 
+
+estimation  period.  For  instance,  Abrau  Durso  begins  19.06.2011,  but  it  started  trading  only  since 
+
+11.04.2012.  The  sample  doesn’t  represent  enough  observations  to  build  reliable  normal  returns 
+
+model. Bank Primorie was excluded by the same reason. 
+
+I  also  exclude  Tattelecom  since  politically  connected  director,  Timur  Akulov,  entered  the 
+
+company before it was public. There are no price rates around the date of nomination. Bank Saint-
+
+Petersburg and LSR Group were excluded for the same reason.  
+
+It  was  not  possible  to  distinguish  the  actual  date  of  announcement  of  Victor  Rogotskiy 
+
+designation  to  Yaroslavl  Sbytovaya  Company,  since  the  information  in  list  of  affiliated  persons 
+
+defines only the year – 2006 and no exact date. The information in web is also unavailable.  
+
+These  limitations  in  data  are  necessary  for  proper  analysis;  however,  they  decrease  the 
+
+sample size significantly. The sample size is low, and it is a drawback of the sample. However, tests 
+
+might  be  implemented,  since  the  event  study  might  be  even  implemented  for  one  particular 
+
+company. 
+
+Normal and abnormal returns 
+
+To calculate abnormal returns around the announcement date, the measure of normal returns 
+
+on estimation window is necessary.  
+
+Assumption 6: Estimation period is equal to 1 year. This is necessary to get 250 daily rates.  
+
+This is a standard period of time to estimate the normal stock performance. It allows building 
+
+a reliable and significant regression on the stock returns.  
+
+The  basics  of  event  study’s  procedure  are  described  in  Campbell,  Lo,  MacKinley  (1997).   
+
+They  are  standardized  and  the  researchers  implement  the  same  procedure  (Faccio,  2006; 
+
+     27 
+
+ 
+
+Jayachandran,  2006).  Normal  returns  are  defined  as  “returns  that  would  be  expected  if  the  event 
+
+didn’t take place” (Campbell, Lo, MacKinley, 1997, p. 151). Abnormal returns are calculated using 
+
+the formula: 
+
+e*it = Rit - E(Rit|Xt), 
+
+where eit  Rit, E(Rit) are abnormal, actual and normal returns respectively for time period t and stock i.  
+
+Market model is chosen to build an estimation period model. Market model bases on a stable 
+
+linear  relationship  between  an  individual  firm’s  return  and  the  market  return.  For  each  firm  i,  I 
+
+estimate the following equation using stock price data for each day t during estimation period: 
+
+Rit =α + β*MktRtnit +ε, 
+
+where Rit,, MktRtnit are actual and market return for time period t and stock i correspondingly. 
+
+The  proxy  for  market  return  is  MICEX  index.  The  index  is  a  daily  composite  value-index, 
+
+which comprises 50 largest public companies. To calculate log returns on MICEX index, I used the 
+
+following formula: 
+
+Ln Returnst = ln (It) – ln (It-1), 
+
+where It and It-1 are market index values of that and previous day for each t. 
+
+The  returns  of  the  market  are  adjusted  to  the  same  time  period;  this  allows  avoiding  non-
+
+synchronous  trading  bias  (Brown  et  al.  1985).  For  instance,  GUM  stocks  were  not  traded  between 
+
+4.08.2006  and  8.08.2006.  The  stock  price  on  7.08.2006  is  not  available,  so  the  market  return  is 
+
+adjusted to the same days – 4th and 8th. 
+
+The  parameters  of  regressions  are  estimated  during  estimation  window  based  on  250 
+
+observations of stock and market returns. Cumulative abnormal return in a particular event window 
+
+day is described as the sum of previously compounded abnormal returns plus the abnormal return of 
+
+this day. 
+
+After  performing  regression  I  designed  the  testing  procedures  based  on  multivariate 
+
+distribution of 12 stocks returns. The details are presented in the following topics. 
+
+ 
+
+ 
+
+     28 
+
+Results 
+
+Estimation  period regressions were prepared in  Eviews.  Full list  of statistics and regression 
+
+coefficients are shown in Appendix B.  
+
+I tested the significance of the normal returns model for each stock. I used the p-values of the 
+
+regression coefficients and R squared to check if the regression fits well the estimation period model. 
+
+Summary of the coefficients is presented in Table 3. 
+
+Stock 
+
+Coefficient α 
+
+Coefficient β 
+
+P-value α 
+
+P-value β 
+
+R squared 
+
+P-value F-stat 
+
+Akron 
+
+0.005297 
+
+0.465298 
+
+0.0012 
+
+0.0000 
+
+0.087280 
+
+0.000002 
+
+Baltica 
+
+-0.001434 
+
+0.198802 
+
+ChelPipe 
+
+0.000468 
+
+0.975386 
+
+Fortum 
+
+0.000134 
+
+0.219762 
+
+0.0519 
+
+0.6871 
+
+0.9038 
+
+0.0000 
+
+0.0000 
+
+0.0008 
+
+0.089274 
+
+0.000002 
+
+0.284990 
+
+0.000000 
+
+0.044106 
+
+0.000834 
+
+GUM 
+
+IDGC 
+
+-0.000246 
+
+0.298075 
+
+0.8900 
+
+0.0009 
+
+0.043618 
+
+-0.001166 
+
+0.875371 
+
+0.4187 
+
+0.0000 
+
+0.190611 
+
+Lukoil 
+
+-0.001136 
+
+1.013883 
+
+0.0640 
+
+0.0000 
+
+0.761957 
+
+NorNik 
+
+0.000194 
+
+0.901479 
+
+0.7745 
+
+0.0000 
+
+0.525997 
+
+Polyus Gold 
+
+0.000563 
+
+0.864141 
+
+0.7621 
+
+0.0000 
+
+0.195840 
+
+SEMZ 
+
+Sollers 
+
+-0.001579 
+
+0.305726 
+
+0.7003 
+
+0.1468 
+
+0.008471 
+
+0.002043 
+
+0.370963 
+
+0.055 
+
+0.0000 
+
+0.124322 
+
+TMK 
+
+-0.000905 
+
+0.752217 
+
+0.5260 
+
+0.0000 
+
+0.239818 
+
+0.000893 
+
+0.000000 
+
+0.000000 
+
+0.000000 
+
+0.000000 
+
+0.146762 
+
+0.000000 
+
+0.000000 
+
+Table 3. Regression statistics 
+
+It could be seen from the table that β coefficients are significant at 99% significance level in 
+
+all regressions, except SEMZ. We also observe that R squared is not so high, but F-statistic shows 
+
+significance  at  99%  significance  level  for  the  whole  regression  for  every  stock,  except  SEMZ.  It 
+
+doesn’t  matter  if  α  coefficient  is  not  significant  in  some  cases.  We  could  use  excess  returns 
+
+ 
+
+     29 
+
+regressions instead to eliminate non-significance of intercept. I exclude SEMZ regression, in order to 
+
+get unbiased estimates of abnormal returns. 
+
+Based on the estimated coefficients of α and β, I define abnormal returns for each stock and 
+
+for each day in event window. The summary is presented in Table 4. 
+
+  
+
+Akron  Baltica  ChelPipe  Fortum  GUM 
+
+IDGC 
+
+Lukoil  Nickel  Sollers  TMK 
+
+Fortum 
+
+Day 1 
+
+0,039 
+
+0,027 
+
+-0,010 
+
+-0,002 
+
+-0,002 
+
+0,001 
+
+0,008 
+
+-0,002 
+
+0,037 
+
+0,110 
+
+-0,025 
+
+Day 2 
+
+0,047 
+
+0,013 
+
+0,000 
+
+-0,006 
+
+-0,016 
+
+0,011 
+
+0,005 
+
+-0,001 
+
+0,046 
+
+0,051 
+
+0,029 
+
+Day 3 
+
+0,037 
+
+0,019 
+
+-0,004 
+
+-0,003 
+
+-0,032 
+
+-0,011 
+
+-0,002 
+
+0,034 
+
+0,044 
+
+0,087 
+
+0,008 
+
+Day 4 
+
+0,041 
+
+0,038 
+
+-0,023 
+
+-0,006 
+
+-0,020 
+
+-0,015 
+
+-0,010 
+
+0,036 
+
+0,056 
+
+0,060 
+
+0,008 
+
+Day 5 
+
+0,064 
+
+0,048 
+
+-0,006 
+
+-0,003 
+
+-0,017 
+
+0,020 
+
+-0,022 
+
+0,046 
+
+0,045 
+
+0,075 
+
+0,016 
+
+Table 4. Daily cumulative abnormal returns 
+
+ 
+
+Day5 line represents cumulative abnormal returns around the whole event window.  
+
+To perform the testing procedures, I calculate J1 and J2 statistics which are used for inference. Both 
+
+statistics  are  based  on  cross-sectional  hypothesis  about  abnormal  returns.  I  also  calculated  the 
+
+individual event  significance in Excel  spreadsheet,  but  I am  more interested in  average cumulative 
+
+abnormal returns significance. 
+
+ 
+
+Under the null hypothesis the average cumulative abnormal  returns  for the observed stocks 
+
+are equal to zero. It means that under null hypothesis the event doesn’t have statistically significant 
+
+effect  on  stock  performance.  The  alternative  hypothesis  might  be  different.  First  one  is  based  on 
+
+two-sided test and states that there was an effect of event on stock prices dynamics. The second one 
+
+is  a one-sided test that is why it is  stricter.  It  states that the effect  of observed event  is  positive on 
+
+stock returns.  
+
+ 
+
+J1 and J2 statistics are aggregate measures. In this meaning they average the critical value 
+
+through time and among assets. The formulas are the following: 
+
+    
+
+                
+             
+
+         , 
+
+                   
+
+ 
+ 
+
+ 
+
+                
+
+  
+
+   
+
+where 
+
+ 
+
+     30 
+
+  
+
+                    
+
+ 
+
+    
+
+               
+
+ 
+
+         
+
+ 
+   
+
+           
+
+ 
+
+           
+
+ 
+   
+
+ 
+
+ 
+
+J2 statistic is calculated as following: 
+
+      
+
+       
+
+      
+
+      
+
+                        , 
+
+where 
+
+                 
+    
+
+ 
+ 
+
+ 
+
+                  
+
+ 
+
+   
+
+                
+
+                 
+ 
+             
+
+The calculation is showed in Excel spreadsheet.  
+
+J1 statistic is equal 1,7577. 
+
+J2 is equal 2,019. 
+
+Both  statistics  are  significant  at  95%  confidence  level.  It  means  that  the  null  hypothesis  is 
+
+rejected and cumulative abnormal returns were influenced by event occurred.  
+
+One sided test has critical value of 1,96 for 95% confidence level. We conclude that we fail 
+
+to reject the null hypothesis and the event doesn’t have positive effect.  
+
+Following  the  literature  prescriptions,  stock  returns  should  be  tested  for  normality. 
+
+Lognormal  returns  are  distributed  on  average  closer  to  normal  compared  to  net  simple  returns. 
+
+However,  a  drawback  of  the  dataset  was  found  out  here.  Several  normality  tests  metrics  were 
+
+implied to return distributions and provided evidence on strong non-normality. The summary of the 
+
+tests are presented in Table 5. 
+
+Stock 
+
+Skewness 
+
+Kurtosis 
+
+Skewness test p-value  Kurtosis test p-value 
+
+Jarque-Bera 
+
+JB p-value 
+
+Akron 
+
+0.929518 
+
+7.112576 
+
+0,0000 
+
+0,0000 
+
+212.1801 
+
+0,0000 
+
+ 
+
+     31 
+
+Baltica 
+
+-1.347958 
+
+9.381986 
+
+ChelPipe 
+
+0.049847 
+
+3.889157 
+
+Fortum 
+
+GUM 
+
+0.900898 
+
+ 
+
+2.749821 
+
+ 
+
+6.819345 
+
+28.94400 
+
+IDGC 
+
+0.018636 
+
+4.951186 
+
+3.964856 
+
+Lukoil 
+
+NorNik 
+
+Polyus Gold 
+
+-0.135772 
+
+ 
+
+0.336022 
+
+ 
+
+ 
+
+-3.202174 
+
+ 
+
+0,0000 
+
+0,3738 
+
+0,0000 
+
+0,0000 
+
+0,4521 
+
+0,1904 
+
+0,0000 
+
+499.9762 
+
+0,0000 
+
+0,0021 
+
+8.338940 
+
+0,0000 
+
+0,0000 
+
+185.7695 
+
+0,0000 
+
+0,0000 
+
+7326.427 
+
+0,0000 
+
+0,0000 
+
+39.67204 
+
+0,0000 
+
+0,0009 
+
+10.46545 
+
+0,0000 
+
+4.983596 
+
+0,0150 
+
+0,0000 
+
+45.69057 
+
+0,0000 
+
+45.60324 
+
+0,0000 
+
+0,0000 
+
+19333.87 
+
+0,0000 
+
+Sollers 
+
+0.826888 
+
+4.762092 
+
+TMK 
+
+0.189360 
+
+4.820290 
+
+0,0000 
+
+0,1108 
+
+0,0000 
+
+60.83279 
+
+0,0000 
+
+0,0000 
+
+36.00920 
+
+0,0000 
+
+Table 5. Normality tests 
+
+Jarque-Bera  statistic  and  its  p-value  is  0,0000  for  each  stock  return.  It  means  that  the  null 
+
+hypothesis  of  being  normally  distributed  is  rejected.  Skewness  tests  demonstrate  the  rejection  of 
+
+normality  hypothesis.  It  is  rejected  for  7  out  of  11  stocks.  Kurtosis  tests  also  demonstrate  the 
+
+rejection of normality hypothesis. It is rejected for all 11 stock returns. 
+
+Uncorrelated  returns  as  well  as  multivariate  normality  of  returns  are  key  assumptions  of 
+
+event study’s tests. Normality testing procedures indicate a violation of assumption of event study’s 
+
+tests. The event study results must be considered with the degree of doubt.  
+
+It  is  widespread  problem,  when  stocks  returns  are  not  normally  distributed  (Brown  and 
+
+Warner, 1985). Corrado and Zivney (1992) state that non-parametric tests are more commonly used 
+
+than parametric tests since they overcome sample distribution drawbacks. 
+
+Non-parametric  tests  relax  the  assumption  of  normality  distribution  (Corrado,  1989).  Sign 
+
+and rank tests are most popular ones. I imply both of them to the sample.  
+
+Sign tests require two assumptions: abnormal returns must be independent across stocks and 
+
+the proportion of expected positive abnormal returns is equal to proportion of negative returns and 
+
+equal  to  0,5.  Sign  tests  are  based  on  the  signs  of  abnormal  returns.  They  are  were  simple  to 
+
+ 
+
+     32 
+
+implement  and  so  not  fit  well  for  a  daily  data,  since  daily  data  is  highly  skewed  (as  we  can  see 
+
+previously).  Skewness  distorts  equal  proportion  assumption  and  weakens  the  test  inferences.  For 
+
+demonstrative purposes I performed it in analysis.  
+
+J3 test statistic is calculated by the following formula: 
+
+      
+
+ 
+
+ 
+
+ 
+
+        
+
+ 
+ 
+
+ 
+
+   
+
+         , 
+
+where      is  a  number  of  positive  cumulative  abnormal  returns  in  a  cross-section,  N  is  a 
+
+number of stocks. 
+
+In my sample, there are 7 positive cumulative abnormal returns.  
+
+J3 statistic is equal to 0,5527708.  
+
+The  result  is  not  significant;  meaning  that  null  hypothesis  of  having  positive  cumulative 
+
+abnormal returns is rejected. 
+
+Another  test  used  is  rank  test.  It  improves  the  weaknesses  associated  with  sign  tests.  In 
+
+particularly, it allows applying the test to daily data samples.  
+
+There are two specifications of rank tests. They have the same assumptions, but the size of 
+
+the used sample data varies. The first specification ranks abnormal returns during event window. The 
+
+other includes also  ranks of estimation period returns.  The ranks are appointed in  ascending order. 
+
+That means the lowest return gets the first rank.  
+
+The statistic is calculated by the following formula: 
+
+    
+
+ 
+ 
+
+ 
+
+ 
+
+   
+
+      
+
+      
+
+ 
+     
+
+ 
+
+          
+
+           
+  
+
+ 
+
+  
+      
+
+ 
+
+ 
+
+ 
+
+        
+
+ 
+   
+
+    
+ 
+
+ 
+
+ 
+
+ 
+
+, 
+
+where Kit is a rank of stock I at time t (t=0 is event date), L2 is a event period length. 
+
+The  sample  J4  is  equal  to  -0,534529  and  is  insignificant.  The  null  hypothesis  of  positive  effect  is 
+
+rejected at 95% significance level.  
+
+                                                           
+9 Calculation include SEMZ company 
+
+ 
+
+     33 
+
+ 
+
+The  second  specification  includes  ranks  of  return  series  in  estimation  period.  Excel 
+
+spreadsheet calculates the critical value of test. The formula used is the same as described above. 
+
+ 
+
+Calculated J4 equals -0,3301. It means that null hypothesis is rejected. The is no positive or 
+
+negative effect of event on stock prices.  
+
+ I  also  applied  non-parametric  GRANK  test,  which  has  many  benefits:  "First,  it  is  robust  to 
+
+event-induced  volatility.  Second,  the  empirical  power  of  the  test  proves  to  dominate  popular 
+
+parametric tests as well as existing rank tests of cumulative abnormal returns. Third, it is reasonably 
+
+robust to autocorrelation of abnormal  returns. Fourth, it is robust against a certain degree of cross-
+
+correlation  caused  by  event  day  clustering.  Fifth,  and  last,  it  is  distribution  free  and  thus  less 
+
+sensitive to distributional assumptions than parametric counterparts." (Kolari and Pynnonen, 2011, p. 
+
+2) 
+
+The test statistic is follows 
+
+            
+
+   
+
+     
+
+           
+
+                    
+
+where Z ratio is properly normalized (Equation (13 Kolari  et. al 2011) using cross-sectional 
+
+variance in rescaled ranks of GSAR, which series is given below 
+
+          
+
+                                       
+      
+                     
+
+  
+
+In my case        is equal to 1.14 (p-value is 0.2). We fail to reject the null of no mean event 
+
+effect. 
+
+Concluding the estimated procedures, I would state that the estimated results do not support 
+
+the  states  hypothesis.  Tests  based  on  parametric  assumptions  provide  support,  but  do  not  rely  on 
+
+required assumptions. They should not be considered as the proper ones. Non-parametric tests do not 
+
+support the hypothesis that political connection affects the stock price around nomination date.  
+
+There are several reasons for that.  
+
+First of all, it is a lack of data on unofficial and personified connections. Connections through 
+
+relatives are also not captured by the methodology. The absence of this data decreases the number of 
+
+politically  connected  sample  and  understates  the  possible  positive  effect.  The  connection  might  be 
+
+established  and  some  effect  exists,  but  it  is  not  identified.  For  instance,  Novatek  might  be  a  good 
+
+ 
+
+     34 
+
+example.  It  is  known  from  press  that  Gennadiy  Timchenko,  the  head  and  shareholder  of  the 
+
+company, is a close friend of Vladimir Putin. The connection and preferences might be provided by 
+
+these  relationships.  However,  he  doesn’t  hold  any  official  public  position,  so  the  methodology 
+
+ignores it.  
+
+Secondly, the  results are not  proved, because connections are  established long  time ago.  In 
+
+the yearly 2000th businessmen acquired state companies during the privatization. Some of them hold 
+
+top managers positions simultaneously and remain key shareholders till nowadays. During the time 
+
+of  privatization  business  elite  was  very  close  to  governmental.  Since  then  corporate-political 
+
+relationships could be established and existed till now. Long lasted relationships will not be reflected 
+
+in stock price fluctuations. In this case the implemented procedure will not capture these effects.  
+
+Finally,  the  connections  might  be  established  not  only  through  federal  authorities,  but  also 
+
+through regional ones. This issue might be an object of further research. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     35 
+
+Conclusion 
+
+Thesis  paper  presents  the  analysis  of  political  connections  on  firms’  performance 
+
+implications. It focuses on Russian market and describes the presence of political connections among 
+
+largest Russian public companies. 
+
+To perform the research I collected broad database on public workers and corporate directors. 
+
+The  number  of  current  and  former  public  workers  comprised  5199  persons.  The  data  includes 
+
+current and former members of Government, Federal Assembly of Russian Federation, Presidential 
+
+Office and related committees. I studied firms’ quarterly reports and lists of affiliated persons to find 
+
+out the members of Board of Directors and Board of Management. The total number of members of 
+
+both Boards comprised 1011 officers. 
+
+I  used  Excel  functions  to  search  for  similarities  in  the  names  between  two  lists.  Finally,  I 
+
+found  out  that  the  connections  are  established  in  23  companies  out  of  total  121  analyzed  private 
+
+public companies. These companies represent 43% and 15% of market capitalization of total number 
+
+of private companies and total number of all analyzed companies correspondingly.  
+
+Event study methodology was implemented to test the effect of political connection on stock 
+
+price fluctuations. The event of interest was the nomination of politically connected representative to 
+
+the company.  
+
+I  assumed  that  the  firm  is  able  to  exploit  several  benefits  when  it  is  being  close  to  the 
+
+government  based  on  the  review  of  academic  literature.  I  expected  to  observe  short-run  abnormal 
+
+price  increases  during  the  event  window.  In  this  case  the  announcement  of  public  worker’s 
+
+nomination to companies Boards is expected to be positive signal for investors and the prices should 
+
+go up.  
+
+Stock  returns  around  the  announcement  date  were  explored.  Using  the  event  study’s 
+
+procedures  I  tested  cumulative  abnormal  returns  for  being  affected  by  the  event  of  interest.  J1,  J2 
+
+parametric  tests  were  performed.  They  conclude  the  rejection  of  null  hypothesis,  meaning  that  the 
+
+returns experiences abnormal  returns around the  event  date. However, the implementation  of these 
+
+tests  is  limited and is under concern, since  financial  data doesn’t support the required properties.  I 
+
+checked  the  normality  of  the  return  series  and  rejected  the  hypothesis,  that  returns  are  normal  and 
+
+multivariate normal. This is a matter of concern and limits the proposed results.  
+
+ 
+
+     36 
+
+I  implemented  non-parametric  tests  to  test  the  same  hypothesis.  Non-parametric  tests  relax 
+
+the  assumption  of  normality  of  returns  and  are  appropriate  methods  for  the  analysis.  J3,  J4  and 
+
+expanded  J4  metrics  are  used  to  make  inferences.  I  also  calculated  GRANK-T  test  statistic 
+
+introduced by Kolari, Pynnonen (2011). Unfortunately, the hypothesis of positive abnormal returns 
+
+was rejected by these procedures.  
+
+I conclude the thesis paper with the caveats and potential directions of research.  
+
+First of all, the methodology of the research could be expanded.  
+
+  Dynamics  of  Boards  members  could  be  introduced.  It  means  that  former  Boards  members 
+
+might  also  be  connected.  Introduced  procedure  doesn’t  capture  dynamics  and  is  relies  on 
+
+current cross-sectional data. 
+
+  Members  of  regional  authorities  could  be  added  to  the  database.  Additional  connections 
+
+could be identified within this data.  
+
+  Relatives  and  friendship  relationships  could  be  introduces.  It  is  a  matter  of  subjectivity 
+
+though, but the existence of informal and friendship relationships are quite spread and press 
+
+could  be analyzed  for that  issues.  I excluded it, since it brings the degree of subjectivity in 
+
+research.  
+
+Secondly, the empirics and econometric models could be improved.  
+
+  Parametric  procedures  are  criticized  and  are  under  concern  since  the  weaknesses  of  stock 
+
+series  data  characteristics.  Non-parametric  tests  fit  well,  but  do  not  prove  the  expected 
+
+hypothesis. I suggest that the research could be improved by developing customized statistics 
+
+for implication of parametric tests.  
+
+ 
+
+Introduced  methodology  captures  short-term  effect  of  political  connections.  Though  it 
+
+remains  popular  among  academic  researchers,  long-term  effects  are  also  estimated  and 
+
+described in literature. The concepts of the research could be modified in order to experience 
+
+those effects.  
+
+Concluding that, thesis paper research adds insight on the situation on Russian market, which 
+
+previously remained almost unexplored. It doesn’t support expected results, nevertheless, it derives 
+
+the  result  of  neutrality  in  short  term  effect  of  politically  connected  officer  nomination  to  the  firm 
+
+Boards. 
+
+ 
+
+     37 
+
+References 
+
+Journal articles: 
+
+1)  Austen-Smith  D.,  Wright  J.  R.  Theory  and  evidence  for  counteractive  lobbying  //  American 
+
+Journal  of  Political  Science.  1996.  Vol.  40.  No.  2.  P.  543-564.  Available  from  JSTOR: 
+
+<http://www.jstor.org/stable/2111637>. 
+
+2)  Baysinger B.D. Domain maintenance as an objective of business political activity: An expanded 
+
+typology // Academy of Management Review. 1984. Vol. 9. No. 2. P. 248-258. Available from 
+
+JSTOR: <http://www.jstor.org/stable/258438>. 
+
+3)  Charumilind C., Kali R., Wiwattanakantang Y. Connected lending: Thailand before the financial 
+
+crisis  //  Journal  of  Business.  2006.  Vol.  79.  No.  1.  P.181-218.  Available  from  JSTOR: 
+
+<http://www.jstor.org/stable/10.1086/497410>. 
+
+4)  Claessens  S.,  Feijen  E.,  Laeven  L.  Political  connections  and  preferential  access  to  finance:  the 
+
+role  of  campaign  contributions  //  Journal  of  Financial  Economics.  2008.  Vol.  88.  P.  554-580. 
+
+Available from ELSEVIER. 
+
+5)  Corrado C. J. A nonparametric test for abnormal security-price performance in event studies // 
+
+Journal of Financial Economics. 1989. Vol. 23. P. 385-395. Available from ELSEVIER. 
+
+6)  Corrado  C.J.,  Zivney  T.  L.  The  Specification  and  Power  of  the  Sign  Test  in  Event  Study 
+
+Hypothesis  Tests  Using  DailyStock  Returns  //  The  Journal  of  Financial  and  Quantitative 
+
+Analysis. 
+
+1992.  Vol. 
+
+27.  No. 
+
+3. 
+
+P.465-478.  Available 
+
+from 
+
+JSTOR: 
+
+<http://www.jstor.org/stable/2331331>. 
+
+7)  Cooper M.J., Gulen H., Ovtchinnikov A.V. Corporate Political Contributions and Stock Returns // 
+
+The Journal of Finance. 2010. Vol. 65. P. 687-724. Available from Wiley InterScience.  
+
+8)  Faccio M., Masulis R.W., McConnell J.J. Political connections and corporate bailouts // Journal 
+
+of  Finance.  2006.  Vol.  61.  No.  6.  P.  2597-2635.  Available 
+
+from 
+
+JSTOR: 
+
+<http://www.jstor.org/stable/4123440>. 
+
+9)  Fisman R. Estimating the Value of Political Connections // American Economic Review. 2001. 
+
+Vol. 91. No. 4. P. 1095-1102. Available from JSTOR: <http://www.jstor.org/stable/2677829>. 
+
+10) Frye  T.M.,  Iwasaki  I.  Government  directors  and  business–state  relations  in  Russia  //  European 
+
+Journal of Political Economy. 2011. Vol. 27. P. 642–658. Available from ELSEVIER. 
+
+ 
+
+     38 
+
+11) Getz  K.A.  Public  affairs  and  political  strategy:  theoretical  foundations  //  Journal  of  Public 
+
+Affairs. 2001. Vol. 1. No. 4. P. 305–329. Available from Wiley InterScience.  
+
+12) Granovetter  M.  Economic  action  and  social  structure:  The  problem  of  embeddedness  // 
+
+American  Journal  of  Sociology.  1985.  Vol.  91.  No.  3.  P.481-510.  Available  from  JSTOR: 
+
+<http://www.jstor.org/stable/2780199>. 
+
+13) Grier  K.B.,  Munger  M.C.  Comparing  Interest  Group  PAC  Contributions  to  House  and  Senate 
+
+Incumbents,  1980-1986  //  The  Journal  of  Politics.  1993.  Vol.  55.  No.  3.  P.615-643.  Available 
+
+from JSTOR: <http://www.jstor.org/stable/2131991>. 
+
+14) Hersch  P.,  Netter  J.M.,  Pope  C.  Do  Campaign  Contributions  and  Lobbying  Expenditures  by 
+
+Firms Create “Political”  Capital? //  Atlantic Economic Journal. 2008. Vol. 36.  Issue 4. P. 395-
+
+405. Available from SpringerLink. 
+
+15) Hillman A.J., Keim G.D., Schuler D. Corporate political activity: A review and research agenda 
+
+// Joumal of Management. 2004. Vol. 30. No. 6. P. 837-857. Available from Wiley InterScience. 
+
+16) Jayachandran  S.  The  Jeffords  Effect  //  Journal  of  Law  and  Economics.  2006.  Vol.  49.  No.2. 
+
+P.397–425. Available from JSTOR: <http://www.jstor.org/stable/10.1086/501091>. 
+
+17) Johnson  S.,  Mitton  T.  Cronyism  and  Capital  Controls:  Evidence  from  Malaysia  //  Journal  of 
+
+Financial Economics. 2003. Vol. 67. No. 2. P. 351-82. Available from ELSEVIER. 
+
+18) Keim G., Baysinger B. The Efficacy of Business Political Activity: Competitive Considerations 
+
+in  a  Principal-Agent  Context  //  Journal  of  Management.  1988.  Vol.  14.  No.  2.  P.  163-180. 
+
+Available from SAGE: <http://jom.sagepub.com/content/14/2/163>. 
+
+19) Keim  G.  D.,  Zeithaml  C.  P.  Corporate  political  strategy  and  legislative  decision  making:  A 
+
+review  and  contingency  approach  //  Academy  of  Management  Review.  1986.  Vol.  11.  P.  828-
+
+843. Available from JSTOR: < http://www.jstor.org/stable/258400>. 
+
+20) Khwaja  A.I.,  Mian  A.  Do  lenders  favor  politically  connected  firms?  Rent  provision  in  an 
+
+emerging  financial  market  //  Quarterly  Journal  of  Economics.  2005.  Vol.  120.  P.  1371-1411. 
+
+Available from JSTOR: < http://www.jstor.org/stable/25098774>. 
+
+21) Kolari  J.W.,  Pynnonen  S.  Nonparametric  rank  tests  for  event  studies  //  Journal  of  Empirical 
+
+Finance. 2011. Vol. 18. P. 953–971. Available from ELSEVIER. 
+
+22) Schuler  D.,  Rehbein  K.,  Cramer  R.  Pursuing  strategic  advantage  through  political  means:  A 
+
+multivariate  approach  //  Academy  of  Management  Journal.  2002.  Vol.  45.  No.  4.  P.  659-672. 
+
+Available from JSTOR: <http://www.jstor.org/stable/3069303>. 
+
+ 
+
+     39 
+
+23) Wu W., Wu C., Rui O.M. 2012 Ownership and the Value of Political Connections: Evidence from 
+
+China  //  European  Financial  Management.  2012.  Vol.  18.  No.  4.  P.  695–729.  Available  from 
+
+Wiley InterScience.  
+
+24) Yakovlev A., Simachev Y., Danilov Y. The Russian corporation: patterns of behaviour during the 
+
+crisis  //  Post-Communist  Economies.  2010.  Vol.  22.  Issue  2.  P.  129-140.  Available  from 
+
+EBSCOHost. 
+
+ 
+
+Books: 
+
+25) Dolgopyatova T., Iwasaki I., Yakovlev A. Organization and development of Russian business: a 
+
+firm-level analysis. New York: Palgrave Macmillan, 2009 
+
+26) Mundo P.A. Organizational analysis of interest groups // Mundo P.A. Interest Groups: Cases and 
+
+Characteristics. Chicago: Nelson-Hall, 1992. P. 18-38. 
+
+27) Oberman  W.  D.  Strategy  and  tactic  choice  in  an  institutional  resource  context  //  Mitnick  B.M. 
+
+Corporate Political Agency: The Construction of Competition in Public Affairs.  Newbury Park, 
+
+CA: Sage, 1993. P.213-241. 
+
+28) Plotke D. The political mobilization of business // Petracca M. P. The Politics of Interest Groups 
+
+Transformed. Boulder, CO: Westview, 1992. P.175-198. 
+
+29) Williamson  O.E.  The  Economic  Institutions  of  Capitalism:  Firms,  Markets,  Relational 
+
+Contracting. New York: Free Press, 1985. P. 15-38  
+
+ 
+
+Working papers: 
+
+30) Aggarwal  R.K.,  Meschke  F.,  Wang  T.Y.  Corporate  Political  Donations:  Investment  or  agency? 
+
+2008 WFA Meeting Paper; AFA 2012 Chicago Meetings Paper. 5 April 2012. 
+
+31) Bandeira-de-Mello  R.,  Marcon  R.  The  Value  of  Business  Group  Affiliation  for  Political 
+
+Connections: Preferential Lending in Brazil 
+
+32) Do  Q-A.,  Lee  Y-T.,  Nguyen  B.D.  Political  Connections  and  Firm  Value:  Evidence  from  the 
+
+Regression Discontinuity Design of Close Gubernatorial Elections. November 2012. 
+
+Internet resources: 
+
+33) Federal Council of Russian Federation website. http://www.council.gov.ru/ 
+
+34) Russian Federation Government website. http://government.ru/ 
+
+ 
+
+     40 
+
+35) State Duma of Russian Federation website. http://www.duma.gov.ru/ 
+
+36) Search engine. http://www.public.ru/ 
+
+37) Factiva search engine. http://www.dowjones.com/ 
+
+38) Ria Novosti news portal. http://ria.ru/ 
+
+39) RA Expert Rating Agency. http://www.raexpert.ru/ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     41 
+
+Appendix 
+
+Appendix A. Second filter state companies 
+
+Company 
+
+Rosneft 
+
+TNK-BP 
+
+Novatek 
+
+Uralkali 
+
+Chemical and 
+petrochemical 
+
+industry 
+
+Gazpromneft 
+
+Oil and gas industry 
+
+Industry 
+
+Connection 
+
+authority 
+
+Company’s representative 
+
+Oil and gas industry 
+
+Government 
+
+Sechin Igor, BoM, BoD 
+
+Oil and gas industry 
+
+Government 
+
+Sechin Igor, BoM 
+
+Oil and gas industry 
+
+Government 
+
+Vardanyan Ruben, BoD 
+
+State Duma 
+
+Kerimov Suleiman, shareholder 
+
+Fed Council, 
+
+Regional 
+structures 
+
+Golubev Valeriy, BoD, 
+Serdyukov Valeriy, BoD 
+
+Bank of Moscow 
+
+Transcreditbank 
+
+Banks 
+
+Banks 
+
+Government 
+
+Zadornov Mickhail, BoD 
+
+Government 
+
+Zadornov Mickhail, BoD 
+
+Irkutskenergo 
+
+Power industry 
+
+Government 
+
+Kovalchyuk Boris, BoD 
+
+OGK-3 
+
+OGK-1 
+
+AvtoVaz 
+
+Kamaz 
+
+Dalnevostochnaya 
+Energetic Company 
+
+Power industry 
+
+Government 
+
+Kovalchyuk Boris, BoD 
+
+Power industry 
+
+Government 
+
+Kovalchyuk Boris, BoD 
+
+Engineering 
+
+Engineering 
+
+Power industry 
+
+Government 
+
+Government 
+
+Regional 
+structures 
+
+Vardanyan Ruben, BoD 
+
+Vardanyan Ruben, BoD 
+
+Milush Victor, BoM 
+
+Mosenergosbyt 
+
+Power industry 
+
+Government 
+
+Kovalchyuk Boris, BoD 
+
+Petersburg Sbytovaya 
+
+Company 
+
+Ufa Engine Industrial 
+
+Association 
+
+TGK-11 
+
+Power industry 
+
+Government 
+
+Kovalchyuk Boris, BoD 
+
+Engineering 
+
+Regional 
+structures 
+
+Artuykhov Aleksandr, BoM 
+
+Power industry 
+
+Government 
+
+Kojhemyako Sergey, BoM 
+
+TGK-2 
+
+Power industry 
+
+Regional 
+structures 
+
+Aleksandrovich Vladlen, BoM 
+
+Central Telegraph 
+
+Telecommunications 
+
+Government 
+
+Bulgak Vladimir, BoD 
+
+Chemical and 
+petrochemical 
+
+industry 
+
+Regional 
+structures 
+
+Akulov Timur, BoD 
+
+Nizhnekamskshina 
+
+ 
+
+ 
+
+     42 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+t-Statistic 
+
+ 
+ 
+
+3.283128 
+4.869851 
+
+Appendix B. Estimation models 
+
+1)  Akron 
+
+Dependent Variable: RETURNS_AKRON 
+Method: Least Squares 
+Date: 06/17/13   Time: 01:07 
+Sample: 1 250 
+Included observations: 250 
+
+ 
+
+ 
+ 
+
+Variable 
+
+ 
+ 
+C 
+
+MICEX_AKRON 
+
+ 
+ 
+
+R-squared 
+Adjusted R-squared 
+S.E. of regression 
+Sum squared resid 
+Log likelihood 
+F-statistic 
+Prob(F-statistic) 
+
+ 
+ 
+2)  Baltica 
+
+ 
+ 
+
+Coefficient 
+
+ 
+ 
+
+0.005297 
+0.465298 
+
+ 
+ 
+
+Std. Error 
+
+ 
+ 
+
+0.001613 
+0.095547 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+0.087280     Mean dependent var 
+0.083600     S.D. dependent var 
+0.025487     Akaike info criterion 
+0.161099     Schwarz criterion 
+563.6646     Hannan-Quinn criter. 
+23.71545     Durbin-Watson stat 
+ 
+0.000002 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Dependent Variable: RETURNS_BALT 
+Method: Least Squares 
+Date: 06/17/13   Time: 01:19 
+Sample: 1 250 
+Included observations: 250 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+t-Statistic 
+
+ 
+ 
+
+-1.953078 
+4.930548 
+
+ 
+
+ 
+ 
+
+Std. Error 
+
+ 
+ 
+
+0.000734 
+0.040320 
+
+ 
+ 
+
+Coefficient 
+
+ 
+ 
+
+-0.001434 
+0.198802 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+0.089274     Mean dependent var 
+0.085602     S.D. dependent var 
+0.011601     Akaike info criterion 
+0.033377     Schwarz criterion 
+760.4325     Hannan-Quinn criter. 
+24.31031     Durbin-Watson stat 
+ 
+0.000002 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Variable 
+
+ 
+ 
+C 
+
+MICEX_BALT 
+
+ 
+ 
+
+R-squared 
+Adjusted R-squared 
+S.E. of regression 
+Sum squared resid 
+Log likelihood 
+F-statistic 
+Prob(F-statistic) 
+
+ 
+ 
+
+3)  ChelPipe 
+
+Dependent Variable: RETURNS_CHELPIPE 
+Method: Least Squares 
+Date: 06/17/13   Time: 01:24 
+Sample: 1 250 
+Included observations: 250 
+
+ 
+
+ 
+ 
+
+Variable 
+
+ 
+ 
+C 
+
+MICEX_CHEL_PIPE 
+
+ 
+ 
+
+Coefficient 
+
+ 
+ 
+
+0.000468 
+0.975386 
+
+ 
+ 
+
+Std. Error 
+
+ 
+ 
+
+0.001160 
+0.098105 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+t-Statistic 
+
+ 
+ 
+
+0.403271 
+9.942247 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prob.   
+ 
+ 
+0.0012 
+0.0000 
+ 
+ 
+
+0.005614 
+0.026624 
+-4.493317 
+-4.465145 
+-4.481979 
+1.780481 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prob.   
+ 
+ 
+0.0519 
+0.0000 
+ 
+ 
+
+-0.001594 
+0.012132 
+-6.067460 
+-6.039288 
+-6.056121 
+2.158416 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prob.   
+ 
+ 
+0.6871 
+0.0000 
+
+     43 
+
+ 
+ 
+
+R-squared 
+Adjusted R-squared 
+S.E. of regression 
+Sum squared resid 
+Log likelihood 
+F-statistic 
+Prob(F-statistic) 
+
+ 
+ 
+4)  Fortum 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+0.284990     Mean dependent var 
+0.282107     S.D. dependent var 
+0.018317     Akaike info criterion 
+0.083209     Schwarz criterion 
+646.2486     Hannan-Quinn criter. 
+98.84828     Durbin-Watson stat 
+ 
+0.000000 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Dependent Variable: RETURNS_FORTUM 
+Method: Least Squares 
+Date: 06/17/13   Time: 01:27 
+Sample: 1 250 
+Included observations: 250 
+
+ 
+
+ 
+ 
+
+Variable 
+
+ 
+ 
+C 
+
+MICEX_FORTUM 
+
+ 
+ 
+
+R-squared 
+Adjusted R-squared 
+S.E. of regression 
+Sum squared resid 
+Log likelihood 
+F-statistic 
+Prob(F-statistic) 
+
+ 
+ 
+
+5)  GUM 
+
+ 
+ 
+
+Coefficient 
+
+ 
+ 
+
+0.000134 
+0.219762 
+
+ 
+ 
+
+Std. Error 
+
+ 
+ 
+
+0.001106 
+0.064965 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+0.044106     Mean dependent var 
+0.040252     S.D. dependent var 
+0.017473     Akaike info criterion 
+0.075718     Schwarz criterion 
+658.0397     Hannan-Quinn criter. 
+11.44305     Durbin-Watson stat 
+ 
+0.000834 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Dependent Variable: RETURNS_GUM 
+Method: Least Squares 
+Date: 06/17/13   Time: 01:31 
+Sample: 1 250 
+Included observations: 250 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+t-Statistic 
+
+ 
+ 
+
+0.120952 
+3.382758 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+t-Statistic 
+
+ 
+ 
+
+-0.138501 
+3.363129 
+
+ 
+
+ 
+ 
+
+Std. Error 
+
+ 
+ 
+
+0.001777 
+0.088630 
+
+ 
+ 
+
+Coefficient 
+
+ 
+ 
+
+-0.000246 
+0.298075 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+0.043618     Mean dependent var 
+0.039762     S.D. dependent var 
+0.028076     Akaike info criterion 
+0.195486     Schwarz criterion 
+539.4811     Hannan-Quinn criter. 
+11.31064     Durbin-Watson stat 
+ 
+0.000893 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Variable 
+
+ 
+ 
+C 
+
+MICEX_GUM 
+
+ 
+ 
+
+R-squared 
+Adjusted R-squared 
+S.E. of regression 
+Sum squared resid 
+Log likelihood 
+F-statistic 
+Prob(F-statistic) 
+
+ 
+ 
+
+6)  IDGC 
+
+Dependent Variable: RETURNS_IDGC 
+Method: Least Squares 
+
+ 
+
+ 
+
+ 
+ 
+
+0.001087 
+0.021619 
+-5.153989 
+-5.125817 
+-5.142650 
+1.727209 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prob.   
+ 
+ 
+0.9038 
+0.0008 
+ 
+ 
+
+0.000240 
+0.017836 
+-5.248318 
+-5.220146 
+-5.236979 
+2.583362 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prob.   
+ 
+ 
+0.8900 
+0.0009 
+ 
+ 
+
+-5.87E-05 
+0.028651 
+-4.299849 
+-4.271677 
+-4.288510 
+2.503992 
+
+ 
+ 
+ 
+
+ 
+ 
+
+     44 
+
+Date: 06/17/13   Time: 01:34 
+Sample: 1 250 
+Included observations: 250 
+
+ 
+ 
+
+Variable 
+
+ 
+ 
+C 
+
+MICEX_IDGC 
+
+ 
+ 
+
+R-squared 
+Adjusted R-squared 
+S.E. of regression 
+Sum squared resid 
+Log likelihood 
+F-statistic 
+Prob(F-statistic) 
+
+ 
+ 
+7)  Lukoil 
+
+ 
+ 
+
+Coefficient 
+
+ 
+ 
+
+-0.001166 
+0.875371 
+
+ 
+
+ 
+ 
+
+Std. Error 
+
+ 
+ 
+
+0.001439 
+0.114544 
+
+ 
+ 
+ 
+ 
+ 
+
+t-Statistic 
+
+ 
+ 
+
+-0.810092 
+7.642252 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+0.190611     Mean dependent var 
+0.187347     S.D. dependent var 
+0.022748     Akaike info criterion 
+0.128329     Schwarz criterion 
+592.0928     Hannan-Quinn criter. 
+58.40401     Durbin-Watson stat 
+ 
+0.000000 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Dependent Variable: RETURNS_LUK 
+Method: Least Squares 
+Date: 06/17/13   Time: 01:36 
+Sample: 1 250 
+Included observations: 250 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+t-Statistic 
+
+ 
+ 
+
+-1.860191 
+28.17499 
+
+ 
+
+ 
+ 
+
+Std. Error 
+
+ 
+ 
+
+0.000611 
+0.035985 
+
+ 
+ 
+
+Coefficient 
+
+ 
+ 
+
+-0.001136 
+1.013883 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+0.761957     Mean dependent var 
+0.760998     S.D. dependent var 
+0.009631     Akaike info criterion 
+0.023003     Schwarz criterion 
+806.9657     Hannan-Quinn criter. 
+793.8303     Durbin-Watson stat 
+ 
+0.000000 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+t-Statistic 
+
+ 
+ 
+
+0.286761 
+16.58926 
+
+ 
+
+ 
+ 
+
+Std. Error 
+
+ 
+ 
+
+0.000678 
+0.054341 
+
+ 
+ 
+
+Coefficient 
+
+ 
+ 
+
+0.000194 
+0.901479 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+0.525997     Mean dependent var 
+0.524086     S.D. dependent var 
+0.010713     Akaike info criterion 
+0.028465     Schwarz criterion 
+780.3326     Hannan-Quinn criter. 
+
+ 
+ 
+
+Variable 
+
+ 
+ 
+C 
+
+MICEX_LUK 
+
+ 
+ 
+
+R-squared 
+Adjusted R-squared 
+S.E. of regression 
+Sum squared resid 
+Log likelihood 
+F-statistic 
+Prob(F-statistic) 
+
+ 
+ 
+
+8)  Norilsk Nickel 
+
+ 
+ 
+
+Variable 
+
+ 
+ 
+C 
+
+MICEX_NIK 
+
+ 
+ 
+
+R-squared 
+Adjusted R-squared 
+S.E. of regression 
+Sum squared resid 
+Log likelihood 
+
+ 
+
+Dependent Variable: RETURNS_NIK 
+Method: Least Squares 
+Date: 06/17/13   Time: 01:39 
+Sample: 1 250 
+Included observations: 250 
+
+ 
+ 
+ 
+ 
+ 
+Prob.   
+ 
+ 
+0.4187 
+0.0000 
+ 
+ 
+
+-0.001054 
+0.025234 
+-4.720743 
+-4.692571 
+-4.709404 
+1.656249 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prob.   
+ 
+ 
+0.0640 
+0.0000 
+ 
+ 
+
+0.000191 
+0.019700 
+-6.439726 
+-6.411554 
+-6.428387 
+1.596120 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prob.   
+ 
+ 
+0.7745 
+0.0000 
+ 
+ 
+
+0.000400 
+0.015530 
+-6.226661 
+-6.198489 
+-6.215323 
+
+     45 
+
+F-statistic 
+Prob(F-statistic) 
+
+ 
+ 
+
+9)  Polyus Zoloto 
+
+275.2036     Durbin-Watson stat 
+ 
+0.000000 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Dependent Variable: RETURNS_POLZOL 
+Method: Least Squares 
+Date: 06/17/13   Time: 01:43 
+Sample: 1 250 
+Included observations: 250 
+
+ 
+
+ 
+ 
+
+Variable 
+
+ 
+ 
+C 
+
+MICEX_POLZOL 
+
+ 
+ 
+
+R-squared 
+Adjusted R-squared 
+S.E. of regression 
+Sum squared resid 
+Log likelihood 
+F-statistic 
+Prob(F-statistic) 
+
+ 
+
+ 
+ 
+ 
+10) Sollers 
+
+ 
+ 
+
+Coefficient 
+
+ 
+ 
+
+0.000563 
+0.864141 
+
+ 
+ 
+
+Std. Error 
+
+ 
+ 
+
+0.001859 
+0.111194 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+0.195840     Mean dependent var 
+0.192597     S.D. dependent var 
+0.029389     Akaike info criterion 
+0.214204     Schwarz criterion 
+528.0511     Hannan-Quinn criter. 
+60.39620     Durbin-Watson stat 
+0.000000 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+t-Statistic 
+
+ 
+ 
+
+0.303104 
+7.771499 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+t-Statistic 
+
+ 
+ 
+
+1.928176 
+5.933731 
+
+Dependent Variable: RETURNS_SOLLERS 
+Method: Least Squares 
+Date: 06/17/13   Time: 01:49 
+Sample: 1 250 
+Included observations: 250 
+
+ 
+
+ 
+ 
+
+Variable 
+
+ 
+ 
+C 
+
+MICEXSOLLERS 
+
+ 
+ 
+
+R-squared 
+Adjusted R-squared 
+S.E. of regression 
+Sum squared resid 
+Log likelihood 
+F-statistic 
+Prob(F-statistic) 
+
+ 
+ 
+
+11) TMK 
+
+ 
+ 
+
+Coefficient 
+
+ 
+ 
+
+0.002043 
+0.370963 
+
+ 
+ 
+
+Std. Error 
+
+ 
+ 
+
+0.001060 
+0.062518 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+0.124322     Mean dependent var 
+0.120791     S.D. dependent var 
+0.016735     Akaike info criterion 
+0.069451     Schwarz criterion 
+668.8391     Hannan-Quinn criter. 
+35.20916     Durbin-Watson stat 
+ 
+0.000000 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Dependent Variable: RETURNS_TMK 
+Method: Least Squares 
+Date: 06/17/13   Time: 01:50 
+Sample: 1 250 
+Included observations: 250 
+
+ 
+
+ 
+ 
+
+Variable 
+
+ 
+
+ 
+ 
+
+Coefficient 
+
+ 
+
+ 
+ 
+
+Std. Error 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+t-Statistic 
+
+ 
+
+ 
+
+1.734859 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prob.   
+ 
+ 
+0.7621 
+0.0000 
+ 
+ 
+
+0.000741 
+0.032707 
+-4.208409 
+-4.180237 
+-4.197071 
+2.057426 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prob.   
+ 
+ 
+0.0550 
+0.0000 
+ 
+ 
+
+0.002341 
+0.017847 
+-5.334713 
+-5.306541 
+-5.323374 
+2.084213 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prob.   
+ 
+
+     46 
+
+ 
+C 
+
+MICEX_TMK 
+
+ 
+
+-0.000905 
+0.752217 
+
+ 
+
+0.001425 
+0.085042 
+
+ 
+
+-0.634970 
+8.845209 
+
+ 
+ 
+
+R-squared 
+Adjusted R-squared 
+S.E. of regression 
+Sum squared resid 
+Log likelihood 
+F-statistic 
+Prob(F-statistic) 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+0.239818     Mean dependent var 
+0.236753     S.D. dependent var 
+0.022530     Akaike info criterion 
+0.125883     Schwarz criterion 
+594.4979     Hannan-Quinn criter. 
+78.23772     Durbin-Watson stat 
+0.000000 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+0.5260 
+0.0000 
+ 
+ 
+
+-0.000744 
+0.025788 
+-4.739983 
+-4.711812 
+-4.728645 
+2.264788 
+
+ 
+ 
+ 
+
+ 
+
+     47 
+
+Appendix C. Returns Distribution 
+
+1)  Akron 
+
+2)  Baltica 
+
+ 
+
+3)  ChelPipe 
+
+ 
+
+ 
+
+ 
+
+     48 
+
+01020304050607080-0.10-0.050.000.050.100.15Series: RETURNS_AKRONSample 1 250Observations 250Mean       0.005614Median   0.000000Maximum  0.140371Minimum -0.093227Std. Dev.   0.026624Skewness   0.929518Kurtosis   7.112576Jarque-Bera 212.1801Probability 0.000000010203040506070-0.06-0.04-0.020.000.020.04Series: RETURNS_BALTSample 1 250Observations 250Mean      -0.001594Median  -0.000829Maximum  0.036796Minimum -0.068470Std. Dev.   0.012132Skewness  -1.347958Kurtosis   9.381986Jarque-Bera 499.9762Probability 0.0000004) 
+
+Fortum 
+
+5)  GUM 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     49 
+
+05101520253035-0.06-0.04-0.020.000.020.040.06Series: RETURNS_CHELPIPESample 1 250Observations 250Mean       0.001087Median   0.000540Maximum  0.072519Minimum -0.071667Std. Dev.   0.021619Skewness   0.049847Kurtosis   3.889157Jarque-Bera 8.338940Probability 0.01546001020304050607080-0.06-0.04-0.020.000.020.040.060.08Series: RETURNS_FORTUMSample 1 250Observations 250Mean       0.000240Median   0.000000Maximum  0.087585Minimum -0.061065Std. Dev.   0.017836Skewness   0.900898Kurtosis   6.819345Jarque-Bera 185.7695Probability 0.000000010203040506070-0.10-0.050.000.050.100.150.200.25Series: RETURNS_GUMSample 1 250Observations 250Mean      -5.87e-05Median  -0.000159Maximum  0.256945Minimum -0.105572Std. Dev.   0.028651Skewness   2.749821Kurtosis   28.94400Jarque-Bera 7326.427Probability 0.0000006) IDGC 
+
+7)  Lukoil 
+
+8) NorNick 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     50 
+
+051015202530-0.100-0.075-0.050-0.0250.0000.0250.0500.075Series: RETURNS_IDGCSample 1 250Observations 250Mean      -0.001054Median  -0.003325Maximum  0.086855Minimum -0.098911Std. Dev.   0.025234Skewness   0.018636Kurtosis   4.951186Jarque-Bera 39.67204Probability 0.000000048121620242832-0.08-0.06-0.04-0.020.000.020.040.06Series: RETURNS_LUKSample 1 250Observations 250Mean       0.000191Median   0.000498Maximum  0.069693Minimum -0.081382Std. Dev.   0.019700Skewness  -0.135772Kurtosis   3.964856Jarque-Bera 10.46545Probability 0.00533901020304050-0.04-0.020.000.020.040.06Series: RETURNS_NIKSample 1 250Observations 250Mean       0.000400Median  -0.000315Maximum  0.061252Minimum -0.046761Std. Dev.   0.015530Skewness   0.336022Kurtosis   4.983596Jarque-Bera 45.69057Probability 0.0000009) Polyus Zoloto 
+
+11) Sollers 
+
+12)  TMK 
+
+  
+
+ 
+
+ 
+
+ 
+
+     51 
+
+020406080100120-0.3-0.2-0.10.00.1Series: RETURNS_POLZOLSample 1 250Observations 250Mean       0.000741Median   0.001463Maximum  0.165230Minimum -0.327832Std. Dev.   0.032707Skewness  -3.202174Kurtosis   45.60324Jarque-Bera 19333.87Probability 0.00000001020304050-0.04-0.020.000.020.040.060.08Series: RETURNS_SOLLERSSample 1 250Observations 250Mean       0.002341Median  -0.000707Maximum  0.076670Minimum -0.054465Std. Dev.   0.017847Skewness   0.826888Kurtosis   4.762092Jarque-Bera 60.83279Probability 0.00000005101520253035-0.075-0.050-0.0250.0000.0250.0500.0750.100Series: RETURNS_TMKSample 1 250Observations 250Mean      -0.000744Median   0.000132Maximum  0.102415Minimum -0.080911Std. Dev.   0.025788Skewness   0.189360Kurtosis   4.820290Jarque-Bera 36.00920Probability 0.000000

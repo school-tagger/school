@@ -1,0 +1,2514 @@
+The State Educational Institution of Higher Education
+
+The National Research University Higher School of Economics
+
+The Faculty of Public Administration
+
+
+
+London Metropolitan University
+
+The Faculty of Law, Governance and International Relations
+
+
+
+MPA Dual-Degree Programme
+
+
+
+
+
+
+
+
+
+
+
+Master Thesis
+Ways of Optimisation Civil Service Pay Differentiation
+
+
+
+
+
+
+
+
+
+
+
+Prepared by: Darya Reshetnikova
+
+Supervisor: Nikolay Klishch,
+
+Department of Theory and Practice
+
+of Public Administration,
+
+Associate Professor
+
+
+
+
+
+
+
+
+
+
+
+Moscow, 2013
+
+Table of contents
+
+
+
+
+
+
+Abbreviations and Acronyms
+
+CIPD – Chartered Institute of Personnel and Development
+
+CPI – Consumer Price Index
+
+EU – European Union
+
+FA – Federal Agency
+
+FEBs – Federal Executive Bodies
+
+FM – Federal Ministry
+
+FS – Federal service
+
+GDP – Gross Domestic Product
+
+ICLRR – Institute for Comparative Labour Relations Research
+
+IDS – Income Data Services Ltd
+
+IPAMM NRU HSE - Institute of Public Administration and Municipal Management of NRU HSE
+
+NRU HSE – National Research University Higher School of Economics
+
+OECD – Organisation for Economic Co-operation and Development
+
+PPP – Purchasing power parity
+
+PRP – Performance related pay
+
+SCS – Senior Civil servants
+
+TUC – Trade Union Collection
+
+UK – United Kingdom and Northern Ireland
+
+VCIOM – The All-Russian Public Opinion Research Center
+
+
+
+
+
+
+Abbreviations and Acronyms of Russia’s Federal Executive Bodies
+
+Emercom - Ministry of the Russian Federation for Civil Defense, Emergencies and Elimination of Consequences of Natural Disasters
+
+FAS - Federal Antimonopoly Service of the Russian Federation
+
+FDCS - Federal Drug Control Service of the Russian Federation
+
+FMBA - Federal Bio-Medical Agency of the Russian Federation
+
+FMS - Federal Migration Service of the Russian Federation
+
+FNS - Federal Tax Service of the Russian Federation
+
+FSFR - Federal Service for Financial Markets of the Russian Federation
+
+FSIN - Federal Service for the Execution of Sentences of the Russian Federation
+
+FSMTC - Federal Service for Military-Technical Coperation of the Russian Federation
+
+FSSP - Federal Bailiff Service of the Russian Federation
+
+FST - Federal Tariff Service of the Russian Federation
+
+FTS - Federal Customs Service of the Russian Federation
+
+GFS - State Courier Service of the Russian Federation (Federal Service)
+
+Leshoz - Federal Forestry Agency of the Russian Federation
+
+MID - Ministry of Foreign Affairs of the Russian Federation
+
+Mincult - Russian Ministry of Culture
+
+Mineconomrazvitiya - Ministry of Economic Development of the Russian Federation
+
+Minenergo - Ministry of Energy of the Russian Federation
+
+Minfin - Ministry of Finance of the Russian Federation
+
+Minjust - Ministry of Justice of the Russian Federation
+
+Minkomcvyaz - Ministry of Communications and Media of the Russian Federation
+
+Minobrnauki - Ministry of Education and Science of the Russian Federation
+
+Minprirody - Ministry of Natural Resources and Environment of the Russian Federation
+
+Minpromtorg - The Ministry of Industry and Trade of the Russian Federation
+
+Minregionrazvitiya - Ministry of Regional Development of the Russian Federation
+
+Minselhoz - Ministry of Agriculture of the Russian Federation
+
+Minsporttourism - Ministry of Sport and Tourism of the Russian Federation
+
+Mintrans - Ministry of Transport of the Russian Federation
+
+Minzdravsotsrazvitiya - Ministry of Public Health and Social Development of the Russian Federation
+
+Rosalkogolregulirovanie - Federal Service for the Regulation of the Alcohol Market of the Russian Federation
+
+Rosarhiv - Federal Archive Agency of the Russian Federation
+
+Rosaviatsiya - Federal Air Transport Agency of the Russian Federation
+
+Rosavtodor - Federal Highway Agency of the Russian Federation
+
+Rosfinnadzor - Federal Service for Financial and Budgetary Supervision of the Russian Federation
+
+Rosfinmonitoring - Federal Service for Financial Monitoring of the Russian Federation
+
+Rosgidromet - Federal Service for Hydrometeorology and Monitoring of the Environment of the Russian Federation
+
+Rosgranitsa - The Federal Agency for the Development of the State Border Facilities of the Russian Federation
+
+Rosimuschestvo - Federal Agency for State Property Management of the Russian Federation
+
+Roskomnadzor - Federal Service for Supervision of Telecom, Information Technologies and Mass Communications of the Russian Federation
+
+Roskosmos - Federal Space Agency of the Russian Federation
+
+Rosmolodoj - Federal Agency for Youth Affairs of the Russian Federation
+
+Rosmorrechflot - Federal Marine and River Transport Agency of the Russian Federation
+
+Rosnedra - Federal Agency on Mineral Resources of the Russian Federation
+
+Rosoboronpostavka - Federal Agency for Weaponry, Military and Special Equipment and Material facilities Procurement of the Russian Federation
+
+Rosoboronzakaz - Federal Service for Defence Order of the Russian Federation
+
+Rosobrnadzor - Federal Service for Supervision in the Sphere of Science and Education  of the Russian Federation
+
+Rospechat - Federal Press and Mass Media Agency of the Russian Federation
+
+Rospotrebnadzor - Federal Service on Customers’ Rights and Human Well-being Surveillance of the Russian Federation
+
+Rosprirodnadzor - Federal Service for Supervision of Natural Resource Management of the Russian Federation
+
+Rosreestr - Federal Service for State Registration, Cadastre and Cartography of the Russian Federation
+
+Rosrezerv - Federal State Reserve Agency of the Russian Federation
+
+Rosrybolovstvo - Federal Agency for Fishery of the Russian Federation
+
+Rosselkhoznadzor - Federal Service for Veterinary and Phytosanitary Surveillance of the Russian Federation
+
+Rossotrudnichestvo - Federal Agency for Commonwealth of Independent States Affairs of the Russian Federation
+
+Rossrandart - Federal Agency for Technical Regulation and Metrology of the Russian Federation
+
+Rosstat - Federal State Statistics Service of the Russian Federation
+
+Rossvyaz - Federal Agency of Communications of the Russian Federation
+
+Rostransnadzor - Federal Transportation Inspection Service of the Russian Federation
+
+Rostrud - Federal Service for Labour and Employment of the Russian Federation
+
+Rosvodresursy - Federal Agency for Water Resources of the Russian Federation
+
+Roszdravnadzor - Federal Service on Surveilance in Healthcare of the Russian Federation
+
+Roszheldor - The Federal Agency for Railway Transport of the Russian Federation
+
+Russiatourism - Federal Agency for Tourism of the Russian Federation
+
+Spetsstroi - Federal Special Construction Agency of the Russian Federation
+
+Treasury - Russian Federal Treasury of the Russian Federation (Federal Service)
+
+UDP - Directorate of the President of the Russian Federation (Federal Agency)
+
+
+
+Abbreviations and Acronyms of UK’s Civil Service Departments
+
+BIS - Business, Innovation and Skills Department
+
+CEFAS - Centre for Environment Fisheries and Aquaculture Science
+
+COI - Central Office of Information
+
+DCLG - Department for Communities and Local Government
+
+DCMS - Department for Culture Media and Sport
+
+DECC - Department for Energy and Climate Change
+
+Defra - Department for Environment Food and Rural Affairs
+
+DfE - Department for Education
+
+DFID - Department for International Development
+
+DFT - Department for Transport
+
+DH - Department of Health
+
+DSG - Defence Support Group
+
+DSTL - Defence Science and Technology Laboratory
+
+FCO - Foreign and Commonwealth Office
+
+Fera - Food and Environment Research Agency
+
+GCDA - Government Car and Despatch Agency
+
+HA - Highways Agency
+
+HMCS - HM Courts Service
+
+HMRC - HM Revenue and Customs
+
+HMT - Her Majesty's Treasury Department
+
+HSE - The Health and Safety Executive
+
+IPS - Identity and Passport Service
+
+JP - Jobcentre Plus
+
+LR - Land Registry
+
+MCA - Maritime and Coastguard Agency
+
+Met - Met Office
+
+MHRA - Medicines and Healthcare Products Regulatory Agency
+
+MOJ - Ministry of Justice
+
+NA - National Archives
+
+NMO - National Measurement Office
+
+NS&I - National Savings and Investments
+
+NOMS - National Offender Management Service
+
+Ofgem - Office of Gas and Electricity Market
+
+OFSTED - Office for Standards in Education
+
+OFT - Office of Fair Trading
+
+Ofwat - Office of Water Services
+
+ONS – Office for National Statistics (executive office of StatsAuth)
+
+ORR - Office of Rail Regulation
+
+OS - Ordnance Survey
+
+Postcomm - Postal Services Commission
+
+StatsAuth - United Kingdom Statistics Authority
+
+UKBA - UK Border Agency
+
+VLA - Veterinary Laboratories Agency
+
+VOA - Valuation Office
+
+
+
+
+Introduction
+
+Nowadays the image of civil service poses a major economic challenge. In spite of the widespread reforms of public sector, this issue still remains relevant in different countries. One of the most significant reasons of public sector inefficiency is the large pay gap between private and public sector. There is a tension between seeking coherence of pay differentiation on the one hand, and seeking to change pay levels relativities on the other (IDS, 2010). Moreover, there are different types of pay differentiation inside the public sector. Considering that employee compensation plays an important role in attracting, motivating and retaining qualified workers for jobs in the government, these challenges lead to the widespread phenomenon of adverse selection of civil servants. In this context, the ways of optimization of civil servants’ pay differentiation is of considerable interest.
+
+Challenges mentioned beg the following research questions: Is civil servants’ pay differentiation justified? What determinants lie in the basis of civil servants' pay differentiation? Can civil servants’ pay differentiation be attributed to any of the observable factors?
+
+The aim of the thesis is to evaluate the level of Russian civil servants’ pay gaps and pay differentiation and to identify the factors which can explain it.
+
+The scope of the study is considered to be the civil servants of the central apparatus of State Federal executive bodies of the Russian Federation. 
+
+In order to achieve the aim of the thesis, the following tasks should be performed:
+
+To review civil servants’ pay systems and main theories of pay differentiation;
+
+To analyze the existing ways of optimization of civil servants’ pay differentiation in different countries;
+
+To investigate peculiarities of civil servants’ pay system in the Russian Federation;
+
+To estimate pay gaps, pay differentiation and pay compression of Russian civil servants in the Federal executive bodies;
+
+To compare the level of civil servants’ pay differentiation in Russia and OECD countries;
+
+To evaluate the main determinants of civil servants’ pay differentiation by means of regression analysis;
+
+To propose recommendations of pay differentiation’ feasibility of Russian civil servants in the Federal executive bodies.
+
+Taking into account the problem identified, the author has put forward a hypothesis, that there are some specific factors which influence the level of civil servants’ pay differentiation in Federal executive bodies of the Russian Federation.
+
+The novelty of the thesis consists in:
+
+Identification of civil servants’ pay differentiation determinants from theoretical models and practical cases;
+
+Consideration of possible optimization mechanisms appropriate for particular type of civil servants’ pay differentiation;
+
+Estimation of pay gaps, pay differentiation and pay compression of Russian civil servants in the Federal executive bodies;
+
+Evaluation of determinants influences on civil servants’ pay differentiation;
+
+Recommendations for improvement civil servants’ pay system.
+
+The application of proposal mentioned can help to implement the proper economic policy on the state level in order to avoid the problem of negative selection of future civil servants and to increase the motivation of current civil servants. The analysis carried out in the frames of this research leaves a room for the further research on the same subject. 
+
+Taking into consideration the width of the problem investigated, the research is based on the cross-sectional study of pay determinants and their impact on pay differentiation. The theoretical analysis is mainly based on the review of working papers and articles from academic peer-reviewed journals and conferences. The practical part is based on the quantitative analysis of available statistics of Federal State Statistics Service of the Russian Federation, Common Government Services Portal of Russian Federation, Institute of Public Administration and Municipal Management of NRU HSE. Additionally, the data from the Ministry of Economic Development and Ministry of Finance of the Russian Federation have been employed.
+
+The following research methods have been applied in developing of the master’s thesis:
+
+analysis of the theoretical framework;
+
+documentary research;
+
+observational research;
+
+correlational research;
+
+comparison analysis;
+
+statistical and graphical analysis.
+
+The main limitation of this research consists in its scope. Only civil servants of the central apparatus of State Federal executive bodies (FEBs) of the Russian Federation have been considered. These executive bodies have been chosen on purpose to capture more comprehensive and objective results of the research, which is based on organisations with different structure, functions and powers. Furthermore, statistical data, essential for practical part of the research, are available only for central apparatus of FEBs and only for 2011. However, the author would like to point out that if the sample size of research including the territorial form of government is expanded, the final conclusions can be significantly modified.
+
+The structure of the thesis is as follows. In literature review the extent of research background of the topic is examined. The Theoretical part provides a brief overview of public sector pay structures theory and the theory of civil servants’ pay differentiation as well as the ways used in different countries for optimization different types of civil servants’ pay differentiation. The Practical part continues with the international comparison of civil servants’ pay differentiation and the analysis of Russian civil servants’ pay system peculiarities. The next section provides the regression analysis of the main determinants of civil servants’ pay differentiation. Finally, the author comes to the conclusion and recommendations on improvement of the feasibility of Russian civil servants’ pay differentiation.
+
+All the acronyms and abbreviations are explained in the separate list of terms. The details of the research methodology and the construction of the variables used in the study are given in the practical part. Translations from other languages and calculations have been made by the author, unless otherwise noted.
+
+
+
+
+
+
+
+
+Literature Review
+
+It is worth emphasizing that the analysis of public sector labour market has not attracted much attention in academic community, and the number of studies which have attempted to explain public sector pay differentiation is rather limited. However, there are some separate sections of literature which partly cover this topic. One such part of literature determines main components of pay (Hay group, 2003; Mukherjee, 2003; Kessler, 2005; O’Riordan, 2008; Perkins, et al., 2008; Tischenko, 2012), general categories of pay structures (Mukherjee, 2003; Wright, 2004; Armstrong et al., 2005; Risher, 2005; O’Riordan, 2008; Perkins, et al., 2008; CIDP, 2012) and methods of pay progression (Woodfruffe, 1991; Recardo et al., 1996; Heery et al., 2001; IDS, 2006). Another part explains theoretical models of pay differentiation (Ricardo, 1817; Fisher, 1927; Marshall, 1980; Katz, 1986; Rosen, 1986; Becker, 1994; Lykianova, 2007; Napari, 2007; Oschepkov, 2007a; 2007b; Karabchuk et al., 2013) which can be partly applied to the analysis of civil servants’ pay differentiation. 
+
+Concerning the practical aspects, pay differentiation has been a construct of study for many researchers in different areas during the last twenty years (see Figure 1). 
+
+
+
+Figure 1. The number of published and cited items on pay differentiations in different areas of study
+
+Resource: academic citation indexing Web of Knowledge
+
+However, public sector pay differentiation has been given relatively little attention in the large empirical literature on wage differentials (see Figure 2). 
+
+
+
+Figure 2. The number of published and cited items on public sector and civil servants’ pay differentiation 
+
+Resource: academic citation indexing Web of Knowledge
+
+The difference in research background of pay differentiation over different areas of study during the last twenty years is illustrated in Table 1. This citation summary table shows that literature on public sector pay differentiation accounts only for 5 per cent of the whole literature on this topic.
+
+Table 1.
+
+Research background of the topic of pay differentiation
+
+To sketch the deeper outlines on the public sector pay differentiation, the following literature resources have also been used: OECD publications (1996; 2004a; 2004b; 2005a; 2005b; 2005c; 2008; 2011), Hay group publications (2003; 2006; 2007; 2008), IDS publications (2006; 2009; 2011a; 2011b, 2012), CIPD publications (2001; 2012) and TUC library publications (Gregory et al.,1990; Patterson, 1990; Thompson, 1993; Booth et al., 1997; Heery, 1997; Holroyd, 1998, Mardsen et al., 1998; Neathey, 1998; Patterson et al., 1998; Suff et al., 1998; Ozaki, 1999; Mardsen et al., 2001; Pircell et al., 2003; Wright, 2004; Bebchuk et al., 2006; Perkins et al., 2008; and Bryson et al., 2012).
+
+Taking into account that the scope of the study is limited by the civil servants of the State Federal executive bodies, considerable attention was given to the literature on pay differentiation among public sector organisations. The common finding is that there is a huge pay gap between public and private sector. This has been documented by the following authors: Craig, 1995; Henley et al., 2001; Bender et al., 2002; Christofidesa et al., 2002; McDonnell et al., 2005; Melly, 2005; Dell’aringa et al., 2007; Elish et al., 2009; Baron et al., 2010; Nadeau, 2010; Cai et al., 2011; Imbert, 2013.
+
+Moreover, there are different types of pay differentiation on the inside of public sector. This has been investigated by Lokshin et al., 2003; Lucifora, 2004; Garcia-Perez et al., 2007; Postel-Vinay, et al., 2007; O’Riordan, 2008; Jefferson et al., 2010; Bozio et al., 2011; Emilio et al., 2012; Siminski, 2013. 
+
+In line with the currently dominant perspective in the more general literature cited above, the most influential interpretation is that the differences are due to the jobs or work structures; Stokey, 1980; Maume, 1999; Chevaillier, 2001; Bender et al., 2002), IDS, 2006; Lawlor et al., 2009.
+
+Furthermore, according to many researchers, the main factors of public sector pay differentiation are gender (Martin et al., 1993; , 1996; Cohen et al., 1997; Mastekaasa et al., 1998; Siphambe et al., 2001; Meier et al., 2002; Gibelman, 2003; Jurajda, 2003; Machin et al., 2003; Alkadry et al., 2006; 2011; Thornley, 2007; Hubler, 2009;  et al., 2009; Miller, 2009; Wahlberg, 2010; Bolitzer et al., 2012; Baron et al., 2010; Fuller, 2005; Pena-Boquete et al., 2010; Reese et al., 2011), education (Machin et al., 2003; Gimpelson, 2007; Kuepiea et al., 2009) and ethnics (Maume,1999; Grodsky et al., 2001; Semyonov et al., 2009).
+
+The main findings of the most cited articles on pay differentiation in public sector organisations are presented in Appendix2.
+
+
+
+
+
+
+THEORETICAL PART
+
+Section 1. Pay composition and pay structures
+
+Before we embark on the very nature of civil servants’ pay differentiation, it is essential to consider pay components and pay structures to gain insights on the process of pay formation. This part will explore the composition of pay, different types of pay structure and various criteria used to make decision about pay progression. 
+
+Looking at the basics, it is required to briefly discuss the term “employee reward”. According to Kessler (2005), employee reward represents one of the central pillars supporting the employment relationship. Such terms as employee “reward”, “compensation” or “remuneration” may be used interchangeably in the literature and defined as “all forms of financial returns and tangible services and benefits employees receive” (Perkins, et al., 2008). Moreover, “total reward” includes both financial and non-financial rewards, which play a great role for civil servants.  As the chart below shows, the total reward package of civil servants (cells 1 to 9) consists on a combination of current rewards and future expectations, as well as contractual and intangible rewards (see Table 2).
+
+Table 2.
+
+Components of civil servants’ rewards
+
+
+
+Resource: Mukherjee, R. (2003)
+
+Base pay (sell 1) is the fixed part of civil servants’ remuneration and is usually the guaranteed and contractual part. It is usually linked to the employee’s position and is uniform across similar positions. In addition to base pay, civil servants receive allowances (e.g. transport, housing, telephone, travel), which can be provided in cash (cell 4) or in kind (cell 5). In-kind rewards could also be provided across the board to all civil servants (see cell 2). It is necessary to note, that the proportion of allowances to base pay varies widely across countries. Moreover, civil servants can count on pension (cell 7) and a lump-sum gratuity among retirement benefits. Furthermore, in OECD countries many retirees receive land or a house either free or at very subsidized prices (cell 8). Beyond these current and future benefits, civil servants can get additional benefits (cells 3, 6 and 9) to which it is difficult to attach price tags (Mukherjee, 2003).
+
+Other important factors of civil servants’ reward components classification are fixed and variable payments, which can be guaranteed and unguaranteed (Tischenko, 2012). As illustrated in Table 3, all components of civil servants’ reward in OECD countries can be linked with different appraisals: performance appraisal or competencies and experiences appraisal (see Table 3).
+
+Table 3.
+
+Fixed and variable components of civil servants’ reward in OECD countries
+
+Resource: Tischenko, E. (2012)
+
+The following reward classification was adopted by Hay Group (2003) via so called Engaged Performance Model for Senior Civil Servants (SCS). This model (see Figure 3) makes clear the reality that rewards go well beyond pay and benefits into the elements of working life that attract SCS members to commit to a civil service career.
+
+
+
+Figure 3. The Rewards Available for working in the SCS
+
+Resource: Hay Group, 2003
+
+All mentioned elements of civil servants reward are combined in different types of pay structures. By definition of CIDP (2012), pay structure is a “collection of pay grades, levels or bands, linking related jobs within a hierarchy or series, which provide a framework for the implementation of reward strategies and policies within an organisation”. According to O’Riordan (2008), pay structure provides the overall architecture of the reward system. Moreover, they are also used as a process for mapping career paths without any direct reference to the pay implications (O’Riordan, 2008, p. 2).
+
+The literature on pay structures (Mukherjee, 2003; Wright, 2004; Armstrong et al., 2005; Risher, 2005; O’Riordan, 2008; Perkins, et al., 2008; CIDP, 2012) identifies five general categories: narrow graded, pay spines, broadbanded, career families and job families. Brief definitions of different types of pay structures are set out below. Indeed, broadly speaking, pay structures may be distinguished in particular by two key characteristics:
+
+the number of grades, levels or bands within the structure;
+
+the width, or span, of each grade – that is the percentage difference between the lowest and highest pay rates attached to each grade or band.
+
+Narrow-graded pay structures comprise a large number of grades, at minimum around eight, with jobs of broadly equivalent worth slotted into each of the grades (CIDP, 2012, p.3). A pay range is attached to each grade, with the maximum of each range typically between 20 per cent and 50 per cent above the minimum. Differentials between pay ranges are typically about 20 per cent. The overlap between ranges provides some flexibility to recognise individual contribution of employees. This form of pay structure is appropriate for large bureaucratic organisations with well-defined hierarchy, which need in rigid control (Armstrong et al., 2005, p. 196). However, because there are too many narrow grades, most employees reach the top of the pay range for their grade fairly quickly, potentially leading to demands for upgrading and grade drift. O’Riordan (2008) argues that in such system jobs are being ranked more highly than justified.
+
+Broad-graded pay structures are closer in concept to narrow graded structures, but makes use of fewer grades (from six to nine). Therefore, it can help counter the problem of grade drift. However, the increased width of grades can also lead to pay drift, with employees expecting to reach the upper pay limit of a grade. In order to counterbalance this, some organisations have incorporated threshold controls (pay cannot increase without achieving a defined level of competence) and zone controls (dividing the grades into segments or zones). These types of structures are sometimes included within a definition of ‘broadbanding’ (CIDP, 2012).
+
+Broadbanding means that the number of grades is compressed into a relatively small number (often four or five) in which pay is managed more flexibly than in a conventional graded structure (O’Riordan, 2008, pp. 22-23). A classic broadbanding arrangement would place no limits on pay progression within each band. The difference between the maximum and minimum salary available within a band may be as high as 100 per cent. Despite the fact, that broadbanding is suitable for process-based, flexible organisations, it may unwarrantedly raise expectations of pay opportunities. For employers, broadbanded structures tend to be more difficult to manage (Risher, 2005). In addition there is a concern that broadbanding can lead to equal pay problems. The broader pay ranges within bands mean that they include jobs of widely different values or sizes, which could result in discrimination (Armstrong, et al., 2005, pp. 199-200). 
+
+Pay spines are broadly similar to narrow graded structures and are found in the public sector and voluntary organisations. Pay spines consist of a series of incremental pay points aligned to job grades that usually allow for service-related pay progression. Typically pay spine increments represent a salary increase of 2.5 to 3 per cent. This system is easy to manage, because pay progression is not based on managerial judgement. However, O’Riordan (2008) argues that relating pay almost entirely to service means that people are rewarded not for the value of their contribution. 
+
+In career family structures jobs are grouped together into families with similar functions or occupations such as finance, IT, administration or support services, which are related through the activities carried out and the basic knowledge and skills required. However, the levels of responsibility, knowledge, skill or competence needed in career families differ (Armstrong, et al., 2005, p. 202). Good career progression is a positive feature of this system. It also facilitates the achievement of equality between families and therefore an equal pay (O’Riordan, 2008, p. 80). The principal difficulty is the complexity of such system. 
+
+Job families system groups jobs within similar occupations or functions together, usually with around six to eight levels. This system is useful when distinct group of jobs need to be rewarded differentially. Whereas career families are focused on an occupation or function, job families are typically based on common processes. For example IT, finance and HR and legal jobs would be identified as separate in a career family structure, but a job family approach might combine all these roles into a ‘business support’ family. This approach may be helpful in facilitating higher rates for highly sought-after workers. Nevertheless, it can be divisive and may inhibit lateral career development (O’Riordan, 2008, p. 80).
+
+What clearly emerges from a review of the literature is that no perfect framework has been developed within which an organisation’s pay policies can be managed (O’Riordan, 2008, p. 47). In this context, it is worth to underline the significance of Armstrong’s and Murlis’ criteria, which suggest that grade and pay structures should: 
+
+be appropriate to the culture, characteristics and needs of the organization and its employees;
+
+facilitate the management of relativities and the achievement of equity, fairness, consistency and transparency in managing grading and pay;
+
+be capable of adapting to pressures arising from market rate changes and skill shortages; facilitate operational flexibility and continuous development;
+
+provide scope as required for rewarding performance, contribution and increases in skill and competence;
+
+clarify reward, lateral development and career opportunities;
+
+be constructed logically and clearly so that the basis upon which they operate can readily be communicated to employees;
+
+enable the organization to exercise control over the implementation of pay policies and budgets (cited in Armstrong et al., 2004, p 196).
+
+Deciding what and how to pay the employees in various pay structures is a further reward decision. Pay levels are attached to the bands or grades, and decision must be made about later pay progression. Progression between grades is normally though the process of promotion, often along the same lines as any recruitment process (Perkins et al., 2008, p. 152). In contrast, progression within the grade can be contingent by the following criteria: service or seniority, age, performance, competencies, skills and labour market conditions.
+
+Method of pay progression according to length of service or seniority assumes that length of service equals improved knowledge and experience. Pay costs in such system are relatively predictable and the level of stuff turnover is low. Inefficiency of such system, which used mostly in public sector organisations, is linked with encouragement of “time-serving” behaviour among employees. In this case poor performance is treated equally with good performance, which demotivates employees (IDS, 2006).
+
+In case of age-related method of progression pay rates are attached to specific ages. This system provides the progression route for younger workers, especially in periods of training or apprenticeship (Perkins et al., 2008, p. 160).
+
+The other method of pay progression is on the basis of performance. It should be noted that term “performance related pay” (PRP) is used in two senses. First, it describes the broad class of pay systems which relate pay to some measure of employee performance. Second, it refers to individualised pay progression which depends on the results of some performance appraisal. Perkins and White (2008) emphasized the following major ways in which pay is linked to pay progression:
+
+through the award of additional performance-related increments on top of an essentially service-based progression system;
+
+through all incremental progression within the grade based on performance ratings;
+
+through “all merit” annual pay increases where the increase will range in size according to the individual performance rating (Perkins et al., 2008, p. 175).
+
+Yet another method of individualised pay progression relates salary progression to the display of “competencies”, which encourages career development. It is necessary to note that some researchers (Woodfruffe, 1991) underline the difference between the very notions of “competence” and “competency”, and in turn there is the difference between competence-based and competency-based pay progressions. Competence refers to the areas of work is competent. Therefore, most competence-based pay systems refer both to inputs and outputs. Competency is a wider concept refers to the behaviours that underpin “competent performance”. Thus, competency-based pay systems assess the extent to which employees meet or exceed the expected level of competent performance for their role in particular organisation or job.
+
+Another way of linking pay progression to acquisition of designated skill level is skills-based pay or knowledge-based pay. According to Heery and Noon (2001), it is an input-based payment system where increases in pay are linked to undergoing training and additional skills. Recardo ans Pricone (1996) identify the following categories of skills and knowledge enrichment: vertical (input/output within a single job), horizontal (complementary skills across several jobs), depth (skills specialisation), basic (expertise of skills and knowledge).
+
+The last method of pay progression is market-based pay, which links pay progression with the conditions of wider economy in order to be competitive within the external labour market.
+
+Furthermore, Perkins and White (2008) identify some hybrid types of pay progression:
+
+service plus performance with progression according to annual increments;
+
+performance plus market with progression according to market rate or zone;
+
+performance plus skills or competency with progression according to performance, but also with link to skills acquisition.
+
+Thus, a brief overview of public sector pay structures theory, provided in this section, partly explains the framework of differentiation in pay structures. In order to understand additional reasons of civil servants pay differentiation, the theoretical background of such phenomenon will be considered in the following section.
+
+
+
+
+
+
+Section 2. Theoretical Analysis of Civil servants pay differentiation
+
+This section provides an overview of theoretical reasons of civil servants pay differentiation. Drawing on the literature in the area, the theories of civil servants pay differentiation are discussed and different types of pay differentiation are reviewed. 
+
+Before looking at these matters, it is essential to make clear the notion of civil servants pay differentiation. In extended sense pay differentiation can be defined as “different levels of civil servants earnings according to some factors” such as qualification, industry, labour conditions, etc. Depending on each factor influenced on the level of pay differentiation this term can be defined in different ways. Moreover, the definition of pay differentiation is often related to the particular components of pay. For example, according to Collins Dictionary, wage differentiation is “the difference in wages between workers with different skills in the same industry or between those with comparable skills in different industries or localities”. In Great Soviet Encyclopedia it is the “setting of different wage levels for different employee categories in individual sectors of the national economy and regions of the country”.
+
+The most commonly applied theoretical framework in the literature estimating the pay differentiation is based on the following theories:
+
+Opportunity cost theory;
+
+Human capital theory;
+
+Glass ceiling theory;
+
+Compensating differences theory;
+
+Efficiency wage theory.
+
+In a more extended sense opportunity cost is the evaluation placed on the most highly valued of the rejected alternatives or opportunity. From the perspective of pay differentiation opportunity cost theory is a subsequent elaboration of the David Ricardo's “Concept of Economic Rent” for such factor of production as labour. According to Ricardo (1817), the excess of total payments given to any factor of production should be higher than so called “transfer earnings”.  Simply stated, the opportunity cost of doing one work is the value of any benefit foregone, or given up, by not doing another work (Ricardo, 1817). In compliance with neo-classical economic theory, pay differentials are associated with the presence of so-called non-competing groups of workers engaged in various activities that require different skills and competencies, and, therefore, raise different income (see Figure 4). As it is illustrated in Figure 4, employees with different levels of skills, education and competencies have different extents of labour supply’s and demand’s elasticity and, in turn have different wage rates.
+
+
+
+Figure 4. Non-competing groups of workers on the labour market
+
+Resource: Differentiation of wages, EconomicPortal.ru
+
+The concept of human capital assumes that "the most valuable of all capital is that invested in human beings" (Marshall, 1980). According to the human capital theory, the reason for the existence of pay differences is the accumulated work experience. In the opinion of Becker (1994), it has an important effect on the relation between earnings and age (see Figure 5). Earnings of trained persons can lower during the training period and higher at later ages because the return is collected then. The combined effect of paying for and collecting the return from training in this way would be to make the age-earnings curve of trained persons (TT in Figure 5) steeper than that of untrained persons, the difference being greater the greater the cost of and return from the investment (Becker, 1994. p 37).
+
+
+
+Figure 5. Relation of Earnings to Age
+
+Resource: Becker, 1964
+
+The relationship between wage and work experience can be also differentiated by gender as a whole, and among women in particular (Karabchuk et al., 2013). According to the human capital theory, there is a wage penalty (differences in the accumulated work experience) between mothers and non-mothers (Napari, 2007). The important factor of pay differentiation associated with the loss of human capital during the child-related career break (see Figure 6). 
+
+
+
+Figure 6. Wage dynamic for women with children and without children
+
+Resource: Karabchuk et al., 2013 [Translated from Russian]
+
+According to Alkadry et al. (2006), gender pay disparities also can be explained by the Glass ceiling theory. By definition of US Department of Labor (1991), Glass ceiling means “those artificial barriers based on attitudinal or organizational bias that prevent qualified individuals from advancing upward in their organizations into management-level positions” (Grout et al., 2011). In line with this theory, gender pay differences have traditionally been attributed to the concentration of women in lower-paid positions for cultural (Naff, 1994; Newman, 1994; Heilman et al., 2004), organizational (Guy, 1993; Newman, 1993; Budig, 2002) and human capital reasons (Lewis et al., 1989). 
+
+Another explanation of pay differentiation can be derived from the theory of compensating differences (or equalizing differences), which enables to take into account both pecuniary and non-pecuniary aspects of jobs. According to this theory, in the competitive labour market all jobs are equally attractive to the worker. In fact, ceteris paribus, people prefer clean and safe occupations. The power and prestige also play a great role. Irving Fisher (1927) defined such preferable factors as “psychical income”.
+
+More often the theory of compensating differences is used in labour economics to analyse the relation between the wage rate and the unpleasantness, risk, or other undesirable attributes of a particular job. For instance, the relationship between wage rate and the risk of injury is illustrated in Figure 7, where A1, A2, B1, B2 represent worker indifference curves, X’ and Y’ represent zero profit iso-profit curves for organisations X and Y. In this case, compensating differential is defined as “the additional amount of money (and/or non-pecuniary benefits) that a given worker must be offered in order to motivate him/her to accept a given undesirable job, relative to other jobs that worker could perform” (Rosen, 1986). 
+
+
+
+Figure 7. Negotiations over wages and risk
+
+Resource: Ehrenberg et al., 2012
+
+In recent Russian studies the theory of compensating differences is used to explain the pay differences of public sector employee (Lykianova, 2007), gender wage gap, interregional pay differentiation (Oschepkov, 2007a; 2007b) and discrimination of pay for women with kids (Karabchuk et al., 2013).
+
+The last theoretical model of pay differentiation can be explained by the efficiency wage theory which asserts that “the productivity of workers in organisations is positively correlated with the wages they receive” (Katz, 1986). The explanations of this theory can be illustrated by sub-models to the efficiency wage theory, represented in Table 4.
+
+Table 4.
+
+Sub-models to the efficiency wage theory
+
+Resource: Blackwell, Year
+
+Building on this understanding, we may conclude that analyzed theoretical models on differences in pay of people with similar skills are unable to clarify all reasons of pay differences. Discrimination by gender or national origin may also lead to differences in wages. Finally, the conditions of imperfect competition in the labour market are another source of wage differentials, especially for countries with transition economies (Oschepkov, 2007b). However, the main theories of pay differentiation are briefly explained. In spite of assumptions, limitations and criticism, all above mentioned theoretical models are partly explained the phenomenon of pay gaps and wage differences. Furthermore, according to some researchers (Lykianova, 2007; Napari, 2007; Oschepkov, 2007a; 2007b; Karabchuk et al., 2013), these theories can be applied in particular to the analysis of civil servants’ pay differentiation. On the basis of analysed theories the following factors of civil servants’ pay differentiation were identified (see Table 5):
+
+Table 5.
+
+Factors of civil servants pay differentiation
+
+In light of the fact that pay differentiation is usually defined as “different levels of civil servants earnings according to some factors”, the following types of civil servants’ pay differentiation were identified:
+
+Gender pay differentiation - different levels of civil servants earnings according to gender;
+
+Ethnical pay differentiation – different levels of civil servants earnings according to nationality, ethnicity, race;
+
+Regional pay differentiation - different levels of civil servants earnings according to regional peculiarities (climate, urban conditions, environmental quality, etc.);
+
+Sectorial (occupational) pay differentiation - different levels of civil servants earnings according to occupational peculiarities (in this case, it is differentiation between public and private sector);
+
+Psychological pay differentiation - different levels of civil servants earnings according to the extent of employee satisfaction of pay level;
+
+Vertical (hierarchical) pay differentiation - different levels of civil servants earnings according to the level of job position;
+
+Horizontal pay differentiation - different levels of civil servants earnings according to organization (in this case, it is differentiation between the same job positions in different organisations).
+
+Summarizing the discussion presented above, we may conclude that Opportunity cost theory, Human capital theory, Glass ceiling theory, Compensating differences theory and Efficiency wage theory can partly explain the phenomenon of civil servants’ pay differentiation. As we have already indicated earlier, types of civil servants’ pay differentiation can be identified in accordance with such influenced factors as gender, ethnicity, regional peculiarities, occupation, sector (public or private), employee satisfaction of pay level, job position and the particular organisation itself as a whole. Some of the ways which can be involved in optimization different types of civil servants’ pay differentiation will be considered in the following section.
+
+
+
+
+Section 3. Possible ways of optimization civil servants’ pay differentiation
+
+This section presents analysis of optimisation ways of civil servants’ pay differentiation which used in different countries for different types of civil servants’ pay differentiation. In this context it is worth to note, that the notion of “optimisation” is closely related with justification for certain type of pay differentiation, rather than increase or decrease of its level. However, in response to the importance of pay differentiation magnitude, the author has put forward the following assumption:
+
+The level of pay differentiation can be optimal if the way of optimisation enables to explain it from the efficiency perspective.
+
+In order to determine the existed ways of optimisation civil servants’ pay differentiation, the most cited articles from academic citation indexing Web of Knowledge were analysed (see Appendix 2). As it mentioned in Literature review, public sector pay differentiation has been given relatively little attention in the large empirical literature on wage differentials. Figure 8 illustrates the number of published items on public sector pay differentiations by countries during the last twenty years (there were only 55 articles on this topic). It is readily seen that the most of published items were written in USA, the second place took Australia, and the third – Canada. Therefore, a number of supplementary materials outlined in literature review were considered to analyse types and ways of optimisation civil servants’ pay differentiation in different countries.
+
+In previous section it was already pointed out that the most commonly applied theoretical framework in the literature estimating the pay differentiation is based on the following theories:
+
+Opportunity cost theory;
+
+Human capital theory;
+
+Glass ceiling theory;
+
+Compensating differences theory;
+
+Efficiency wage theory.
+
+
+
+Figure 8. The number of published items on public sector pay differentiation by countries, 1994-2013
+
+Resource: created on the basis of Web of Knowledge platform
+
+In relation to these theories, it is worth to consider the evidence of pay disparities and possible ways of optimization of civil servants’ pay differentiation which used in some countries mentioned above.  
+
+Special points for attention in this matter are Gender and Racial (Ethnic) pay differentiation which can be explained by the Human capital theory and Glass ceiling theory (Styken et al., 2003; Alkadry et al., 2006; Oshchepkov, 2007b). Despite the provisions in legislation to provide for pay equality, the gender pay gap as well as racial pay gap is persistently present in different countries (Neathey et al., 2005; Prechal et al., 2006; 2007). For instance, according to Bozio et al. (2011), there is the evidence on different gender pay gaps in public and private sectors in UK (see Figure 9). Moreover, Semyonov et al. (2009) argue, that the impact of race on earnings differs across the USA sectors (see Figure 10). 
+
+According to Rose et al. (2003), gender pay gap can be corrected by strengthening the enforcement of the equal opportunities law. Another way to shatter the glass-ceiling and reduce position segregation is flexibility of working conditions – introduction of so-called women-friendly internal organizational policy (see, for example, Alkadry et al., 2006, p. 890).
+
+
+
+Figure 9. Estimated public–private wage differentials in UK
+
+Resource: Bozio et al., 2011
+
+
+
+Figure 10. Racial earning gap by year in the private and public sectors of USA
+
+Resource: Semyonov et al., 2009
+
+The racial pay disparities in different countries are regulated and corrected by the policy of minimal wages (National Minimum Wage, 2005).
+
+Another tool for promoting equal pay in contexts of race and gender pay disparities is the obligation for employers to monitor pay practices in the workplace (Prechal, 2007). These actions enable to identify the cases of pay discrimination and to prepare action plans for introduction gender or race equal pay.
+
+The next type of pay differentiation is interregional pay differentiation. Despite the fact that civil service wage determination remains centralized in many countries, public employees’ pay differs substantially across different areas of the country (Garcia-Perez et al., 2007; Oshchepkov, 2007a, 2007b; Meurs et al., 2007). According to Oshchepkov (2007a, 2007b), “the price of labor cannot be the same throughout a country because the national labor market and the territory of the country are not homogenous”. Moreover, as it shown in figures (see Appendix 3) regional disparities in wages differ significantly across countries.  For example, official UK’s earnings data shows that, outside London and the South East, there is little difference in earnings between the regions (IDS, 2012). While, there is significant interregional wage differentiation in such countries as France, Spain and Russia (see Appendix 3). Table 6 shows that the magnitude of territorial wage differences in Russia is much higher than in other countries.
+
+Meurs et al. (2007) argue, that such interregional wage differentiation can be explained by institutional, structural and regional effects: the institutional factor operates through receiving “regional compensation” by public employees, the structural effect operates through pay differences between different public sector organisations, and the regional effect operates through differences in career paths (Meurs et al., 2007, pp. 481-482). According to Oshchepkov (2007a), the “magnitude of interregional pay differentiation depends on the country’s particular administrative division”. Furthermore, labor market’s compensating wage differentials can be generated in the market economies.
+
+Table 6.
+
+Interregional wage differences in Russia and other countries
+
+
+
+Resource: Oshchepkov, 2007a
+
+According many researchers, the theory of compensating differences is able to explain most of territory wage differentials in different countries: USA (Roback, 1982, 1988; Beeson et al., 1989; Dumond et al., 1999), EU countries (Furdato, 1996) and Russia (Lukyanova, 2007; Oshchepkov, 2007a). In order to compensate for regional climate differences in some countries the government regional wage coefficients were introduced. In Russia, for instance, there is the system of government regional wage coefficients for public workers. This system provides different levels of compensation for government workers depending on the location of the job. It is necessary to note, that magnitude of compensation is greater for areas to the north and to the east in Russia where climate is harsher (see Figure 11). 
+
+The literature on regional pay disparities (Berger et al., 2007; Prechal et al., 2007) provide the evidence of strong relationship between employees’ compensation and regional wage coefficients across regions. For example, there is the evidence that compensating differentials for differences in climate, environmental conditions, ethnic conflicts, crime rates, and health conditions, exist even after controlling for the regional pay differences (Prechal et al., 2007). Thus, the introduction of regional coefficients can be considered as optimization mechanism of pay differentiation both in private and public sectors.
+
+
+
+Figure 11. Government Regional Wage Coefficients, 2000
+
+Resource: Berger et al., 2007 
+
+The next type of pay differentiation, which can be explained by the Opportunity cost theory, is connected with public-private pay disparities. There is the evidence, that in some countries public sector wages are consistently higher than private. For example, in China the annual average salary of the public sector was higher than that of the society as a whole since 1992 (see Appendix 4). Furthermore, the annual average salary of the public sector was also larger than per capita GDP (Chan et al., 2011, p. 303). In France, wages in the Public sector are also higher than in the Private Sector (see Appendix 3).
+
+In other countries the public sector pay rates are significantly lower than for comparable jobs in the private sector organisations (see Appendix 4). For example, in Russia the average salaries of civil servants consist from 31 to 85 per cent of the average earnings of a comparable position in the private sector (see Figure 12). 
+
+
+
+Figure 12. Average salaries of civil servants in the average earnings of a comparable position in the private sector in Russia, % (2005)
+
+Resource: Institute for Comparative Labour Relations Research, 2006
+
+Moreover, in some countries the organizational and pay structures influence on the public-private pay disparities (see Figure 13).
+
+One of the ways of optimization public-private pay gaps is market supplements, which have been used in both public and private sectors to bring the pay level for job positions with a higher ‘market’ value in line with the market (IDS, 2006, pp. 9-14). According to IDS (2006), market supplements can be very useful in differentiating between occupational groups. 
+
+
+
+
+
+Figure 13. Base pay comparisons for different grades of public and private sectors in UK 
+
+Resource: Hay Group, 2011
+
+The second widespread optimisation mechanism of public-private pay disparities is the wage indexation (Eurofond, 2010). According to Aizenman (2008), “wage indexation is based on regular adjustments of wages in line with general changes in price levels”. In the majority of EU countries the CPI is usually used for automatic wage indexation (Eurofond, 2010). However, the application of such tool as wage indexation is different across countries. For example, in Australia there is no automatic indexation mechanism for federal employees, but past inflation is taken into account in the negotiating process. In Russia the annual wage indexation of civil servants is also linked to the inflation (CPI). In Belgium automatic wage indexation is linked to the health index (Giordano et al., 2011, p. 23).
+
+The last theory, considered in the previous section, elucidates the Psychological pay differentiation. Martin et al. (1993) wrote that civil servants productivity depends on so-called “social psychological rewards” which refer to employees’ satisfaction of their jobs and interpersonal relations. It is also important how fair civil servants feel they are treated. The assumption of such concept is that employees who garner more social psychological rewards claim greater satisfaction and, in turn, higher performance. In order to raise the employee satisfaction it is essential to involve personnel to the process of wage setting (Giordano et al., 2011). In most countries of the EU collective bargaining plays a major role in public wage setting. However, the bargaining results generally differ across sectors (see Table 7). 
+
+Table 7.
+
+Some basic features of wage bargaining in EU countries, 2011
+
+
+
+Resource: Giordano et al., 2011
+
+Moreover, Lucifora et al. (2004) argue, that “different set of institutional rules that govern pay determination in the public sector provides a source of variation for assessing whether collective bargaining practices, private sector pay comparability standards, as well as other   factors, have an impact on the public sector pay differentiation”.
+
+Therefore, a further way to raise the employee satisfaction of their wage level is to do the procedure of wage setting more open and transparent. According to the Hutton Review of Fair Pay in the public sector (2011), greater transparency of senior pay will play important role in making pay in public services fairer (Hutton, 2011, p. 65). In line with the Fair Pay Code, “processes for setting executive remuneration should be open and transparent to allow public scrutiny” (Hutton, 2011, p. 85). 
+
+The following two types of pay differentiation are not substantiated by theoretical models. These types were identified through the cases of civil servants’ pay differentiation.
+
+The example of the Vertical pay differentiation between different levels of civil servants earnings according to the level of job position is illustrated in Appendix 5. Some evidence shows that an appropriate type of pay structure can optimize this pay differentiation (IDS, 2006; O’Riordan, 2008). In particular, according to O’Riordan (2008), it is critical to ensure that “grades are well defined, thereby making it easier to differentiate between them, and to evaluate jobs carefully to ensure the best fit between individual role profiles and grades”. Therefore, talent management can also optimize vertical pay differentiation by attracting, retaining and development of high calibre employees (Hutton, 2011, p. 85). Hutton (2011) argues that “this would not just help ensure adequate competition for top jobs to restrain unnecessary pay inflation, but also help match public servants’ desire for greater opportunity and progression with the need to develop people capable of leading public services as they are reformed”.
+
+The Horizontal pay differentiation between the comparable levels of civil servants’ earnings in different organizations can be explained from the efficiency perspective by the introduction of PRP. In the past decades, as improving staff performance took on a new urgency, elements of PRP were introduced in many countries (OECD, 2008, p. 50). In fact, the impact of PRP depends on the multiplicity of objectives. In a comparative perspective, however, the development mirrors a widespread belief that PRP approaches on many countries have increased performance of civil servants.
+
+Furthermore, it is essential noting, that in order to estimate whether or not pay in line with the market, such indicator as compa-ratio can be used (IDS, 2006) for optimization all types of pay differentiation.  By definition of Hay group (2011), “the Compa-Ratio is actual remuneration for a position as a percentage of a given market level”. Therefore, the pay policy chosen will determine the level of compa-ratio to be applied. For example, organisations wishing to pay higher-than-average should choose a compa-ratio greater than 100 per cent (IDS, 2006, pp. 25-26). 
+
+Summarizing the theoretical part, we may conclude that theories of pay differentiation can partly explain the phenomenon of civil servants’ pay differentiation. Each theory justifies particular type of pay differentiation: Human capital theory and Glass ceiling theory explain the gender and racial pay differentiation; Compensating differences theory accounts for the interregional pay differentiation; Opportunity cost theory elucidates the sectorial pay differentiation and Effective wage theory clarifies the psychological pay differentiation. Moreover, horizontal and vertical pay differentiation are not substantiated by theoretical models. However, these aforementioned types are widespread in organisations of public and private sector. 
+
+It must also be noted that the factors of pay differentiation are different for each theory and each type of pay differentiation. Furthermore, the ways which can be involved in optimization are appropriate for certain types of pay differentiation. The author-established systematization of the main theories, factors, types and possible ways of optimization civil servants’ pay differentiation is represented in Appendix 6.
+
+Before we embark to the practical part of research, it is essential to note that the calculation of compa-ratios will be used in the following section to analyze pay gaps, pay differentiation and pay compression of civil servants in Russia and OECD countries. 
+
+The influence of factors on the level of pay differentiation will be estimated by means of regression analysis. Thus, optimization mechanisms will be used to propose recommendations of pay differentiation’ feasibility of Russian civil servants in the FEBs in accordance with the systematization mentioned above. 
+
+
+
+
+PRACTICAL PAPT
+
+Section 4. Civil servants’ pay in the Federal Executive Bodies of the Russian Federation
+
+This section provides an overview of civil servants’ pay in Russia’s FEBs. The first part of this section details some peculiarities of civil servants’ pay system and the structure of FEBs of the Russian Federation. The second part contains the analysis of pay gaps, pay differentiation and pay compression in FEBs. The primary data for this section are drawn from the Federal State Statistics Service and from the Ministry of Finance of the Russian Federation.
+
+It is necessary to note, that some Russian experts of the public administration are of opinion that the current remuneration structure of Russian civil servants is complicated and unrelated to performance (Klistch, 2007; 2012; Вarabashev et al., 2010; Obolonsky, 2011; Klimenco et al., 2012). Therefore, to make larger inferences about this opinion it is worth to delve deep in the analysis of Russia’s case, identify some peculiarities of Russia’s civil servants’ remuneration system.
+
+The order of payment for civil servants and employees of the federal government established by the Federal law N 79 (2004) “On the State Civil Service in the Russian Federation”.
+
+The total pay received by Civil Servants of the Russian Federation consists of monthly pay and monthly (and other) additional payments. The monthly pay contains:
+
+Official Salary (“Oclat”)  - monthly salary according to the civil service’s position held;
+
+Qualification Grade Salary (“Class rank salary”) - monthly salary according to the rank as determined by the level of Civil Service examinations passed.
+
+The sizes of Oclat and Class rank salary of federal civil servants are established by the Presidential decree (2006) N 763 “On the salaries of federal civil servants” on representation of the Government of the Russian Federation. The sizes of these salaries of civil servants of the constituent territories of the Russian Federation are established according to the statutory instruments of the constituent territories of the Russian Federation (Federal law N 79, 2004, article 50).
+
+The additional payments include:
+
+Length of Service Allowance – a percentage of Official Salary which varies according to the number of years the employee has worked in the civil service (see Table 8).
+
+Table 8.
+
+Seniority Allowance of Russian Civil Servants
+
+Resource: Federal law N 79, 2004
+
+Special Conditions Allowance - monthly allowance as a percentage of Official Salary (ranging to 200 percent) for special conditions of civil service;
+
+Confidentiality Allowance - monthly allowance which recognises the different degrees of confidentiality of documents handled by civil servants (The size varies by the level of confidentiality);
+
+Bonus pay – an additional amount can be paid for performance of critical and complex tasks. Maximum size of this premium is not limited, but based on the available budget of each FEB;
+
+Monthly allowance – monthly monetary allowance, established by decrees of the President of the Russian Federation differentially for each FEB; 
+
+Lump sum payment for the provision of paid annual leave and material assistance which are paid using the funds of FEB’s budgets. 
+
+Moreover, civil servants receive other payments provided by the relevant federal laws and other regulations. Furthermore, in the cases established by the legislation of the Russian Federation, regional coefficients used to compensate civil servants for living in regions that are designated as less desirable (Federal law N 79, 2004, article 50). The Figure 13 illustrates interregional pay differentiation of municipal civil servants by regions and cities with federal status of the Russian Federation. It is easy to note, that magnitude of compensation is greater for areas to the north and to the east in Russia (Ural and Far East Federal districts) and in the cities with federal status (see Figure 14 and Appendix 7). 
+
+
+
+Figure 14. The average monthly salary of municipal civil servants, 2011
+
+In addition, civil servants’ pay is adjusted regularly in line with general changes in price levels (inflation). This pay correction called indexation on CPI (Federal law N 79, 2004, article 50).
+
+It should be noted that the budget for civil servants’ pay is based on the number of authorised positions in FEB. This number is currently calculated on a historical basis and is not based on an up-to-date analysis of the number of positions required to carry out the work of the FEBs.
+
+It was already briefly pointed out, that the remuneration structure of Russian civil servants is complicated and unrelated to performance – only about 3 per cent of payment (“bonus pay”) depends on results of professional activity (see Figure 15).
+
+
+
+Figure 15. Civil servants’ remuneration structure in Russia, %
+
+Resource: IPAMM NRU HSE, 2011
+
+In accordance with the Federal law N 79 (2004), the special order of payment at which compensation is made depending on performance indicators can be established for certain positions of civil service. Moreover, the composite performance indicators of FEBs are enacted by the President of the Russian Federation and the Government of the Russian Federation. However, the list of job positions with special order of payment, as well as the procedure for establishing a special order of PRP for certain groups and categories of civil servants, still have not been determined. Furthermore, Russian civil servants have not got any guarantees of career growth based on merits. Thus, outdated incentive schemes and methods raise the problem of civil servants’ motivation for effective action. This phenomenon is also caused by the low rate of remuneration as compared to the private sector (Obolonsky et al., 2000; Вarabashev et al., 2008; Prokopjeva, 2008). Moreover, attempts to introduce PRP in Russia does not correspond to the requirements, which are contained in the Administrative Rules, Federal Target Programmes,  the government's  and other planning documents (Barabashev et al., 2010, p. 60).
+
+Therefore, in spite the fact that the attempts of reforming public employees’ incentives system and the introduction of PRP as outlined in Russian legislation (see Appendix 8), the system of PRP is only slightly used in Russia's civil service. Nowadays, there are only a few cases of successful implementation of performance indicators of public servants in Russia: 
+
+Ministry of Defence: pilot system of performance indicators to measure the activities of civil servants of the officership.
+
+Federal customs service: performance indicators of customs authorities fixed in normative acts, provided the heads of departments’ responsibilities for the achievement of them.
+
+A number of regions of the Russian Federation have developed and tested the criteria the effectiveness and efficiency of the civil servants (Klistch, 2012).
+
+Concerning the ways of optimisation Russian civil servants’ pay system it is worth to consider the recent initiatives of the President on perfection of Federal civil servants’ pay in the Administration of the President (Presidential decree N 1100, 2012) and in the Government of the Russian Federation (Presidential decree N 1548, 2012). In accordance with Presidential decrees mentioned the positions of civil service in the Administration and the Government are correspondent to the military posts of militaries contractually employed. Moreover, the Class ranks of civil servants of the Administration and the Government are also correspondent to the military ranks. Therefore, the official salaries and all allowances of Administrations’ and the Governments’ civil servants are correspondent to the official salaries of militaries. It is commonly known that salaries of the military is higher than salaries of civil servants, therefore civil servants of the Administration and the Government receive higher pay than civil servants of FEBs of the Russian Federation. However, this initiative is unrelated to civil servants’ performance. 
+
+For further analysis of Russia’s civil servants ‘pay, it is essential to consider the classification of civil service’ positions. According to the legislation, positions of civil service are divided into categories and groups (Federal law N 79, 2004, article 9). There are four categories of civil service’ positions: 
+
+Senior managers - positions of heads and deputy heads of the government bodies and their structural divisions, positions of heads and deputy heads of territorial bodies of FEBs and their structural divisions, positions of heads and deputy heads of representations of the government bodies and their structural divisions, replaced for a certain term or without restriction of a term of office;
+
+Assistants (advisers) - the positions established for assistance to persons, replacing the state positions, the heads of the government bodies, the heads of territorial bodies of FEBs and heads of representations of the government bodies in realization of their powers, replaced for the certain term limited to a term of office of persons or heads mentioned;
+
+Professionals - the positions established for professional performance of tasks and functions by the government bodies, replaced without a term of office restriction;
+
+Support professionals - the positions established for organizational, information, documentary, financial, economic and other support of activity of the government bodies, replaced without a term of office restriction. 
+
+	Moreover, positions of Russia’s civil service are divided into the following groups:
+
+Senior staff;
+
+Chief officers; 
+
+Leading officers;
+
+Senior officers;
+
+Junior officers.
+
+	Positions of the categories of Senior managers and Assistants (advisers) are subdivided on Senior staff, Chief officers and Leading officers groups. Positions of the category of Professionals are subdivided on Senior staff, Chief officers, Leading officers and Senior officers groups. Positions of the category of Support Professionals are subdivided on Chief officers, Leading officers, Senior officers and Junior officers groups (Federal law N 79, 2004, article 9).
+
+Table 9 shows the average monthly pay (comprising all the above elements) for all categories and groups of civil service’ positions in both Central apparatus of FEBs and in the Territorial bodies of the Russian Federation.
+
+
+
+
+
+
+
+
+
+
+
+Table 9.
+
+The average monthly pay of FEBs’ civil servants by categories and groups of civil service’ positions, rubles per civil servant (2011)
+
+Resource: Ministry of Finance of the Russian Federation, 2011
+
+It is clear from the table above that there is a large pay gap (more than 50 per cent) between different levels of executive bodies, which illustrate the vertical pay differentiation. Moreover, it is evident that the higher the category of civil service, the larger the pay gap. Thus, such factor as civil service’s category is of considerable interest. Other illustration of vertical pay differentiation is represented in Figure 16.
+
+It is essential to note, that pay gaps between the lowest and the highest categories of civil service varies from 0.85 to 9.91 times across FEBs (see Appendix 9). However, the highest pay gaps (from the 75 percentile) are in FEBs mentioned. It is worth to underline, that the most of these FEBs are FMs. Therefore, such factor as the type of FEB matters.
+
+
+
+
+
+Figure 16. Vertical pay differentiation of civil servants in some FEBs, 2011
+
+Before proceeding to the further analysis, it is essential to examine the system of the FEBs of the Russian Federation. In this respect it is important to note, that the system of power division is adopted in the Russian Federation. Therefore, the following bodies are acting at the federal level of the state authorities:
+
+Legislative Branch is represented by the Federal Assembly of the Russian Federation, a bicameral parliament, comprising the State Duma and the Federation Council.
+
+Executive Branch is represented by the Government of the Russian Federation, the FEBs and their respective territorial bodies.
+
+Judicial Branch comprises the Constitutional Court, the courts of general jurisdiction and the dedicated courts relating to economic disputes – the arbitration courts. 
+
+According to the decree of the President N 314 (2004) “On the system and structure of federal bodies of executive power”, the FEBs of the Russian Federation are represented by the Federal Ministries, Federal Services and Federal Agencies.
+
+The Federal Ministry is a FEB responsible for performing functions of public policy making and statutory regulation in the field of activity established by acts of the President of the Russian Federation and the Government of the Russian Federation. Federal Ministries coordinate and supervise the activities of the Federal Services and Federal Agencies which are under its authority.
+
+The Federal Service is a FEB responsible for performing functions of control and supervision in the field of activity established.
+
+The Federal Agency is a FEB responsible for performing functions of rendering the state services, management of the state property and law-enforcement functions in the field of activity established, except for the functions of control and supervision.
+
+In accordance with the recent Presidential decree N 636 (2012) “On the system and structure of federal executive bodies”, the current structure of FEBs is presented by 79 executive bodies: 20 FEBs, management of which activity is carried out by the President of the Russian Federation and 59 FEBs, management of which is carried out by the Government of the Russian Federation (see Appendix 10). There are 20 Federal Ministries, 34 Federal Services and 25 Federal Agencies. However, it is worth to note that the main limitation of this research is that only civil servants of the central apparatus of FEBs of the Russian Federation have been considered. These executive bodies have been chosen on purpose to capture more comprehensive and objective results of the research, which is based on organisations with different structure, functions and powers.
+
+Below is a table that is designed to illustrate all components of average monthly pay of civil servants in Central Apparatus of FEBs by types of FEBs in 2011.
+
+Table 10.
+
+Components of average monthly pay of civil servants in Central apparatus of FEBs by types of FEBs in 2011, rubles per civil servant
+
+
+
+This table clearly shows that the total pay of civil servants in the Government is twice as much as pay in the other FEBs. Moreover, it is evident that there is no direct relation between pay components of civil servants and type of the FEB. However, the magnitude of monthly pay (median level) is in direct relation with type of FEB. As it shown in Figure 17, civil servants in the Federal Services receive higher pay than in the Federal Agencies, but lower pay than in the Federal Ministries. The average monthly pay of Federal civil servants of each FEBs by categories of civil service’ positions is represented in Appendix 11.
+
+
+
+Figure 17. Pay differentiation according to the type of FEB
+
+The next limitation of research that should be mentioned is that statistical data, essential for practical part of the research, are available only for 2011, therefore we conduct a cross-sectional study. Furthermore, the structure of FEBs have been changed since 2011 – in particular, the Ministry of Healthcare and Social Development was converted into the Ministry of Healthcare and the Ministry of Labour and Social Protection; the Ministry on Far East Development was established; the Ministry of Sports, Tourism and Youth Policy was converted into the Ministry of Sports (its youth policy-related functions were transferred to the Ministry   of Education and Science, while functions pertaining to the coordination of tourist activities were assigned to the Culture Ministry). Other authorities are remained without changes (Presidential decree N 636, 2012). Therefore, research was conducted on the basis of FEBs’ structure of 2011.
+
+Other limitation of research is linked with the absence of statistical data of some FEBs. For example, a number of FEBs under the President’s direct authority (“presidential bloc”) have the so-called “security bloc” of FEBs of the RF, which does not publish data on civil servants’ pay:
+
+The Ministry of the Interior;
+
+The Ministry of Defence;
+
+The Ministry on Far East Development;
+
+The Federal Security Service;
+
+The Chief Directorate for Special Programs of the President (Federal Agency);
+
+The Foreign Intelligence Service (Federal Service).
+
+Moreover, for the following new FEBs of the RF data are also not available:
+
+The Ministry of Labour and Social Security;
+
+The Federal Accreditation Service;
+
+The Federal Service for Intellectual Property;
+
+The Federal Technical and Export Control Service;
+
+The Federal Service for Ecological, Technological and Atomic Supervision; 
+
+The Federal Agency for Construction, Housing and Utilities.
+
+Thus, in our sample we have only 66 FEBs from 79 FEBs.
+
+In order to analyse the influence of such factor as the FEBs activity, all FEBs were divided into the following clusters (see Table 11).
+
+Table 11.
+
+The median of monthly pay of civil servant of the Central apparatus of FEBs by occupations in 2011, rubles per civil servant
+
+Appendix 12 contains the details of clusters mentioned. As it shown in Table 11, the median monthly pay of Federal civil servants is differentiated by the area of FEBs’ activity: the heist pay in Defence cluster and the lowest – in Production sector cluster. Therefore, the area of FEBs’ activity plays a great role in pay differentiation.
+
+Before the analysis of pay compression it is essential to consider the definitions and formulas of the coefficients of pay compression (or compa-ratios). The literature on compa-ratios  (ICLRR, 2006; IDS, 2006; Hay group, 2006; 2007; 2008; Vagina, L., 2007; Mayhew, R., 2011) identifies that there is no universal definition of these coefficients. Being guided by the analysis of the above-stated researches, it is possible to draw a conclusion that definition and components of compa-ratios depend on the purpose and tasks of specific research. In our analysis we will calculate two types of compa-ratios: chain compa-ratios and basic compa-ratios of civil service’ categories.
+
+The chain compa-ratios ( show the ratio of pay of civil service’ category considered to the pay of the previous (by hierarchy) civil service’ category. Thus, the magnitude of  means the increase or decrease (compression) of civil servants’ pay in the case of career advancement from the previous civil service’ category to the next. 
+
+The formula (1) for chain pay compa-ratio is:
+
+
+
+ – the average monthly pay of the particular civil service’ category, for which we calculate ;  – the average monthly pay of the previous civil service’ category. 
+
+Figure 18 illustrates the median chain compa-ratios for civil service’ categories in the Federal Ministries, Services and Agencies. It is essential to note that in the case of career advancement from “Support Professionals” to “Professionals” the average monthly pay increases on approximately 50 per cent in all FEB. However, in case of further career advancement the increase of pay varies from 96 to 139 per cent according to the type of FEB. Thus, civil servants of Federal ministries have more benefits than civil servants of the rest FEBs. This phenomenon can be defined as the horizontal pay differentiation, then employees of the same civil service’ categories receive different levels of pay.
+
+
+
+Figure 18. The horizontal pay differentiation of civil servants in FEBs, 2011
+
+Furthermore, the horizontal pay differentiation can be illustrated by some s of FEBs with pay compression in the cases of career advancement (see Appendix 13).
+
+The basic compa-ratios ( show the ratio of pay of civil service’ category considered to the median of pay for this civil service’ category in the FEB. Thus, if the magnitude of  equals 100 per cent, the level of civil servants’ pay is appropriate for this category of civil service in FEB. A Compa-Ratio of less than 100 per cent means that the actual remuneration is lower than the reference level; a Compa-Ratio exceeding 100 per cent means that actual remuneration exceeds reference level.
+
+The formula (2) for basic pay compa-ratio is:
+
+                       
+
+– the average monthly pay of particular civil service’ category, for which we calculate ;  – median level of the average monthly pay of civil service’ category in FEB.
+
+According to the calculations of basic pay compa-ratios, we can conclude that the level of civil servants’ pay is appropriate for the category of civil service in most FEBs. However, if we consider this indicator by civil service’ categories in different types of FEBs, we can underline that in all Federal ministries the level of civil servants’ pay is appropriate for all categories (except for Support Professionals in 3 Ministries), but in most Federal services and agencies the actual remuneration of employees is lower than the reference level for all civil service’ categories (see Appendixes 14-16).
+
+Below is a table that is designed to summarise all coefficients of pay compression of civil servants in Central Apparatus of FEBs in 2011. This table gives the evidence of vertical and horizontal pay differentiation of civil servants of FEBs. 
+
+Table 12.
+
+Chain and Basic compa-ratios by civil service’ categories in FEBs, % (2011)
+
+The above provided analysis of civil servants’ pay in the FEBs of the Russian Federation leads to the following conclusions.
+
+The civil servants’ pay can vary according to the budget of FEB. However, the budget is based on the number of authorised positions in FEB, calculated on a historical basis. Therefore, such factors as functions, powers and services provided by FEBs can indirectly influence on the level of civil servants’ pay differentiation.
+
+The civil servants’ pay has unequal distribution across FEBs. The average pay for “Senior managers” category is 103 711 rubles. However, in 44 (from 66) FEBs this indicator is lower than the average level. The average pay for “Professionals” category is 45 196 rubles. Nevertheless, 66 per cent of FEBs pay less than this figure. The average pay for “Support professionals” category is 29 899 rubles. However, only 30 FEBs have this level of pay. Therefore, there is a large pay gap between different levels of executive bodies, which illustrate the vertical pay differentiation.
+
+Moreover, it is evident that the higher the category of civil service, the larger the pay gap. Thus, such factor as civil service’s category is of considerable interest. However, in some FEBs the differences in total pay and allowances between different categories of civil service are small. Thus, there is little incentive for staff to take on higher level responsibilities
+
+In addition, pay gaps between the lowest and the highest categories of civil service varies significantly across FEBs. Moreover, such factor as the type of FEB matters in this context. However, there is no direct relation between pay components of civil servants and type of the FEB. In contrast, the overall magnitude of monthly pay is in direct relation with the type of FEB. 
+
+According to the calculations of chain and basic pay compa-ratios, we can conclude the following:
+
+Civil servants of Federal ministries have more benefits than civil servants of the rest FEBs. This phenomenon illustrates the horizontal pay differentiation.
+
+The level of civil servants’ pay is appropriate for all categories in Federal ministries, but in most Federal services and agencies the actual remuneration of employees is lower than the reference level for all civil service’ categories. These findings support the argument that the type of FEB influence on the level of civil servants’ pay differentiation.
+
+Summarizing the findings above and discussion of the theoretical part, we may conclude that factors influencing on the level of civil servants’ pay differentiation can be divided on the three groups (see Figure 19). The first group considers the pay structure in general. The second group accounts for the peculiarities of FEBs. The last group explains the activities of FEBs.
+
+
+
+Figure 19. Determinants of the level of civil servants’ pay differentiation
+
+The next Section includes a comparison of the above mentioned measures of pat differentiation in the OECD countries.
+
+
+
+
+Section 5. Comparative analysis of civil servants’ pay differentiation in Central government of Russia and OECD countries
+
+This section provides an overview of pay gaps and pay differentiation of civil servants working in Central Government. The first part of this section contains the comparison of pay differentiation in Russia and OECD countries. The second part provides the overview of pay differentiation comparisons between UK’ and Russia’ FEBs. 
+
+The following research methods are applied in this section: observational research, statistical and graphical analysis. The research is based on comparison analysis of publically available data on compensation of civil servants in central government from the report “Government at a Glance 2011” (OECD, 2011). Additionally, in order to compare pay gaps and pay compression between FEBs, there have been employed data from the UK Office for National Statistics and Rosstat of the Russian Federation.
+
+Before beginning the comparisons of civil servants’ pay differentiation across different countries, it is essential to consider in more detail the data employed. It was already briefly pointed out that data on compensation of civil servants in central government have been employed from the report “Government at a Glance 2011” prepared by OECD. This report is based on the survey on the annual compensation of employees for a sample of occupations in central/federal/national government in order to build a database on remuneration levels for typical positions in central government. Therefore, this cross-sectional data is comparable with data of Rosstat, because it excludes local levels, social security institutions and public and quasi-public corporations. 
+
+According to the methodology on compensation of government employees (OECD, 2011, pp. 199-210), the data from the survey cover information concerning 12 occupations within central government grouped into four basic headings: top managers, middle managers, professionals and secretaries.
+
+The selected occupations are considered representatively and relatively comparable across countries because it is adopted from the International Standard Classification of Occupations (ISCO-08) developed by the International Labour Organization. The classification and the definition of the occupations represented in Appendix 17.
+
+As mentioned in previous section, there are also four categories of civil service’ positions in the Russian Federation, which can be divided on five groups. Therefore, after the detailed analyses of ISCO-08 classification, the following comparability table of Russian and OECD civil servants’ occupations  have been developed (see Table 13).
+
+Table 13.
+
+Comparability of civil servants’ occupations in Russia and OECD countries
+
+It is essential to note that the OECD survey focuses on total compensation and employers’ social contributions - contributions payable by employers to social security funds or other employment-related social insurance schemes to secure social benefits for their employees (OECD, 2011, p. 203). However, this component was excluded from the comparisons because of the fact that statistics of Rosstat does not contain such data. The initial data of civil servants’ compensation in OECD countries (with employers’ social contributions) is represented in Appendix 18. Total compensation includes wages and salaries, as well as unfunded employee social benefits paid by the employer.
+
+Moreover, OECD data refer to 2009. Initial data of compensation was converted to USD using PPPs for GDP from the OECD National Accounts Database. Therefore, to convert this data to rubles, Russia’s PPP for GDP was used (1 USD = 14,22 rubles in 2009). In order to get compensation measured in 2011 rubles, data was corrected on inflation by means of Russia’s GDP deflator (114,2 % in 2010 and 115,5 % in 2011). Appendix 19 illustrates the data received. It should be mentioned that the average monthly civil servants’ compensation in OECD countries varies from 22 502 rubles (for Secretarial positions in Chili) to 506 345 rubles (for Senior managers in Denmark).
+
+It is evident from the Figure 20 that civil servants of OECD countries in all positions receive higher compensation than Russian civil servants. However, there are few countries with the same level of civil servants’ compensation for some occupations by ISCO-08: Chile, Estonia and Hungary. 
+
+Appendix 20 demonstrates the level of the average monthly compensation of civil servants in different countries as a per cent of the average OECD level. The level of civil servants’ compensation in Russia is lower than the average OECD level on 47 per cent. Moreover, it is interesting to note, that the lowest level of civil servants’ compensation in Russia have Senior managers of Chief officers and Leading officers groups (33 per cent from OECD mean) and Assistants (advisers) of Chief officers group (44 per cent from OECD mean). 
+
+
+
+Figure 20. Compensation of central government civil servants in Russia and OECD countries, 2011
+
+The next figure demonstrates pay gaps between Professionals and Secretarial positions, Middle managers and Secretarial positions and Senior managers and Secretarial Positions. These indicators vary from 1,5 times (between Professionals and Secretarial positions in Denmark) to 9 times (between Senior managers and Secretarial Positions in Chili) (see Figure 21). It is worth to note, that pay gaps in Russia are significantly lower than in OECD countries. Supposing it can be explained by low level of compensation in Russia. However, the largest pay gaps are in Chili, where the same level of civil servants’ compensation.
+
+
+
+
+
+
+
+Figure 21. Pay gaps between civil servants’ occupations, 2011
+
+Figure 22 illustrates the chain compa-ratios for civil service’ occupations in Russia and OECD countries. It is essential to note that in the case of career advancement from “Secretarial positions” to “Professionals” the average monthly pay in OECD countries increases on 103 per cent (in Russia only on 52 per cent). However, in case of further career advancement the increase of pay varies from 0 in Brazil to 116 per cent in Italy. However, there is pay compression in 3 countries: in Austria, Spain and USA. Thus, in the case of career advancement from “Professionals” to “Middle managers” the compensation of civil servants is decreased in countries mentioned. The magnitude of chain compa-ratio between Middle managers and senior managers varies from 10 per cent in Israel to 154 and 212 per cent in New Zeeland and Denmark respectively. Thus, Senior managers in New Zeeland and Denmark have more benefits than Senior managers of the rest countries. This phenomenon can be defined as the horizontal pay differentiation across countries.
+
+
+
+Figure 22. Chain compa-ratios in Russia and OECD countries, per cent (2011)
+
+The next part of this section provides the comparison of pay differentiation in FEBs. The research is based on comparison analysis of publically available data on compensation of civil servants in FEBs of UK from the Civil Service Statistical Bulletin (ONS UK, 2011b) and Civil Service Statistics Data Summary Tool (ONS UK, 2011a).
+
+The FEBs of UK are the Government departments which report to Ministers (24 departments) and a number of non-Ministerial Government Departments (more than 300 departments and bodies). However, only 43 of al FEBs of UK were used in this analysis (see Appendix 23). 
+
+Therefore, after the analysis of UK’s civil service responsibility levels, the following comparability table of Russia’s and UK’s civil service’ categories  have been developed (see Table 15). However, because of the absence of data for Assistants (advisers) in Rosstat data, the category of Administrative stuff (grades 6-7) was excluded from the comparisons.
+
+Table 15.
+
+Comparability of civil servants’ levels of responsibility in Russia and UK
+
+
+
+It is essential to underline, that UK statistics are based on gross salary. Gross salary is the annual salary inclusive of basic pay (including consolidated performance pay) and pay-related allowances such as regional and skills allowances. The main limitation of this part of research is that UK statistics does not include bonuses. According to the IDS (2009), the magnitude of bonuses varies across departments (see Table 16-17). Therefore, there is significant variation in pay multiples among individual organisations of UK civil service, reflecting different workforce medians as well as top pay ones (Hutton, 2011, p. 33) (see Appendix 21). 
+
+Table 16.
+
+Examples of UK’s central government bonuses in different organisations, 2008
+
+Table 17.
+
+System of ‘box’ marks for of UK’s central government bonuses
+
+
+
+Resource: IDS, 2009
+
+Moreover, UK data refer to March 2011. Initial data of gross salary was divided on 12 (to provide monthly salary) and converted to rubles 2011 using exchange rate of the Central Bank of the Russian Federation (1 Pound = 46 rubles in March 2011). The table of comparability of Russian and UK FEBs based on comparability of functions performed is represented in Appendix 22. Appendix 23 illustrates data received.
+
+It is evident from this data that civil servants’ pay in UK has more unequal distribution across FEBs, which confirms the argument that the level of horizontal pay differentiation among FEBs in UK is higher than in Russia. Moreover, civil servants of all categories receive higher compensation than Russian civil servants in all FEBs. Pay gaps between Russian and UK’s civil servants vary from 0.89 times (between SCS of Russian Treasury and UK’s HMT) to 6.44 times (between SCS of Rorarhiv and UK’s NA) (see Appendix 24).
+
+With these caveats in mind, it is nonetheless interesting to consider pay gaps between the lowest and the highest categories of civil service among UK’s and Russia’s FEBs (see Appendix 25). In UK it varies from 2.88 times (DCLG of UK) to 6.21 times (OS of UK). However, in Russia these indicators vary from 1.81 times (FS MTS of Russia) to 7.91 times (FNS of Russia). It is worth to underline, that the level of vertical pay differentiation is higher in Russia than in UK. 
+
+The next section of research provides the regression analysis of the main determinants of civil servants’ pay differentiation in FEBs of the Russian Federation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Section 6. Regression analysis of the main determinants of civil servants’ pay differentiation
+
+The theoretical part of the thesis provides a brief overview of civil servants’ pay differentiation determinants in accordance with theoretical models. The previous section of the practical part reviews some factors of civil servants’ pay differentiation, identified through the analysis of some practical cases. However, we now return to research questions posed at the beginning of the master thesis:
+
+Is civil servants’ pay differentiation justified?
+
+What determinants lie in the basis of civil servants' pay differentiation?
+
+Can civil servants’ pay differentiation be attributed to any of the observable factors? 
+
+To answer these questions the regression analysis of the main determinants of civil servants’ pay differentiation has been conducted. Therefore, this section provides the investigation of some factors, which have a significant impact on the emergence of civil servants’ pay differentiation.
+
+Taking into consideration width of the investigated problem, the research is based on the cross-sectional study of pay differentiation determinants. The choice of such research method can be explained by the availability of the most necessary data only on 2011. Moreover, there are some successful empirical studies of public sector pay differentiation which are also relied on cross-sectional data (see, for example, Emilio et al., 2012). Furthermore, a quantitative study was suggested as the best design for explaining relationships between variables (Cavana et al., 2001; Naeem et al., 2011). Hence, quantitative data were collected on the basis of disproportionate stratified random sampling that included 66 FEBs of the Russian Federation that have publicly available data on pay differentiation.
+
+The dependent variable of our regression model is the magnitude of pay gap between Senior managers and Support professionals in the FEBs of the Russian Federation. The advantage of such variable is that it can explaine both vertical and horizontal pay differentiation of civil servants in FEBs considered. 
+
+As a first approximation, the pay gap between Senior managers and Support professionals in the FEBs can be estimated using a very simple econometric model. Let  be a vector representing the observable characteristics of FEB ‘i’ (e.g., monthly pay of civil servants, salary budget of FEB, type of the FEB, etc.) and  be the pay gaps between Senior managers and Support professionals of this FEB. The relationship between individual characteristics of FEBs and pay gaps can be specified as (3):
+
+ 
+
+where:  – dependent variable; 
+
+ – explanatory variables; 
+
+ – unknown parameters of the model;
+
+ – unobserved error term.
+
+The error term summarizes the effects of unobservable individual characteristics or connections. Assuming that  is not correlated with the unobservable individual characteristics (, the parameters in vector  can be estimated by ordinary least squares.
+
+As it mentioned in Section 4, the independent variables are divided into three groups:
+
+The group of explanatory variables considers the pay structure in general:
+
+ – the average monthly pay of civil servants in FEBs, rubles;
+
+ – the average monthly official salary of civil servants in FEBs, rubles;
+
+ – the average monthly length of service allowance of civil servants in FEBs, rubles;
+
+ – the average monthly bonuses of civil servants in FEBs, rubles;
+
+ – the average monthly material assistance of civil servants in FEBs, rubles;
+
+ – the annual salary budget of FEB in 2011, thousands rubles;
+
+The group of explanatory variables accounts for the peculiarities of FEBs:
+
+ – the type of the FEB (dummy variable: 1 – for ministry, 0 – for agency or service);
+
+ – “presidential block” (dummy variable: 1 – federal executive body from the “presidential” block, 0 – otherwise) 
+
+ – “jurisdiction” (dummy variable: 1 – if the FEB is under ministerial jurisdiction, 0 – if the FEB under the direct jurisdiction of the President or the Government);
+
+ – the budget allocations for the maintenance of the central apparatus of FEBs estimated for 2011, mn rubles;
+
+ – the budget allocations for salaries of the central apparatus of FEBs estimated for 2011, mn rubles;
+
+ – the Federal government expenditures under section 01 of the Federal Budget 2011, mn rubles;
+
+ – the number of employees received further vocational education, civil servants;
+
+The third group of explanatory variables explains the activities of FEBs:
+
+ – the total number of powers established by the Government decrees on FEB, units;
+
+ – the number of regulated (“reglamentated”) powers of FEB, units;
+
+ – the number of the accounting systems of FEB’s powers, units;
+
+ – the number of governmental databases available on the official websites of FEB, units;
+
+ – the number of services provided by FEB, units;
+
+ – the number of support functions of FEB, units;
+
+ –the number of the groups of functions according to Government decree of FEB, units.
+
+The specific issues of civil servants’ pay differences that are being covered by each of these variables are as follows:
+
+The first five variables of the first group () characterize the components of pay of Federal civil servants of the Russian Federation. It is essential to note, that such variable as   has a complex character, because in this case the average monthly bonuses includes some additional payments compiled from the economy of salary budget and undistributed material assistance. Therefore, this variable is unrelated to performance (like, for instance, the bonus pay for performance of critical and complex tasks). To this, the variable “bonuses” reflects the redistributed budget allocations for salaries of Federal civil servants. The data for  variables have been employed from the Rosstat website.
+
+The variable  takes into account such indicators as the average monthly pay and the average number of employees of federal authorities simultaneously. The data also have been employed from the Rosstat website.
+
+It should be noted that the dummy variables () describe the type of FEB, the “presidential bloc” belonging and the jurisdiction of federal authorities. Considering that each type of FEBs has particular executive functions and powers and the number of these functions and powers depends on the jurisdiction,  reflect indirectly the activity of FEBs. These variables were determined by means of analysis of 66 Government decrees on FEBs.
+
+The following three parameters of the second group of explanatory variables represent the expenses of the Federal budget on a specific FEB. The variables  and  reflect the budget allocations for the work of Central apparatus of FEBs as a whole and for civil servants’ pay in particular respectively. This data provided by the Ministry of Finance of the Russian Federation. The variable  reflects the expenses of Federal budget under section 01 “National Issues” (“Obschegosudarstvennye voprosy” in Russian) in 2011. This data have been employed from the Federal Budget 2011. 
+
+The section “National Issues” consists of thirteen divisions which accumulate the expenses for National Issues. These issues are not corresponded to the relevant sections and subsections of the budget classification of expenditures (including the cost of maintenance of the head of state - the President of the Russian Federation, the top official of the Russian Federation and the head of the municipal administration, the cost of providing the relevant state authorities, public bodies, local authorities and by institutions providing activities such officials and agencies). As an approximation, this indicator reflects the “significance” of a particular federal authority for the state, the so-called “political importance” of FEB for the public administration. In this respect it is assumed that the pay determination process reflects changing priorities of a government.
+
+According to the government regulations, approved by the Government decree N 362 “On approval of state requirements for occupational training, professional development and training of civil servants of the Russian Federation”, dated by May 2008, further professional education of civil servants includes their professional training, professional development and internship. Therefore, the variable  reflects the career growth opportunities in the federal authorities. The data in this parameter have been employed from the official website of Rosstat.
+
+The following parameters of the model represent the activity of FEBs. The first four parameters of the third group of explanatory variables () enable to provide an analysis of the FEBs' powers in terms of their regulation (“reglamentation”) (), as well as in terms of their accountability (), including the publicly available governmental databases of powers (). By definition of IPAMM, the power (“polnomochie” in russian) is the right and/ or obligation of FEB, fixed in statute on the federal authority, as well as other legal acts (Zhulin et al., 2010). 
+
+Accounting systems of FEBs’ powers include governmental databases of check-lists, land registries, registries, inventories containing information about the objects and subjects of accounting, legally significant events and actions, unified and systematically collected and fixed. In this case, the variable  partly indicates the “degree of openness” of the FEB. The data of variables  were provided by the IPAMM NRU HSE. 
+
+The variable  describes the number of services provided by the FEBs, which is also an important factor of federal authorities’ activity. The data of this variable were received from the Common Government Services Portal of Russian Federation.
+
+The last two variables directly characterize the functions of FEBs: the support functions of the Central Apparatus of FEBs according to the Ministry of Economic Development data (), as well as the groups of functions in various fields of activity according to Government decrees on each FEB ).The last variable characterizes the degree of "functions’ systemisation” in the FEBs.
+
+Before we embark to the implementation of the regression analysis, it is worth to underline the limitations of this section. It was already pointed out that the main limitation is that only Federal civil servants (civil servants working in central apparatus of FEBs of the Russian Federation) have been considered. The next limitation that should be mentioned is that statistical data, essential for this part of research, are available only for 2011, therefore the cross-sectional study have been conducted. In addition, the scope of the study depends significantly on the availability of statistical data: the structure of FEBs have been changed since 2011. Thus, all conclusions can be partly adapted to the current structure of FEBs. Other limitation is linked with the absence of statistical data of some FEBs of “presidential block” and some of the new-established FEBs. Thus, in our sample we have only 66 FEBs from 79 FEBs.
+
+It is essential to note, that all model parameters are taken in absolute values. The current study used the Eviews software with version 6.1. The descriptive statistics of common sample are represented in Appendix 26.
+
+In order to get valid results about any individual predictor of our model it is essential to exclude the highly correlated variables. In this respect, for detection multicollinearity, the correlation matrix was developed (see Appendix 27). The following variables with high (more than 0,75) pair correlation coefficients were omitted from the model to eliminate the effects of multicollinearity: , , , , . The initial model is represented in Appendix 28. The high value of the adjusted coefficient of determination  indicates the high quality of the resulting model.
+
+At this stage, it is necessary to check coefficients for significance using t-statistic for the hypothesis H0 and H1:
+
+The hypothesis H0 is accepted if |tcomp|<ttable. The process of checking all hypotheses performed at a significance level of 0.05, hence probability of our findings is 95per cent. The data provided by Eviews computation shows the tcomp value (see Appendix 28). 
+
+The formula (4) for  is:
+
+
+
+Where n – number of observations, m – number of explanatory variables,  – significance level. According to the Student's t-distribution tables  equals 1,68. Hence, 9 variables of the initial model have insignificant coefficients. It is essential to note that if coefficients of explanatory variables are insignificant, such variables cannot explain the linear relation between the dependent variable and observable factors. Table 14 provides the significant and insignificant parameters of initial model.
+
+
+
+
+
+
+
+
+
+
+
+Table 14.
+
+Significant and insignificant parameters of initial model
+
+The explanatory variables with insignificant coefficients were subsequently omitted from the following model specifications. The final model is represented in Table 15.
+
+Table 15.
+
+The final model
+
+Coefficient of the following variables are significant on significance level of 0.1: , ,, , , , . Hence, the probability of our findings is 90 per cent. In spite of the insignificance of the coefficient of the variable , this variable was not excluded due to the fact that it is an essential for our model.
+
+The initial and final models were compared according to the criteria presented in the Table 15.
+
+Table 15.
+
+Comparison of the models
+
+
+
+
+
+The second model is better than the first, because it has only one insignificant coefficient. Moreover, the magnitudes of Akaike info criterion and Schwarz criterion are lower than in previous model, which represents the higher quality of the model. The high value of the adjusted coefficient of determination  also indicates the high quality of both resulting models.
+
+Therefore, the final model have been tested on multicollinearity (using the Pearson Correlation), heteroscedasticity (White test) and autocorrelation (Durbin-Watson stat test) (see Appendix 28). Thus, the resulting regression model is as follows (5):
+
+ 
+
+This model demonstrates the dependence of Federal civil servants’ pay differentiation on the following parameters:
+
+ – the average monthly official salary of civil servants in FEBs;
+
+ – the average monthly length of service allowance of civil servants in FEBs;
+
+ – the average monthly bonuses of civil servants in FEBs;
+
+ – “jurisdiction” (dummy variable: 1 – if the FEB is under ministerial jurisdiction, 0 – if the FEB under the direct jurisdiction of the President or the Government);
+
+ – the budget allocations for the maintenance of the central apparatus of FEBs estimated for 2011;
+
+ – the Federal government expenditures under section 01 of the Federal Budget 2011;
+
+ – the total number of powers established by the Government decrees on FEB;
+
+ – the number of support functions of FEB.
+
+Summarizing the findings above, we may conclude the following:
+
+The influence of such factors as official salary and length of service allowance are justified the model validity. It is readily seen that the pay gap between the lowest and the highest civil service’ categories depends on the experience/ skills (length of service) and competencies/ knowledge (job position held).
+
+According to the Rosstat data, the magnitude of Federal civil servants monthly bonuses in about 40 per cent of total pay. Therefore, the influence of such variable as “average monthly bonuses” on the level of civil servants pay differentiation is evident. However, it was already mentioned, that this component is unrelated to performance of civil servants. 
+
+The significance of “jurisdiction” variable explains the fact that the type of FEB matters in the context of pay differentiation. If FEB is under ministerial jurisdiction, the level of pay gap between Senior managers and Support professionals rises on 9 312 rubles.
+
+The following two significant parameters represent the expenses of the Federal budget on a specific FEB. The variable  reflects that the higher the budget allocations for the work of Central apparatus of FEBs the higher the level of pay differentiation among categories of civil service. The influence of variable  on civil servants’ pay differentiation means that the so-called “political importance” of FEB plays a great role in the process of salary budget formation.
+
+The last two variables of our model (the number of powers and support functions of FEB) justify the importance of FEB’s activity. Therefore, the area of FEBs’ activities directly influences on the level of pay differentiation. Moreover, considering that each type of FEBs has particular executive functions and powers, the significance of variables mentioned underline the role of the type of FEB.
+
+ It is essential to note, that there is an inverse relationship between the number of FEB’s powers and the level of pay differentiation. It means that the higher the number of powers, the lower the pay gaps between Senior managers and Support professionals of FEB. These findings can be explained by the fact that civil servants’ pay varies according to the budget of FEB. However, the salary budget is based on the number of authorised positions in FEB, calculated on a historical basis. Therefore, such factor as the number of powers of FEB can be neglected.
+
+Thus, the current study has explained 90% of the variance of pay differentiation through salary, length of service allowance, bonuses, “jurisdiction”, budget allocations for CA of FEB, Federal budget expenditures for FEB as whole, powers and functions of FEBs. However, the inclusion some of the remaining variables may provide a better explanation of the level of civil servants pay differentiation. Since the study is conducted on civil servants of central apparatus of FEBs, there is the limitation that the generalization of this study to other civil servants of regional and municipal authorities may not be appropriate. It is also important to include other public sector employees to a similar study to understand the regional and municipal levels of civil servants’ pay differentiation.
+
+
+
+
+
+
+
+
+Conclusions
+
+During the research the author of the Master’s thesis has come to the following conclusions:
+
+The theories of pay differentiation can partly explain the phenomenon of civil servants’ pay differentiation. Each theory justifies particular type of pay differentiation: Human capital theory and Glass ceiling theory explain the gender and racial pay differentiation; Compensating differences theory accounts for the interregional pay differentiation; Opportunity cost theory elucidates the sectorial pay differentiation and Effective wage theory clarifies the psychological pay differentiation. Moreover, the horizontal and vertical pay differentiations are not substantiated by theoretical models. However, these aforementioned types are widespread in organisations of public and private sector. 
+
+The factors of pay differentiation are different for each theory and each type of pay differentiation. Furthermore, the ways which can be involved in optimization are appropriate for certain types of pay differentiation. The author-established systematization provides the correspondence of the main theories, factors, types and possible ways of optimization civil servants’ pay differentiation.
+
+The expert opinion that the current remuneration structure of Russian civil servants is complicated and unrelated to performance is readily confirmed by the analysis of pay structure and pay system of Federal civil servants of the Russian Federation.
+
+Concerning the ways of optimisation Russian civil servants’ pay system it is worth to underline some pilot projects of performance indicators implementation and the recent initiatives of the President on perfection of Federal civil servants’ pay in the Administration and in the Government. Nevertheless, there is no data available to confirm the increase of civil servants’ performance after the pilot projects. Moreover, the initiatives of the President are also unrelated to civil servants’ performance. 
+
+The civil servants’ pay has unequal distribution across FEBs. There is a large pay gap between different levels of executive bodies, which illustrate the vertical pay differentiation. However, there is little incentive for staff to take on higher level responsibilities because the differences in total pay and allowances between different categories of civil service in FEBs are insufficient.
+
+According to the analysis of pay compression, the following factors determine the level of pay differentiation in FEBs: civil service’ category, type of FEB, pay components, area of FEBs’ activity.
+
+Considering the calculations of chain and basic pay compa-ratios, we can conclude the following:
+
+In the case of career advancement from “Support Professionals” to “Professionals” civil service category the average monthly pay increases on approximately 50 per cent in all FEB. However, in case of further career advancement the increase of pay varies from 96 to 139 per cent according to the type of FEB. Thus, civil servants of Federal ministries have more benefits than civil servants of the rest FEBs. This phenomenon illustrates the horizontal pay differentiation, then employees of the same civil service’ categories receive different levels of pay in different FEBs.
+
+The level of civil servants’ pay is appropriate for the category of civil service in most FEBs. However, the level of civil servants’ pay is appropriate for all categories (except for Support Professionals in 3 Ministries) in all Federal ministries, but in most Federal services and agencies the actual remuneration of employees is lower than the reference level for all civil service’ categories.
+
+Summarizing the findings of regression analysis, we may conclude the following:
+
+The influence of such factors as official salary and length of service allowance are justified the model validity. It is readily seen that the pay gap between the lowest and the highest civil service’ categories depends on the experience/ skills (length of service) and competencies/ knowledge (job position held).
+
+According to the Rosstat data, the magnitude of Federal civil servants monthly bonuses in about 40 per cent of total pay. Therefore, the influence of such variable as “average monthly bonuses” on the level of civil servants pay differentiation is evident. However, it was already mentioned, that this component is unrelated to performance of civil servants. 
+
+The significance of “jurisdiction” variable explains the fact that the type of FEB matters in the context of pay differentiation. If FEB is under ministerial jurisdiction, the level of pay gap between Senior managers and Support professionals rises on 9 312 rubles.
+
+The following two significant parameters represent the expenses of the Federal budget on a specific FEB. The variable  reflects that the higher the budget allocations for the work of Central apparatus of FEBs the higher the level of pay differentiation among categories of civil service. The influence of variable  on civil servants’ pay differentiation means that the so-called “political importance” of FEB plays a great role in the process of salary budget formation.
+
+The last two variables of our model (the number of powers and support functions of FEB) justify the importance of FEB’s activity. Therefore, the area of FEBs’ activities directly influences on the level of pay differentiation. Moreover, considering that each type of FEBs has particular executive functions and powers, the significance of variables mentioned underline the role of the type of FEB.
+
+ It is essential to note, that there is an inverse relationship between the number of FEB’s powers and the level of pay differentiation. It means that the higher the number of powers, the lower the pay gaps between Senior managers and Support professionals of FEB. These findings can be explained by the fact that civil servants’ pay varies according to the budget of FEB. However, the salary budget is based on the number of authorised positions in FEB, calculated on a historical basis. Therefore, such factor as the number of powers of FEB can be neglected.
+
+Thus, the current study has explained 90% of the variance of pay differentiation through salary, length of service allowance, bonuses, “jurisdiction”, budget allocations for CA of FEB, Federal budget expenditures for FEB as whole, powers and functions of FEBs. However, the inclusion some of the remaining variables may provide a better explanation of the level of civil servants pay differentiation. Since the study is conducted on civil servants of central apparatus of FEBs, there is the limitation that the generalization of this study to other civil servants of regional and municipal authorities may not be appropriate. It is also important to include other public sector employees to a similar study to understand the regional and municipal levels of civil servants’ pay differentiation.
+
+
+
+
+
+
+
+
+
+
+Recommendations
+
+On the grounds of the findings and conclusions the recommendations on improvement civil servants’ pay system have been developed. These recommendations tend to optimize the horizontal and the vertical pay differentiation of Federal civil servants. It is essential to note, that in this context the notion of “optimisation” is closely related with justification for certain type of pay differentiation. In other words, ways of optimisation proposed enables to explain the level of pay differentiation from the efficiency perspective
+
+Optimisation of the horizontal pay differentiation
+
+The Horizontal pay differentiation between the comparable levels (categories) of civil servants in different FEBs can be optimised by the introduction of PRP. In fact, the remuneration structure of Russian civil servants is complicated and unrelated to performance. Moreover, according to the research provided, such components of civil servants total pay as Confidentiality Allowance, Special Conditions Allowance and Monthly allowance have not any influence on the level of pay differentiation. These components should be omitted from the total pay of civil servants in order to form the basis for performance pay budget. Furthermore, taking into account the significance of official salary, it is worth to introduce salary rates (“vilki”) in addition to fixed part of official salary.
+
+Optimisation of the vertical pay differentiation
+
+The appropriate type of pay structure can optimize the vertical pay differentiation. In particular, it is critical to ensure that pay levels are well defined, thereby making it easier to differentiate between them. To this, it is worth to consider the best practice of grade systems in foreign countries and to transfer some successful experience to Russian civil servants’ pay system/
+
+Therefore, talent management can also optimize vertical pay differentiation by attracting, retaining and development of high calibre employees because it ensures the adequate competition for top job positions. 
+
+The application of recommendations mentioned can help to implement the proper economic policy on the state level in order to avoid the problem of negative selection of future civil servants and to increase the motivation of current civil servants. The analysis carried out in the frames of this research leaves a room for the further research on the same subject.
+
+
+
+
+
+
+Bibliography
+
+Laws and Regulations
+
+Federal law N 58 (2003) “On the system of Civil Service in the Russian Federation” [in Russian].
+
+Federal law N 79 (2004) “On the State Civil Service in the Russian Federation” [in Russian].
+
+Federal Law N 67 (1994) “ On the State Courier Service” from 17 December 1994 (ed. 2 March 2007) [in Russian].
+
+Presidential decree (2004) N 314 “On the system and structure of federal bodies of executive power” [in Russian].
+
+Presidential decree (2006) № 763 “On the salaries of federal civil servants” [in Russian].
+
+Presidential decree (2010) N 261”On the Federal programme “Reforming and Development of the civil service in the Russian Federation (2009-2013)” [in Russian].
+
+Presidential decree (2012) N 601 «On the main directions of perfection the system of public administration” [in Russian]. 
+
+Presidential decree (2012) N 636 “On the system and structure of federal executive bodies” under the direct authority of the Government of Russia [in Russian]. 
+
+Presidential Decree of the Russian Federation (2004) №865 “The issues of the Ministry of Foreign Affairs” from 11 July 2004 (ed. 21 August 2012).
+
+Presidential Decree of the Russian Federation (2004) №1313 “The issues of the Ministry of Justice” from 13 October 2004 (ed. 29 December 2012).
+
+Presidential Decree of the Russian Federation (2008) №1315 “Some issues of governance in the field of international cooperation” (along with “The approval of the Federal Agency for Commonwealth of Independent States Affairs”).
+
+Presidential Decree of the Russian Federation (2004) №1084 “Issues of the Federal Special Construction Agency” from 16 August 2004 (ed. 6 November 2012) (along with “The approval of the engineering military units and road-building military units of the Federal Special Construction Agency”).
+
+Presidential Decree of the Russian Federation (2010) №589  “The issues of the Federal Agency for Weaponry, Military and Special Equipment and Material facilities Procurement” from 14 May 2010 (ed. 2 February 2013) (along with “The approval of the Federal Agency for Weaponry, Military and Special Equipment and Material facilities Procurement”).
+
+Presidential Decree of the Russian Federation (2004) №868 “The issues of the Ministry of the Russian Federation for Civil Defense, Emergencies and Elimination of Consequences of Natural Disasters” from 11 July 2004 (ed. 13 November 2012).
+
+Presidential Decree of the Russian Federation (2008) №1445 “The issues of the Ministry of sport, tourism and youth policy of the Russian Federation” from 7 October 2008 (ed. 21 May 2012).
+
+Presidential Decree of the Russian Federation (2008) №1370 “The Directorate of the President (along with “The approval of the Directorate of the President”)” from 17 September 2008 (ed. 3 November 2012).
+
+Presidential Decree of the Russian Federation (2004) №976 “The issues of the Federal Drug Control Service” from 28 July 2004 (ed. 14 October 2012).
+
+Presidential Decree of the Russian Federation (2004) №1314 “The issues of the Federal Service for the Execution of Sentences” from 13 October 2004 (ed. 30 March 2012).
+
+Presidential Decree of the Russian Federation (2004) №1083 “The issues of the Federal Service for Military-Technical Cooperation” from 16 August 2004 (ed. 9 February 2013).
+
+Presidential Decree of the Russian Federation (2004) №1316 “the issues of the Federal Bailiff Service” from 13 October 2004 (ed. 11 February 2013).
+
+Presidential Decree of the Russian Federation (2012) №808 “The issues of the Federal Service for Financial Monitoring” (along with “The approval of the Federal Service for Financial Monitoring”) from 13 June 2012 (ed. 3 November 2012).
+
+Government decree (2008) N 362 “On approval of state requirements for occupational training, professional development and training of civil servants of the Russian Federation” [in Russian].
+
+Government Decree of the Russian Federation (2004) №290 “The Federal Archive Agency” from 17 June 2004 (ed. 24 March 2011).
+
+Government Decree of the Russian Feeration (2008) №409 “The Federal Agency for Youth Affairs” from 29 May 2008 (ed. 19 June 2012).
+
+Government Decree of the Russian Federation (2004) №293 “The approval of the Federal Agency on Mineral Resources ” from 17 June 2004 (ed. 4 March 2013).
+
+Government Decree of the Russian Federation (2004) №320 “The Approval of the Federal Agency of Communications” from 30 June 2004 (ed. 24 March 2011).
+
+Government Decree of the Russian Federation (2004) №294 “The Federal Agency for Technical Regulation and Metrology” from 17 June 2004 (ed. 26 December 2011).
+
+Government Decree of the Russian Federation (2004) №314 “The approval of the Federal Space Agency” from 26 June 2004 (ed. 25 April 2012).
+
+Government Decree of the Russian Federation (2004) №397 “The approval of the Federal Agency for Railway Transport ” from 30 July 2004 (ed. 17 October 2011).
+
+Government Decree of the Russian Federation (2004) №371 “The approval of the Federal Marine and River Transport Agency” from 23 July 2004 (ed. 4 October 2012).
+
+Government Decree of the Russian Federation (2004) №292 “The Federal Press and Mass Media Agency” from 17 June 2004 (ed. 14 February 2012).
+
+Government Decree of the Russian Federation (2008) №432 “The Federal Agency for State Property Management” from 5 June 2008 (ed. 18 September 2012).
+
+Government Decree of the Russian Federation (2004) №295 “The Federal Agency for Fishery” from 17 June 2004.
+
+Government Decree of the Russian Federation (2004) №373 “The Federal State Reserve Agency” from 23 July 2004.
+
+Governmental Decree of the Russian Federation (2004) №901 “The approval of the Federal Agency for Tourism” from 31 December 2004.
+
+Governmental Decree of the Russian Federation (2004) №374 “The approval of the Federal Highway Agency” from 23 July 2004 (ed. 6 September 2012).
+
+Government Decree of the Russian Federation (2004) №396 “The approval of the Federal Air Transport Agency” from 30 July 2004.
+
+Government Decree of the Russian Federation (2004) №282 “The approval of the Federal Agency for Water Resources” from 16 June 2004.
+
+Government Decree of the Russian Federation (2010) №736 “The Federal Forestry Agency” from 23 September 2010 (ed. 13 April 2013) (along with “The approval of the Federal Forestry Agency”).
+
+Government Decree of the Russian Federation (2005) №206 “The Federal Bio-Medical Agency” from 11 April 2005 (ed. 19 June 2012).
+
+Government Decree of the Russian Federation (2007) №734 “The Federal Agency for the Development of the State Border Facilities” from 1 November 2007 (ed. 18 December 2012).
+
+Government Decree of the Russian Federation (2004) №331 “The approval of the Federal Antimonopoly Service” from 30 June 2004 (ed. 20 December 2012).
+
+Government Decree of the Russian Federation (2012) №711 “The issues of the Federal migration service” (along with “The approval of the Federal migration service”)” from 13 July 2012 (ed. 27 February 2013).
+
+Government Decree of the Russian Federation (2004) №506 “The approval of the Federal Tax Service” from 30 September 2004 (ed. 20 March 2013).
+
+Government Decree of the Russian Federation (2011) №717 “The issues about governmental regulation in the financial market sphere in the Russian Federation” (along with “The approval of the Federal Service for Financial Markets”) from 29 August 2011 (ed. 30 April 2013).
+
+Government Decree of the Russian Federation (2004) №332 “The approval of the Federal Tariff Service” from 30 June 2004 (ed. 23 March 2013).
+
+Government Decree of the Russian Federation (2006) №459 “The Federal Customs Service” from 26 July 2006 (ed. 16 February 2013).
+
+Government Decree of the Russian Federation (2011) №590 “The Russian Ministry of culture” (along with “The Approval of the Russian Ministry of culture”) from 20 July 2011 (ed. 18 February 2013).
+
+Government Decree of the Russian Federation (2008) №437 “The Ministry of Economic Development” from 5 June 2008 (ed. 3 April 2013).
+
+Government Decree of the Russian Federation (2008) №400 “The Ministry of Energy” from 28 May 2008 (ed. 18 April 2013).
+
+Government Decree of the Russian Federation (2004) №329 “The Ministry of Finance” from 30 June 2004 (ed. 30 April 2013).
+
+Government Decree of the Russian Federation (2008) №418 “The Ministry of Communications and Media” from 2 June 2008 (ed. 27 March 2013).
+
+Government Decree of the Russian Federation (2010) №337 “The Ministry of Education and Science” (along with “The Approval of the Ministry of Education and Science”) from 15 May 2010 (ed. 1 December 2012).
+
+Government Decree of the Russian Federation (2008) №404 “The Ministry of Natural Resources and Environment” from 29 May 2008 (ed. 13 April 2013).
+
+Government Decree of the Russian Federation (2008) №438 “The Ministry of Industry and Trade” from 5 June 2008 (ed. 15 April 2013).
+
+Government Decree of the Russian Federation (2005) №40 “The approval of the Ministry of Regional Development and on the amendments to certain acts of the Government of the Russian Federation” from 26 January 2005 (ed. 30 April 2013).
+
+Government Decree of the Russian Federation (2008) №450 “The Ministry of Agriculture” from 12 June 2008 (ed. 6 March 2013). Government Decree of the Russian Federation (204) №395 “The approval of the Ministry of transport of the Russian Federation” from 30 July 2004 (ed. 16 March 2013).
+
+Government Decree of the Russian Federation (2008) №423 “The issues of the Ministry of Public Health and Social Development and the Federal Bio-Medical Agency” from 2 June 2008 (ed. 28 June 2012).
+
+Government Decree of the Russian Federation (2009) №154 “The Federal Service for the Regulation of the Alcohol Market” (along with “The approval of the Federal Service for the Regulation of the Alcohol Market”) from 24 February 2009 (ed. 9 August 2012).
+
+Government Decree of the Russian Federation (2004) №278 “The approval of the Federal Service for Financial and Budgetary Supervision” from 15 June 2004 (ed. 25 December 2012).
+
+Government Decree of the Russian Federation (2004) №372 “The Federal Service for Hydrometeorology and Monitoring of the Environment” from 23 July 2004 (ed. 24 March 2011).
+
+Government Decree of the Russian Federation (2009) №228 “The Federal Service for Supervision of Telecom, Information Technologies and Mass Communications” (along with “The approval of the Federal Service for Supervision of Telecom, Information Technologies and Mass Communications”) from 16 March 2009 (ed. 26 October 2012).
+
+Government Decree of the Russian Federation (2012) №604 “The Federal Service for Defence Order” from 19 June 2012 (ed. 18 February 2013)
+
+Government Decree of the Russian Federation (2004) №300 “The approval of the Federal Service for Supervision in the Sphere of Science and Education” from 17 June 2004 (ed. 24 October 2011).
+
+Government Decree of the Russian Federation (2004) №322 “The approval of the Federal Service on Customers’ Rights and Human Well-being Surveillance” from 30 June 2004 (ed. 30 January 2013).
+
+Government Decree of the Russian Federation (2004) №400 “The approval of the Federal Service for Supervision of Natural Resource Management and changes of the Government Decree №370 from 22 July 2004” from 30 July 2004 (ed. 8 October 2012 with changes from 30 April 2013).
+
+Government Decree of the Russian Federation (2009) №457 “The Federal Service for State Registration, Cadastre and Cartography” from 1 June 2009 (ed. 13 December 2012).
+
+Government Decree of the Russian Federation (2004) №327 “The approval of the Federal Service for Veterinary and Phytosanitary Surveillance” from 30 June 2004 (ed. 17 October 2011).
+
+Government Decree of the Russian Federation (2008) №420 “The Federal State Statistics Service” from 2 June 2008 (ed. 15 April 2013).
+
+Government Decree of the Russian Federation (2004) №398 “The approval of the Federal Transportation Inspection Service” from 30 July 2004 (ed. 2 May 2012).
+
+Government Decree of the Russian Federation (2004) №324 “The approval of the Federal Service for Labour and Employment” from 30 June 2004 (ed. 19 June 2012).
+
+Government Decree of the Russian Federation (2004) №323 “The approval of the Federal Service on Surveillance in Healthcare” from 30 June 2004 (ed. 29 April 2013).
+
+Government Decree of the Russian Federation (2004) №703 “The Russian Federal Treasury” from 1 December 2004 (ed. 26 December 2011).
+
+
+
+
+
+
+Literature
+
+Aizenman, J. (1986) Optimal wage re-negotiation in a closed and open economy, Journal of Monetary Economics, 13 (2), pp. 251-262.
+
+Aizenman, J. (2008) Wage indexation, in Durlauf, S.N. and Blume, L.E. (eds.), The New Palgrave Dictionary of Economics, Vol. 8, Palgrave Macmillan.
+
+Akhmedjonov, A. and Izgi, B. (2012) Does it pay to work in the public sector in Turkey? Applied Economics Letters, 19, pp. 909-913.
+
+Alkadry, M. and Tower, L. (2006) Unequal Pay: The Role of Gender, Public Administration Review, 66 (6), pp. 888-898.
+
+Alkadry, M. and Tower, L. (2011) Covert Pay Discrimination: How Authority Predicts Pay Diﬀerences between Women and Men, Public Administration Review, 71 (5), pp. 740-750.
+
+Amirault, T.A. (1994) Job market profile of college graduates in 1992: a focus on earnings and jobs, Occupational Outlook Quarterly, 38 (2), pp. 20-28.
+
+Armstrong, M. and Murlis, H. (2005) Reward Management – A Handbook of Remuneration Strategy and Practice, 5th Edition, Kogan Page: London.
+
+Armstrong, M. (2010) Armstrong's Handbook of Reward Management Practice: Improving Performance Through Reward, 3rd ed., London: Kogan Page.
+
+Arrow, K. (1971) The Theory of Discrimination, Presented at conference on “Discrimination on the labour markets”, Industrial relations section, October 7-8, 1971.
+
+Вarabashev, A.G. and Klimenco A.V. (2010) Retrospective analysis of the major trends of modernization of the public administration and civil service system, Public Administration Issues, 3, pp. 36-72 [Online]. Available at:  (Assessed: 08.01.2013) [in Russian].
+
+Baron, J. and Cobb-Clark, D. (2010) Occupational Segregation and the Gender Wage Gap in Private- and Public-Sector Employment: A Distributional Analysis, The Economic Record, 86 (273), pp. 227-246. 
+
+Bebchuk, L. and Fried, J. (2006) Pay without performance: the unfulfilled promise of executive compensation, Harvard University Press.
+
+Becker, G. (1964) Human Capital: A Theoretical and Empirical Analysis, with Special Reference to Education. Chicago: University of Chicago Press.
+
+Bender, A. and Elliot, R. (2002) The role of job attributes in understanding the public-private wage differential, Industrial Relations, 41 (3), pp. 407-421. 
+
+Berger, M., Blomquist, G. and Peter, K. (2008) Compensating differentials in emerging labor and housing markets: Estimates of quality of life in Russian cities, , ), pp. 25-55.
+
+Beeson,  P. and Eberts, R. (1989) Identifying Productivity and Amenity Effects in Interurban and Wage Differentials, The Review of Economics and Statistics, 71 (3).
+
+Biddle, J. and Zarkin, G. (1988) Worker Preference and Market Compensation for Job Risk, Review of Economics and Statistics, 70 (4), pp. 660−667.
+
+Bilgin K.U. (2007) Performance Management for Public Personnel. Multi-Analysis Approach Toward Personnel, Public Personnel Management, 36 (2), pp. 93-113.
+
+Binderkrantz, A.S. and Christensen, J.G. (2011) Agency Performance and Executive Pay in Government: An Empirical Test, Journal of Public Administration Research and Theory, Oxford University Press, pp. 32-54.
+
+Blackwell, A. (Year) Efficiency Wage Theory, essay, London.
+
+Bolitzer, B. and Godtland, E. (2012) Understanding the Gender–Pay Gap in the Federal Workforce Over the Past 20 Years, The American Review of Public Administration, 42 (6), pp. 730-746.
+
+Booth, A.L. and Frank, J. (1997) Performance Related Pay, Discussion Paper No. 364, The Australian National University, Centre for Economic Policy Research.
+
+Bozio, A. and Disney, R. (2011) Public sector pay and pensions, The IFS Green Budget, 2, Institute For Fiscal Studies, pp. 163-191. 
+
+Bryson, A., Freeman, R., Lucifora, C., Pellizzari, M. and Perotin, V. (2012) Paying for performance: Incentive Pay Schemes and Employees' Financial Participation, CEP discussion paper No 1112, Centre for Economic Performance, The London school of Economics and Political Science.
+
+Budig, M. (2002) Male Advantage and the Gender Composition of Jobs: Who Rides the Glass Escalator? Social Problems, 49 (2), pp. 258-277.
+
+Burdescu R., Reid G.J., Gilman S. and Trapnell S. (2009) Stolen Asset Recovery – Income and Asset Declarations: Tools and Trade-offs, The World Bank, United Nations Office of Drugs and Crime.
+
+Cai, L. and Liu, A. (2011) Public–Private Sector Wage Gap in Australia: Variation along the Distribution, British Journal of Industrial Relations, 49 (2), pp. 362-390.
+
+Campbell, C.M. and Kamlani, K.S. (1997) The reasons for wage rigidity: evidence from a survey of firms, Quarterly Journal of Economics, 112 (3) pp. 759-789.
+
+Cavana, R.Y., Delahaye, B.L., and Sekaran, U. (2001). Applied business research: Quantitative and qualitative, Australia: John Willey and Sons.
+
+Chan, H.S. and Ma, J. (2011) How are they paid? A study of civil service pay in China, International Review of Administrative Sciences, 77(2), pp. 294–321.
+
+Chevaillier, T. (2001) French academics: Between the professions and the civil service, , 41 (1), pp. 49-75.
+
+Christofidesa, L. and Pashardesa, P. (2002) Self/paid-employment, public/private sector selection, and wage differentials, Labour Economics, 9, pp. 737-762.
+
+CIPD (2001) Performance though people, The new people management, The change agenda, People management and business performance, Chartered Institute of Personnel and Development.
+
+CIPD (2012) Pay structures, Chartered Institute of Personnel and Development, factsheet, [Online]. Available at:  (Assessed: 26.01.2013).
+
+Compa-ratio analysis (2011) Reward Management Procedures [Online]. Available at:  (Assessed: 04.01.2013).
+
+Cohen, A. and Gattiker, U. (1997) Gender-based wage differences: the effects of occupation and job segregation in Israel, Relations Industrielles (Industrial Relations), 52 (3), pp. 507-517.
+
+Courty, P. and Marschke, G. (2002)  Performance Incentives with Award Constraints , The Journal of Human Resources, 37 (4), pp. 812-845.
+
+Craig, L. (1995) The Political Economy of Public-Private Compensation Differentials: The Case of Federal Pensions, The Journal of Economic History, 55 (2), pp. 304-320.
+
+Dahlstrom, C. and Lapuente, V.  (2009) Explaining Cross-Country Differences in Performance-Related Pay in the Public Sector, Journal of Public Administration Research and Theory, 20 (3), pp. 577-600.
+
+Dell’aringa, C., Lucifora, C. and Origo, F. (2007) Public Sector Pay And Regional Competitiveness. A First Look At Regional Public–Private Wage Differentials in Italy, The Manchester School, 75 (4), pp. 445-478.
+
+Dumond J., Hirsch, B. and Macpherson, D. (1999) Wage Differentials across Labor Markets and Workers: does Cost of Living Matter?, Economic Inquiry, 37 (4), pp. 577-675.
+
+Ehrenberg, R. and Smith, R. (2012) Modern Labor Economics: Theory and Public Policy, Prentice Hall.
+
+Elish, K., McGuinness, S. and O’Connell, P. (2009) Benchmarking, Social Partnership and Higher Remuneration: Wage Settling Institutions and the Public-Private Sector Wage Gap in Ireland, Economic and Social Review, 40 (3), pp. 338-370.
+
+Emilio, D., Ponczek, V. and Botelho, F. (2012) Evaluating the wage differential between public and private sectors in Brazil, Brazilian Journal of Political Economy, 32 (1), pp. 72-86.
+
+Eurofond (2010) Wage indexation in the European Union, Background paper, European Foundation for the Improvement of Living and Working Conditions.
+
+Fedorova, L.N. (2009) Pay differentiation under the conditions of socioeconomic transformation in Russia, Science notes, 3 [Online]. Available at:  (Assessed: 08.04.2013) [in Russian].
+
+Fisher I. (1927) The Nature of Capital and Income, New York: Macmillan, pp. 165-182.
+
+Fuller, S. (2005) Public Sector Employment and Gender Wage Inequalities in British Columbia: Assessing the Effects of a Shrinking Public Sector, The Canadian Journal of Sociology, 30 (4), pp. 405-439.
+
+Furdato, A. (1996) Interregional Wage Differentials in the European Union: a cross-section Analysis from Italy, Germany, Spain and the United Kingdom, European Regional Science Association, 36-th European Congress, ETII Zurich, Switzerland, 26-30 August.
+
+Garcia-Perez, J.I. and Jimeno, J.F. (2007) Public Sector Wage Gaps in Spanish Regions, The Manchester School, 75 (4), pp. 501-531.
+
+Gibelman, M. (2003) So How Far Have We Come? Pestilent and Persistent Gender Gap in Pay, Social Work, 48 (1), pp. 22-32.
+
+Gimpelson, V. and Kapelushnikov, R. (2007) Wages in Russia: evolution and differentiation, Beyond Transition, 16, The World Bank, CEFIR, pp. 7-8. [Online]. Available at:  (Assessed: 08.01.2013) [in Russian].
+
+Gimpelson, V. (2011) Labor Market Adjustment: Is Russia Different? Working paper WP3/2011/04, Higher School of Economics, Moscow: Publishing House of the Higher School of Economics.
+
+Giordano, R., Depalo, D., Pereira, M., Eugune, B., Papapetrou, E., Perez, J., Reiss, L. and Roter, M. (2011) The Public Sector Pay Gap In A Selection Of Euro Area Countries, Working Paper Series, 1406, Frankfurt am Main: European Central Bank.
+
+Gregory, D. and Hastings, S. (1990) Developing a Less Discriminatory Job Evaluation Scheme, The Trade Union Research Unit, Ruskin College, Oxford.
+
+Grodsky, E. and Pager, D. (2001) The structure of disadvantage: Individual and occupational determinants of the black-white wage gap, American Sociological Review, 66 (4), pp. 542-567.
+
+Grout, P., Park, I. and Sonderegger, S. (2011) An Economic Theory of Glass Ceilings, [Online]. Available at:   (Assessed: 08.04.2013)
+
+Hasnain, Z., Manning, N. and Pierskalla, J.H. (2012) Performance-related Pay in the Public Sector A Review of Theory and Evidence, Policy Research Working Paper 6043, The World Bank, East Asia and Pacific Region,  Poverty Reduction & Economic Management Sector Department.
+
+Hay Group (2003) Senior Civil Servants Performance Management and Reward, Guide to the SCS Reward System, Appendix A.
+
+Hay Group (2006) A European Pay Comparison for Senior Politicians and Civil Servants 2006, Executive Summary. 
+
+Hay Group (2007) A European Pay Comparison for Senior Politicians and Civil Servants 2007, Executive Summary.
+
+Hay Group (2008) A Pay Comparison for Senior Politicians and Civil Servants in Eight European Countries, A Hay Group initiative.
+
+Hay Group (2011) Pay comparability: what are the facts? FDA, Fair Pay Fair Pensions.
+
+Heery, E. (1997) Performance-related pay and trade union de-recognition, Employee Relations, 19 (3), pp. 1-10.
+
+Heilman, M.E., Wallen, A.S., Fuchs, D. and Tamkins M.M. Penalties for success: reactions to women who succeed at male gender-typed tasks, Journal of Applied Psychology, 89(3), pp. 416-443.
+
+Henley, A. and Thomas, D. (2001) Public Service Employment and the Public– Private Wage Differential in British Regions, , 35 (3), pp. 229-240.
+
+Hirsch, B. and Schumacher, E. (2004) Match Bias in Wage Gap Estimates Due to Earnings Imputation, Journal of Labor Economics, 22 (3), pp. 689-722.
+
+Holroyd, K. (1998) Performance-Related Pay in Practice 1990-1997, IRS Research Report No. 3, A review of literature on the incidence of performance-related pay in the public and private sectors, University of North London, The Learning Centre.
+
+Hubler, O. (2009) The nonlinear link between height and wages in Germany, 1985–2004, Economics and Human Biology, 7, pp. 191-199.
+
+Hutton, W. (2011) Hutton Review of Fair Pay in the public sector: Final Report, London: Crown copyright.
+
+Imbert, C. (2013) Decomposing the Labor Market Earnings Inequality: The Public and Private Sectors in Vietnam, 1993–2006, The World Bank Economic Review, 27 (1), pp. 55-79.
+
+Jefferson, T. and Preston, A. (2010) Labour Markets and Wages in Australia in 2009, Journal of Industrial Relations, 52(3), pp. 335-354.
+
+Jefferson, T. and Preston, A. (2011) Labour Markets and Wages in Australia: 2010, Journal of Industrial Relations, 53(3), pp. 303-323.
+
+Jurajda, S. (2003) Gender wage gap and segregation in enterprises and the public sector in late transition countries, Journal of Comparative Economics, 31 (2), pp. 199-222.
+
+IDS (2006) Developments in occupational pay differentiation, A research report of the Office for Manpower Economics By Incomes Data Services, London: Thomson.
+
+IDS (2009) Pay, Reward Systems and the Labour Market, IDS Pay report 1021, London: Thomson.  
+
+IDS (2011a) Location-based pay differentiation: A research report for UNISON – Incomes Data Services, London: Thomson.
+
+IDS (2011b) Public and private sector earnings: fact and fiction, IDS Pay report 1075, London: Thomson.  
+
+IDS (2012) Crowding out: fact or fiction? A research report for UNISON – Incomes Data Services, London: Thomson.
+
+Institute for Comparative Labour Relations Research (2006) Evaluation of pay in Russian regions and survey of state and municipal civil servants, ICLRR in association with The World Bank and DFID.
+
+Karabchuk, T.S. and Pankratova, V.L. (2013) Pay for Women with Kids in Russia: Is There Any Discrimination? Economic Sociology, 14 (1), pp. 99-110 [in Russian].
+
+Katz, L. (1986) Efficiency Wage Theories: A Partial Evaluation, NBER Chapters, in: NBER Macroeconomics Annual, 1, National Bureau of Economic Research, pp. 235-290.
+
+Kessler, I. (1993) Pay Determination in the British Civil Service since 1979, Public Administration, 71, pp. 323-340. 
+
+Ketelaar, A., Manning, N. and Turkisch, E.  (2007) Performance-based Arrangements for Senior Civil Servants: OECD and Other Country Experiences, OECD Working Papers on Public Governance, 5, Paris: OECD Publishing.
+
+Klisch N. (2007) Efficiency and effectiveness indicators in public service, Public Service, 3 [in Russian].
+
+Klistch, N.N. (2012) The HR agenda, Lecture 10, 24.04.2012, Managing public services module [in Russian].
+
+Klimenco, A.V. and Klistch, N.N. (2012) Russia’s Civil Servant is Our Current Objective, Questions of Public and Municipal Administration, National Research University Higher School of Economics, 2, pp. 23-32 [in Russian].
+
+Kuepiea, M., Nordmana, C. and Roubauda, F. (2009) Education and earnings in urban West Africa, Journal of Comparative Economics, 37, pp. 491-515.
+
+Kuzminov, I. and Yudkevich M. (2000) Institutional Economics: a teaching aid. In two parts. Moscow: Higher School of Economics.
+
+Landman, T. (2008) Issues and methods in comparative politics, Routledge.
+
+List of Presidents’ instructions resulted in enlarged session of working group on preparation suggestions for development in the Russian Federation the system “Open Governmant” for the civil service’s staff assistance on 14th of March 2012 [in Russian].
+
+Langer, S. (2000) Factors Affecting CFO Compensation, Strategic Finance, 81 (9), pp. 38-44.
+
+Lawlor, E., Kersley, H. and Steed, S. (2009) A Bit Rich: Calculating the real value to society of different professions, new economics foundation, London: nef.
+
+, G. (1996) Gender Integration of Occupations in the Federal Civil Service: Extent and Effects on Male-Female Earnings, Industrial and Labor Relations Review, 49 (3), pp. 472-483.
+
+Lewis, G. And Park, K. (1989) Turnover Rates In Federal White-Collar Employment: Are Women More Likely To Quit Than Men? American Review of Public Administration, 19 (1), pp. 13-28.
+
+, G. and Durst, S. (1995) Will Locality Pay Solve Recruitment and Retention Problems in the Federal Civil Service? Public Administration Review, 55 (4), pp. 371-380.
+
+, G. and (2009) A Major Difference? Fields of Study and Male - Female Pay Differences in Federal Employment, The American Review of Public Administration, 39 (2), pp. 107-124.
+
+Lokshin, M. and Jovanovic, B. (2003) Wage differentials and state-private sector employment choice in Yugoslavia, Economics of Transition, 11 (3), pp. 463–491.
+
+Lucifora, C. and Meurs, D. (2004) The Public Sector Pay Gap in France, Great Britain and Italy, IZA Discussion paper series, 1041, Institute for the Study of Labor, [Online]. Available at:  (Assessed: 15.04.2013).
+
+Lykianiva, A.L. (2007) Wage of Public Sector Employees: “premium” or “penalty”, in Gimpelson, V.E. (ed.), Wages in Russia: evolution and differentiation, Beyond Transition, 16, The World Bank, CEFIR, pp. 197-249 [in Russian].
+
+Lykianova, A.L. (2011) Wage Inequality in Russian Economic Transition (1991–2008): Stylized Facts and Explanations, Issues of economic policy, 12, pp. 124-147 [Online]. Available at:  (Assessed: 08.04.2013) [in Russian].
+
+Machin, S. and Puhani, P. (2003) Subject of degree and the gender wage differential: evidence from the UK and Germany, Economics Letters, 79, pp. 393–400.
+
+Makinson, J. (2000) Incentives for Change. Rewarding Performance in National Government Networks, Public Services Productivity Panel, London: HM Treasury.
+
+Marshall, A. (1980) Principles of Economics, Macmillan and Co.
+
+Marsden, D. (2004) The Role of Performance Related Pay in Renegotiating the “Effort Bargain”: The Case of the British Public Service, Industrial and Labor Relations Review, 57-3, pp. 350-370.
+
+Mardsen, D. and French, S. (1998) What are performance. Performance related pay in the public services, London school of economics and political science, Centre for Economic Performance, London.
+
+Mardsen, D., French, S. and Kubo, K. (2001) Does performance pay de-motivate, and does it matter, Discussion paper, The Leverhulme 503, London school of economics and political science, Centre for Economic Performance, London.
+
+Mastekaasa, A. and Olsen, K.M. (1998) Gender, Absenteeism, and Job Characteristics: A Fixed Effects Approach, Work and Occupations, 25 (2), pp. 195-228.
+
+Martin, P. and Harkreader, S. (1993) Multiple Gender Contexts and Employee Rewards, Work And Occupations, 20 (3), pp. 296-336.
+
+Maume, D. (1999) Occupational segregation and the career mobility of white men and women, Social Forces, 77 (4), pp. 1433-1459.
+
+Mayhew, R. (2011) How to Calculate a Salary Compa-Ratio, Calculate salary [Online]. Available at:  (Assessed: 28.03.2012).
+
+McDonnell, K. and , D. (2005) Benefit Cost Comparisons Between State and Local Governments and Private Sector Employers, Public Personnel Management 2005, Vol. 34 (4), pp. 321-327.
+
+Meier, K. and Wilkins, V. (2002) Gender Differences in Agency Head Salaries: The Case of Public Educaton, Public Administration Review, pp. 405-411.
+
+Melly, B. (2005) Public-private sector wage diﬀerentials in Germany: Evidence from quantile regression, Empirical Economics, 30, pp. 505–520.
+
+Meurs, D. and Edon, C. (2007) France: A limited effect of regions on public wage differentials? The Manchester School, 75 (4), pp. 479–500.
+
+Miller, P. (2009) The Gender Pay Gap in the US: Does Sector Make a Difference? , 30 (1), pp. 52-74.
+
+Mincer, J. (1974) Schooling, Experience and Earnings, New York: National Bureau of Economic Research.
+
+Moynihan, D.P. (2008). The normative model in decline? Public service motivation in the age of governance. In Public service motivation: State of the science and the art, ed. J.L. Perry and A. Hondeghem, Oxford: Oxford University Press, pp. 247–314. 
+
+Mukherjee, R. (2003) , Public Sector group of PREM Network,  [Online]. Available at:  (Assessed: 28.04.2013).
+
+Nadeau, S. (2010) Another Look at the Francophone Wage Gap in Canada: Public and Private Sectors, Quebec and Outside Quebec, Canadian Public Policy (Analyse de Politiques), 36 (2), pp. 159-179.
+
+Naeem, H., Sentosa, I., Nejatian, H. And Piaralal, S. (2011) Job Satisfaction of Civil Servants (an evidence from the republic of Maldives), 2nd International conference on business and economic research (2nd ICBER 2011) proceeding, pp. 1330-1345.
+
+Naff, K.C. (1994) Through the Glass Ceiling: Prospects for the Advancement of Women in the Federal Civil Service, Public Administration Review, 54 (6), pp. 507-514.
+
+National Minimum Wage (2005) Low Pay Commission Report 2005, Presented to Parliament by the Secretary of State for Trade and Industry by Command of Her Majesty.
+
+Neathey, F. (1998) Performance-Related Pay in the Civil and Public Services, IRS Research Report No. 1, A survey of members’ views conducted by IRS Research for PCS, University of North London, The Learning Centre.
+
+Neathey, F. (1998) Performance-Related Pay in the Civil and Public Services, IRS Research Report No. 2, A qualitative study of members’ views conducted by IRS Research for PCS, University of North London, The Learning Centre.
+
+Neathey, F., Willison, R., Akroyd, K., Regan, J. and Hill, D. (2005) Equal pay reviews in practice, Working Paper Series No. 33, Institute for Employment Studies, Equal Opportunities Commission.
+
+Newman, M.A. (1993) Career Advancement: Does Gender Make a Difference? The American Review of Public Administration, 23 (4), pp. 361-384.
+
+Obolonsky, A.V. (2011) The crisis of the bureaucratic state: Civil Service Reform: International Experience and Russian realities. - Moscow: Foundation "Liberal Mission" [in Russian].
+
+Obolonsky, A.V., Semennikova, L.I., Nozdrachev, A.F., Rudashevsky, V.D., Barabashev, A.G., Surin, A.V. and Kupryashin, G.L. (2000) Public service (integrated approach), Moscow: “Delo” [in Russian].
+
+OECD (1996) Performance Management in Government, Contemporary illustrations, Public Management Occasional papers, 9, Paris.
+
+OECD (2004a) Individual country reports on Performance related Pay, Human Resource Management Working Party, Paris.
+
+OECD (2004b) Performance-Related Pay Policies For Government Employees: Main Trends In Oecd Member Countries, Human Resources Management Working Party, Paris.
+
+OECD (2005a) Modernising Government: The Way Forward, Paris: OECD Publishing.
+
+OECD (2005b) Paying for Performance: Policies for Government Employees, OECD Observer, Policy Brief, Paris: OECD Publishing.
+
+OECD (2005c) Performance-related Pay Policies for Government Employees, Paris: OECD Publishing.
+
+OECD (2008) The State of the Public Service, Paris: OECD publishing.
+
+OECD (2011) Government at a Glance 2011, Paris: OECD Publishing.
+
+ONS UK (2011a) Civil Service Statistics Data Summary Tool 2011. [Online]. Available at:  (Assessed: 05.04.2013)
+
+ONS UK (2011b) Statistical Bulletin, Civil Service Statistics. [Online]. Available at:  (Assessed: 05.04.2013)
+
+O’Riordan, J. (2008) A Review of the Civil Service Grading and Pay System, CPMR Discussion Paper 38, Institute of Public Administration, The Committee for Public Management Research, Dublin: IPA.
+
+Oshchepkov, А. (2006) Gender Wage Gap in Russia. Working Paper WP3/2006/08, Moscow: State University — Higher School of Economics [in Russian].
+
+Oshchepkov, А. (2007a) Are Interregional Wage Differentials in Russia Compensative? Discussion papers 750, German Institute of Economic research, Berlin: DIW.
+
+Oshchepkov, А. (2007b) Interregional Pay Differentiation, in Gimpelson, V.E. (ed.), Wages in Russia: evolution and differentiation, Beyond Transition, 16, The World Bank, CEFIR, pp. 298-342 [in Russian].
+
+Ozaki, M. (ed.) (1999) Negotiating flexibility: the Role of the Official partners and the State, Geneva, International Labour Office.
+
+Parfentyev, M. and Reshetnikova, D. (2012) A possible mechanism of civil servants' nonmaterial stimulation in Federal executive bodies, Public administration’s perfection in Russia 6, pp. 175-188 [in Russian].
+
+Patterson, D. (1990) TUC seminar on Performance Related Pay, Practical issues, 21 June 1990, Congress House, London, UK (presentation).
+
+Patterson, M.G., West, M.A., Lawthom, R. and Nickell, S. (1998) Impact of people management practices on business performance, Issues in people management, The Institute of Personnel and Development, London.
+
+Pena-Boquete, Y., Stefanis, S. and Fernandez-Grela, M. (2010) The distribution of gender wage discrimination in Italy and Spain: a comparison using the ECHP, International Journal of Manpower, 31 (2), pp. 109-137.
+
+Perkins, S.J. and White, G. (2008) Employee reward, Alternatives, Consequences and Contexts, Chartered Institute of Personnel and Development, London.
+
+Pircell, J., Kinnie, N., Huchinson, S., Rayton, B. and Swart, J. (2003) Understanding the People and Performance Link: Unlocking the Black Box, research Report, Chartered Institute of Personnel and Development.
+
+Postel-Vinay, F. and Turon, H. (2007) The public pay gap in Britain: Small differences that (Don't ?) matter, The Economic Journal, 117, pp. 1460–1503.
+
+Prechal, S. and Masselot, A. (2006) Report on Equal Pay, European Commission, Equality between men and women, Directorate-General for Employment, Social Affairs and Equal Opportunities.
+
+Prechal, S., Burri, S., Seggelen, I. and Graaff, G. (2007) Legal Aspects of the Gender Pay Gap, social affairs and equality between men and women, European Commission, Equality between men and women, Directorate-General for Employment, Social Affairs and Equal Opportunities.
+
+ (2008) Contemporary Staff Technologies in State and Municipal Service and New Quality of State Power, Scientific Bulletin of the Ural Academy of Public Administration: politology, economics, sociology, law, 2 (3) [Online]. Available at:  (Assessed: 05.01.2013) [in Russian].
+
+Ricardo, D. (1817) Principles of Political Economy and Taxation  in Marc Blaug, Economic Theory in Retrospect, 3rd edn. (Cambridge and New York: Cambridge University Press, 1978), chapter 4: “Ricardo’s System,” pp. 91-112.
+
+Risher H. (2005) Implementing a Pay-for-Performance Policy, Washington, D.C.: IBM Center for The Business of Government, p. 48-54.
+
+Risher, H. (2004) Pay for Performance: A Guide for Federal Managers, IBM Center for the Business of Government, Human Capital Management Series.
+
+Risher, H. (2005) How Much Should Federal Employees be Paid? The Problems with Using a Market Philosophy in a Broadband System, Public Personnel Management, 34 (2), pp. 121-140.
+
+Reese, C.C. and Warner, B. (2011) Pay Equity in the States: An Analysis of the Gender−Pay Gap in the Public Sector, Review of Public Personnel Administration, 32 (4), pp. 312–331.
+
+Roback, J. (1982) Wages, Rents and the Quality of Life, Journal of Political Economy, 90 (6), pp. 1257-1278.
+
+Roback, J. (1988) Wages, Rents, and Amenities: Differences among Workers and Regions, Economic Inquiry, 26 (1), pp. 23-41.
+
+Rose, S. and Hartmann, H. (2004) Still a Man’s Labor Market: The Long-Term Earnings Gap, A Report on the Wage Gap and its Implications for Women, Families, and the Labor Market, Annie E. Casey Foundation; Institute for Women's Policy Research.
+
+Rosen, S. (1974) Hedonic Prices and Implicit Markets: Product Differentiation in Pure Competition, Journal of Political Economy, 82(1), pp. 34-55.
+
+Rosen, S. (1986) The theory of equalizing differences, In Ashenfelter, Orley; Layard, Richard, The Handbook of Labor Economics 1, New York: Elsevier, pp. 641–692.
+
+Rumberger, R.W. and Thomas, S.L. (1993) The economic returns to college major, quality and performance: A multilevel analysis of recent graduates, Economics of Education Review, 12 (1), pp. 1-19.
+
+Schick, A. (2003) The Performing State: Reflection on an Idea Whose Time Has Come but Whose Implementation Has Not, OECD Journal on Budgeting, 3 (2).
+
+Schiavo-Campo, S., Tommaso, G. and Mukherjee, A. (n.d.) Government Employment and Pay In Global Perspective: a Selective Synthesis of International Facts, Policies and Experience, Public Sector Management and Information Technology Team Technical Department for Europe, Central Asia, Middle East and North Africa, World Bank.
+
+Semyonov, M. and Lewin-Epstein, N. (2009) The declining racial earnings' gap in United States: Multi-level analysis of males' earnings, 1960-2000, Social Science Research, 38, pp. 296–311.
+
+Siminski, P. (2013) Are low-skill public sector workers really overpaid? A quasi-differenced panel data analysis, Applied Economics, 45, pp. 1915–1929.
+
+Siphambe, H.K. and Thokweng-Bakwena, M. (2001) The Wage Gap between Man and Women in Botswana’s Formal Labour Market, Journal of African Economies, 10 (2), pp. 127-142.
+
+Stokey, N. (1980) Job Differentiation and Wages, The Quarterly Journal of Economics, 95 (3), pp. 431-449.
+
+Styken, T. and Babenko, T. (2003) Human capital as a factor of pay differentiation: objective and subjective aspects, 20 p. [Online]. Available at:  (Assessed: 04.04.2013) [in Russian].
+
+Thompson, J.R. (2007) Labor-management relations and partnerships: Were they reinvented? The handbook of public administration, London: Sage. 
+
+Thompson, M. (1993) Pay and performance: the employer experience, Report 258, Institute of Manpower Studies, University of Sussex, Brighton.
+
+Thornley, C. (2007) Working Part-Time for the State: Gender, Class and the Public Sector, Gender, Work and Organization, 14 (5), pp. 454-475.
+
+Tischenko, E.N. (2012) Composition of stimulating elements and their correlation in the payment of civil servants’ work in the Russian Federation and foreign countries, Public administration issues, 46, pp. 160–168.
+
+TUC (1990) Seminar on Performance Related Pay, 21 June 1990, Congress House, London, UK (presentation).
+
+Vagina, L. (2007) How to pay for Russian civil service? Free Thought, 4, pp. 140-149.
+
+Vandenabeele, W., Scheepers, S. and Hondeghem, A. (2006) Public Service Motivation in an International Comparative Perspective: The UK and Germany, Public Policy and Administration, 21 (1), pp. 13-31.
+
+Varkkey, B., Pangotra, P., Jain, R., Singh, V., Mishra, A., Raghuram, G., Rangaraj, N., and Mishra, D. (2008) Formulating the Concept, Principles, and Parameters for Performance-Related Incentives in Government for Sixth Central Pay Commission, Synthesis report of studies, Indian Institute of Management, Ahmedabad.
+
+Verbeek, M. (2004) A guide to modern econometrics, John Wiley & Sons Ltd.
+
+Verheijen, T. and Dobrolyubova, Y. (2007) Performance management in the Baltic States and Russia: success against the odds? International Review of Administrative Sciences, 73, pp. 205-215.
+
+Viscusi, W.K. and Moore, M.J. (1991) Worker Learning and Compensating Differentials, Industrial & Labor Relations Review, 45 (1), pp. 80-96.
+
+Wahlberg, R. (2010) The gender wage gap across the wage distribution in the private and public sectors in Sweden, Applied Economics Letters, 17 (15), pp. 1465-1468.
+
+Willems, I., Janvier, R. and Henderickx, E. (2006) New pay in European civil services: is the psychological contract changing? International Journal of Public Sector Management, 19 (6), pp. 609-621.
+
+Wright, A. (2004) Reward management in context, Chartered Institute of Personnel and Development, London.
+
+Zhitnikova, E. (2010) Gender Discrimination And Features Of Its Display In Russia, Scientific notes, 2 [Online]. Available at:  (Assessed: 24.04.2013) [in Russian].
+
+Zhulin, A.B., Kuksa, T.L. and Nicolenko, A.A. (2010) The register of powers of FEBs: expert systematisation and analysis of activity, IPAMM NRU HSE, Moscow: Higher School of Economics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+APPENDIXES
+
+
+
+
+Appendix 1.
+
+The interpretation of Citation Summary table’s indicators
+
+The All Databases Citation Summary table displays a breakdown of all Times Cited counts across all products and editions in Web of Knowledge, including citation counts from product databases that are not in your institution's subscription.
+
+Citing Articles without Self-citations
+
+This field displays the total number of citing articles minus any article that appears in the set of search results on the Citation Report. 
+
+Average Citations per Item
+
+This field displays a simple formula that calculates the average number of citing articles for all items in a set. It is the sum of the Times Cited count divided by the number of results found. 
+
+h-index
+
+This field displays the h-index count and is based on a list of publications ranked in descending order by the Times Cited count.
+
+The h-index is indicated by an orange horizontal line going through the Year / Total Year columns. The number of items above this line, which is "h" have at least "h" citations. For example, an h-index of 20 means there are 20 items that have 20 citations or more. This metric is useful because it discounts the disproportionate weight of highly cited papers or papers that have not yet been cited.
+
+Calculating the h-index Value - The h-index factor is based on the depth of years of your product subscription and your selected timespan. Items that do not appear on the Results page will not be factored into the calculation. If your subscription depth is 10 years, then the h-index value is based on this depth even though a particular author may have published articles more than 10 years ago. Moreover, the calculation only includes items in your product database - books and articles in non-covered journals are not included.
+
+
+
+
+Appendix 2.
+
+Main findings of the most cited articles
+
+
+
+
+
+
+Appendix 3.
+
+Median full-time gross weekly earnings in UK’s regions, 2008
+
+
+
+Resource: IDS, 2009
+
+
+
+Hourly Wages (Median) by Private and Public Sectors in French Regions, 2002
+
+
+
+Source: Meurs et al., 2007
+
+Breakdown of Public Sector Wage Gaps in Spanish Regions
+
+
+
+Resource: Garcia-Perez et al., 2007
+
+
+
+Dynamics of interregional wage differentials in Russia
+
+
+
+Resource: Oshchepkov, 2007a
+
+Appendix 4.
+
+The ratio of the annual average salary of the public sector to that of all sectors and per capita GDP in China
+
+
+
+Resource: National Statistics Bureau of the People’s Republic of China, 2009
+
+
+
+Ratio of public to private compensation per employee in different countries
+
+
+
+Resource: Giordano et al., 2011
+
+
+
+
+
+Appendix 5.
+
+Ratios between average salaries of selected top public sector management positions and bottom of workforce pay spine in UK, 2000 – 2009
+
+
+
+Resource: Hutton, 2011
+
+
+
+
+Appendix 6.
+
+Systematization of the main theories of pay differentiation, factors, types and possible ways of optimisation
+
+
+
+
+
+
+
+
+
+
+Appendix 7.
+
+The average monthly pay of Municipal civil servants by groups of civil service’ positions, rubles per civil servant (2011)
+
+
+
+Resource: Rosstat, 2011
+
+
+
+
+Appendix 8.
+
+Russian legislation containing the principles and recommendations on the implementation of PRP for civil servants:
+
+Federal law N 58 (2003) “On the system of Civil Service in the Russian Federation”. 
+
+Federal law N 79 (2004) “On the State Civil Service in the Russian Federation”. 
+
+Presidential decree (2010) N 261”On the Federal programme “Reforming and Development of the civil service in the Russian Federation (2009-2013)”.
+
+Presidential decree (2012) N 601 «On the main directions of perfection the system of public administration”.
+
+List of Presidents’ instructions resulted in enlarged session of working group on preparation suggestions for development in the Russian Federation the system “Open Government” for the civil service’s staff assistance on 14th of March 2012.
+
+
+
+
+Appendix 9.
+
+Pay gaps between Senior managers and Support Specialists in the FEBs of the Russian Federation, 2011
+
+
+
+Based on the data of Rosstat, 2011
+
+
+
+
+
+
+Appendix 10.
+
+Current structure of FEBs of the Russian Federation
+
+Federal Ministries, Federal Services and Federal Agencies, management of which activity is carried out by the President of the Russian Federation, Federal Services and Federal Agencies subordinated to these Federal Ministries
+
+
+
+Ministry of the Interior of the Russian Federation 
+
+Ministry of Civil Defence, Emergencies and Disaster Relief of the Russian Federation 
+
+Ministry of Foreign Affairs of the Russian Federation 
+
+Federal Agency for CIS (Commonwealth of Independent States) Affairs, Compatriots Abroad and International Humanitarian Cooperation 
+
+Ministry of Defense of the Russian Federation
+
+Federal Service for Military and Technical Cooperation
+
+Federal Technical and Export Control Service
+
+Federal Agency for Special Construction
+
+Federal Agency for Deliveries of Weapons, Military and Special Equipment and Materiel 
+
+Ministry of Justice of the Russian Federation 
+
+Federal Penitentiaries and Correction Service
+
+Federal Bailiff Service
+
+State Courier Service of the Russian Federation (Federal Service) 
+
+Foreign Intelligence Service of the Russian Federation (Federal Service) 
+
+Federal Security Service of the Russian Federation (Federal Service) 
+
+National Antiterrorist Committee 
+
+Federal Service for Narcotics Traffic Control of the Russian Federation (Federal Service)
+
+Federal Protection (Bodyguard) Service of the Russian Federation (Federal Service)
+
+Chief Directorate for Special Programs of the President of the Russian Federation (Federal Agency)
+
+Directorate of the President of the Russian Federation (Federal Agency)
+
+Federal Financial Monitoring Service
+
+
+
+Federal Ministries, Federal Services and Federal Agencies, management of which is carried out by the Government of the Russian Federation, Federal Services and Federal Agencies subordinated to these Federal Ministries
+
+
+
+Ministry of Healthcare of the Russian Federation 
+
+Federal Supervision Service for Healthcare
+
+Federal Biomedical Agency 
+
+Ministry of Culture of the Russian Federation 
+
+Federal Archives Agency
+
+Federal Agency for Tourism 
+
+Ministry of Education and Science of the Russian Federation 
+
+Federal Service for Education and Science Supervision
+
+Federal Agency for Youth Affairs 
+
+Ministry of Natural Resources and Environment of the Russian Federation
+
+Federal Service for Hydrometeorology and Environmental Monitoring
+
+Federal Supervisory Natural Resources Management Service
+
+Federal Water Resources Agency
+
+Federal Agency for Subsoil Resources Management
+
+Federal Forestry Agency 
+
+Ministry of Industry and Trade of the Russian Federation 
+
+Federal Agency for Technical Regulation and Metrology 
+
+Ministry of Tele- and Mass Communications of the Russian Federation 
+
+Federal Service for Communications, Information Technologies and Mass Communication Supervision
+
+Federal Press and Mass Communication Agency
+
+Federal Communications Agency 
+
+Ministry of Regional Development of the Russian Federation 
+
+Federal Agency for Construction, Housing and Utilities 
+
+Ministry of Agriculture of the Russian Federation 
+
+Federal Service for Veterinary and Phytosanitary Control
+
+Federal Agency for Fisheries 
+
+Ministry of Sport of the Russian Federation
+
+Ministry of Transport of the Russian Federation
+
+Federal Transport Supervision Service
+
+Federal Air Transport Agency
+
+Federal Road Agency
+
+Federal Rail Transport Agency
+
+Federal Maritime and River Transport Agency
+
+Ministry of Finance of the Russian Federation
+
+Federal Tax Service
+
+Federal Service for Financial and Budgetary Supervision
+
+Federal Treasury (Federal Service) 
+
+Ministry of Economic Development of the Russian Federation
+
+Federal Service for State Registration, Cadastre and Cartography
+
+Federal State Reserves Agency
+
+Federal Agency for State Property Management
+
+Federal Accreditation Service
+
+Federal Service for Intellectual Property 
+
+Ministry of Energy of the Russian Federation 
+
+Ministry of Labour and Social Security of the Russian Federation 
+
+Federal Labour and Employment Service
+
+Ministry for the Development of the Russian Far East
+
+Federal Antimonopoly Service
+
+Federal Customs Service
+
+Federal Tariff Service
+
+Federal Financial Markets Service
+
+Federal Space Agency
+
+Federal Agency for the Development of the State Border Facilities of the Russian Federation
+
+Federal Service for Alcohol Market Regulations 
+
+Federal Service for Environmental, Technological and Nuclear Supervision 
+
+Federal Migration Service 
+
+Federal Supervisory Service for Consumers Rights Protection and Human Welfare 
+
+Federal Service for Defence Contracts 
+
+Federal State Statistics Service
+
+
+
+
+Appendix 11.
+
+The average monthly pay of Federal civil servants of FEBs by categories of civil service’ positions, rubles per civil servant (2011)
+
+
+
+
+
+Based on the data of Rosstat, 2011
+
+
+
+
+
+
+Appendix 12.
+
+Clusters of FEBs of the Russian Federation
+
+
+
+Based on the data of Rosstat, 2011
+
+
+
+
+
+
+Appendix 13.
+
+Examples of pay compression is cases of career advancement
+
+
+
+
+
+
+Appendix 14.
+
+Chain and Basic compa-ratios by civil service’ categories in Federal Ministries, % (2011)
+
+
+
+
+
+
+
+
+
+
+Appendix 15.
+
+Chain and Basic compa-ratios by civil service’ categories in Federal Services, % (2011)
+
+
+
+
+
+
+
+
+Appendix 16.
+
+Chain and Basic compa-ratios by civil service’ categories in Federal Agencies, % (2011)
+
+
+
+
+
+
+Appendix 17.
+
+Classification of occupations
+
+
+
+
+
+
+
+
+
+Appendix 18.
+
+Compensation in Selected Public Sector Occupations across OECD countries
+
+Compensation of senior management in central government (2009)
+
+Average annual compensation of central government senior managers 
+
+Adjusted for differences in holidays
+
+Resource: OECD, 2011
+
+Compensation of middle management in central government (2009)
+
+Average annual compensation of middle managers in central government 
+
+Adjusted for differences in working hours and holidays
+
+
+
+Resource: OECD, 2011
+
+
+Compensation of professionals in central government (2009)
+
+Average annual compensation of economists and statisticians in central government
+
+Adjusted for differences in working hours and holidays
+
+Resource: OECD, 2011
+
+
+
+Compensation of secretarial staff in central government (2009)
+
+Average annual compensation of employees in secretarial positions
+
+Adjusted for differences in working hours and holidays
+
+
+
+Resource: OECD, 2011
+
+Appendix 19.
+
+Average monthly compensation of civil servants in central government of Russia and OECD countries in 2011, equivalent rubles converted using PPPs
+
+
+
+
+
+
+
+
+Appendix 20.
+
+The level of average monthly compensation of civil servants in central government as % of OECD average level, 2011
+
+
+
+
+
+
+
+
+
+
+
+
+Appendix 21.
+
+Pay variations across UK’s civil service departments and agencies
+
+
+
+Resource: Hutton, 2011
+
+
+
+
+
+
+Appendix 22.
+
+Comparability of FEBs in Russia and UK
+
+
+
+
+
+
+
+
+Appendix 23
+
+Monthly pay comparisons in Russia’s and UK’s civil service by categories of civil service, rubles (2011)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appendix 24.
+
+
+
+
+
+Appendix 25.
+
+
+
+
+
+
+Appendix 26.
+
+Descriptive statistics
+
+
+
+
+
+
+Appendix 27.
+
+Correlation Matrix
+
+
+
+
+
+Appendix 28.
+
+Model with 15 explanatory variables
+
+
+
+
+
+
+Appendix 28.
+
+Heteroskedasticity Test
+

@@ -1,0 +1,303 @@
+Scientific Research University
+
+Higher School of Economics
+
+Faculty of Business Informatics
+
+
+
+
+
+
+
+
+
+
+
+DRAFT
+
+of the paper
+
+“The Development of 'Supply Chain' Business Process in Information Systems”
+
+
+
+
+
+
+
+Student :
+
+Pichugin Dmitriy
+
+Group 472
+
+Supervisor:
+
+Associate professor of CIS Department, 
+
+Morgunov Alexander Fedorovich
+
+
+
+
+
+
+
+Moscow
+
+2013
+
+Draft Plan
+
+Abstract
+
+Introduction
+
+Business-process of the company X 
+
+Business-process of ordering and delivery of the ingredients to the warehouse
+
+Business-process of the orders delivery to the costumers
+
+Overview of the ERP system’s logistic unit
+
+1С:Enterprise 8. TMS Logistics. Shipping management
+
+1С: Enterprise 8. Satellite-based monitoring center ГЛОНАСС/GPS
+
+Objective statement
+
+Conclusion
+
+References
+
+List of abbreviations
+
+
+
+
+Abstract
+
+Speed and accuracy, efficiency. All of them are very important for every business-process company tries to implement in real life. But after the first variant is implemented it is crucial not to stop looking for a way to improve it, in order to achieve even better results. World is changing and so do the technologies and also costumer’s demands. To be successful all companies have to act considering these tendencies.
+
+This paper is the draft of a research project dedicated to optimization of restaurant’s business processes. In this work describes currently existing processes and offers several improvements in order to achieve better executing speed and also slightly improve process’s efficiency. 
+
+
+
+
+Introduction
+
+During this work, I am going to concentrate on restaurant’s logistic business process (BP) potential improvement. Restaurant provides freshly cooked meals retail delivery and takes new orders through telephone calls or company’s website. Restaurant offers a wide variety of meals and guaranties fast delivery within the city.
+
+Company orders ingredients occasionally from several trusted suppliers and stores into their storehouse. This process is controlled by restaurant’s accounting department.  Request processing through website and telephone calls is performed by sales department, then requests are redirected to transport department, which has limited car park and provides retail delivery to the costumers and ingredient transit from suppliers to warehouse, owned by company.
+
+
+Business process of company X
+
+In my work I am going to examine two restaurant’s logistics business processes, abstracting from anything else. Simplified versions of both BP’s schemes are presented below:
+
+Business-process of ordering and delivery of the ingredients to the warehouse
+
+
+
+Picture 1 Business-process of ordering and delivery of the ingredients to the warehouse
+
+BP of ordering and delivery of the ingredients to the warehouse is initialized after request, received from another department, usually from sales department, in case of  ingredients deficiency in the storehouse. Process consists of several stages:
+
+Request for ordering ingredient from suppliers is  received from another departments
+
+Supplier is selected from the suppliers list (restaurant already has the list of trusted suppliers, with whom it has already worked before) depending on the amount of the ingredients needed and urgency of the request. Request is dispatched.
+
+Response to a request is received, containing delivery terms.
+
+Advice of readiness is received
+
+Accounting department redirects request data to the transport department. Free car is sent to pick up ingredients.
+
+Notification is sent to the accounting department by transport department after the ingredients delivery to the warehouse.
+
+Notification is received.  Accounting departments enter the appropriate data into the system. End of the process
+
+This process is simplified greatly, but it illustrates the BP of restaurant in detail, enough to provide the clear understanding of how this process works.   
+
+
+Business-process of orders delivery to the costumers
+
+
+
+Picture 2 Business-process of orders delivery to the costumers
+
+BP of orders delivery to the costumers – is one of the most important BP to every company, specialized on web-sales. Restaurant reputation and costumers trust depends on the accuracy and speed of this BP’s execution. It makes company spend much resource to maintain BP’s performance speed and accuracy on sufficient level. This BP is more complex than the previous one and consists of next stages:
+
+Request from costumer is received by telephone call or by completing the request form on company’s website.
+
+Request verification and checking the availability of the ingredients in the warehouse. If there are enough ingredients for requested meal, the process continues, in other case BP ends and the initialization of BP of ordering and delivery of the ingredients to the warehouse begins.
+
+Request is redirected to transport department
+
+Transport department sends an application for a meal in accounting department
+
+Accounting department verifies the request and returns confirmation in transport department
+
+Transport department receives meal from the warehouse and load it into the free car
+
+Request is delivered to costumer.
+
+Transport department sends request data to accounting department when delivery is complete. 
+
+Accounting department enters data into the system. On this stage process ends.
+
+This BP requires thought-out logic and a huge amount of up-to-date info for the proper execution, in case that any delay will shutter the costumer’s credibility of the restaurant, affect food taste and finally affect the costumer’s satisfaction with the level of service.
+
+
+
+
+Overview of the ERP system’s logistic unit
+
+For this work I have chosen 1C:Enterprise 8 information system
+
+1C:Enterprise is a software created by 1C company, dedicated to automation of the company. According to IDC information in 2010 1C:Enterprise was used by 26% of companies in Russia. It is presented as simple and reliable system for the medium-size companies.
+
+1C:Enterprise includes a software platform and application solutions, developed on platform’s basis for an automation of company’s activities. Platform is not an application solution by itself, it wasn’t created to be put to use by a final user.  Customers usually work with one of the many application solutions (configurations), developed on platform basis. This approach allows to automate different set of activities by using sole software platform.
+
+1C:Enterprise is allowed to use in different spheres in case of  flexibility of software platform
+
+Automation of industrial and commercial companies, non-for-profit and financial organizations, services companies and etc.; 
+
+Support the operational management of the enterprise;
+
+Automation of organizational and business activities; 
+
+Management accounting report with multiple charts of accounts and arbitrary measurements of accounting, regulatory reporting; 
+
+Wide opportunities for management accounting and of analytical reporting, support mmulticurrency account;
+
+Solving the tasks of planning , budgeting and financial analysis; 
+
+Payroll and human resources management
+
+Other spheres of application
+
+In this work I’ll focus on a narrow set of only application solutions, most suitable for tasks, stated by restaurants BP’s described above. 
+
+1С: Enterprise 8. TMS Logistics. Shipping management
+
+Transportation management system “1С: Enterprise 8. TMS Logistics. Shipping management” is dedicated to those companies, who need to solve a variety of transport logistics problems in the process of day-to-day functioning
+
+“1С: Enterprise 8. TMS Logistics. Shipping management” configuration functionality is determined by the list of subsystems, included in it:
+
+Reference data management
+
+Requirements for goods transportation management
+
+Tasks for cargo transportation management
+
+Trip formation
+
+Resources for trip supply management
+
+Control over trip fulfillment
+
+Company’s tariff policy management
+
+Interactions management
+
+Access management
+
+Analytic reporting
+
+Visualization of the information, displayed on electronic maps
+
+1С: Enterprise 8. Satellite-based monitoring center ГЛОНАСС/GPS
+
+“1С: Enterprise 8. Satellite-based monitoring center ГЛОНАСС/GPS" – is a newly created specialized application solution based on a “1С: Enterprise 8.2" application platform, dedicated to satellite-based (GPS\GLONASS) monitoring of vehicles, staff and other mobile objects.  Application solution functionality allows receiving real-time location data of objects equipped with automobile or personal GPS-tracker devices, PDA’s or smartphones on Windows Mobile 5.0 or higher equipped with GPS or GPRS modules. It is also possible to receive information from a variety of sensors (temperature sensor, fuel-level sensor, SOS-button and etc.).
+
+Application solution "1С: Enterprise 8. Satellite-based monitoring center ГЛОНАСС/GPS " provides the following functionality:
+
+Location and actual mileage monitoring
+
+Ability to record all refuels and plumps and to create reports of actual fuel consumption 
+
+Notifications for tuned events occurrences
+
+Prevents deviations from the planned route
+
+Monitoring of SOS-button signal to ensure the transit security
+
+Control over the speed regime which prevents exceeding the speed limit
+
+Reports on single car or entire car park including leased vehicles creation
+
+Hiking employee work control
+
+“1С: Enterprise 8. Satellite-based monitoring center ГЛОНАСС/GPS" can be integrated into standard or industry application solutions based on    “1С: Enterprise 8” platform.
+
+Transportation management system “1С: Enterprise 8. TMS Logistics. Shipping management” provides basic functionality for logistics management, all vital features for transit accounting and monitoring.  But, augmented by “1С: Enterprise 8. Satellite-based monitoring center ГЛОНАСС/GPS", system will grant all necessary functions for accurate meal’s delivery status monitoring. Most important features for restaurant will be:
+
+Preliminary transit requirements accounting and transit data processing monitoring
+
+Ability to register freight tasks and task’s execution monitoring
+
+Ability to record the location points passage
+
+Freight execution monitoring, including vehicle state and its location
+
+Visualization of the information, displayed on electronic maps
+
+Altogether system provides all necessary functionality for restaurant’s logistics process monitoring, but it doesn’t take several business opportunities into consideration, while these opportunities can deeply affect speed and stability of restaurant’s delivery process. It is also possible to integrate several services able to improve quality and system capabilities. Such as «Яндекс-пробки» - service which is able to predict traffic jams forming, including it into system will deeply affect meal’s delivery speed
+
+
+Objective statement
+
+In my work I am going to focus only on several BP’s fragments, which I suppose may be improved by adding new features to existing system by integration of some more software applications into it. 
+
+Firstly, I am going improve the vehicle location monitoring system and visualization of information received onto electronic map. “1С: Enterprise 8” is able to visualize vehicle location on an electronic map, but I am going to integrate this features deeper with newly created solutions and combine it with different services.
+
+Integrate «Яндекс-Пробки» service into the route planning process. It is obvious that in large cities (as Moscow) traffic jams problem is an important obstacle for every company related to retail delivery, especially restaurants. Any delivery delay greatly decrease service level.  In that case it is necessary to do everything possible to lower risk of getting caught in traffic. «Яндекс-Пробки» can provide necessary information to avoid any traffic jams on the vehicle’s route to the costumer.
+
+“1С: Enterprise 8” is able to visualize vehicle’s location and state. It slightly simplifies control over them, but it is also possible to visualize on electronic map every request received in real time. It provides supervisor with an opportunity to create shorter and more efficient routes and also will partly solve the cancellation problem, in case that it will be possible to find a costumer with the same request near the vehicle in a short period of time.
+
+Secondly, it is necessary to eliminate several excrescent stages in BP in order to simplify it. In “Business-process of ordering and delivery of the ingredients to the warehouse” stage “Send a request to the accounting department” exist to verify meals inflow to the warehouse (Picture 3). It takes plenty of time and needs many repetitive procedures to execute. It is much easier to instantly display information about meals and it’s destinations onto supervisors display. It simplifies BP by eliminating interaction with the accounting department at this stage.
+
+. 
+
+Picture 3 Request sending to the accounting department
+
+Thirdly, it is possible to increase BP’s of ordering and delivery of the ingredients to the warehouse execution speed by making suppliers invent special order’s status monitoring system and then fully integrate it with receiving system, created by a restaurant. Now, after sending the request for ingredients, restaurant has to wait until request will be processed and notification about it will be sent and received (Picture 4), this procedure may take plenty of time, critical for restaurant.  If this system will be implemented, restaurant will be able to monitor all request statuses and send vehicles to pick up ingredient just in time, avoiding any delays.
+
+
+
+Picture 4 Request sending to suppliers
+
+In order to achieve this goal, I am going to create simple information system dedicated to object’s location monitoring and able to perform every improvement I’ve written about before. It will consist of server, where the main part of application will be located. It’ll include components for vehicles monitoring, request data visualization and also component for ingredient’s request status monitoring. 
+
+Devices running Android OS, they will be used for vehicles tracking and continuing communication with driver, with the help of client program able to monitor the new requests appearance, display electronic map with notifications for driver and it also provides feedback with supervisor
+
+
+
+
+Conclusion
+
+In the long term systems with such features allow to improve logistics BPs quality in company by the possibility of permanent monitoring of data, vital for delivery, in real time and the ability to quickly redirect resources   in case of need. It will also allow to eliminate several routine operations, reducing request response time and improving the service level. It is the thing – every company needs.
+
+
+References
+
+ru.wikipedia.org/wiki/1С:Предприятие
+
+ru.wikipedia.org/wiki/ERP
+
+
+
+
+
+
+
+
+
+List of abbreviations
+
+Business-process  -  BP
+
+Software application - SA

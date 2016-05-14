@@ -1,0 +1,1257 @@
+The Government of the Russian Federation 
+
+The Federal State Autonomous Educational Institution 
+
+of Higher Professional Education 
+
+
+
+"National Research University
+"Higher School of Economics"
+
+
+
+Faculty of Economics
+
+Department of Economic Theory
+
+Admit to defense
+
+Head of the Department
+
+
+
+Senior Lecturer of the Economic Theory Department
+
+Anastasiya Y. Redkina
+
+
+
+ "______" __________________20____
+
+
+
+
+
+GRADUATION THESIS
+
+
+
+On the topic: MARKET REACTION TO RUSSIAN MERGER REGULATION
+
+
+
+Student: Ilia D. Samarin
+
+Group: E-10-4
+
+________________________
+
+
+
+Supervisor: Anastasiya Y. Redkina
+
+Senior Lecturer of the Economic Theory Department
+
+________________________
+
+
+
+
+
+
+
+
+
+
+
+Perm 2014
+
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+The present research employs the event study methodology in order to quantitatively assess the merger regulation in Russia. We examined a sample of 230 transaction that took place between 2005 and 2014. Empirical results reveal no significant reaction to initial merger announcements. However, both merging companies and their rivals react negatively to the remedies implications by the Federal Antimonopoly Service. Further analysis of relationship between these two reactions demonstrated surprising findings. Remedies do not provide a systematic rent reversion and make only a one-time impact on merging companies. This result assumes the ineffective use of remedies in Russian merger control. We also found that merging firms and competitors positively respond to the decision of unconditional approval, which may indicate the type II errors made by Russian competition authority. 
+
+
+
+
+
+Аннотация
+
+Представленное исследование посвящено анализу государственного контроля сделок слияний и поглощений в России при помощи метода анализа событий. Изучаемая выборка включает в себя 230 сделок, которые произошли в период с 2005 по 2014 года. Результаты эмпирического анализа показали, что фондовый рынок не демонстрирует значимой реакции на первоначальные объявления о намерении вступить в сделку. Однако и компанииучастники, и их конкуренты отрицательно реагируют на решения Федеральной Антимонопольной Службы в виде выдачи предписаний. Анализ зависимости между реакциями на эти события показал, что выдаваемые предписания не обеспечивают сохранение конкурентной среды и имеют только одномоментный эффект. Кроме того, компании-участники и конкуренты положительно реагируют на безусловное одобрение сделок, что может говорить о совершении антимонопольным органом ошибок второго рода.  
+
+
+
+
+Introduction
+
+
+
+The merger control is an essential component of competition policy. Mergers can reduce competition and lead to higher prices or inefficiency in production. On the other hand, merger can cause positive effects, for example, in the form of economies of scale. Therefore, a competition authority should act as a judge prohibiting anticompetitive combinations and clearing procompetitive ones, so encouraging economic growth. The problem related to competition enforcement is that potential benefits and risks of a merger are difficult to assess before a merger takes place. This may lead to so-called type I and type II errors made by a competition authority. Type I error occur when an authority prohibits procompetitive mergers, whereas type II errors imply outright clearance of anticompetitive mergers that should have been prohibited or challenged by remedies. Consequently, the decisions of a competition authority need to be revised and analyzed in order to reveal their weaknesses and inconsistencies and to eliminate them. 
+
+In the last three decades, there has been growing interest in merger control assessment. Although the topic is quite well researched, there is no unified approach applied to this research topic. The majority of studies focus on investigation of factors influencing the competition authorities’ decision or on the stock market reaction to initial merger proposals and further authorities’ decisions announcements. Although all of these studies are devoted to evaluation of merger regulation, they serve for different goals and looking for answers to different research questions. The first group of studies aim to understand the actual logic of a competition authority by identification of factors influencing its decision and to compare their findings with economic reasons for merger control (e.g. Khemani, R. and Shapiro, D., 1992; Bergman, M., Jakobsson, M. and Razo, C., 2005). Another bundle of papers investigates the impact of merger events on the competition level by observing the investors’ response (Eckbo, E., 1983; Aktas, N., Bodt, E. and Roll, R., 2004). 
+
+Despite a variety of existing studies dedicated to the appraisal of merger regulation, little attention has been paid to possible policy implementation of gained results. Duso, T., Neven, D. and Roller, L. (2007) and Duso, T., Gugler, K. and Yurtoglu, B. (2011) presented a clear framework for analysis of effectiveness of regulation by identifying the type I and type II errors made by the competition authorities. 
+
+As for the Russian studies, there is a strong lack of qualitative examinations devoted to Russian merger regulation. Several Russian researchers addressed this research question using a qualitative analysis. For example, Avdasheva, S. and Kalinina, M. (2012) performed a comparative analysis, where they examined decision made by the FAS and the European Commission on similar cases. Other studies are of methodological nature and discuss the existing problems in Russian procedure of merger control and possible ways to deal with them (Shastitko, A., 2011; Shastitko, A., 2012; Sushkevich,A., 2012). To our knowledge, there is the single study containing econometric analysis of Russian merger processes. Using the so-called event study methodology, Tsytsulina, D. (2012) examined the stock market response to merger announcements among Russian steel companies. However, this paper did not consider the effect of the competition authority’s actions.
+
+Our study possess several distinct features. First of all, it applies econometric techniques to Russian data on merger control. Secondly, we do not concentrate on the single industry and analyze a broader range of transactions. Furthermore, we focus on economic effects of Russian antimonopoly body’s decision. 
+
+The aim of the present paper is to assess Russian merger regulation using the event study approach. Particularly, the effect of using remedies in merger control will be investigated. To reach the goal, a series of question needs to be addressed: How does the stock market react to the initial merger announcements? How does the Federal Antimonopoly Service’s (FAS) decision influence the investors’ anticipations about transactions? Does the FAS take into consideration the stock market reaction to the initial merger proposals? Do remedies in Russia truly reduce the anticompetitive effects of mergers? 
+
+Although the event study methodology is quite complicated, it has several advantages compared to others. First, the stock market provides objective reaction to the events. Additionally, while the use of stock market data allows separating the merger and the decision announcement effect, data on accounting profits present only the net effect (Duso, T., Gugler, K. and Yurtoglu, B.,2011).
+
+On the first step of the research, we analyzed the effect of initial merger announcements on both participating companies and their rivals. Our data revealed no reaction to the announcements in general case. 
+
+The next step included the investigation of effect of the antimonopoly body’s decisions announcements. The main findings are the positive reaction of merging companies to outright clearance and negative response of both merging firms and their competitors. 
+
+This reaction was revised during the third stage of our analysis, which showed that negative reaction relates to only nonsystematic costs of remedies imposed to merging companies. Finally, we investigated the problem of possible endogeneity. 
+
+The dataset for the empirical analysis was constructed based on the Zephyr database that contains the initial merger announcements dates. The sample comprises 230 transactions that took place in Russia between 2005 and 2014. 
+
+The outcomes of the present research may be valuable for Russian competition authority because they highlight the flaws in the current merger control enforcement, so stimulating to find the ways for improving and refining of the existing procedure of regulation. Moreover, our study is an essential step in the process of Russian merger regulation assessment. 
+
+The paper is organized as follows: firstly, institutional framework of merger control in Russia is presented. After that, existing relevant studies are reviews. Next section present design of our research. Then, the methodology is discussed. This one is followed by the description of data and data collection process. After that, results of empirical analysis are presented. The final chapter discusses the obtained results and concludes the paper. 
+
+
+
+
+
+
+
+
+Institutional Framework
+
+
+
+This paper aims to assess the merger control in Russia. However, we firstly need to discuss why mergers have to be regulated and why this regulation is worth being assessed. Furthermore, we should have a clear vision of how the merger regulation is put into practice in the Russian Federation. Thus, this section considers the general complications that any antimonopoly body faces during the merger control implementation and provides a legal context of Russian merger regulation procedure.
+
+  
+
+1.1 Merger Control: the Necessity and Complexity of Enforcement
+
+
+
+Mergers, acquisitions, and other types of business combinations are subject to a high extent of antitrust scrutiny. The reason is that a merger can cause both negative and positive effects. Companies merge for variety of reasons, and not all of them have anticompetitive nature. The main benefit from a merger is the synergy effect, which may take several forms. A deal may result in economies of scale and further cost efficiency. For other companies, a merger can reduce transaction costs. Moreover, many companies see in a merger a way to diversify, reduce operational risks and cost of capital (Trautwein, F. 1990; Amihud, Y. 1986). Avdasheva, S., Shastitko, A. and Kalmychkova, E. (2007) indicated a Russia-specific incentive for business combinations. This motive is connected with relative underdevelopment of Russian economic law. According to researchers, many companies prefer to arrange business agreements due to poorly protected property rights and very high costs related to this protection. As a result, this fact negatively affects the investment attractiveness of many companies. 
+
+Although benefits from mergers gained by the participating companies may transform into benefits for consumers in the form of lower prices, a wider range of products or higher quality of goods, mergers may also lead to deadweight losses and reduced consumer surplus. Some estimates showed that the deadweight losses might reach a very high level of 6% of GDP (Avdasheva, S., Shastitko, A. and Kalmychkova, E. 2007). Williamson, O. (1968).  There is a bunch of theoretical studies, which shows the possible negative effects of mergers and acquisitions. Most researchers concluded that horizontal mergers lead to higher prices and lower output, so decreasing the social welfare (Gaudet, D. and Salant, S., 1988; Perry, M. and Porter, R., 1985; Salant, S., Switzer, S. and Reynolds, R, 1983). The losses might be even higher if the industry deviates from the Cournot oligopoly (Farrell, J. and Shapiro, C., 1990). Salinger, M. (1988), on the other hand, analyzed vertical agreements and concluded, that although the monopolization due to vertical combination might be not very obvious, it would lead to the price increase. 
+
+The simultaneous existence of both positive and negative consequences of a merger reveal the necessity of merger regulation: negative effects should be prevented, whereas positive ones need to be fulfilled. Williamson, O. (1968) developed an analytical model, which stated that there should be a trade-off between cost savings and a price increase caused by a merger. Therefore, a competition authority should act as a judge prohibiting anticompetitive combinations and clearing procompetitive ones, so encouraging economic growth.  It needs to weigh possible benefits and risks of a transaction. From this point of view, Motta, M. (2004) provided an excellent definition of a competition policy by emphasizing its economic goals: “the set of policies and laws which ensure that competition in the marketplace is not restricted in such a way as to reduce economic welfare”. However, the competition authority has to carry out its analysis before a merger or acquisition takes place. As a results, the errors may occur and negatively affect the competition level. For this reason, the merger control is worth being revised and investigated in details. 
+
+
+
+1.2 Procedure of Regulation
+
+
+
+The merger control in Russia is conducted by the Federal Antimonopoly Service (FAS), which activity is governed by the regulations that were first implemented in 1991. In 2006, the new Federal Law № 145-FZ “On Protection of Competition” was passed. This law is still valid today and defines the transactions subject to state control over economic concentration and the procedure of this control. Further, we will use “merger control” instead of “control over economic concentration”.  
+
+According to the Federal Law, the transactions subject to the state investigation may be divided into three groups:
+
+mergers, i.e. transactions resulting in combination of several companies into new one;
+
+transactions with voting shares, including acquisitions, when a bidder company gains control over a target company;
+
+transactions with assets, which book value exceeds 25% of the total assets of a selling company. 
+
+Despite the different nature of the above-mentioned transactions, we will call them mergers and acquisitions, since they have similar economic consequences. 
+
+The law also defines conditions for transactions that have to receive a prior FAS’s consent. Currently, the main thresholds are as follows: a merger or acquisition of several commercial organizations needs to be approved beforehand if the aggregate value of assets according to the balance sheet at the latest reporting date exceeds seven billion rubles or if the aggregate revenues from sale of commodities of such organizations for the calendar year preceding the merger exceed ten billion rubles, or where one of the organizations is included into the Register of economic entities. 
+
+Figure 1 describes the general procedure of Russian merger control. Article 33 of the Federal Law № 145 specifies that the FAS has 30 days to make its decision on a transaction. Based on the performed analysis, it can either clear a transaction unconditionally or clear and give remedies, or block a deal or prolong the period of examination. If the FAS decides to prolong, it has two month more to make the final solution. 
+
+
+
+Figure 1. The procedure or merger control in Russia
+
+
+
+Remedies are usually defined as special conditions developed by the competition authority to remove the concerns identified during the investigation. There are two basic groups of remedies: structural and behavioral (Balto, D. and Parket, R., 2000; Merger Remedies Study, 2005). Structural remedies refer primarily to the divestiture, i.e. alienation of assets in order to restore the competition level in an industry. Behavioral remedies constrain the behavior of merging companies after the completion of transaction. Article 23 of the Federal Law “On Protection of Competition” enumerates examples of possible remedies; so these may be: to grant a right to facilities of industrial property protection, to transfer the property rights, to preliminary inform the antimonopoly body about intention to fulfill actions provided for in the determinations, to sell particular volume of products through commodity exchange. 
+
+At a first glance, Russian merger control procedure is similar to the European one: in both cases, the value of assets and revenues act as a threshold determining the subjectivity of a deal to prior state approval. Moreover, the definitions of negative consequences of a merger are also alike. There are, however, differences as well. The European regulation implies a two-stage procedure (Duso, T., Gugler, K. and Yurtoglu, B., 2011). At the end of the Phase I, the EC may proceed the examination if a transaction seems dangerous to competition. However, the EC cannot block a deal after the first stage. This is the crucial difference between Russian and European procedures. Although Russian law states that prolongation may be a result of dangerous transaction, the FAS usually decides to prolong in case the information provided by the merging companies is not sufficient. 
+
+A distinctive feature of Russian merger control is that, unlike the European legislation, there is no unified instruction about conducting a merger analysis. The only existing document that allows supposing of how this analysis is performed is Order № 108 «On Approval of the Proceedings of Analysis and Assessment of Competition Environment on Goods Markets». According to this document, the study of competition environment can be divided into following steps:
+
+to establish the geographical and product borders of a goods market;
+
+to estimate market capacity, market shares of entities, and concentration level;
+
+to define the entry barriers; 
+
+to assess the competition environment and possible risks due to transaction. 
+
+However, these stages are generic and do not relate directly to the merger control. Therefore, they only enable to hypothesize the logic of Russian antimonopoly body.  
+
+
+
+The Scope of Intervention
+
+
+
+The dynamics of cases processed by the FAS is quite variable. Figure 2 demonstrates the total number of applications and decisions on them during the period between 2007 and 2012. The information about other years is not publicly available. As the bar chart presents, the total number of applications considered by the FAS decreased more than twice during the particular period. This is caused mainly by several amendments of the assets and revenues thresholds. As a result, the FAS’s overload decreased due to higher values of the thresholds and a lower number of applications processed. However, the quantity of applications remains very high comparing with the number of applications notified to the European Commission (EC). For example, during the same period, the EC considered 1875 cases and only 283 notifications in 2012. 
+
+
+
+Figure 2. Number of applications considered by FAS. Source: the FAS’s annual reports
+
+
+
+Figure 3 shows the structure of decisions made by the FAS. First of all, there is a growing trend in frequency of remedies. Talking about the type of remedies given, behavioral remedies prevail over structural ones. In 2007, behavioral remedies accounted for 96% of total number of remedies given by the FAS. This is opposite to the Europe, where more than 80% of remedies were structural (Avdasheva, S., Shastitko, A. and Kalmychkova, E., 2007). 
+
+Another remarkable fact is a lower and quite stable rate of prohibitions, which fluctuates about 2% of total number of decisions. It is interesting that the EC’s decisions are characterized with the same low rate of rejections (Aktas, N., Bodt, E. and Roll, R., 2004; Duso, T., Gugler, K. and Yurtoglu, B., 2011). However, unlike the EC, Russian FAS usually blocks transactions due to missing documents or insufficient amount of information provided along with the application, rather than due to negative economic consequences. 
+
+To conclude, Russian merger control has several features similar to the European one. It allows for use of remedies and is also characterized by a low number of prohibitions. However, unlike the EC regulation, it lacks for clear and unified instructions on conducting merger analysis, so creating difficulties in the process of assessment the FAS’s activity.
+
+
+
+
+
+Figure 3. The structure of decisions
+
+
+
+
+
+
+Literature Review
+
+
+
+There is a great variety of studies covering the assessment of merger regulation in the European Union, the United States and Canada. Existing studies may be divided into three categories according to the classification presented by Bougette, P. and Turolla, S. (2006) and based on the applied approach. They are the cost-benefit analysis, the discrete choice models approach and the event study approach.
+
+The cost-benefit analysis. This group of studies are based on weighing the benefits and costs of mergers. The first studies in this field were carried out by Long, W., Schramm, R. and Tollison, R. (1973), Asch, P. (1975) and Siegfried, J. (1975). Their aim was to quantitatively assess the welfare effects related to the antitrust regulation. These effects were primarily linked to the deadweight losses (“Harberger’s triangle”, Harberger, A., 1954). For example, Long et al. estimated a linear regression model to examine the factors affecting antitrust activity. Costs in this model consisted of litigation costs initiated by the government. The results showed the quadratic relationship between concentration level and the number of filed cases. Another study was conducted by Postema, B., Goppelsroeder, M. and  Bergeijk, P. (2006). Using the applied game theoretic approach and Monte-Carlo simulations (Crooke, P., Luke, F., Tschantz, S. and Werden, G., 1999), the authors estimated the net annual welfare gains resulted from merger regulation in the Netherlands, which amounted to 100 million euros. They also concluded that the gross gain over the analyzed period between 1998 and 2002 was about 770 million euros. However, cost-benefit analysis is a very complicated and often inaccurate technique, since it is difficult to provide strong evidence of selecting appropriate proxy for benefits and costs of a merger. 
+
+The discrete choice models approach. This approach involves the use of econometric models with discrete dependent variable, such as probit- or logit-models and their ordered and multinomial modifications. The approach allows identification of important factors explaining a competition authority’s decisions. One of the most cited research was carried out by Khemani, R. and Shapiro, D. (1993). Using Canadian data for running the ordered probit model, the authors found that the most important factors were market shares, concentration index and barriers to entry. Their results were close to the conclusions of Coate, M., Higgins, R. and McChesney, F. (1992), who applied the same approach to the American data. They also emphasized a low predictive power of ordered models due to low rate of prohibitions in the sample. Weir, C. (1992) used the UK’s data and obtained different results: the post-merger market shares did not influence the authority’s decisions. Williams, F. (2003) analyzed the European merger cases by estimating a probit-model. They concluded that the post merger market share and the increase in market share significantly increased the probability on a merger to be prohibited. Bergman, M., Jakobsson, M. and Razo, C. (2005) found that market share was an important determinant of an authority’s decisions. Moreover, they included several political variables, such as nationality of merging companies and the identity of the commissioner. However, these variables appeared to be insignificant. In contrast, Bougette, P. and Turolla, S. (2006), using the multinomial logit-regression, concluded that the probability of giving remedies increased when the acquirers were from the U.S. or France. Moreover, the authors identified that the pattern changed when Mario Monti took up a post of the commissioner. They also found the inter-industries differences, e.g. energy and communication sectors were subject to “stricter” decisions, i.e. remedies, while the retail trade increased the probability of an outright acceptance. They did not try, however, to implement the ordered probi- model, which could be more suitable for their analysis, since the EC’s decisions can be naturally ranked depending on their “severity”. Nevertheless, important contribution of this paper was the use of artificial neural networks, which allows for in-depth study of factors influencing the EC’s decision. Andreasson, J. and Sundqvist, C. (2008) studied  the  effect  of  EC  merger  control  before and after 2004. Their main conclusion was that the post-merger market share became less significant after the alterations in the EU regulations. 
+
+The event study approach. This approach is based on the efficient markets hypothesis, which enables to examine market reaction to the merger and authority’s decisions announcements. Ellert, J. (1976) presented one of the pioneering studies using event study in the analysis of antitrust regulation. However, this study did not investigate the reaction of rivals to the merger events. Later, Eckbo, E. (1983) addressed this question on his research. The analysis of stock market data of Canadian companies showed that both merging parties demonstrated positive and statistically significant abnormal return after merger announcement. After the blocking decision these returns turned negative, which meant efficiency of regulation. However, in some cases the abnormal returns of rival firms remained positive even after the blocking decision. After that, Eckbo, E. and Wier, P. (1985) found again that rivals generated positive abnormal returns around a merger announcement date. Authors rejected the collusion hypothesis in favor of their information hypothesis. Simpson (2001) received similar results. Solvin M., Sushka, M. and Hudson, C. (1991), however, obtained opposite results. They analyzed 42 horizontal mergers in the airline industry and concluded that the Civil Aeronautics Board promoted the collusion among existing market players. Brady and Feinberg (2000) examined the effects of the change in the EU merger enforcement regime on the market indices and individual companies. They found that the indices did not demonstrate a significant reaction, while many companies did. On the contrary, Aktas, E. and Derbaix, A. (2003) analyzed the automobile sector and found that neither participating companies nor their competitors demonstrated any significant reaction to the initial merger announcement, while several customers showed significant and negative reaction. 
+
+Aktas, N., Bodt, E. and Roll, R. (2004) analyzed the stock market reaction to the European Commission’s (the EC) announcements. The authors concluded that actions of the EC were consistent with its antimonopoly goals, and there was a clear evidence that shareholders took into consideration the decisions of the EC. Moreover, the authors showed that the probability of the EC’s intervention did not depend on acquirers’ nationality. However, the market expected a more costly operation when an acquirer was outside the EU. This study was the first attempt to address the problem of endogeneity in merger analysis. 
+
+A great contribution to the merger analysis based on the event study methodology has been made by Duso and his colleagues. Duso, T., Gugler, K. and Yurtoglu, B. (2010) addressed the problem of usefulness of event study for merger analysis. Specifically, they considered the relationship between generated abnormal returns and the ex-post profitability (Gugler, K. and Siebert, R., 2004) of merging companies. The results showed a strong and significant dependence between these variables, especially for a long pre-announcement windows (-25;+5) and (-50;+5).  On the contrary, McAfee, R.P., Williams, M.A. (1988) asserted that event studies are not able to detect anticompetitive mergers. However, their analysis lacked for theoretical reasoning and was based on the simple case. Moreover, Fridolfsson, S. and Stennek, J.  (2009) showed that anticompetitive merger might reduce the rivals’ share prices just like McAfee and Williams observed. 
+
+Duso, T., Neven, D. and Roller, L. (2007) combined the event study approach and the discrete choice analysis. Estimating the abnormal returns, they identified type I and type II errors made by the competition authority. Type I errors occur when an authority prohibits a procompetitive merger, while type II errors take place when an authority clears an anticompetitive merger. They defined type II error as the clearance of a transaction, which generated positive abnormal returns for rivals at the announcement date. However, this definition is questionable. In many studies competitors demonstrated positive reaction to merger announcement (Eckbo, E.,1983; Simpson, J., 2001), but no one related this directly to the anticompetitive nature of a deal. After that, authors estimated binary choice models to identify determinants of the frequency of errors. Eventually, they concluded that institutional and political factors did matter and influenced the error occurrence. 
+
+Duso, T., Gugler, K. and Yurtoglu, B. (2011) presented a new view on this problem and tried to econometrically assess the effectiveness of European merger control using stock market data on companies involved in business combinations during 1990-2002. They looked at the relationship between companies’ abnormal returns around the merger and antitrust decision announcements. They concluded that outright prohibition eliminated completely the rents generated around the merger announcement. However, remedies seemed to be only half-efficient. Furthermore, outright clearance led to the increase in rivals’ profitability, which indicated the possible type II-errors. 
+
+As for Russia, there is a lack of quantitative examination of merger regulation. Avdasheva, S. and Kalinina, M. (2012) presented a comparative study analyzing decisions of Russian and European competition authorities on similar transactions. They found that many Russian behavioral remedies just replicated the law. Nevertheless, they concluded that the FAS conducted an in-depth analysis of markets borders. Shatitko, A. (2011, 2012) and Suchkevich, A. (2012) analyzed existing issues and flaws of Russian merger control and suggested adopt several procedures from the European law. The only published Russian study was performed by Tsytsulina, D. (2012). She analyzed the market reaction to merger announcements of Russian metal companies. She found that Russian participants did not demonstrate significant reaction, while both foreign and local competitors reacted negatively to these announcements. She also considered separately effects of vertical and horizontal mergers and concluded that vertical mergers did not cause significant reaction. She did not, however, investigate market reaction to decisions of the FAS.
+
+To sum up, although the topic is quite well researched by American, Canadian and European authors, “there is almost no systematic econometric evidence on whether merger policy achieves what it is supposed to achieve” (Duso, T., Gugler, K. and Yurtoglu, B., 2011). The choice of a particular approach depends on the hypotheses that are to be tested and will be discussed in the next chapter. 
+
+
+
+
+Research Design
+
+
+
+This section describes the framework of this research and the hypotheses that need to be tested. Our study is focused on the assessment the merger regulation in Russia. As it was mentioned in the literature overview, different approaches could be used to investigate this research topic. We use the event study analysis to evaluate the FAS’s decisions through the stocks reaction. This approach has several strong advantages. First of all, stock market provides an independent assessment of the events (Duso, T., Neven, D. and Roller, L., 2007), which means that the evaluation is exogenous to the antimonopoly body’s decisions. In Addition, the stock market data are prospective, so they allow capturing dynamic effects of the observed events on companies’ performance (Aktas, E. and Derbaix, A., 2003). 
+
+The present research will be carried out in four major steps. The first step is to investigate the stock market reaction to initial merger announcements, the second one is analyze the response to the FAS’s actions. Then, based on results of the first two stages, the examination of the relationship between these reaction will be done to gain conclusions about the effectiveness of the FAS’s activity. And finally, the test for possible endogeneity should be performed in order to discuss the reliability of the results. 
+
+Implementation of first two steps is complicated due to simultaneous existence of two basic hypotheses: the Market Power Hypothesis (MPH) and the Economic Efficiency Hypothesis (EEH) (Eckbo, E., 1983; Eckbo, E. and Wier, P., 1985; Aktas, E. and Derbaix, A., 2003). The MPH is derived from the oligopoly theory (Stigler, G.,1950; Salant, S., 1983) and states that a merger provides companies with opportunity to restrict the competition and gain benefits. At the same time, it is possible to consider two sub-hypotheses within the MPH. The first one is the Collusion Hypothesis, which implies higher probability of collusion among fewer number of companies after the merger. In this case, both merging and rival companies benefit from the higher post-merger prices, while the consumer surplus would decrease. This fact should be reflected in higher stock prices around the merger announcement. The second sub-hypothesis is associated with the Predatory Pricing Model, according to which a new bigger firm is able to decrease its costs and start the price war (Eckbo, E. and Wier, P., 1985). Under this sub-hypothesis, rivals’ share prices should fall due to their inability to win this war. 
+
+The EEH consists of two effects. The productivity effects implies the ability to reach economy of scale after the merger. As a result, a merged company would decrease its average costs and product price, and rivals’ stock prices would fall. Because of the information effect rivals get able to use the merged company’s technology, so the rivals’ market value increases.  
+
+Results of the first two steps enables one to test a set of following hypotheses. 
+
+H_1: Merging companies demonstrate positive and significant reaction to merger announcement and outright clearance of the FAS.
+
+As both the EEH and the MPH regardless of their sub-hypotheses imply higher profitability for participating companies, market anticipation should be reflected in higher current stock prices when a merger is announced and the antimonopoly body gave unconditional permission to complete the transaction. The second event is important because it allows the fulfilling of previously expected profitability increase. The similar hypotheses have been tested by many researchers (e.g., Aktas, N., Bodt, E. and Roll, R., 2004, 2004; Eckbo, E., 1983). However, the results vary considerably from highly significant and positive reaction (Eckbo, E. and Wier, P., 1985; Duso, T., Neven, D. and Roller, L., 2007) to insignificant (Aktas, E. and Derbaix, A., 2003). Significance also varied across different windows of estimation and a country of origin of participating companies (Tsytsulina, D., 2012). We will also anticipate diverse results depending on the estimated window.
+
+H_2: Reaction of competitors to both merger announcement and the FAS’s clearance has the same sign. 
+
+It is difficult to assume the exact sign of market response due to a complicated nature of the MPH and the EEH discussed before. Nevertheless, it is still reasonable to suppose that the sign should not alter after the FAS’s outright decision just for the same reason as in case of previous hypothesis: this decision does not change the market conditions, it only fulfils either the benefits or the threatens for rivals. Duso, T., Gugler, K. and Yurtoglu, B. (2011) obtained the same signs, which, however, were insignificant. 
+
+H_3: Reaction of merging companies to the decision of giving remedies is negative. 
+
+This hypothesis refers to the fact that remedies are supposed to restore the pre-merger level of competition in the market. On the one hand, decision with remedies does not prevent from gaining benefits of a merger, but it causes extra costs and restrictions, so decreasing the gains of merging companies. Therefore, more costly merger should be reflected in negative anticipations of investors. The similar hypothesis was also suggested by Duso, T., Gugler, K. and Yurtoglu, B. (2011).
+
+Unfortunately, it is impossible to estimate the effect of prohibitions due to non-availability of data. For further clarifications, see the data description chapter. 
+
+H_4: There is a difference in reaction among vertical/conglomerate and horizontal transactions. Vertical mergers demonstrate lower significance. 
+
+This hypothesis has been addressed by many authors (e.g. Tsytsulina, D., 2012; Eckbo, E., 1983). It is linked to the theoretical studies (Salinger, M., 1988), which assert that negative influence of vertical mergers on competition is less than of the horizontal ones. Empirical studies confirm that reaction to initial merger announcement depends on the nature of a transaction (Eckbo, E. and Wier, P.,  1985; Duso, T., Gugler, K. and Yurtoglu, B., 2011). 
+
+Although abnormal return estimations might give some insights about market’s perception of merger events in Russia, they are not able to draw conclusions about the quality of regulation. Hence, to make inferences about the effectiveness of control, we implement the methodology developed by Duso, T., Gugler, K. and Yurtoglu, B. (2011). This is the third step of the present research.
+
+The idea is based on the underlying assumption that the market power effects generated by a merger can be partially separated from its efficiency effects. Therefore, the analysis of relationship between the rents generated around the decision and merger announcement may make sense. For example, if the merger announcement generated positive rents for both rivals and merging companies, which is consistent with the MPH, then the effective merger control should eliminate this rent. It should be reflected in negative reaction when a decision is announced. Furthermore, there should be a systematic negative relationship between these rents around two events. Thus, the core idea of this approach is to investigate the phenomena of rent reversion. This approach allows one to assess the antimonopoly body’s decisions. To tackle this question, authors proposed to estimate the “degree of effectiveness” by running the following regression separately for competitors and participating companies: 
+
+
+
+,	                                     (1)
+
+where: X is a vector of exogenous control variables (e.g. industry-dummies);
+
+            Π denotes the rents generated around particular event of interest.
+
+
+
+The subscript i denotes merging (M) or rival (R) firms, the subscript j stand for the transaction. The subscript d denotes the FAS’s decision (C=clearance; R=remedies). The upper index A stands for the merger announcement event, while D - for the authority’s decision announcement. This technique is able to provide more robust results since it employs the regression analysis, rather than analysis of significance of the rents.
+
+Regressions results can be used to test a set of hypotheses concerning the sings of slope coefficients and the intercepts. These hypotheses are generalized in Table 1. 
+
+Table 1
+
+Expected Coefficients1
+
+1Source: Duso, T., Gugler, K. and Yurtoglu, B., 2011
+
+
+
+Let us provide several comments on the Table 1. In case of clearance decision, it is quiet straightforward that no systematic relationship should exist. As was mentioned above, the outright clearance does not change the industry circumstances, therefore coefficients are assumed to equal zero. In case of remedies implementation, the slope coefficients for both merging firms and their rivals is supposed to be negative, as it indicates the rent reversion. The intercept for competitors became negative, because it means the shift occurring because of the eradication of the market power rents. 
+
+To conduct first three steps of the research, we will use the event study technique. An in-depth review of this methodology will be presented in the next section. In brief, this approach enables one to separate the effect of a merger or decision announcements from the “normal” performance of a company’s shares. The main object of event studies is the abnormal returns, which is the difference between actual and normal returns. Hence, if the abnormal return is significant, it means that event does really influence the market’s anticipation about company’s future performance. 
+
+In order to be able to carry out the event study analysis, we need primarily three sorts of data. First of all, dates of initial merger announcements are required. Since there is no specific Russian database containing them, we should turn to the foreign sources, such as the Zephyr database collected by the Bureau van Dijk. Secondly, we need the FAS’s decision announcements dates. These can easily be extracted from the official Website of the Federal Antimonopoly Services, which contains a publicly available decisions database. However, despite a legal obligation to place all the decisions texts on the Internet, it is occasionally impossible to find several cases. Finally, the event study technique requires the quotations of companies’ shares. There are several specialized stock data sources, but the Finam is one of the most complete and conveniently accessed databank. A more detailed overview of the data collection process will be presented later in the data section. 
+
+After obtaining the results on market reaction to various merger events and inferences about the quality of merger regulations, it is highly important to assess the reliability of gained results. It is the final step of our study. One of the most common and dangerous phenomena, which might negatively affect the validity of results, is the problem of endogeneity. To our knowledge, only few studies devoted to event study applications addressed this question directly (Eckbo, E., 1990; Aktas, N., Bodt, E. and Roll, R., 2004). To accomplish a test for endogeneity, we use the discrete choice models analysis. The idea of this test is to examine the behavior of two parties of a merger control process: investors and the FAS. We will firstly study whether investors take into account the probability of the FAS’s decision to impose remedies. Next, we will examine whether the FAS considers the initial investors’ reaction to a merger proposal. If both of these questions appear can be answered positively, then the endogeneity does really exist and the results of previous steps cannot be treated as reliable. 
+
+
+
+
+Methodology
+
+
+
+As was stated previously, the present study concentrates on the stock market reaction to Russian merger events. This reaction can be analyzed using the event study approach. The event study came originally from the finance (Myers, J. and Bakay, A., 1948; Fama, E.F., Fisher, L., M.C. Jensen and Roll, R. , 1969; Brown, S. and Warner, J., 1985) and is based on the efficient markets hypothesis (the EMH), specifically on its semi-strong form (Fama, E., 1970). According to this form of the EMH, current stock market prices reflect all the publicly available information. This allows using current prices and their changes as reliable indicators of future profitability. In terms of the present paper, the events are the merger and antitrust decision announcements. Therefore, assuming that semi-strong EMH holds, it is possible to assess the merger control by examining the reaction of the efficient market. 
+
+A question of applicability of the event study analysis to the Russian stock market data needs to be discussed at a basic level. Frankly speaking, today there is no direct evidence of the semi-strong efficiency of Russian stock market despite several attempts to conduct the event study using data on Russian public companies (Pogozheva, A., 2013; Tsytsulina,D., 2012). However, emerging markets, to which Russia refers according to the International Monetary Fund’s list, draw interest of many researchers. For example, Griffin, J., Hirschey, N. and Kelly, P. (2008) concluded that the difference in reaction of emerging and developed markets did really exist. Main reasons for that were enumerated, such as investors inattentiveness, poor informational environment, and possible insider trading leading to the leakages. Nevertheless, those findings did not imply he prohibition to conduct event study for emerging market data.  Later, Griffin, J., Kelly, P. and Nardari, F. (2010) found that traditional efficiency tests might give misleading results. Taking into account the transaction costs, which investors of emerging markets face, and the speed of information incorporation, these markets cannot be regarded as considerably less efficient than the developed markets. The study of  Hall, S., Urga, G. and Zalewska-Mitura, A. (1998) used the data on Russian stock market indices and found the Russian market was inefficient, however, it would become efficient in about two years. Today, more than 10 years have passed since then. Thus, the present paper is based on the assumption that the event study approach is an appropriate and feasible technique for Russian data. 
+
+The main idea of the event study is to assess the impact of an event using the abnormal return. The abnormal return is the difference between the actual ex post return of a stock and its normal return. The normal return is the expected return without conditioning on the event taking place. So, for company i and the event date τ the abnormal return is:
+
+
+
+,      	                                                 (2)
+
+where , ,  are the abnormal, actual and normal returns respectively for the period τ.  stands for the information set for the normal return model. For further clarification, Figure 4 presents the timeline for an event study.
+
+
+
+Figure 4. The timeline for an event study
+
+
+
+The choice of the normal return model has been discussed in several studies (e.g. MacKinlay, A., 1997) and varies from the constant return model to the multi-factor models. However, none of the researchers used the Fama-French model. The majority estimated the market model (Eckbo, E., 1983; Duso, T., Gugler, K. and Yurtoglu, B., 2011) and used the constant return model to perform the robustness check (Aktas, N., Bodt, E. and Roll, R. 2004). The market model implies the dependence of a stock daily return  from the market portfolio daily return : 
+
+
+
+, 	                          (3) 
+
+where:  is the sensitivity of a company’s return to the market return. 
+
+
+
+The slope  should not be estimated using the Ordinary Least Squares (OLS) technique due to the nonsynchronous data. Otherwise, the inconsistent and biased estimated will be obtained. The problem of nonsynchronous trade has been addressed by many researchers (Brady, U. and Feinberg, R., 2000). This problem is associated with the fact that closing prices of stocks cannot be observed every day at the exactly same time. Fortunately, Scholes, M. and Williams, J. (1977) solved this problem and introduced another way to estimate beta. Let us consider this technique closer. 
+
+The simple OLS estimate of beta, which is inconsistent with the nonsynchronous data, can be written as:
+
+
+
+, 		                                                             (4)
+
+where:   stands for covariance;
+
+              is the variance.
+
+
+
+For the consistent estimate, however, we need to consider two auxiliary coefficients:
+
+
+
+,  	                                                             (5)
+
+and
+
+
+
+ . 	                                                             (6)
+
+
+
+After that, it is possible to estimate the consistent beta and the intercept:
+
+
+
+, 	                                                                         (7) 
+
+
+
+and
+
+
+
+, 	                                     (8)
+
+where: the  the estimated first-order autocorrelation coefficient of the market return. 
+
+
+
+To catch the effect of event, the cumulative abnormal return (CAR) for every company and its average (CAAR) for the whole sample should be estimated: 
+
+
+
+, 	                                                             (9)
+
+
+
+and
+
+
+
+ , 	                                                           (10) 
+
+where:  is the sample size. 
+
+
+
+Under the null hypothesis that the event has no impact on the stock returns and the zero mean of the market model’s disturbances, the abnormal return is supposed to be normally distributed . If this conditions holds, the cumulative abnormal return should also follow the normal distribution (MacKinlay, A., 1997): . Therefore, it is possible to implement the t-test in order to estimate the significance of the cumulative abnormal returns. 
+
+The null hypothesis is as follows:
+
+
+
+. 	                                               (11)
+
+
+
+The formula for statistic then takes the form: 
+
+
+
+ ,	                                               (12)
+
+where: is the unbiased estimate of the standard deviation of the cumulative abnormal returns. 
+
+
+
+We also investigate the problems of self-selectivity bias, which were first addressed by Eckbo, E.B., Maksimovic, V. and Williams, J. (1990) and then developed by Aktas, N., Bodt, E. and Roll, R. (2004). Eckbo et al. (1990) stated that if an events, such as merger or acquisition, results from voluntary decision, then rational managers will proceed only those transactions that are expected to be profitable and value creating. As a result, such a self-selection leads to a truncation of the distribution of the cumulative abnormal returns. Therefore, it may make sense to consider the truncated regression model (Green, W., 2003):
+
+
+
+, 	                                   (13)
+
+where:  is the dependent variable;
+
+             is  the  vector  of explanatory  variables;  
+
+             is  the  normal density  function;  
+
+             is  its  cumulative function;
+
+             a is the  truncation threshold;  
+
+             is the  standard  deviation  of the  regression errors;
+
+             is  the set of coefficients. 
+
+
+
+The model is estimated by the Maximum Likelihood Estimation (MLE). If the significance of the coefficients estimated by the MLE differs from those obtained after the OLS procedure, then the selectivity bias does exist and influences the results. 
+
+The problem of endogeneity implies the simultaneous dependence of the cumulative abnormal returns and the probability of the antimonopoly body to intervene, i.e. to give remedies or to prohibit a deal. It means that investors initially, when a merger is announced, take into account the possible probability of intervention, but at the same time the competition authority may take into consideration the initially generated rents and then decide whether to intervene or not. To deal this problem, we will firstly estimate the relationship between the FAS’s decision, several independent factors and the estimated cumulative abnormal returns. The common technique is to run a probit- or logit-regression. Please find a detailed overview of these models in the Appendix 1.
+
+The estimated cumulative abnormal returns as the instrument for the cumulative returns will also be included as a possible predictor. This procedure is called the two-stage instrumental variables estimation and described by Aktas, N., Bodt, E. and Roll, R. (2004). To obtain the instrument, it is necessary to estimate the dependence of CAR from the same set of variables as for the decision probability. After running this regression, the predicted CAR can be obtained and included into the probit- and logit- models described above. 
+
+The next step is to predict the probability of intervention and run a regression of the actual CAR generated around the merger announcement on this probability of intervention. The idea is similar to the Heckman’s lambda (Heckman, J., 1979). If the coefficient of the probability is positive, then the endogeneity problem does exist. Moreover, the last model will be estimated by both OLS and truncated techniques in order to investigate the problem of self-selectivity discussed above. 
+
+
+
+
+Data 
+
+
+
+To analyze the reaction of Russian stock market on merger events, a sample based on the Zephyr (Bureau van Dijk) search strategy was constructed. The main advantage of Zephyr database is the availability of merger announcements dates. First of all, all the mergers, acquisitions, and minority stakes that had taken place, been announced or been withdrawn between 2005 and 2014 years were chosen. The next step was to select those transactions, in which at least one of the participated companies was Russian company. After that, at least one of the merging firms needed to be a public stock company in order to do the event study technique applicable. Finally, the number of transactions was limited by only those ones, which were scrutinized by the Federal Antimonopoly Service, because vast number of deals were not subject to control of the FAS. As a result, the sample includes 230 observations. The timing distribution of the transactions based on the year of completion of a deal is presented in the Table 2.
+
+Table 2
+
+The Timing Distribution of the Sample
+
+
+
+In spite of the variety of advantages of the Zephyr database, many of the transaction there missed the dates of the FAS’s decisions and/or the type of decision. Therefore, all the transactions were subjected to the auxiliary check using the FAS’s official website. However, it was not possible to find the decision dates for several transactions. As a result, a set of three sub-samples will be analyzed in the present paper. The first sub-sample includes 126 transactions with specified dates of the initial merger announcement. The second one consists of 200 observations that have a stated date of the FAS’s decision. Finally, the third sub-sample includes 97 transactions that have both dates identified. The Table 3 demonstrates the frequency of outright approvals, remedies and prohibitions that fell into the sample. There is no division of remedies into structural and behavioral due to their little number in both sample and population, so such separation is likely to make results insignificant. 
+
+
+
+
+
+Table 3
+
+Decision Distribution
+
+
+
+After constructing the sample, the quotations needed to be collected. The source was “Finam”, Russian investment holding providing financial services and data. Different sets of stock prices were obtained. To estimate betas, we used 200 daily observations starting from 250 days before the merger announcement. 50 days before the announcement were excluded because the merger information might influence stock prices (Aktas, N., Bodt, E. and Roll, R., 2004). To estimate the abnormal returns around the events, two windows were investigated: a wider and a shorter one, which is a common approach in the event study (Maquieria, C., Megginson, W. and Nail, L., 1998; Tsytsurina, D., 2012; Duso, T., Gugler, K. and Yurtoglu, B., 2011). The wider window includes 20 days before an event and 20 days after, while the shorter one – 5 days before and 5 days after the event. The use of wider windows allows catching the reaction to possible rumors and information leakages.  As a market portfolio for Russian firms, the MICEX Index (Moscow Interbank Currency Exchange) was employed (see the exception in the robustness check section). Since several companies involved in the mergers do not operate today, it appeared to be impossible to collect stock prices for them. For this reason, prohibitions will not be analyzed in this paper. 
+
+To identify the rivals, we took into account both product and geographic borders of markets. The product borders were determined based on the Russian Industry Classification Standards. After that, the information provided by the RosBusinessConsulting (RBC) agency, which is the Russian analogue for YahooFinance and MarketWatch, were used to reveal the publicly traded competitors of the merging companies. 
+
+As it was mentioned in the methodology section, the problem of endogeneity will be investigated through this research. To enable doing it, a set of additional variables needed to be collected. The choice of the variables was based on the studies of Aktas, N., Bodt, E. and Roll, R. (2004) and Duso, T., Gugler, K. and Yurtoglu, B. (2011). These can be divided into two groups. The first group includes the financial information about the target company: the value of total assets and the revenues obtained during the fiscal year prior to the transaction. These indicators may primarily influence the decision made by the FAS, because higher valued targets may result in higher market power of the combined firm (Andreasson, J. and Sundqvist, C., 2008; Bougette, P. and Turolla, S., 2006). The second group of variables characterizes each particular transaction. First of all, it comprises the estimated value of a deal, which may make impact on both the decision and the investor’s anticipations about the deal, i.e. the abnormal returns (Aktas, N., Bodt, E. and Roll, R., 2004). Moreover, there is a variable indicating the vertical transactions, as they are supposed to make less significant impact on the competition level (Eckbo, E., 1983; Tsytsulina,D.,  2012). All the financial data were extracted from the Zephyr. The main advantage of this source comparing to the ordinary annual financial reports is linked to the fact that all the companies are subject to the financial audit (due diligence), so this information can be considered as correct. Finally, there are industry dummies and indicator of whether a bidder company is Russian or not. These variables may act as institutional characteristics (Bergman, M., Jakobsson, M. and Razo, C., 2005) and affect both decision of the antimonopoly body and the investors reaction. For example, industry dummies may account for entry barriers, which should be considered by the FAS when making a decision. Appendix 2 contains the descriptive statistics, industries description, and indistry distribution. 
+
+All the collected data were subjected to the econometric analysis using the R and STATA12 software.
+
+
+
+Empirical Results
+
+
+
+6.1 Initial Merger Announcement
+
+
+
+Our first findings relate to the reaction to the initial merger announcements and are presented in the Table 4. Since the CAR’s are not normally distributed (see Appendix 3 for normality check), we cannot rely on results of the ordinary Student’s t-test. Therefore, the bootstrap technique was implemented to tackle this problem. We used 1000 bootstrap sample of the same size as the original one to estimate the bootstrapped  t-statistic and corresponding p-values, which are presented in the Table 4. 
+
+
+
+
+
+
+
+Table 4
+
+Reaction to the Merger Announcements
+
+Notes: *Significant at 1%-level **Significant at 5%-level ***Significant at 10%-level
+
+
+
+The study has shown that neither merging companies neither their rivals demonstrate any significance reaction to the merger announcements. Therefore, we should partly reject the H_1 hypothesis about singinicant response to initial merger proposals. These results are contrary to many European studies (for example, Aktas, N., Bodt, E. and Roll, R. 2004; Eckbo, E. 1983), where merging companies had strong positive and significant abnormal returns around the announcement date. In the Russian research (Tsytsulina, D. 2012) merging companies reacted to the announcements significantly only on the day of announcement, while rivals showed strong negative reaction to these events using both short and long windows. However, that research focused only on the metal sector, but the present paper investigates a broad variety of industries. The obtained discrepancy may be attributed to specificity of Russian stock market. First of all, Russian investors may see no great opportunities for increasing future profitability or any threatens (in case of rivals). Another reason may be associated with wrong announcement dates. Finally, the most likely reason for such results is the poor information environment, including insider trading and information leakage, and investor’s inattentiveness, which are common for all emerging markets (Griffin, J., Hirschey, N. and Kelly, P. 2008). Even several European researchers European stock market in existing insider trading (Aktas, N., Bodt, E. and Roll, R. 2004).
+
+We also tested the hypothesis about different responses to horizontal and vertical merger announcements. Estimates are presented in the Table 5.
+
+
+
+
+
+
+
+
+
+
+
+Table 5
+
+Reaction to the Horizontal and Vertical Mergers
+
+Notes: *Significant at 1%-level **Significant at 5%-level ***Significant at 10%-level
+
+
+
+Surprisingly, when we tried to control for vertical mergers, results contradicted many empirical (Tsytsulina, D. 2012) and theoretical studies. They also reject the H_4 hypothesis, which assumed lower significance of vertical agreements. On the one hand, merging companies do not react to horizontal mergers announcements, but they show negative and significant at 10%-level response to vertical agreements, despite obvious benefits of vertical mergers in the form of lower costs (Salinger, M. 1983). At the same time, rivals have no reaction at all, although Riordan, M. (1998) showed that vertical combination may lead to the increase in inputs prices, which implies threatens for competitors. It is difficult to explain this result, but it might be related to negative expectations of investors about the consequences of a deal for a company. The sub-sample consists of 126 transaction, and 15 of them were regarded as vertical ones. Furthermore, almost a third of those vertical mergers (5 cases) was not approved unconditionally by the FAS. Therefore, it is possible to assume that such market response may appear because investors anticipate a higher scrutiny of the government and higher probability of its intervention, so they expect more costly process of combination. This assumption becomes even more sensible when looking at the list of the vertical mergers closer. Many of these deals involve such huge corporations as “Noriskii Nikel”, “Gazprombank” and “OJSC Sistema”. Apparently, big-scope companies are likely to draw high attention of the antimonopoly body. Additionally, a negative reaction can be a reflection of investors’ disapprobation concerning managers’ decision to extend company’s scope. Appendix 4 contains the list of these vertical mergers.
+
+
+
+6.2 Decision Announcement
+
+
+
+The next step was to analyze the stock market reaction to the FAS’s decisions announcements. Results are presented on the Table 6.
+
+
+
+Table 6
+
+Reaction to the Decision Announcements
+
+Notes: *Significant at 1%-level **Significant at 5%-level ***Significant at 10%-level
+
+
+
+Results demonstrate that cumulative abnormal returns of merging companies are significant at the 5%-level in case of unchallenged transactions. Hence, we can partly accept the hypothesis H_1. As for the remedy-decisions, both rivals and participating firms demonstrate negative and significant at 10%-level abnormal returns. These results are consistent with the H_3 hypothesis about negative reaction of merging companies to remedies. We cannot accept the hypothesis H_2 because rivals demonstrated significant reaction to neither initial merger announcement nor further decision declaration.
+
+Let us first discuss the merging companies. We can see the positive and significant response to outright decision. It can mean that Russian investors perceive this decision as a feasible opportunity to fulfill the benefits from the deal and increase the profitability. These results differ from European ones. For example, Duso, T., Gugler, K. and Yurtoglu, B. (2011) showed that market did not react to the unconditional clearance. Moreover, significant and positive reaction may indicate the type II errors made by the FAS, because it approved the deals, which are likely to increase the market power of the merged companies. Talking about the decision of giving remedies, the negative reaction can mean that this is a bad news for merging companies because such decision implies extra costs, so decreasing the abnormal returns, which demonstrate the elimination of rents generated initially due to increased opportunities to monopolize the market. 
+
+As for competitors’ reaction, they only show significant response to giving remedies in the short window. It can indicate the anticompetitive mergers, which created benefits for rivals as well, however, the decision of giving remedies successfully destroyed the abnormal rent to the certain extent. Similar results were also obtained by Duso, T., Gugler, K. and Yurtoglu, B. (2011) for European companies. 
+
+
+
+6.3 The Relationship between Generated CAR
+
+
+
+Using the available results, it is still quite difficult to make any inferences about the effects of merger regulation. Therefore, in this study, we applied a novel approach developed by Duso, T., Gugler, K. and Yurtoglu, B. (2011), which none of the researches (except for its inventors) have implemented before. This concept was described in details in the hypotheses section. Its main idea is to estimate a linear regression of the CAR generated around the decision announcement on the CAR caused by the initial merger proposal and to analyze the phenomena of rent reversion. Results are presented in Table 7 and Table 8. Table 7 serves for the long window, and Table 8 – for the short one. We employed the Newey-West sandwich estimator to obtain reliable standard errors, which are robust to heteroscedasticity and autocorrelation.
+
+Table 7
+
+Relationship between Generated Rents for the Long Window
+
+Notes: *Significant at 1%-level **Significant at 5%-level ***Significant at 10%-level. The Newey-West corrested standard errors are presented in parentheses.
+
+
+
+As we can see from the Table 7 and 8, the use of different windows enables to catch various relationships. In both cases, the slope is positive and significant at the 1%-level for merging companies in case of remedies-decision. Among the long window estimates, the slope coefficient for merging firms is also positive and significant at 1%-level. It became insignificant, however, through the short window estimation, but the intercept term in case of remedies appeared to be negative and at 5%-level significant. As for the rivals, there are no significant relationships in case of outright approval. Nevertheless, in both panels the slope coefficients are positive and significant when remedies were given. Only significance dropped from the 1%-level in the long window estimation to the 10%-level in the short window. 
+
+Table 8
+
+Relationship between Generated Rents for the Short Window
+
+Notes: *Significant at 1%-level **Significant at 5%-level ***Significant at 10%-level. The Newey-West corrested standard errors are presented in parentheses.
+
+
+
+The analysis of systematic relationship between generated rents demonstrated surprising results, which are opposite to those gained in the previous section. In contrast to earlier findings (Duso, T., Gugler, K. and Yurtoglu, B., 2011), we observed a systematic and positive dependence between the CAR generated around the merger announcement and the CAR appeared around the announcement of outright approval: the higher is the initially generated rent, the high is the rent around the clearance. These findings can mean that clearance only encourages Russian investors, so they really see greater opportunities for merging companies to increase their market power. As for the remedies, the situation is even more interesting and complicated. The combination of significant negative intercept and significant positive slope reveals that remedies do really imply extra costs to merging companies; however, these remedies are not able to destroy systematically the abnormal rents, i.e. to restore the pre-merger competition level. Therefore, we can interpret earlier obtained negative reaction to the remedy-decision announcements as investors’ instant response to the one-time costs imposed by the remedy. This conclusion is reinforced by the existence of positive and negative slope of rivals, which means that the FAS did not manage to regulate the anticompetitive mergers that created opportunity to increase profitability for both merging firms and their rivals. Taking into account the high frequency of behavioral remedies relative to structural ones in Russia, the results indicate an ineffective use of behavioral remedies, which should act on a permanent basis rather than on one-shot. 
+
+In order to illustrate the possible ineffectiveness of given remedies, let us consider several examples. On the 11th of September 2012, the FAS approved the combination of pharmaceutical companies “Pharmstandart” and “LEKKO” and developed five remedies for this deal:
+
+To guarantee the fulfillment of all existing contracts;
+
+To develop and publish on the company’s official Website a document stating the requirements for future customers and terms and conditions of possible partnerships between the company and its customers;
+
+Not to reduce the production of those goods, which are still demanded by the consumers;
+
+Inform the FAS about the abidance by the first three remedies on an yearly basis;
+
+Inform the FAS about the completion of the merger within 20 days.  
+
+Three of these conditions (№№ 2, 4, 5) do not relate to the idea of restoring the competition and reducing possible negative effects of a merger. They only imply sending notifications to the FAS and placing certain information on the official website. Another two remedies may be considered as attempts to influence competition. However, the Federal Law № 145-FZ “On Protection of Competition” prohibits such behavior for any company, regardless  of whether a transaction occurred or not. It means that remedies imposed to this case just partly replicate the law. Therefore, development of such remedies would not reduce the risks of a merger. Finding matches the observations made by Russian researchers Avdasheva, S. and Kalinina, M. (2012), who asserted that remedies in Russia often have no novelty compared to the antitrust law. Thus, only placing information on the website and sending notifications might be considered as actions imposing some administrative and temporal costs, which were reflected in the negative intercept term. 
+
+Another example may be the deal between “Generating Company № 5” and “Heat Supplying Company of Kirov City” that was cleared with remedies on the 22th of June 2010. Three remedies given then:
+
+To provide a nondiscriminatory access to the heat network for companies producing heat energy;
+
+To provide a nondiscriminatory access to the services for customers;
+
+Not to impose terms and conditions that are unfavorable to consumers.
+
+On the one hand, these remedies seem to be reasonable and able to make demanded effect. However, we face again the same problem mentioned above. If any company discriminated consumers, the FAS would bring an action against this company because this behavior violates the law. 
+
+To sum up this portion of results, we have revealed a reason for possible ineffectiveness of merging imposition. The majority of mergers do not differ significantly from the law, so more profound economic analysis is required when developing any remedies. 
+
+
+
+6.4 Endogeneity and Self-Selectivity
+
+
+
+In this section, we will discuss the results of additional analysis for possible endogeneity and self-selectivity mentioned in the Methodology part. First of all, we estimated the regression of the CAR generated around the merger announcement on the set of variables and obtained the predicted values of the CAR to use them as instrument. The linear correlation coefficient between actual and predicted CAR is ; so the predicted CAR may be considered as a relevant instrument. Results of this step are presented in the Table 9. The bootstrapped standard errors are in the parentheses. 
+
+Table 9
+
+Regression Results for the Actual CAR
+
+Notes: *Significant at 1%-level **Significant at 5%-level ***Significant at 10%-level. The bootstrapped standard errors are presented in parentheses.
+
+
+
+As we can see, industry dummies are significant at 1%-level. Particularly, investors react negatively when electricity producing companies and media holding intend to get involved in business combinations. 
+
+After that, we estimated the relationship between the decision type and the estimated CAR controlling for other variables. Both probit- and logit-models were employed, but only logitmodel’s coefficients are reported due to slightly higher model significance and bigger area under the ROC-curve (0,788 vs. 0,795). The estimation was performed using the Maximum Likelihood procedure in the STATA12 package. The model predicts correctly 85,1% of outcomes. Appendix 5 provides a more detailed model comparison.
+
+Table 10
+
+FAS’s Decisions Determinants
+
+Notes: *Significant at 1%-level **Significant at 5%-level ***Significant at 10%-level. The bootstrapped standard errors are presented in parentheses.
+
+
+
+Insignificance of coefficient of predicted CAR demonstrates that the FAS does not take into account the initially generated rents, but does pay attention to the estimated value of the deal and target’s revenue, which corresponds with the results of other studies (e.g. Bergman, M., Jakobsson, M. and Razo, C. 2005; Bougette, P. and Turolla, S. 2006).
+
+Table 11 presents results of the last step. The relationship between actual CAR and the predicted probability of giving remedies was estimated. Moreover, the truncated regression was employed to account for possible self-selection bias. 
+
+
+
+
+
+
+
+Table 11
+
+Relationship between CAR and Probability of Intervention
+
+Notes: *Significant at 1%-level **Significant at 5%-level ***Significant at 10%-level. The bootstrapped standard errors are presented in parentheses.
+
+
+
+Since the probability’s coefficient is insignificant, we can conclude that investors do not take into account the probability of intervention. Together with the previous regression, it means that there is no endogeneity in the analyzed data. Thus, we can rely on the results obtained in the previous sections. As for the self-selectivity bias, the second set of estimated coefficients presented in Table 11 demonstrates that all the estimates keep their signs and levels of significance. Particularly, the coefficient of the probability of giving remedies is still insignificant, so verifying the fact that investors initially do not consider that probability of government intervention, whereas coefficient of a deal’s value remain positive and significant at the 5%-level and effect of foreign companies does not change its positive sign and 1%-significance level as well. The stability of the signs and significance levels means the absence of self-selectivity bias in the analyzed dataset. 
+
+
+
+6.5 Robustness Check
+
+
+
+In this section, the results of the robustness check are presented. We analyzed the sensitivity of the estimated abnormal returns to the selected model of the normal return. While the main results are based on the market model, now we use the constant return model:
+
+.                                                                     (13)
+
+Results are presented on Tables 12 and 13.
+
+Table 12
+
+Reaction to the Merger Announcements
+
+* Notes: *Significant at 1%-level **Significant at 5%-level ***Significant at 10%-level
+
+
+
+
+
+Table 13
+
+Reaction to the Decision Announcements
+
+Notes: *Significant at 1%-level **Significant at 5%-level ***Significant at 10%-level
+
+
+
+The additional analysis showed completely the same results in terms of signs and their significance as were obtained initially. Therefore, collected estimates are robust to the choice of the normal return model. This fact increases the reliability of the results. 
+
+
+
+
+Discussion of Results
+
+
+
+The results of our research show that reaction of Russian stock market to merger events differ remarkably from findings made by researchers in the European Union or Canada and the United States. On the whole, we have obtained several surprising and nontrivial findings. 
+
+Overall, three most significant conclusions can be derived from this study. Firstly, our observations provide additional suspicion of existence of insider trading and poor informational environments, which is quite common for all developing markets (Griffin, J., Hirschey, N. and Kelly, P. 2008). The absence of stock market reaction to initial merger announcement also raises a question about the accuracy of merger proposals dates. 
+
+Secondly, the results of the third step of our research partly confirm previous findings of Russian researchers (Avdasheva, S. and Kalinina, M., 2012) and contributes additional evidence, which suggests ineffectiveness of the remedies given by the FAS during the observed period. 
+
+Thirdly, the analysis of  possible endogeneity has demonstrated that the stock market does not takes into account the probability of the FAS’s intervention. Moreover, the FAS does not consider the initial investors’ response to merger announcementOn the one hand, the absence of investors’ anticipations about future FAS’s actions may again indicate investors’ inattentiveness, but at the same time it can be interpreted as a consequences of intransparency of FAS’s regulation procedure. Moreover, the finding that the FAS does not take into consideration the initial investors’ reaction may indicate that FAS does not pay attention to important economic phenomena that are worth being examined. 
+
+The last two findings of our study may have a number of important implications for future practice of merger regulation in Russia. Currently, given remedies seem to be relatively formal and not specific for particular merger. The reason for that can be associated with sort of education gained by officers working at the FAS. Most of them are lawyers, rather than economists. Therefore, the FAS needs to enhance its procedure of merger control with more profound economic reasoning. An obvious way to put this recommendation into practice is to hire specialists with economic background. 
+
+Finally, a number of important limitations of our research need to be considered. First of all, with a small sample size, caution must be applied, as the findings might vary considerably over different samples. For example, the study of Tsytsulina, D. (2012) demonstrated stronger stock market response using sample of about 60 transactions. Moreover, when using the external databases, such as Zephyr or Thompson Reuters, no one can guarantee the accuracy of initial merger announcements. Secondly, the current research was not specifically designed to check the applicability of the event study methodology to Russian stock market data. However, our results highlighted that this problem is worth addressing. Furthermore, we did not pay attention to the problem of heteroscedasticity of abnormal returns when analyzed their significance due to complexity of this question. Several authors analyzed the ways to deal with this issue (e.g. Boehmer, E., Musumeci, J. and Poulsen, A., 1979), however, there is still no agreement about the most effective method of accounting for heteroscedasticity in the event studies. 
+
+
+
+
+Conclusion
+
+
+
+An econometric appraisal of merger regulation has been increasingly popular during the recent years. Researchers has developed several approaches to tackle this problem. Each of these techniques allows for making different sorts of inferences about the state control of mergers and acquisitions. Specifically, the approach based on the discrete choice models analysis reveals the factors influencing the decision-making process of an antimonopoly body, so providing opportunity to analyze whether the antimonopoly body’s activity corresponds with its primary antimonopoly goals. On the other hand, the event study gives insights about the effectiveness of regulation by observing the reaction of the (relatively) efficient and independent stock market.
+
+The present study focused on the assessment of the Russian merger regulation by examining the stock market response to such merger events, as initial merger announcement and following publication of the FAS’s decisions. To our knowledge, this research is the first attempt to quantitatively assess the merger control in Russia. It combines both the event study and discrete choice models approaches. However, the main emphasis has been made to the event study technique because its major advantage is the the objectivity of the data provided by the stock market. The discrete models act as additional tool enabling testing of reliability of the results.
+
+The data for empirical analysis were collected using the Zephyr database and the open FAS’s decisions database. The whole sample contains 230 transactions that occurred between 2005 and 2014 in Russia. We also used the Finam in order to obtain companies’ quotations for the event study investigation.
+
+The empirical analysis comprised four major stages. The first one was to analyze the stock market reaction to initial merger proposals. Then, the examination of the response to the FAS’s decisions announcements was performed. Third, we looked at the systematic relationship between the rents generated around these two event. Finally, we addressed the problem of endogeneity and self-selectivity using the discrete choice model approach. 
+
+The author gained mixed results. First of all, using the sub-sample of 126 cases with available merger announcements, we found that the stock market did not react to the initial merger announcement. Moreover, we also found that investors of large merging companies reacted negatively to the announcement of vertical mergers. At the same time, rivals did not react to any initial announcements regardless of controlling for horizontal and vertical combinations. These findings contradict results of many existing studies. 
+
+Talking about decision announcements available for 200 transactions, we observed positive and significant reaction to the outright clearance by the merging companies. However, this fact may also indicate the type II errors made by the FAS, i.e. accepting the anticompetitive mergers. Both merging firms and competitors reacted negatively to the decision of imposing remedies, so the market reacted extra costs, which corresponds to the basic goals of the remedies. 
+
+On the other hand, the analysis of systematic relationship between CAR generated around merger and decision announcements refused the previously mentioned assumption about an effective use of remedies, because this examination revealed the positive systematic dependence between them for both merging firms and rivals in case of giving remedies, while the intercept for merging companies was negative and significant. This finding can mean the ineffectiveness of remedies, because they do impose some costs on the merging firms, but do not lead to the rent reversion, so saving the opportunity for increasing the market power and profitability. 
+
+We also concluded that there is no endogeneity problem in the dataset, because neither investors take into account the FAS’s probability to intervene nor the FAS pays attention to the initially generated abnormal profits around the merger announcements. We also concluded the our sample does not suffer from the self-selectivity.
+
+The author believes that results of this research may be valuable and interesting for the Federal Antimonopoly Service because they identified the shortcomings in the current merger control procedure. Furthermore, the statistical outcomes resulted from this study may be useful for future studies devoted to the assessment of the merger regulation in Russia.
+
+The most fruitful directions of further research might be as follows. First of all, collection of a larger sample of transactions is highly recommended. This may be done manually by analyzing various news sources. Furthermore, an additional examination of different estimation windows may be performed in order to analyze the sensitivity of Russian stock market data to the estimation period. These refinements would provide more reliable and robust results. In addition, the obtained results can be used in order to identify type I and type II errors. This would allow for analysis of factors effecting the frequency of occurrence of these errors can be investigated and developing further recommendation for the antimonopoly body. 
+
+
+
+
+
+
+References 
+
+Legislation
+
+Federal Law №135-FZ of July 16th, 2006 "On Protection of Competition". Adopted by the State Duma on July 8, 2006. 
+
+Order N108 «On Approval of the Proceedings of Analysis and Assessment of Competition Environment on Goods Markets». Adopted by the FAS on October 6, 2006.
+
+
+
+Special Literature
+
+Aktas, E. and Derbaix, A. (2003) “Horizontal, downstream and upstream effects of merger & acquisition operations in the car industry”, Banque et Marché, Vol. 69, pp. 40–49.
+
+Aktas, N., Bodt, E. and Roll, R. (2004) “Market Response to European Regulation of Business Combinations”, The Journal of Financial and Quantitative Analysis, Vol. 39 No. 4, pp. 731-757.
+
+Amihud, Y. (1986) “Conglomerate Mergers, Managerial Motives and Stockholder Wealth”, Journal of Banking & Finance, Vol. 10 No. 3, pp. 401-410.
+
+Andreasson, J. and Sundqvist, C. (2008) “The Impact of the 2004 EC Merger Regulation. An Empirical Study”, Stockholm University, Working Paper, pp. 1-29.
+
+Asch, P. (1975) “The Determinants and Eﬀects of Antitrust Activity”, Journal of Law and Economics, Vol. 18 No. 2, pp. 575-581.
+
+Avdasheva, S., Shastitko, A. and Kalmychkova, E. (2007) “Economic Foundation of Antitrust Policy”, Economic Journal of the Higher School of Economics, Vol. 3, pp. 381-424.
+
+Bergman, M., Jakobsson, M. and Razo, C. (2005) “An Econometric Analysis of the European Commission’s Merger Decisions”, International Journal of Industrial Organization, Vol. 23. No. 9, pp. 717-737.
+
+Boehmer, E., Musumeci, J. and Poulsen, A. (1991) “Event-Study Methodology under  Conditions  of Event-Induced  Variance”,  Journal of Financial  Economics,  Vol. 30, pp. 253272.
+
+Bougette, P. and Turolla, S. (2006) “Merger Remedies at the European Commission: A Multinomial Logit Analysis”, LAMETA Working Paper, pp. 1-28.
+
+Brady, U. and Feinberg, R. (2000) “An examination of stock-price effects of EU merger control policy”, International Journal of Industrial Organization, Vol. 18, pp. 885-900.
+
+Brown, S. and Warner, J. (1985) “Using daily stock returns. The case of event studies”, Journal of Financial Economics, Vol. 14, pp. 3–31. 
+
+Cameron, A. and Trivedi, P. (2005) Microeconometrics. Methods and Applications, Cambridge University Press.
+
+Coate, M., Higgins, R. and McChesney, F. (1990) “Bureaucracy and Politics in FTC Merger Challenges”, Journal of Law and Economics, Vol. 33 No. 2, pp. 463-482.
+
+Crooke, P., Luke, F., Tschantz, S. and Werden, G. (1999) “Effects of Assumed Demand Form on Simulated Postmerger Equilibria”, Review of Industrial Organization, Vol. 15, pp. 205–217
+
+Duso, T., Gugler, K. and Yurtoglu, B. (2011) “How Effective Is European Merger Control?”, European Economic Review, Vol. 55, pp. 980-1006.
+
+Duso, T., Gugler, K. and Yurtoglu, B. (2010) “Is the event study methodology useful for merger analysis: a comparison of stock market and accounting data”, International Review of Law and Economics, Vol. 30 No. 2, pp. 186–192.
+
+Duso, T., Neven, D. and Roller, L. (2007) “The Political Economy of European Merger Control: Evidence using Stock Market Data”, International Review of Law and Economics, Vol. 30 No. 2, pp. 186-192.
+
+Eckbo, E.B. (1983) “Horizontal Mergers, Collusion, and Stockholder Wealth”, Journal of Financial Economics, Vol. 11, pp. 241-273.
+
+Eckbo, E.B. and Wier, P. (1985) “Antimerger Policy under the Hart-Scott-Rodino Act: A Reexamination of Market Power Hypothesis”, Journal of Law & Economics, Vol. 28, pp. 119-149.
+
+Eckbo, E.B., Maksimovic, V. and Williams, J. (1990) “Consistent Estimation of Cross-Sectional Models in Event Studies”, Review of Financial Studies, Vol. 3, pp. 343-365.
+
+Ellert, J. (1976) “Mergers, antitrust law enforcement and stockholder returns”, Journal of Finance, Vol. 31, pp. 715-732.
+
+Fama, E.F. (1970) “Efficient Capital Markets: A Review of Theory and Empirical Work”, The Journal of Finance, Vol. 25 No. 2, pp. 383-417.
+
+Fama,  E.F., Fisher,  L., M.C. Jensen and Roll, R. (1969) “The Adjustment of Stock Prices to New Information”, International Economic Review, Vol. 10, pp. 1-21.
+
+Farrell, J. and Shapiro, C. (1990) “Horizontal Mergers: An Equilibrium Analysis”, The American Economic Review, Vol. 80 No. 1, pp. 107-126.
+
+Fridolfsson, S. and Stennek, J. (2005) “Why mergers reduce profits and raise share prices”, Journal of the European Economic Association, Vol. 3, pp. 10831104.
+
+Green, W.H. (2003) Econometric Analysis, Englewood Cliffs, NJ: Prentice-Hall.
+
+Griffin, J., Hirschey, N. and Kelly, P. (2008) “Why does the Reaction to News Announcements Vary across Countries?”, University of Texas at Austin, Working Paper, pp. 1-61.
+
+Griffin, J., Kelly, P. and Nardari, F. (2010) “Do Market Efficiency Measures Yield Correct Inferences? A Comparison of Developed and Emerging Markets”, The Review of Financial Studies, Vol. 23 No. 8, pp. 3225-3277.
+
+Gugler, K. and Siebert, R. (2004) “Market power versus efficiency effects of mergers and research joint ventures: evidence from the semiconductor industry”, Working Paper 10323, pp. 1-36.
+
+Hall, S., Urga, G. and Zalewska-Mitura, A. (1998) “Testing for Evolving Stock Market Efficiency with an Application to Russian Stock Prices”, Discussion Paper No. DP 12-98, pp.1-29.
+
+Harberger, A. (1954) “Monopoly and Resource Allocation”, The American Economic Review,Vol. 44 No. 2, pp. 77-87 
+
+Heckman, J. (1979) “Sample Selection Bias as a Specification Error”, Econometrica, Vol. 47, pp. 153-161.
+
+Long, W., Schramm, R. and Tollison, R. (1973) “The Economic Determinants of Antitrust Activity”, Journal of Law and Economics, Vol. 16 No. 2, pp. 351-364.
+
+MacKinlay, A. (1997) “Event Studies in Economics and Finance”, Journal of Economic Literature, Vol. 35, pp. 13-39.
+
+Maquieria, C., Megginson, W. and Nail, L. (1998) “Wealth creation versus wealth redistributions in pure stock-for-stock mergers”, Journal of Financial Economics, Vol. 48 No. 1, pp. 3–33.
+
+McAfee, R.P., Williams, M.A., 1988. Can event studies detect anticompetitive mergers? Economic Letters 28, 199–203.
+
+Motta, M. (2004) Competition Policy: Theory and Practice, Cambridge: Cambridge University Press.
+
+Myers, J. and Bakay, A. (1948) “Influence of Stock Split-Ups on Market Price”, Harvard Business Review, pp. 215-265. 
+
+Perry, M. and Porter, R. (1985) “Oligopoly and the Incentive for Horizontal Merger”, The American Economic Review, Vol. 75 No. 1, pp. 219-227.
+
+Pogozheva, A.A. (2013) “Event Study Analysis Application for Testing of the Information Value of Analyst Recommendations on Russian Public Companies”, Journal of Corporate Finance Research, Vol. 2 No. 26, pp. 32-45.
+
+Postema, B., Goppelsroeder, M. and  Bergeijk, P. (2006) “Cost and Benefits of Merger Control: An Applied Game Theoretic Perspective”, KYKLOS, Vol. 59 No. 1, pp. 85-96.
+
+Rioridan, M.H. (1998) “Anticompetitive Vertical Integration by a Dominant Firm”, The American Economic Review, Vol. 88 No. 5, pp. 1232-1248.
+
+Salant, S., Switzer, S. and Reynolds, R. “Losses from Horizontal Merger: The Effects of an Exogenous Change in Industry Structure on Cournot-Nash Equilibrium”, The Quarterly Journal of Economics, Vol. 98 No. 2, pp. 185-199.
+
+Salinger, M. (1988) “Vertical Mergers and Market Foreclosure”, The Quarterly Journal of Economics, Vol. 103 No 2, pp. 345-356.
+
+Siegfried, J. (1975) “The Determinants of Antitrust Activity”, Journal of Law and Economics, Vol. 18 No. 2, pp. 559-574. 
+
+Simpson, J. (2001) “Did May company’s acquisition of associated dry goods corporation reduce competition? An event study analysis”, Review of Industrial Organization, Vol. 18, pp. 351–362.
+
+Solvin M., Sushka, M. and Hudson, C. (1991) “Deregulation, contestability, and airline acquisitions”, Journal of Financial Economics, Vol. 30 No. 2, pp. 231-251.
+
+Stigler, G. (1950) “Monopoly and oligopoly power by merger”, American Economic Review, Vol. 40, pp.23-34.
+
+Sushkevich, А. (2012) “Ex-post assessment of antitrust regulation as a part of administrative procedure”, Economic Policy, Vol. 1, pp. 159-171.
+
+Scholes, M. and Williams, J. (1977) “Estimating Beta from Nonsynchronous Data”, Journal of Financial Economics, Vol. 5, pp. 309-327.
+
+Shastitko, А. (2012) “Type I and type II errors in merger control”, Economic Policy, Vol. 1, pp. 95-117.
+
+Shastitko, А. (2011) “Ex-post assessment of merger control”, Russian Competition Law and Economy, Vol. 3, pp. 41-51.
+
+Trautwein, F. (1990) “Merger Motives and Merger Prescriptions”, Strategic Management Journal, Vol. 11 No. 4, pp. 283-295.
+
+Tsytsulina, D. (2012) “The Expected Effects of Mergers in Metal Industry: an Empirical Research”, Applied Econometrics, Vol. 3 No. 27, pp. 70-85.
+
+Verbeek, M. (2012) A Guide to Modern Econometrics, Jogn Wiley and Sons Ltd.
+
+Weir, C. (1992) “Monopolies and merger commission, merger reports and the public interest: Probit analysis”, Applied Economics, Vol. 24, pp..27 – 32.
+
+Williamson, O. (1968) “Economies as an Antitrust Defense: The Welfare Trade-offs”, The American Economic Review, Vol. 56, pp. 18-36.
+
+Electronic Sources
+
+Annual Reports of the Federal Antimonopoly Service, available at: .
+
+Balto, D. and Parket, R. (2000) “The Evolving Approach to Merger Remedies”, available at: . 
+
+European Commission. Merger Remedies Study (2005), available at: .
+
+European Commission. Merger Statistics, available at: . 
+
+Federal Antimonopoly Service, The Official Website, available at: .
+
+Finam, The Official Website: .  
+
+RosBusinessConsulting, The Official Website, available at: .
+
+Russian Industry Classification Standards, available at: . 
+
+Zephyr Database, Bureau van Dijk, available at: .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appendices
+
+Appendix 1
+
+Binary Choice Models
+
+In this paper, we employed the binary choice models on order to identify the factors taken into account by the Federal Antimonopoly Service. Within the framework of the present study, the dependent variable takes two values:  in case of outright approval and , if remedies were given. In this Appendix, we provide some theoretical foundations of binary choice modelling.  
+
+The binary choice models investigate the dependence of probability of positive outcome  on the set of explanatory variables and unknown coefficients: 
+
+
+
+,                        	                                     (1)
+
+                    where:  is a function describing the relationship.   
+
+
+
+The domain of this function lies between zero and one. This allows one to interpret the predicted probability values. Usually, the function  is the distribution function of a latent continues variable :
+
+
+
+.                                     	              (2)
+
+
+
+The introduction of this latent variable enables one to analyze the behavior of the dependent variable . So,  when the value of the latent variable exceeds a certain threshold value . It can be written as (Verbeek, M. 2012):
+
+
+
+                                                                             (3)
+
+
+
+Assuming the identical and symmetric distribution of an error term, we can obtain the following expression:
+
+
+
+.               (4)
+
+
+
+Since parameters  and  cannot be identified separately, a common solution is to assume . 
+
+Usually, the function  is either the function of standard normal distribution: , or the function of logistic distribution: . In the first case we deal with a probit-model, whereas in the second one – with a logit-model. 
+
+The estimation of these models is performed using the Maximum Likelihood Method. The obtained estimates are biased but asymptotically consistent, asymptotically efficient and asymptotically normally distributed. As a result, the direct interpretation of the coefficients is not possible. To quantitatively interpret results, the marginal effects can be found. These reflect the sensitivity of probability of a positive outcome to changes in one of the explanatory variables:
+
+
+
+ ,                          	                          (5)
+
+where:  is the density function. 
+
+
+
+
+
+
+Appendix 2
+
+Supplementary Data Description
+
+The Table 1 contains the descriptive statistics of the variables, Table 2 presents the industries description, and the Figure 1 demonstrates the industry structure. Table 1 serves for only 126 transactions that have the stated date of merger announcement (see the discussion of the endogeneity problem in the methodology section), while Figure 1 describes the industry distribution of the whole sample. 
+
+Table 1
+
+Summary Statistics1
+
+1This table serves for only 126 observations with available initial merger announcements dates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 2
+
+Description of Industry Dummies
+
+
+
+
+
+
+
+Figure 1. Industries distribution of the whole sample
+
+
+
+
+
+
+Appendix 3
+
+Tests for Normality of Cumulative Abnormal Returns
+
+This appendix provides results of tests for normality of CARs. We used the Jarque-Bera test and histograms of distributions. The null hypothesis of the Jarque-Bera test is normality of observations, hence low p-values mean rejection of the null hypothesis and nonnormality of data. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appendix 4
+
+Table 1
+
+List of Vertical Mergers with Available Merger Announcements Dates
+
+
+
+
+
+
+Appendix 5
+
+Logit- and Probit-Models Postestimation
+
+Usually, logit- and probit-models give similar results (see Table 1 for basic comparison based on the Akaike and Bayesian information criteria and the log-likelohood value), so it is quite difficult to choose one of these models. A common way to make the decision is to use the ROC (Receiver Operation Characteristic)-curve. It reflects the relationship between correctly and incorrectly predictions of the dependent variable. The Y-axis of the graph depicts the fraction of correctly classified values  . The X-axis shows the fraction of incorrectly specified values as the threshold value varies (Cameron, A. and Trivedi, P., 2005). The area under the ROC-curve characterizes the quality of model. So, the higher is the area, the better the model is. Figure 1 below demonstrate the ROC-curve for our probitmodel, Figure 2 – for logit-model. The area under the second curve is higher, so we prefer the logit-model. 
+
+Table 1
+
+Comparison Criteria for Binary Choice Models Estimated
+
+
+
+
+
+
+
+Figure 1. ROC-curve for probit
+
+
+
+Figure 2.  ROC-curve for logit
+
+ 
+
+
+
+
+
+
+
+Appendix 6
+
+Example of the Script to Conduct an Event Study in R Software
+
+
+
+#activate the package allowing downloading Russian stock market data from the Finam
+
+library(rusquant)
+
+#Function to use lagged variables
+
+shift<-function(x,shift_by){
+
+  stopifnot(is.numeric(shift_by))
+
+  stopifnot(is.numeric(x))
+
+  if (length(shift_by)>1)
+
+    return(sapply(shift_by,shift, x=x))
+
+  out<-NULL
+
+  abs_shift_by=abs(shift_by)
+
+  if (shift_by > 0 )
+
+    out<-c(tail(x,-abs_shift_by),rep(NA,abs_shift_by))
+
+  else if (shift_by < 0 )
+
+    out<-c(rep(NA,abs_shift_by), head(x,-abs_shift_by))
+
+  else
+
+    out<-x
+
+  out
+
+}
+
+#Download quotation of “Megafon” to estimate beta
+
+getSymbols(Symbols="MFON", from="2013-05-10", to="2013-11-26", src="Finam", period="day")  
+
+#Transform stock prices into log-returns and set them as time-series data
+
+MFON.lr<-diff(log(MFON[,4]))
+
+MFON.lr<-ts(MFON.lr)
+
+#To do the same for the MICEX Index
+
+MICEX.lr<-diff(log(MICEX[,4]))
+
+MICEX.lr<-ts(MICEX.lr)
+
+#Estimate consistent beta 
+
+lm1=lm(MFON.lr~MICEX.lr)
+
+lm2=lm(MFON.lr~shift(MICEX.lr,-1))
+
+lm3=lm(MFON.lr~shift(MICEX.lr,+1))
+
+cor=acf(MICEX.lr, na.action=na.pass,plot=F)$acf[2] #extract the first-order autocorrelation coefficient
+
+beta=(coef(lm1)[2]+coef(lm2)[2]+coef(lm3)[2])/(1+2*cor)
+
+#Additional variables indicating the length of time-series
+
+n=length(MFON.lr)
+
+nn=length(MICEX.lr)
+
+#Estimate consistent alpha
+
+a=mean(MFON.lr[2:(n-1)], na.rm=T)-beta*mean(MICEX.lr [2:(nn-1)], na.rm=T)
+
+#Obtain quotations for the short event window
+
+getSymbols(Symbols="MFON", from="2014-01-08", to="2014-01-22", src="Finam", period="day") 
+
+MFON.lr<-diff(log(MFON[,4]))
+
+MFON.lr<-ts(MFON.lr)
+
+getSymbols(Symbols="MICEX", from="2014-01-08", to="2014-01-22", src="Finam", period="day")
+
+MICEX.lr<-diff(log(MICEX[,4]))
+
+MICEX.lr<-ts(MICEX.lr)
+
+#Calculate the abnormal returns
+
+ar1=MFON.lr-a-beta*MICEX.lr
+
+#Calculate the cumulative abnormal returns
+
+car1=sum(ar1,na.rm = TRUE)
+
+#Create an array of CARs
+
+CAR=c(car1,car2,car3,car4,car5,car6,…)
+
+#Test of significance of CARs
+
+t.test(CAR)

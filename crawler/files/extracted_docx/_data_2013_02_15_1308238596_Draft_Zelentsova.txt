@@ -1,0 +1,279 @@
+National Research University - Higher School of Economics
+
+Faculty of Business Informatics
+
+Corporate Information Systems Department
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DRAFT
+
+of the paper
+
+«Typical Solution for a Commercial Loan Processing in Banks of Russian Federation»
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Student: Zelentsova, V.K.
+
+Group 472
+
+Supervisor: Naroditskiy, A.I.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2013
+
+
+
+Table of contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+Use of information technologies is significant for a success of any company. Extensive application of IT in business will result in efficient industry development. This paper is a draft of a research project on implementation of information technologies for financial business. Implementation is reviewed on example of a commercial loan processing particularly in banks of Russian Federation. This work increases our understanding of financial processes and advantages of IT in banking sector.
+
+Keywords: information systems, banking sector, finance, commercial loan, information technologies.
+
+
+
+Introduction
+
+In order to be successful any company needs to be competitive on the global market, it needs to provide fast delivery and high-quality services and products to its customers. Nowadays it is of a crucial importance to use advantages of information technologies in modern business to achieve a maximum performance and an effectual functioning. IT also brings brand new opportunities to act upon and expands the commercial potential of those companies who struggling to dominate on the market.
+
+IT brought enormous changes to a banking and finance sector. Ability to act fast, rapid access to information, automatic computing, etc. provided banks a solution to meet the challenges of a changing world; advances in technology offered an effective and convenient ways of execution of cursory operations. Productivity has increased through various channels: both front-office and back-office operations are improved and more efficient.
+
+The key to success on the financial marketplace is customer service: consumers expect fast, inexpensive, accurate and comprehensive service. The only promising way to satisfy these needs is through intensive use of advanced information technologies. 
+
+The primary aim of this study is to analyze a commercial loan processing in banks of Russian Federation and to elaborate implementation of information technologies in this process. Main research methods applied for this paper are data gathering and analysis.
+
+The structure of this work is the following:
+
+The first chapter covers all primary terms necessary for understanding this study.
+
+The second chapter is aimed on the analysis of a commercial loan processing in banks.
+
+In the third chapter a functionality of technological solution for a loan processing is discussed.
+
+The fourth chapter presents the logic of the following research project on the topic.
+
+The conclusion will summarize all major points of this paper.
+
+Glossary
+
+A bank is a financial institution and a financial intermediary that accepts deposits and channels those deposits into lending activities, either directly by loaning or indirectly through capital markets. [7]
+
+A commercial loan is a debt-based funding arrangement that a business can set up with a financial institution. The proceeds of commercial loans may be used to fund large capital expenditures and/or operations that a business may otherwise be unable to afford. Typical examples of a commercial loan are: a line of credit, term loans and unsecured loans. [6]
+
+An information system is an integrated set of components for collecting, storing, and processing data and for delivering information, knowledge, and digital products. [9]
+
+A core banking system is a back-end system that processes daily banking transactions, and posts updates to accounts and other financial records. [8]
+
+Chapter 1. Loan processing
+
+Commercial loan processing is a complex procedure; a high-level process flow consists of the following stages:
+
+
+
+Chart . Commercial loan processing
+
+
+
+
+
+1. Formation of a client’s loan portfolio
+
+Application for a loan requires a set of documents to process. It varies for different loan types; though, petitioners should most likely provide a loan officer an application form, background information on their business, legal documents, financial statements, bank statements, etc.
+
+2. Economic security department verification
+
+Once the application has been completed, the loan officer submits finished portfolio to an economic security department to check on money laundering and terrorism financing.
+
+3. Credit risk department and Legal department reviews
+
+Next two parallel steps in the process are a credit risk expertise and a legal documents revision. Risks of giving a loan should be evaluated by experts by analyzing a set of various indicators and documents provided by an applicant need to be verified and authenticated.
+
+4. Loan committee approval
+
+The following step is to forward application, loan portfolio risk expertise and legal revision to a loan committee to approve or deny loan based in the provided information and analyses.
+
+5. Account opening
+
+In case the loan is approved, portfolio and other documents are forwarded to an accountant for an approval on an opening an account for a loan and then to a loan officer to create an account in a core banking system.
+
+6. Contract signing
+
+Next, the applicant has to sign the loan documents.
+
+7. Loan transfer
+
+After the signed documents are received, an electronic wire transfer to the applicant’s account or cashier’s check occurs.
+
+8. Loan Closing Control
+
+Every quarter credit risk department submits a loan risk expertise.
+
+
+
+Chapter 2. Technological solution
+
+In order to achieve faster and more efficient process handling a use of information system is recommended. The following functions are to be operated by information system:
+
+automatic task creation for employees;
+
+processing and storing information:
+
+applications,
+
+financial statements, 
+
+loan portfolios, 
+
+loan risk expertises, 
+
+contracts, 
+
+credit committee protocols, 
+
+etc.
+
+providing guidelines and sample materials;
+
+calculations of risk indicators for expertise;
+
+tracking clients’ history.
+
+Chosen system should also meet requirements on performance, stability, security, reliability, application compatibility, etc.
+
+Chapter 3. Project structure
+
+The primary objectives of the graduation paper are following:
+
+to investigate a commercial loan processing;
+
+to analyze functional requirements for information system;
+
+to research examples of system implementation;
+
+to evaluate data and consider future prospects.
+
+The following structure of the paper is planned: 
+
+Introduction
+
+Theory 
+
+Glossary
+
+Banking basics 
+
+Analyses
+
+Commercial loan workflow analysis
+
+Information system functionality requirements
+
+Practice 
+
+Conclusion
+
+Results
+
+Perspectives
+
+Conclusion
+
+Loaning is one of the major income sources for banks; so, it is important to provide a rapid and stable operation workflow considering handling and storage of all received data. Information system needs to be integrated in an organization to solve issues and create advantages. It will increase service quality, work efficiency and facilitate management.
+
+References
+
+Lavrushin, O.I. (2006) Banking
+
+Beloglazova, G.N., Krolivetskaya, L.P. (2005) Banking
+
+Lavrushin, O.I. (2012) Money, loans, banks
+
+Senchagov, V.K. (2002) Finance
+
+Tosunyan, G.A., Vikulin A.U. (2003) Banking and bank regulations
+
+Investopedia < >
+
+Wikipedia <>
+
+Wikipedia < >
+
+Encyclopedia Britannica < >

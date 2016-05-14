@@ -1,0 +1,223 @@
+Scientific Research University
+
+Higher School of Economics
+
+
+
+Faculty of Business Informatics
+
+Department of Business Analytics
+
+
+
+
+
+
+
+DRAFT
+
+of the graduation paper
+
+«Development of information system requirements for automation
+
+business processes in oil and gas industry»
+
+
+
+
+
+
+
+ 
+
+
+
+Student: Bogdan Yur
+
+Group 471
+
+Argument Consultant: PhD, Kuznetsov Valeriy
+
+Style and Lnguage Consultant: Nonna Bagramyants
+
+
+
+
+
+
+
+
+
+
+
+
+
+2013
+
+Abstract
+
+This is a review of the project on the development of the document “functional requirements” for an automated system of monitoring program execution in company related to oil industry. In this paper are discussed the basic concepts, used in the project, goals and objectives, methods of research. This paper focused on the formation of functional requirements, based on the selected system and the specific industry which the company is related to. “Functional requirements” is one of few necessary documents generated during the process of implementation of information system. Functional requirements can exist apart from the specification, but not vice versa, because specification is formed based on functional requirements. The importance of proper writing of such a paper is difficult to underestimate.
+
+
+
+
+
+
+
+
+
+Main terms
+
+An information system (IS) - is any combination of  and people's activities that support operations, management and decision making.
+
+Enterprise resource planning (ERP) systems integrate internal and external  across an entire organization—embracing /, , sales and service, , etc. ERP systems automate this activity with an integrated  application. The purpose of ERP is to facilitate the flow of information between all business functions inside the boundaries of the organization and manage the connections to outside stakeholders. 
+
+Functional requirements - cover the intended behavior of the system, defining the actions that the system is capable of performing.
+
+Goals an purposes
+
+The purpose of the project is the development of functional requirements for automated system of monitoring program execution that can be considered as a standard solution in the development of the implementation project.
+
+As a result a full document “functional requirements” for information system based on Microsoft Navision will be presented. 
+
+SoMPE (system of monitoring program execution) is implemented using the platform Microsoft Dynamics NAV 2009 R2 and is designed to monitor and analyze the state of the objects in programs of RR (re-equipment and reconstruction), overhaul and diagnostic, RMN (repair and maintenance needs) plan at all stages of their life cycle. The main goals of SoMPE are:
+
+Transfer or develop in SoMPE necessary functionality of TMSS (technical and material support system)
+
+To put into operation single SoMPE in the following departments:
+
+The management of construction and major overhaul (MCMO)
+
+Operation management (OM)
+
+The management of technical and material supply (MTMS)
+
+In the management of technical and material supply take out of service technical and material support system (TMSS)
+
+Efficiency criterion of SoMPE development is the fulfillment of the conditions:
+
+In departments MCMO, OM, MTMS according to the planned schedule of performance is put in operation SoMPE, implementing
+
+Centralized management of reference data
+
+Single methodology of maintaining data, used for reports
+
+Single reports generating structure for all subsidiaries
+
+Automatic data aggregation, which received from subsidiaries
+
+Ability to export data into the regulatory reporting forms
+
+One-time data entry for the project and its using during the whole life cycle
+
+TMSS functionality transferred to SoMPE properly
+
+In the management of technical and material supply take out of service technical and material support system (TMSS)
+
+MCMO, OM, MTMS use SoMPE. TMSS and manual adjustment of the MS Excel forms applied in a minimum volume
+
+Relevance of the subject
+
+IT-Consulting – is a rapidly growing area that is relevant to both business processes and IT infrastructure, and their interaction. Using different information systems can improve business efficiency, intelligently allocate and manage resources, and most importantly, to increase the company's profits.
+
+Various information systems that solve a variety of tasks, often used in parallel within an enterprise, moreover information systems from different vendors can be integrated. Systems are segmented by different parameters, for instance: the area of business, the number of users, infrastructure component (recently becoming more popular systems, working on the SAS principle) and so on. Also an important thing is the appearance of industry-specific solutions for different systems. This paper discusses the possibility of introducing an ERP-system.
+
+Research methods 
+
+For a detailed analysis and the formation of functional requirements approaches to determine client requirements should be explored. Also it is necessary to study systems, which may be related to previously identified category.
+
+Then in-depth interview with the client should be conducted, covering all interesting subtleties of the client’s business. Very important to determine the flow of incoming and outgoing data, the necessary reports and features that are available in the standard software package and which are customer interested in, so as to identify functionality that need to be completed.
+
+Structure
+
+Structure
+
+The main goal of the SoMPE is to automate these business processes:
+
+Advance planning of RR, overhaul and diagnostic, RMN plan
+
+Annual planning and adjustment of RR, overhaul and diagnostic, RMN plan
+
+Planning and execution  of design and exploration work
+
+Planning of purchases  material and technical resources and installation and construction works
+
+Execution of RR, overhaul and diagnostic, RMN plan
+
+Execution reporting
+
+
+
+Basic requirements
+
+Within works on developing the SoMPE is required to realize functionality which will provide:
+
+the centralized maintaining reference information
+
+storing and the analysis of planned and actual indicators on objects
+
+storing scanned copies of object’s life cycle’s key documents 
+
+real time interaction with subsidiaries
+
+reports
+
+communication with the company (export and import data)
+
+communication with the 1C (from external files) and a set of business process management
+
+Safety requirements
+
+The data stored in the system, may be a trade secret. The system should provide access to forms and reports only users, who are employees of the company and its subsidiaries, by using Windows authentication. 
+
+Each user in the system according to his or her position and the requirements of confidentiality should apply to a group (role), for which clearly defines the rights of access to the modules, forms and reports. For the allocation of access rights to the objects of the system must be used a standard mechanism Microsoft Dynamics NAV.
+
+Additional restrictions to view and modify data must be set programmatically by the setting of personalized filters on access to information.
+
+Protection mechanism should use the Windows-user logins to connect to the system that eliminates unauthorized access to its resources. Mechanism should ensure:
+
+Assign each user to one or more roles. Each role defines the access to certain system objects
+
+Create new roles and access rights
+
+Modification of existing roles and access rights
+
+Access control
+
+Possibility to account the operating time of users in System
+
+Registration of Windows-user logins in basic operations of the System
+
+The ability to restrict access rights for particular menu for each user
+
+Transferring Data
+
+To store digital copies of working documents and reports on dedicated servers should be organized structured storage of digital documentation and reporting, which should be organized according to user access groups in system as described above. 
+
+During the implementation of SoMPE on the stage, when parts of the system start to execute, the reference and historical data from the working files MS Excel and TMSS data will be migrated. To import data MS Excel file format must be used or other agreed format.
+
+Data should be provided by personnel of departments, responsible for the implementation of SoMPE in their units. Preliminary data should be verified by key users to be complete and correct.
+
+Data and work plans and data about the fact of their performance are imported to the system and must be actual on the time of starting commercial operation in the system that implement the processing of these data. List of sources of imported data will be generated later. 
+
+Contract templates and design assignments must be imported in the system.
+
+
+
+Conclusion
+
+This paper is devoted to a review of the project on the formation of functional requirements for information system business process automation for the oil industry companies. Describes the aims and objectives, show the relevance of the topic. It also describes the basic terms and methods of research and gathering information. Besides, structure of the project is showed, basic requirements and safety requirements described as well. 
+
+
+
+
+References
+
+Longman Group Limited, Harlow, Essex (1995). Longman Dictionary of Contemporary English. 3rd edition. 
+
+Грекул В.И., , Денищенко, Москва (2008).  . Интернет-университет информационных технологий.
+
+Грекул В.И., Коровкина Н.Л., Денищенко, Москва (2008).   . Интернет-университет информационных технологи.
+
+
+

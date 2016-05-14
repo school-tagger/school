@@ -1,0 +1,278 @@
+Abstract
+
+This paper considers osculating algebraic curves of degree d of a
+smooth curve in the projective plane RP 2. There is a wonderful Tait-
+Kneser-like theorem for curves of degree 2. Also there is a similar
+result for ovals of cubic curves, that was proven by S.Tabachnikov and
+V.Timorin ([2]) . Our main goal is to prove a generalization of this
+theorem for any degree d using methods of diﬀerential and projective
+geometry.
+
+1
+
+Contents
+
+Introduction
+
+Main part
+
+Deﬁnitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Coordinates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+The main problem . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Deﬁnitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Strategy of research . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Conclusion
+
+References
+
+3
+
+4
+4
+5
+6
+7
+8
+
+8
+
+9
+
+2
+
+Introduction
+
+The Tait-Kneser theorem was discovered by Peter Guthrie Tait ([3]) at the
+end of the 19th century and rediscovered by Adolf Kneser early in the 20th
+century. The theorem states the following:
+
+Theorem 1. The osculating circles of an arc with a monotonic positive cur-
+vature are pairwise disjoint and nested.
+
+The proof is very simple. If A, B are any two points of an evolute, the
+chord AB is the distance between the centers of the circles, and is necessarily
+less than the arc AB, the diﬀerence of their radii.
+
+There is whole series of similar theorems, here are some examples:
+1. Taylor polynomials
+Let f (x) be a smooth function of real variable. The Taylor polynomial
+Tt(x) of degree n approximates f up to the n-th derivative. Then for an even
+n:
+Theorem 2. For any distinct a, b ∈ I, the graphs of the Taylor polynomials
+Ta and Tb are disjoint over the whole real line.
+
+2. Conics
+Given a smooth curve γ in RP2 in each point we can draw an osculating
+conic by taking one that passes through 5 inﬁnitesimally close points of γ.
+This conic hyper-osculates if the tangency degree is more than 5, and such
+point is called sextatic.
+
+Theorem 3. The osculating conics of a curve, that is free from sextatic
+points, are pairwise disjoint and nested.
+
+3. Trigonometric polynomials
+Assume that the osculating trigonometric polynomials of degree n for a
+
+function f do nor hyper-osculate on an interval I ⊂ S1
+Theorem 4. For any distinct a, b ∈ I, the graphs of the osculating trigono-
+metric polynomials ga and gb are disjoint.
+
+4. Cubic ovals
+We can generalize the deﬁnition of an osculating conic to the deﬁnition
+of an osculating algebraic curve of degree d. Then the point in which the
+osculating curve hyper-osculates is called an extatic point
+
+3
+
+Theorem 5. Given a plane curve, osculated by ovals of cubic curves and
+free from extatic points, the osculating ovals are disjoint and pairwise nested.
+
+The aim of this paper is to ﬁnd some generalization of this fact for curves
+of higher degree. It is worth noting that the fact that the curves are nested
+is not true for curves of degree 4, or even for cubic curves that are not ovals.
+Structure of the paper. The paper is divided into two sections. In the ﬁrst
+of sections, there are set out the basic deﬁnitions, terms, and the methods
+which are necessary to solve the problem stated below. In the second sec-
+tion, there are brieﬂy described the approaches to the solution of the problem.
+
+Keywords. Osculating curves, extatic points, integrable distributions of
+
+planes.
+
+Main Part
+
+Deﬁnitions
+
+As you can see from above the notion of osculation has some properties, that
+are not yet generalized. The aim of this paper is to formulate an approach
+to osculating curves, somehow generalize it and prove some results using it.
+First we will need some generalized deﬁnitions.
+
+Given a class of curves in RP2 A that has the next property: there exists
+such n that through any n generic points you can draw exactly one curve
+that belongs to A. This n is the freedom degree of the class A. For example
+the freedom class of circles is 3, for lines it is two. It is not hard to prove,
+that if A is the class of algebraic curves of degree d, than its freedom degree
+is equal to d(d+3)
+. Algebraic curves will be the main example that one should
+keep in mind and our main result concerns them.
+
+2
+
+For a given smooth planar curve γ we can deﬁne the next objects:
+Osculating curve: an osculating in a ∈ γ curve of class A is a curve γa ∈ A
+that passes through n(A) inﬁnitesimally close to a points that lie on γ. Or,
+in other words, it is a curve of class A that has the highest tangency degree
+in a with γ.
+
+Extatic point: a class A extatic point on curve γ is such a point in which
+the osculating curve has a higher tangency degree than the freedom degree.
+These deﬁnitions just generalize the notions given in the examples above.
+Also there is an example that was not mentioned, which is the simplest one
+
+4
+
+possible. If A is the class of lines, than osculating lines are just the tangents
+and extatic points are simply inﬂection points.
+
+Working with these objects in RP2 is not always convenient, so we will
+
+deﬁne a much bigger space X 1
+
+A where we can see some properties.
+
+X 1
+
+A: X 1
+
+A (or X 1
+
+d for algebraic curves of degree d) is the space of A curves
+with one marked point. It is convenient for us to disconnect the points of
+simple intersection of these curves.
+Now that we have deﬁned this space it is easy to understand, that given a
+smooth planar parameterized curve γ(t) we can obtain a curve γ(cid:48)(t) ⊂ X 1
+A by
+taking the osculating curve in each point and marking the point of contact.
+Although the family of curves we can obtain this way is large it has some
+properties, that can be easily understood if we use right coordinates.
+
+Coordinates
+
+Generally X 1
+A is a not smooth space, yet in most of the cases we are consid-
+ering it will be smooth in almost every point, except the ones in which the
+corresponding curve there is a singularity. In all other cases we can choose
+a neighborhood, where all the curves in RP2 can be expanded into a Taylor
+series locally around the marked point in some map with some chosen Eu-
+clidian structure. Now, in the described area we can deﬁne coordinate maps
+as follows:
+
+(γ, a) ∈ X 1
+
+d → (x, c0, c1 . . . cn−1),
+
+where (x, c0) are the coordinates of a, and c1 . . . cn−1 are the Taylor coeﬃ-
+cients of the curve γ in point a. Now we have some instruments that we can
+use to understand local properties that the curve γ(cid:48) must satisfy. Mainly it
+must touch the distributions of hyperplanes that are given by the following
+forms (here n is the degree of freedom of A):
+dc0 − c1dx = 0,
+dc1 − c2dx = 0
+
+...
+
+dcn−2 − cn−1dx = 0
+
+Which is equivalent to the fact that ci(cid:48) = ci+1 for any natural i. If in each
+point of our space X 1
+A we will intersect the corresponding hyperplanes we
+
+5
+
+will get a distribution of 2-dimensional planes (ω), that γ(cid:48) must touch. It is
+important to mention, that although we described this object locally, in fact
+ω is deﬁned in all non-singular points of X 1
+A.
+
+The main problem
+
+This distribution that we just deﬁned is actually the main character of this
+paper. Most of the results that were mentioned above can be reformulated in
+terms of X 1
+A and ω, but ﬁrst we need to understand what extaticity means in
+these terms. Besides ω there is a ﬁeld of directions (v) in X 1
+A that are tangent
+to curves that we can obtain by moving the ﬁxed point without changing the
+A, v(x) ⊂ ω(x).
+A-curve that it lies on. Clearly for any non-singular x ∈ X 1
+If x ∈ γ(cid:48) corresponds to an extatic point, then γ(cid:48) is tangent to v. This fact
+obviously follows from the deﬁnitions of v and extatic points.
+
+Now we can see that most of the theorems in the introduction can be
+understood as properties of ω for diﬀerent A.
+In all of the given cases it
+means that that v uniformly divides the planes os ω into 2 half-planes, so
+that for a curve γ(t) that is free from extatic points ˙γ(cid:48)(t) will all lie in
+one half-plane in relation to v. For circles, conics, cubic ovals these are
+the half-planes given by increasing and decreasing size, and for Taylor and
+trigonometric polynomials they given by the ”level” of the curve (if ˙γ(cid:48)(t) lies
+in one half-plane, then it increases, and vice versa).
+
+Now we can see, that these theorems have a taste of Rolle’s theorem. We
+will try to generalize them in some way. Firstly let us formulate a weaker
+statement:
+
+Hypothesis 6. For any class of curves A that satisﬁes our assumptions and
+any smooth parameterized curve γ(t) ∈ RP2 if there exists 2 points t1 and
+t2 for which the osculating A-curves coincide, than between there exists an
+extatic point.
+
+First of all I should say that this hypothesis is not true. A good and
+simple example is the class of lines and the lima¸con. It is easy to see that
+there is a double tangent, and two points of tangency, between which there
+is no inﬂection point (if we go the long way around). To get a true version
+of this hypothesis we need to reformulate it locally:
+
+Theorem 7. For any class of curves A that satisﬁes our assumptions and
+any point x in X 1
+A, where the
+prevois hypothesis is true.
+
+A then, there is an open neighborhood in X 1
+
+6
+
+To proove this theorem we will use one fact: there exists an integrable
+diﬀerential 1-form σ, such that there is a neighborhood of x, in which the
+distribution of hyperplanes given by the form contains v in every point, but
+is transversal ro ω. Also, there is neighborhood (probably smaller one) where
+you can order the integral surfaces of σ. The further proof is simple: if we
+have a curve γ(cid:48) whose ends lie on the same integral surface of σ (actually one
+integral curve of v), then by Rolle’s theorem it is tangent to the destribution
+in some point, hence by transversality of ω and σ in this point it is tangent
+to v.
+
+7
+
+References
+
+[1]
+
+[2]
+
+[3]
+
+Ghys, E. (2007) Osculating curves. Talk at the ”Geometry and imagi-
+nation” conference, Princeton. www.umpa.ens-lyon.fr/ ghys/articles/
+
+Ghys, E. Tabachnikov, S. Timorin, V. Osculating curves: around
+the Tait-Kneser Theorem. arXiv math.DG/1207.5662v1
+
+Tait, P.G. (1896) Note on the circles of curvature of a plane curve.
+Proc. Edinburgh Math. Soc. 14, 403.
+
+8
+
+

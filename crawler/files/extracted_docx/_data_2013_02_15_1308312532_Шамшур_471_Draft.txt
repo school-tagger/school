@@ -1,0 +1,251 @@
+State University
+
+Higher School of Economics
+
+
+
+
+
+
+
+
+
+DRAFT
+
+On the project
+
+“Design of Information System for Management of Linear Activities of HR”
+
+
+
+
+
+Faculty: Business Informatics
+
+Department: Business analytics
+
+
+
+
+
+Student: Shamshur Alex
+
+Group: 471
+
+Scientific advisor: Gomenjuk Kirill
+
+Language advisor: Klepko Evgenia
+
+Moscow 2013
+
+Abstract
+
+
+
+This paper is dedicated to the topic of business-processes modeling and the structure of my graduation work is “Design of Information System for Management of Linear Activities of HR”.
+
+The introduction part is devoted to the historical background and the main purpose of this paper. The second paragraph entitled “Key definitions” presents the key definitions associated with Human Resources Informational Systems. The third paragraph presents the justification of the topic chosen for my graduation work and the potential of such a system for companies. In the next paragraph you can find my graduation work’s structure and the concluding paragraph contains a review of key points touched upon in this paper. 
+
+
+
+
+
+
+
+Introduction
+
+Contemporary reality requires great efficiency from modern companies. And day by day it becomes harder and harder to handle your company’s management without using Information Technologies. That’s why every company, considering its future positions on a proper level in the market, needs automation of its key processes. It’s easy to understand the benefits of an updated business in actual circumstances. What will it obtain?
+
+ First of all it’s necessary to mention such an advantage as automation. It provides company with labor expenses reduction, ability to activities, which are hard to perform. Also company gets an opportunity to lower its amount of mistakes and losses from staff fraud.
+
+Second advantage is widely known as control. It renders company such ability as monitoring of achieving key positions in processes, Key Performance Indicators (KPI), staff operating and its relationship with motivation.
+
+And it’s impossible to overestimate the role of such an advantage as analysis in Information System usage. Thus company acquires the ability to detect true cause-and-effect relationships, to correct its course, according to vital requirements of the world, and to use its resources in the most useful, efficient and conserving way.
+
+
+
+But to acquire all these benefits, company needs firstly to carry out a great amount of work, connected with gathering and analyzing of common and specific information, structure it, single out useful facts and prepare them for future transformation and passing through next stages of Information Systems life cycle: design, implementation, testing and evaluation.
+
+
+
+The main purpose of this paper is to give some definitions concerning human resources information systems, to touch upon constraints of such systems, give the justification of my graduation work’s topic and to present its structure and say a few words about its practical usage.
+
+
+
+
+Key definitions
+
+It’s important to give definitions to some key terms, concerning Human Resources Information System (HRIS) or Human Resources Management System(HRMS).
+
+A human resource management system (HRMS) or human resource information system (HRIS), refers to the systems and processes at the intersection between human resource management (HRM) and information technology. It merges HRM as a discipline and in particular its basic HR activities and processes with the information technology field, where the programming of data processing systems evolved into standardized routines and packages of enterprise resource planning (ERP) software. On the whole, these systems have their origin on software that integrates information from different applications into one universal database. The linkage of its financial and human resource modules through one database is the most important distinction to the individually and proprietary developed predecessors, which makes this software application both rigid and flexible.
+
+
+The function of human resources (HR) departments is generally administrative and common to all organizations. Organizations may have formalized selection, evaluation, and payroll processes. Efficient and effective management of "human capital" progressed to an increasingly imperative and complex process. The HR function consists of tracking existing employee data which traditionally includes personal histories, skills, capabilities, accomplishments and salary. To reduce the manual workload of these administrative activities, organizations began to electronically automate many of these processes by introducing specialized human resource management systems. HR executives rely on internal or external IT professionals to develop and maintain an integrated HRMS. 
+
+Modern HR management systems obtain several modules:
+
+Payroll
+
+Time and attendance
+
+Performance appraisal
+
+Benefits administration
+
+HR management information system
+
+Recruiting/Learning management
+
+Performance record
+
+Employee self-service
+
+Scheduling
+
+Absence management
+
+The payroll module automates the pay process by gathering data on employee time and attendance, calculating various deductions and taxes, and generating periodic pay cheques and employee tax reports. Data is generally fed from the human resources and time keeping modules to calculate automatic deposit and manual cheque writing capabilities. This module can encompass all employee-related transactions as well as integrate with existing financial management systems.
+
+The time and attendance module gathers standardized time and work related efforts. The most advanced modules provide broad flexibility in data collection methods, labor distribution capabilities and data analysis features. Cost analysis and efficiency metrics are the primary functions.
+
+The benefits administration module provides a system for organizations to administer and track employee participation in benefits programs. These typically encompass insurance, compensation, profit sharing and retirement.
+
+The HR management module is a component covering many other HR aspects from application to retirement. The system records basic demographic and address data, selection, training and development, capabilities and skills management, compensation planning records and other related activities. Leading edge systems provide the ability to "read" applications and enter relevant data to applicable database fields, notify employers and provide position management and position control. Human resource management function involves the recruitment, placement, evaluation, compensation and development of the employees of an organization. Initially, businesses used computer based information systems to:
+
+produce pay checks and payroll reports;
+
+maintain personnel records;
+
+pursue talent management.
+
+Online recruiting has become one of the primary methods employed by HR departments to garner potential candidates for available positions within an organization. Talent management systems typically encompass:
+
+analyzing personnel usage within an organization;
+
+identifying potential applicants;
+
+recruiting through company-facing listings;
+
+recruiting through online recruiting sites or publications that market to both recruiters and applicants.
+
+The significant cost incurred in maintaining an organized recruitment effort, cross-posting within and across general or industry-specific job boards and maintaining a competitive exposure of availabilities has given rise to the development of a dedicated applicant tracking system, or 'ATS', module.
+
+The training module provides a system for organizations to administer and track employee training and development efforts. The system, normally called a "learning management system" (LMS) if a stand alone product, allows HR to track education, qualifications and skills of the employees, as well as outlining what training courses, books, CDs, web based learning or materials are available to develop which skills. Courses can then be offered in date specific sessions, with delegates and training resources being mapped and managed within the same system. Sophisticated LMS allow managers to approve training, budgets and calendars alongside performance management and appraisal metrics.
+
+The employee self-service module allows employees to query HR related data and perform some HR transactions over the system. Employees may query their attendance record from the system without asking the information from HR personnel. The module also lets supervisors approve O.T. requests from their subordinates through the system without overloading the task on HR department.
+
+Many organizations have gone beyond the traditional functions and developed human resource management information systems, which support recruitment, selection, hiring, job placement, performance appraisals, employee benefit analysis, health, safety and security, while others integrate an outsourced applicant tracking system that encompasses a subset of the above.
+
+Assigning Responsibilities Communication between the Employees.
+
+
+
+
+
+Justification for the chosen topic.
+
+
+
+In this paragraph I would like to turn to my graduation work by presenting the justification of the chosen topic and the potential of the system which will be designed for executing the practical part of my graduation work. My graduation work will describe the process of creating a HRM-system to meet the needs of a Book Trade Holding. The system will be designed with the help of Business Studio – business modeling system,  and StarUml – Case environment. This study is aimed to show how the use of Human Resource Management system can improve company's efficiency. 
+
+
+
+
+
+Running a company is much more complicated than it used to be, in many significant ways. Demands on the time and effort of company executives are higher than ever before, yet employee needs are higher as well.
+
+Modern technology is available to meet these new needs. One main form of this technological assistance is the Human Resources Management System, or HRMS. This handy software application helps the harried employer take care of a host of human resources functions using just one handy tool. Rather than tracking employee attendance in one database program and employee performance reviews in another word processing program, an employer can use HRMS to consolidate all of that data into one convenient employee profile system.
+
+Using HRMS, an employer can configure payroll and benefits systems, create and manage training systems, and even track performance reviews. Applications run the gamut from simple time-and-attendance trackers to entire suites of tracking and data systems. Some of these applications are customizable, allowing employers to track such data as employees' personal histories, skills, and workplace preferences. This kind of electronic data tracking makes managing employees' needs much easier and enables employers to focus on other needs. In some cases, using HRMS can mean one less employee that an employer needs to hire.
+
+Even if an employer does have a human resources director, HRMS can streamline the process of keeping track of employees' payroll, benefits, and review data. At the very least, an HRMS suite can help eliminate the need for human resources paperwork. And the larger the company, the higher the number of employees and the more HRMS is necessary.
+
+Certain HRMS applications also allow employees to manage certain parts of their own data profiles. For example, some universities utilize an HRMS suite to which employees can gain limited access in order to change basic contact information such as name, address, and phone number. Other more complicated HRMS applications allow employees qualified access to company job listings, both to view and to apply.
+
+
+
+
+
+
+
+
+Diploma’s structure
+
+
+
+Now I would like to turn to the structure of my graduation work. 
+
+The logic of my graduation work is the following. 
+
+Chapter 1. Theoretical material 
+
+What is HRMS? 
+
+The necessity of HRMS 
+
+Difference between different HRM systems
+
+Chapter 2. HRM-system design
+
+Detailed goal statement
+
+Work plan 
+
+Detailed description of HRM-system design
+
+Chapter 3. Results analysis – analytical part
+
+The result of implementing HRMS
+
+Disadvantages of HRMS
+
+Alternative products
+
+Chapter 4. Resume
+
+What improvements can be made to HRM-system, how it can be used in future
+
+
+Chapter 1 is called “Theoretical material” and it’ll describe all the theory concerning designing the HRM-system with the help of Business Studio and StarUml. Firstly, HRMS will be discussed in terms of its functionality. Then the work will present the necessity of HRMS and how it helps to improve Human Resource Management process. Chapter one will also show the difference between different systems for HR management. Moreover, a question of how HRMS helps to optimize the process of staff management will be presented. Concluding the Chapter I’ll give a brief diploma’s goal statement. 
+
+Chapter 2 represents practical part of the diploma. First of all a detailed goal statement will be given, followed by a work plan of HRIS design. By the example of specific project will be given the description of what should be done to design such a system and how it should be done, including screen shots, business/system-processes and stored data diagrams and charts. 
+
+Chapter 3 is entitled “Results analysis” and represents diploma’s analytical part. In this chapter the results of implementing HRM-system for a specific company will be shown together with the description of this system. Results will be analyzed from a position of what was planned, what it turned out to be in reality and what should be done in future to eliminate mistakes. Moreover, I’ll describe some disadvantages of the system and present an alternative to it.
+
+Chapter 4 will give the resume to everything said earlier. I’ll try to find out what improvements can be implemented to HR management system, and how this application can be used in future. 
+
+After that I’ll draw a conclusion by repeating in short what were the goal statements, 
+
+main achievements during the system’s implementation and the resume.      
+
+So, that’s the structure of my graduation work. 
+
+
+
+
+
+
+
+
+Conclusion
+
+
+
+Concluding (or in fact only beginning) the discussion of HRMS usage, it is necessary to remind that it is accomplished through the use of the processes such as: initiating, planning, executing, controlling and closing. And various documents are created during these processes. Consequently, there is a need for a proper system for managing, controlling and storing documents. In my graduation work I am going to show the process of creating an HR information system, discuss vital problems and possible future developments in this area.   
+
+
+
+
+Bibliography
+
+Edwards, J. (2008) HRMS: Helping HR Out of the Cost Center Rut, June 23
+
+Kwang, К. (2011) Debunking popular open source myths Aug. 15.
+
+Narisi, S. (2009) HR Tech News, June 29.
+
+Pulda, M. (2011) TribeHR vs. OrangeHRM Live, Sep. 7.
+
+Williams, H. (2009) Key HR Software Developments in the Year Ahead, Nov. 23.
+
+T Adviser (2011) Системы управления персоналом в России, 12-46.

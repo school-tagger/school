@@ -1,0 +1,1238 @@
+Правительство Российской Федерации
+
+
+
+Федеральное государственное автономное образовательное учреждение 
+
+высшего профессионального образования
+
+
+
+«Национальный исследовательский университет 
+«Высшая школа экономики»
+
+
+
+Факультет менеджмента
+
+Кафедра Управления проектами
+
+
+
+
+
+МАГИСТЕРСКАЯ ДИССЕРТАЦИЯ
+
+
+
+
+
+На тему: «Исследование роли Офиса Управления Проектами в процессе управления изменениями в организации»
+
+
+
+
+
+
+
+
+
+Студентка группы № 727 Карасёва Анастасия Максимовна 
+
+
+
+
+
+Руководитель ВКР
+Доцент Ильина Ольга Николаевна
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Москва, 2014
+
+
+
+ 
+
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+Relevance of the study
+
+Being a social system any organization, permanent or temporary, change. Already quite for a long time projects and programs have been considered as a way of organizing change (Bresnen, 2006; Cicmil, 1999; Biedenbach and Soderholm, 2008; Pellegrinelli, 1997). However, while a significant research has been conducted in both project management and change management areas still there is lack of interaction between them (Gareis, 2010; Parker et al., 2013). Change management literature usually does not address the relationship between changes, projects and programs from operational perspective. While the literature on project management perceives changes to be managed just within projects or programs (Office of Government Commerce, 2007; Project Management Institute, 2009; Hwang, Low, 2012; Zhang, 2013). Just recently some attempts to establish relations between project management and change management have been made. From this new perspective projects and programs are perceived as organizations to manage the changes. In several works relations between changes and projects and different aspects of interaction between change management and project management, such as competencies for managing changes, HR practices, handling resistance etc. have been examined (Fiedler, 2012; Huemann, 2010). 
+
+However, one of the most recent and popular project management phenomenon, Project Management Office, still has not been examined from the change management perspective. It is necessary to mention that the implementation of PMO could be regarded as an important organizational change or PMO itself could be regarded as subject of change that has been recently addressed in a few studies (Hobbs et al., 2008; Aubry et al., 2010; Pellegrinelli and Garagna, 2009). However still the PMO is rarely seen as the agent of change. According to Pellegrinelli and Garagna, organizational changes increase the importance of project and program management that, in its turn, may lead to “the development of new roles and competencies or the re-establishment of a PMO” (2009, p.654).  However still there is a gap between the notions of change management and Project management office and the relations between them are not examined.
+
+Research subject
+
+Thus, the general purpose of the study proposed is to try to fill the gap between the notions of Project management office and change management by drawing the line between them. More precisely, according to the problem mentioned above the research subject of the research consists in studying PMO roles and functions in change management activities held in the companies. 
+
+Research object
+
+Subsequently, the research object is an organizational unit related to the project management functions called Project Management Office (PMO) or Project office. These and the other names are discussed more precisely in the following chapters. 
+
+Research goals
+
+Within the broad purpose of the study mentioned above it will be necessary to:
+
+Investigate the change management literature, describe the basic theoretical aspects of organizational changes, resistance to change and change management, identify the existing change management models
+
+Examine previous research on PMO, identifying its types, roles and functions 
+
+Compare the PMO and change management models and reveal the possible relationships between them
+
+Suggest the ways in which PMO could be applied to improvement of change management practices in organizations
+
+Limitations of the study
+
+Talking about the limitations of the study it is necessary to mention that during the survey it has been decided to limit the sample to the respondents that have personally participated in the change implementation. That has been done to enhance the quality of the information received and increase reliability of the data used in further analysis. 
+
+Paper plan
+
+The following paper consists of five parts: Introduction, Chapter 1, Chapter 2, Chapter 3 and Conclusion. 
+
+The introduction part presents the background and relevance of the study, states its problem and determines the goals, the subject and the object, as well as the scope of the research.
+
+The First Chapter is concerned with the basic theoretical aspects of organizational changes, change resistance and change management. The existing change models and their classification are described and discussed. 
+
+The Second Chapter touches upon the issue of PMO, its definitions, roles and functions in organizations, describe the classifications and theories existing. As well the possible relations between PMO and change management are shown and discussed.
+
+The Third Chapter is dedicated to the methodology of the research, providing the integrative framework proposed on the basis of the literature analysis, description of the field research and results received. The main findings of the study are drawn and discussed; conclusions and recommendations are made.
+
+Finally, in the Conclusion the main outcomes of the study proposed are summarized and discussed, suggestions about the further development of the research are proposed.
+
+
+
+
+Chapter 1: Changes and change management practicies 
+
+Organizational changes: terminology and typology
+
+Just some time ago organizational changes were considered as a factor preventing enterprise performance. However, recently this paradigm has moved: nowadays changes are seen as a necessary process for successful development of the companies. According to the definition, change is “the movement of a company away from its present state toward some desired future state to increase its competitive advantage” (Hill and Jones, 2001, p. 486). Thus, change management could be defined as the process of continuous development of the company, its structure and abilities to adapt to continuously changing needs of internal and external consumers (By, 2005). 
+
+One of the earliest studies in this area is the classification of changes provided by Levy and Merry (1986). According to their study all changes could be divided into two groups: first- and second-order changes, the key difference between which lie in their size and speed of change. The first-order changes consist of “the improvements and adjustments that do not change the system’s core, and occur as the system naturally grows and develops” (Levy, 1986, p. 5). In other words they do not break current organizational culture, do not contradict to existing norms and behaviors and usually characterize changes in functional processes. In contrary, the second-order changes are seen as a radical structural and cultural shift that influence several organizational parameters and level at the same time. Finally they lead to a new identity of the organization.  
+
+Some later researches distinguish various types of organizational changes on the basis of the frequency or so called rate of occurrence (Grundy, 1993; Luecke, 2003; Burnes, 2004; Balogun, Hailey, 2004; Senior, 2002). However, according to By, in fact, they just use the different terminology for describing the same approach. The key idea is that due to the frequency change types could vary from discontinuous to continuous ones. 
+
+Synthesizing the studies mentioned above By has proposed a classification according to which changes could be classified into discontinuous, incremental, bumpy incremental, continuous and bumpy continuous. According to Grundy’s definition discontinuous change is “a change which is marked by rapid shifts in either strategy, structure or culture, or in all three” (Grundy, 1993, p.26). Talking about this kind of changes it’s interesting to mention that almost all the contemporary authors conclude such changes do not bring sustainable benefits to the enterprise although it is employed in many initiatives. In contrary, the continuous changes represented as an ongoing process are suggested to be the best approach that allows to keep up with the fast-moving environment (Kotter, 1990; Burnes, 2004). Changes are supposed to be incremental when they are implemented by limited and negotiated shifts. In its turn, according to Grundy, incremental changes could be divided into smooth and bumpy. The first ones evolve slowly in a systematic way that is quite rare in the current environment according to Senior, while the last ones are punctuated by the relatively peaceful periods (punctuated equilibrium in Hailey’s terminology).  The main difference between continuous and incremental change consists in difference of level of changes: strategic and operational respectively. And, finally, bumpy continuous category can be defined to describe the type of continuous operational changes that could be punctuated by serenity periods (By, 2005). The summary and short comparison of the typologies existing is presented in the table below:
+
+
+
+
+
+
+
+
+Table 1: Change characterized by the rate of occurrence (By, 2005)
+
+
+
+
+Change management practices and models
+
+If we move from the types of changes to change management practices it is also possible to distinguish different approaches. According to By (2005), four main approaches existing in literature could be defined: planned, emergent, contingency and choice. Usually the first two dominate the literature, however, there is still no consensus on the best one. 
+
+Planned change is a classical approach to change implementation with long history of research.  Its main objective is to explain the process of change and to define the stages through which the enterprise should pass to get the necessary state. The first, highly recognized, planned change model has been proposed by Kurt Lewin in the 1940s. According to the model to get the planned results organization should pass through three stages of change: unfreezing, moving and re-freezing. The main purpose of the first stage is to “thaw out existing structures and processes”, analyze current situation, describe the willing future state and identify the change drivers. The next stage is dedicated to initiating of necessary change actions that finish at the third stage which purpose is to fix and stabilize the new state (Lewin, 1947). It is necessary to highlight that despite the simplicity the model proposed has become a basic concept in questions of organizational changes and, in fact, it still has a great influence on the change perception (Garies, 2010). 
+
+Afterwards, a lot of models, developing the idea of Lewin’s model, had been proposed. For instance, Bullock and Batten have suggested a four-stage model that splits the change process into exploration, planning, action and integration (Bullock and Batten, 1985). 
+
+However, in spite of its clarity the planned approach has become a subject to a harsh criticism since the 1980s. First of all, it is necessary to mention that such approach is vulnerable due to the high environmental turbulence, where it is hardly possible to plan change in detailed manner ex ante. In its turn, it could lead to several disadvantages like problems arising from limited foresight, possibility of relapse or large losses etc. (Weick, 2000; Burnes, 2004). The other point is that planned approach could not be efficient in crisis situations which usually require fast and radical changes and where common agreement of all the stakeholders could be hardly reached. 
+
+This criticism has led to appearance of the other, emergent approach to change management. This type assumes that changes could be characterized as having unpredictable and spontaneous traits that does not allow to plan and implement changes in a predefined way. Thus, the emergent approach could be seen not as the sequence of events or actions but as a continuous process of adaptation to the changing environment (Burnes, 1996; Dawson, 1994).
+
+Moreover the advocators of the emergent approach highlight that due to the uncertainty and complexity of the internal and external environment of organization an enterprise should become an open learning system which is able to analyze information about environment and also has a deep understanding of the existing processes and culture and their impact on coming changes. So, it’s possible to conclude that from emergent point of view the change process depends more on the readiness to change than on the predefined stages. Due to these assumptions some authors totally reject existence of any possible rules for change implementation. However, some authors (Kanter et al. (1992), Kotter (1996) and Luecke (2003) propose quite well defined and “more practical guidance to managers” (Todnem, 2005, p. 375) about managing emergent changes. 
+
+The first model, called Ten Commandments for Executing Change has been proposed by Kanter et al. (1992) in 1992 and includes ten steps of change process. According to the author, the first step, which is analyzing the organization and its needs to change, should be followed by creation of common vision and directions, separating organization from the past and creation of sense of urgency. Next, a strong leadership and political sponsorship should be established, as well as the implementation plan should be created. To implement change successfully it also crucial to develop structures, establish communications, involve people and be transparent. Finally, at the final step change should be institutionalized.     
+
+Another model, called Seven Steps, which also consists of several stages of change implementation, has been suggested by Luecke (2003). The author recommends to start  the process of changes from mobilizing energy and commitment through identification problems and solutions jointly with employees. As a result, at the next step a shared vision of how to organize and manage the change should be developed, as well, leadership should be identified. At the next, formalizing step policies, systems and structures should be developed to implement change. Finally during the implementation monitoring of the process and adapting the strategy to the issues emerging should be held. 
+
+However the most widely known model has become a John Kotter’s model proposed in 1996. While elaborating this model author has investigated more than one hundred cases of change implementation and has defined eight major causes of change failures. Subsequently, these mistakes have been transformed into eight change steps which are: establish a sense of urgency, create a powerful guiding coalition, develop a vision and a strategy, communicate the vision, empower others to act on the vision, plan for and create short-term wins, consolidate improvement and produce more change, institutionalize new approaches.
+
+According to the author about 50% of change initiatives fail just at the very beginning because it could be really difficult to communicate the importance and necessity of changes to managers and other associates and get the change program started. Thus, the first step of any change process should be establishing a sense of urgency. The key factor of success is a strong leader who clearly sees the need for a change and who is able to transfer this idea to other employees with the high degree of urgency.
+
+The second step consists in creating a guiding coalition; its size could vary depending on the size of organization, however it should possess a high reputation and enough power that means and strong support from top management. The team should be motivated to work together, develop trust and communication and have a common understanding of problems and perspectives.
+
+The most important tasks of this team are developing a vision and strategy of its implementation. Creating of the vision is a crucial point for the whole change initiative; otherwise, the whole strategy could turn into the chaotic, not aligned or even contradictory projects. Thus, the vision should be maximally implemented into the strategy and be translated through all the possible communication channels. 
+
+However, all the mentioned above is not enough in the case when an employee face various barriers while realizing the strategy. They could include existing organizational structure, motivation system etc. Such barriers should be eliminated and employees should be empowered to act on the vision. 
+
+Talking about motivation it’s necessary to highlight the importance of planning short-term wins. Usually changes need to take time and people cannot see any results for a long time that demotivate them. Short wins encourage employees and motivate them to move on. However it is still important not to overestimate short wins, continuously improve the results of improvement, align them with vision and identify new challenges. 
+
+And, finally, at the last step the changes should be anchored in organizational culture. Kotter argues that especially important is to demonstrate how changes contribute to the success of the enterprise and create the means to ensure the understanding of changes by new leaders. Otherwise, all the efforts could be destroyed at once (Kotter, 1995). 
+
+Generally speaking the main idea of the Kotter consists in the assumption that successful change implementation depends mainly on high quality of leadership and appropriate motivation to overcome resistance. Afterwards, Frailinger and Fisher have developed this model by adding new stages to Kotter’s model. Thus, the authors introduced the project management stage after vision transfer as a tool for realization of changes. In fact, adding of this stage makes the model closer to planned type; however, to overcome this the authors introduced the feedback as the last stage. It shows that the sequence of the stages is not obligatory. As well it’s supposed that during the change process some control points should exist which allows to compare the planned and real results, identify gaps and adjust actions (Фрайлингер, Фишер, 2002). As it follows from the review above, on the one hand, the models described seems to be quite similar, however, on the other hand, each of them has its own peculiarities which is revealed in the comparative Table 2 provided below. 
+
+
+
+
+Table 2: A comparison of three models of emergent change (By, 2005)
+
+
+
+Talking about the emergent approach it’s necessary to mention that it is relatively new comparing to the planned one that results in the lack of integrity and diversity of methods and techniques. However, according to some experts it could be considered as the universal one in terms of environment uncertainty and turbulence that we face today. 
+
+Nevertheless, some authors consider that such approach is more applicable for operational changes rather than strategic ones (Biedenbach, Soderholm, 2008), as well as that change strategy should fit to changing environment (Dunphy and Stace, 1993). According to the opinion of some scholars, being an open system influenced by various factors organization should act in line with situation. Thus, the situational or «contingency» approach should be applied and strategy of change implementation should be defined by dimensions characterizing external environment and enterprise itself. 
+
+The contingency theory has been extremely popular in the 1960s and 1970s, however it received revitalization relatively recently. The model proposed by Dunphy and Stace divide scale of changes into four categories: fine-tuning, incremental adjustment, modular transformation and corporate transformation. The first type characterizes an ongoing process of aligning processes, structures, organizational culture and strategy. Such changes usually take place at particular organizational levels or departments and are aimed to improve organizational practices. Incremental adjustment is a change process in management practices and organizational strategies however these changes are not radical. In case of modular transformation changes trigger some important shifts in one ore more departments but do not influence the whole organization what happens in case of corporate transformation (Dunphy, Stace, 1993). 
+
+The last type of change approaches existing in the literature has been proposed by Burnes who has developed a choice concept. His model presents a four-field matrix composed by two dimensions: type of environment and speed of change. Thus, the choice approach provide a possibility to use different strategies in diverse situations and organization is able to make choice about what and how to change that makes it more flexible.  
+
+The idea of choice approach has also been used by Ronald Garies. To identify the types of changes and strategies that should be applied Garies (2010) has proposed the model characterized by two dimensions: change potential and change demand. The first dimension reveals the level of individual and organizational competencies in terms of managing changes. The level of change demand, in its turn, characterizes the first- and second-order changes of Levy and Merry mentioned above. Four possible combinations of these dimensions form four main change types: radical positioning, transformation, further development and organizational learning. According to the model, the more urgent and radical changes are the less change competencies organization possess and vice versa. 
+
+
+
+
+
+Figure 1: Definition of change types (Gareis, 2010)
+
+
+
+Thus, talking about organizational learning it’s necessary to mention that its main objective consists in continuous business improvement by changing one or few parameters of the enterprise. Being a continuous change process it assumes that some formal processes and tools supporting changes already exist in organization. According to Gareis, change process consists of two phases: acquiring and stabilizing new knowledge. To complete this process different methods like monitoring, database, workshops etc. could be applied. 
+
+The further development is more complicated change type aimed to improvement of business results, including product, process or organizational improvement and requires changes in several organizational dimensions. To handle this change process some standardized tools and techniques could be applied, therefore, in this case the main tasks are concerned with resource allocation, management support and aligning changes with strategy. Thus, the change management process is represented by three phases: conceptionalizing a development, piloting a development and rolling-out a development. 
+
+Coming to the transformation type, it’s worthy to highlight that this kind of changes is a fundamental one and involves almost all organizational parameters from strategy to relations. Its main objective could consist in rationalization, growth, strategic and cultural new-orientation.   Hence, uniqueness and high complexity of the objectives requires thorough development of change process. The change phases that are interrupting the routine, developing a vision and a plan, making decisions, implementing, and stabilizing are almost similar to the stages proposed by Kotter in his model described above. 
+
+Finally, in case of radical repositioning urgent changes are usually required due to crisis situation or serious threat that question the survival of organization on the whole.  Such situations involve all the organizational dimensions and require urgent solutions and results. According to Garies, in this case the change management stages should include crisis definition, short analysis and ad hoc measures, detailed crisis analysis and planning, implementing the resolution strategies and closing-down the crisis.
+
+Talking about the methods of change implementation, Garies highlights that project and program management approaches are more relevant for the second-order changes, however, one or several projects could be also required in further developing. While, the organizational learning is a repetitive process which should be incorporated in daily business.  
+
+As well it’s necessary to highlight that second-order changes are especially exposed to resistance from employees and require special attention from change managers. 
+
+
+Resistance to change and managing resistance
+
+Initially, in change management literature resistance had been perceived as behavior not in line with the attempts of the change leader (Bartunek, 1993) and barrier to change (Kotter and Schlesinger, 1979; Klein, 1984). Consequently, the issue of resistance has been discussed from the perspective of the change agent.  Afterwards, the focus has moved to perception of changes by employees and motivational factors. According to the last approach people resist not to the changes but to their consequences (Dent, Goldberg, 1999). Thus, Dijk and Dick have defined to types of resistance: person-oriented and principle-oriented. In the first case resistance could be caused by the expectation of losses as a result of departure of status quo. People could be afraid that changes will negatively influence their job or relations inside the organization (Lawrence, 1954). In the second case changes and their consequences are evaluated from organizational point of view, its objectives and success.  It means that the expected results of changes are not aligned with views of employees and their expectations how an enterprise should develop. 
+
+Depending on the strength and intensity active and passive forms of resistance could be distinguished. Active resistance includes finding fault, ridiculing, appealing to fear, and manipulating. Passive resistance includes agreeing verbally but not following through, feigning ignorance and withholding information (Bolognese, 2002). 
+
+As well, there are different classifications based on situational variables, various dimensions and reasons for changes. According to the model proposed by Mc.Elroy the perception of changes depends on two factors: change experience and expectations about them. Thus, if the experience is small and failure is expected the fear appears, but, in contrary, when expectations are positive people tend to perceive changes with willing and passion. In case when experience is quite big but failure is expected people feel tired, but with positive expectations changes are perceived as something usual and comfortable. 
+
+In its turn, the reaction to coming changes could also be represented by the model with two dimensions: perception of changes and ability to influence them.  The combination of these parameters forms four reaction types: hostility, anxiety, ability to handle with changes and skillfulness in managing changes (McElroy, 1996).
+
+Talking about managing resistance it’s necessary to mention that the first ideas on this issue has been proposed still in the 1940s by Lewin within the change management model. He suggested that any potential change is resisted by forces in the opposite direction. His solution was to advocate that successful change rests in unfreezing an established equilibrium by enhancing the forces driving change, or by reducing or removing resisting forces, and then refreezing in a new equilibrium state (Morgan, 1997).
+
+Subsequently, a range of models taking into account the issue of managing resistance has been developed (Kotter, 1996; Kotter and Schlesinger, 1979 etc.). Talking about the models concerned directly with resistance to changes it’s necessary to mention Folger’s model which, therefore, also present a list of recommendations rather than practical guide. 
+
+One of the most complex model about has been proposed quite recently by Armenicans and Harris. The model is based on parameters of change perception which are crucial for all the further stages of change management process. To handle it different influence strategies are also defined. As well the assessment component is also incorporated into the model that allows to evaluate the change management process and make adjustments that is especially important in case of turbulent environment discussed in the beginning of this paper (Armenakis, Harris, 2009). 
+
+At last, we would like to describe one more quite recent model which is especially interesting from project management point of view. Fiedler’s model proposes to perceive resistance to changes as a risk of change project or program. Consequently, managing the resistance could be realized from risk management perspective, which is already a well-studied area, using its processes and tools. Thus, it’s proposed that process of managing resistance could consists of the following stages: identification and evaluation of resistance potential, planning of managing resistance, avoidance/promotion and preparation for resistance, resolution of resistance and controlling of resistance measures and potentials. In its turn each stage consists of various phases and utilizes existing risk management structures and methods (Fiedler, 2010). 
+
+
+
+
+
+
+Chapter 2: PMO, roles and functions
+
+2.1. Terminology and typology
+
+Although the concept of PMO “has a long history dating back to the 1930s” (Singh et al., 2009, p, 411) it has become really widespread only since the mid 1990s that is mainly associated with the increasing number and complexity of the projects held by organizations (Marsh, 2000). Anyway, although the PMO phenomenon is considered as a relatively recent phenomenon it’s importance is widely recognized in the project management society. During the last ten years a lot of organizations have implemented one or more PMOs as the part of project management concept. (Dai and Wells, 2004). However, according to Aubry et al., (2010) the notion of PMO has been addressed mainly in the professional literature (Benko and McFarlan, 2003; Crawford, 2002; Dinsmore, 1999; Kendall and Rollins, 2003), while its treatment in scientific literature is still quite limited. 
+
+Talking about the terminology it’s necessary to highlight that in English-speaking environment it’s possible to meet different terms related to the idea of PMO that sometimes could be misleading. In the fundamental work of Kendall and Rollins (2003) authors mention three of them: project office, project management office and program management office. 
+
+Originally the term “project office” has been used to describe an organizational department that monitor project performance and report on it. Such type of PMO does not provide any support to project managers and is usually seen just as the source of threat. However, it’s necessary to keep in mind that the term “project office” and “Project management office” sometimes could be used as synonymous while they have important differences.  
+
+To describe the body that not only control the project performance but also establish project management standards, coordinate projects and resources and provide real support to managers it is better to use the term “project management office”. As well, to highlight its scale of importance and responsibility the term “enterprise project management (office)” could be also applied.
+
+And finally, in case if the organization uses not only projects but also programs, which are the set of projects linked by the common purpose, program management office could be adopted. Subsequently, it is supposed that such offices usually deal with bigger budgets and provide maximum support to the managers. 
+
+As well in other sources the term Center of Excellence could be used (OGC, 2008).
+
+To cover all the realities found empirically, while talking about PMO in the following work we would like to adopt a broader definition provided by Project Management Institution. According to A Guide to the Project Management Body of Knowledge a PMO is “An organizational body or entity assigned various responsibilities related to the centralized and coordinated management of those projects under its domain. The responsibilities of the PMO can range from providing project management support functions to actually being responsible for the direct management of a project” (Project Management Institute, 2008, p. 369).
+
+As it follows from the definition it’s necessary to understand that there is no unique “recipe” of PMO. Depending on the organizational needs and environments a PMO could be established to support a single project or a range of related or independent projects (Ward, Daniel, 2013).  As well the roles, forms and functions of PMO could significantly differ from one company to another regarding their peculiarities and needs. However, as Unger et al. argue this definition also reflects “the lack of knowledge about the impact of PMOs and the lack of consensus on how to construct them” (Unger et al, p.610). Thus, after clarifying the terminology aspects it’s necessary to pay attention to the existing typologies of PMOs although some issues have already been mentioned in the discussion above. 
+
+J.K. Crawford (2010) provides a typology of project management offices based on the number of projects held. According to this principle the author distinguish three types of offices: Project control office, Business unit project office and Strategic project office.  
+
+The first concept is used to describe the separate temporary PMO created for each project, however it differs from the concept of “Project office” described earlier. The purpose of such office consists not only in improving control over the project but to increase the efficiency and quality of the project in general and deal with budget and time constraints. Such offices are usually implemented for projects for external customers in project-oriented organizations. 
+
+The second type of office is usually established at the level of single business unit or department and is mainly involved into resource allocation. By optimizing resources these offices eliminate or at least decrease the competition for resources within the division and prevent conflicts between functional and project managers. 
+
+The last office type is identical to the enterprise project management office mentioned above. Responsible for strategy implementation through projects it has a high importance and influence in organization and executes a wide rage of functions.
+
+Another group of classifications is based on the roles and functions performed by the project management offices. Thus, Kendall and Rollins (2003) distinguish four main models of PMOs: a repository model, a coach, an Enterprise PMO and “Deliver Now” office. 
+
+In case when the repository model is applied the PMO serves as a storage and source of information about projects, methods and project management standards. It is usually used in decentralized organizations where authority and responsibility for the projects are divided between divisions. It’s necessary to mention that this model includes a very little or even no economic component, as, in fact, the office does not bear any responsibility for performance of the company so its performance is not measured as well. 
+
+Being a development of repository model a coach model includes not only storage and information source functions but also coordinates the implementation of project management methodology in company. As well it monitors and evaluates the project performance that is used to improve the project management efficiency and train project managers; participates in project planning and analyzes the results. According to the authors the coach model could bring significant support to management, however, it always plays the second role in the company. 
+
+Talking about an Enterprise PMO, first of all, it’s necessary to highlight that it requires quite a huge investments and has well defined goals, responsibilities and strong support from top management. This type of PMO significantly differs from the other models as it plays crucial role in project management activities during the whole project’s life cycle. Quite often almost all the PM professionals belong to this department that increases the economic significance of it.
+
+Finally, the “Deliver now” office is concerned with getting the immediate results which have to be shown every half-year. This kind of models has the support on the highest level and a wide range of responsibilities targeted to get real economic benefits in project activities. More precisely its functions will be described in the following part of the chapter.  
+
+Another typology based on the functions has been provided by Kevin Desouza and Roberto Evaristo in 2006 dividing the PMO types into two main groups: administrative offices and knowledge-intensive offices. 
+
+As it follows from the name administrative offices are mainly focused on providing administrative support to project managers, including managing information, communication, resources etc. While knowledge-intensive offices are mainly concerned with the increasing of organizational maturity in the field of project management, knowledge accumulation and implementation of best practices that in general improve the project management efficiency. Within these two broad areas the researchers also identify four more types of offices such as supporter, information manager, knowledge manager and coach. 
+
+
+
+Figure 2: PMO types (Desouza&Evaristo, 2006)
+
+	
+
+Supporters’ functions usually include the basic administrative issues such as defining risks, monitoring the project performance, archiving and providing information.  Although these offices are responsible for the project implementation, in fact, they play passive role and cannot influence the project management process that put to question their usefulness for the organization. 
+
+Moving to the Information manager it’s necessary to mention that although it is situated in between the administrative and knowledge roles and partly carry out both functions still it is concerned with collecting information and analyzing the project progress and lacks the managerial authority.
+
+Knowledge manager is situated more closely to the knowledge-oriented edge and, subsequently, does not carry out administrative functions. Mainly, it serves as the best practices storage and on their basis may reorganize project portfolio or be responsible for the successful implementation of individual projects. The main difference between information manager and knowledge manager consists in the type of information collected. While the first is concerned with information on project performance the latter mainly accumulates and analyzes information on the project management methods and techniques.  
+
+Coach type is similar to the coach model mentioned above described by Kendall and Rollins. Serving as the knowledge depository this office is also responsible for implementation of best PM practices. Talking about this kind of offices it’s necessary to highlight that from change management perspective it usually acts as a change agent moving organization to new levels of project management maturity and overcoming resistance.  
+
+Finally, we would like to describe one more, quite recent, typology of PMOs based on several variables proposed by Hobbs and Aubry in their study of 500 project management offices around the world. According to the outcomes of the study the researchers have proposed to classify PMO types on the basis of organizational context variables, such as sector, size, type of organizational structure and level of PM maturity, and characteristics of PMO, including its size, number of projects managed, position in organizational structure and authority level.  Hence, three main PMO types have been defined: 
+
+PMOs with a considerable number of projects, project managers and significant authority in decision-making process
+
+PMOs with an average number of projects, not many project managers and less power in making decisions
+
+PMOs with a small amount of project managers responsible for projects in organization with a low level of authority in decision-making process.
+
+Drawing the parallels it is possible to mention that the first type of PMO mentioned is similar to strategic or enterprise project management office, while the last one could be compared with the administrative-oriented office. Talking about the classification provided it could be said that some issues could be controversial, however, according to the authors the classification given is not final and requires further research efforts.
+
+To summarize it is possible to conclude that a large variety of criteria can be used for PMO classification. According to Hobbs and Aubry (2007) PMOs’ characteristics could vary significantly that trigger existence of a wide range of PMOs’ types: “The organizational reality surrounding PMOs is complex and varied ... organizations establish a great variety of PMOs to deal with their reality” (Hobbs, Aubry, 2007, p. 85).
+
+Due to the complexity of phenomenon a lot of classifications already exist, however, some types of them seem to be quite similar. In the table below the comparison of some existing classifications is provided. 
+
+
+Table 3: Typology of PMOs by diffrent authors (Hobbs&Aubry, 2007)
+
+
+
+
+
+
+2.2. PMO functions and tasks
+
+As it follows from the literature analysis a wide range of possible responsibilities and tasks could be assigned to PMO in organization. According to Crawford (2004) nearly 75 functions of PMO could be identified. However, it is quite obvious that a single PMO can hardly perform all of them. Moreover, it is senseless in case if they do not fulfill the needs of organization and bring value to it. Thus, in practice PMOs tend to focus just on one or several functions. Kendall and Rollins (2003) have identified a set of factors that could influence on this choice: structure of accountability, development direction and the underlying model. 
+
+Talking about the first factor it’s necessary to highlight that the functions of PMOs are usually strongly defined by the level or department where it is situated. However, as the authors argue although in practice PMOs could be organized by different functional departments it leads to failures of project management offices or at least to the limited results. To bring the real benefits to the organization PMO should be better situated at the top organizational level and supported be the top management of the company.
+
+Another factor is the direction of development which could cost reduction or performance improvement. Cost reduction is mainly concerned with managing resources and budget optimization. According to these underlying targets PMO could perform a range of functions related with control, collecting and analyzing information etc. However, the shortcoming of such approach is that PMO could prevent the establishment of mutual trust and could be considered as a negative phenomenon. Another problem is related with the fact that usually reduction of the costs is possible only at the expense of time constraints or scope of the project. In contrary, the main objectives of performance improvement usually include reduction of project duration and improvement of the project quality. Due to this it becomes possible to increase the number of project that meets strategic organizational goals. However, this approach has limitations as well, especially in terms of costs, but, according to the authors, it is not necessary that performance approach completely contradict to cost approach. As practice shows performance improvement could lead to a significant cost reduction. 
+
+Finally, the PMO functions could be determined by the role or model prescribed to PMO. The four models identified by Kendall and Rollins have already been described in the previous part of the study. 
+
+Having mentioned the factors underlying the choice of the PMO responsibilities it is necessary to move to a more precise description of the existing functions performed by project management offices.  
+
+According to the Project Management Body of Knowledge (PMI, 2008), the general PMO functions include: 
+
+Project Resource Management 
+
+Identification of best practices, development of standards and project management methodology
+
+Coaching, mentoring and training  
+
+Project audit and control of compliance with PM standards, procedures and templates
+
+Development and management of organizational process resources
+
+Coordination between projects
+
+A great variety of the functions derives from the PMO models, described in the previous part, as well as from the other literature sources studied (Kendall & Rollins, 2003; PMI, 2008). To make it more convenient the functions are usually grouped in categories. 
+
+Although the functions could be grouped differently we would like to describe one of the most recent classifications provided by Artto et al. (2011) as, from our point of view, it involves all the basic functions revealed and includes the results of the most recent studies. According to the authors all the functions revealed could be divided into five distinctive categories: managing practices, training and consulting, administrative support, monitoring and control and evaluating, analyzing and choosing projects.
+
+Managing practices is concerned with the development of standards, procedures, methods, tools and information systems that help to improve project management practices and encourage continuous development of project management in organization. In fact, this group mainly refers to the knowledge management activities of PMO. 
+
+Another group closely connected with the knowledge role of PMO is training and consulting. These functions are concerned with the development of project organizational culture and improvement of employees’ knowledge in the area of project management through consulting, mentoring and trainings. 
+
+While talking about providing administrative support it is supposed that PMO undertakes some responsibilities of project managers in order to get economy of scale or to help project managers to decrease the workload. This function may include support in project planning, facilitation of kick-off meetings, providing facilities and equipment, reporting project status to upper management etc.
+
+Monitoring and control group is often considered by many authors as one of the most important functions of PMO. It usually includes such tasks as collecting reports, monitoring project performance, analyzing project progress and results, resource allocation, risk management, development of reward system and managing benefits.   
+
+And, finally, Evaluating, analyzing and choosing projects group refers mainly to portfolio management practices and functions and includes strategic planning, identification, evaluation and selection of projects, managing programs and portfolios, coordination between projects etc. More precisely, all the functions belonging to the groups as well as the sources of are described in the Table 4. 
+
+Table 4: Project management office tasks (Artto et al., 2011)
+
+
+
+Thus, having described the main theoretical foundations of the study in the domain of change management and project management offices we can move on to the conceptual phase of the research.
+
+
+
+
+
+
+Chapter 3: Integration of PMO and change mangement research
+
+The research study consists of two parts. Firstly, on the basis of the literatire review and information provided in the previous parts, a comparative analysis of the change management models and PMO functions has been conducted. To reveal the possible functions of PMO in the procees of managing changes an integrative model has been created. It has been supposed that PMO, possible, can play different roles and has different functions while taking part in different kinds of changes. However, the underlying assumption is that PMO can perform its functions and be a useful tool in any type of changes. To confirm or disprove this assumption the field study has been carried out providing practical insights into the issue. Preliminary information has been collected by means of electronic questionnaires and analysed. Finally, the results have been described, some suggestions and recommendations about the ways how PMO could improve various change management process has been proposed.
+
+3.1. Comparative analysis
+
+To provide a framework revealing the links between the change management process and PMO functions two theoretical models has been used. To characterize different kinds of changes and describe corresponding change processes the model proposed by Gareis (2010) has been applied. This choice is justified by the fact that the model mentioned is based on the main theoretical change management models and practical outcomes. Thus, the dimension of demand of change is related to the Levy and Merry’s classification of the first- and second-order changes while the potential to change could be defined by organizational experience in managing changes. Various combinations of these dimensions distinguish different types of changes that usually need different approaches and allow an organization to choose its strategy depending on the situation. As well, the model describes different change management processes that could be applied to a particular change type. As it has been mentioned in the literature review, in case of organizational transformation the process is quite similar to a Kotter’s model of managing changes that is supposed to be common in change management. Moreover, different functions deriving from these processes could be related with the possible functions of PMO. To describe these functions the classification provided by Artto et al. has been used. This choice is also explained by the fact that this model incorporates almost all the functions revealed in the researches by different authors. Having compared the models mentioned the integrative framework revealing the possible PMO functions in the process of managing different kinds of changes has been proposed (Table 5).
+
+
+
+Table 5: PMO functions in managing diffrent types of changes
+
+
+
+
+
+Although the change types and processes have already been briefly described in the literature review we would like to discuss them more precisely and explain why and how they could be linked with PMO functions. 
+
+
+
+Organizational learning
+
+Being a continuous process of organizational improvement that cannot be trasfered into projects or programms organizational learning may still require PMO efforts if we are talking about improvement of project management practicies. 
+
+In his work Gareis distinguishes five processes of oraganizational learning, including «identifying relevant new knowledge, securing this knowledge, providing the new knowledge to the employees, unlearning old, not relevant knowledge, and stabilizing the new knowledge”(Gareis, 2010, p.320). As well he mentions that such tools as environmental monitoring, knowledge databases, exchange of experience workshops could be used in this type of changes. 
+
+If we look at the activities held by PMO the parallels could be easily drawn. In this case PMO can identify and capture best project management practicies or lessons learned, document them, manage archives and databases.  As well, it can transfer the knew knowledge to the employees by providing training, mentoring and consulting facilities in this domain. To unlearn the old knowledge and practicies and stabilize new ones PMO could develop and implement project management standards, processes, methods and tools as well as specific information systems required. Thus, generally speaking, during the organizational learning in the domain of project management PMO could perform all the «managing practicies» and «training and consulting» functions described by Artto et al. 
+
+If we relate these functions to the existing PMO models it is possible to compare it with the Coach role proposed by Desouza and Evaristo. As well, according to Kendall and Rollins typology, it could be situated somewhere between the Repository and Coach roles as it includes training and consulting functions, which are absent in repository model, but lacks administrative support functions, existing in coach model.
+
+Further develompent
+
+As this type of change is targeted to the significant improvement of business results by implementing essential changes or innovations its performance could be managed by a project or chain of projects. 
+
+In this case, according to Gareis the process of change management consists of five phases which are “analyzing and defining rough objectives, rough planning, designing and testing, applying, and rolling-out” (Gareis, 2010, p.321). As well, it’s mentioned that depending on the scale the three last phases could be replaced just by the implementation phase. Thus, the further development process could be transformed into traditional process of managing project. However, Gareis highlights that special attention should be paid to providing appropriate resources, top management commitment and aligning the projects with the organizational strategy. 
+
+Now, coming to the existing PMO and its functions it is possible to mention that it could play a significant role in the implementation of such type of change. First of all, during the analyzing and defining objectives phase such functions as identifying and analyzing projects, could be carried out, as well as the participation in strategic planning to align projects with strategic goals. During the planning phase PMO could directly support project planning, analyze and evaluate project definition, planning, costs and benefits during the designing and testing phase, and, finally, perform all the administrative support, monitoring and control and, possibly, training and consulting functions while implementing (applying and rolling-out) the project. As well in case of several initiatives implemented in organization PMO could perform portfolio management functions. Programm management function is not mentioned here as the further development projects are supposed to be not interrelated and, subsequently, not to be managed in programs.
+
+Organizational transformation
+
+Being a fundamental organizational change, involving almost all the organizational dimensions, organizational transformation is considered to be the most appropriate change to be manged by projects and programms. As well, it is necessaty to highlight that such type of changes requires “hard cuts and new growth” and faces social complexity, that arises resistance, high dynamics and time pressure.  According to the Gareis' model, transforming usually consists of the following phases: interrupting the routine, developing a vision and a plan, making decisions, implementing, and stabilizing.
+
+While interrupting routine and developing a vision and a plan phases PMO can perform a whole range of  evaluating, analyzing and choosing projects functions. As well it could provide direct support in project planning, including planning the Quick Wins, and, that is extremely important in such kinf of change, facilitate communications to create awareness about the changes required. Coming to the implementation phase, first of all, it is necessary to mention thatfor this type of change «development of the individual and organizational transformation competences is required» (Gareis, 2010, p.321). Thus, the training and consulting PMO functions could play an important role. Although, PMO itself could provide trainings and consulting only for project managers and project team members, realising transformation, also it could initiate and manage projects aimed to providing new required knowledge to other employees. During the implementation phase PMO can perform all the administrative support and monitoring and control functions, as well some functions from «Evaluating, analyzing and choosing projects» group could be executed, such as coordination between projects and managing programms and portfolios in general. 
+
+As it has been mentioned above, in case of transforming, one of the most important challenge is the resistance to changes, so we would like to discuss this issue a bit more precisely. While investigating this issue in the literature review it has been mentioned that, according to Fiedler, from project management perspective resistance could be seen as the project risk. Thus, following this logic, it could be proposed that as PMO could execute risk management functions it could participate in managing resistance as well.  
+
+Finally, coming to the stabilizing and close-down phases it is considered that PMO can support projects' closeouts and facilitate communication to stakeholders about results.
+
+Talking about this change type in general it is also possible to assume that PMO could perform managing practices functions that support all the project management activities in case if changes are transfered into projects and programms.   
+
+Radical new positioning
+
+According to the definition proposed by Gareis, radical new positioning happens due to the external treat or crisis situation when fast short-term decisions and measures prevail the other, especially, at the first stages. Projects and programs, however, also could be applied but on the later stages when the possible damages are already minimized.  Radical new-positioning process could consists of the phases “crisis definition, short analysis and ad hoc measures, detailed crisis analysis and planning, implementing the resolution strategies and closing-down the crisis” (Gareis, 2010, p.322).
+
+Talking about the possible functions of PMO in the process of managing this type of changes it is more reasonable to assume that it is more reasonable to involve PMO on the later stages as well. During the detailed crisis analysis and planning, implementation and closing-down phases PMO could perform the same functions like described for organizational transformation process. However, it is possible that some functions that could be applied at the early stages could be revealed in course of the survey. 
+
+
+
+
+
+3.2. Field research
+
+To investigate the PMO functions in change management process the following hypothesis has been formulated:
+
+Project management office may contribute into change management process by performing various functions in any kind of changes 
+
+To confirm or disprove this statement the field research has been conducted to provide preliminary qualitative and quantitative data. The qualitative data has been needed to shed light on the functions that could be performed by PMO and what role it could play during change implementation while the quantitative data could provide an additional insight into the issue.
+
+To obtain the empirical data needed the survey has been conducted by means of electronic questionnaires. The survey process has consisted of three stages:
+
+Developing questionnaire 
+
+Respondents selection and questionnaires distribution
+
+Collecting responses 
+
+Talking about the first stage dedicated to the development of questionnaire, it has been decided to split it into four parts. The first part has been dedicated to the general information about the respondent (his/her position in the company) and the company described (including industry and organizational type). It has been supposed that these questions, firstly, would prepare the respondents for the following essential questions and also could provide additional information while interpreting the results. 
+
+The second part has been designed to get the information about the change faced by the company.  The questions have been composed in accordance with the logic of Gareis (2010) model and have been expected to define the change type. 
+
+The following part has been targeted to identify the functions or tools that have been used while implementing this particular change. As well the respondents have been asked to choose the functions or tools that have not been used but, in their opinion, have been worthy to use. This step has been expected to reveal the PMO functions that could be used while implementing this type of changes.
+
+Finally, some questions about PMO and its role in change implementation (if it exists) have been asked. These questions have been targeted to reveal directly whether the PMOs already perform change management functions in organizations. 
+
+The questionnaire consists of various types of questions, including factual yes/no questions, one-choice and multiple-choice questions, evaluative (ranking) questions and several open-ended questions. The questionnaire is presented in the Appendix 1. 
+
+To create the electronic questionnaire it has been decided to use Google Drive platform that allows to design questionnaires, as well as receive, collect and summarize responses in a convenient way. 
+
+Coming to the questionnaire distribution and data gathering, it is necessary to mention that it has been decided to conduct a survey among the respondents working not only in the project-based (organizations PBO). From the survey perspective, the main target is to reveal ALL the possible functions existing in change management process that theoretically COULD be carried out by the Project Management Offices. 
+
+Thus, the survey has been conducted among Russian and international respondents. As a result, 79 reliable responses have been received, except partial or false answers. The geographical distribution is represented in chart below:
+
+
+
+Figure 3: Respondents' distribution by countries
+
+Talking about the respondents’ positions in the companies, it’s possible to mention that almost all the categories, except program and portfolio managers, have been represented. The distribution of the respondents by positions is shown in the figure 4. 
+
+
+
+Figure 4 : Respondents' distribution by positions
+
+The questionnaire has been distributed by Internet; it has been posted into several social networks (including the professional project management groups) and sent by private mails to some other respondents. For data collection the Google Drive tools have been used, as mentioned above. Finally, the infornation gathered has been analysed using the statistical methods and analytical tools. The resullts are represented in graphs and tables.
+
+
+
+
+3.3. Research findings and results
+
+The following part is dedicated to the description of the results received and consists of four parts. In the first part, the general information about the companies analyzed is represented, including the industry in which the company is working and its organizational structure. In the second part information about the changes is summarized and described. The third part provides information about the functions and tools that have been applied while implementing the changes, as well as the respondents' opinions about which of them have not been applied but had to be. And, finally, the fourth part is dedicated to the PMO issue and the results about its participation in change management process (if existing). 
+
+Companies' overview 
+
+The table below represents the companies'(respondents') distribution by industries. 
+
+Table 6: Respondents' distribution by industries
+
+
+
+It is possible to notice that the most represented industries are Consulting and audit, Energy and Financial sectors. The following chart reveals the types of the companies which representatives have taken part in the survey.
+
+
+
+
+
+Figure 5: Companies distribution by organizational types
+
+
+
+As it follows from the chart, the majority of the respondents consider their companies as functional. However, at the same time, almost a half of respondents has identified that the companies they are working in have at least some projects in structure being either project-based or mixed. Nine percent of respondents could not identify the type of organizational structure. From our point of view, the distribution received meet the goals of the survey as it allows to analyze changes and change management functions in all the types of organizations and provide a relevant estimate of the possible change management functions.
+
+Changes’ overview
+
+Coming to the main part of the research it is also necessary to mention that, according to the data received, 58% of respondents has participated personally in the change management process while the rest 42% has not take active participation in changes:
+
+
+
+
+
+Figure 6: Direct participation in changes
+
+
+
+To provide more reliable data during the course of analysis it has been decided to limit the sample to the respondents who has directly participated in change process. Thus, during the following analysis only responses of these participants are taken into account. 
+
+Moving to the questions about the change their organizations have ever met the respondents have provided a wide range of changes (the list of the changes named is provided in appendix). Talking about the change characteristics it is necessary to highlight that the respondents have described the changes referring to all the targets distinguished. The change distribution by targets is shown in the chart below:
+
+
+
+
+
+Figure 7: Distribution of changes’ targets
+
+As it is seen from the chart the majority of the changes, 57%, has been identified as belonging to the improvement of business results by implementing significant changes or innovations, 22%, have been referred to the continuous improvement process, while 17% of changes has been attributed to transformation and just 4% has been targeted to crisis or extreme situation resolution. It is possible to mention that the distribution almost follows the logic of frequency of different change types. The only surprising thing is that improvement of business results is represented twice more often than continuous improvement although it seems that due to the character the later one should happen more often. In our opinion this could be explained by psychological issues, as people suppose that they should try to describe something more significant that small daily improvements. 
+
+To identify more precisely the change types several questions about change demand and change potential have been asked. Having combined the results, it is possible to notice that the characteristics provided about the change generally suit to the combinations of characteristics used to describe each type of changes. 
+
+However it’s necessary to mention that sometimes the combinations of characteristics provided differ from the combinations proposed by Gareis. Although this issue is not the target of our research and we are not going into deeper analysis, in general it could be seen from the graphs. Thus, comparing the graphs representing the change frequency, change scale, change targets and readiness for change it’s possible to notice that the proportions characterizing the same change type differ. Especially, the problems arise while identifying the change frequency.
+
+
+
+
+
+Figure 8: Change distribution by frequency
+
+
+
+
+
+Figure 9: Change distribution by scale
+
+
+
+In our opinion, it could be explained, firstly, by the different perception of the terms used or difficulty to estimate the issue but also by the peculiarities of a particular company and general character of the model. Thus, for example, insufficient changes aimed to the improvement of business process could happen in company quite rare due to the stringent technological requirements or to passive character of doing business.
+
+Having analyzed the results received it has been decided to define the change categories taking into account the issues mentioned. Thus, the organizational learning has been characterized by small scale of changes, quite high readiness to change (4-5) and target of continuous improvement but its frequency could vary significantly. In its turn, further development has been described as the medium scale change with medium (3-4) and sometimes high readiness to change that leads to significant improvements or innovations, which frequency however could vary from medium to low. Coming to the organizational transformation it is possible to mention that it seems to be the best defined type of change. While describing it such characteristics as rare frequency, big scale and moderate or low readiness (2-4) are named in the most of the cases. And, finally, talking about the radical new-positioning it is also could be seen that it is usually characterized as a rare event involving almost all organizational parameters, targeted to the resolution of crisis situation, to which company is not much ready (1-2). To conclude about the identification of change type we would like to mention that the characteristics discussed usually divide clearly the first- and second-order changes, while the differences between the change types inside these categories remain to be vague and difficult to distinguish. 
+
+Based on the assumptions mentioned the following distribution of change named by respondents by types have been identified:
+
+
+
+
+
+Figure 10: Distribution by change types
+
+
+
+The “other” category includes several changes mentioned which type could not been clearly defined by the change types characteristics described above.
+
+
+PMO functions used in change management process
+
+Coming to the issue of change implementation process and functions related, first of all, it is interesting to mention in which way the changes are processed in the respondents’ organizations. 
+
+
+
+
+
+Figure 11: Distribution of ways of change implementation
+
+
+
+According to the data represented by chart above, the majority of changes, 46%, mentioned have been realized in the boundaries of functional activities while just a bit less, 43%, have been realized by means of projects or programs. However, still there are some more options called, e.g. full reorganization. It is interesting to mention that as we remember from the previous chart the majority of the respondents has identified that their organizations use projects in their activities. To investigate more precisely the links between the way of implementing change, change type and organizational structure additional analysis could be provided in the further research.
+
+
+
+As well the question about the existence of specific departments or positions generally responsible for change management has been asked. According to the results received (see fig.11) specialized change management bodies exist only in 24% of organizations. According to the results of the open question, responsibilities for change management are carried out either by CEO, partners or top managers or by specialized departments, like organizational development department, business strategy office or project management department (PMO). Also, sometimes external companies take responsibilities about managing changes (outsourcing). 
+
+Coming back to the functions realized during the change implementation, the following results have been received while asking about the methods and tools used or that should be used during the change process:
+
+
+
+
+
+
+
+Figure 12: Tools and methods related to PMO functions in CM process
+
+
+
+As it follows from the diagram above all the respondents have mentioned that a range of tools and methods, which could be developed, implemented and maintained by PMO, either have already been used during the change implementation or had to be used. It is interesting to notice that in general almost all of the tools and methods already have been applied while implementing the changes. The less used categories include documentation archives and mentoring, however they are also not considered as worthy to be used by many respondents. 
+
+As well, it is necessary to pay attention to “Nothing” category, as we can see from the graph it has received quite many responses while asking what had to be used. However if we check the data it could be concluded that there is no respondents who consider that these methods and tools neither has been used nor had to be used. Thus, it could be concluded that tools and methods that could be implemented or maintained by PMO anyway are considered as useful for managing change.
+
+Moving to the change management processes that have been carried out or should have been carried out the similar conclusions could be made. According to the results represented in the diagram below a general conclusion that in general all the PMO functions could be applied to change management process.
+
+
+
+Figure 13: Functions related to PMO functions in CM process
+
+ 
+
+As we can see from the diagram traditional managing processes, such as planning, resource search and allocation, monitoring and control, reporting to the top management, communications, analysis and control are generally used while implementing the changes. However, it is interesting to highlight such functions as risk management and monitoring stakeholders’ satisfaction which have rarely been applied but are supposed to be worthy to apply. Talking about “nothing” category it is also necessary to mention that none of the respondents has rejected possibility to use all these functions during change implementation.
+
+Finally, talking about the PMO functions in case of realizing several change initiatives, the following results have been received:
+
+
+
+Figure 14: Processes related to PMO functions in managing several initiatives
+
+Analyzing the results received it is possible to notice that while facing several change initiatives less functions have been realized during change process in comparison with the case of single initiative.  As it is seen from the diagram above the most used functions relate to the identification and assessment of change initiative. While, according to the respondents’ opinion a lot of functions aimed to the management of several projects, especially, such as coordination between initiatives, portfolio and program management had been missing and had to be applied that also highlights possible value of PMO functions for change management process. However, it is also necessary to mention that 6,5% of respondents still assumed that during the change process none of the functions has been applied and had not to be applied. 
+
+After making a general conclusion about the functions used in change management process that could be related with PMO it is necessary to analyze more precisely whether PMO functions are supposed to be used in context of any type of changes.
+
+To achieve this goal the answers received has been sorted by change types defined in the previous steps. Next, in each group the functions mentioned has been examined and summarized. The results of the analysis are provided in the Appendix 2.
+
+As it could be seen from the table, the results received differ from initial assumptions made about distribution of PMO functions across change types. According to the data almost all PMO functions could be applied to managing any change type. However, some interesting trends could be identified. Thus, talking about organizational learning it could be seen that functions related to “managing practices” and “training and development” categories are generally considered as important for this kind of change. At the same time, administrative support and monitoring and control functions are also represented in this type, although, initially the assumption about knowledge role of PMO has been made. In our opinion such results could be explained, firstly, by the more practical insight into the issue, as well as by shortcomings in identification of change types and confusion in characteristics. Anyway, it is seen that these functions are supposed less important than managing practices and training ones that is aligned with the theoretical assumptions. Talking about the functions used in management of several initiatives quite high results have been received. In our opinion it could be explained by the fact that while answering this question respondents have taken into account not only several changes of the same type but all the possible changes. 
+
+Coming to the further development it is possible to notice that although the “managing practices” and managing several initiatives functions still have remained quite important, although a bit less than in case of organizational learning, the importance of administrative support functions has increased significantly that is aligned with the supposed character of change.  As well monitoring and control and training and consulting functions have been highly recognized.  
+
+Moving to the organizational transformation it is necessary to highlight even more increase in significance of administrative support functions. In comparison with further development the importance of training and consulting functions has also increased a little bit, while the managing practices functions have been evaluated on more or less the same level. However, the managing several initiatives functions have received much more attention. It is possible to notice an increased importance of strategic planning, coordination between projects and program and portfolio management that is also aligned with the characteristics of the change type.
+
+Finally, coming to the radical new positioning, unfortunately it is not possible to make a reliable analysis in this case due to the very limited number of respondents in our case. However, looking at the results received it is possible to conclude that due to the extreme character of the situation a very limited number of basic functions have been chosen and, especially, applied. To investigate this type of changes additional research should be provided.
+
+Existing change management functions of PMOs 
+
+As the additional step of the survey it has been decided to investigate whether the PMOs existing in the companies (if any) already participate in change management and which functions they perform. 
+
+
+
+Figure 15: Existance of PMOs in organizations
+
+According to the chart provided above, PMOs exist in 25% of organizations analyzed however 18% of respondents are not sure about the issue. Further analysis demonstrates that according to the respondents’ opinion, only in 23% of cases the existing PMOs have participated in change management process. 
+
+
+
+
+
+Figure 16: Participation of PMOs in change management process
+
+Among the functions performed by the PMO have been mentioned initiation, planning, resource allocation, reporting, administrative support, monitoring and control. In come cases PMO have been responsible for change implementation in general, while sometimes executed only some functions. Thus, it could be assumed that PMO already participate in change management process however due to the small size of the sample it is not reasonable to make a general conclusion on the issue but it provides an additional support to the conclusion made about PMO role in change management process.
+
+To conclude it is necessary to say that in course of the analysis we have made an attempt to identify the relations between different change types and PMO functions, however the results received are not pretending to be verified, thus, to investigate more precisely on this issue further analysis should be provided.  However, the general hypothesis about possible PMO contribution into the processes of managing different types of changes has received its verification.
+
+
+
+
+
+
+
+
+
+  
+Conclusion
+
+In the study proposed the possible relations between project management and change management has been examined from the perspective of possible PMO roles and functions in the process of managing change. 
+
+In the first part a thorough analysis of the literature has been conducted that has allowed to shed light on the main theoretical issues of changes and change management. Various change typologies have been described and compared, as well as the main change management approaches have been identified and discussed. Moreover, the study has also touched the phenomenon of resistance to change and described several models proposed for managing resistance. 
+
+In the course of the second part the main theoretical issues about Project Management Offices have been discovered. On the basis of the literature review the existing types of PMOs have been described and compared. As well, the possible roles and functions have been determined and explained. 
+
+In the third part an integrative framework describing the possible interventions of PMO into change management processes have been proposed. As well, the survey aimed to verify or disprove the assumptions made has been described; the results received have been represented and analyzed.
+
+Thus, the research has shown that the functions and tools related to Project management office could be used during the implementation process of different types of changes. Subsequently, if implemented in organization, PMO could become a useful tool in change management process executing various functions. However, to identify more precisely whether the functions should differ in different change types a more thorough analysis should be provided.
+
+Talking about the possible implications of the study it is possible to mention that it may has both theoretical and practical implementation. From practical point of view it could provide useful information to practitioners working in organizations where PMO is already implemented or is planned to be implemented and, probably, improve change management processes.
+
+From theoretical perspective the findings of the study could serve as a basis and trigger the further research on PMO roles in change management process and generally contribute into the area of relations between change and project management.
+
+
+Bibliography:
+
+
+
+Benko, C., Mcfarlan, F.W., (2003), Connecting the Dots: Aligning Projects with Objectives in Unpredictable Times, Harvard Business School Press, Boston.
+
+Crawford, K.J., (2002). The Strategic Project Office. Marcel Dekker, New York.
+
+Crawford, J. (2010), The Strategic Project Office (2nd edition). USA: CRC Press
+
+Dinsmore, P.C., (1999). Winning in Business with Enterprise Project Management. AMACOM, New York.
+
+Hill, C., Jones, J. (2001), Strategic management. Houghton Mifflin, Boston.
+
+Hill, G. (2008), The complete project management office handbook, Auerbach Publications. 
+
+Hobbs, B., Aubry, M. (2010), The Project Management Office (PMO): A Quest for Understanding. Project Management Research Chair University of Quebec at Montreal. Pennsylvania, USA: Project Management Institute Inc.
+
+Kanter, R.M., Stein, B.A., Jick, T.D. (1992), The Challenge of Organizational Change, New York: The Free Press 
+
+Kendall, G., Rollins, S. (2003), Advanced Project Portfolio Management and the PMO: Multiplying ROI at Warp Speed. USA: J. Ross Publishing, Inc.
+
+ Levy, A., Merry, U., (1986) Organizational Transformation – Approaches, Strategies, and Theories. Greenwood Publishing Group, NewYork.
+
+ Marsh, D. (2001) The project and program support office handbook, UK: Project Management Today Publications.
+
+ Project Management Institute. (2008). A guide to the project management body of knowledge (4th edition). Newton Square, Pennsylvania, USA: PA: Project Management Institute
+
+ Office of Government Commerce (2008), For Successful Portfolio, Programme and Project Offices: Think P3O, Stationery Office, London.
+
+ Фрайлингер К., Фишер И. (2002) Управление изменениями в организации: пер. с нем. Н.П. Береговой, И.А. Сергеевой, М.: Книгописная палата.
+
+ Allen, T.J., Katz, R. (1995), “The project-oriented engineer: a dilemma for Human Resource Management”, R&D Management. Vol.25, pp.129–140
+
+ Armenakis, A., Harris, S.G. (2009), “Reflections: our Journey in Organizational Change Research and Practice”, Journal of Change Management. Vol. 9, No. 2, pp.127–142 
+
+ Arrto K., Kulvik I., Poskela J., Turkulainen V. (2011), “The integrative role of project management office in the front end of innovation”, International Journal of Project Management, 29, pp.408-421
+
+ Aubry, M., Hobbs, B., & Thuillier, D. (2007), “A new framework for understanding organizational project management through the PMO”, International Journal of Project Management, 25, pp.328-336
+
+ Aubry, M., Hobbs, B., & Thuillier, D. (2007), “Organizational project management: an historical approach to the study of PMOs”, International Journal of Project Management, 26, pp.38-43.
+
+ Aubry, M., Müller, R., Hobbs, B., & Blomquist, T. (2010), “Project management offices in transition”, International Journal of Project Management, 28, pp.766–778.
+
+ Aubry, M., Müller, R., Hobbs, B., & Blomquist, T. (2010), “Identifying forces driving PMO changes”, Project Management Journal, 41 (4), pp.30-45
+
+ Bartunek, J.M. (1993), “Rummaging behind the scenes of organizational change – and finding role transitions, illness and physical space”, Research in Organizational Change and Development, 7, pp. 41–76.
+
+ Biedenbach, T., Soderholm, A. (2008), “The Challenge of Organizing Change in Hypercompetitive Industries: A Literature Review”, Journal of Change Management. Vol. 8, No. 2, pp.123–145
+
+ Burnes, B. (1996), “No such things as. . .a one best way to manage organizational change”. Management Decision, Vol 34, pp.11–18
+
+ By, R.T. (2005), “Organizational Change Management: A Critical Review”, Journal of Change Management, Vol. 5, No. 4, pp. 369–380
+
+ Dent, E.B., Goldberg, S.G. (1999), “Challenging ‘resistance to change’”, The Journal of Applied Behavioral Science, Vol.35, pp. 25–41
+
+ Dunphy, D., Stace, D. (1993), “The strategic management of corporate change”, Human Relations, Vol.46, pp. 905–920 
+
+ Desouza,, K.C., Evaristo, J.R. (2006), “Project management offices: a case of knowledge-based archetypes”, International Journal of Information Management, Vol. 26 No. 5, pp. 414-423
+
+ Fabi, B., Pettersen, N. (1992), “Human Resource Management practices in project management”. International Journal of Project Management, Vol.10, pp.81–88
+
+ Fiedler, S. (2010), “Managing resistance in an organizational transformation: A case study from a mobile operator company”, International Journal of Project Management, Vol. 28, pp.370–383
+
+ Folger, R., Skarlicki, D. (1999) “Unfa Greenberg Greenberg irness and resistance to change: hardship as mistreatment”. Journal of Organizational Change Management, Vol. 12, pp.35–50
+
+ Gareis, R. (2010), “Changes of organizations by projects”, International Journal of Project Management, Vol. 28, pp. 314–327 
+
+ Hill, G.M. (2004), “Evolving the project management office: A competency continuum”, Information Systems Management, 21(4), pp. 45-51
+
+ Hobbs, B., Aubrey, M. (2007), “A multi-phase research program investigation of project management offices (PMOs)”, Project Management Journal, 38(1), pp. 74-86.
+
+ Hobbs, B., Aubrey, M. (2008), “An empirically grounded search for a typology of project management offices”. Project Management Journal, 39, pp. 69-82
+
+ Hobbs, B., Aubry, M., Thuillier, D. (2008), “The project management office as an organizational innovation”, International Journal of Project Management, 26, pp. 547-555
+
+ Huemann, M. (2010), “Considering Human Resource Management when developing a project-oriented company: Case study of a telecommunication company”. International Journal of Project Management, Vol. 28, pp.361–369 
+
+ Hwang, B.-G., Low, L.K. (2012), “Construction project management in Singapore: Status, importance and impact”. International Journal of Project Management, 30, pp.817–826
+
+ Klein, J.A. (1984) “Why supervisors resist employee involvement”, Harvard Business Review, 62, pp. 87–95.
+
+ Kotter, J.P. (1995), “Leading change. Why transformation efforts fail”. Harvard Business Review, Vol.52, pp.106–114
+
+ Kotter, J.P., Schlesinger, L.A. (1979), “Choosing strategies for change”, Harvard Business Review, Vol.57, pp. 106–114
+
+ Lawrence, P.R. (1954), “How to deal with resistance to change”, Harvard Business Review, 32, pp. 49–57
+
+ Levy, A. (1986), Second order change, definition and conceptualization. Organizational Dynamics, 15 (1), pp. 5–23
+
+ Lewin, K. (1947), “Frontiers in group dynamics”. Human Relations, Vol.1, pp.5–41.
+
+ McElroy, W. (1996), “Implementing strategic change through projects”. International Journal of Project Management, Vol. 14, No. 6, pp. 325-329
+
+ Parker, D., Charlton, J., Ribeiro A., Pathak R.D. (2013), “Integration of project-based management and change management: Intervention methodology”. International Journal of Productivity and Performance Management, Vol. 62 No. 5, pp. 534-544 
+
+ Pellegrinelli, S., Garagna, L. (2009), “Towards a conceptualization of PMOs as agents and subjects of change and renewal”. International Journal of Project Management, 27(7), pp. 649-656
+
+ R. van Dijk, R. van Dick (2009), “Navigating Organizational Change: Change Leaders, Employee Resistance and Work-based Identities”. Journal of Change Management, Vol. 9, No. 2, pp. 143–163 
+
+ Singh, R., Keil, M. and Kasi, V. (2009), “Identifying and overcoming the challenges of implementing a project management office”, European Journal of Information Systems, Vol. 18, No. 5, pp. 409-427.
+
+ Turner, J.R et al. (1998). “Corporate development: balancing changes to people, systems and organization”, Project Management, Vol. 6, No 1, pp.27-32
+
+ Winter, Mark, Szczepanek, Tony, 2008. Projects and programmes as value creation processes: a new perspective and some practical implications. International Journal of Project Management, Vol. 26, pp.95–103. 
+
+ Zhang, L. (2013) “Managing project changes: Case studies on stage iteration and functional interaction”. International Journal of Project Management, 31, pp. 958–970
+
+ Bridges, D.N., Crawford, K.J., (2001). A Project Office: Where and What Type. Paper presented at the PMI Annual Seminars and Symposium, November, Nashville, Tenn.
+
+ Crawford, L., (2004). Patterns of Support for Corporate Delivery Capability. Paper presented at the Project Management of South Africa, May, Johannesburg, South Africa.
+
+ Hobbs, B., Aubry, M. (2006). Identifying the structure that underlies the extreme variety found among PMOs. 4 Proceedings of PMI research conference. Montreal, Canada.
+
+
+
+Appendices
+
+Appendix 1: Survey questionnaire
+
+Managing changes in organizations
+
+
+
+1) Please, identify the area in which your company is working *
+
+
+
+
+
+
+2) What is the type of your organization? *
+
+
+
+Functional organization
+
+Project-based organization
+
+Mixed organization
+
+
+
+3) Identify your position in the company: *
+
+
+
+Intern/trainee
+
+Specialist
+
+Manager
+
+Middle manager
+
+Top manager
+
+CEO
+
+Project manager
+
+Program manager
+
+Portfolio manager
+
+Owner (entrepreneur) 
+
+
+
+4) Please, identify one of the changes your organization has faced *
+
+During the following questions, please, describe this change
+
+
+
+
+
+
+
+5) How often does such kind of changes (in general) happen in your company? *
+
+Continuously 
+
+Often
+
+Sometimes
+
+Rare
+
+
+
+6) How many organizational parameters do these changes involve? *
+
+Parameters could include organizational processes, structures, culture etc.
+
+
+
+One or several parameters
+
+Many parameters or organization in whole
+
+
+
+7) These changes are aimed to: *
+
+
+
+Continuous improvement of a distinct business processes, structures, tools etc.
+
+Improvement of business results by implementing significant changes or innovations
+
+Significant transformation of organization involving strategy, structure, culture and other organizational elements
+
+Resolution of a crisis, extreme situation requiring radical actions
+
+
+
+8) Please, assess the readiness of organization to these changes: *
+
+
+
+
+
+9) How successful have these changes been implemented? *
+
+Evaluate using the scale
+
+
+
+
+
+10) Does the special departments or persons responsible for change management in general exist in your organization? *
+
+
+
+Yes
+
+No
+
+Don't know
+
+
+
+11) If yes, please, clarify which ones: 
+
+
+
+
+
+
+
+
+
+12) Have you personally taken part in implementing this change? *
+
+
+
+Yes
+
+No
+
+
+
+13) Change implementation has been realized in the boundaries of: *
+
+
+
+Daily functional activities
+
+Specific projects or programs
+
+Other
+
+
+
+14) From organizational point of view what has been used during change implementation? *
+
+You can choose any variants
+
+Standardized methodology, processes and tools
+
+Standardized reporting forms
+
+Information systems and programs
+
+Documentation archives
+
+Data bases of best practices
+
+Trainings and learning programs
+
+Mentoring
+
+Informational support and consulting
+
+Nothing
+
+
+
+15) In your opinion, what of the mentioned above has not been used but had to be used? *
+
+You can choose any variants
+
+Standardized methodology, processes and tools
+
+Standardized reporting forms
+
+Information systems and programs
+
+Documentation archives
+
+Data bases of best practices
+
+Trainings and learning programs
+
+Mentoring
+
+Informational support and consulting
+
+Nothing
+
+
+
+16) During the change implementation the following functions have been realized: *
+
+You can choose any variants
+
+Planning of the change process
+
+Resource search and allocation
+
+Purchasing and contract relations
+
+Recruiting, selection and evaluation of managers responsible for implementation of the change
+
+Team creation
+
+Development of the motivation system
+
+Kick-off meeting
+
+Risk management
+
+Communications
+
+Monitoring and control of the change progress
+
+Reporting to the top management
+
+Documenting changes in the planned process
+
+Archievation of knowledge accumulated
+
+Monitoring stakeholders' satisfaction
+
+Analysis and assessment of the results achieved
+
+Nothing
+
+
+
+17) Which of these functions have missed but had to be applied? *
+
+You can choose any variants
+
+Planning of the change process
+
+Resource search and allocation
+
+Purchasing and contract relations
+
+Recruiting, selection and evaluation of managers responsible for implementation of the change
+
+Team creation
+
+Development of the motivation system
+
+Kick-off meeting
+
+Risk management
+
+Communications
+
+Monitoring and control of the change progress
+
+Reporting to the top management
+
+Documenting changes in the planned process
+
+Archievation of knowledge accumulated
+
+Monitoring stakeholders' satisfaction
+
+Analysis and assessment of the results achieved
+
+Nothing
+
+
+
+18) In case of implementing several initiatives simultaneously the following functions have been used: *
+
+You can choose any variants
+
+Identification, selection and prioritization of initiatives
+
+Evaluating definition and implementation plan
+
+Cost analysis
+
+Initiation of the change
+
+Strategic planning
+
+Coordination between initiatives
+
+Program management
+
+Portfolio management
+
+Nothing
+
+
+
+
+
+
+
+
+
+19) Which of these functions would be worthy to apply? *
+
+You can choose any number of variants
+
+Identification, selection and prioritization of initiatives
+
+Evaluating definition and implementation plan
+
+Cost analysis
+
+Initiation of the change
+
+Strategic planning
+
+Coordination between initiatives
+
+Program management
+
+Portfolio management
+
+Nothing
+
+
+
+20) Does the Project Management Office exist in your organization? *
+
+
+
+Yes
+
+No
+
+Don't know
+
+
+
+21) If yes, does it participate in the change implementation?
+
+
+
+Yes
+
+No
+
+Don't know
+
+
+
+22) If yes, please, describe briefly how it participate/participated in change implementation:
+
+
+
+
+
+
+
+
+
+
+
+Where are you from? * 
+
+
+
+
+
+
+
+Appendix 2: Research Findings
+
+
+

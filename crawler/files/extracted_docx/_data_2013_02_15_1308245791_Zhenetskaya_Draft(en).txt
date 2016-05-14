@@ -1,0 +1,296 @@
+Scientific Research University
+
+Higher School of Economics
+
+Faculty of Business Informatics
+
+Department of Innovation and Business in Information Technology
+
+
+
+
+
+
+
+
+
+
+
+DRAFT
+
+of the paper
+
+“Design of a Balanced Scorecard of Company”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Student: Zhenetskaya, Mariya Margarita  M.
+
+Group: 475
+
+Argument Consultant: Romanov, Dmitry A.
+
+Style and Language Consultant: Podobed, Karina A.
+
+
+
+
+
+
+
+
+
+
+
+2013
+
+
+Abstract
+
+The subject of this study is Draft of the paper “Design of a Balanced Scorecard of Company”. The aim of this study is to determine basic aspects which would be at Diploma to justify to choice and show theme’s importance, and to describe its structure. This paper presents a summary about what is the BSC, how it appeared, what are the main goals of the BSC, how to use them, what opportunities appears in the company which use this methodology, and what strengths and weaknesses exist in these systems. At the end of the paper is a preliminary plan for the structure of Diploma. The plan should help to give full consideration to the analysis of the selected area and to conduct practical research on the example of a real organization in the future.
+
+
+
+
+
+
+
+
+
+
+Contents
+
+
+
+
+Introduction
+
+Relevance of the topic due to the fact that recently the BSC is being promoted on the foreign companies (especially in the U.S.), and has become increasingly popular in Russia and the CIS. There are a couple of reasons for it.
+
+First, there is an acute problem of unstructured information flow, which can often be delayed and controversial. The BSC is a great tool to solve this problem,
+
+Second, modern manager understands the importance of non-financial performance of the organization and needs a system that can reflect such factors.
+
+Third, significantly, the effectiveness of organization depends on directed actions of all employees. And for the successful direction of their action requires a certain system of motivation, methods and means of measuring to the desired result, i.e., mechanism consistent bringing to each employee strategic goals of the company and its involving in the relevant business processes.
+
+Thus, perspective variant of implementation of this mechanism is the BSC.
+
+
+Chapter 1. What is the Balanced Scorecard?
+
+The balanced scorecard has not been good studied in Russia. Domestic researches do not provide specific information about the system. But foreign sources provide a lot of information about BSC, its prerequisites for the emergence and development stages.
+
+1.1 Prerequisites for Emergence of the BSC
+
+Rapidly growing North American corporations felt the need to have effective methods to manage their industrial empires in the last century. Thus, the prototype of a widely known and used today index ROI (Return On Investment) was used at DuPont in the 20-ies. Most accounting operations developed at that time are still practiced with greater or lesser changes.
+
+Traditionally CEOs look out for only on financial performance. They encourage short-term planning and investment aimed at standard methods of staff work but not on their initiative. At the same time they do not give information about the quality of products and level of customer service.
+
+Approximately until the half of the twentieth century factories could organize mass production for the anonymous market without special fears, because it was far from saturation. The main attention was paid to increase the efficiency of commodity production, which can be judged by the financial results.
+
+ With the saturation of the market (in most developed countries from 70's.) customers had become much more legible and forced companies to shift its focus to meet their requirements. As a result, it was recognized that the traditional approaches of accounting does not correspond to vastly different business environment.
+
+The Balanced Scorecard appeared in 1992 and became the perspective of new-generation. It had been a result of longstanding work; witch was made by Robert Kaplan (Harvard Business School Prof.) and David Norton (founder and president of Balanced Scorecard Collaborative) at head. The basis of their investigations was the hypothesis that there is not enough only financial data for successful management of a modern company and, therefore, it requires a new more "balanced" approach: «First of all, we have developed a BSC because there is not enough financial performance to describe the process of creating enterprise value. The main part of EV consists of not only material or capital assets of the enterprise, but of "intangible" things like its staff, used systems, business processes, innovation, and the company's relationship with customers. Financial performance may not reflect the state of those assets, or their contribution to the total cost, so there is need of a comprehensive system that includes both financial and non-financial indicators which clearly show how value is created. Second, these figures should not be a chaotic set of data and reports, as it often is. All of them need to be properly integrated in a certain systematic basis, i.e. indicators are determined by the strategy of the enterprise. Coherent system of indicators provides the correct "tuning" of workers on policies that guarantee the correct strategic focus. Third, the BSC management system must be built around a new set of indicators and new ways to measure them. You need to bring this system to the employees to understand the competitive advantage of your company, and how it calculates enterprise value. Individual motivators and personal goals of employees should be attached to these parameters and then track the data of their measurements and estimates in order to be able to understand what business processes must be improved and how to achieve such resource allocation that it provides the implementation of the corporate strategy…».
+
+For accuracy it must be said that the original concept of BSC was conceived not as a tool for implementation of the strategy, but only as an extended (compared to traditional financial metrics) system of performance measurement of company.
+
+In the article «The Balanced Scorecard – Measures That Drive Performance» authors summarize the results of a study conducted in 12 companies, and provided in a first approximation BSC as a system of performance indicators grouped in four aspects, or prospective of the company - financial, customer, internal business processes, learning and grows. In each of these perspectives Kaplan R.S. and Norton D.P proposed to define the strategic goals and critical success factors in achieving these goals, so in order not only to measure the level of achievement of the anticipated financial results (such as quarterly sales growth and operating profit) but also to monitor the progress in relations with customers, increase efficiency, as well as monitor the status of intangible assets (labor discipline, skills, staff, etc.). Extended system of measurements arouses some companies' interest at least because non-financial aspects play an important role at business of these companies. That’s why taking into account all variations associated with staff, clients, innovation and business processes, and their contribution to the prosperity or decline of company until the BSC system had appeared was difficult. Soon after the BSC has spread in U.S. firms, it was found that it can be used not only to measure the achievements, but also for strategic management, which was established in article Kaplan R.S. and Norton D.P. «Using the Balanced Scorecard as a Strategic Management System». Thus, it began to separate two stages of development of the concept of Balanced Scorecard – BSC of first generation and BSC of second generation.
+
+Ten years after the appearance of BSC Kaplan claimed to CFO Magazine, «Bain & Co. does a survey every year of the management practices in large companies. This survey indicates that in North America, about 50 percent of Fortune 1,000 companies [are using the scorecard], and in Europe somewhere between 40 and 45 percent. I was just down in Australia. There, research done by one of the universities indicates that about 35 percent of companies claim to be using a balanced scorecard». They include such corporations as Coca-Cola, BP, General Electric, McDonalds, L'Oreal, BMW, Boeing, Samsung Electronics and others. 
+
+In the last few years the BSC is promoted at Russian enterprises. It first appeared on the "Lukoil" and "Severstal", in Ukraine at "Aval Bank".
+
+1.2 Conception of the BSC
+
+So, the basic idea is the concept of the BSC is in a concise, structured form of a performance system which provides the most important information for manager. On the one hand, this information should be compact, and on the other hand should reflect all main aspects of the company.
+
+Let's give a definition of the BSC. The Balanced Scorecard (BSC) is a strategic management system of the organization based on the measurement and evaluation of its performance on a set of indicators, that are selected in such a way as to take into account all significant (in terms of strategy) aspects of the organization (financial, manufacturing, marketing, etc.).
+
+The main objective of BSC is to increase shareholder value. In general there are only two ways to achieve this - either sell more or spend less. For cost management it must establish arrangements allow company sell more or spend less, accordingly. Reduction of expenses is directly related to accounting and measurement indicators. Cost accounting system perfectly copes with it especially if you use a cost accounting system for the core activities (activity-based cost). But the main problem in the value-based management is that by itself this principle does not provide information on how to sell more. The BSC becomes "engine" of value-based management, as the balanced scorecard shows you exactly where appear the revenue growth and which customer provides it and why.
+
+Further, BSC reveals the key business processes on which improvement should focus the company to convey his unique offering to the consumer. Later it directs investments and focuses on work with staff in this direction, the development of the internal systems, corporate culture and climate.
+
+Thus, the concepts of cost management and the BSC are very compatible. In fact, this is probably the same things, except that the BSC provides much more detailed information about how to achieve real revenue or performance growth.
+
+There are three main ideas of BSC:
+
+The company is successful only if the development goes according to plan, that is, company achieves its objectives through the creation and implementation of strategic plans; 
+
+Actions of the company should be coordinated to gain the goals with the lowest costs and in the shortest time; 
+
+You can manage what you can measure. In other words, the manager of each level should have a set of key performance indicators (KPI), which he operates in his activities. The motto of the concept is - «if you can’t measure it, you can’t manage it»
+
+In the classic version all relevant information for manager’s decision-making, is divided into four interconnected blocks or perspectives presented in Graph 1.
+
+
+
+Graph 1 - Structure of BSC
+
+The graph shows five basic elements of BSC, they are Vision and Strategy, Financial, Learning and Grows, Customer and Internal Business Processes. Vision and Strategy is correlated with four basic perspectives and each perspective relate to another. It indicates logic of the company's business, following which should lead it to success. This allows managers to form a complete picture of how to develop their company, helps set priorities and predict the consequences of decisions in terms of the strategic objectives. Therefore, management of the company becomes strategically oriented.
+
+Chapter 2. Options of the BSC and its Usage
+
+For the most part balanced scorecard will be useful to companies that need to provide effective management for the implementation of strategic objectives, and companies that had passed the procedure of restructuring and have difficulties in constructing the system of management. Conventionally, there are four main features that a company needs a BSC.
+
+The first feature - the company has a strategy and mission, and the management for various reasons is not involved in the process of strategic management: 85% of managers spend on strategic issues less than an hour a month or a have little understanding about nature of the strategic management.
+
+The second feature - employees misunderstanding of strategic objectives of the company and their non-participation in the achievement of these goals. These issues are solved by implementation of the BSC.
+
+The third feature - using of a Balanced Scorecard is justified in a group of companies where each company pursues its own objectives, not always corresponding single strategy of holding. Through the adopting of the BSC it solves the problem of Group communication and builds clear scheme of strategic management.
+
+The fourth important feature, that the company is appropriate to introduce, a system of Balanced Scorecard - the lack of prompt control over the realization business strategy. Strategic management of the company is an ongoing process that includes setting strategic goals, performance objectives, monitoring and taking corrective management decisions. If the company cannot control the execution of its objectives, it is not necessary to hope that they will be achieved.
+
+For the successful implementation of the BSC consulting firms recommend the following rules:
+
+The BSC should not be developed in the head alone and in secret from the employees. The BSC - is a product of the team. The manager must coordinate goals with employees and involve them in the process of setting goals.
+
+The BSC will not run right from the early days of its implementation. Development of the BSC - is an iterative process, and typically requires n-rated amount refinements and adjustments of the first version, before the BSC will work.
+
+One of the main difficulties in the construction BSC – is selecting of adequate indicator (s) for the measurement of a strategic objective. A particular problem can be difficult to measure at all (i.e., the willingness of staff to change the company's image, the atmosphere in the team). The second problem - gathering information to calculate the value of the indicator can be prohibitively expensive (i.e., the calculation of the exact value of market share may require great efforts to collect and process information).
+
+The implementation of BSC should be a common goal for all employees. Every employee should understand the purpose of his actions within the overall objectives of the company. For this the staff should be trained and be informed of developments. Also, you should encourage the distribution of performance indicators systems in the company for both units and individual employees to create their own scorecards.
+
+Correctly constructed BSC, supported by convenient software tools, allows the company the following:
+
+Concentrate all resources (financial, human, technological, informational) on implementation of strategy and achieving steady movement to the goals set;
+
+Provide a connection between the strategic objectives and the daily work of commercial, industrial and administrative structures (by introducing measurable indicators related to the objectives);
+
+Increase the management and efficiency of the organization, as well as reduce risks.
+
+Chapter 3. Advantages and Disadvantages of the BSC
+
+The concept of the BSC provides management with an efficient and flexible tool that can be used to implement the strategy, and to assess the current projects and information systems. Adoption of BSC provides company with a number of benefits, which increase the efficiency of the company. Consider the benefits and advantages of the BSC revealed by foreign and domestic experts.
+
+The BSC provides top management new management tool that transforms the company's strategy into a set of interconnected balanced performance, which evaluate not only various current critical factors but also the future events.
+
+Also, the use of the BSC helps company to become translucent and manageable, when leaders and employees are able to access information about all the activities of the organization. The crowning achievement of the BSC is a full access to information related to the strategic objectives of the company. Processed and analyzed information, with tactical and strategic aspects of the activity, becomes knowledge. This kind of corporate knowledge is the main value of the company and the most important element that helps to make solutions effective.
+
+Besides, the BSC provides the interest of outer investors giving them an opportunity to analyze the future potential of the company.
+
+Another unquestionable merit of the BSC lies in the fact, that employee at all levels take part in the process. The BSC provides a smoothly functioning interaction of staff and supplies at all levels of the enterprise management. Also the BSC supplies management with ideas about how to improve decision-making to come closer to the goals. The success of the BSC depends on the achievements and initiatives of employees and adequate allocation of resources and a feedback. By participating in determining the key performance indicators employees have the opportunity to improve their own skills and the efficiency of the enterprise. Involvement of all personnel in the strategic decision-making turns a company into a flexible structure, where every employee equally understands goals. Such kind of company is able to react quickly to dangerous trends and to make successful decisions.
+
+The BSC helps companies to optimize their own business processes and to make these processes comparable with the strategy. The BSC sets priorities to the processes associated with enterprise performance indicators (KPI), such as business planning, forecasting, budgeting, etc. Due to the balanced scorecard, company can optimally manage their budget resources, which must be always based only on strategy, and never on personal preferences of managers. It provides an assignment between the priorities and actions.
+
+The adoption of the BSC stimulates the responsibility of the staff in the company. There should be appointed a person who is responsible for each important performance indicator (KPI), to set the target value. The BSC allows the company to identify the main areas of its business and to appoint people responsible for these areas.
+
+The BSC is really useful in creating general opinion on the strategy and the connection between high-level goals and objectives of particular departments and employees. . The BSC also allows you to focus on critical strategy initiatives and projects. The motivation system can be built on the basis of the key performance indicators that are embedded in the BSC, so that the financial bonuses are distributed depending on the balance of achieved goals. Finally, BSC provides feedback on the process of implementing the strategy, and facilitates the revision of strategic intentions of the company.
+
+But it is worth noting and disadvantages of the BSC also. First of all, it is not possible in practice to establish statistically significant causal relationships between strategic objectives. Norreklit H. did mention that defect. Therefore, is very difficult to identify the cause of failure in case of the on-compliance between planned targets and results. Managers need to consider not only the most obvious factors (such as breach of the obligations, force-majeure) in analyzing the situation. They should consider the underlying assumptions about market conditions, the behavior of competitors and potential of the company. Of course, it requires plenty of intellectual and time resources.
+
+Traditionally, the disadvantages of the BSC also include such points as: the difficulty in identifying appropriate indicators, "top-down" implementation of the strategy and ignoring the external environment (competition, political environment, technological progress, etc.).
+
+However, with all the limitations, the BSC has established itself as an effective tool for the strategy of the company. But it should be remembered that the BSC is not kind of a miracle cure. The BSC will not bring instant positive results.  Any result it takes time, efforts and money. The BSC requires maturity and willingness of managers.
+
+Chapter 4 - Structure of Diploma 
+
+The diploma includes project of implementation of the BSC in one of the companies of the Industrial Finance Corporation, in which will be my practice. Practice implicates collecting of information on the topic based on the recommendations and the basic principles of the BSC. Diploma structure is as follows:
+
+Introduction.
+
+Chapter 1 - The theoretical part.
+
+History of the BSC.
+
+The concept and Key Features of the BSC
+
+How to Implement the BSC.
+
+Application of the BSC.
+
+Advantages and Disadvantages of the BSC.
+
+The BSC in Russia.
+
+Chapter 2 - The analytical part.
+
+Justification of the Choice of Organization to Analyze.
+
+Vision and Strategy of the Organization.
+
+Financial Perspective.
+
+Customer Perspective.
+
+Internal Business Processes Perspective.
+
+Learning and Grows Perspective.
+
+Analysis of obtained data. (Conclusions).
+
+Chapter 3 - The practical part.
+
+Implementation of the BSC in the organization.
+
+Evaluation of the effectiveness (Summary).
+
+Conclusion.
+
+
+
+The logic of the study is the following: first chapter is orientated to make common understanding of the BSC, second - to bring the description of the company, third – to describe opportunity of implementation and its results.
+
+Introduction reports about theme and main goals of my study.
+
+First chapter gives detailed description of the BSC, which includes information about appearance of BSC, its key features and conception are described. Next methods of implementation of BSC, basic theories of actions are described, and then it tells about how it works in organization and what opportunities it opens. Further paragraph highlights advantages and disadvantages of BSC in different situations. And hereafter information about appearance of BSC in Russia states, because it is impotent to understand a satiation in our county, thus, company of my research is domestic.
+
+Second chapter is dedicated to analysis of company. First of all there is a justification of the choice of company and industry. Thereafter, description begins. The analyses provide the survey of vision and strategy of organization and four perspectives according to its strategy. Finally is observing of all described above information with mentioning of main trends of the BSC.
+
+Third chapter observes practical part of project implementation of the BSC.  It consists of methods of introduction and evaluation of the effectiveness of the system.
+
+Conclusion performs results of my work and some inferences of all research.
+
+
+
+
+Conclusion
+
+This Draft is justification of my choice at final qualification work. It illustrates the necessity of research and its profitability. 
+
+It should be mentioned about prospects and relevance of the study of Balanced Scorecard. This mechanism includes, as we saw, the exclusive properties and methods necessary for the strategic development of the company.
+
+Design of a Balanced Scorecard, due to powerful communication mechanisms and constant monitoring of changes allows company focus all necessary resources on strategic goals, providing a link with all the structures of the organization. In other words, the implementation of BSC improves span of control and efficiency of business, and also allows reduce the risks.
+
+Thus, in the final qualifying work represents a detailed study of this issue, both in theoretical and analytic aspect and applied to a real company, in accordance with its main strategic goals. This practical research includes a comprehensive review of the perspectives that are used in the Balanced Scorecard. The results of the study will include basic conclusions and practical recommendations for the implementation of the system in the organization and evaluation of the results of the study.
+
+Theme of Balanced Scorecard is very deer, thus there are a lot of methods and opinions described in this work. But the main goal is in opportunity to use it in practice. That’s why I suggest my choice was right.
+
+
+
+
+Bibliography 
+
+Arnova L. «Balanced Scorecard — Global Standards and Russian Experience », Intelligent Enterprise №5, 18.03.2003 ()
+
+Afanasev A. «Implementation of BSC: Experience of European Companies»  ()
+
+Kaplan R.S and Norton D.P. «The Balanced Scorecard - Measures that Drive Performance», Harvard Business Review, Feb. 1992
+
+Kaplan R.S. and Norton D.P. "Using the balanced scorecard as a strategic management system", Harvard Business Review, Jan – Feb, 1996
+
+Kurilova A. " Design of a Balanced Scorecard as an Effective Means of Financial Control Mechanism on the Automotive Industry ", Magazine "Corporate Finance", №1(17)2011 (http://ecsocman.hse.ru/data/2011/06/02/1266800197/%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB_17_%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA_55_67_.pdf)
+
+Lori Calabro. «On Balance» CFO Magazine, February 1, 2001 (http://www.cfo.com/printable/article.cfm/2991608.) 
+
+Moskalenko I. «Secrets of BSC by Robert Kaplan», « Trade Secret »,  04.03.2003 (http://www.e-xecutive.ru/knowledge/announcement/339241/)
+
+Norreklit H. "The balance on the balanced scorecard - a critical analysis of some of its assumptions", Management Accounting Research, 2000
+
+Rigby, D. & Bilodeau, B. (2009), Management tools and trends 2009, Bain & Company, accessed 18 August 2010 (http://www.bain.com/bainweb/PDFs/cms/Public/Management_Tools_2009.pdf.)
+
+Site: Business Intelligence, Business Intelligence, Data Mining (http://www.scorecard.ru/article/list)
+

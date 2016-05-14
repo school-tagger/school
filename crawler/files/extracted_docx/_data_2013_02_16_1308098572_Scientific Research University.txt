@@ -1,0 +1,237 @@
+Scientific Research University
+
+Higher School of Economics
+
+
+
+
+
+
+
+
+
+Faculty Business Informatics
+
+
+
+
+
+
+
+DRAFT
+
+of the paper
+
+«Automatization of the Learning Process»
+
+
+
+
+
+      Student    Korneva Ksenia
+
+        Group    471
+
+     Argument Consultant     Korovkina N.L.
+
+Style and Language Consultant     Bagramyants N.L.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2013
+
+
+
+
+
+
+Abstract
+
+
+
+This work provides an overview of the graduation paper “Automatization of the learning process”. Firstly, it gives an introduction into the research area, then proves actuality of the topic chosen. The main goal of the project is developed according to the given assumptions. The structure of the final work is developed, after that the stages that have been performed are explained along with the steps to be evaluated next.
+
+
+
+
+Introduction
+
+
+
+Educational system solves important issues of cultural and socio-economic development as any educational institution prepares people for active participation in political, cultural and economic life of society. Therefore, the main factor of the success of the institution is the competent organization of the learning process. Modern information technologies provide great opportunities in the organization and management of the educational process. Nowadays automatization of the learning process is an essential part of the activity of any educational institution that pretends to be progressive.
+
+According to “Pedagogical dictionary” (Kodzhaspirova, Kodzhaspirov, 2003), the learning process is the purposeful process of interaction between the teacher and the students aimed at education and development of the students: also, it is the organization of education with the correlation of its components. The main goal of this process in the university is to train a specialist of the specific qualification, which is defined by the national education standards and market requirements. In terms of achieving this goal, investigating the problem of managing the educational process and determining its specificity are of prime importance.
+
+
+
+
+
+
+Chapter 1. Learning process in the educational institution
+
+
+
+The process of education at the university consists of several closely related sub-processes (hereafter referred as “business processes”), for example:
+
+executed by the Professors:
+
+organizing the methodological support of the discipline
+
+monitoring and evaluating students’ knowledge
+
+monitoring the compliance with the learning schedule
+
+consulting students on emerging questions
+
+executed by the Students:
+
+monitoring own learning progress
+
+gaining access to methodological materials for the discipline
+
+getting information about the forms of control, schedule, training plans for the discipline
+
+communication with the Professors on learning issues
+
+Those processes constantly interact with each other, and it is vital for their successful execution to provide them comprehensive support at each stage.
+
+The process of providing methodological support for the discipline may be considered as an illustrative example. At first, the course syllabus is developed. It includes determining course content and teaching methods and tools, defining course policies, developing the course schedule. This stage is guided by the present curriculum and the regulations of planning and organizing a course. Next, the developed course is approved by different authorities within the university. It is worthwhile mentioning that approving of the course syllabus is an independent process consisting of several steps. The prepared program of the course is going to be the basis for the different process – monitoring the compliance with the learning schedule.
+
+After the approval of the program by all responsible departments and its registration a training complex needs to be developed. It includes materials of lectures, assignments for seminars, special tools of control (tests, home assignments and examinations, themes of essays, etc.). Development of the assessment system and controls is also related to another process - the organization of knowledge monitoring and evaluation. As all relevant materials are prepared, they are distributed to the students. This task can be performed in several alternative ways: the materials can be printed, distributed using electronic devices; they can be placed on the site of the discipline or in a specialized learning management system. Each of the methods has its own advantages and disadvantages, but in any case, granting students the access to materials is another independent process.
+
+This example shows the close relation between all processes. It is highly important to provide them with the organizational, methodological and information support. The graduation work will be addressing issues of information support of the learning process, as many new ways of organizing it has emerged during the past years due to the widespread computerization of society.
+
+At the moment a big number of Russian and foreign universities implement learning management systems in order to provide information support of education. This step allows to simplify and automate a large number of internal processes, which leads to increased efficiency of all departments of the institution and parties involved in the educational process.
+
+
+
+
+
+
+Chapter 2. Exploration of solutions
+
+2.1. Existing solutions
+
+Nowadays a wide range of Learning Management Systems is presented in the market. Currently the two most popular open source systems are Moodle and Sakai.
+Moodle system allows users to create sites for online learning. It can be installed on a Web-server or a personal computer; also it can be hosted by a third party company. According to the recent data, about 75 thousands of sites based on Moodle system are registered in a World Wide Web. []. Moodle system is implemented successfully in 227 countries, including Russia (for instance, the system is used by the Department of Particle Physics of Physics faculty of MSU [], and also by MGIMO University).
+Sakai learning management system is open source, as a result it has low cost and can be extensively improved by developers. According to users` feedback, the system offers a higher level of protection than its competitors. Sakai is implemented by famous Russian and foreign universities such as Saint Petersburg State University, Moscow State Linguistic University (MGLU), Stanford University, Yale University, The University of California, Berkeley, Oxford and Cambridge universities.
+
+2.2. Learning process management in Higher School of Economics
+
+Since 2010 National Research University – Higher School of Economics is implementing a unified information system based on LMS (Learning Management System) eFront. The choice of system was based on a friendly user interface and usage of modern technologies, providing broad prospects for development.
+
+The main purpose of implementation is raising the level and quality of methodical, didactic, information support of the educational process for students, teachers and administrative staff [Concept of the Development of Educational information environment LMS, 2010]. The system consists of several modules, offering users a variety of tools:
+
+Table 1. Functional modules of LMS.
+
+
+
+According to the Department of Learning process Management [Annual report, 2012], approximately 6% of all disciplines were created in the system up to October 1, 2012. On average, 27% of teachers and 43% of students use the system on regular basis; it should be noted that these numbers vary a lot in different campuses:
+
+
+
+Figure . Percentage of teachers using LMS (by campuses)
+
+Fig. 1 shows that the highest activity (55% of users) is presented by the teachers of the Perm branch, the lowest index is in the campus in St. Petersburg.
+
+
+
+Figure . Percentage of students using LMS (by campuses)
+
+As can be seen from the graph shown in Fig. 2, the percentage of students using the LMS differs a lot between courses, ranging from 5 to 65 percent. Despite of the fact that data is very heterogeneous in the context of courses, it also varies in the distribution between campuses of the University. The most active students are situated in the Perm branch; less active users are in St. Petersburg. The third result is shown by students from Moscow, and the least active users are located in Nizhniy Novgorod. One can assume that the usage of the system depends on the number of teachers and students in the campus, but it's obvious that this is not the only factor. For example, Perm branch has 1,120 students, 523 of them using LMS. At the same time, the system is used by 674 students from the total number of 3036 people in Nizhny Novgorod.
+
+A high percentage of first-year students actively using the system can be explained by the fact that the introductory course was organized for 2864 first-year undergraduates. LMS course content included lecture materials, a description of the assessment system, the description of projects to be passed. In addition, another important aspect was the realization of the communication between students and teachers. Upon completion of training discipline, the final testing was also organized using the means of LMS.
+
+LMS is used to support and manage not only specific disciplines, but also special academic projects of the University. In 2012 about 1000 second-year students took IELTS (International English Language Testing System) English exam using the tools of the system, and in May 146 students of the St.Peterburg’s campus passed interdisciplinary final state exam in the LMS environment.
+
+For the convenience of the users a wide information support is provided to the system itself. The teachers can complete special courses on the usage of LMS at the Center of Advanced Studies and participate in special training sessions. They can also investigate the topic by their own, using detailed instructions, developed by specialists of the LMS support team. An equally important aspect is the training of administrative personnel. Thus, by the end of 2012, 79 people completed education courses on 9 modules of the system, 37 of them received special certificates of national standard.
+
+
+Chapter 3. Overview of the graduation paper
+
+3.1. Aims of study
+
+Despite the active actions regarding system implementation, the statistics shows that, at present, the LMS environment is widely used by a comparatively low number of teachers and students (in average in the university: 27% and 43% respectively). Moreover, the distribution of the user activity in different housings is not rather obvious. Regarding the important role that the LMS system plays in the development of the academic environment of the National Research University – Higher School of Economics, the research of these aspects seems to be very topical.
+
+The purpose of the present paper is identification of the reasons of low activity of the teachers and students in the Higher School of Economics in the LMS system, as well as the development of suggestions for the system’s improvement.
+
+3.2. The structure of the graduation paper
+
+The graduation paper will have the following structure:
+
+The research of the problem of low user activity in the LMS environment
+
+The collection of information regarding the use of LMS in HSE
+
+The analysis of the reports of the Educational Department (ED) and the Internal Monitoring Center (IMC)
+
+The analysis of the survey results
+
+The survey development in order to acquire the absent information
+
+The interview of the students and the most active teachers
+
+The analysis of the acquired information
+
+Identifying the business processes supported by the system
+
+Ranging the business processes by means of independently developed criteria
+
+Justification of the chosen automation object (in accordance with ED)
+
+The study of the automation object
+
+Business process modeling
+
+AS-IS modeling
+
+Discovering the problem areas of the process
+
+ The formalization of requirements to the process automation
+
+The development of suggestions for the system’s improvement
+
+At present, the project work is on the first stage, particularly, the collection of the necessary information about the usage of LMS in HSE is conducted. The reports on the activity of the Educational department, as well as the results of the research of the Internal Monitoring Center on the subject of the system usage, have been acquired. Together with IMC the surveys for students and teachers have been developed. Furthermore, with the assistance of ED a range of the most active system users has been acquired. The next stage is expected to be the interview of these users in order to achieve additional information on the subject of the research. Moreover, with the assistance of ED the key processes supported by the system have been identified and described. Currently, the subject of further research is being discussed.
+
+
+
+
+Conclusion
+
+
+
+In conclusion it can be said that the chosen topic of the graduation paper is certainly of high actuality. It requires deep investigation and interaction with all the parties involved in the educational process. If all planned stages of the work are performed successfully, the final result would be of great value.
+
+
+
+
+References
+
+
+
+1.	Коджаспирова Г. М., Коджаспиров А. Ю. Педагогический словарь.- М.: Издательский центр «Академия», 2003 г.
+
+2.	Концепция развития информационной образовательной среды LMS [Электронный ресурс] // Справочник учебного процесса НИУ ВШЭ – URL: http://www.hse.ru/studyspravka/lms
+
+3.	Отчет "Об итогах учебно-методической деятельности НИУ ВШЭ в 2011-2012 учебном году"[Электронный ресурс] // Управление организации учебного процесса [Офиц.сайт] - URL: http://www.hse.ru/org/hse/aup/eduprocess/report_UMR
+
+4.	Грекул В.И., Коровкина Н.Л., Куприянов Ю.В. Проектирование информационных систем. Практикум. -  М.: Национальный открытый университет «ИНТУИТ», 2012
+
+5.	Грекул В.И., Денищенко Г.Н., Коровкина Н.Л. Проектирование информационных систем. Курс лекций. Учебное пособие. Интернет-Университет Информационных технологий. - М., 2008.
+
+6.	Смирнова Г.Н., Сорокин А.А., Тельнов Ю.Ф. Проектирование экономических информационных систем. Учебник. -Москва, «Финансы и статистика», 2002г
+

@@ -1,0 +1,367 @@
+Scientific Research University
+
+Higher School of Economics
+
+
+
+
+
+Faculty of Business Informatics
+
+Department of Innovation and Business in Information Technology
+
+
+
+
+
+
+
+
+
+DRAFT
+
+of the paper
+
+“Project management practice analysis in start-up companies”
+
+
+
+
+
+Student: Pryakhin Alexey
+
+                                                                                                   Group: 472
+
+Argument Consultant: Malov D.N.
+
+
+
+                                                                                Style and Language Consultant: Bagramyants N.L.
+
+
+
+
+
+
+
+Moscow 2013.
+
+
+
+
+
+Abstract
+
+Faced today with the project activity on the Internet, many aspiring entrepreneurs admit some mistakes that can be avoided. This applies not only blunders, but a simple lack of knowledge in the subject area. Specifically, we can distinguish:
+
+people can not assess the relevance of the project, that is, do not see the prospects of one direction and overestimate another one
+
+lack of knowledge of Internet marketing. Many people in Russia today are content with SEO optimization and contextual advertising, although there is still a huge set of tools that help increase efficiency by several times
+
+people do not know all the possible ways to monetize internet projects and think that the main way to earn money is advertising
+
+The list goes on, but the most important thing is not given due attention to the details and in-depth analysis. After all, in an unsuccessful attempt to run the project, it can be generally closed, though the key to success may be on the surface. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+
+When you start to organize your own projects, at some point you start to realize that it is quite unpredictable thing, if there is not enough experience behind. Even when all was carefully planned, something just can go wrong. The author can point out a few situations which may affect the development of the project:
+• The programmer is incompetent
+• Some employees whether programmer, designer or anyone else can just get lost and not respond to phone and e-mail
+• Conversion may be at the low level
+• The planned budget for advertising is failing, or the methods used to promote are just not suitable for a particular project
+
+This list can be expanded very much, but the task is simply to show that not everything that is planned at the level of elaboration of an idea can go on smoothly. That is why the theme of the work is the analysis of the practice of project management in Internet. 
+In this work author wants to show and to consider the organization of project activities at all levels, to minimize the possibility of failure. When something goes wrong, then you need to analyze the reasons, so it will be possible to find some advices for it.
+This work will be divided into two main parts: the common block containing more theoretical information, but based on some experiences and observations. It will be considered by the following units:
+• Analysis of the relevance of the idea / project
+• Search and investor relations
+• Various problems in the organization of projects and search for implementers
+• Performance monitoring 
+• Project promotion 
+• Features of the project and the results of its creation
+• Project monetization
+
+The second block applies to my personal practice of  project organizing. Consideration will be given a few business ideas and problems that author encountered in their implementation. Special attention will be paid to the methods of their solution.
+
+
+
+Chapter 1. Relevance of the project 
+
+Let's start the consideration, as was said at the beginning, with the theoretical part. It will reflect the most pressing issues and challenges that may arise in the organization of the project and ways to solve them.
+
+Obviously, it all starts with an idea. No matter how it came to you, be it inspiration from above, the idea of ​​a friend or something else, it is important to note two types of ideas, which, from my point of view, divides projects into two different directions:
+• New unique idea, which was not represented in the market
+• The idea that has analogues on the market
+
+If the idea is unique, the biggest problem is unpredictability. At the planning stage, no one can say with certainty that any new project will attract a large number of users, and even more to keep them there. Although most of the projects are, therefore, commercial, so entrepreneurs want to monetize them in some way, but it would be unlikely, if users do not return to the site, that is, if the men who came to the site in some way, whether it was advertising or a friend's advice, do not go back there again already at will. Thus, the first and probably the most important rule of a successful internet project sounds like “do not think in the early days on how to earn more, but how to improve the idea on all counts”. If the system will work well and will be interesting for users, the money will come sooner or later.
+Continuing to talk about the innovative idea, it is important to mention another difference from projects with counterparts: the experience of the competitors. The most of projects are developed gradually, so in some steps coming to the end to good working condition. So this experience can be borrowed to skip the initial stages. But in the case of a new idea it will be impossible to ​​"jump to success", so you have to go through all the steps on your own.
+Speaking about the project, which has competitors, the question is: “Is a creation really reasonable?”. Answer to this question is positive in several cases. It depends on various factors and direction of the project. Note some of the items under which the project with competitors, can be successful:
+
+
+• Undeveloped sphere or a certain services on the market
+• A new method for the solution of a problem or improving the quality of an existing solution
+• Using of existing mechanisms for the implementation of other objectives (here we mean, for example, an online store, especially if you start to sell what is not in the online sale)
+• Inefficient promotion methods of competitors
+
+It comes to the fore not the idea of ​​novelty, but something new in terms of the performance of existing ones. Another question is promotion productivity: if you have a really decent project advertising budget and you know the most appropriate methods, you can beat the competition only due to this.
+
+
+
+Chapter 2. Searching for investor and interaction with him
+
+
+
+A few tips for finding an investor:
+
+• Develop a project from all sides, write a business plan and participate in various competitions. 
+
+• Start to develop the project, run it and present to venture capital funds. 
+
+• Try to interact, for example, with the management of the University
+
+Now about a situation, if the funds were found. Any problems with the investor may adversely affect the project as a whole, so very important is to reduce the contradictions.
+A number of potential problems or requirements related to the investor:
+• Willingness to change the concept of the project. The constant change of the project concept prevents the start, so all changes should be done gradually
+• The requirement to be in the office constantly. If  it is necessary to work in the office continuously, the investor has to pay the salary, because there is no possibility of additional earnings
+• The investor wants to communicate with the performers themselves. This is permissible in the case of the competence of the investor. In other cases, it can hurt the whole project
+
+
+
+
+Chapter 3. Various problems in the project organization and their solutions
+
+
+
+Here we are already going to write about project development. We will consider the process for the most banal example - a small project that does not require a large staff.
+
+The development process is divided into three stages:
+
+• Design
+
+• Page-proof
+
+• Programming(Coding)
+
+3.1 Design
+
+
+
+Design is the outer shell of your project, which is very important. The first impression of the site is based on the design, so you can not underestimate it. It is important to bring usability to perfection: that everyone who visited the user understands what he needs to do, where to click, what will happen, etc. Too overloaded pages are always scary and repel, so it is important not to overdo it and at the same time retain the availability of all basic functions.
+
+
+
+3.2 Page-proof
+
+
+
+Page-proof is a process of forming a web page from the existing layout design using HTML, CSS, etc. The result is a complete web page, which, for example, contains animated elements, drop down menus and other things, but when you tap on any of them, nothing will happen.
+
+
+
+3.3 Programming
+
+
+
+Programming - is the realization of various functions. This includes buttons tapping functions, information input and output, internal calculations, etc. 
+
+
+
+3.4 The choice of the performers
+
+
+
+If the project can not be implemented independently, it is necessary to find the performers. We distinguish two directions:
+
+Freelancers searching
+
+The interaction with the studio
+
+
+
+3.4.1 Freelancers searching
+
+The main problem - you need to search for a few specialists to perform different tasks. Fortunately, the solutions are:
+
+free-lance.ru
+
+freelance.ru
+
+freelansim.ru
+
+
+
+
+
+The first - the largest freelancers source(in Russia and Ukraine) in all Internet spheres, from programmers or text translation to banners designers or SEO optimization. 
+
+On these sites you can find performers at different prices for complex tasks or for tasks, which do not require extraordinary professionalism.
+
+This method of organization is cheaper than working with the studio, but the process of organization is more complicated, because here you need to communicate with different people, if one of them does not fulfill its obligations, the next job will fail.
+
+
+
+3.4.2 The interaction with the studio
+
+ 
+
+This way of working is more expensive, because the web-studio employees work for wages, but they are guided by the authorities, and it is natural that the total cost of such services is higher in comparison with hiring freelancers. On the other side the web-studio greatly simplifies the development process, because bosses assign duties and enforces the terms of work. Thus, in the case of working with the studio, you need to find a competent company, which does not delay the delivery time and which has a nice staff.
+
+Chapter 4. Project promotion
+
+
+
+After the site creation begins the next step of the project – advertising. One thing is when you allocate a million dollars marketing budget, and another thing - hard limited budget, to be used most efficiently.
+
+The author tries to show the many methods of promotion that can not come up with a huge budget:
+
+• SEO(Search Engines Optimization): Long-term progress in the search engines. Long-term it is called, because the site appears on the top positions of search engines through an indefinite period of time, which may last several months. There are three types of SEO: white, gray and black optimization. The white optimization means work on promotion of the site in the search engines without officially proscribed promotion. Methods that can be used:
+
+A content changing
+
+Navigation setup and optimization  
+
+Every possible external promotion: links purchasing, discussion on third-party resources, affiliate programs, etc. 
+
+Grey optimization includes adding a large number of keywords in the text of the page, often at the expense of human readability. Another example of gray optimization - a doorway without a redirect(when a doorway does not automatically redirect to the promoted website). Black search engine optimization is usually defined as the technique and the technology used to obtain higher positions in search results of search engines, using the so-called "unethical" methods. This kind of technology usually includes one or more characteristics: a violation of the rules of search engines, the conscious creation of various inconveniences for the user, the differences in the result presented to user and to search engine
+
+• Contextual advertising. Advertisement which is displayed to the user based on the context of the page they're viewing. It can be a text, graphics or animation. The best known providers of this type of advertising are Google AdWords and Yandex Direct
+
+• SMM (Social Media Marketing) - promotion in social networks. This is completely new trend of product promotion that is not very well developed in Russia. This can include contextual ads on social networks, popular posts in the communities and the public pages (the cost of such posts is dependent on the number of users, user activity, quality, etc.) This also includes banners in popular communities, various mass actions (awarding prizes for recruiting a large number of Likes), etc.
+
+• Affiliate programs. During the development of a site a coder builds in a special code for affiliate programs. Various website owners will get the money for advertising your website and for any user activity on it. Accordingly, the advertisers themselves are very keen to attract to your site visitors as much as possible to increase their profits. Just this built-in module monitors, who led the user, what this user is doing on the web page and who will get money for the attraction
+
+• Banner networks. Networks that unite advertisers and owners of websites with large audiences. Advertisers create banner and advertising campaign, which can be targeted by different criteria, assigned budget; after that banner rotates on partner sites
+
+• Teaser network. Teaser - a bright banner, often animated, which can be found on so many sites. It consists of a bright attractive pictures and inscriptions, which often cut to the quick, create a desire to click on this banner. The biggest problem of this type of advertising is the quality of the traffic. It is necessary to monitor the traffic sources constantly and maintain blacklists to hedge from unwanted traffic. However, the number of people tapping to the teaser is enormous.
+
+• Viral marketing. Advertising directed at the masses of people, is a nothing more than a viral videos that can be found on YouTube or in social networking sites. It also includes pictures and other visual things that like the large number of Internet users.
+
+
+
+Chapter 5. Features of the project and the results of its creation
+
+
+
+This phase is associated with tracking the results of your previous work. In fact there is a point of efficiency: where the people come from, do they pay for any product, how many web-pages have they viewed etc.
+
+There are two most important tools(also known as counters) for tracking user activity and your work results:
+
+• Yandex Metrics
+
+• Google Analytics
+
+These systems are quite similar, except that Analytics provides a bit more functions, but the main difference is in the representation of information, facilities, reporting, etc.
+
+Each of these systems can track contextual advertising in search engines(Direct for the first and AdWords for the second). In this case, the search engines increase loyalty to a specific site in the presence of a particular counter code in it.
+
+Traffic data that's displayed systems can vary significantly due to the nature of the visitors excluding algorithm. We can not say that any system lies, as these features are related to the user's computer settings, the time it spent on the site, and many other indirect factors.
+
+
+
+Chapter 6. Monetization of the project
+
+
+
+There are various methods of project monetization. Generally, it depends on the product itself. If you have something to sell on the site, render any service, the monetization way is clear and it is the basis of everything you do.
+
+User’s payment methods:
+
+• Aggregators such www.robokassa.ru, www.nextpay.ru. These systems support a variety of payment: cards, WebMoney, Yandex, RBKmoney, etc.
+
+• Card payment. Largest provider in Russia - Chronopay.ru
+
+• An account payment. A user has a personal account on the site. The user should add funds and then use this account to pay for goods and services
+
+• SMS payment. From a mobile phone SMS message is sent to pay a certain cost. For long-term payment can be used a subscription (fee is charged from the account of the phone periodically)
+
+
+
+If you do not sell any goods or services, then the easiest way to monetize a project is advertising. Obviously, you can earn more money, the more users you have. In this case, you can use the ad units from the Yandex Direct, AdWords, affiliate programs or directly negotiate with advertisers on any terms.
+
+If, after the start of the project money will not go, it is necessary to undertake a thorough analysis and try to determine the cause. The reasons may be different:
+
+• The site does not attract an audience
+
+• The site does not keep the audience
+
+• The cost of goods or services is high
+
+• Uncomfortable payment methods
+
+• Congestion and / or confusing site and its goals
+
+It is possible to fix the deplorable state only by adding more payment methods, but perhaps by crucially redesigning the site.
+
+It is important to gather feedback from users asking about what they like, what do not like, what should be changed, what is not clear, etc.
+
+Conclusion
+
+
+
+Today, in the age of information technology many people want to try yourself in the role of entrepreneurs, but very often face the problem that they have not thought of.
+
+This work describes the organization of the Internet project from different angles. It was shown how to analyze the idea, how to organize the creation of the project, were shown different methods of promotion etc. Author also discussed the many challenges he faced at work and how these problems were solved.
+
+The data given in the work can be useful at different stages of the work, but, of course, do not cover all possible issues, because the list is too large.
+
+You should always try new things, because without it, progress is impossible. There are always some new methods and new practices, so you need to keep up with the times, learn from the experience of others, to work out some aspect of yourself.
+
+In the course of writing this paper all the themes that the author planned to discuss were lit. All the information can be used freely.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bibliography
+
+“Новый интернет для бизнеса”, Константин Максимюк, 2-е издание, 2011
+
+“Поисковая оптимизация”, статья Википедии 
+
+Harvard Business Review, Москва, Октябрь, 2012
+
+5 трендов SEO и контент-маркетинга на 2013 год, по материалам searchengines.ru, 2013
+
+Анализ поведения пользователей на сайте и управление конверсией, по материалам searchengines.ru, 2013
+
+
+
+
+

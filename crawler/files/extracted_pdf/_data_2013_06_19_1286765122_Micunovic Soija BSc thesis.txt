@@ -1,0 +1,3396 @@
+Национальный исследовательский университет - 
+
+ВВВыыысссшшшаааяяя   шшшкккооолллааа   эээкккооонннооомммииикккиии   
+
+Международный Институт Экономики и Финансов 
+
+ВЫПУСКНАЯ КВАЛИФИКАЦИОННАЯ РАБОТА 
+
+на тему: 
+
+'The Effect of Acquisition of Stadium Naming Rights on 
+
+Shareholder Wealth: Analysis and Optimal Strategy' 
+
+   
+   
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ Студентка: 
+ 
+4 курс, 1 группа 
+Мичунович София 
+ 
+  
+ 
+Научный руководитель: 
+ 
+Доктор социологических наук 
+Барков Сергей Александрович 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+МОСКВА,  2013 год 
+
+LIST OF CONTENTS 
+ 
+INTRODUCTION ........................................................................................................ 
+ 
+1. 
+THE CONCEPT OF NAMING RIGHTS DEALS........................................... 
+            1.1  NAMING RIGHTS DEALS: CORE CHARACTERISTICS................... 
+            1.2  EVOLUTION OF NAMING RIGHTS DEALS....................................... 
+            1.3  CONCLUSIONS...................................................................................... 
+ 
+2. 
+LITERATURE REVIEW................................................................................. 
+             2.1  FRAMEWORK OF EVENT STUDY..................................................... 
+             2.2  EVENT STUDIES IN VARIOUS FIELDS............................................ 
+             2.3  EVENT STUDIES IN SPONSORSHIP.................................................. 
+             2.4  CONCLUSIONS..................................................................................... 
+ 
+3. 
+              3.1  DATA COLLECTION......................................................................... 
+              3.2  ABNORMAL RETURNS CALCULATION....................................... 
+              3.3  DETERMINATION OF TEST ON SIGNIFICANCE  
+
+ METHODOLOGY............................................................................................ 
+
+         OF ABNORMAL RETURNS............................................................  
+              3.4  WMM TEST FOR SIGNIFICANCE OF ABNORMAL RETURNS.. 
+ 
+              3.5  K-MEANS CLUSTERING ............................................................ 
+              3.6  THE QUETELET INDEX............................................................ 
+ 
+ 
+4. 
+ 
+5. 
+ 
+6. 
+ 
+7. 
+ 
+8. 
+
+LIST OF REFERENCE..............................................................................   
+
+APPENDIX..................................................................................................  
+
+RESULTS.......................................................... ....................................... 
+
+ 
+
+ 
+
+ 
+
+HYPOTHESES DEVELOPMENT.......................................................... 
+
+CONCLUSION.......................................................... ............................. 
+
+ 
+ 
+ 
+
+3 
+
+ 
+
+6 
+6 
+8 
+10 
+
+11 
+11 
+12 
+13 
+15 
+
+16 
+16 
+17 
+
+20 
+21 
+23 
+25 
+
+26 
+
+37 
+
+45 
+
+47 
+
+49 
+
+2 
+
+ 
+INTRODUCTION. 
+ 
+The last two decades can be defined as a sponsorship era. Even though the concept of attributing the 
+name to beneficiary's institution in exchange for financial support is known to history from ancient 
+times, never has it experienced such magnitude of dealerships as today. Meenaghan (1983) finds 
+that commercial sponsorship increased sharply since the 1970s and sport sponsorship made 70 per 
+cent of all sponsorship activities. The combination of increase in sport popularity during the 19th 
+century  with  the  development  of  mass  media  contributed  to  formation  of  such  special  branch  in 
+marketing as sport sponsorship. Such strategy arose as attempt to provide signal of high quality of 
+product by being officially associated with the healthy sport activities. In 1980s the explosion of the 
+corporate  sponsorships  occurred,  becoming  more  of  a  routine  by  2000,  but,  nevertheless,  still 
+showing huge acceleration today. 
+ 
+Stadium naming rights deals are associated with transaction of exclusive right to name a facility in 
+exchange for financial support over the specified period of contract. Being an innovation in 1980s,  
+acquisition of corporate  naming rights persuaded high effectiveness  as a  marketing strategy with 
+respect to increase in brand awareness and sales profitability rather soon. By the end of 20th century, 
+such strategy became the widely-applied step towards catching the more mass media spotlight and 
+enhancing the market share of the brand. By 2002, more then 70 per cent of venues in the major 
+league sports had been named after some corporate sponsors (Howard and Crompton, 2003). Today, 
+the  stadium  without  corporate  name  brings  more  surprises  in  the  USA  and  Canada  than  those 
+without one. Kishner (2011) states that even though stadium naming rights deals are not the newest 
+concept, such vast permutations and applications have never occurred before. Indeed, the length of 
+contract  has prolonged, the list of exclusive rights among the parties has enhanced, the prices of 
+dealerships continue to shift the highest paid record. McCarthy(2000) believes that naming rights 
+deals provide the most cost effective marketing communication nowadays. 
+ 
+However, due to partially intangible nature of such contracts, usual accounting principles are not 
+capable of capturing the value effect of the company immediately after the implementation of such 
+strategy. Determination of the value of naming rights implies not only the change in profitability it 
+causes, but also increase in brand awareness, exposure to mass events, perceptions of public and 
+other effects that can impact company's value. Consequently, some researchers suggested using the 
+
+ 
+ 
+ 
+
+3 
+
+event  study  methodology  to  capture  the  effect  of  implementation  of  such  strategic  policy  on  the 
+firm's value. McWilliams et al. (1997, p.626) define event study as a powerful tool that can help 
+researcher determine  the financial impact of changes in corporate policy. It is believed that stock 
+prices  are  less  prone  to  inside  maneuvers  than  accounting  ratios  or  figures,  and,  under  the 
+assumption of efficient markets, the price reaction to unexpected announcement is immediately and 
+fairly reflected in stock price movement. On this principle, the event study measures whether the 
+market  participants  find  the  announcement  to  be  value-enhancing,  value-depressing  or  of  neutral 
+effect for the company. 
+ 
+The naming right deals announcements are reviewed in several works. Johson (2009) investigated 
+the  impact  of  51  sponsorship  announcement  on  companies  in  Australia  and  found  no  overall 
+significant reaction, concluding that such an announcement does not shake up investors beliefs. But 
+why would this still be considered as one of the most effective strategies, if there were no reaction 
+in beliefs? Janney et. al. (2013) performed usual event study and found insignificant overall result, 
+but provided some insights on observable significance if the sample is divided according to some 
+characteristics.  The  first  step  towards  resolving  the  paradox  of  no  significant  result  of  the  most 
+effective strategy became the work of Clark et al (2003) and  Marikova et al. (2007) who used the 
+same  sample  but  received  drastically  different  result.  Clark  et  al  included  multiple  firm-specific 
+factors  and  examined  the  effect  according  to  each,  while  Marikova  simply  observed  the  overall 
+effect.  The  categorizations  proved  to  be  important  and  Clark  et  al  (2003)  suggested  that  further 
+studies might focus on emphasizing more specific factors as well as stated that capturing the effect 
+might  help  explain  the  investors  psychological  changes  and  account  for  them  in  future. 
+Nevertheless, their study used very long event window, in comparison to what literature suggests as 
+high powered (McKinlay,1997  ), and might be prone to numerous other events that happen within 
+the  company  for  that  period.  Moreover,  all  of  the  studies  used  the  assumption  of  normality  of 
+abnormal  returns  and  subsequently  implemented  the  parametric  tests,  while  having  rather  small 
+sample, around 50 observations. This might lead to problematic hypotesis testing and non-robust 
+results. In general, the performed studies might not be completely reliable analysis of stock market 
+performance  after  such  announcement  and  left  numerous  drawbacks  to  be  corrected  in  future 
+studies.  
+ 
+The validity of this work: 
+ 
+
+ 
+ 
+ 
+
+4 
+
+The naming rights deals are considered as one of most effective marketing approach to increase the 
+market share and brand awareness. Nevertheless, it has a surprising deficit of works that accurately 
+provide the research and make reasonable conclusions. Those works either account on unreasonable 
+assumptions, or do not investigate the question deeply enough. This study attempts to provide such 
+work and give broader insight in the concept of naming rights deals. 
+ 
+The aim of this work: 
+ 
+The effect of the announcement of new management strategy can have numerous factors impacting 
+the direction of reaction. This study will provide analysis of seven factors which are expected to 
+have reaction due to physiologically different signal they bring forward. Moreover, the  advice for 
+future contracts are set according to the weight company's characteristics tended to impact within 
+this  sample. The  advise  provides  the  set  of  characteristics  with  most  promising  value  impact,  as 
+well  as  the  set  of  characteristics  which  should  eliminate  the  idea  of  stadium  naming  rights 
+acquisition for the company. 
+ 
+The structure of this work: 
+ 
+The work will gradually introduce the concepts needed to determine  each step in theoretical as well 
+as  methodological  framework.  The  core  concept  of  naming  rights  will  be  discussed  with  brief 
+historical overview. This aims to highlight the  evolution of naming rights dealership and rapidly 
+changing patterns of its structure. The event study literature will be included in the way that covers 
+completely all the questions and ideas connected to this study. That means, some theoretical basis 
+for understanding, key issues investigated by event study methodology and potential problems that 
+arose,  literature  focused  more  precisely  on  the  similar  question  and  the  received  answers.  The 
+rationale of hypothesis development will be explained in details. The methodology will be provided 
+with  explanation  of  the  choice  of  tests  and  consequent  results  will  be  discussed.  In  the  end,  the 
+advice for future naming rights deals will be introduced. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+5 
+
+1           THE CONCEPT OF NAMING RIGHTS DEALS 
+ 
+The  following  chapter  is  devoted  to  defining  the  needed  benchmark  for  study  of  naming  rights 
+deals. In the first part I will introduce the definition, motives and main characteristics of this kind of 
+deals.  In  the  second  part,  a  brief    history  of  naming  rights  deals,  focused  particularly  on  sport 
+facilities, will be provided in order to highlight the latest trends and magnitude of such deals. In the 
+third part conclusions will be outlined. 
+ 
+1.1        NAMING RIGHTS DEALS: CORE CHARACTERISTICS 
+ 
+'Naming  Rights  can  be  broadly  defined  as  a  privilege  of  associating  a  sponsor's  name  with  a 
+building, project or event by including the sponsor's name in the title of item being named' (Ashley 
+and Ohara: 'Valuing Naming Rights', 2001,p.2).  
+Naming rights deals imply transactions involving purchase of the exclusive right to name the item 
+or facility by the corporate brand name over the period of signed contract.  
+ 
+Considering  the  characteristics  of  naming  right  deal  it  can  be  reasonably  referred  to  as  a 
+sponsorship. The well accepted definition of sponsorship is 'an investment in causes or events to 
+support corporate objectives (for example by enhancing corporate image) or marketing objectives 
+(such as increasing brand awareness)' (Gardner  and Shuman, 1988, p.44). Acquisition of naming 
+rights can be thus defined as a sponsorship deal with aim to increase the future sales and impact the  
+brand recognition by exploiting larger public exposure, media spotlight and increased opportunities 
+of sale.  
+ 
+The existing literature shows numerous rationale behind the involvement in sponsorship deals, but 
+the  one  being  most  often  cited  is  provided  by  Cornwell  et  al.  (1998),  who  define  the  following 
+motives of sponsorship: 
+• 
+• 
+• 
+• 
+• 
+ 
+ 
+ 
+ 
+
+improving goodwill 
+enhancing image 
+rising awareness 
+increasing profitability 
+contributing to community  
+
+6 
+
+hospitals 
+schools 
+parks 
+shopping molls 
+sport facilities 
+events 
+products 
+stations 
+
+The resonance of these motives vary with respect to specificity of naming rights deal. The objects 
+of interest in such partnerships are: 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+ 
+The change in value such marketing strategy brings is hardly measurable within a specified time, 
+especially in monetary terms. The reason behind it is that significant effect is of intangible nature 
+and, thus, typical accounting procedures are not  being enough. 'Traditional methods of accounting 
+do not accurately capture the value of intangible property, even though accountants do acknowledge 
+its  existence'  (Ashley  and  Ohara:  'Valuing  Naming  Rights',  2001,p.3).  Nevertheless,  marketing 
+professionals refer to naming rights sponsorship as one of the most effective marketing strategies in 
+their  effect.    'When  it  comes  to  deal-making,  stadium  naming-rights  sponsorships  represent  the 
+pinnacle of sports marketing, a rare opportunity to elevate a brand’s identity by aligning with the 
+nation’s  most  visible  and  treasured  venues,  and  the  teams  they  host'  (P.Brown,  Sports  Business 
+Journal, 'Effective, creative activation gives naming rights more impact', July 2011, p. 32). 
+ 
+Even though an equivalent effect on brand awareness can be achieved through marketing strategies 
+via-commercials, newspapers and events, none of them implies such exposure to social gatherings 
+as in the case of putting the brand name on the stadium. The sport facility naming right purchase 
+implies  the  implementation  of  brand's  logo,  as  well  as  change  of  facility's  name  in  all  official 
+sources for the period of contract. It also requires news and events associated with the stadium to be 
+accompanied exclusively with the new name and logo. Contracts require logos and commercials of 
+company to be shown on all the displays within the stadium area for a pre-specified amount of time. 
+'Naming rights relationships, arguably, provide the most cost effective marketing communication in 
+the  market  place  today'(McCarthy  et  al.  (2000):  'An  examination  of  rationale  and  motives  for 
+corporate  purchase  of  stadium  and  arena  naming  rights',  Cyber  Journal  of  Sport  Marketing, 
+iss.1327-6816). 
+ 
+ 
+ 
+
+7 
+
+ 
+Nevertheless, direct and observable changes can occur immediately in form of increased sales. The 
+contract often secures company to be the sole provider of goods and services within the stadium. 
+The  evidence  shows  that  effect  is  even  higher  if  company  and  stadium  have  complementary 
+character and  highlight their similar objectives. Consequently, the profitability in the days of games 
+hosted at that stadium can surge due to large sales volumes of products and services as well as huge 
+revenue from parking places. As for stadiums, these type of deals are highly beneficial as well. In 
+some cases, they occur as a consequence of financial contribution by company for reconstruction or 
+improvement of facility purposes. Often, companies go further and contribute to events, teams and 
+innovations within stadium. Such dealerships vary from 5 to 30 years, often being prolonged for 
+another period. The deals are well predetermined  and give opportunity to break the contract off in 
+case one of sides engages in reputation reducing activities, scandal and bankruptcy situations. 
+ 
+ 
+1.2         EVOLUTION OF NAMING RIGHTS DEALS 
+ 
+The  concept  of  naming  rights  dealership  is  familiar  to  history  for  decades.  There  were  always 
+institutions  in  financial  need,  which,  in  response  to  generous  help,  attributed  their  name  to  the 
+beneficiaries.  Referring  to  the  history  of  stadiums  sponsorships  exclusively,  the  beginning  links 
+back to 1920s. The first naming deal with sport facility was made by William Wrigley, the owner of 
+Wrigley Company. Numerous deals, following this start point, were also in the context of personal 
+naming  rights  acquisition,  mainly  using  family  name  of  companies'  owner  (for  example,  Busch 
+Stadium after the owner of Budweiser). This type of dealership was soon replaced by the corporate 
+naming rights deals, when in 1980s The Forum Stadium sold its name to Great Western Savings and 
+Loan. This type of dealership continues to accelerate in demand.  By 2002, more then 70 per cent of 
+venues  in  the  major  league  sports  had  been  named  after  some  corporate  sponsors  (Howard  and 
+Crompton, 2003). The relatively limited supply  of the major stadiums combined with the lasting 
+signed  contracts  contributed  to  the  rise  of  similar  partnerships  with  minor,  university  and  even 
+college league facilities (BB&T Field, Jones AT&T Stadium,etc). The latest estimates suggest that 
+when  the  recently  planned  deals  are  implemented  into  practice,  there  might  be  only  eight  NFL 
+stadiums not attached to corporate name (Crabtree, 2013). 
+ 
+The conditions signed within the deals evolved dramatically as well. In the start, contracts did not 
+
+ 
+ 
+ 
+
+8 
+
+go far beyond acquisition of logo place on the roof of the stadium. Now, the deals provide both 
+parties with variety of privileges as well as wide space for corporation. As so, the contracts give 
+opportunity to provide  company's goods or services within the stadium, for example, all payments 
+and  cash  points  done  by  the  financial  company's  cards  within  the  stadium  area,    beer  and  food 
+provided  by  company,  if  it  is  from  brewing  or  food  industry. The  price  of  naming  right  deals  is 
+surging with time as well. Finkel (2011) noticed that in 1966 the stadium of NFL team, Oakland 
+Raiders, was purchased for $7.2 millions over the period of 6 years and was considered as absolute 
+boom for that time. By 1987 another NFL stadium, home of Miami Dolphins, sold naming rights to 
+Sun Life Corporation for $37.5 million over 5-years contract. In 2000 the striking amount for such 
+deal was $320 million for 32 years by Reliant Energy, while the latest record is $400 million 25-
+years contract signed by MetLife in 2010.  
+ 
+There  are  several  non-promising  examples  of  such  deals,  which  were  broken  off  soon  due  to 
+bankrupcy or other scandal one party was involved in. The most quoted example in papers is the 
+one connected to the Enron Field, which received its name after the huge energy company. The high 
+diapason of scandal affected both parties in contract when the energy company went bankrupt. The 
+stadium had to re-purchase the naming rights in order to bare the least costs in form of reputation 
+burden.   
+ 
+Despite  some  results  reveal  possible  depressing  outcomes,  the  considerably  surging  pattern  of 
+involvement in naming rights contracts over the last century still continues. The magnitude of the 
+deals increased, the length of contract is prolonged, the maximum price willing to be paid still rises 
+and  the  search  in  new  spare  facilities  continues.  The  vast  number  of  companies  also  engage  in 
+multiple  corporate  naming  contracts  (AT&T  Park  and  AT&T  Arena,  FedEX  Field  and  FedEx 
+Stadium, Scotiabank Saddledome and Scotiabank Place) and numerous contracts are set for infinite 
+number of years (Rogers Centre, Coors Field, Jones AT&T Stadium).  
+ 
+Hence, the pattern is rather promising. International Journal of Sports Marketing and Sponsorship 
+states    growth  of  number  of  title  sponsorship  deals  is  estimated  as  $750  million  per  year  for  32 
+countries, while the USA makes the half of it (IMR Sports Marketing and Sponsorship Intelligence, 
+'Sponsorship Today', 2050-4888). 'Naming rights and sponsorship deals are, of course, nothing new, 
+but never before have we seen such a proliferation in the number and permutations of such deals as 
+there have been in recent years' (Kishner, 2011, p.1).  
+
+ 
+ 
+ 
+
+9 
+
+1.3          CONCLUSIONS 
+  
+The rate of naming rights deal occurrence is accelerating with time. If few decades ago no one even 
+thought about local facility being named after the corporate brand name, now it becomes surprising 
+if  one  is  not.  The  companies  evidently  find  it  as  a  reasonable  investment  and  great  marketing 
+strategy,  as  they  expect  numerour  feedbacks  in  terms  of  increased  awareness,  profitability, 
+reputation  and  public  exposure. This  field  of  deals  have  changed  significantly  in  terms  of  price, 
+lenght and magnitude of contracts. Obviously, this became one of the significant part of sponsorship 
+and marketing and lot of hopes is put on such strategy. The history suggests the demand for sport 
+facilities is still moving in the upward trend and will continue so in, at least, nearest future. The 
+professional marketologists beliefs of acquisition of naming rights as one of the most efficient paths 
+towards the success imply this field is worth investigating deeper. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+10 
+
+2.             LITERATURE REVIEW 
+ 
+ 
+The following chapter will contain four parts. In the first part, I will introduce the framework of 
+event study by outlining the basic works and findings. These are considered as a core findings and a 
+startpoint of the whole methodology. Further, I will provide discussion of several works which used 
+event study for various, not specifically corporate issues. The examples will be from managerial and 
+even  surprisingly  different  aspects,  which  suggests  broaden  application  of  the  study.  Next,  the 
+literature review will be focused on event studies within the sponsorship of stadiums, defining the 
+major outcomes and commentaries. They  all together give insights on what whould be done and 
+what drawbacks they did not consider in conclusions. The fourth part will be conclusion of chapter. 
+ 
+ 
+2.1          FRAMEWORK OF EVENT STUDY  
+ 
+ 
+Event  study  is  a  technique  used  to  measure  the  reaction  of  the  capital  market  to  the  certain 
+announcement. A.McWilliams et al. (1997, p.626) define event study as a powerful tool that can 
+help  researchers  assess  the  financial  impact  of  changes  in  corporate  policy.  Unlike  other  factors 
+reflecting companies' performance, such as sales, the capital market captures immediate magnitude 
+and sign of shareholders' reaction to the announced strategy.  
+ 
+The  beginning  of  the  event  study  methodology  development  is  assigned  to  the  work  of  Dolley 
+(1993),  who  assessed  the  reaction  of  stock  to  the  split  announcement  and  received  evidence  of 
+beneficial abnormal returns around the news date. After that work, a significant amount of studies 
+were performed in the same field and,  consequently, many new approaches and limitations arose. 
+Binder (1998) suggests, that event study methodology has become widely applicable and is aimed 
+to  answer  one  of  the  following  two  questions:  'is  the  market  efficient?'  or  'if  market  is  efficient, 
+what impact do announcements bring to value of the firm?'. In order to restrict event study with 
+measuring the reaction to the news arrival and receive reliable and valuable results, the researcher 
+must control for the effect of fluctuations caused by market inefficiencies.   
+ 
+ The necessary condition for capturing precisely the reaction to the announcement, the assumption 
+
+ 
+ 
+ 
+
+11 
+
+of  market  efficiency,  at  least  with  respect  to  the  public  information,  is  set.  Fama  (1991)  defines 
+market to be semi-strong form efficient if stock prices fully and fast adjust to all the releases of new 
+public information. More precisely, this means that prices include all available information on not 
+only past values of the stock under consideration, but past values of other assets as well as all other 
+possible  influential  variables  observed  by  public.  This  is  outlined  by  all  studies  as  the  main 
+condition towards the successful research results on impact of announcement, and will also be one 
+of the initial assumption in this research. 
+ 
+ 
+2.2          EVENT STUDIES IN VARIOUS FIELDS 
+ 
+ 
+Literature  has  difficulty  to  count  the  overall  number  of  event  studies  performed  during  last  two 
+decades, but certainly outlines the numerous developments of tests on significance of the results as 
+well as extensions to more managerial fields of study. The 'classic' work, serving as a baseline of the 
+whole further practices, is the paper by Fama, Fisher, Jensen and Roll (1969), who contributed their 
+work to determining common stock prices reaction to stock split based on monthly data. The result 
+proved significant shock of returns which adjusted to the new public information fastly. The huge 
+break through was made by  Brown and Warner (1985), who examined properties of stock returns 
+based  on  daily  data.  The  extension  of  this  paper  is  using  daily  data  rather  than  monthly  in 
+methodology of event study. This is a golden result needed for all further event studies, including 
+this one. 
+ 
+Through decades the impact of surprising news was tested with event study. Big fraction of those 
+can  be  categorized  to  the  field  of  structural  changes.  For  instance,  the  merger  and  acquisition 
+strategy disclosure was researched infinite number of times and, in general, showed the beneficial 
+impact on shareholders wealth of target firm (Jarell et al., 1988; Ruback et al., 1983) and depressing 
+effect for raiders firms (Jarell et al 1989). Nevertheless, lately, much more attention is devoted to 
+managerial  strategies  announcement  investigations.  For  example,  the  expected  increase  in  stock 
+prices were obtained after the announcement of huge celebrity involvement in companies activities 
+(Agrawal,  1995).  Another  metaphor  of  unexpected  announcement  is  used  in  investigating  the 
+overall countries' stock market behavior after the natural disaster (N.Luo, 2012). The  significant 
+results  occurred  only  in  separate  industries,  while  no  overall  effect  was  captured.  Event    study 
+
+ 
+ 
+ 
+
+12 
+
+evaluation of the reaction to managerial practices became repeatedly performed, but, interestingly, 
+yielded often different results based on the sample, test and clusters they use. One evidence is clear, 
+the event study methodology went much further than usual corporate strategies evaluations. 
+ 
+2.3          EVENT STUDIES IN SPONSORSHIP  
+   
+Reactions  on  company's  decision  to  engage  in  sponsorship  activities  have  received  broaden 
+attention lately. With increasing sponsorship deals, there is also increasing number of attempts to 
+measure  its  impact  on  the  wealth  of  shareholders. While  sponsorship  is  a  marketing  strategy,  its 
+specificity is the absence of perfectly obvious slogan suggested to public. Consequently, it provides 
+analysts a spare field for interpretations. The  
+long-run value of sponsorship should be measured by whole list of factors: starting from accounting 
+ratios  changes  and  finishing  with  hardly  capturable  modifications  in  people's  perception  of  the 
+company's  pursuits.  It  is  a  prolonged  process  of  analysis,  so  researchers  came  up  with  the 
+alternative method of evaluating the expected profitability - event study. 
+ 
+Vast  number  of  works  attempted  to  investigate  the  effect  of  sponsorship  announcement  on 
+company's value.  It is assumed that if the public accepts the announced decision as a favourable 
+one- the prices will show significant positive abnormal return, and vice versa. 
+Sport or event sponsorship is question of study of many works. Past researches considered different 
+issues, such as impact of hosting mega-events as FIFA World Cup and Olympic Games (X.Li, 2007; 
+Martins  et  al,  2007;  Tsioutsou  et.  al.  2005),  becoming  the  official  major  league's  sport  sponsor 
+(Cornwell et.al.  ) and acquisition of titles of arenas (Clark et.al, 2002; Clark et al, 2009; Janney 
+et.al, 2013). These works try to complement each other and make broader conclusions on factors 
+impacting the result.  
+ 
+Concentrating on the stadium sponsorship literature, one can define several works devoted to this 
+issue. The paper by A. Johson (2009) investigated the impact of 51 sponsorship announcement on 
+companies in Australia. Using the usual event study methodology the researcher obtained neutral 
+overall  results  on  the  economic  wealth  of  shareholders.  The  constantly  accelerating  number  of 
+signed contracts for stadium sponsorship are not consistent with the obtained results. In fact, this 
+paradoxal outcome was received by several studies and all of them had one common characteristics: 
+the  research  was  designed  without  accounting  for  broad  differences  in  the  companies  and, 
+
+ 
+ 
+ 
+
+13 
+
+consequently,  investors  in  the  study. A.Johnson  highlightened  the  need  to  pay  more  attention  to 
+variables impacting the change in returns. Janney et. al. (2013) contributes to this idea in the study 
+which used 203 sponsorship announcements and implemented more deep research  of naming rights 
+acquisition using as well the usual event study technique. The results they obtained also suggest that 
+there is insignificant overall impact, while by dividing the sample according to the relatively new 
+contract deals, existance of other similar contracts in company's past, level of proficiency of league 
+and effect on college league. Two out of five categories showed significant results  reflecting that 
+companies with past experience in such sponsorship show more significant abnormal return   than 
+others.  Moreover,  ANOVA  test  showed  that  major  leagues  stadiums  sponsorships  tend  to  be 
+perceived as more beneficial compared to minor ones. Other categories did not show any significant 
+impact.  This  suggests  that  sub  cathegorisation  approach  can  lead  to  more  broadened  conclusion 
+about  the  perception  of  event,  as  the  overall  effect  can  be  off-set  due  to  numerous  other  factors 
+involved.  
+ 
+Clark et al. (2003) state that ''it is impossible to effectively ascertain the actual strength (or even the 
+direction) of the correlation between stadium sponsorship announcements and share prices. This is 
+because  no  efforts  were  undertaken  to  analyze  the  impact  of  stadium-  and  arena-naming-rights 
+announcements  in  isolation'  (Clark  et  al,  2003).  49  observations  were  examined,  including  only 
+sports  with  NFL,  NBA,  NHL  MLB  teams  connected  to  it.  Using  usual  technique  of  finding 
+abnormal  returns  via  OLS  market  model  and  event  window  [-25;  +50].  They  received  positive 
+significant effect in the day of announcement using the chategorisation principle as well as captured 
+significant  result  depending  on  sharacteristics.  Marikova  et.al.  (2007)  proved  the  importance  of 
+examining  factors  separately    by  taking  the  same  sample  as  the  one  by  Clark  et.al  (2003)  and  
+analysing  only  overall  companies'  performance.  The  result  suggested  insignificant  cummulative 
+effect. The main trigger of such disparity lies in the fact that the earlier approach accounted for ten 
+firm-specific factors, while the latter did not acknowledge the importance of using chategorization 
+of sample data. 
+ 
+Calrk et al (2003) suggest in their analysis that this reasonably proves not only the value changing 
+effect  of  such  deals,  but  also  that  investors'  perception  depend  on  much  peculiar  factors  and  by 
+investigating  them  the  managers  could  account  for  such  psychological  effects  in  their  future  
+decisions.  
+The  existing  literature  on  naming  rights  aquisition  makes  some  clear  insights  in  solving  the 
+
+ 
+ 
+ 
+
+14 
+
+phenomenon  of  initial  results  impliying  neutral  reaction  of  shareholders  by  delving  deeper  in 
+possible individual firms' characteristics as well as explanations of psychological patterns followed 
+by investors. Consequently, eventhough this field had some investigations, it is still widely opened 
+for next research which will keep in mind all the suggestions of the previous researchers. 
+ 
+ 
+2.4           CONCLUSIONS 
+ 
+The event study methodology is on the one hand rather new methodology, but, on the other hand, 
+highly applied during these decades to various investigations. The main works are centered around 
+corporate strategy announcement, but, especially lately, the increased use of event study is observed 
+in  management.  During  the  last  decades  numerous  modifications  happened  in  event  study 
+methodology, implying the extension of tests and loosening assumptions. The studies evaluate in a 
+positive manner, implying that more drawbacks are controlled for. Still, the methodology is often 
+non-accurately  used  and  miss-specified  conclusions  are  made.  For  example,  studies  on  similar 
+samples tend to show different effects. Researchers give advise on separating data under analysis 
+according to particular characteristics, as, they say, result heavily depends on that. Consequently, 
+event study is fast method of observing the strategy effect, but still needs deeper insights on how to 
+increase the reliability of the observed results. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+15 
+
+DATA COLLECTION 
+
+3            METHODOLOGY 
+ 
+This chapter will be devoted to the research methodology. In the first part I will provide information 
+on the way the data is collected, data sample is determined  and windows for the furhter study are 
+outlined. Then, I will go by introducing the steps connected to abnormal returns calculation. The 
+third part of chapter is devoted to discussion of the method which is more likely to give reliable 
+results in this case. The fourth part is description of Wilcoxon-Mann-Whitney test for determination 
+of  significance  of  abnormal  returns.  Next,  the  chapter  will  continue  with  outlining  K-means 
+clusterization and the final part describes the Quetelet index. 
+ 
+ 
+3.1 
+ 
+One of the main requirements that event study methodology sets in order to receive valuable results 
+is  the  accuracy  of  the  collected  data.  As  McWilliams  et.  al.  (1997)  state,  the  only  information 
+needed for the event study are names of traded firms, event dates and stock prices. As much as it 
+may seem as easy to implement, it crucially depends on the precision of the data. 
+ 
+The initial step was to find the list of all stadiums which signed official naming rights dealership. It 
+was done through web-resources and was carefully checked on each official stadium's site in the 
+section  which  describes  its  history.  (Sports  Business:  Professional  Sports,  List  of  Sports  Venues 
+with Sole Naming Rights, Financial History of the New York Giants). In attempt to minimize bias 
+that can arise due to extreme difference in preferences, characteristics of sport, size and number of 
+venues and possible culturological traditions with respect to such events, I limited my research with 
+stadiums in United States of America and Canada.  
+ 
+Next, the venues in the list showed too many variations in their applications, meaning, most of them 
+were used for football, basketball and other sports and concerts, while others could be auto racing 
+speedways, venues for exhibitions and so on. Again, for accuracy reasons the facilities for multi-
+purpose and those focused on football, basketball, ice-hockey and baseball were left, others being 
+excluded from the study. Moreover, only the facilities in the capacity range of 18 000 to 85 000 
+seats were under consideration due to visible distinction of venues with lower capacity with respect 
+to frequency, importance of events, location, purposes, etc. 
+
+ 
+ 
+ 
+
+16 
+
+located in the United States of America or Canada 
+used either mainly in football, basketball, baseball, hockey or in multi-purpose (ability to 
+
+ 
+Further, the accurate announcement date was collected. The announcement date is the official date 
+that the press releases the information to the public. Several official internet news providers were 
+used, among them were Sportsbusinessdaily.com, The Wall Street Journal, NBC News and others. 
+Announcement  dates  that  were  impossible  to  be  determined  precisely  were  excluded  from  the 
+research. 
+ 
+Due to the fact that precise daily stock market prices were needed for the research, companies that 
+are not traded on stock exchange were also eliminated from the study. Moreover, one of the crutial 
+factor  needed  to  be  accounted  for  is  the  absence  of  compounded  effect  (McWilliams  and  Siegel 
+(1997), meaning that the event is isolated from  other events effects. Those companies who were 
+evidently  incorporated  in  some  other  significant    activities,  such  as,  for  example,  merger  and 
+acquisition, during the period around naming rights deal were also excluded from the study. 
+ 
+Consequently,  the  list  of  objects  with  corporate  names  in  this  study  all  satisfied  the  following 
+criteria: 
+• 
+• 
+host  multiple types of sports and concerts) 
+• 
+• 
+• 
+• 
+ 
+The sample that occured by the end of sorting, comprised 39 objects with details provided in Table 
+1 in the Appendix. 
+ 
+3.2 
+ 
+After the sample of facilities and corresponding companies were identified, the daily stock market 
+prices were obtained from Datastream.  
+ 
+The analysis of price behaviour is based on two period: event window and estimations window.  
+ 
+ 
+ 
+
+ranged [18 000; 85 000] in the number of seats 
+connected to the accurate date of announcement in the official press 
+isolated from other event effect within the company 
+traded publicly on stock exchange 
+
+      ABNORMAL RETURNS CALCULATION 
+
+17 
+
+Considering that 'event' is the day of the announcement (also described as t=0), the event window 
+can consist of that day only or several days around the event might be included. Brown and Warner 
+(1985) found that the power of the test decreases in the event window of (-5;+5) compared to just 
+day  0.  In  order  to  control  more  the  significance  of  event,  literature  suggests  using  smaller  event 
+windows in case of certain announcement dates (MacKinlay, 1997 ; Brown et al, 1985; McWilliams 
+et al, 1997). For the same reason and implying the assumption that no leakage of infomation prior to 
+the announcemet occured, this study uses announcement date [0] as event window.It consists only 
+from  the    announcement  day  as  the  precise  dates  of  announcement  were  found  and  stock  prices 
+should capture the effect immediately if market efficiency is assumed. 
+ 
+The  estimation  period  is  the  period  used  to  measure  the  expected  returns  for  the  event  period. 
+MacKinlay  (1997) states that most often the period prior to the event window is used, excluding 
+the event window itself. The estimation period length varies through studies, but if using market 
+model  for  expected  return,  120-day  period  is  considered  to  be  enough.  In  this  study  150-days 
+estimation period will be used. Estimation window is, thus, [-151;-2]. The gap of [-1] is included for 
+
+observational purposes. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+So,  the  estimation  window  is  used  to  find  excess  returns  during  around  the  announcement  and 
+consequently determine whether they significantly reacted to the announcement. The event study 
+approach assumes market to be efficient and thus expects stock market to reflect the reaction to the 
+news fully and accurately. P. Drake et.al.(2010) state that empirical evidence prove US stock market 
+to  be  at  least  semi-strong  form  efficient  (The  Basics  of  Finance:An  Introduction  to  Financial 
+Markets,  Business  Finance  and  Portfolio  Management,  2010,  p.32),  while  Bank  of  Canada's 
+research (2004) found the same evidence for Canadian stock exchange  (Scott Henry, Michael R. 
+King, 'The Efficiency of Canadian Capital Market: Some Bank of Canada Research', 2004). So, we 
+may rely on the fulfilment of this assumption within the following study.  
+Hence,  the  analysis  of  the  magnitude  and  sign  of  the  reaction  comes  to  the  analysis  of  excess 
+returns significance and direction. 
+
+ 
+ 
+ 
+
+18 
+
+ 
+Brown and Warner (1985) propose the following estimation of excess returns: 
+ 
+• 
+
+             
+
+            where  
+
+Mean Adjusted Return 
+А
+
+−
+
+ 
+
+t
+
+t
+
+i
+
+,
+
+i
+
+R
+= ,
+R
+
+i
+
+=
+
+i
+
+R
+1
+150
+
+2
+
+∑−
+
+R
+151
+
+t
+
+−=
+
+i
+
+,
+
+t
+
+ 
+
+• 
+
+ 
+Market adjusted returns 
+А
+
+R
+
+R
+
+−
+
+=
+
+ 
+
+i
+
+i
+
+,
+
+,
+
+t
+
+t
+
+tm
+,
+
+             
+             where Rm is the market index 
+             
+• 
+
+OLS market model 
+А
+
+ˆ
+ˆ βα−−
+R
+
+R
+
+=
+
+t
+
+t
+
+,
+
+,
+
+i
+
+i
+
+ 
+
+tm
+,
+
+           
+ 
+While Brown and Warner (1985) state that if there exist abnormal returns than there is no difference 
+in  obtained  results  depending  on  the  model  chosen,  the  other  existing  literature  on  event  studies 
+suggests  that    the  most  accurate  and  oftenly  used  is  the  OLS  market  model.  MacKinlay  (1997) 
+states that it shows increased ability to capture event effects. 
+ 
+In this analysis the market model is implemented into practise, using for Rm,t S&P500 Composite 
+weighted index for the returns measured for companies from the United States of America and other 
+countries,  while  S&P/TSX  Composite  weighted  index  is  used  for  Canadian  stocks.  The  data  is 
+obtained from Datastream. The index was used throughout the  estimation window with respect to 
+the date, to estimate coefficients and, thus, apply them for abnormal returns for the event window. 
+The  coefficients  were  estimated  using  Eviews  5.  Binder  (1998)  states  that  coefficients  can  be 
+assumed  to  be  constant  during  the  event  window.  Further,  for  each  company  the  obtained 
+coefficients were used to find the expected return based on the market model. Finally, the excess 
+returns were calculated along the [-1; 0] window as a difference between the observed return and 
+the calculated expected one.  
+The obtained abnormal returns for each company can be observed for the period [-1;0] where period 
+t=-1 is included for comparison purposes, in Table 2 in Appendix. 
+ 
+
+ 
+ 
+ 
+
+19 
+
+Parametric tests 
+
+Non-parametric tests 
+
+DETERMINATION OF TEST ON SIGNIFICANCE 
+
+3.3 
+ 
+There are numerous methods to test significance of results, which also imply different underlying 
+assumptions. Generally, tests in event study on significance of abnormal returns can be devided into 
+two categories: 
+ 
+• 
+ 
+These tests are based on the assumption that the abnormal returns are jointly normal and identically 
+independently distributed through time for all securities. Researcher should calculate cummulative 
+abnormal returns  and define their significance by  implementing the t-statistics. There are several 
+extentions which use standardization technique, for example test introduced by Patell (1976), which 
+standardizes  abnormal  returns  by  their  deviations  from  the  estimation  period.  Standardization  is 
+used in order to satisfy the equal variance conditions. One of the characteristics of parametric tests 
+is that they are also effected by existance of outliers, while those outliers should not be eliminated 
+from the study due to their possible importance. 
+ 
+• 
+ 
+These tests are robust to data from non-normal distributions. The characteristics of non-parametric 
+tests  is  absense  of  dependance  on  normal  distribution  requirement,  so  they  are  also  called 
+'distribution-free  test'.  They  are  not  affected  by  the  existance  of  outliers  due  to  their  nature. 
+Generally,  non-parametric  tests  are  either  sign  or  rank  tests.  Cowan  et  al.  (1992)    propose 
+generalised  sign  test  which  hypotheses  that  proportion  of  positive  abnormal  returns  is  equal 
+between  estimation  period  and  event  period  and  is  immune  to  asymmetry  of  AR  distribution. 
+Corrado (1989) proposed rank test, which assigns every abnormal return its rank and hypothesizes 
+that  it  is  equal  to  the  expected  rank  equal  to  (T+1)/2,  where  T  is  the  maximum  rank.  There  is 
+evidence that rank test loses power for the prolonged periods for CAR (for example 20-days event 
+window),  but  if  the  period  is  short  it  has  proved  to  be  robust  with  respect  to  volatility  and 
+clusterings.  
+ 
+ 
+Though parametric method is widely used in big samples, the assumption of normality of abnormal 
+20 
+ 
+ 
+ 
+
+returns  is  too  restrictive.  Binder  (1998)  states  that  the  hypothesis  testing  becomes  problematic, 
+because often the abnormal return estimators are not independent or do not have identical varience. 
+McWilliams et al. (1997) analyze the main flows in managemental application to event study and 
+define the neccessary steps the researcher needs to follow in order to get the reasonable result. They 
+highlight importance of using non parametric test at least at the end of each research, to identify 
+outliers in cases when normality assumption is applied to abnormal returns, due to evidence that 
+event  studies  are  effected  by  outliers,  especially  in  the  small  samples.  Fama  (1976)  states  that 
+abnormal returns show fatter tails and skewness to the rights comparing to the normal distribution.  
+ 
+There  exist  many  extensions  and  complementations  to  the  methods  outlined  above,  but  the 
+conclusion that can be derived from analysing the listed works is that the test on significance of 
+abnormal returns should be non-parametric, especially in sample size, like in this study. Moreover, 
+literature suggests that non-parametric tests outperform parametric ones due to their immunity to 
+volatility and clusterings, while parametric tests are strictly dependant on distribution assumption, 
+effected by variance behaviour of abnormal returns and impacted by outliers. Due to the evidence 
+that abnormal returns tend not to be identically independently normally distributed in reality (Fama 
+1976)  I  expect  higher  precision  of  my  results  by  using  non-parametric  test,  which  satisfies  the 
+outlined requirements for robustness of outcomes. 
+ 
+3.4       MWW TEST FOR SIGNIFICANCE OF ABNORMAL RETURNS 
+ 
+The MWW test, or Wilcoxon-Mann-Whitney test, also known as Wilcoxon rank-sum test, is a non-
+parametric test of difference of two populations against alternative that one stochastically exceeds 
+the other. Using additional assumption of identical shape of distributions, Wilcoxon-Mann-Whitney 
+one-sided test checks whether  two populations significantly differ and, if yes, which one exceeds. 
+The test is a non-parametric alternative to independent means t-test. The difference in populations in 
+Wilcoxon-Mann-Whitney test is called a location shift.  
+ 
+The proper computation of Wilcoxon-Mann-Whitney is based on the following procedure.  
+ 
+Assumpions required are: 
+ 
+• 
+ 
+ 
+ 
+
+F1 and F2  are from the identical continuous distribution 
+
+21 
+
+F1 (x) = F2 (x-Ɵ)  , i.e. two populations differ only in their location 
+F1 and F2 are mutually independent 
+
+• 
+• 
+ 
+Hypothesis can be written as: 
+           H0:     Ɵ = 0              
+           Ha:     Ɵ > 0 
+The test is based on investigating the existance of what is called a location shift (Ɵ). In other words, 
+if  the  distributions  of  two  samples  are  the  same,  one  can  determine  the  centres  of  location,  for 
+example if Ɵ is  significantly greater than zero, then F2 is shifted to the left from F1 as in the figure 
+2.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wilcoxon-Mann-Whitney test is based on the following idea. Having two samples, call one sample 
+A and the second sample B. Wilcoxon-Mann-Whitney combines sample A and sample B into one 
+combined sample and assigns each observation corresponsing rank. Then, ranks attributed to each 
+sample  are  summed.  The  larger  summed  rank  between  samples  is  used  to  test  for  critical  value 
+table: 
+
+WMW
+
+=
+
+n
+
+∑
+
+j
+
+1
+=
+
+jYR
+)(
+
+ 
+
+ 
+where Y is sample which makes higher sum of ranks from the combined sample. 
+ 
+The  aim  of  event  study  technique  is  to  determine  the  significance  of  departure  of  observed 
+abnormal returns from zero during the  event period. Friedman (1937) stated, normal distribution is 
+22 
+ 
+ 
+ 
+
+rather an exception than a rule with social and economic data. This test is highly powerful for non-
+normal data and shows efficiency of 0.95 comparing to t-test, which is considered as rather high.  
+ 
+Applying the methodology to this study, the actual returns will be compared to expected returns, in 
+other words, observed abnormal returns will be compared with zero abnormal returns. Assuming 
+that both samples come from the identical distribution, the significant departure between them is 
+understood  as  a  location  shift  of  actual  abnormal  returns  from  zero.    If  the  sample  of  abnormal 
+returns  exceeds  sample  of  zero  abnormal  returns  than  abnormal  returns  are  significantly 
+positive.The  nature  of  this  study  implies  clustering  the  data  by  different  characteristics,  so,  the 
+sample  of  39  observations  is  divided  into  smaller  clusters  and  in  small  sample  case  WMM  test 
+rearly spuriously indicates significance relative to other tests. 
+ 
+First,  I  would  analyze  the  significance  of  abnormal  returns  comparing  the  shift  of  observed 
+abnormal returns sample and zero abnormal returns. This will be repeated for each cluster, so the 
+effect of  announcement  will be examined for  companies with respect to their characteristics (for 
+example,  impact  of  the  announcement    first  for  S&P500  components,  then  for  S&P500  non-
+components and so on for each cluster). The sign of the departure will be analysed, so I chose one-
+sided alternative hypothesis. This allows to determine whether the significant location shift exists 
+and in which direction. 
+ 
+Further, I will apply the same technique between some clusters, varifying whether abnormal returns 
+of one cluster are observably different from the other (for example, difference in abnormal returns 
+between  components  of  S&P500  and  non-components  of  S&P500  and,  if  yes,  which  is  higher). 
+Wilcoxon-Mann-Whitney test is immune to differences in sample sizes and outliers, so it can be 
+relied on. Thus, I aim to capture the significant location shifts and their sign, if they exist, and verify 
+whether the magnitude of stocks reaction to the announcement of naming rights acquisition may be 
+attributed to difference in characteristics of clusters.  
+ 
+ 3.5          K-MEANS CLUSTERING 
+                            
+The  key  idea  of  clustering  analysis  is  to  find  how  data  can  be  accurately  divided  into  groups  in 
+order to apply different algorythms with respect to group's main properties. Vast number of theories 
+are developed about what should be the basics of division into clusters, but k-means clustering is 
+
+ 
+ 
+ 
+
+23 
+
+one of the most sound ones. 
+ 
+K-mean clustering, the centre of works  of McQueen (1967), Lloyd (1982), Ball and Hall (1965), is 
+a method of clustering which portions n observations into k clusters in a way that minimizes the 
+squared  errors  between  the  observation  and  its  nearest  centroid.  The  k-means  algorythm 
+(McQueen,1967) attributes each cluster its centroid and then places every observation in the cluster 
+to the closest one. Then the new centroid within the cluster is found and the procedure of placing 
+the observation to its closest centroid is repeated until centroids are fixed and no changes occur. So, 
+it minimizes the within cluster sum of squares, over all  clusters: 
+ 
+
+arg
+
+k
+
+min
+S ∑ ∑
+Sx
+= ∈
+1
+
+i
+
+x
+
+j
+
+2
+−m  
+
+i
+
+j
+
+i
+
+ 
+This clustering method allows to find clusters with the smallest squared errors between observation 
+and  the  centroid.  Consequently,  it  is  a  method  which  groups    most  similar  observations  into  k 
+clusters. 
+ 
+In this study, MATLAB R2012B is used. I decided to impose k=3 as it will give the broader insights 
+of  properties  of  observations. The  k-mean  clustering  assigned  each  company  to  one  of  the  three 
+centroids.  It  will  minimize  the  distance  between  the  observation  and  its  nearest  centroid,  so 
+abnormal returns of all companies in the study will be portioned within 3 groups. Now, eliminating 
+the specificities defined by type of contract and psychological perception of investor, but analysing 
+on  the  basis  of  shared  closest  centroid,  we  do  the  same  Wilcoxon-Mann-Whitney  technique  in 
+evaluating the significance and sign of the location shift from normal returns in case of each k-mean 
+cluster. We, then, compare clusters in pairs to find whether and how are k-mean clusters different 
+from each other, again by the same technique. 
+ 
+The expected effect of implementation of three clusters division is proving significant impact on 
+clusters'  stock  prices.  This  could  lead  to  evidence  that  there  exist  groups  of  companies  which 
+experience  statistically  significant  negative  or  positive  effect  depending  on  centroid  they  are 
+assigned to.  
+ 
+ 
+ 
+ 
+ 
+
+24 
+
+3.6          THE QUETELET INDEX 
+ 
+After  the  results  are  obtained,  and  we  do  expect  them  to  show  significant  evidence,  this  study 
+continues with  Mirkin (2011) refers to as capturing relationships with Quetlet index. 
+ 
+Mirkin  (2011)  defines  the  baseline  of  Quetlet  index  as  strategy  for  visualisation  of  correlation 
+patterns in contingency tables without removal of 'non-fitting entities'. 
+He  describes  the  calculation  on  the  following  example:  assume  the  probability  of  getting 
+tuberculosis  is  0.1%.  Investigate  the  bad  housing  conditions  impact  on  probability  of  getting 
+tuberculosis  by  finding  the  rate  of  tuberculosis  decease  among  bad  housing  conditions,  say,  you 
+receive  0.5%.  The  index  by  Quetlet  can  be  found  as  q(1/k)=  (0.5-0.1)/0.1=4,  meaning  that  the 
+change of rate of getting tuberculosis increases 400% if the bad housing condition is present. 
+ 
+The Quetlet index in my study will enable me define the correlation pattern by the same logic. The 
+question of interest is how being in particular characteristics cluster affects the rate of occuring in 
+the  k-mean  cluster  with  significant  positive  or  negative  abnormal  returns.  In  other  words,  I  will 
+attempt  to  find  which  characteristics  of  the  deal  and  in  which  magnitude  impact  probability  of 
+occuring in the shareholders' wealth-enhancing or wealth-depressing group of companies. This will 
+provide  me  with  deeper    understanding  of  investors  multi-criterial  approach  in  evaluatinf  such 
+announcements. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+25 
+
+ 
+4          HYPOTHESES DEVELOPMENT 
+ 
+This  study  will  examine  company's  stock  market  performance  at  the  news  date  according  to 
+numerous characteristics which can impact investors expectations. Clark et al (2003) suggest further 
+event studies to divide the data according to multiple characteristics in order to increase probability 
+of  capturing  the  effect  of  the  announcement.  Considering  this,  I  introduce  extended  number  of 
+factors that should be analyzed for broader insight of the study. The sample will be clustered with 
+respect  to  each  factor  performance,  whose  characteristics,  I  believe,  may  impact  the  investors 
+beliefs. The factors and further division is shown in Table 3. 
+ 
+
+Factor 
+
+ S&P 500 
+
+ Price of rights 
+ Capacity of stadium 
+
+  
+ Industry 
+
+ Capacity of stadium 
+
+  
+ Type of sport  
+
+ Level of team league 
+
+Clusters 
+
+Non-component 
+Component 
+Low 
+Medium 
+High 
+Beer and food 
+Financial 
+Others 
+Small 
+Big 
+Basketball 
+Football 
+Hockey 
+Baseball and athletics 
+Professional 
+University 
+
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+
+ 
+                       Table  5.  Factors  and  corresponding  clusters  applied  in  the  announcement  reaction 
+study 
+ 
+Following the factors characteristics, I assigned each observation the number corresponding to the 
+certain characteristics. For example, if company is S&P500 component it was assigned '1', while 
+non-component  was  followed  by  '0'.  In  the  case  of  ratios,  the  information  on  ranges  defined  to 
+clusters within factors can be found in the Table 2  in appendix.  
+
+ 
+ 
+ 
+
+26 
+
+ 
+ 4.1           S&P 500 
+ 
+Separation of effects between companies which are included in the index from those who are not is 
+derived from the fact that the beliefs of investors might be impacted by whether the company is 
+listed in the index of 500 most demonstrative companies in their field or not. It might be perceived 
+by investors as a signal of stability and quality and, consequently, might lead to less shaking beliefs 
+about reasonability of their actions.  The  fact, that the  company is listed in the index, which is used 
+in most studies as a market proxy, can make investor believe, that the company is quality-checked, 
+that it had numerous actions in past and proved to be reasonable  and stable eventually, that it is 
+concerned about  manager's actions and all the consequences which can arise. 
+ 
+Not being in the list might raise doubtfulness of reasoning of such action, as so, they might be more 
+sceptical of company's decisions.This situation might reflect what was mentioned in agency cost 
+theory developed by Jensen and Meckling (1976). Rather then enhancing future returns, executives 
+might engage in actions aimed to increase their own well-being at the cost of company. 
+'Enterprenour or manager in a firm with mixed financial structure will choose a set of activities for 
+the firm such that the total value of the firm is less than it would be if he were the sole owner' 
+(Jensen, Michael C.; Meckling, William H. (1976). "Theory of the Firm: Managerial Behavior, 
+Agency Costs and Ownership Structure". Journal of Financial Economics 3 (4): 305–360). Every 
+contract signed in the naming right partnership also provides with the set of v.i.p. seats, free tickets 
+to all the events within venue and possibility to meet famous people. This set of luxurious 
+opportunities might be more attractive to managers than well-being of company after the  
+investment. At the same time, the  announcement of acquisition of naming rights for S&P500 
+components is not expected to rise such doubts due to confidence in awareness of company's 
+actions. 
+ 
+ Moreover, the companies listed in the index tend to have larger spector of marketing activities in 
+the past, with already known pecularities of outcome, either by their own experience, or by the 
+experience of similar companies. The idea of investors' uncertainty about the creation of new 
+environment  might as well impact. The non-listed companies seem to lack previous experience in 
+such specific marketing stategies, particulary, the acquisition of naming rights. Investors might face 
+adoption of new strategy as an additional  threat to company if they find future results to be 
+
+ 
+ 
+ 
+
+27 
+
+ambiguous. Behavioural sociology suggests that the uncertainty is absorbed with increase in amount 
+of similar experience around. The individuals and institutions tend to derive their attitude through 
+experience of others, so, innovations are absorbed into collective 'awareness' with time. This idea is 
+the baseline of so called 'bandwagon' effect, which was adressed in famous work of  Abrahamson 
+and Rosenhopf (1993). They found that any technological, organizational or strategic innovation 
+with ambiguous returns can deffuse in a bandwagon manner. Refering to this study, the uncertainty 
+of result of acquisition of naming rights may be consequence of absense of such practise in the 
+similar surrounding environment and might be eliminated through time by increasing number of its 
+adoption into practise. 
+ 
+Components of S&P500 included in this study show considerable amount of previous naming right 
+deals. As so, almost 40 per cent of the companies in the cluster named 'S&P500 component' 
+experienced at least one such acquisition in past, moreover, some of them performed up to three 
+naming rights deals. The  multiple reiteration of the same kind of deal might affect impression about 
+subsequent effect on companies' brand. This may be assumed to be a signal to the rest of the similar 
+companies and decrease in the amount of uncertainty due to increased awareness of the following 
+impact. Consequently, companies with quite similar characteristics develop less frightening attitude 
+to such action and become more enthusiastic on implementing the same action and achieve 
+beneficitial results. As such, companies from S&P500  might have increased awereness of the good 
+brand signal stadium naming might provide and, moreover, might find it as opportunity to provide 
+business partners with more casual environment for making future deals. At the same time, only 8 
+per cent of non-listed companies experienced such acquisition and no multiple-naming contracts are 
+observed. This might suggest that the strategy is rather new for these companies and the effect is 
+still ambiguous for them. Consequently, the following effects will be examined: 
+ 
+HYPOTHESES: 
+ 
+H01,  02:  The  announcement  of  acquisition  of  stadium  naming  rights  has  no  impact  on  returns  of 
+S&P500   component   (S&P500 non-component) 
+ 
+HA1: The announcement of acquisition of stadium naming rights has positive  impact on returns of  
+S&P500   component   
+HA2: The announcement of acquisition of stadium naming rights has negative  impact on returns of 
+
+ 
+ 
+ 
+
+28 
+
+S&P500   non-component   
+HA3: The announcement of acquisition of stadium naming rights by S&P500 components has higher 
+impact than by S&P500 non-component 
+ 
+4.2          PRICE-TO-CAPACITY RATIO  
+ 
+The three cathegories depending on the ratio of price of contract to capacity of stadium in the 
+contract were included in order to examine the way investors look at the price invested per seat. The  
+factor which affected the choice of three categories, rather than one, in this casstudye, is, first of all, 
+very observable clusterization of data into three ratio levels, which might show the existance of 
+some pattern. As the price of naming rights-to-capacity can be viewed as a degree the company is 
+willing to invest in such contract, this might be perceived as the  phenomenon 'stuck-in-the-middle  
+strategy'. The concept was firstly introduced by Michael Porter (1980), who defined business 
+strategies in three main types. He suggests that if one aims to fix his competitive marketplace he 
+should implement certain pathway. By deviding companies in three types according to their market 
+share, he observed the following results. The highest market share companies received profits due 
+to their strategy, implying increase in the size, scale and scope. The lowest market share also 
+received profits due to specializing on certain category of the market and implementing direct 
+strategies on it. However, companies with the middle market share performed lowest profitability 
+due to lack of generic strategy The absence of generic strategy implies that company is confused 
+about the path it should use, so it implements the strategy  in between.That might also be the line of 
+reasoning of investor's behaviour  in this study. 
+ 
+The middle category might be percieved by investors as the one stuck-in-between with no generic 
+strategy. This might highlight to investors the inability to focus on concrete aims of companies' 
+future and thus is perceived as the most value reducing. Paying relatively a lot for seat might be due 
+to soundness and magnitude of dealership, paying relatively cheap is a opportunity to increase 
+brand awareness without huge costs. As for middle,  investors might find it as mimicing other 
+institutions' actions while being limited in concrete idea of company's goals. DiMagiio and Powell 
+(1983)  suggest that uncertainty is often a startline of mimicing pattern: when organizational 
+technologies are poorly understood (March and Olsen, 1976), when goals are ambiguous, or when 
+the environment creates symbolic uncertainty, organization might model themselves on other 
+organizations (DiMaggio et al, 1983)).  
+
+ 
+ 
+ 
+
+29 
+
+As  a  result,  investors  may  think  that  companies  engage  in  naming  rights  deals  not  because  they 
+evalute them as efficiency-increasing, but due to unambiguity of their situation and attempt to solve 
+it by repeating this action after other corporations. 
+ 
+The high price deals might be perceived as aim to acquire sound branding strategy which means 
+highly demanded stadiums and more spotlight on the deal. That might suggests that company is 
+more aware of the effect of the dealership, so the negative reaction is less likely expected,  but 
+profitability of such strategy depends on how well will the cash flows be paid back. 
+ 
+The low price of rights-to-capacity level might be perceived as aim to achieve certain marketing 
+goals  while not putting  all the weight of brand  on it. This might also be viewed by investors as 
+strategy of  
+ 
+ 
+HYPOTHESES: 
+ 
+H01,  02,  03: The announcement of acquisition of stadium naming rights has no impact on returns of 
+companies with low/middle/high level of costs paid per seat 
+ 
+HA2: The announcement of acquisition of stadium naming rights has negative  impact on returns of 
+companies with middle level of costs paid per seat 
+ 
+ 
+ 4.3             SECTOR 
+ 
+This  factor  was  included  because  the  opportunity  to  exploit  the  stadium  is  not  the  same  for  all 
+sectors. 
+First of all stock market participants are expected to evaluate cost-benefit side of this strategy. The 
+difference between sector's opportunities to increase profitability within the stadium arises from the  
+fact  that,  eventhough  all  of  them  have  their  logos,  advertisments  and  brand  names  all  over    the 
+facility, only few can increase rapidly sales directly within the stadium.  
+The disbelief in the project of naming right dealership might arise if the reason of this strategy to 
+lead to progressive profitability is unclear. The science of marketing defines the concept of strategic 
+
+ 
+ 
+ 
+
+30 
+
+compatibility of sponsorship as the extent to which partner has complementary goals (Amis at al., 
+2005).  
+ 
+The stadium title contracts with brewing and food industry always include the exclusive right of 
+being the sole provider of drinks and snacks within the stadium area. This means that during each 
+game only comany's menu is provided and purchased. It might reflect the opportunity for surging 
+sales during  games and  championships. The brewing  company  and sport fans is  rather harmonic 
+combination and investors might additionally perceive this as a sign of high awareness of clientelle 
+ond opportunity to increase sales by providing the product within the stadium.  
+ 
+ For financial institutions such opportunity is limited by the nature of their activity. The maximum 
+they can exploit specific to their field is cash points and ability to pay with their credit cards. There 
+is no obvious way to increase the volume of sales of financial service directly, rather than with time. 
+Such strategy might be  not obvious in its success for investors and thus might be viewed as an 
+investment not worth its costs.  
+ 
+The  sector  'others'  comprises  industries  that  occur  less  frequently  in  naming  right  deals,  such  as 
+cable  providers,  telecommunications,  airlines,  etc. This  category  seems  to  be  in  between,  as,  for 
+example, telecommunication companies have opportnity to increase sales by equipping the stadium 
+with its brand's technology and services, while still not expecting to do that on the constant basis. 
+ 
+Thus,  financial  sector  being  the  only  one  which  indirectly  increases  sales  with  such  dealership  
+might confuse investors  with the future benefits  of the deal.  The brewing  and  food company is 
+expected to face positive reaction. The sectors others is also expected to react positively rather than 
+negatively. 
+ 
+ 
+ 
+HYPOTHESES: 
+ 
+H01,  02,  03: The announcement of acquisition of stadium naming rights has no impact on returns of 
+companies within Brewing and Food / Financial / 'Other' sector 
+ 
+
+ 
+ 
+ 
+
+31 
+
+HA1: The announcement of acquisition of stadium naming rights has positive  impact on returns of 
+companies within Brewing sector 
+HA2: The announcement of acquisition of stadium naming rights has negative impact on returns of 
+companies within Financial sector 
+HA3: The announcement of acquisition of stadium naming rights has positive impact on returns of 
+companies within 'Others' sector 
+ 
+HA4:  The  announcement  of  acquisition  of  stadium  naming  rights  has  larger  positive  impact  on 
+returns of companies within Brewing Sector than Financial Sector 
+HA5:  The  announcement  of  acquisition  of  stadium  naming  rights  has  larger  positive  impact  on 
+returns of companies within Brewing Sector than 'Others' Sector 
+ 
+4.4           CAPACITY 
+ 
+The stadiums which sell naming rights vary considerably in the number of seats provided. Some 
+consist  of  20  000  seats,  while  others-more  than  80  000.  The  soundness  of  those  deals  is  not 
+equivalent,  implying  the  difference  in  attendancy  rate  as  well  as  opportunities  to  host  various 
+events. It is expected that reactions to those announcements may differ. As high-capacity stadiums 
+are  more  often  under  the  media  spotlight  and  are  usually  applied  to  multiple-events,  there  is 
+possibility that investors react differently. Small capacities might not be expected to cover all the 
+costs  of  contract.  The  cut-off  came  to  40  000  seats  as  it  is  the  line  which  most  observably 
+differentiates stadiums by their opportunities of hosting the events and media attention. 
+ 
+The inclusion of such cathegorising come from probability that investors may perceive big stadiums 
+as an investment with higher probability to cover the expenses due to higher exposure to public. 
+While the majority of stadiums can be used in multiple purposes for both sizes, the expandable 
+capacity for occuring events is obviously much more limited for small stadiums. Usually, the 
+football stadium is also applicable for basketball, athletics and concerts, while ice hockey stadiums 
+is usually limited by skating activities. 
+ Moreover, almost all of the events occuring in large and small stadiums differ drastically. For 
+example, in the sample used in this study, stadiums in the upper group are more often the hosts to 
+large events, such as annual Belk Bowl Championship in Bank of America Stadium, run up for 
+2006 FIFA World Cup in First Energy Stadium, Justin Timberlakes' stop in his tour in M&T Bank 
+
+ 
+ 
+ 
+
+32 
+
+Stadium in 2013. Some of these facilities are expandable up to 82 000 seats, for cases such as 
+Manchester United versus F.C.Barcelona game in FedEx Field in 2011, when the stadium did not 
+have one spare seat.  
+ 
+As for category of small capacity, they also provide opportunity to be transformed from mainly 
+football facility to a concert arena, but the amount of attracted public for one event is limited and 
+thus are limited opportunities of hosting the most sound events happening in area. Due to the fact 
+that acquisition of naming rights of stadiums is pretty direct marketing strategy aiming to increase 
+brand soundness and attract market share in more rapid way then usual marketing schemes offer, 
+investors might disapprove acquisition of small-capacity stadiums' name. The  investment even in 
+small stadium is rather costly, sometimes the same price is attributed to 20 000 and 65 000 seats 
+deals, as in case of Air Canada Arena and Ford Field, for the very different impact they later 
+perform. So, there might be sceptical attitute of investors to such announcement as to costly 
+marketing strategy not to be benefitial  enough. 
+ 
+H01,  02:  The  announcement  of  acquisition  of  stadium  naming  rights  has  no  impact  on  returns  of 
+companies acquiring big / small capacity stadiums 
+ 
+HA1: The announcement of acquisition of stadium naming rights has positive   impact on returns of 
+companies acquiring big capacity stadium 
+HA2: The announcement of acquisition of stadium naming rights has negative  impact on returns of 
+companies acquiring small capacity stadium 
+ 
+4.5           TYPE OF SPORT   
+ 
+The stadiums, even the multiple-use ones, are always focused mainly on one sport events. Thus, 
+every facility can be attributed one certain sport it usually hosts and is most famous for. Four blocks 
+refer to basketball, football, hockey and baseball.The reaction to the announcement might be prone 
+to the type of sport the facility is based on. Factors which can affect the reaction depending on this 
+factor are popularity of the sport among public or unreasonably high   difference in average costs of 
+deal. 
+ 
+Investors might react positively to baseball but negatively to basketball if those sports significantly 
+
+ 
+ 
+ 
+
+33 
+
+Nielson TV ratings: 
+
+According to sites visits: 
+
+US Census Bureau, Statistical Abstract of the US,2012 provides the following rating: 
+
+differ in popularity  within the area. Nevertheless, the rankings of sport popularity  give uncertain  
+information on the their rank:  
+• 
+1.basketball 
+2.baseball 
+5.football 
+6.hockey 
+• 
+1.football 
+2.basketball 
+3.baseball 
+8.hockey 
+• 
+1.football 
+2.baseball 
+3.basketball 
+4.hockey 
+ 
+The  fluctuations  in  ranking  positions  suggest  that  there  is  non-stable  and  not  absolutely  certain 
+rating among sports. Only hockey can be defined as definitely the least popular among them. With 
+rather equal popularity among public and similar frequency of games occurance, the high difference 
+in payments for stadiums might be considered  unreasonable.  
+ 
+I examined the average price of football stadium contract with respect to the average price of other 
+type of sport deals within the sample in this study. In general, naming rights contracts connected to 
+stadiums with focus on football events, show higher average cost than others. The figures reflect the 
+following costs:  average yearly price paid for football stadiums is approximately $5.73 million, for 
+basketball stadiums $2.7 million, for hockey arenas $2.6 million and for baseball $2.3 million. This 
+shows  reasonable  difference  in  average  annual  payments.  In  order  to  compare  it  more  deeper,  I 
+examined  the  average  percent  this  value  comprises  of  average  market  capitalization  of  the 
+companies. For football the average price of deal reflects higher fraction: 0.04% of average market 
+capitalization, while others make 0.005%, 0.008% and 0.002%, respectively.  
+ 
+ 
+ 
+ 
+
+34 
+
+Considering  that  the  big  events  in  the  sport  world  in  basketball,  baseball  and  football  happen 
+approximately with equal frequency, investors might think such big costs for football facility not to 
+be paid back completely in the form of future cash-flows. Thus, the diversity in reaction is probable, 
+I expect football to be the most threatening to investors among the other equally popular sports. In 
+the  same  time  other  sports  are  expected  to  face  positive  reactions  due  to  their  similarity  in  both 
+popularity and rather small costs: 
+ 
+H01, 02, 03, 04: The announcement of acquisition of stadium naming rights has no impact on returns of 
+companies acquiring baseball/ hockey/ football/ basketball stadium 
+ 
+HA1: The announcement of acquisition of stadium naming rights has negative impact on returns of 
+companies acquiring football stadiums 
+HA2: The announcement of acquisition of stadium naming rights has positive impact on returns of 
+companies acquiring baseball stadiums 
+HA3: The announcement of acquisition of stadium naming rights has positive impact on returns of 
+companies acquiring basketball stadiums 
+HA4: The announcement of acquisition of stadium naming rights has positive impact on returns of 
+companies acquiring hockey  stadiums 
+ 
+4.6         LEVEL OF TEAM LEAGUE 
+ 
+Each stadium is home to some certain team while teams can be included into national league or 
+institutional  league.  In  the  USA  and  Canada  the  importance  of  institutional  league  and  inter-
+institutional  competitions  is  emphasized  traditionally.  However,  the  institutional  and  national 
+leagues differ in their magnitude, so the difference in investors reaction might be expected. 
+ 
+The choice of being a sponsor of stadium with University league may be considered as a support to 
+such league more than a run for profitability increase. World's giving index 2011 named the US the 
+most generous country in terms of donations and charitable activity among citizens, making it 65% 
+of  population  who  gave  money  to  charity.  It  implies  appreciation  of  population  of  generous 
+activities.  
+Signalling  theory  by  Ross  (1977)  suggests  that  in  state  of  asymmetric  information,  where  the 
+information is not equally available to each party, managers can use some signals in order to stress 
+
+ 
+ 
+ 
+
+35 
+
+the stability of the company to the investors. Here, the fact that millions of dollars are attributed to 
+sponsorship  of  stadium,  which  are  not  expected  to  bring  huge  profitability  and  popularity  to  the 
+company directly might emphasise the companies honorable intentions. This could be perceived as 
+signal  of  company's  confidence  about  its  well-being  and  its  belief  that  it  can  comfortably  afford 
+charitable activities. 
+ 
+As  for  the  major  league,  the  acquisition  of  stadium  naming  rights  can  also  affect  perceptions  of 
+investors. The major league is highly followed in the USA and Canada and participation in such 
+dealership  might  hugely  increase  the  occurance  of  the  brand  name  on  the  television,  in  the 
+newspapers,  as  well  as  increase  in  exposure  to  public  due  to  mass  events.  The  investors  might 
+expect the media spotlight and connection to professional team to raise the brand awareness among 
+consumers more rapidly. Consequently, the sales and profitability might be enhanced as well.  
+ 
+Nevertheless,  the  aims  of  these  two  deals  might  be  perceived  differently.  The  University  league 
+sponsorship, due to its charitable nature of support, might to be considered as an investment at all, 
+rather,  just  a  signal  of  already  stable  prosperity  and  confidence  of  company. At  the  same  time, 
+Major league stadiums might be understood as a project, whose costs need to be at least covered 
+with expected future cash flows. Consequently, the different weight of signal might be noticed by 
+investors and the following hypotheses are, thus, made: 
+ 
+HYPOTHESES: 
+H01,02:  The  announcement  of  acquisition  of  University  league  /  Major  League  Stadium  naming 
+rights has no impact on returns of the acquiring company 
+ 
+HA1:  The  announcement  of  acquisition  of  University  league  Stadium  naming  rights  has  positive  
+impact on returns of the acquiring company 
+ 
+HA2: The announcement of acquisition of Major League Stadium naming rights has positive impact 
+on returns of the acquiring company 
+ 
+HA3:  The  announcement  of  acquisition  of  University  League  Stadium  naming  rights  has  larger 
+positive impact than acquisition of Major League Stadium on returns of the acquiring company 
+ 
+ 
+ 
+ 
+ 
+
+36 
+
+5           RESULTS 
+ 
+The  following  chapter  will  be  devoted  to  analysis  of  the  obtained  results.  The  hypothesis  either 
+supported the previous expectations or did not, in which case a discussion on possible factors of 
+such  impact  was  made.  The  results  are  according  to  p-values  of  7  characteristics  of 
+constractsclusters,  3  artificially  defined  by  k-menas,  the  Quetlet  Index  results  are  explained  and 
+advice for future contracts, as a 'secret to success' will be provided.The list of p-values for all the 
+cluster can be found in Table 3. 
+ 
+5.1        S&P500 
+ 
+The  results  obtained  in  this  study  suggest    that  there  is  indeed  significant  negative  reaction  (p-
+value<0.01) in shareholders wealth to the announcement made by companies that are not listed in 
+S&P500  index.  This  confirms  our  expectations  on  agency  cost  theory  and  uncertainty  of  the 
+proposed strategy success among the investors. More precisely, it suggests that even if some cash 
+flows will be obtained due to the investment, market participants concerns about reasonability of 
+this strategy outweight the supposable future profitability. This might imply, that investors find such 
+action rather as a signal of inefficient investment, than as a progressive marketing strategy. 
+ 
+The expected positive effect on company's value for S&P500 components did not prove itself, being 
+rejected by the test. They seem to be rather confident that the strategy will not depress the value of 
+the company, proving our expectation of trust to S&P500 company's decision, while still having the 
+lack of high awareness in the big success of such deal. It might imply, that the rate of participation 
+in  such  deals  in  the  past  being  40%  is  still  not  enough  to  encourage  investors  completely.  This 
+might mean that investors do not find this deal as changing company's prosperity in either positive 
+or  negative  way.  Rather,  the  costs  associated  with  the  investment  are  expected  to  be  covered  by 
+future benefits.  
+ 
+The  hypothesis  of  abnormal  returns  being  significantly  higher  for  S&P500  components  then 
+S&P500  non-components  is  not  rejected  (p-value<0.01),  suggesting  that,  eventhough  the  overall 
+impact of S&P500 returns are not significantly higher than zero, investors react significantly better 
+to the new strategy announcement by S&P500 component than S&P500 non-components.  
+ 
+
+ 
+ 
+ 
+
+37 
+
+5.2       PRICE OF DEAL-TO-CAPACITY 
+ 
+The results obtained suggest not rejecting the null hypothesis for all companies except those with 
+the  middle  price  of  naming  rights-to-capacity  of  stadium  ratio.  This  supports  what  we  expected 
+earlier. The fact that neutral reaction is observed for low and high ratios, while the negative reaction 
+in stocks, associated with middle level of costs paid per seat, is significant (p<0.05), seems to be 
+constistent  with  'stuck-in-the-middle'  theory.  That  might  confirm,  that  investors  indeed  perceive 
+such characteristics of deal as the signal of lack of target policy. The absence of clear path implies 
+that managers are uncertain about what actions should be undertaken, and try to avoid bad outcome 
+by  chosing  the  middle  one.  Consequently,  such  move  brings  the  worst  results,  as  it  is  neither 
+directed to effect certain type of customers, nor is a cheap trial.  
+ 
+In this case, while low price of the deal relative to capacity may be signal of strategy to have small 
+costs and receive some benefits from higher exposure, large price of deal relative to capacity might 
+be accepted as a sound and progressive marketing step, the middle ones seem to be confusing in 
+their aim to investors. The lack of clear goal they perceive seem to impact their market participants 
+beliefs of company's performance in a depressing way. 
+ 
+5.3      SECTOR 
+ 
+Classification by sectors gave interesting insights. The companies connected to brewing and food 
+industry  experience    strong  benefitial  effect  on  shareholders  wealth  after  the  announcement 
+(p<0.01),  rejecting  the  null  hypothesis  of  no  effect. Also,  the  results  show  negative  reaction  to 
+similar activity in financial sector (p<0.01) as well as neutral impact in industries defined as 'others' 
+(p>0.05): electric utility, airlines, cable providers, telecommunication, etc. Furthermore, the impact 
+of  announcement  is  significantly  higher  for  beer  and  food  industry  in  comparison  to  both  the 
+financial sector (p<0.01) and 'others' (p<0.05).  
+ 
+This confirms the previously outlined expectations.  Investors do acknowledge the opportunity  of 
+exploitation  by  brewing  and  food  industry  to  be  wider  than  for  other  sectors.  The  fact  that  this 
+industry can observe very direct and immediate  change in sales encourages investors. They realise 
+that the contract is favourable to this type of company and should be expected to yield profitability, 
+as well as brand awareness due to traditional compatibility of beer and fans. Moreover, the sector is 
+
+ 
+ 
+ 
+
+38 
+
+absolute leader among the rest, showing significantly more benefitial reactions then both of other 
+sectos in this study. 
+ 
+On the contrary, the financial's sector dealership does not seem to satisfy the public. This might be a 
+confirmation of the fact, that such marketing strategy is not clear to investors neither in direct, nor 
+in  indirect  measure. The  sales  within  stadium  cannot  surge  drastically,  while  the  combination  of 
+sport and finance as an ideology does not seem to outweight that. Moreover,  financial institutions 
+pay on average $4.2 million for the contract annualy, while 'others' pay on average $2.2 million, 
+beer and food - $1.45 million. By observing this acquisition as an investment, the higher average 
+payment combined with uncertain future cash flows make people expect negative NPV, and, thus, 
+lead to negative impact. 
+ 
+The  'other'  sector  shows  neutral  expectations,  which  might  mean  that,  indeed,  more  optimistic 
+expectations about the exploitation rate of stadium, but still no revolutionary success is expected. At 
+more precise look at the companies which make this sector,  47% seem to be able to involve in 
+higher sales (telecommunications, IT, cable provider, construction), while the rest does not suggest 
+the same (courier service, self-care, airlines,automobile industry). This might be the reason why the 
+overall reaction is out-weighted to neutral. 
+ 
+5.4         CAPACITY 
+ 
+This factor shows non-rejection of hypothesis of insignificant returns for companies acquiring high 
+capacity  stadium.  However,  low  capacity  acquisition  does  have  larger  magnitude  of  impact, 
+favouring the hypothesis of negative reaction (p-value<0.05).  
+ 
+As was expected, the low capacity might raise scepticism in investors attitute. This could happen 
+because  the  low  capacity  stadiums  are  of  limited  nature,  even  if  they  are  applicable  to  different 
+events.  The  concerts,  festivals  and  games  provided  by  them  cannot  have  the  same  resonanse  as 
+those provided by 90 000 seats facilities. However, as it was previously outlined, numerous small 
+stadiums are paid almost as high as very large ones. Hence, shareholders feel negative impact on 
+their  wealth  due  to  market's  perception  of  such  deal  as  of  unreasonably  costly  with  respect  to 
+benefits they are able to bring. The contract might be found as inadequate estimation by manager 
+rather than implementation of successful policy. 
+
+ 
+ 
+ 
+
+39 
+
+ 
+The insignificance of the large capacity acquistion was surprising result. This figure might suggest 
+that beliefs about future benefits are on average outweighted by cost of deal. The price of stadium's 
+title  does      rapidly  increase  with  time,  because  they  are  of  limited  supply,  but  rising  demand. 
+Consequently,  some  stadiums  are  extremely  expensive,  for  example,  MetLife  Stadium  receiving 
+$17  million  per  annum.  Such  considerable  year  payment  might  be  perceived  by  investors  as 
+unreasonably high price which will not exploit even large events revenues, due to covering their 
+annual  costs.  Consequently,  eventhough  they  might  bring  large  benefits  they  are  also  often 
+associated with huge costs, investors seem to react neutrally to these sound announcements and it 
+might be caused by too high prices paid for the deal. 
+ 
+5.5         LEVEL OF TEAM LEAGUE 
+ 
+The obtained p-values suggest that while companies which participate in acquisition of university 
+league do not obtain significant effect, they tend to outperform the major league (p-value<0.05). 
+Moreover, major league contracts show negative reaction to the announcement (p<0.01). Though 
+quite surprising result for major league, the highlightened importance in charitable activity in USA 
+and CANADA seems to have impact.  
+ 
+The perception of announcement associated with University League occurs neutral. This suggests 
+that the investors value it as zero NPV prohect. The charitable payments are expected to be equally 
+outweighted  with  increased  awereness  of  stability.  The  signalling  effect  does  not  seem  to  be 
+radically  persuasive,  but  still  suggests  comforting  impression  among  the  investors.  No  threats  in 
+company's  value  is  expected,  while  no  rapid  increase  in  profitability  is  observed  as  well.  This 
+suggests charity to be a a signal, which covers it's expenditures. 
+ 
+ As  for  major  league  stadiums,  the  negative  rection  suggest  disturbing  reaction.  As,  initially,  it 
+would be reasonable to expect major league to affect positively, this result might suggest that too 
+many  of  such  acquisitions  where  already  made  and  some  are  showing  very  unsatisfactory 
+experience. There are numerous examples of scandals occuring after such deal. For example, CMGI 
+Inc. purchased title rights for the home field of NFL team in 2000 and did not even make until the 
+first big game due to bankrupcy. PSINet Stadium did the same with NFL team in 1999 and after 2 
+years taken off the stadium's logo due to bankrupcy as well. Another NHL stadium experienced the 
+
+ 
+ 
+ 
+
+40 
+
+same within 3 years of contract in case of ANC Rental company. These are only 3  out of numerous 
+examples, CNNMoney suggests that 62% of sponsors had observed huge fluctuations in value over 
+the last year.This does not mean that the company is cursed to become bankrupcy, but people might 
+connect that as cause-and-effect relationship. Consequently, eventhough there might be no evidence 
+to do so, they might believe in increased probability of getting bankrupt in the near future due to the 
+shocking examples they know.  
+ 
+5.6           K-MEANS CLUSTERS RESULTS 
+ 
+This study implies three k-mean clusterization. Observations were numerized according to cluster it 
+belongs  to  and  can  be  viewed  in  Table  3,  along  with  other  classifications,  in  Appendix.  The 
+following centroids were obtained: 
+
+  Cluster  
+
+1 
+2 
+3 
+
+  Centroid 
+-0.0067  
+0.0110  
+-0.0284  
+
+        
+                     Table 4.   Clusters and corresponding centroids by k-mean clusterisation 
+ 
+Wilcoxon-Mann-Whitney  test  showed  the  following  results  on  significance  of  cluster's  abnormal 
+returns: cluster 1 showed significant negative reaction in stock prices (p=0.0000), cluster 2 showed 
+significant positive  reaction (p=0.0000), cluster 3 showed signifant negative reaction (p=0.0112). 
+Next,  abnormal  returns  of  cluster  2  are  significantly  greater  than  abnormal  returns  in  cluster  1 
+(p=0.0000) and cluster 3 (p=0.0000). Furthermore, abnormal returns of cluster 3 are significantly 
+greater  than  abnormal  returns  of  cluster  1  (p=0.0136).  This  suggests  that  cluster  2  experiences 
+positive impact, cluster 3 middle impact, cluster 1 the largest negative impact. The table of p-values 
+can be observed in Table 5 in Appendix. 
+ 
+Thus, three clusters with minimized within-cluster sum of squares show that the announcement of 
+acquisition  of  naming  rights  is  significant.  By  cathegorizing  abnormal  returns  to  three  groups 
+according to their performance, not to their contract's characteristics difference, their significance 
+showed that indeed the effect to announcement exists, but is prone to numerous factors rather than 
+one separately.  
+ 
+ 
+ 
+ 
+
+41 
+
+5.7         THE QUETLET INDEX 
+ 
+By devoting companies to clusters according to their closest centroid and observing significant but 
+differently directed effects, the next step is to find the relationship between previously determined 
+clusters with clusters defined by k-means. Results will enable to see the change in probability of 
+being  in  the  successful  cluster  (cluster  2)  with  each  characteristic  defined  earlier  (S&P500 
+component, high capacity, etc). Mirkin (2011) defines Quetlet index as strategy for visualization of 
+correlation patterns without removing the 'non-fitting' entities (Mirkin, 2011). In other words, the 
+next step results show conditional probabilities by Quetelet index. The results are presented in the 
+Table 6 in Appendix.   
+ 
+The results obtained by separating each factor from others gave insights on how investors react to 
+ceratin characteristics of contract separately. Analyzing  the factors separately evidenced different 
+directions and magnitudes of expectations, depending on various possible psychological concepts 
+underlining the reaction. Nevertheless, investors are rarely observing each factor separately, rather, 
+they accept the announcement as a combination of information about those factors. More precisely, 
+each  factor  separately  influences  his  opinion,  but  one  might  be  outweighted  by  another  in  their 
+combination.  
+ 
+5.8       STRATEGY FOR FUTURE CONTRACTS 
+ 
+Observing  the  results  and  keeping  in  mind  the  gradation  of  goodness  of  clusters,  the  following 
+advices  can  be  formed  for  companies,  which  are  considering  the  acquisition  of  stadium  naming 
+rights: 
+ 
+
+•  Not being the company listed in S&P500 index cuts down the  probability of occuring in the 
+positive  reaction  group  by  100%.  Moreover,  it  is  associated  with  43%  higher  chance  to 
+become part of the worst negative reaction cluster. The figures suggest that non-components 
+of S&P500 index should be highly sceptical about takeing part in such deal. 
+
+On  the  contrary,  strong  evidence  of  50%  higher  likelihood  of  the  successful  naming  right  deal 
+occures for S&P500 index components. It is further supported by decline in probability of occuring 
+in any cluster with negative reaction, showing high potential of participating in the dealership. 
+
+•  The middle price of naming rights-to-capacity ratio is highly recommended to be avoided, 
+42 
+
+ 
+ 
+ 
+
+as such characteristics of contract enhances probability of occuring in the negative reaction 
+group by 80%. Other two ratios are quite neutral, but more promising, as they do not imply 
+high likelihood of negative returns. So, the non-middle ratios are suggested. 
+
+•  Beer and Food sectors are highly recommended to motivate naming rights contracts, as they 
+almost  guarantee  to  have  positive  effect:  200%  increase  in  likelihood  of  experiencing 
+wealth-enhancing  reaction. The  probability  of  unfavourable  effect  decreases  by  100%  for 
+such company, implying that  huge benefits can be extracter from such deal.  
+
+Financial sector should, on the contrary, place high doubts on the success of the deal: being in this 
+industry enhances likelihood of observing the worst negative reaction by 40%, while decreases the 
+possibility to enter either of two more favourable clusters by more than 44%. 
+Being the 'other' sector participant, it is 56% more likely to get into middle reaction cluster, which is 
+not highly recommended, but is not a run-away situation either. 
+
+•  Small capacity in the contract is almost predetermined to lack of success: this characteristics 
+of deal enhances  likelihood of experiencing the dramatic negative stock effect by 17 per 
+cent, while makes fitting two other more favourable clusters  20% less likely to happen. 
+
+High  capacity  tends  to  direct  the  impact  towards  two  most  favourable  clusters,  implying  20% 
+enhanced probability of achieving positive investor's reaction and 16% secured probability of not 
+entering the worst scenario case. Large capacity is, thus, unquestinably more preferable. 
+
+•  The  contract  associated  with  football  drives  the  deal  towards  the  depressing  effect, 
+increasing the probability of its' occurance by 16% and decreasing the probability of good 
+effect scenario by 25%. Very depressing result suggests that football is highly recommended 
+to  be  excluded  from  the  list  of  deals.  Hockey  shows  quite  unpromising  results  as  well, 
+pointing towards the worst negative effect cluster. Basketball seems to drive the company to 
+experiencing  stable  middle  effect  by  123%,  while  baseball  promises  the  most  welfare-
+enhancing results by increase in probability of fitting the successful cluster by 17%. 
+
+Consequently,  football  is  recommended  to  be  avoided,  while  the  best  scenario  can  happen    in 
+baseball contracts, so company should probably aim for that. 
+
+•  The involvement with National League is shown to be for risk-lovers: the deal equally likely 
+places the outcome either in the most successful cluster or in the most depressing cluster, 
+avoiding the middle one. At the same time, the University League increases probability of 
+obtaining the middle reaction by 109% stabily. This suggests that National League is a risky 
+project,  which  can  bring  very  favourable  but  at  the  same  time  the  worst  results,  while 
+University  League  is  more  considered  as  a  less  profitable  but  at  the  same  time  less 
+43 
+
+ 
+ 
+ 
+
+fluctuative investment opportunity. 
+
+High 
+
+Baseball 
+
+S&P500Comp
+
+onent 
+
+Brewing,Food  
+
+Industry 
+
+S&P500NON 
+
+Component 
+
+Capacity  
+Stadium 
+
+ 
+Consequently,  placing  different  weights  on  factors,  according  to  the  magnitude  of  change  in 
+probability  of  achieving  success  they  bring,  the  companies  can  evalue  are  they  more  likely  to 
+achieve the welfare-enhancement or the opposite effect.  
+ 
+The deal is most likely to become welfare-enhancing if  the following characterists can be attributed 
+to it: 
+ 
+ 
+ 
+ 
+ 
+The deal is most likely to become a failure, if the following characteristics can be attributed to it: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3. The best and the worst set of characteristics for naming rights deal. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Small 
+Capacity 
+Stadium 
+
+Financial 
+Sector 
+
+Football 
+
+ 
+ 
+ 
+
+44 
+
+6.     CONCLUSIONS  
+ 
+The performed study suggest that absence inclusion of various firm-specific factors was indeed the 
+cause  of  insignificant  results  of  the  announcement  and  consequent  paradoxal  conclusions.  The 
+results  obtained  confirm  that  the  naming  rights  sponsorship  impact  significantly  shareholders' 
+wealth at the date of the announcement of this new strategy. The direction and magnitude differened 
+among  the  results,  but  that  was  expected:  various  factors  tend  to  signal  to  investor  various 
+conclusions. 
+ 
+In  general, the significant results were obtained within each the  cluster, though some were quite 
+surprising.  We  can  observe  an  overall  tendency  of  companies  non-listed  in  S&P500  to  cause 
+disbelief in such strategy and perception of that as a inefficient management. Furthermore, it seems 
+like middle price of naming rights to capacity   ratio is perceived by investors as a bad signal of 
+company's stability and reasonability of such investment. Interesting insight is caused by the fact, 
+that football tends to perceive market participants the contract as a possible threat to company. The 
+definite  leader  of  the  positive  significant  performance  is  Beer  and  Food  industry,  whose  results 
+suggest strong abnormal positive returns in the day of announcement. As for Financial sector the 
+opposite is true, meaning that investors do not see the reason for  the success of such marketing 
+strategy. The  involvement  with  major  league  seems  to  have  unexpected  negative  result,  showing 
+sceptical attitude towards such new strategy. 
+ 
+The K-mean clustering method enables determination of cluster and their abnormal returns without 
+any  predetermined  pattern  by  the  researcher.  Such  clusters  show  undoubtedly  significant  results, 
+where secont cluster tends to experience significant positive reaction, while two others significant 
+negative  but  in  differenct  magnitude  reaction.  Further,  the  Quetelet  index  showed  how  each 
+characteristics affects the probability of becoming a part of successful or less successful industies.  
+ 
+The  results  enabled  to  form  the  advice  for  future  contracts.  It  implies  that  several  factors  are 
+strongly weighted in investors multi-criterial approach to the evaluation of success, while some are 
+less  crutial.  Considering  the  probabilities  of  becoming  a  part  of  successful,  medium  and  least 
+promising cluster,  I highlightened the most weighted characteristics which companies whould be 
+aware of before they enter such dealership. Following the suggested strategy significantly increases 
+their probability of experiencing positive impact, especially if all the proposed characteristics are 
+
+ 
+ 
+ 
+
+45 
+
+followed. As such, the leader in naming rights contract should be S&P500 index participant from 
+Beear and Food industry, buying large stadium for baseball. While the 'run-away' situation if the 
+company has the following set of characteristics: non-component of S&P500 index, from Financial 
+sector, small stadium focused on football activities. 
+ 
+This  study  yields  deeper  insight  on  how  the  reactions  are  split  up  between  different  factors. 
+Nevertheless,  the  realistic  approach  of  investor  as  a  multi-criterial  decision-maker  enabled  to 
+determine  the  weights  he  puts  on  the  information  and  use  it  for  developing  the  future  contracts 
+advice.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+46 
+
+LIST OF REFERENCE: 
+ 
+
+1.  Abrahamson,L.Rosenkopf  (1993):'Institutional  and  Competitive  Bandwagons:Using  Mathematical 
+Modeling as a Tool to Explore the Innovation Diffusion', Academy of Management Review, Vol.18, 
+№3, p. 487-547  
+
+2.  Agrawal,  W.Kamakura  (1995):  'The  Economic  Worth  of  Celebrity  Endorsers:  An  Event  Study 
+
+Analysis', Journal of Marketing, Vol. 59, No.3, p. 56-62 
+
+3.  Amis, B.Cornwell (2005): 'Global Sport Sponsorship', Berg, Oxford 
+4.  Ashley and J. Ohara (2001): 'Valuing Naming Rights', Working Paper, University of Nebraskap. 
+5.  Binder (1998): 'The Event Study Methodology Since 1969', Review of Quantitative Financing and 
+
+Accounting, 11,p. 111-137 
+
+6.  Brown  (2011):  'Effective,  creative  activation  gives  naming  rights  more  impact',  Sports  Business 
+
+Journal, p. 32 
+
+7.  Brown,  J.  Warner  (1985):  'Using  Daily  Stock  Returns:  The  Case  of  Event  Studies,  Journal  of 
+
+Financial Economics 14, (1985), p. 3- 31, North-Holland 
+
+8.  Clark,  T.Lachowetz,  R.Irwin  and  K.Schimmel  (2003):  'Business-to-Business  Relationship  with 
+Sports:  using  sponsorship as  a  critical sales  event',  International Journal  of  Sports Marketing  and 
+Sponsorship, 5, p.129-144 
+
+9.  Clark,  T.  Cornwell,  S.Pruitt  (2002):  'Corporate  Stadium  Sponsorships,  Signaling  Theory, Agency 
+
+Conflicts and Shareholder Wealth', Journal of Advertising Research, Nov. 2002 
+
+10. Cornwell  and  I.Maignan  (1998),  'An  International  Review  of  Sponsorship  Research',  Journal  of 
+
+Advertising, Vol. 24, №1, p.12 
+
+11. Cowan (1992): 'Non parametric event study tests', Review of Quantitative Finance and Accounting 
+
+2,343 358 
+
+12. Crabtree (2013): 'Cleveland Brown to Sell Naming Rights to Stadium', NBC News, 15 January 2013 
+13. DiMaggio, W.Powell (1983):'The  Iron  Cage  Revisited  ():Institutional  Isomorphism  and  Collective 
+
+Rationality in Organizational Fields', American Sociological Review, Vol.48, Iss.2, 147-160 
+
+14. Drake  (2010):  'The  Basics  of  Finance:An  Introduction  to  Financial  Markets',  Business 
+
+Finance and Portfolio Management, 2010, p.32 
+
+15. Fama (1991): 'Efficial Capital Markets:II', The Journal of Finance , Vol.46, №5, p. 1575-1617 
+16. Fama, L. Fisher, M. Jensen, R. Roll (1969): 'The Adjustment of Stock Prices to New Information', 
+
+International Economic Review, Vol. 10, 1-27 
+
+17. Fama  (1976):'Foundations of  Finance: Portfolio  Decisions  and  Security  Price',  Basic  Books,  New 
+
+Tork, 2976 
+
+18. Finkel (2011): 'NFL Stadiums with the most expensive naming rights', Bloomberg Businessweek, 23 
+
+August 2011 
+
+ 
+ 
+47 
+
+19. Friedman (1937): 'The Use of Ranks to Avoid Assumption of Normality Implicit in the Analysis of 
+
+Varience', Journal of Americal Statistical Association, Vol.32, №200,p.675-701 
+
+20. Gardner  and  P.Shuman  (1998):  'Sponsorships  and  Small  Businesses',  Journal  of  Small  Business 
+
+management, 44-53 
+
+21. Henry,  Michael  R.  King,  'The  Efficiency  of  Canadian  Capital  Market:  Some  Bank  of  Canada 
+
+Research', 2004 
+
+22. Howard and I.Crompton (2004): 'Financing Sport', 2nd edition, Fitness Information Technology 
+23. IMR Sports Marketing and Sponsorship Intelligence, 'Sponsorship Today', 2050-4888 
+24. Jarell,  J.Brickley,  J.  Netter  (1988):  'The  Market  for  Corporate  Control:  The  Empirical  Evidence 
+
+Since 1980', Journal of Economic Perspectives, Vol.2, №1, p.49-68 
+
+25. Jensen;  W.  Meckling  (1976).  "Theory  of  the  Firm:  Managerial  Behavior,  Agency  Costs  and 
+
+Ownership Structure". Journal of Financial Economics 3 (4): 305–360 
+
+26. Kishner  and  J.Albinsky  (2011):'Best  Practises  For  Negotiating  Naming  Rights  and  Sponsorship 
+
+Deals', Professional Sports and the Law, June 2011, Vol.2, Iss. 2 
+
+27. Luo (2012): 'The Impact of Natural Disasters on Global Stock Market: The Case of the Japanese 
+
+2011 Earthquake', Working Paper, Saint Mary's University 
+
+28. Li  (2007):  'The  Impact  of  Mega  Sporting  Events  on  Stock  Markets',  Auckland  University  of 
+
+Technology 
+
+29. McCarthy and R.Irwin (2000): 'An examination of rationale and motives for corporate purchase of 
+
+stadia and arena naming rights', Cyber Journal of Sport Marketing, iss.1327-6816 
+
+30. Porter (1980): 'Competitive Strategy: Techniques for Analyzing  Industries And Competitors', New 
+
+York, Free Press,1980 
+
+31. MacQueen  (1967):  'Some  methods  for  classification  and  analysis  of  multivariate  observations', 
+Proceeding of the Fifth Barkley Symposium on Mathematical Statistics and Probability, p.281- 297, 
+University of California Press 
+
+32. McWilliams  amd  D.  Siegel  (1997):  'Event  Studies  in  Management  Research:  Theoretical  and 
+
+Empirical Issues', Academy of Management Journal, 1997,Vol.40, #3, p. 626 
+
+33. Mirkin  (2011): 
+
+'Core  Concept  in  Data  Analysis:Summarization,  Correlation,  Vizualization'; 
+Sprinnger, LondonMarch, J. Olsen (1976): 'Ambiguity and Choice in Organizations', Working Paper, 
+Stanford University 
+
+34. Porter (1980): 'Competitive Strategy: Techniques for Analyzing  Industries And Competitors', New 
+
+York, Free Press,1980 
+
+35. Ruback, M.Jensen (1983): 'The Market for Corporate Control: The Scientific Evidence', Journal of 
+
+Financial Economics, Vol.11, p.5-50 
+
+36. Sports  Business:  Professional  Sports,  List  of  Sports  Venues  with  Sole  Naming  Rights, 
+
+Financial History of the New York Giants 
+
+ 
+ 
+48 
+
+APPENDIX 
+ 
+Table 1. List of companies and relevant data  for the study. 
+ 
+
+Stadium 
+
+Company 
+
+Announcement 
+
+Date 
+
+Capacity 
+
+ Annual Price, $ 
+
+Air Canada 
+Bank of Montreal 
+IGM Financial 
+Rogers Communication 
+Bank of Nova Scotia 
+Bank of Nova Scotia 
+Alerus Financial 
+AT&T 
+AT&T 
+Bank of America 
+BB&T Corporation 
+BOK Financial Corporation 
+Bridgestone 
+Citigroup 
+Molson Coors Brewing Comp. 
+FedEx  
+H. J. Heinz Company 
+FedEx  
+Dick's Sporting Goods 
+First Energy 
+Ford Motor Company 
+AT&T 
+Yum!Brands 
+Lincoln National Corporation 
+Louisiana-Pacific Corporation 
+M&T Bank 
+Daimler AG 
+MetLife 
+Oracle Corporation 
+PNC Financial Services 
+PNC Financial Services 
+Progressive Insuarance 
+Qualcomm 
+Raymond James Financial 
+Sun Life Financial 
+Target Corporation 
+Time Warner Cable 
+TD Ameritrade 
+US Cellular 
+ 
+
+15/02/07 
+31/08/06 
+14/12/11 
+01/06/05 
+11/01/06 
+07/10/10 
+22/06/95 
+04/04/96 
+20/07/00 
+27/06/96 
+05/09/07 
+27/10/05 
+23/02/10 
+13/11/06 
+12/06/05 
+18/11/99 
+25/06/01 
+16/10/02 
+08/10/06 
+14/01/13 
+11/10/96 
+26/08/00 
+19/04/10 
+03/06/02 
+06/06/06 
+06/05/03 
+03/11/11 
+27/06/11 
+20/10/06 
+09/06/11 
+06/08/98 
+11/01/08 
+17/07/97 
+26/06/98 
+18/01/10 
+19/09/11 
+08/04/08 
+08/06/09 
+31/01/03 
+
+ 
+ 
+ 
+ 
+
+20 000 
+22 000 
+40 000 
+49 280 
+20 500 
+19 290 
+21 000 
+41 915 
+18 580 
+73 780 
+31 500 
+19 200 
+19 400 
+41 920 
+50 480 
+85 000 
+65 050 
+18 120 
+18 090 
+73 200 
+65 000 
+60 860 
+22 090 
+68 530 
+69 140 
+71 000 
+55 000 
+80 570 
+19 590 
+19 770 
+38 360 
+42 870 
+70 560 
+65 860 
+80 120 
+19 360 
+20 200 
+24 505 
+40 615 
+
+ 
+ 
+
+AIR CANADA ARENA 
+BMO FIELD 
+INVESTORS GROUP FIELD 
+ROGERS CENTRE 
+SCOTIABANK PLACE 
+SCOTIABANK 
+SADDLEDOME 
+ALERUS CENTER 
+AT&T PARK 
+AT&T CENTER 
+BANK OF AMERICA 
+STADIUM 
+BB&T FIELD 
+BOK CENTER 
+BRIDGESTONE ARENA 
+CITI FIELD 
+COORS FIELD 
+FEDEXFIELD 
+HEINZ FIELD 
+FEDEXFORUM 
+DICKS SPORTING GOODS 
+PARK 
+FIRST ENERGY STADIUM 
+FORD FIELD 
+JONES AT&T STADIUM 
+KFC YUM! CENTER 
+LINCOLN FINANCIAL FIELD 
+LP FIELD 
+M&T BANK STADIUM 
+MERCEDES-BENZ 
+SUPERDOME 
+METLIFE STADIUM 
+ORACLE ARENA 
+PNC ARENA 
+PNC PARK 
+PROGRESSIVE FIELD 
+QUALCOMM STADIUM 
+RAYMOND JAMES 
+STADIUM 
+SUN LIFE STADIUM 
+TARGET CENTER 
+TIME WARNER CABLE 
+ARENA 
+TD AMERITRAD PARK 
+OMAHA 
+U.S. CELLULAR FIELD 
+ 
+
+ 
+
+ 
+ 
+49 
+
+2 000 000 
+2 700 000 
+1 500 000 
+250 000 
+1 330 000 
+1 200 000 
+150 000 
+2 080 000 
+2 050 000 
+2 000 000 
+3 500 000 
+550 000 
+2 500 000 
+20 000 000 
+
+150 000 
+7 600 000 
+2 850 000 
+4 500 000 
+2 000 000 
+6 000 000 
+2 000 000 
+4 000 000 
+1 350 000 
+6 650 000 
+3 000 000 
+5 000 000 
+5 000 000 
+17 000 000 
+3 000 000 
+4 000 000 
+1 500 000 
+
+3 600 
+
+1 060 000 
+
+2 500 
+7 500 
+
+5 000 000 
+1 010 000 
+750 000 
+2 960 000 
+
+ 
+ 
+
+ 
+ 
+Table 2. List of companies and their corresponding clusters. 
+ 
+
+STADIUM NAME
+AIR CANADA ARENA
+BMO FIELD
+INVESTORS GROUP FIELD
+ROGERS CENTRE
+SCOTIABANK PLACE
+SCOTIABANK SADDLEDOME
+ALERUS CENTER
+AT&T PARK
+AT&T CENTER
+BANK OF AMERICA STADIUM
+BB&T FIELD
+BOK CENTER
+BRIDGESTONE ARENA
+CITI FIELD
+COORS FIELD
+FEDEXFIELD
+HEINZ FIELD
+FEDEXFORUM
+DICKS SPORTING GOODS PARK
+FIRST ENERGY STADIUM
+FORD FIELD
+JONES AT&T STADIUM
+KFC YUM! CENTER
+LINCOLN FINANCIAL FIELD
+LP FIELD
+M&T BANK STADIUM
+MERCEDES-BENZ SUPERDOME
+METLIFE STADIUM
+ORACLE ARENA
+PNC ARENA
+PNC PARK
+PROGRESSIVE FIELD
+QUALCOMM STADIUM
+RAYMOND JAMES STADIUM
+SUN LIFE STADIUM
+TARGET CENTER
+TIME WARNER CABLE ARENA
+TD AMERITRAD PARK OMAHA
+U.S. CELLULAR FIELD
+
+T=0
+
+T=+1
+
+K-MEANS
+
+S&P500
+
+-0,00190
+0,00367
+-0,00001
+-0,01580
+0,00380
+0,00221
+0,00008
+-0,02034
+-0,02034
+0,00902
+0,00098
+-0,00352
+0,00855
+-0,00098
+0,01874
+-0,00287
+-0,01108
+-0,00769
+0,01929
+-0,00839
+0,00192
+0,00911
+-0,00493
+0,00618
+-0,01978
+-0,00785
+0,01525
+-0,00455
+0,00276
+-0,00996
+-0,00488
+-0,01227
+-0,02761
+0,00542
+0,01410
+0,00797
+0,00992
+0,02080
+-0,00031
+
+-0,00516
+-0,00629
+-0,01345
+-0,00168
+-0,00081
+-0,01543
+-0,00017
+0,00716
+0,00716
+0,01062
+0,00830
+0,00144
+-0,00105
+-0,00433
+0,00250
+-0,02410
+0,01487
+0,00830
+-0,00468
+0,01029
+0,02482
+0,01926
+0,00234
+-0,01701
+-0,01998
+-0,00305
+-0,02918
+-0,00302
+0,00105
+0,01665
+-0,01111
+-0,01102
+0,01038
+-0,01026
+-0,01699
+-0,00823
+-0,02215
+-0,04634
+-0,00888
+
+1
+1
+1
+1
+1
+1
+1
+2
+2
+2
+2
+1
+1
+1
+2
+3
+2
+2
+1
+2
+2
+2
+2
+1
+3
+1
+3
+1
+1
+2
+1
+1
+2
+1
+1
+1
+3
+3
+1
+
+CAPAC.
+
+PR/CAP
+
+0
+1
+0
+0
+1
+1
+0
+1
+1
+1
+1
+0
+0
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+0
+1
+0
+1
+1
+1
+1
+1
+1
+0
+0
+1
+1
+0
+0
+
+SECT.
+
+1
+2
+0
+0
+1
+1
+0
+1
+2
+0
+2
+0
+2
+2
+0
+2
+1
+2
+2
+1
+0
+0
+1
+1
+1
+1
+1
+2
+2
+2
+0
+0
+0
+0
+0
+2
+1
+0
+1
+
+0
+1
+1
+0
+1
+1
+1
+0
+0
+1
+1
+1
+0
+1
+2
+0
+2
+0
+0
+0
+0
+0
+2
+1
+0
+1
+0
+1
+0
+1
+1
+0
+0
+0
+1
+0
+0
+1
+0
+
+0
+0
+0
+1
+0
+0
+0
+1
+0
+1
+0
+0
+0
+1
+1
+1
+1
+0
+0
+1
+1
+1
+0
+1
+1
+1
+1
+1
+0
+0
+0
+1
+1
+1
+1
+0
+0
+0
+1
+
+SPORT
+
+LEAGUE
+
+3
+1
+2
+0
+1
+1
+2
+1
+3
+2
+0
+0
+1
+0
+0
+2
+0
+0
+0
+2
+0
+0
+3
+2
+0
+2
+3
+2
+3
+1
+0
+0
+0
+0
+0
+3
+3
+0
+0
+
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+1
+1
+0
+1
+
+The list of descriptions of clusters: 
+
+SECT
+
+MIDDLE
+LOW
+BEER, FOOD
+FINANCIAL
+OTHERS
+
+K-MEANS Centroid 1
+Centroid 2
+Centroid 3
+YES
+NO
+
+S&P500
+
+PR/CAPAC. HIGH
+
+SPORT
+
+CAPACITY HIGH
+LOW
+BASKETBALL
+FOOTBALL
+ICE HOCKEY
+BASEBALL
+NATIONAL 
+UNIVERSITY
+
+LEAGUE
+
+ 
+ 
+ 
+ 
+ 
+
+-0.0067  
+0.0110  
+-0.0284 
+
+1
+0
+2
+1
+0
+2
+1
+0
+1
+0
+3
+2
+1
+0
+1
+0
+
+ 
+ 
+50 
+
+S&P500
+
+AR(0)>NR(0)
+NR(0)>AR(0)
+AR(1)>NR(0)
+NR(1)>AR(0)
+AR(0)>AR(1)
+AR(1)>AR(0)
+
+MWW
+P-value
+1.0000
+0.0000
+0.2546
+0.7468
+0.9968
+0.0032
+
+MWW
+P-value
+0.9679
+0.0324
+0.9233
+0.0774
+0.6091
+0.3924
+
+CAPACITY
+AR(0)>NR(0)
+NR(0)>AR(0)
+AR(1)>NR(0)
+NR(1)>AR(0)
+AR(0)>AR(1)
+AR(1)>AR(0)
+
+TYPE 
+
+ 
+ 
+ 
+ 
+Table 3. Wilcoxon-Mann-Whitney one-sided test P-values for clusters by characteristics of contract 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+AR(0)>NR(0)
+NR(0)>AR(0)
+AR(1)>NR(0)
+NR(1)>AR(0)
+AR(2)>NR(0)
+NR(2)>AR(0)
+AR(3)>NR(0)
+NR(3)>AR(0)
+AR(0)>AR(1)
+AR(0)>AR(2)
+AR(0)>AR(3)
+AR(1)>AR(0)
+AR(1)>AR(2)
+AR(1)>AR(3)
+AR(2)>AR(0)
+AR(2)>AR(1)
+AR(2)>AR(3)
+AR(3)>AR(0)
+AR(3)>AR(1)
+AR(3)>AR(2)
+
+SECTOR
+AR(0)>NR(0)
+NR(0)>AR(0)
+AR(1)>NR(0)
+NR(1)>AR(0)
+AR(2)>NR(0)
+NR(2)>AR(0)
+AR(0)>AR(1)
+AR(0)>AR(2)
+AR(1)>AR(1)
+AR(1)>AR(2)
+AR(2)>AR(0)
+AR(2)>AR(1)
+
+0.7738
+0.2276
+0.8862
+0.1154
+0.9831
+0.0173
+0.7129
+0.2896
+0.5857
+0.3195
+0.5458
+0.4161
+0.1850
+0.6062
+0.6822
+0.8166
+0.8541
+0.4559
+0.3961
+0.1472
+
+PR/CAP
+
+AR(0)>NR(0)
+NR(0)>AR(0)
+AR(1)>NR(0)
+NR(0)>AR(1)
+AR(2)>NR(0)
+NR(0)>AR(2)
+AR(0)>AR(1)
+AR(0)>AR(2)
+AR(1)>AR(1)
+AR(1)>AR(2)
+AR(2)>AR(0)
+AR(2)>AR(1)
+
+LEAGUE
+
+AR(0)>NR(0)
+NR(0)>AR(0)
+AR(1)>NR(0)
+NR(1)>AR(0)
+AR(0)>AR(1)
+AR(1)>AR(0)
+
+0.7968
+0.2047
+0.9835
+0.0167
+0.8123
+0.1893
+0.1811
+0.5356
+0.8200
+0.8425
+0.4661
+0.1585
+
+0.9244
+0.0762
+0.9992
+0.0008
+0.0031
+0.9970
+0.2449
+0.9763
+0.7563
+0.9998
+0.0240
+0.0002
+
+0.5014
+0.5014
+0.9974
+0.0027
+0.0105
+0.9897
+
+ 
+ 
+51 
+
+ 
+ 
+ 
+Table 5. K-Means clusters p-values 
+
+P-value
+AR(1)>NR(0) 1.0000
+AR(1)<NR(0) 0.0000 
+AR(2)>NR(0) 0.0000 
+AR(2)<NR(0) 1.0000
+AR(3)>NR(0) 0.9895
+AR(3)<NR(0) 0.0112
+AR(1)>AR(2) 1.0000
+AR(1)>AR(3) 0.9868
+AR(2)>AR(1) 0.0000 
+AR(2)>AR(3) 0.0000 
+AR(3)>AR(1) 0.0136
+AR(3)>AR(2) 1.0000
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Table 6        The Quetelet index results. 
+
+K-MEANS CLUS.SNP500=0
+
+SNP500 = 1 PR/CAP=0
+
+1
+2
+3
+
+1
+2
+3
+
+ 
+ 
+ 
+
+ 
+ 
+52 
+
+0,43
+-1
+0,8
+
+-0,21
+0,5
+-0,4
+
+SECT=0
+
+PR/CAP=1
+
+-0,14
+-0,08
+0,8
+
+PR/CAP=2
+
+0,08
+0
+-0,35
+
+-0,16
+0,05
+0,56
+
+SECT=1
+
+0,39
+-0,44
+-0,51
+
+SECT=2
+
+-1
+2
+-1
+
+0,06
+0,07
+-0,44
+
+K-MEANS CLUS.CAPAC=0
+
+CAPAC=1
+
+-0,16
+0,2
+0,17
+
+SPORT=0
+
+-0,07
+0,17
+-0,13
+
+SPORT=1
+
+0,24
+0
+-1
+
+SPORT=2
+
+0,16
+-0,25
+-0,02
+
+SPORT=3
+
+-0,2
+-0,14
+1,23
+
+LEAGUE=0
+
+-0,27
+-0,19
+1,09
+
+LEAGUE=1
+
+0,07
+0,05
+-0,28
+
+0,17
+-0,21
+-0,18
+
+

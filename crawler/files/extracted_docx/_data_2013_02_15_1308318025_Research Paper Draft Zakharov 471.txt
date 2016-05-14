@@ -1,0 +1,379 @@
+National Research University
+
+Higher School of Economics
+
+
+
+Faculty of Business Informatics
+
+
+
+
+
+
+
+
+
+
+
+Research Paper Draft
+
+on: «Design and Development of a Data Warehouse for Statistical Analysis of Textual Data»
+
+
+
+
+
+
+
+Zakharov Sergey
+
+Group 471
+
+
+
+
+
+
+
+
+
+
+
+
+
+Moscow
+
+February 2013
+
+Introduction
+
+
+
+	This work is about the process of design and development of an exploratory data warehouse for statistical analysis of texts. Because of the great variety of data, its sources and approaches to analysis, there are a wide spectrum of tasks that fall under this definition. In a more particular case, when it is thoroughly known what data will be stored and why, it is possible to design a perfect warehouse for solving this task, but its radical specialization would not allow us to modify it if we want to integrate another data source or apply new and maybe more effective analysis method. In my opinion, to solve this problem we can try to determine some common principles of textual data storing, the structure of these data, analytical tasks and statistical methods and design a warehouse on this basis. To be more precise, we have to find out what the data we store are and how it may be queried and organize our warehouse to make writing of these queries easy and execution – fast. This work presents a try to conduct such a research. The results will be a conceptual schema of a data warehouse and its programming realization including a database and basic queries.
+
+Definitions
+
+
+
+	In order to concretize the task it is useful to give a few definitions of the terms mentioned:
+
+Textual analysis
+
+	In this work the term “textual analysis” stands for the more general concept – Data Mining – applied to textual data. It is the search for some hidden knowledge in unstructured texts by means of special algorithms. The facts discovered must be new, non-trivial, potentially useful and interpretable. [7, p. 194]
+
+Textual data	
+
+	“Textual data” here means arbitrary, unstructured or poor-structured natural language texts, e.g. books, articles, e-mails, medical records, news or financial documents. Sometimes, the texts analyzed are logically grouped by a common property, which can be: subject matter, language, author or source. [6, p. 34]
+
+Statistical
+
+	As far as data processing is conducted by a computer information system, all the methods of analysis must be strictly defined and programmable. In this work such methods are the methods of mathematical statistics which can be used to describe data in a quantitative way by calculating some statistical measures and derive various statistical propositions about it. [1, p.4]
+
+Exploratory Data Warehouse
+
+
+
+	One of the most important features of any data warehouse is the support of statistical analysis. Only a small part of all warehouse users conduct statistical analysis, but the results of their work are of the great value for making important strategical decisions, while helping not only to describe data in a mathematical way, but to detect hidden patterns in data and to model and predict future advancements.	
+
+	There are a lot of significant differences between statistical analysis and other forms of data interaction, and these differences have direct influence on warehouse design. Firstly, while conducting statistical analysis there is always the strong need for simultaneous access to broad vistas of information gathered over years or even decades. Secondly, analytical queries are much more complex and require much more computational resources than all other queries to a warehouse. Data itself must be detailed enough and structured in a most suitable way for conducting analysis. Also, the process of solving statistical analysis tasks, besides applying standard routines, makes a great use of heuristic analysis.
+
+
+
+		Pic .1
+
+	Heuristic analysis is an iterative process (Pic. 1), which goal is not defined initially. Various analytical methods are applied to the data one by one, the researcher looks through the results, which may be used on the later stages of analysis, and tries to extract some useful information. The need for heuristic analysis also leads to a few requirements, namely:
+
+the opportunity of effective application of various analytical methods;
+
+the opportunity of conducting analysis on the constant set of data, so that we know that results are not influenced by changes in data;
+
+The specificity of the statistical analysis process leads to the concept of a warehouse, which is separated from the main one (however, they are still connected) and is used only for statistical researches. Pre-processed data from the main warehouse are transferred into the exploration warehouse in a form which fits researchers’ requirements (usually, it is the lowest level of granularity). Complex analytical queries do not overload the main warehouse, and the researcher can work with the limited and constant amount of data he needs. Pic. 2 describes the flow of information between two warehouses. [6, p. 141-156]
+
+
+
+Pic. 2
+
+
+
+Process of Analysis
+
+
+
+	The process of textual analysis consists of the following steps:
+
+Retrieve a data set for further processing and analysis
+
+Pre-process obtained texts
+
+Save pre-processed documents into the warehouse
+
+Apply analytical methods
+
+Interpret results
+
+
+
+Data set retrieval
+
+	At this step the researcher defines the data set which will be analysed. In our case these data are textual documents stored in the main warehouse in its original, unstructured form, or some external documents. In order to work with unstructured documents it is required that the format of the original is known: usually, unstructured data are stored in its binary form (e.g. BLOB-fields); there is no way to restore the original text if we don’t know its format. Also, we have to know the language (or languages) it is written in. All other attributes (author, date, etc.) are important but not crucial for analysis.
+
+Pre-processing
+
+	After obtaining the set of documents, each of them must be reconstructed in such a way that it can be stored in structured environment, which is required for conducting statistical analysis. This step itself is a rather difficult task based on the natural language processing and can be presented as a sequence of standard procedures [1, p. 6-7, 6, p. 301]: 
+
+
+
+Simple editing
+
+Case-editing
+
+Punctuation, fonts removal
+
+Spelling check and mistakes correction
+
+Stop-words removal
+
+Stop-words are words of no value for statistical analysis. The examples of such words in English are: a, and, the, was, that, which, to, from…
+
+Synonym replacement
+
+Homographic resolution
+
+A word that has several meanings is replaced with one general term for each of its possible meanings.
+
+Stemming
+
+Different forms of one word or words that share one root are reduced to its foundation.
+
+Alternate spellings replacement	
+
+	Sometimes, this list includes classification and clusterization of documents, but it is more effective to solve these difficult tasks at a later stage when documents have already been structured. Finally, each document, having gone through all these transformations, turns into an ordered set of separate words and theirs attributes (e.g. the general term, links to all possible meanings, part of speech, and so on). This form now can be stored in structured environment like, for example, tables of a relational database.
+
+Saving pre-processed documents into the warehouse
+
+	Structured textual data – the final representation of the analyzed documents – is distributed over the warehouse structure using some pre-defined method. Two previous steps together with this one form classic ETL-process in terms of textual data.
+
+Application of analytical methods
+
+	After the documents were transferred into the exploration warehouse in a form suitable for analytical purposes, statisticians (through special analytical applications or directly) address the warehouse and, applying statistical methods to the obtained data, conduct their research.
+
+Interpretation of results
+
+	The research results are interpreted and may become the basis for the further stages of analysis as well as the source for deriving conclusions (e.g. Accept or decline initial hypothesis?). Sometimes, the result itself is valuable information, and can be stored into the exploration or even the main warehouse.
+
+The scheme of the whole process may be depicted with the following image [7, p. 195]:
+
+
+
+Pic. 3
+
+Analytical Tasks Classification
+
+
+
+	All the tasks that are solved by applying statistical methods can be divided into two main groups:
+
+The tasks which results are valuable themselves. Usually, such tasks are formulated with one question, e.g. “What is the percent of each part of speech in this set of documents?” or “How has the frequency of the word “oil” in news articles changed during the last 5 years?”
+
+The tasks, which results have no “instant” value, but can be used while solving more complex tasks. The class of  the “complex” tasks include common tasks of Data Mining, namely [1, 2, 3]: 
+
+Classification
+
+Clusterization	
+
+Classification
+
+	Classification stands for the process of assigning each document of the collection to one (or more) of the predefined categories. The easiest variant of this task is just defining the theme of the document. For example, each piece of news is assigned with one of the various labels like “Sport”, “Politics”, “Art”, etc. In a more formal way it is the task of building precise classifier model: f : D → L; f(d) = L, where D – the set of analyzed documents, d – on of the documents, L – the set of categories or themes, f – classifier-function. [1, p. 10]
+
+Clusterization
+
+	Clusterization means partitioning the whole set of documents into separate subsets or clusters, so that documents within a cluster have relative content. The result of clustering is the set of clusters P, each containing some documents from D – the set of analyzed documents. The closer documents within a cluster are and the more the difference between clusters is the higher is the quality of clusterization. The documents are grouped by its interposition in the document space (pic. 4) [1, p. 15]
+
+
+
+
+
+Pic. 4
+
+Methods
+
+
+
+	Sometimes, to solve a task from the first category, one query, that filters, groups and aggregates data in a proper way, is enough. The second category requires application of complex, multistage mathematical methods. There are a few, well-explored and reliable approaches to these tasks and all new methods usually are just an upgrade to the old ones and therefore use the same data. This way of statistical analysis development makes it possible to satisfy the needs of new or altered methods by using the common principles of the classical approaches.
+
+[1]
+
+
+
+
+
+
+
+Classification:
+
+
+
+Index Term Selection
+
+Bayes Classifier
+
+Nearest Neighbour Classifier
+
+Decision trees
+
+Support Vector Machines
+
+Kernel Methods
+
+	Clusterization:
+
+Hierarchical Clustering Algorithms
+
+K-means
+
+Self  Organizing Map
+
+EM-Algorithm
+
+	In the final version of the work these methods will be explained deeply.
+
+Common Principles
+
+
+
+	While analyzing the statistical methods of analysis we can see that on the first stage almost every one of them uses the same data – some standard quantitative characteristics of a document or a set of documents. The speed of executing the queries which return these data is the main quality measure for the design of an exploration warehouse for statistical analysis of textual data. All the quantitative characteristics may be divided into three groups:
+
+
+
+Word count and frequency measures
+
+Documents similarity measures
+
+Time series
+
+	Frequency measures [4]
+
+The length of a document (number of words)
+
+Exact words counts
+
+Word frequency
+
+- the quotient of the word counts to the length of a document or a set of a documents
+
+TF-IDF –statistical measure used to calculate context importance of a word in a document:
+
+TF-IDF(t, d)= tf(t, d) *log2(m/ df(t)), where 
+
+m – the number of documents in the analyzed set,
+
+tf(t , d) –count of the word t in the document d,
+
+df(t) – count of the word d in the whole set of documents
+
+Weighted measures (tables 1 & 2)
+
+The vector representation of a document:
+
+vector td = (tf(t1, d), . . . , tf(tm, d)), where
+
+d – one of the documents,  
+
+tf(t, d) – count of the word t in the document d (or another weighted measure).
+
+Document-term frequency:
+
+- the columns are the whole dictionary of documents (i.e. the complete set of distinct words from all the documents), the rows – documents itself. 1 at the crossing means that the document contains the word, otherwise it is 0. These matrices are the most common way of representing text for machine processing. [2, p.5] Other measures (the value of a weighting function (tables 1 & 2), for example) are possible instead of 1 and 0 too.
+
+
+
+
+
+
+
+
+
+Documents similarity measures [5]
+
+
+
+Note: Compared documents are presented with the vectors:
+
+a = (w(t1, da), . . . , w(tm, da))
+
+b = (w(t1, db), . . . , w(tm, db)) , where
+
+- da, db  - the compared documents,
+
+- w(d, t) – weighted frequency measure for each word from the whole set of documents (of length m) and exact document d, i.e. a row from term-frequency matrix (check “Frequency measures” section).
+
+
+
+Euclidean Distance
+
+
+
+
+
+Cosine Similarity
+
+
+
+
+
+
+
+Jaccard Coefficient
+
+
+
+
+
+Pearson Correlation Coefficient
+
+, где
+
+и 
+
+Averaged Kullback-Leibler Divergence
+
+
+
+
+
+Time series
+
+
+
+	A statistical data structure that describes a process by measuring some of its properties at consequential time points or aggregating its value by equal time periods. For example, exact word count calculated for each month of 2005-2010 period. Gathering and studying such data is a classical approach not only in the field of statistical analysis but in business analytics as well.
+
+
+
+Design and Development
+
+
+
+	In this section much attention will be paid to the choice of technology. In a real case, technology of the main warehouse, requirements of analytical applications, affordability and a lot of other factors would matter, but here we are limited only with the requirements for an abstract exploratory warehouse discussed in sections 3 and 7 and author’s opportunities.
+
+	Generally, this is the choice between classical variant – relational tables and NoSQL databases that have a lot of advantages. Its data model itself seems to be more appropriate for our task, because it is not table-, but document-based and all queries are, therefore, document-oriented. Also, this technology usually includes integrated feature of using scripting programming languages (e.g. JavaScript), which is much more handy for calculating complex formulas than SQL and lets us conduct all calculations at the warehouse level rather than at the analytical application level. 
+
+In the following part of this work the choice of technology is made through various experiments.
+
+References
+
+
+
+[1.] Andreas Hotho, Andreas Nürnberger, Gerhard Paaß, A Brief Survey of Text Mining, May 13, 2005
+
+[2.] Feinerer, I., K. Hornik, and D. Meyer, “Text mining infrastructure in R,” Journal of Statistical Software 25:5, Mar 2008, .
+
+[3.] Louise Francis, Matt Flynn, Text Mining Handbook, Casualty Actuarial Society E-Forum, Spring 2010
+
+[4.] Gerard Salton, Christopher Buckley, Term-weighting approaches in automatic text retrieval, Information Processing & Management Vol. 24, No. 5, pp. 513-523, 1988 
+
+[5.] Anna Huang, Similarity Measures for Text Document Clustering, NZCSRSC 2008, April 2008, Christchurch, New Zealand
+
+[6.] Bill H. Inmon, Data Warehousing 2.0 Modeling and Metadata Strategies for Next Generation Architectures, Forest Rim Technology, LLC, April 2010
+
+[7.] Барсегян А. А., Технологии анализа данных: Data Mining, Visual Mining, Text Mining, OLAP / А. А. Барсегян, М. С. Куприянов, В. В. Степаненко, И. И. Холод – 2-е изд., перераб. и доп. – СПб.: БХВ-Петербург, 2007

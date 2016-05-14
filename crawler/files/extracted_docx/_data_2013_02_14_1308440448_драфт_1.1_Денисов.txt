@@ -1,0 +1,345 @@
+State University - Higher 
+
+Department of Business Analytics
+
+
+
+
+
+
+
+
+
+
+
+
+
+Draft
+
+of the paper
+
+“Risk Management in High Technology Product Development”
+
+
+
+
+
+
+
+                                                                              Academic Project by
+
+Denisov Timofey 473(2)
+
+Scientific research adviser
+
+Diskin I.E. (S.D., Professor) 
+
+Language consultant
+
+Kusmina T.A. (PhD, Associate Professor)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Moscow 2013
+
+Table of Contents
+
+
+
+
+Abstract
+
+This draft will present the basic structure and theoretical overview for the following graduation work. With that in mind, it will describe various risks, the process of Risk Management as well as practices in chosen framework. It will also introduce a set of tasks, which are to be done during research. In the theoretical overview many problems have emerged, consequently they should be addressed in my graduation work.
+
+
+
+
+1. Introductory part
+
+1.1. Main terms
+
+Risk – The combination of the probability of an uncertain event and its consequences. A positive consequence presents an opportunity; a negative consequence poses a threat.
+
+Risk Management –Refers to the culture, processes, and structures that are directed toward effective management of risks –including potential opportunities and threats to project objectives.
+
+Project – A collaborative enterprise, frequently involving research or design, which is carefully planned to achieve a particular goal.
+
+Uncertainty – The lack of certainty, a state of having limited knowledge where it is impossible to exactly describe the existing state, a future outcome, or more than one possible outcome.
+
+Management – The organization and coordination of the activities of a business in order to achieve defined objectives.
+
+1.2. The actuality of the chosen domain
+
+This draft will review the place of Risk Management in Project Management structure and present a set of practices in chosen framework. The role of Risk Management if often underrated while there are no sudden obstacles. The other problem is, while not so obvious, is lack of understanding what Risk Management can and cannot do. Furthermore, carrying out all prescribed procedures will result only in 40% success rate with project; other 60% will heavily depend on risk-oriented culture of organization itself. Therefore making these procedures transparent for project team, as well as setting the basis for Risk Management in High-Tech projects will be the main task of the research.
+
+1.3. Aim of the research
+
+The aim of the research would be to lower company’s losses due to risk factors through the improvement of Risk Management in a specific high technology company.
+
+1.4. List of tasks 
+
+Identify risks in a specific high technology company.
+
+Analyze the risks identified.
+
+Revise practices in Risk Management that are already established at the company under consideration and come up with recommendations.
+
+Decide whether special software is needed
+
+Search for any risk history
+
+Determine risk impact on successes of previous projects
+
+Determine major factors of risk
+
+Create Risk Management guidance for a company
+
+Compare theoretical Risk Management model with existing one
+
+2. Analytical part
+
+2.1. Risks
+
+The simple concept of risk suddenly evolves into complex entity, when there is need to explain, what exactly it is. Different authors have drastically different views on the matter.
+
+According to March, James G. & Shapira, Zur (1987):
+
+“In classical decision theory, risk is the variation in distribution in possible outcomes, likelihoods, and subjective values… Risk is thus seen as a choice based on the expected value of return of an alternative. Standard theories assume decision makers prefer larger expected values.” It is clear that risk is very subjective by its nature. In the next step the actor should be decided.”
+
+The only possible actors would be managers. Their role in operating with risks is essential for the success of company, as they are main decision makers. Therefore they may take or avoid risks, based on their professionalism, situation, goals and personal preferences (March, James G. & Shapira, Zur, 1987).
+
+It is the view of Stoneburner, G., Goguen, A. & Feringa, A. (2002) that “Risk is the net negative impact of the exercise of a vulnerability, considering both the probability and the impact of occurrence”. Given this evidence, it can be seen that new constant by the name of ‘impact’ was introduced.
+
+
+
+However not all risks are negative, “Some events (like finding an easier way to do an activity) or conditions (like lower prices for certain materials) can help your project! When this happens, we call it an opportunity… but it’s still handled just like a risk.” (Greene, J., Stellman, A., 2009).
+
+
+
+The next point is to draw a line between risk and uncertainty. Hillson (2005) states that “The key is to realise that risk can only be defined in relation to objectives. The simplest definition of risk is “uncertainty that matters”, and it matters because it can affect one or more objectives. Risk cannot exist in a vacuum, and we need to define what is “at risk”.”
+
+
+
+Finally, when risks are introduced, two more key definitions are used: causes and effects. As Hillson (2005) points out, “Causes are definite events or sets of circumstances which exist in the project or its environment, and which give rise to uncertainty… Effects are unplanned variations from objectives, either positive or negative, which would arise as a result of risks occurring”. On this basis it may be inferred that risk identification is complex process, which requires both a clear understanding of ‘risk’ meaning as well as finding relevant risks.
+
+
+
+The model proposed by Merrit and Smith (2002) embodies all mentioned risk features and is presented in Fig. 1.
+
+
+
+Risk model
+
+Proactive Risk Management: Controlling Uncertainty in Product Development (2002)
+
+Figure 1
+
+
+
+This model will be used in the research for its integrity and simplicity. Bellow, the mathematical interpretation of this model will be displayed.
+
+2.2. Risk management
+
+Project risk management is an integral component of project management as it produces, structures and presents the best available risk information to support and facilitate better management decision making (The Joint Risk Management Program Standard Team, 1996).
+
+Typical project risk management consists of following steps (WSDOT, 2010):
+
+Risk Management Planning
+
+Risk Events Identification
+
+Qualitative Analysis
+
+Quantitative Analysis
+
+Risks Response Planning
+
+Risk Monitoring & Control
+
+In the Risks Response phase we basically decide, how we deal with each risk. There are seven unique responses:
+
+Avoid (eliminating probability or impact of threat)
+
+Exploit (making sure to exploit opportunity in any possible way)
+
+Transfers (finding another party who is willing to take responsibility for its management)
+
+Share (sharing opportunity with another party)
+
+Mitigate (same as ‘avoid’, but less aggressive)
+
+Enhance (same as ‘exploit’, but less aggressive)
+
+Accept (uncontrollable risks or pricey risks, not all risks are manageable)
+
+
+
+
+
+Typical Risk Response Planning Chart for Threats
+
+Risk Response Planning: Selecting the Right Strategy Piney (2002)
+
+Figure 2
+
+The model of Merrit, Smith (2002) is less complex and easier to implement. Investors and businessmen are more accustomed with talk in terms of revenue-losses, than the one with expected risks and required measures. In the formula expected losses (Le) calculated in the following way:
+
+Le=Lt  × Pe × Pi 
+
+where Pi — probability of impact, Pe — probability of event and Lt — total losses.
+
+
+
+With this model at hand, the steps of the project will undergo few changes:
+
+1. Risk Events Identification
+
+2. Risk and Impact Analysis
+
+3. Risk Ranking and Responding
+
+4. Risk Monitoring and Control
+
+
+
+The next section provides the background for high technology related to the topic of the research.
+
+2.3. High-tech projects
+
+Projects have a great number of dimensions used for distinction, four of which are (Reinventing Project Management):
+
+Novelty - How new is the product to customers and users
+
+Technology - How much new technology is used
+
+Complexity - How complex is the system and its subsystems
+
+Pace - How critical is the time frame
+
+
+
+The combination of these factors forms so-called ‘project diamond’, which is illustrated in Figure 4.
+
+
+
+The Project Diamond
+
+Figure 4
+
+
+
+The projects falling under High-Tech category have some similarities:
+
+Professional team with technical specialization is needed
+
+A great number of technical reviews is required
+
+Prototype usage with long development cycles
+
+Informal communication style
+
+Long periods of uncertainty
+
+Risk & Quality Management are mandatory
+
+Flexible managerial style should be employed
+
+
+
+With the High-Tech category not clearly defined, we fall under the situation, where we need to choose the most appropriate one. If the risks are split into several categories:
+
+Theoretical / fundamental
+
+Technical / specification
+
+Economical / commercial
+
+The High-Tech project would be the ones that comprise all risks categories on all stages of life cycle.
+
+Therefore the situation is following:
+
+Risks are not addressed in the right time
+
+Risks are not addressed at all
+
+New practices in the sphere of product development are needed
+
+Fundamental mistakes result in great losses
+
+Statistics indicate definite problems
+
+3. Practical part
+
+With that in mind, we will try to address these problems with the use of known Risk Management practices in the research. In prospect the idea of ‘risk-based reengineering’ should gain priority.
+
+The practical part of the research is going to take place in the company that constructs meteorological rockets. Basically they construct their models, conduct experiments and adjust configurations of the rockets.
+
+What problems they have:
+
+Bad marketing (economical risks)
+
+Safety measures at production
+
+Quality of products (technical risks)
+
+New goals, projects, products
+
+How risks are accessed?
+
+
+
+What has to be done:
+
+Identify projects they have
+
+Conduct risk management workshop
+
+Design risk reduction measures
+
+4. Recommendations
+
+Alter Risk Management methodology
+
+Elaborate risk-based reengineering
+
+Opt for a different approach on how to handle risk management workshops
+
+
+
+5. Conclusion
+
+With the research only starting, the results may not be clear yet. Many problems will arise, while working with real project. First of all people are not robots or mechanisms, and risk is managed by people. So, human psychology should be employed to handle those problems. Then, there is one major ‘project risk’ which is quite distinct from ‘individual project risks’. Failing to recognize that may lead to project failure. And finally, Risk Management implementation requires process-oriented view on the matter. Risk response actions should be treated the same way as other project activities.
+
+In any case, this research may become a challenge, but hopefully the results will prove to be useful for future studies.
+
+
+
+
+6. Bibliography
+
+Stoneburner, G., Goguen, A. & Feringa, A. (2002). Risk Management Guide for Information Technology Systems. (NIST Special Publication 800-30). Gaithersburg: U.S. Department Of Commerce
+
+March, James G. & Shapira, Zur. (1987). Managerial Perspectives on Risk and risk Taking. Management Science, 33:11. 1404 - 1418.
+
+Greene, J., Stellman, A. (2009). Head First PMP. O'Reilly Media
+
+Hillson, D. (2005). When is a Risk not a Risk? Project Management Practice, pp. 6-7. Retrieved from 
+
+The Joint Risk Management Program Standard Team. (1996). Risk Management Program Standard for Use in the Pipeline Risk Management Demonstration Program. Taipei: RDEC
+
+WSDOT. (2010).Project Risk Management Guidance for WSDOT Projects. Washington DC: US Government Printing Office.
+
+ Reinventing Project Management. (n.d.) Retrieved from 
+
+ Preston J. Smith, Guy M. Meritt. (2002). Proactive Risk Management : Controlling Uncertainty in Product Development. Productivity Press
+

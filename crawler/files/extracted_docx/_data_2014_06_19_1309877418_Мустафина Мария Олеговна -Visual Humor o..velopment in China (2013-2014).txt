@@ -1,0 +1,897 @@
+Правительство Российской Федерации
+
+
+
+Федеральное государственное автономное образовательное учреждение 
+
+высшего профессионального образования
+
+
+
+«Национальный исследовательский университет 
+«Высшая школа экономики»
+
+
+
+Факультет философии, отделение востоковедения
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Магистерская диссертация
+
+
+
+
+
+Визуальный Интернет-юмор, как фактор 
+
+развития общественности в Китае (2013-2014)
+
+
+
+
+
+
+
+
+
+Студент группы  MA-2
+
+Мустафина М.О.
+
+
+
+Руководитель ВКР
+
+К.и.н., профессор Маслов А.А.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Москва, 2014 г.
+
+
+
+
+Contents
+
+
+
+
+
+List of Tables, Graphs and Figures
+
+
+
+
+
+
+Introduction 
+
+
+
+The problem of freedom of expression in China has been topical since the times of Tian’anmen events of 1989, when the truth about the protests was successfully concealed. Since then the liberal journalists of the West (and by the West we mean here the USA and Europe) have been quite persistent in their search for grassroots political activity in China. With the Introduction of Web 2.0 method of Internet pages development, which introduced interactivity to the cyberspace: Web 2.0 allows commenting, editing and adding information by the users anonymously. However, China has found a way to, again, quite successfully control this type of platform, namely, online censorship. While technically textual analysis has been developed well in the years of Internet introduction which allows quick censorship, the technical side of automatic visual analysis is not quite well-developed yet. This and the increasing affordability of digital cameras and image editing software has made images the most popular content on the Internet, and moreover, this made images a tool for broadening the space for free expression under the conditions of censored cyberspace. The images acquired the immediate nature, became more linked to the time and place where they were taken, and therefore, more embedded in the context, as well as presenting some kind of content. These two characteristics of images – content and context – have now become the main object of anthropological interest. Favero argues that the new technologies ‘modify our ways of relating to and addressing the visual field’, as the world has witnessed the emergence of new ‘image-making communication practices’. New technologies enable the ‘translation of visions and abstract ideas into physical items’, as ‘each image carries on a surplus of meaning made up by its spatialization, its materialization of movement and memory, its insertion into a variety of maps, networks and relations’ [18; 178]. This is the reason for choosing this topic for development.
+
+The rationale of the research is based on the growing interest of the public to the freedom of speech and democratic movement problems in China, which, being a powerful player on the international arena, is often accused of violation of human rights and freedoms. While not being able to express themselves freely, netizens find different ways of avoiding the censorship, and images is one of these ways. The study of images may reveal information about the trends in the Chinese Internet society, Chinese popular culture, and moreover, public opinion about politically sensitive issues. These peculiarities determine the interdisciplinarity of the paper, which, on the one hand, will look at the sociological aspects of the Chinese public sphere, on the other hand, will incorporate cultural studies knowledge.
+
+The chronological borders were determined as 2013 – 2014. It can seem to be a very short period for investigation, however, since our attention is focused on the Internet content and the speed of updating information on the Internet is enormous, it would be hard to find to find data for analysis as web pages are refreshed very often, and it would also be extremely hard to systematize the huge amounts of information available. 
+
+For the examination of the visual content the following methodology was adopted: 
+
+Nancy Fraser’s concept of weak and strong public spheres, which are, according to her, independent and can be in conflict with each other,  incorporate different social groups and have different purposes: from influencing the government and taking part in decision making to existing for the sake of existence.
+
+Postmodernist understanding of images as texts.  Postmodernist paradigm allowed the shift from verbal text to a visual one, as an image is considered a text, too. The visual anthropology looks for the meanings in the form of visual representation as well as the conditions under which this particular form of representation was chosen. As Yarskaya points out, visual anthropology is at the moment more focused on the activity providing the 'dialog of cultures' [31; 18]. A camera easily turns a viewer into a creator, and as an ordinary citizen takes a camera in their hands, the camera becomes a tool for expression of the needs and demands of this particular individual or a group, to which this individual belongs. This element of participation is what becomes a focus of a scholar's attention, as the product of such a participatory image-producing activity is the representation of the social processes of the contemporary reality. And therefore for the analysis of visual materials it is crucial to define the knowledge that is necessary for the understanding of the situation captured in the image. 
+
+Sztompka points out that from the point of view of dominant cultural features three successive historical epochs can be distinguished: oral, verbal, and visual [28; 6]. Oral epoch is characterized by the dominance of oral communication, which greatly limits the circle of possible communicators as they have to be close to each other. During the second epoch the circle of possible participants of the communication widened, as the recording of oral information enabled storing and transmitting the data. With the oncoming of visual epoch an image, visual representation has gained greater significance in transmitting the information, knowledge, emotions, esthetic perception and values. Images can influence not only the consciousness, but also the unconscious [28; 6].
+
+This transition has become possible thanks to new media and the Internet technologies. In total, there have been three turning points in the process of new cultural epoch establishment: the invention of photography, which enabled the multiplication and zooming of images; the invention of a copy machine, which enabled the massive multiplication of the same image; and finally the invention of electronic registration, copying and moving of images with the help of television, computers and later Internet technologies. The last stage has broken the limitations of space and time, and has embedded an image into the urban environment, so that the visual perception has become an integral part, if not a replacement, of the textual perception. This domination of visual images has resulted in the formation of new ways of thinking and new ways of exploring the world. Sztompka even sees in the process of image domination a return of the cultures to the 'primitive pre-linguistic communities' [28; 10] in the West, but considers this process more or less natural for the Eastern cultures with ideographic writing system, which includes China. 
+
+However, sociology of the postmodernist society admits the unequal spread of the visual among the communities, which can be explained by the difference in the perception due to different cultural background, as it is considered that every culture predetermines the specificity of perception [28; 18].  According to Hall, different strain on vision, hearing and smelling in different cultures created by people, leads to absolutely different perception of space and absolutely different relations between the people, as ‘every culture creates its own perceptual worlds’ [28; 14]. There is also a factor of different conventional amount of visual content in a particular context pre-determined by its functions, such as political, familial, professional, entertaining, etc. In case of China, a culture with an ideographic writing system, the spread of visual is quite vast there, and the culture of visual expression is also well-developed. This allows us regard visual content posted on the Internet as representation of people‘s opinion and analyze the former with the purpose of revealing the latter. 
+
+Theory of humor by Neuendorf, who argued it to be ‘an important additional filter through which individuals may view and cognitively process issues of contestation and importance’ [26; 8]. According to Gong and Yang, comic effects are usually achieved through ‘recontextualization’ and by ‘treating a low subject with mocking dignity’ and, conversely, ‘handl[ing] serious situations in a trivial manner’ [20; 12]. Another important characteristic of parody are: the self-entertainment, oriented and individual-based creation and consumption [20; 14]. Parody, or egao, serves also as a channel to vent his dissatisfaction with the established norms (the film, the social problems, etc.). As audiences laugh along, they identify with the critiques and laugh off their feelings of discontent as well. In a way, egao serves simultaneously as a means for critical expression and for emotional catharsis [20; 15].
+
+For the primary sources the following materials were taken: 
+
+China Digital Times (CDT) portal: an independent news portal, located in Berkeley, CA, which was established in 2003 as a blog and then grew into a big news-related organization. This paper used its section Drawing the News for picking up the most popular uncensored images 2013-2014 from Weibo for sampling. Only images with the logo of Weibo were taken for the analysis. It is unclear, though, what the choice of images for the section is based on, there are no evidence of the number of reposts in the pages.  
+
+ProPublica project: 'an independent non-profit newsroom that produced investigative journalism in the public interest’ [12]. The organization is based in NY. The newsroom won the Pulitzer Prize for National Reporting. The newsroom launched a project of tracking the deleted Weibo posts and registering them on July 24, 2013, and finished the project on August 4, 2013. The methodology they used was based on the double-response system, when the script they created checked the presence of a post by finding it, and then by receiving their response in an hour. As a result of the project 524 deleted images were revealed and presented on the website. For our sample we only picked those of them which contained humorous images. 
+
+WeiboScope: a data collection and visualization project based in the University of Hong Kong. It does the same thing as ProPublica project: gathers responses from the posts of a group of users having the biggest number of followers. Before May 2014 Weiboscope showed the popular images in Weibo, but starting from May 2014 it has only shown the deleted posts. Therefore only the deleted posts of humorous content published firstly in the period May 28, 2014 – June 02, 2014, were taken for the analysis. 
+
+The Internet in China, white paper published in 2010 by the Information Office of the State Council of the People's Republic of China as a reaction to the Google’s actions in China after the company revealed the violation of private accounts by the Chinese censorship office. 
+
+National People’s Congress Standing Committee Decision concerning Strengthening Network Information Protection: a legal document published on December 28, 2012 on the website of the government: www.npc.gov.cn.
+
+List of Violations, Microblogging Community Management Regulations (Trial): part of Terms of Use document basic for the registration on the microblogging service Weibo. 
+
+Decree of the State Council of the People's Republic of China (No. 292): a legal document published September 25, 2000; the text is open at the website of the Ministry of Public Security of the People’s Republic of China: http://www.mps.gov.cn.
+
+Survey Reports of China Internet Network Information Center: statistical data presented in a form of yearbook, with main information on traffic volumes, domain names, users statistics and content on the Internet. Free accessed at http://www1.cnnic.cn/.
+
+The history of the topic development in academic circles cannot be said to be very rich. Partially it is due to the fact that Internet-mediated content has only recently started gaining popularity among visual anthropologists, partially because humor studies are still underdeveloped and the topic of Internet humor is still underestimated by the researches. The only significant work in this field is written by Haomin Gong and Xin Yang, who explore the impact of the Chinese digitized parody (恶搞 ègǎo) on the development of means of political expression in China. By egao they mean ‘a form of parody, with a level of inevitable comic and satiric effects. Like other parodic practices, egao usually imitates the parodied texts, or blatantly transplants parts or all of them into an entirely different text or context. By so doing, they create ironic incongruity that triggers humor and laughter and form varying kinds of polemical relationships with the texts and/or matters that they satirize’ [20; 4]. Through the analysis of a video parody … Gong and Yang stress the fact that the emergence of cyberspace has lead not only to the creation of new physical phenomena, but through paradoxical decentralization and personalization of the society gave a start to the formation of self-organized groups. At the same time the emergence of cyberspace was accompanied by the process of social re-stratification following the commercialization stage, which resulted in the cultural uncertainty and rise of the parody activities.  The drawback of their article is its concentration on egao, which, although being a really popular genre of Internet activity, only refer to video products and do not include images. 
+
+The object of this study is the Internet-based visual humor as text representative of the state of the Chinese public sphere. The subject of the study is visual techniques and topics characteristic of the humorous images present in the medium of Chinese social networks.
+
+The following hypothesis was proposed for the study: the expressive potential of Internet-mediated visual humor facilitates the establishment and active development of a separate Internet-based public sphere under the conditions of strict censorship policy.
+
+To prove the hypothesis the following goal to identify the influence of Internet-based visual humor on the framing of public opinion and development of a separate Internet-based public sphere in China was set. The goal implies three research tasks:
+
+Choose an appropriate theoretical framework for the characterization of the Chinese public sphere;
+
+Examine the current state of Internet-based public sphere development in China;
+
+Identify the visual code used for the expression of the opinion about politically-sensitive topics.
+
+Statistic analysis, visual analysis including semiotic analysis, structural analysis and discursive analysis, content analysis as well as classification were used as main methods of study in the current research. 
+
+The paper consists of three chapters. The first chapter explores the possible theoretical choices for the interpretation of public sphere concept in the context of Chinese political system. The second chapter focuses on the Internet cyberspace as a new platform for public sphere formation and concentrates on the current conditions under which netizens need to adjust their ways of expression. The third chapter is an empirical one and presents the results of analysis of images, making the conclusion about the main tools that are used by netizens for expressing politically sensitive topics in their works. 
+
+The paper contains 2 tables, 3 graphs and 14 illustrations. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 1. Public Sphere in China: Theoretical Basis, History and Reality
+
+
+
+This chapter explores the theoretical framework of the concept of public sphere in the light of the possibility of its application to the context of China. The chapter outlines the main points of critique for different theories concerning the interpretation of the concept, provides a review of the main literature concerning this issue and substantiates the choice of Fraser’s interpretation of the concept for the further application of it to the Chinese context.  
+
+The creation of the public sphere concept has a long history which dates back to as early as Aristotle, who described it as ‘public life constituted in spatial-temporal setting of market place where citizens as equals gather to discuss matters of common concern in polis’ [41; 5]. This understanding of public sphere was prevailing in Europe until the Middle Ages, when the King or feudal lord represented the public, and when there public and private realms were no longer separated from each other. The context once more changed in the 17th-18th centuries when the public sphere started to emerge out of the private through discussions held in the bourgeois public. As Koçan comments on this point, ‘this public communication has a set of rules for exchange of points of view around issues of political concern. One main characteristics of this communication is that participants have a common interest in truth, which meant that they bracketed status differentials’ [41; 6]. The concept of the public sphere gained popularity in the 20th century thanks to Jurgen Habermas who in his work The Structural Transformation of the Public Sphere stressed the political participation of the citizens as the inevitable component of the democracy again. According to Habermas, the main idea of the public sphere was in the existence of a medium between the private economic and social concerns of individuals and public concerns. Initially (in the epoch described by Habermas, i.e. European late 18th and 19th centuries) the public sphere involved organizations which managed the information and political debate, such as newspapers, and those which were legally ascribed the role of conducting political debate. Such as parliaments, political clubs, public assemblies, etc. The issues of general concern were openly discussed in the form of discursive argumentation, and therefore, as Kellner points out, the concept ‘presupposed freedoms of speech and assembly, a free press, and the right to freely participate in political debate and decision-making’ [23; 5].  With the coming of commercialization the public sphere has become a medium of mass consumption dominated by corporations. In the capitalist epoch the corporations has undertaken the function of public opinion formation which would fit their private interests. The functions of the media have also changed from facilitating political debate and opinion expression to ‘shaping, constructing, and limiting public discourse to those themes validated and approved by media corporations’ [23; 7]. In his critique of Habermas, Kellner, emphasizing the role of communication and language in power as means of manipulation and domination, argues that contemporary media has normative character and can to a great extent promote the progress in democracy development. Kellner notices that Habermas did not pay enough attention to the role of communication media such as the Internet in the public sphere functioning due to his concentration on the print media, and suggests that in the era of IT the new media technologies serve as a new basis for participatory democracy. 
+
+Downey and Mihelj put under question the universality of Habermas understanding of public sphere referring to it as only one of the three possible types, a deliberative one. Apart from this they also mention liberal representative public sphere, where the participation of citizens in the political discussion is only inevitable at the stage of choosing the representatives whose further mission would be dealing with everyday political problems and on whose authoritative opinion the citizens would rely. The third type is participatory liberal public sphere, where full engagement of citizens in the political debate is paramount, which in other words means ‘the poor and weak should not be spoken for but should be themselves speakers in the debate and present in making decisions’ [17; 339]. Based on the analysis of the citizens’ opinion representation in the printed media in Germany, France, Slovenia, Switzerland, the UK and the USA, they distinguish these three groups. Thus they show how countries with different political background may derive a specific type of public sphere different from Habermas’ deliberative model. Although the research mentioned above makes an attempt to widen the boundaries of the public sphere concept and challenges its interpretation by Habermas, it is still based on the printed media and does not pay attention to the more widespread, fast-developing and therefore becoming more and more significant field of Internet media. However, this study gives us a hint about the possibility to consider Chinese political administration a model with its own specific type of public sphere stipulated by the historical conditions of its development.
+
+Habemas’ concept of public sphere undoubtedly needs re-thinking when applied to the contemporary context and to the context of China, which did not follow the European example of democratization. The topic of the potential ways of public sphere development at the stage of information technologies domination in the modern society is quite popular in the social science literature now. However, authors have not come to the mutual decision about the possible influences of digital media and its commercialization on the public sphere. 
+
+Peter Boeder, considers the concept of public sphere in its essence a virtual structure, which means that abstractization caused by the active development of the virtual space cannot threaten the existence of the public sphere, on the contrary, it enhances its power [34]. However, the author leaves it unclear in which exact way the cyberspace enhances public spheres.  
+
+West does not seem to have positive overview on the problem of emerging public spheres thanks to the Internet. He sees two necessary features that could make any medium for communication a public sphere: the ability to form public opinion through communication in a particular medium, and the presence of a certain force of law given to this medium, that is, the ability of the medium to influence the power holders by law [30]. Although the main purpose of public sphere is to direct the government in the desirable direction, under the ideal circumstances the public sphere should also have power to compel the government if they are not willing to follow the desirable direction, which does not seem to be the case of China. West considers any attempts to call the Internet a ‘new public sphere’ only a temptation, as the Internet opinion does not have any considerable weight and influence on the governments granted legally. However, as it was stated above, we consider the concept of public sphere in Habermas’ sense as a normative one, so the lack of legal power for the Internet can be counted as a special feature of a new public sphere type. 
+
+The most detailed close-up on the Chinese public sphere problem is presented in the work of Liu and McCormick [24], where they investigate the problem of emerging public sphere in its interconnection with the commercialization of media.
+
+The main thesis they make is that the Chinese public sphere being ‘monopolistic’ before Deng Xiaoping’s reforms, has gained the characteristics of a ‘pluralistic’ one thanks to the commercialization of media. During the epoch of active propaganda in the first thirty years of the PRC, the media worked as a main instrument for bringing the Party’s ideas to the masses. The following in the 80’s reforms of state-owned enterprises unintentionally influenced the media institutions and triggered the process of letting in ‘the voices of different social groups’ [24; 106]. The basis of this process was rooted in the introduction of enterprise management and cutting off the state financial support which made the media-related companies to a great extent dependent on the consumers’ choices. Following the increase of purchasing power among the citizens and as a result the growing demand for cultural and entertainment services, the content of the media started to change. 
+
+Although the authors point out the positive change in the official party course concerning the media during Zhao Ziyang’s chairmanship when the control of media was claimed to shift from ideological to administrative one, Tiananmen Square events put the media again in the position of ‘party’s mouthpiece’. Soon after that, however, the Party officially admitted the commercial nature of the media, which allowed more space for widening the scope of media content. Liu and McCormick use the term ‘state-market complex’ to describe the position of the media since 1992, particularly, the state of balancing between the demands of the propaganda on the one hand and the demands of the consumers on the other while being fully state-independent financially. The need for economic gains forced the media turn to the daily-life issues and entertainment, while the state transformed its propaganda content so as to adapt better to the consumers’ demands. 
+
+The main changes in the media discourse the authors point out are domination of entertainment in the media market, a greater value of private over public issues, indirect control of the Party through deciding over the leading leitmotifs in the choice of topics, and widening space for alternative perspectives. 
+
+Liu and McCormick consider the implication of the Habermasian public sphere concept to the Chinese context as requiring special attention. By the public sphere in the sense Habermas meant it they imply ‘a social domain between the state and civil society, where private people come together as a public and engage in critical-rational discussions about private but publicly relevant matters, especially with regard to the general rules of a civil society’ [24; 112]. Considering the fact that Habermas did not claim the exclusivity of the type of the public sphere he described in his major work, they suggest treating this concept as a normative one and implying that there exists a possibility for the formation of different types of public spheres. 
+
+Given the popular point of critique of Habermas’ theory, which is the relation of the concept of public sphere to the historical events in Europe and the US and as a consequence impossibility of its application to China, Liu and McCormick argue that as a normative model incorporating ideals such as open and reasoned debate, it is perfectly applicable in the Chinese context. They give the following interpretation of it: ‘we define public sphere as a social realm where public discourses are structurally situated, allocated, regulated, and circulated’ [24; 115]. Referring to Richard Madsen’s ideas [25] they suggest that Chinese democratic movements ‘seem to be seeking a form of life in which authority is accountable to common norms based on widespread, open, rational discussion among citizens’ [24; 115].
+
+From the point of view the authors adopted concerning the concept of public sphere, Liu and McCormick point out that the type of the Chinese public sphere created by the CCP during the era of Mao can be described as monopolistic in a sense that the ideals the public sphere pursued were set by the Party and were presented as ultimate truth. This type of public sphere did imply engagement in rational discussions about private matters in their connection to the public ones, however, given the strict rules and specific formulas speakers should have followed in their discussions, the monopolistic public sphere in China in no way encouraged public participation in solving the problems of administration. The role of intellectuals during that period was quite specific: to provide intellectual support to the ideology strengthening its status of ultimate truth. This resulted in critique of the public administration problems becoming an attribute of private realm. Liu and McCormick argue that the beginning of commercialization process after the economic reforms of Deng brought several significant changes to the existing type of public sphere, namely, the Party lost its monopoly over the production of public discourse, the public sphere became diverse with more actors participating, and the number of opportunities for opinion expression increased. 
+
+The key feature of the current public sphere, according to Liu and McCormick, is the adapted style of the party’s ideology which followed the commercialization of media. While the most commercially beneficial content is focused on consumption-oriented popular culture, the authorities had to ‘trade off’ political control for the commercial success of the media. The growing amount of media content has become less accessible for thorough control, and the support of party ideology has lost its attractiveness for the intellectuals as it ceased to guarantee better financial rewarding. 
+
+Along with the positive changes initiated by the commercialization of media, Liu and McCormick express certain concern over the possibility of these changes to lead to democratization of the media sphere. 
+
+Following Habermas, Benjamin, Horkheimer and Adorno, Liu and McCormick agree that the ‘formerly reasoned debate of the liberal public sphere would be replaced by the consumption of entertainment’ [24; 127]. The entering of the private into what is supposed to be public (as it happens in the process named by Colin Sparks ‘tabloidization’ [27; 29]) can become a cause of political passivity, and the critical commentary will be discouraged from developing in the media due to unpopularity. 
+
+Some Chinese scholars see a positive impact in the growth of popular culture claiming that it increases political and social tolerance [32]. Other researchers suggest that regardless of the extent of commercialization, the media in post-reform China is not likely to represent a purely pro-party or pro-democratic attitude, as it tends to both present the state in a bright light and expose the problems of the government such as corruption. 
+
+Liu and McCormick see the commercialization and de-politicization of the media as a very politicized process. They claim that this process has laid the basis for changing the self-identification of people who, as a result of Mao’s teachings cultivation, used to associate themselves with the collective ‘I’ implying the state itself. Commercialization and, consequently, the cultivation of ‘private’ matters in media has started the process of realization of their private interests and identities among the Chinese. Taking into account that the Habermasian normative model of public sphere implies the existence of private people ‘who could voluntarily come together to form a public’ [24; 130] for a meaningful discussion, the process described above is likely to facilitate democratization in case of China. 
+
+The paper of Liu and McCormick gives a reasonable interpretation of the impact of commercialization on the development of the public sphere in the direction towards democratization from the point of view of Habermas’ theory. However, speaking about the ‘media’ the authors imply newspapers, magazines and the television, and do not pay considerable attention to the role of the Internet as a form of media. If we take into account social networks and news portals which allow free commenting, one key conclusion of the authors seems doubtful. According to Liu and McCormick, the commercialization tends to direct people’s concentration towards their immediate private issues distracting them from politics. This leads to citizens (who are by definition ‘willing and able to engage in public discussions of politics’ [24; 131]) becoming politically passive consumers of entertaining content. In case of social networks, however, where the consumers of information are free to become at the same time the producers of information, and who are often referred to as ‘netizens’, the public sphere integrated in the virtual space of the network is created and shaped by the netizens themselves, who through their updates concerning private matters and preferences reflect and discuss the public matters connected to the reality.  
+
+Taylor suggests another definition of public sphere, quite different from the popular definition of Habermas: 
+
+‘The public sphere is a common space in which the members of society are deemed to meet through a variety of media: print, electronic, and also face-to-face encounters; to discuss matters of common interest; thus to be able to form a common mind about these’ [29; 83].
+
+Rational discussion over the topics of common interest which is lead among all the members of society that is considered to be a unified group is in the center of Taylor’s interpretation of the concept. For Taylor it is crucial that all the members of the society need to come to a consensus about the topics under discussion and not just aggregate their opinions.
+
+According to Taylor’s perspective, there are three statuses which are characteristic of a public sphere: extrapolitical, secular and metatopical space [29; 83-99]. Extrapolitical status refers to the dominance of reason and absence of traditional authority or any other political power in the process of ideas exchange within the public sphere. Under secular status Taylor implies the lack of a transcendental idea behind the fundamental element of the public sphere, which implies a free will of the participants to be the basis of the formation of the public sphere. Metatopical space is referred to as a common space of understanding between the participants. 
+
+Keane’s definition of public sphere is more descriptive than conceptual, as for him a public sphere is ‘a particular type of spatial relationship between two or more people, usually connected by a certain means of communication [...], in which non-violent controversies erupt, for a brief or more extended period of time, concerning the power relations operating within their milieu of interaction and/or within the wider milieux of social and political structures within which the disputants are situated’ [22; 77]. According to the theory of Keane, public sphere is not a common space, but a combination of spaces, with each of them having their own information flows and working according to their own principles. Keane distinguishes public spheres by their scale and defines three types: micro (sub-cultural; up to thousands of people at a sub-national level), meso (national; millions of people at the level of state regions and states) and macro (global level).
+
+Another descriptive definition is provided by Fraser. She refers to a public sphere as ‘Parallel discursive arenas where members of subordinated social groups invent and circulate counter discourses to formulate oppositional interpretations of their identities, interests and needs’ [19; 123].  The main points of her critique of Habermas are presupposed societal inequality, unity of a public sphere and lack of any inner competition within it, the focus of the rational discussions on the common good, and total independence of the public sphere from the state. Through her discussion of the conditions under which  the existence of Habermasian public sphere  is possible, she shows how far from the reality the model is. According to Fraser, a participatory parity is achievable when there are several public spheres, so as the privileges of higher-status social groups (relating to gender, origin, etc.) are counterbalanced. Koçan considers her definition as shifting from ‘a more static institutional perspective to complex and fragmented multiplicities which work as communicative arenas for hermeneutical self-understanding, for recognition of new complex of issues and for competitive discussions which are directed towards shaping public opinions and criticizing the state policies’ [41; 10]. For better explanation Fraser suggests a classification of two types of public spheres: weak and strong. A strong public sphere is fully independent from the state and plays certain role in the decision-making, while weak public spheres are engaged in the discussion but are not considered as decision-making agents. 
+
+Thus, Fraser’s interpretation of the concept excludes the possibility of full dominance of state or commercial interests in the formation and shaping of the public sphere, and, although being targeted at the late-capitalist societies, allows space for the emerging of public spheres even in autocratic regimes. 
+
+In the light of cultural differences and the differences in political tradition, an additional classification of models of public spheres is suggested by Koçan, that is, end-oriented and act-oriented public spheres. For end-oriented public spheres it is crucial to play a decisive role in achieving political objectives. For the act-oriented public spheres the main goal is existence of the public sphere itself, such public spheres provide a space for communication and public opinion formation, but are not presupposed to play an active role in decision making. 
+
+For understanding the public sphere in China and choosing the appropriate theoretical framework for its assessment, it is necessary to keep in mind the Chinese cultural background and political tradition. As the Emperor was believed to hold the Mandate of Heaven, it was thought, according to Confucian ethics, to be inappropriate to criticize the higher power. This did not apply to the officials, especially those of lower ranks, however, there was no common physical space for discussions in the imperial China, moreover, the commoners were not supposed to take active part in the decision-making process, as this responsibility fell fully on the officials’ shoulders, and therefore the only ways of expressing criticism was through literature and arts. Thus, the public sphere was passive. On the other hand, as the new attempts to interpret Confucian ethics in the framework of democracy are undertaken, the scholars deny the principal contradiction between the traditional Confucian thinking and democratic ideals  [16; 1], however, the Cunfucian ethics still does not imply the active participation of people in the decision making. The model of Fraser would be therefore more applicable in this case than others, as the public sphere possible in the conditions of Confucian society is, in her classification, weak. We will use this model for the characterization of Internet social networks in China (which will be done in the following chapter) and the interpretation of the results of empirical part of this study.
+
+Taking all the mentioned above into account, preliminary conclusions for Chapter 1 can be made:
+
+1) Commercialization of media and emergence of new types of communication techniques on the one hand, reoriented media from serious topics to entertainment, on the other hand, devaluated the importance of media as a mouthpiece of people;
+
+2) in case of China, where media has never been fully a representation of public opinion, commercialization has not even let media develop as a representation of people, but rather became a mouthpiece of the Party;
+
+3) public sphere, which according to its basic definition of Habermas, has mass media as one of its bases, and therefore cannot be considered to be well-developed, or even existing in China;
+
+4) Nancy Fraser’s theory, which implies simultaneous existence of several public spheres, can be implied to the Chinese context most successfully, and it does not put into controversy the commercialization of mass media, emergence of Internet as alternative media and the tendency to concentration on entertainment in mass media. If Internet  society is considered a separate public sphere as opposed to other public spheres, it can be also considered a platform for rational discussion combined with entertainment.
+
+
+
+
+
+
+Chapter 2. The Internet as a Weak Public Sphere: Features, Regulations and the Adaptation to the Chinese Context
+
+
+
+As it was concluded in the previous chapter, the Chinese tradition of public sphere is likely to determine the character of the current public sphere – from the perspective of Fraser’s classification the Chinese public sphere can be regarded as weak. This chapter will explore if the real situation in the Chinese public sphere falls under the definition of Fraser’s ‘weak’, and what role in the Chinese public sphere the Internet and social networks, such as Weibo, play. The chapter will progress from the statistical data concerning special features of the Internet in China, which is aimed to outline the real conditions and possible potential of the existing social networks for facilitating the existence of public spheres. 
+
+The history of Internet in China dates back to 1986 when the first email was sent from Beijing Information Control Institute [36]. The first set of web pages in China was launched in 1994, and January 1996 can be considered the beginning of nationwide Internet services in China with the first backbone network provider CHINANET starting its work. In  June 30, 2008 China became the country with the largest number of Internet users in the world and has been keeping this position till nowadays [37].  
+
+
+
+Characteristics of the Chinese Internet infrastructure and cyberspace-regulating laws
+
+Every year China Internet Network Information Center (CNNIC) publishes Statistical Reports on Internet Development in China (the Report). As it can be seen from Table 1, the number of Internet users has witnessed triple growth in the last six years, rising from 210 million people in the end of 2007 to 618 million people by the end of 2013. However the annual rate of growth was steadily decreasing from 2007 to 2012, and the tendency to stabilization of growth rate can be seen in the last two years. After the rapid increase of the number of Internet users in 2008 and 2009 by 42% and 29% respectively, which can be considered a peak time of Internet spread in China, the slowdown of the growth rates is natural and is explained by the considerable coverage of Internet in urban areas (as it will be shown further in the paper) and very limited coverage of rural areas (where roughly half of the population of China lives). Certain attention should be paid to the number of mobile Internet users, whose number amounted to 81% of all Internet users in the end of 2013, increasing dramatically in the previous 5 years from the percentage of 24%, which can be explained by the rapid development of smart phone and tablets industry and the improvement of mobile Internet infrastructure. The high percentage of mobile Internet users is an indicator of the users’ growing appreciation of the immediateness of information exchange, as the mobile devices allow instant messaging, rapid transferring of news and higher speed of updating information about the changes of situations eliminating the condition of staying in the same place in the process of Internet using.   
+
+
+
+Another piece of important information that can be learnt from the statistical data presented in the Report is the structure of users. Gender distribution of the Internet users has been stable through years 2009-2013, and amounts to 54-55% males and 45-46% females, which roughly correlates with the gender structure of the overall Chinese population [11].  From the point of view of distribution of Internet among urban and rural population (Fig. 1), it can be noticed that with the slight decrease in the percentage of rural population, the scope of Internet penetration in rural areas, although increasing twice, remains relatively low, while by 2013 the percentage of Internet users among urban population already exceeded 60%. As for the age structure (Fig. 2), it can be seen from the graph that the most of the Internet-using population is aged 10 to 39, with maximum users being 20-29 years old. In addition, it is noticeable from the Fig. 3 that the majority of Internet users have relatively low level of education – not higher than junior or senior high school, and this trend has been constant through the last five years. 
+
+
+
+
+
+Graph 1. Internet penetration among urban and rural population of China, 2008-2013. 
+
+Source: Statistical Reports on Internet Development in China 2008-2014, http://www1.cnnic.cn/IDR/
+
+
+
+As for social networking spread among the Internet users, the Report states that in 2013 (the year of our interest) 70.7% of users had their personal blogs, 45.5% used Microblog  service (微搏weibo, including Sina, Tencent, Baidu, Sohu and Netease), and 45% used social networking services. Overall through the years 2012-2013 there had been a slight slowdown on the development of social networking and microblogging, with less new users joining the networks where the real-name registration is required. In addition, there had been a decline in the activity of already registered users, with 22.8% microblog users reducing their activity in 2013, and 23.5% of users reducing the reducing their activity on the social networking websites. The report suggests the following explanations for the drop: the loss of freshness for the users among microbolog services and the rapid development of mobile applications with social networking features. The report also indicates 48.2% and 42%, utilization ratios for mobile phone applications with microblog and social networking functions respectively in 2012, and therefore it cannot be stated that social networks are losing their popularity, the users are just shifting to another platform following the growth of mobile Internet traffic. The top content for mobile Internet search in 2013, as in the previous years, is news (71% of browsed websites). 
+
+
+
+It should be noted that the Report suggests a clear correlation between the income and level of education and the utilization of social networking services among them. In particular, the higher the income of a user and the higher level of his/her education, the more it was probable for them to reduce their activity in the social networks in 2013.  Taking into account that students prevail among other types of occupation typical for Internet users in China (amounting to 25.1% and 25.5% of all Internet users) and the fact5 that many of the surveyed explained the main reason of reducing their activity by describing such services as ‘a waste of time’, the tendency to reduction of the network activity can be explained by the change in the status and social group of graduating students. 
+
+The statistical data gives us an approximate portrait of an average Internet user in China – they are with slightly higher probability a man aged 20-29, living in an urban area and having an education of junior high school level; he has a computer and a mobile phone with the function of Internet access, through which he searches latest updates about the current events and uses microblogging and social networking services. The growth in the number of Internet users and relatively stable structure peculiarities allow making an assumption that it is this group of population that is considered a target audience for the majority of the products introduced to the Internet, be it websites or mobile applications. 
+
+Leaving the behavior of users aside, the Report also provides some information about the popular type of multimedia content in the web pages, namely, images, music, video and text files. It is stated in the Report that the majority of multimedia content provided on the web pages of Chinese-domain websites is constituted of the files with .jpg and .gif extensions, which stands for the image (42.3% in 2013, 57% in 2012) and animated images (6.5%  in 2013 and 37.6% in 2012) files. This proves that the images are still the leading multimedia content of websites.
+
+
+
+
+
+Freedom of Speech Controversy 
+
+The Chinese Internet regulations have long been scrutinized by the Western human rights organizations, activists and journalists. In addition to the existence of the Golden Shield Project (全国公安工作信息化工程  Quánguó gōng'ān gōngzuò xìnxī huà gōngchéng) better know to the international public as Chinese Firewall, which blocks the use of foreign websites with certain types of content, such as Facebook.com, Twitter.com, etc., China implements inner censorship on the content published by the residents of China on the websites of Chinese domains. The main governmental organ in charge for the implementation and control over the newly introduced and existing regulations is Ministry of Industry and Information Technology (MIIT) and its provincial and local departments, and the CNNIC mentioned above is responsible for the research, development and security technologies provision to the Ministry. The decisions on the changes of Internet regulations are made by the Standing Committee of the National People’s Congress. 
+
+The main point of concern among the human rights activists have been the tightness of Internet censorship which has been imposed by the means of deletion of feeds and commentaries falling under the description of restricted topics which pose danger to the ‘harmonious’ development of the Chinese society and Internet community. For the purposes of familiarization with the existing censorship regulations in China, it is quite useful to take a look at a white paper published on the website of the Central People’s Government of the PRC.
+
+The white paper titled The Internet in China giving an overview of the existing Internet regulations was published in June 2010. The introduction of the document states that the aim of the Chinese government is ‘to create a healthy and harmonious Internet environment, and build an Internet that is more reliable, useful and conducive to economic and social development’ [10]. The paper stresses the role of Internet in the technological and economic development of China, as well as in the ‘enhancing the capability of governance.’ 
+
+According to this document, by the beginning of 2010 the number of users of the Internet in China was estimated as 384 million people, with 346 million using broadband and 233 million using mobile traffic [10]. It is mentioned that the access to the Internet sources was not uniformly spread over the territory of the country, with twice as much people in eastern China enjoying access to the Internet as in the west (40% of the population against 21.5%), and almost three times as many people using the Internet in urban areas than in rural (72,2% against 27,8%). 
+
+The main idea of the white paper was, of course, not to present statistical data, but to make clear the information administration and security regulations introduced by the government, and to a great extent it refers to the freedom of speech and information (data) security controversy brought up by Google.cn in January 2010. After a massive cyber-attack on Google accounts, the company has stopped following the censorship regulations of the Chinese government. As it was written in the official blog of Google, there was ‘evidence to suggest that a primary goal of the attackers was accessing the Gmail accounts of Chinese human rights activists‘, which motivated the US-based executives of the company to reconsider the problem of censoring. As a result, the Chinese white paper stated that ‘Chinese citizens fully enjoy freedom of speech on the Internet. The Constitution of the People's Republic of China confers on Chinese citizens the right to free speech. With their right to freedom of speech on the Internet protected by the law, they can voice their opinions in various ways on the Internet. <…> The Chinese government is determined to unswervingly safeguard the freedom of speech on the Internet enjoyed by Chinese citizens in accordance with the law’ [10]. The paper proceeds with the clarification of the legal aspects of Internet activity, and states that ‘no organization or individual may utilize telecommunication networks to engage in activities that jeopardize state security, the public interest or the legitimate rights and interests of other people. <…>  The Decision of the National People's Congress Standing Committee <…> clearly prohibit the spread of information that contains contents subverting state power, undermining national unity, infringing upon national honor and interests, inciting ethnic hatred and secession, advocating heresy, pornography, violence, terror and other information that infringes upon the legitimate rights and interests of others’ [10]. It is obvious that according to the Chinese law, any activity of Chinese human rights activists is regarded as illegal, as any production, duplication and dissemination of certain types of content is prohibited. The list of types of such activities was also introduced in the white paper: 
+
+‘being against the cardinal principles set forth in the Constitution; endangering state security, divulging state secrets, subverting state power and jeopardizing national unification; damaging state honor and interests; instigating ethnic hatred or discrimination and jeopardizing ethnic unity; jeopardizing state religious policy, propagating heretical or superstitious ideas; spreading rumors, disrupting social order and stability; disseminating obscenity, pornography, gambling, violence, brutality and terror or abetting crime; humiliating or slandering others, trespassing on the lawful rights and interests of others; and other contents forbidden by laws and administrative regulations’ [10].
+
+The legitimacy of these regulations are national security reasons that indeed are present in every country, however, the main point is the scope of freedom of speech that becomes very much limited due to the Chinese law. As Min Jiang points out contrasting the attitude towards information security in the US and China, ‘The U.S. approach is individual-based, rights-centered, and market-driven. The Chinese approach, on the other hand, is state-centered. It emphasizes individual responsibilities over individual rights, maximum economic benefits, and minimal political risk for the one-party state’ [40].
+
+The text of the white paper follows the main Internet law - NPC Standing Committee’s Decision on Safeguarding Internet Security (published December 28, 2000). The document lists the same requirements for the published content which should be met by the Internet providers. Article 16 of the Decision states that the monitoring of the content published by users should be prevented from further dissemination by the Internet providers, and that the recording of such incidents should also be kept by the providers to be further provided to the corresponding governmental department. 
+
+A closer look on the later published National People’s Congress Standing Committee Decision concerning Strengthening Network Information Protection gives more information on the ways of ensuring the ‘harmonious environment’. For example, Article 6 imposes an obligation on the users to provide real personal information to the providers at the registration stage. 
+
+Sina Weibo as the Main Platform for Internet Discussion Sina Weibo (or sometimes referred to as just Weibo) corporation (新浪微博, xīnlàng wēi bó) is, according to the introductory information posted on its website webio.com, is ‘a leading social media platform for people to create, distribute and discover Chinese-language content’ [43]. The microblogging project was launched on August 14, 2009 by media company SINA, the creator of a digital network SINA.com. Sina.com has several region specific websites in mainland China (www.sina.com.cn), Taiwan (www.sina.com.tw), Hong Kong (www.sina.com.hk), and North America (www.sina.com). Every of the mentioned portals provide the choice of several entertainment and news channels. Weibo.com is a hybrid platform having features of both microblogs (the messages posted through Weibo should not exceed 140 characters) and social networks (with the options of adding personal information, information about preferences, participation of different interest groups, uploading images, music files and video), with the possibility of asymmetric user relations: it is possible for the users to follow the activity of others without being followed by that user. Being called on its introductory web page ‘a microcosm of Chinese society’ [43], Weibo, according to its statistical data, by the end of 2013 had 129.1 million of monthly active users and 61.4 million daily active users. 2.8 billion feeds were shared on Weibo in December 2013 with 2.2 billion feeds containing images [43].  The range of products provided by the platform allows registration of not only individuals, but also organizations; organizations, as well as famous people, need to go through identification process after which they are given a special sign of verification on their pages and are considered officially registered users. Due to this option Weibo has become a popular tool for the rise of accountability among local and provincial governments. 
+
+The users of social networking and microblogging services of Weibo.com are also obliged to comply with the regulations imposed by the Ministry, as well as Weibo service is responsible for stopping the inappropriate content. The list of such content is put in the Weibo Community Management Regulations, Article 4 (see Appendix). However, the Internet community has found a clever way of combining self-expression with the obligatory self-censorship in the usage of user-edited images. As Jiang points out, ‘many Chinese Internet users have become more keenly aware of their rights as netizens and grown more adept at using euphemism, parody, and humor to criticize local and national government policies’ [40; 75]. 
+
+Some preliminary conclusions for the Chapter 2 are presented below: \
+
+1) If Internet community in China is considered a public sphere, then it should also be taken into account that the structure of this public sphere is more or less homogenous, as it was shown through statistics; 
+
+2) strict Internet information protection policy does not allow free circulation of all types of information, but leaves space for non-direct ways of sharing it and expressing opinion even on the sensitive topics, such as visual representation.
+
+
+
+
+Chapter 3. Analysis of User-edited Humorous Images 
+
+
+
+This chapter presents the results of the visual analysis of the Internet memes circulating in the space of Weibo microblogging service that were censored soon after their publication, and explores their connection with the possibility of interpretation of Weibo-sphere as a separate public sphere of the Chinese society. 
+
+For the sampling of the uncensored pictures images of humorous content taken from the accounts of Weibo and published by China Digital Times from January 2013 to May 2014 were taken, 60 images total. There was a single criterion to it – the images had to have a logo of Weibo to make sure they were published there. The censored pictures samples were taken from two sources: the online tool WeiboScope, by daily monitoring the Censored Pictures section from May 28 to June 2 and picking up the images that had humorous realization of the main idea; and from the website of ProPublica ‘independent non-profit’ [12] project by picking up the images of humorous content. In total, 29 censored images from WeiboScope and 31 images from ProPublica were picked and analyzed according to the following methodology of visual analysis suggested by Piotr Sztompka: semiotic, structural and discursive analysis, and afterwards divided into groups according to the topic each image concentrates on. 
+
+Sztompka’s methodology implies the fourth stage of visual analysis – hermeneutic analysis, which plays the key role in defining the features of the creator. As the personality of the users of Weibo can only be identified by the Internet Service Providers, we cannot carry out this type of visual analysis, as we do not know any information about the user-author except for the nickname. Therefore this type of analysis was omitted in the current research.  
+
+For semiotic analysis it is crucial to decipher the signs present in the image. For the interpretation, according to the methodology suggested by Sztompka, it is convenient to use the classification introduced by Charles Pierce, who differentiated three types of signs: icons, indices and symbols. For the semiotic analysis the first step was to define what kind of signs were present in the image, what denotations and connotations they had. The connotations have to be interpreted from the perspective of the Chinese cultural norms, as the images are supposed to circulate in the Chinese Internet cyberspace and are to be perceived by the Chinese. Sztompka also suggests paying attention on the special elements in the image that are the first to gab the audience’s attention – any kind of detail which moves all the rest of the picture to the background and bears the key element of meaning. This detail is called a punctum according to the terms of the scholar who introduced it – Bart, and is characterized by him as a ‘condensed, synthetic way of transmitting the meaning, which is presented to the audience directly without any preliminary analysis’ [28; 88].
+
+Structural analysis is focused on the interpretation of the indicators of social structure expressed through the details of the depicted objects in the image. Discursive analysis is focused on the context which defines the ways in which an image can be interpreted by the audience, which includes the current sociopolitical situation in the society. The audience is free to find new connotations in the image that would correlate with the real situation even if the image was created long before the time of the image perception, and therefore can add or modify the initial meanings presupposed by the author of the image. This process is exceptionally noticeable in the cyberspace, where an anonymous viewer can easily edit an image according to his/her perception of the depicted situation and thus shift the punctum of the image. 
+
+
+
+Results
+
+During the analysis 60 popular images from Weibo, 29 images from WeiboScope and 32 images from ProPublica were divided into groups according to the main topics to which the attention of the netizens was supposed to be attracted. The groups defined for the uncensored images include: Leaders, Political system, Inner territorial conflicts, Censorship, Foreign affairs, History, Society, Critique of Officials, Environment, Media, International Organizations. One of the images taken from ProPublica was rendered as Unrelated, because the author failed to find any connection of the image to the Chinese context. The results of the analysis are presented in the form of a table in Appendix 4, the more detailed analysis is made on separate examples of the most large categories, and is presented below.
+
+  
+
+Critique of Officials 
+
+The group of images is focused on the critique of the Chinese officials, mainly, corruption problem. The most representative examples of the first sampling are Fig. 1, 2 and 3, the detailed analysis of which will be done further in the text. 
+
+Fig. 1 shows a man fishing while sitting in an armchair placed on the top of an island which resembles China by its shape. There are many more people on the island, but the man is placed above all them, moreover, his figure is bigger, which indicates his higher social status and importance. All of the people are fishing with fishing rods, however, the man with the higher social status not only has as many fishing rods as there are people on the island, but is also fishing no fairly – having his rods thrown not in the sea, but in the buckets with the catch of other fishermen.  The image has an inscription – a phrase ‘劳动致富’, which means ‘work hard and get rich’, a motto associated with Deng Xiaoping’s economic reforms [33]. Fishing with a rod is a very underproductive type of labor. The fact that everybody shown in the picture is practically in the same position fishing with the rod symbolizes the equality of the people in their mass on the way to better life.  The man is dressed like all others, and even wearing a Mao-style cap, which was popular in the revolutionary and post-revolutionary years among the leaders of the CCP as part of their costume that was supposed to show how close to the people their leaders are.  Despite being formally close to the people and doing the same thing as they do, this man, however, has another way of earning his living: by taking parts of their catch from everybody. The whole environment is playing for his favor: the whole scene is taking place at night, when the fishermen can see neither what to do to make the process more efficient, nor the fact that they are actually being robbed. Another important detail is the way the people are portrayed: a viewer can hardly see facial expressions of the people, but the face of the official is drawn in detail, and it is obvious by his smiley expression that he is quite satisfied with his comfortable way of living. This fact stresses the unimportance of every single person in the mass, and how well-known those who steal from the ‘buckets’ of these people are. The image was published on Weibo in 2013 in the very beginning of January, and the previous year’s case of Bo Xilai (薄熙来), a party chief in Chongqing who was accused of organized crimes and large-scale corruption activities, had served as a background. Overall, the image emphasizes the unfair ways officials use thanks to their privileged position, while the people are left ‘in the dark’ working hard to get richer.
+
+Fig. 2 depicts a non-trivial Statue of Liberty, which a viewer can recognize by the posture, the crown and the platform. The statue does not have its conventional denotation of freedom and democracy due to  the replacement of virtually all the details with the elements of the Chinese reality. The statue itself is not a woman but a man, moreover, we can clearly see his profession – he is an official – by the costume. What he is wearing is often called a ‘Mao suit’ – a type of jacket which became popular thanks to Sun Yat-Sen and had been almost a uniform for officials before the 90’s.  He is quite plump, has a double chin which gives us a hint that his income is high enough to afford overeating. This outfit symbolizing how close the officials should be with the people and how they should not copy blindly the Western trends, is comically combined with the Hermès belt. The choice of the brand in the picture is not random - Hermès is claimed to be one of the favorite choices of luxury gifts and accessories for and among  the Chinese officials [44]. 
+
+ Another noticeable feature of the statue is the watches. The first one of the officials who was noticed to like luxury brand watches was the head of Shaanxi province Yang Dacai (杨达才), who, for his love to this accessory, was from August 2012 referred to as 表哥, a ‘Brother Wristwatch’. Since that time and since the introduction of large-scale anti-corruption campaign, the watches have become an inseparable attribute of corrupted officials, and then itself transformed in the sphere of social networks into a symbol of corruption. The number of the watches – three – is a witty way to capture a popular wordplay in the visual form. The phrase 带三个表 (‘ wearing three watches’) is an anagram of 三个代表 – ‘Three Represents’ – the name of an ideology introduced by Jiang Zemin at the 16th CPC Congress in 2002 [45]. The theory presents the new attitude to  what role the Party plays in the Chinese society, with the stress on economic production, cultural development and representation of the majority of the people. The last one was considered to be a step to democratization; however, as it can be seen from the image, it failed in this and turned out to be representing the interests of the businessmen and officials. 
+
+The figure stands on the platform made up of packs of newspapers. The platform represents the support from the ideologically non-independent media; the additional tools for the guarding of the official’s standpoint is the law in one hand and the axe in the other. The viewer can see the axe already risen and ready to attack anyone who would dare to attempt on the official’s position. All in all, the image is a representation of the power, wealth and self-protection of the bureaucracy.
+
+Fig. No.3 is an illustration to the news about the number of participants of the national civil service examinations [42]. According to the statistics published in the article, the popularity of the examination as a pathway to the brighter future is so popular, that at times only 1 out of 7192 people who had taken the exam would pass and actually get a job in the national civil service. The image referring to that article depicts a mass of university graduates trying to fit into one bowl: a ‘golden bowl’, 金饭碗, historical background of which dates back to the imperial times, when only Emperors could afford the dishes made of gold. Later the phrase金饭碗 gained another connotation of a very well-paid job, which now refers to the officials’ position. The ‘golden’ bowl has a star on the bottom – this is not only a symbol of socialism, this is a reference to the appearance of the official stamps – a red star in the center. The viewer can see that there are obviously too many people who want to fit into the space under the bowl, and some of them are not even bothered by the fact that during the struggle they have even lost their caps, which is quite close to the loss of dignity. 
+
+As for the censored pictures, this category is not represented by numerous examples. They portray Bo Xilai, and a foreigner wearing a Red Guard cap. Approve of Bo Xilai has been a taboo topic since the time of the trial over him; as for the second image, it is accompanied by the highly aggressive text, which could have been the main reason for the post deletion, as there are no particularly obvious violations of the censorship law in the image.
+
+Overall, the pictures presented in this group are all underline the weaknesses and the undeserved power and wealth of the bureaucracy, the expressive techniques that are used the most are the use of symbolic images and details and the visual representation of wordplays. 
+
+
+
+Environmental Problems
+
+This category is represented by 8 images from the sample. The most representative images are analyzes further in the text. 
+
+
+
+  
+
+In Fig. 4 a man looking down on the water surface sees a pig looking at him from underwater. The context in which this image should be interpreted refers to the incident of March 2013, when thousands of dead pigs were found in the river Huangpu, one of the main water supply of Zhejiang province [38]. The issue brought up several questions at once: where those pigs were from, why they died, how it would affect the quality of water in the province, etc. The investigation showed that the pigs were the result of the introduction of the new food safety regulations and the start of the campaign against anti-sanitary conditions of food production. The pigs were from illegal butchers’ shops, those who bought the corpses of infected animals and resold the meat as usual pork. The man in the picture is looking at the water surface with most probably one reason – to see his own reflection, however, he sees a pig. What is more important, this particular picture shows us the pig and the human in completely similar poses, with their eyes staring in the same direction but mirrored. And thus, the pigs are represented as the reflection of the Chinese people themselves, implying that the people get exactly what can be expected from the way they treat the environment. 
+
+Fig. 5 and 6 are quite similar in their idea, however, they were made by different authors. The source of the picture at chinadigitaltimes.net says that the Fig. 5 was actually censored some time after its publication; however, there is no evidence that Fig. 6 was censored, too. Both pictures are user-edited photographs that show the most famous portrait of Mao Zedong which hangs on the Tiananmen Gate in Beijing. There are three changes made by the user in the case of Fig. 5: the author added a mask, made Mao’s eyes closed and drew the hair being blown by the wind; in addition, the image has a yellowish hue. The mask has become a compulsory accessory of every resident of Beijing, the city notorious for its air pollution problems. Mao Zedong, as a Beijinger, also put on his mask. The expression (eyes closed tightly) tells us two things: that the smog hurts the eyes, and that Mao is obviously not happy with this type of weather, which is, after all, the result of the development of China. The wind in the hair of the Chairman is a detail that shows how this kind of weather conditions affects even the perfect people. 
+
+As for Fig. 6, the only two things that are changed are the lack of yellowish hue and the absence of the mask. Although the facial expression of the Chairman remained the same, now it shows more satisfaction and relief, rather than discontent. The wind now is perceived as a light breeze which at last brings freshness to the city. Overall, these two pictures on the one hand, highlight the scales of the existing ecological problem in Beijing, on the other hand, shows the equality of people of every status when facing the ecological problem, and in addition to that, to some point criticizes the society for being so irresponsible in its ways of development, that, as the author guesses, even Mao whose aim was the development of China, would not approve of this. 
+
+The images of this group do not have many symbolic elements, rather they unexpectedly combine things that are not alike but start having something in common under the conditions of polluted environment. 
+
+
+
+
+
+Censorship
+
+This category is as big as the category related to officials, the number of the uncensored images characterized as fit for this group among uncensored images is 11, among censored is 5. The analysis of Fig. 7-10 as the most representative images of this category is given below. 
+
+
+
+Figure 7 portrays the system of censorship. The space of the picture is divided into two parts:  the one that is in front of the screen of the laptop, and the one that is behind. The man in front of the screen is an angry user (we can see it by the clouds around) writing something considerably long about the issue of his discontent. On the other side of the screen is the space of Internet censors, who are portrayed as red guards (with their red bands on the sleeves and distinctive caps) holding nets ready to catch an  and not less than Mao Zedong himself (the distinctive feature is the haircut). The ‘red guards’ and their ‘head’ are portrayed not exactly like human beings, but more like ghosts; this stresses their intangibility: the censors do exist, but nobody knows who they are and where they are. While one of the ‘red guards’ is consulting his ‘boss’ with a guilty expression and pointing at a particular phrase, another one is reading the quickly growing text. The comparison of the censors and the red guards is quite significant. The movement of red guards was supposed to ‘make China red from inside out’ [15].The whole Party is personified in the ghost of Mao, who, like the current Party looking for a danger to themselves in the comments, saw the danger to the then existing political regime in the works of scholars. 
+
+Fig. 8 is a visualization of the doctrine of ‘China Dream’ (中国梦) which was introduced in 2013 by Xi Jinping and became a new ideological course for the period of Xi Jinping’s rule. For each of the people laying in bed at the moment the ‘dream’ is different: for some it is sweeping the streets, for others – a happy pension days of their parents, for some of them even reading aloud the poems of Mao Zedong for an audience is a dream. However, the person in the center has an inscription ‘The dream was deleted by the Dream owner’ instead of the dream. The phrase is a usual message for those of the Weibo users whose posts were deleted due to censorship violation reasons. The image appearing instead of the dream shows the viewer that the Chinese can only dream as long as their dreams do not violate the existing limits of freedom, and thus, a dream about the freedom of speech and self-expression cannot be considered to be the Chinese dream.
+
+Fig. 9 is an example of the most minimal editing of the users, however, the only detail can completely change the whole message of the image. The image represented in Fig. 9 is based on a screenshot of the CCTV news program, where the interviewee, Pan Shiyi (潘石屹), the Chairman of SOHO China, is talking about the possible dangers of giving more power on the Internet to the famous VIP-type users [46]. His words were as follows: ‘Those users who have more followers, have to be stricter to what they post. If you feel free to post anything, the social impact of this can be very strong.’ According to some sources, Pan Shiyi had previously published in his Weibo a post with the following text: ‘Everyone is passionately discussing whether the Internet should be controlled, cleaned up, guided, to indoctrinate the public…I personally believe that everyone should participate in society online, and the public shouldn’t be passively indoctrinated. Rumors should be sanctioned under the law. Forcing the Big V’s and Internet celebrities to indoctrinate the public and raise the public’s level of morality will not fly.’ The behavior of the Internet activist on the screen and his Weibo post are quite opposite, which indicated the obvious influence of the authorities and media on what Pan said in the interview. This detail was caught by one of the Weibo users, who added only one detail to the screenshot – handcuffs on Pan’s wrists by chance lying on his knees as if he was really in handcuffs. The picture shows the audience that only under pressure could this person say what he said on the TV, as usually he had had quite liberal understanding of the role of Internet even in China. 
+
+
+
+Fig. 10. Example of Censorship category (deleted image)
+
+Fig. 10 is an example of a censored picture. The inscription says ‘Kaspersky from the bottom to the top’, and the image portrays a man with his genitals and lips tied up together, while his arms are tied behind his back. It is a torture, because every smallest movement can cause an excruciating pain for him in any of the tied-up parts of the body. This is a portrayal of the main principles of censorship: taking its roots in the ban on pornography, it also covers some politically sensitive topics, which keeps citizens from free self-expression. 
+
+As a result of the analysis, it can be stated that the attention in the images focused on the problems of censorship and freedom of speech is drawn to the third-party played by the censors in the private conversations, which is portrayed applying any kind of pressure: physical or mental, on the people trying to speak or even think differently. No visual representations of puns or wordplays have been spotted in this group; however, the integration of the features of the Internet (such as emblems of chat, network, ‘firewall’ or blocks) into the imaginative reality of an image is a common method of highlighting particular details. As for the censored pictures, they mostly focus on the separate parts of the body associated with opinion expressing, and compare the censorship with the torture or execution. 
+
+
+
+Leaders
+
+This category is only represented by two images, one of which was deleted (Fig. 11). Fig. 11 is a photo of Xi Jinping and Barack Obama walking side-by side at Sunnnylands, California, in June 2013.  The attention of the creator was at the posetures and the appearance of the leaders: a tall and slim Obama accompanied by a plump and relatively short Xi, both smiling and looking quite at peace. The author made a comparison with Winnie-the-Pooh and his friend Tigger, stressing by this both the relationship between the characters and their personalities, thus extrapolating the distinctive features of the characters on the personalities of the politics. Therefore, for those looking at the picture Xi Jinping would seem soft-hearted, naïve and slow-witted, while Obama would look energetic and always bouncing. The reason for the deletion of the picture from the Chinese websites is obvious: the portrayal of the country’s leader in the shape of a soft-hearted and naïve character shows disrespect to his authority. But in spite of being deleted, the comparison was perceived by the netizens as very successful, and therefore further appeared in the end of December 2013 after Xi Jinping’s lunch in an ordinary Beijing restaurant Qingfeng (Fig. 12). This action was perceived by the media as an attempt to put more attention to the problem of food safety in China, and was also understood as an attempt of the leader to appear closer to ordinary people  [47]. Thus, the creators of a logo for the non-existing Qing-Feng Steamed Dumpling Shop again brought up the image of a soft-hearted Xi Jinping as Winnie-the-Pooh, underlining this time not only previously applied feature of his character, but also Winnie’s love to eating. This picture was not deleted due to the fact that the correlation between the bear and Xi did not seem that obvious without the accompanying photo. The second picture-logo is a mocking reflection of how the Chinese leader tries to appear soft and ordinary, which is seen by the Internet community as just an appearance. This is a great example of how visual methods help avoid stricter censorship.  
+
+
+
+Fig. 13. Example of Leaders category (deleted image)
+
+
+
+Fig. 13 is an example of a censored picture featuring leaders. The mage Is a photo of a billboard featuring Russian president Putin and Xi Jinping making offensive gestures and accompanies by the slogans like ‘Goodbye America’. The image implies the Russian-Chinese strengthening of relationship after the worsening of Russia-USA relationship due to Ukrainian evens, and gas contract signing, and indicates that the two countries are strong enough together to not pay attention to the USA any more. The picture presented not a favorable image of the Chinese leader, and this is the most likely reason for its deletion from the Internet. Other images of the censored sampling also feature Putin and Xi, Putin and Obama and imply a very intimate relationship between them, which puts dishonor to the name of the Chinese leader. 
+
+
+
+Society
+
+The current category is represented by 17 images, which is the largest category, but it covers many of the topics. The creation of these type of pictures is mostly driven by the latest events, and for the period of our interest one of the incidents discussed a lot was a conflict happened in July 2013 between a watermelon seller in Hunan province and chengguan (城管), an urban management officer, who, according to the witnesses, killed the seller by an iron weight after the chengguan refused to give the seller an invoice for fine payment. While the officials did not give any explanation of the incident [39], the Weibo community reacted very quickly and a lot of pictures appeared in the microblogs, such as Fig. 14. 
+
+
+
+Fig. 14. Example of Society category 
+
+The author puts shame on the changguan offices by depicting an iron weight with the characters 临武 (standing for the name of the county) smashing a watermelon, the juice of which spread all over the country. The watermelon stands for the victim in the incident, and the red watermelon juice is his blood. The crime committed by the chengguan of Linwu has worsened the reputation of the chengguan office all over the country. 
+
+Table 2 presents the data gathered for a quantitative analysis of the images. It indicates the number and percentage of the images where certain semiotic tools were used for the representation of the main idea. It also shows the most frequently discussed topics in each group. 
+
+
+
+As it can be seen from the table, the most frequently used semiotic tool is the use of indices, which is presented in 82-83% of cases irrespectively of the censorship check outcome. Icons are equally not popular among editing users, as the percentage of their use is 18 in both groups with slightly higher result in ProPublica sample of images – 22%. As for the symbols, the percentage of their use is the highest among the uncensored images, as they can be spotted in 75% of the analyzed images of this group. This number is the lowest in the sampling taken from WeiboScope, and significantly higher, but still not reaching the level of uncensored images group, in the sample taken from ProPublica project. 
+
+Social structures are not widely represented in the sample as a tool for meaning expression. It is almost equal – 35% and 30% – for uncensored and deleted images respectively. This insignificant difference cannot be an indicator that the use of structure in the image helps users escape deletion of their posts. 
+
+A big difference can be seen in the results of punctum analysis of the images of both groups. The frequency of its use is significantly higher among uncensored images than in the deleted ones: 30% versus 7%. It can be suggested that this kind of technique – the use of punctum – distracts the attention of censors from the details and is therefore more effective among for the avoidance of post deletion. 
+
+The popularity of topics discussed through the creation of images also varies in the groups of uncensored and censored images. Society problems, critique of officials, censorship issues and environmental problems are the most frequently seen in the sample of uncensored images, with Society category in the lead. Deleted images turn to the following problems more: censorship, critique of officials, political system, foreign affairs and leaders. It is noticeable that these numbers differ among the samples taken from WeiboScope and ProPublica, as the former focused more on leaders and foreign affairs, and the latter discussed political system, censorship and officials more. Such a result should not be interpreted as a sign of sources’ subjective sampling based on certain topics of interest. On the contrary, this result is quite predictable, as the samplings were made at different periods of time, and as the images circulating in Weibo are closely connected to the recent events in the country and abroad, this difference can be ignored.
+
+The main methods of humorous portrayal of main characters or problems in the analyzed images are replacement of serious things with the less serious analogues (e.g. replacement of a tank referring to the tanks on Tiananmen in 1989 with a knotted toy tank), representation of people in the form of symbolic animals or historical or mythological characters (e.g. a toad or Yue Fei), portrayal of people in the unusual situations (like Wen Jiabao jumping over a tightrope while visiting a school), and implication of intimate relationship between the people. One of the other methods is the visual representation of euphemisms and idiomatic expressions. Manipulations with the composition of characters were also used in the sample as a method of visualizing the authors’ ideas.
+
+Thematically the images are related to the current events, and more rarely represent overall critique or ideas not connected to the recent changes and events in the society. Most of the images require considerable background knowledge about the Chinese culture, the history of China, especially the history of the 20th century, the Internet slang and the popular culture such as cartoons or manga. 
+
+
+
+
+
+
+Conclusions
+
+
+
+This paper was focused on the role of the Internet-based visual humor in the development of a separate Internet-based public sphere in China. The author used postmodernist approach to the interpretation of images circulating on the Internet and considered the images to be non-linear texts which express the public opinion and give the viewer understanding of what is topical in the society. The fact that China pursue a policy, which does not give space for free discussion on political topics, and enforces Internet security regulations, allows the emergence of new ways for the spread of discussions and sharing opinions through unconventional types of communication such as through user-edited visual content. 
+
+The debates about the possibility of the emergence and development of a public sphere in China have been very topical since the 60’s; however, most of the popular interpretations of the concept of public sphere were based on its interpretation by Habermas. Habermas saw rational debate on the private issues that are significant for the whole society due to their relation to the whole social environment of a state as the key characteristic that defined public sphere, and the influence which the result of such a discussion has on the state’s policy would be the main criterion of the identification of the public sphere in a state. However, later the sociological understanding of the public sphere changed as the concept of Habermas started to be considered a normative one, while it was considered that there is a possibility of the development of a distinctive type of public sphere in any separate society. The distinctiveness of a public sphere would be determined by the political culture of a society and its historical background.  The most recent interpretations, including the one by Nancy Fraser, imply the simultaneous existence of several public spheres that can be contradictory to each other and not always aiming at promoting changes in the actual policy of the state or at least influencing the government, on the contrary, Fraser thinks that for some public spheres the aim is its existence as a platform for discussion and sharing of opinions. This concept was adopted as a main theoretical basis for the current research, since the Chinese political tradition and the current state of Chinese legislation does not allow the constant direct influence of the people on the governmental decisions. 
+
+Under the conditions of restricted freedom of speech, the Chinese have found another platform for the discussion which, from Fraser’s point of view, facilitates the development of an independent public sphere. This platform is the Internet. Introduced to China in 1989, it only became widespread in the beginning of the new century; however, we still cannot say that the Internet is available to everybody in the country. However, those who do have the access have found it quite useful for the dissemination of ideas, discussion of popular issues and even criticism of the existing political situation and the government. The main breakthrough which made this development possible was the introduction of Web 2.0 architecture, which put the users’ participation in the formation of the cyberspace in the center and did not require the users to provide their personal information, thus making their participation anonymous. The Chinese government’s response in the form of censorship regulations, on the one hand, introduced as the necessity for the protection of personal information of users, but on the other hand, providing a legal basis for restricting certain types of politically sensitive information from being freely spread among the users, put an end to the illusive freedom of speech. However, the fact that only automatic textual analysis has been very well developed by now and other types of content place greater obstacles for the programmers, the Internet users resorted to a more elaborate form of communication – visual. Although image recognition is one of the rapidly developing spheres of IT at the moment, the amount of this type of content posted on the Internet every hour and the peculiarities of visual type of information do not allow automatic programs to recognize and delete the necessary information from the web immediately, which gives the information time to spread. 
+
+The analysis of the statistical data indicated the current state of the Internet development and coverage in China. A typical user of the Internet in China is an urban resident, 20-29 years old, most likely a student, who uses Internet both from the PC and from the mobile phone with a camera, and therefore can update information as soon as any changes happen. The statistics also indicated that the most popular type of content is images, and therefore the speed of their spread among the users is the highest. The most popular way of sharing any type of content is currently microblogging services and instant messaging applications. While for the registration in these types of services it is, according to the latest updating of the NPC Standing Committee Decision concerning Strengthening Network Information Protection, obligatory to provide personal information, and therefore all the information posted by the users through the service can be traced back to the initiator, as the services have terms of use based upon the Internet regulation laws. However, this still allows the users some time before their posts might get deleted, and therefore images are getting more and more popular as the alternative to verbal way of communication and discussion. 
+
+Images are conventionally used as illustrative material for verbal knowledge, however, according to the postmodernist philosophy; an image can be considered a text with several layers of meaning. For the understanding how this works in case of alternative communication in social networks and microblogging websites, the author conducted analysis of visual content published in Weibo microblogging service during 2013-2014, with part of the sample being uncensored, and another part being deleted from the network due to censorship scrutiny, and uncovered through the independent services monitoring the process of posts deletion in Weibo. The analysis was conducted according to three dimensions: semiotic, structural and discursive. The results of the analysis revealed the most popular tools which are used by the users editing visual content for further distribution, and showed the difference in the tools choice for the uncensored and censored images. The tools include the use of icons, indices and symbols, with symbols use being more frequent in the group of uncensored images, while indices are the most popular tool for meaning expression in both groups. The use of punctum is much higher in the group of uncensored images, which suggests that the punctum can be used as a distracter of attention from the details which constitute the whole meaning. 
+
+Content analysis revealed that the uncensored pictures are more society-oriented, while deleted pictures are more politics and person-oriented, which explains the reason for their deletion.  Both groups express criticism towards officials; however, they do it in different forms, with the deleted ones being more person-oriented and offensive. 
+
+The tasks that were stated in the beginning of the research were completed. All in all, the introduction of visual humor into the cyberspace and the development of users’ editing allowed the broader-scale spread of ideas among the most socially active groups of population. Although the images cannot represent the opinions of rural residents, they can be interpreted as representations of a public opinion, and their distribution among the users indicates the users’ agreement with the opinions expressed, and therefore visual humorous content should be considered a factor of a separate Internet-based public opinion development, which proves the hypothesis stated in the beginning.
+
+The analysis conducted in the current research has one significant drawback: lack of technical support for the creation of its own sample. Due to inability to track the deleted and popular posts with images online, the author turned to the analysis of already existing compilations, which could not be considered fully representative, as they were gathered by the Western companies. 
+
+However, the future development of the topic will allow further research of verbally non-revealed public opinion and to form the patterns and conditions for the deletion, and therefore understand the Chinese system of censorship better.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Primary and Secondary Sources
+
+
+
+Primary Sources
+
+Central People’s Government of the People’s Republic of China. National People’s Congress Standing Committee Decision concerning Strengthening Network Information Protection (in Chinese). http://www.gov.cn/jrzg/2012-12/28/content_2301231.htm (accessed May 5, 2014).
+
+China Digital Times (CDT) portal’s Drawing the News section. http://chinadigitaltimes.net/china/drawing-the-news/ (accessed May 29, 2014).
+
+China Internet Network Information Center (CNNIC). The 27th Statistical Report on Internet Development in China, January 2011. http://www1.cnnic.cn/IDR/ReportDownloads/201209/P020120904420388544497.pdf (accessed April 15, 2014).
+
+China Internet Network Information Center (CNNIC). The 28th Statistical Report on Internet Development in China, July 2011. http://www1.cnnic.cn/IDR/ReportDownloads/201209/P020120904421102801754.pdf (accessed April 15, 2014).
+
+China Internet Network Information Center (CNNIC). The 29th Statistical Report on Internet Development in China, January 2012. http://www1.cnnic.cn/IDR/ReportDownloads/201209/P020120904421720687608.pdf (accessed April 15, 2014).
+
+China Internet Network Information Center (CNNIC). The 31st Statistical Report on Internet Development in China, January 2013. http://www1.cnnic.cn/IDR/ReportDownloads/201302/P020130312536825920279.pdf (accessed April 15, 2014).
+
+China Internet Network Information Center (CNNIC). The 32nd Statistical Report on Internet Development in China, July 2013.  http://www1.cnnic.cn/IDR/ReportDownloads/201310/P020131029430558704972.pdf (accessed April 15, 2014).
+
+China Internet Network Information Center (CNNIC). The 33d Statistical Report on Internet Development in China, January 2014.  http://www1.cnnic.cn/IDR/ReportDownloads/201404/U020140417607531610855.pdf (accessed April 15, 2014).
+
+Ministry of Public Security of the People’s Republic of China. Decree of the State Council of the People's Republic of China (No. 292) (in Chinese), September 2000. http://www.mps.gov.cn/n16/n1282/n3493/n3778/n492863/493177.html (accessed May 1, 2014).
+
+Information Office of the State Council of the People's Republic of China. The Internet in China, White Paper, June 2010. http://www.china.org.cn/government/whitepaper/node_7093508.htm (accessed April 21, 2014)
+
+National Bureau of Statistics of China. National Data. http://data.stats.gov.cn/ (accessed April 20, 2014).
+
+ProPublica Newsroom Home Page. http://www.propublica.org/ (accessed May 29, 2014).
+
+Weibo Corporation. List of Violations, Microblogging Community Management Regulations (Trial) (in Chinese). http://service.account.weibo.com/roles/guiding (accessed April 29, 2014).
+
+WeiboScope Social Media Data Collection and Visualization Project Home Page. http://weiboscope.jmsc.hku.hk/ (accessed May 29, 2014).
+
+
+
+
+
+
+
+
+
+
+
+Secondary Sources
+
+Chong Woei Lian. China's Great Proletarian Cultural Revolution: Master Narratives and Post-Mao Counternarratives (Asia/Pacific/Perspectives). New York: Rowman & Littlefield Publishers, 2002. 432 p.
+
+Collins M. China’s Confucius and Western Democracy // Contemporary Review, 2008. – Vol. 290. – P. 161-172.
+
+Downey J., Mihelj S. Comparing Public Spheres: Normative Models and Empirical Measurements // European Journal of Communication, 2012. – Vol. 27 (4) – P. 337-353.
+
+Favero P. Learning to Look Beyond the Frame: Reflections on the Changing Meaning of Images In the Age of Digital Media Practices // Visual studies, 2014. – Vol. 29, No. 2. – P. 166-179.
+
+Fraser N. Rethinking the Public Sphere: A Contribution to the Critique of Actually Existing Democracy // Social Text. – No. 25/26, 1990. – P. 56-80.
+
+Gong Haomin, Yang Xin. Digitized parody: The politics of egao in contemporary China // China Information, 2010. – Vol. 24 (1). P. 3-26.
+
+Hall E. Foreword // Visual Anthropology. Photography as a Research Method. – Albuquerque: The University of New Mexico Press, 1986. – P. xiii-xvii.
+
+Keane J. Structural Transformation of the Public Sphere // Digital Democracy: Issues of theory and practice. – London: SAGE Publications, 2000. – P. 70-89. 
+
+Kellner D. Habermas, the Public Sphere, and Democracy: A Critical Intervention // Perspectives on Habermas. – Chicago: Open Court, 2000. – P. 259-287.
+
+Liu Qing, McCormick B. The Media and the Public Sphere in Contemporary China // Boundary 2, 2011. – Vol. 38, No. 1. – P. 101-134.
+
+Madsen R. The Public Sphere, Civil Society and Moral Community: A Research Agenda for Contemporary China Studies // Modern China, 1993. – Vol. 19, No. 2 – P. 183-198.
+
+Neuendorf K.A., Skalski P.D. Atkin D., Jeffres L.W. Public Opinion, Media Use, and the Senses of Humor. Paper presented to the Mass Communication Division of the International Communication Association. – Boston, MA, 2011.  – 39 p. 
+
+Sparks C. Introduction:  The Panic over Tabloid News // Sparks, C., Tulloch, J. (eds.). Tabloid Tales:  Global Debates over Media Standards.  – Lanham, Maryland:  Rowman and Littlefield, 2000. – P. 1-40. 
+
+Sztompka P. Visual Sociology: Photography as a Method of Research. M: Logos, 2007. 168 p. 
+
+Taylor C. Modern Social Imaginaries. – Durham: Duke University Press Books, 2003. – 232 p.
+
+West M.D. Is the Internet an Emergent Public Sphere? // Journal of Mass Media Etics, 2013. –  Vol. 28. – P. 155-159. 
+
+Yarskaya-Smirnova E. R., Romanov P. Views and Images: Methodology, Analysis, Practice. //  Visual Anthropology. – M.: Variant, 2009. – P. 7-16.
+
+Zha Jianying. China Pop: How Soap Operas, Tabloids and Bestsellers Are Transforming a Culture. – New York: New Press, 1996. – 224 p.
+
+Zhan Meina. Philosophy on the Problem of “Work hard and get rich” // Journal of North China Institute of Water Conservancy and Hydropower, October 2010. – Vol. 26, No. 5. 
+
+
+
+Internet-based Secondary Sources
+
+Boeder P. Habermas’ Heritage: The Future of the Public Sphere in the Network Society // First Monday, 2005. – Vol. 10, No. 9. http://firstmonday.org/ojs/index.php/fm/article/view/1280/1200 (accessed March 2, 2014).
+
+Buckley C. Some of China’s Prominent Internet Voices // The New York Times, September, 2013. http://www.nytimes.com/2013/09/11/world/asia/some-of-chinas-prominent-internet-voices.html?emc=edit_tnt_20130910&tntemail0=y&_r=2& (accessed May 20, 2014).
+
+China Internet Network Information Center (CNNIC). The Internet Timeline of China 1986~2003. http://www1.cnnic.cn/IDR/hlwfzdsj/201306/t20130628_40563.htm (accessed April 2, 2014).
+
+China Internet Network Information Center (CNNIC). The Internet Timeline of China 2008. http://www1.cnnic.cn/IDR/hlwfzdsj/201306/t20130628_40563.htm (accessed April 2, 2014).
+
+Davison N. Rivers of Blood: the Dead Pigs Rotting in China's Water Supply // The Guardian, March 2013. http://www.theguardian.com/world/2013/mar/29/dead-pigs-china-water-supply (accessed May 12, 2014).
+
+Gu Pengbo. Investigation Started After Hunan Watermelon Incident // SINA News Center, July 2013. http://news.sina.com.cn/c/2013-07-18/023927698247.shtml (accessed May 20, 2014).
+
+Jiang Min. Authoritarian Informationalism: China’s Approach to Internet Sovereignty // SAIS Review, 2010. – Vol. XXX, No. 2.  – P. 71-89.
+
+Koçan G. Models of Public Sphere in Political Philosophy // Eurosphere Working Paper. – No. 02, 2008. http://eurosphere.uib.np/knowledgebase/workingpapers.htm (accessed March 10, 2014).
+
+Li Dan. The Day of National Civil Service Examinations. 1,52 Million People Trying to Get 19 Thousand of Jobs // Tianyuanwang, November 2013.  http://www.ncnews.com.cn/xwzx/xwzx/t20131124_1093794.htm (accessed May 12, 2014).
+
+Sina Weibo. Business Overview. http://ir.weibo.com/phoenix.zhtml?c=253076&p=irol-homeprofile (accessed May 2, 2014). 
+
+Wendlandt A., Denis P. Hermes says not affected by China's corruption crackdown // Reuters, UK Edition, February 2013. http://uk.reuters.com/article/2014/02/13/uk-hermes-sales-ceo-idUKBREA1C0EP20140213 (accessed May 12, 2014).
+
+Yang Deshan. Three Represents (in Chinese). News of the Communist Party of China. http://cpc.people.com.cn/GB/64162/64171/4527680.html (accessed May 12, 2014).
+
+预计数月后恢复目前暂停上传. "两高"司法解释：网络名人更需遵守网络秩序 潘石屹表态. Video published in September 2013. http://www.youtube.com/watch?v=f_fwk662_6E (accessed May 20, 2014).
+
+Zhai Yafei. Editorial: Xi’s 21-yuan Lunch: Why People Are So Fond of It? (in Chinese) //Opinion.huanqiu.com, December 2013. http://opinion.huanqiu.com/editorial/2013-12/4706371.html (accessed May 20, 2014).
+
+
+
+
+
+
+
+
+Appendix 1. Decision of the Standing Committee of the National People's Congress on Strengthening Information Protection on Networks
+
+Source: www.npc.gov.cn
+
+Date of publication:  2012-12-29
+
+
+
+全国人民代表大会常务委员会关于加强网络信息保护的决定
+
+（２０１２年１２月２８日第十一届全国人民代表大会常务委员会第三十次会议通过）
+
+为了保护网络信息安全，保障公民、法人和其他组织的合法权益，维护国家安全和社会公共利益，特作如下决定：
+
+一、国家保护能够识别公民个人身份和涉及公民个人隐私的电子信息。
+
+任何组织和个人不得窃取或者以其他非法方式获取公民个人电子信息，不得出售或者非法向他人提供公民个人电子信息。
+
+二、网络服务提供者和其他企业事业单位在业务活动中收集、使用公民个人电子信息，应当遵循合法、正当、必要的原则，明示收集、使用信息的目的、方式和范围，并经被收集者同意，不得违反法律、法规的规定和双方的约定收集、使用信息。
+
+网络服务提供者和其他企业事业单位收集、使用公民个人电子信息，应当公开其收集、使用规则。
+
+三、网络服务提供者和其他企业事业单位及其工作人员对在业务活动中收集的公民个人电子信息必须严格保密，不得泄露、篡改、毁损，不得出售或者非法向他人提供。
+
+四、网络服务提供者和其他企业事业单位应当采取技术措施和其他必要措施，确保信息安全，防止在业务活动中收集的公民个人电子信息泄露、毁损、丢失。在发生或者可能发生信息泄露、毁损、丢失的情况时，应当立即采取补救措施。
+
+五、网络服务提供者应当加强对其用户发布的信息的管理，发现法律、法规禁止发布或者传输的信息的，应当立即停止传输该信息，采取消除等处置措施，保存有关记录，并向有关主管部门报告。
+
+六、网络服务提供者为用户办理网站接入服务，办理固定电话、移动电话等入网手续，或者为用户提供信息发布服务，应当在与用户签订协议或者确认提供服务时，要求用户提供真实身份信息。
+
+七、任何组织和个人未经电子信息接收者同意或者请求，或者电子信息接收者明确表示拒绝的，不得向其固定电话、移动电话或者个人电子邮箱发送商业性电子信息。
+
+八、公民发现泄露个人身份、散布个人隐私等侵害其合法权益的网络信息，或者受到商业性电子信息侵扰的，有权要求网络服务提供者删除有关信息或者采取其他必要措施予以制止。
+
+九、任何组织和个人对窃取或者以其他非法方式获取、出售或者非法向他人提供公民个人电子信息的违法犯罪行为以及其他网络信息违法犯罪行为，有权向有关主管部门举报、控告；接到举报、控告的部门应当依法及时处理。被侵权人可以依法提起诉讼。
+
+十、有关主管部门应当在各自职权范围内依法履行职责，采取技术措施和其他必要措施，防范、制止和查处窃取或者以其他非法方式获取、出售或者非法向他人提供公民个人电子信息的违法犯罪行为以及其他网络信息违法犯罪行为。有关主管部门依法履行职责时，网络服务提供者应当予以配合，提供技术支持。
+
+国家机关及其工作人员对在履行职责中知悉的公民个人电子信息应当予以保密，不得泄露、篡改、毁损，不得出售或者非法向他人提供。
+
+十一、对有违反本决定行为的，依法给予警告、罚款、没收违法所得、吊销许可证或者取消备案、关闭网站、禁止有关责任人员从事网络服务业务等处罚，记入社会信用档案并予以公布；构成违反治安管理行为的，依法给予治安管理处罚。构成犯罪的，依法追究刑事责任。侵害他人民事权益的，依法承担民事责任。
+
+十二、本决定自公布之日起施行。
+
+
+
+
+Appendix 2. People's Republic of China State Council Order No. 292
+
+Source: http://www.mps.gov.cn/n16/n1282/n3493/n3778/n492863/493177.html
+
+互联网信息服务管理办法
+
+中华人民共和国国务院令第292号
+
+《互联网信息服务管理办法》已经2000年9月20日国务院第31次常务会议通过，现予公布施行。
+
+第一条　为了规范互联网信息服务活动，促进互联网信息服务健康有序发展，制定本办法。
+
+第二条　在中华人民共和国境内从事互联网信息服务活动，必须遵守本办法。
+
+本办法所称互联网信息服务，是指通过互联网向上网用户提供信息的服务活动。
+
+第三条　互联网信息服务分为经营性和非经营性两类。
+
+经营性互联网信息服务，是指通过互联网向上网用户有偿提供信息或者网页制作等服务活动。
+
+非经营性互联网信息服务，是指通过互联网向上网用户无偿提供具有公开性、共享性信息的服务活动。
+
+第四条　国家对经营性互联网信息服务实行许可制度；对非经营性互联网信息服务实行备案制度。
+
+未取得许可或者未履行备案手续的，不得从事互联网信息服务。
+
+第五条　从事新闻、出版、教育、医疗保健、药品和医疗器械等互联网信息服务，依照法律、行政法规以及国家有关规定须经有关主管部门审核同意，在申请经营许可或者履行备案手续前，应当依法经有关主管部门审核同意。
+
+第六条　从事经营性互联网信息服务，除应当符合《中华人民共和国电信条例》规定的要求外，还应当具备下列条件：
+
+
+
+（一）有业务发展计划及相关技术方案；
+
+（二）有健全的网络与信息安全保障措施，包括网站安全保障措施、信息安全保密管理制度、用户信息安全管理制度；
+
+（三）服务项目属于本办法第五条规定范围的，已取得有关主管部门同意的文件。
+
+第七条　从事经营性互联网信息服务，应当向省、自治区、直辖市电信管理机构或者国务院信息产业主管部门申请办理互联网信息服务增值电信业务经营许可证（以下简称经营许可证）。
+
+省、自治区、直辖市电信管理机构或者国务院信息产业主管部门应当自收到申请之日起60日内审查完毕，作出批准或者不予批准的决定。予以批准的，颁发经营许可证；不予批准的，应当书面通知申请人并说明理由。
+
+申请人取得经营许可证后，应当持经营许可证向企业登记机关办理登记手续。
+
+第八条　从事非经营性互联网信息服务，应当向省、自治区、直辖市电信管理机构或者国务院信息产业主管部门办理备案手续。办理备案时，应当提交下列材料：
+
+（一）主办单位和网站负责人的基本情况；
+
+（二）网站网址和服务项目；
+
+（三）服务项目属于本办法第五条规定范围的，已取得有关主管部门的同意文件。
+
+省、自治区、直辖市电信管理机构对备案材料齐全的，应当予以备案并编号。
+
+第九条　从事互联网信息服务，拟开办电子公告服务的，应当在申请经营性互联网信息服务许可或者办理非经营性互联网信息服务备案时，按照国家有关规定提出专项申请或者专项备案
+
+第十条　省、自治区、直辖市电信管理机构和国务院信息产业主管部门应当公布取得经营许可证或者已履行备案手续的互联网信息服务提供者名单。
+
+第十一条　互联网信息服务提供者应当按照经许可或者备案的项目提供服务，不得超出经许可或者备案的项目提供服务。
+
+非经营性互联网信息服务提供者不得从事有偿服务。
+
+互联网信息服务提供者变更服务项目、网站网址等事项的，应当提前30日向原审核、发证或者备案机关办理变更手续。
+
+第十二条　互联网信息服务提供者应当在其网站主页的显著位置标明其经营许可证编号或者备案编号。
+
+第十三条　互联网信息服务提供者应当向上网用户提供良好的服务，并保证所提供的信息内容合法。
+
+第十四条　从事新闻、出版以及电子公告等服务项目的互联网信息服务提供者，应当记录提供的信息内容及其发布时间、互联网地址或者域名；互联网接入服务提供者应当记录上网用户的上网时间、用户帐号、互联网地址或者域名、主叫电话号码等信息。
+
+互联网信息服务提供者和互联网接入服务提供者的记录备份应当保存60日，并在国家有关机关依法查询时，予以提供。
+
+第十五条　互联网信息服务提供者不得制作、复制、发布、传播含有下列内容的信息：
+
+（一）反对宪法所确定的基本原则的；
+
+（二）危害国家安全，泄露国家秘密，颠覆国家政权，破坏国家统一的；
+
+（三）损害国家荣誉和利益的；
+
+　　（四）煽动民族仇恨、民族歧视，破坏民族团结的；
+
+（五）破坏国家宗教政策，宣扬邪教和封建迷信的；
+
+（六）散布谣言，扰乱社会秩序，破坏社会稳定的；
+
+（七）散布淫秽、色情、赌博、暴力、凶杀、恐怖或者教唆犯罪的；
+
+（八）侮辱或者诽谤他人，侵害他人合法权益的；
+
+（九）含有法律、行政法规禁止的其他内容的。
+
+第十六条　互联网信息服务提供者发现其网站传输的信息明显属于本办法第十五条所列内容之一的，应当立即停止传输，保存有关记录，并向国家有关机关报告。
+
+第十七条　经营性互联网信息服务提供者申请在境内境外上市或者同外商合资、合作，应当事先经国务院信息产业主管部门审查同意；其中，外商投资的比例应当符合有关法律、行政法规的规定。
+
+第十八条　国务院信息产业主管部门和省、自治区、直辖市电信管理机构，依法对互联网信息服务实施监督管理。
+
+新闻、出版、教育、卫生、药品监督管理、工商行政管理和公安、国家安全等有关主管部门，在各自职责范围内依法对互联网信息内容实施监督管理。
+
+第十九条　违反本办法的规定，未取得经营许可证，擅自从事经营性互联网信息服务，或者超出许可的项目提供服务的，由省、自治区、直辖市电信管理机构责令限期改正，有违法所得的，没收违法所得，处违法所得3倍以上5倍以下的罚款；没有违法所得或者违法所得不足5万元的，处10万元以上100万元以下的罚款；情节严重的，责令关闭网站。
+
+违反本办法的规定，未履行备案手续，擅自从事非经营性互联网信息服务，或者超出备案的项目提供服务的，由省、自治区、直辖市电信管理机构责令限期改正；拒不改正的，责令关闭网站。
+
+第二十条　制作、复制、发布、传播本办法第十五条所列内容之一的信息，构成犯罪的，依法追究刑事责任；尚不构成犯罪的，由公安机关、国家安全机关依照《中华人民共和国治安管理处罚条例》、《计算机信息网络国际联网安全保护管理办法》等有关法律、行政法规的规定予以处罚；对经营性互联网信息服务提供者，并由发证机关责令停业整顿直至吊销经营许可证，通知企业登记机关；对非经营性互联网信息服务提供者，并由备案机关责令暂时关闭网站直至关闭网站。
+
+第二十一条　未履行本办法第十四条规定的义务的，由省、自治区、直辖市电信管理机构责令改正；情节严重的，责令停业整顿或者暂时关闭网站。
+
+第二十二条　违反本办法的规定，未在其网站主页上标明其经营许可证编号或者备案编号的，由省、自治区、直辖市电信管理机构责令改正，处5000元以上5万元以下的罚款。
+
+第二十三条　违反本办法第十六条规定的义务的，由省、自治区、直辖市电信管理机构责令改正；情节严重的，对经营性互联网信息服务提供者，并由发证机关吊销经营许可证，对非经营性互联网信息服务提供者，并由备案机关责令关闭网站。
+
+第二十四条　互联网信息服务提供者在其业务活动中，违反其他法律、法规的，由新闻、出版、教育、卫生、药品监督管理和工商行政管理等有关主管部门依照有关法律、法规的规定处罚。
+
+第二十五条　电信管理机构和其他有关主管部门及其工作人员，玩忽职守、滥用职权、徇私舞弊，疏于对互联网信息服务的监督管理，造成严重后果，构成犯罪的，依法追究刑事责任；尚不构成犯罪的，对直接负责的主管人员和其他直接责任人员依法给予降级、撤职直至开除的行政处分。
+
+第二十六条　在本办法公布前从事互联网信息服务的，应当自本办法公布之日起60日内依照本办法的有关规定补办有关手续。
+
+第二十七条　本办法自公布之日起施行。
+
+
+
+
+Appendix 3. List of Violations, Microblogging Community Management Regulations (Trial), Article 4. 
+
+Source: http://service.account.weibo.com/roles/guiding
+
+微博社区管理规定(试行)
+
+第四章违规行为界定
+
+第十四条
+
+发布危害信息。危害信息主要包括：
+
+(一) 根据现行法律法规，危害国家及社会安全的信息(简称“敏感信息”)，主要表现为：
+1. 反对宪法确定的基本原则；
+2. 危害国家统一、主权和领土完整；
+3. 泄露国家秘密、危害国家安全或者损害国家荣誉和利益；
+4. 煽动民族仇恨、民族歧视，破坏民族团结，或者侵害民族风俗、习惯；
+5. 破坏国家宗教政策，宣扬邪教、迷信；
+6. 散布谣言，扰乱社会秩序，破坏社会稳定；
+7. 宣扬赌博、暴力、凶杀、恐怖或者教唆犯罪；
+8. 煽动非法集会、结社、游行、示威、聚众扰乱社会秩序；
+9. 含有法律、行政法规和国家规定禁止的其他内容。
+
+(二) 不安全信息，包括可能对用户财产安全或信息安全造成损失的内容，主要表现为：
+1.含钓鱼网站链接的相关内容；
+2.含木马、病毒网站链接及相关内容；
+3.含潜在危险、窃取用户隐私等相关内容；
+4.影响用户体验或被大量用户举报的未经审核的外链、二维码及其他多媒体等内容；
+
+(三) 垃圾营销信息，是指以营利为目的，在与用户建立或维持关系的过程中，所产生的影响用户体验，扰乱微博社区秩序的信息和行为，其中包括垃圾信息、恶意行为和骚扰用户的营销信息，主要表现为：
+1. 从事买卖粉丝及相关业务；
+2. 从事刷评论、刷转发、刷双井号话题词、刷搜索、刷投票、刷有奖活动业务；
+3. 通过机器或软件等非人力手段对他人页面大量发送广告信息；
+4. 虚假中奖信息；
+5. 机器抓取发送的无意义内容、重复内容；
+6. 利用系统漏洞干扰微博正常秩序的行为。如：盗用他人账号、强制他人关注等；
+7. 影响用户体验或被大量用户举报的，其性质属于推销宣传推广的营销信息。
+
+(四) 淫秽色情信息，主要表现为：
+1. 淫秽：具体描绘性行为或露骨宣扬色情的诲淫性信息。
+2. 色情：露三点的图片、视频，带有色情意味、暗示、挑逗和引起他人类似感受的音频、文字。
+
+第十五条
+
+发布不实信息。不实信息主要表现为：
+(一) 整体失实：事件本身系子虚乌有。
+(二) 捏造细节：捏造细节使整个事件被扭曲。
+(三) 图文不符：通过错误的图文搭配误导他人。
+(四) 夸大事实：在描述中对事实夸大其词，误导他人。
+(五) 过期信息：将已得到解决的事件作为新消息发布，并略去已产生的结果。
+(六) 信息残缺：隐藏部分事实，以不完整的信息误导他人。
+(七) 断章取义：将部分事实加上推测作为事实发布。文艺评论不适用本条规定。
+
+第十六条
+
+用户纠纷类违规，主要包括：
+
+(一) 泄露他人隐私，主要表现为：
+1. 泄露身份信息：公开他人真实姓名及身份证号、电话号码、家庭住址。用户已公开或授权公开的除外，涉及公共利益的除外。
+2. 泄露其它信息：公开他人不愿被知悉的不危害社会的信息。如：性取向、生理及心理缺陷、财产状况、信用卡、电子消费卡、上网卡、上网帐号和密码、交易账号和密码、网上购物使用的帐号和密码、IP地址、浏览网页的踪迹或活动内容、私生活镜头以及社会关系等，他人可通过合法公开渠道得知的或涉及公共利益的除外。
+
+(二) 人身攻击，主要表现为：
+1. 侮辱：以侮辱性言论伤害他人。
+2. 诽谤：刻意捏造信息破坏他人名誉。误解不适用本条规定。
+3. 肖像篡改：修改他人肖像且令本人不能接受。
+转发他人发布的含有人身攻击内容的微博或评论，但没有继续人身攻击的，该转发微博不构成人身攻击，但接到当事人举报后可删除。
+
+(三) 冒充他人，主要表现为：通过头像、昵称、域名及各类自我说明，暗示自己与他人或机构相等同或有关联。
+
+(四) 内容抄袭，主要表现为：发布他人原创内容而不注明出处或标识转载。
+原创内容暂指首发于微博的内容，不包括修改、整合的图片等。
+
+(五) 骚扰他人，主要表现为：以评论、@他人、私信、求关注等方式对他人反复发送重复、近似、诉求相同的信息。反复是指3次及以上。
+
+(六) 认证用户身份虚假，主要表现为：
+1. 通过伪造材料、提供虚假信息，获取微博认证身份；
+2. 用户真实身份与认证身份不符。
+
+(七) 认证用户身份真实，但在微博从事的商业行为中有违规的，按照《微博商业行为规范办法（试行）》的相关规定处理。商业行为是指在微博发布有奖活动、广告信息等。
+
+
+
+
+Appendix IV. Visual and Content Analysis of Images
+
+Table 1. Uncensored Images 
+
+(source: China Digital Times, http://chinadigitaltimes.net/ )
+
+
+
+Table 2. Deleted Images 
+
+(source: ProPublica, https://projects.propublica.org/weibo/)
+
+
+
+
+
+
+
+
+
+Table 3. Deleted Images 
+
+(source: WeiboScope, https:// weiboscope.jmsc.hku.hk/)
+
+
+
+
+
+
+Appendix V. Examples of Images Analyzed
+
+
+

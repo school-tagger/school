@@ -1,0 +1,177 @@
+
+
+The main advantages may be the following:
+1. A significant increase in the speed of information processing within the company, which is an important advantage in a competitive market environment.
+2. Foundation of the unified information space of the enterprise, which significantly reduces the risk of information loss.
+3. Considerable resource savings as there is no need to spend money on paper, messenger service, and a large clerical staff.
+4. Broadened options of document processing as text editing and amending is simplified, multimedia content may be added, and ready-made forms can be used.
+5. Improved quality of control over the document flow by creating a transparent system, as well as through the introduction of security features (passwords, access codes, etc.)
+
+Thus, it is obvious that, at present moment, electronic document flow systems are necessary for a company aiming at developing and becoming leader in its market sector.
+
+     Moreover, we can conclude that the subject of the study is suggested by the circumstances, by the economic and social conditions that have been established in business by now. And the development of a project for a particular business enterprise is a very important and urgent task. 
+
+     According to analysts, more than 50% of the document flow of enterprises and organizations, especially small and medium business structures, is still stored in unstructured hard copies. 
+
+     However, it is obvious that the current system of electronic document flow is necessary for companies aimed at growth, development, and market leadership.
+
+
+
+
+Chapter 2. Description of selected companies Description of selected companies
+
+The two companies selected, namely OOO (cf. LLC or Ltd.) “Plast” and OOO (cf. LLC or Ltd.) “Prof”, further “Plast” and “Prof”, can be referred to as small businesses. The companies can be viewed from different angles.
+
+2.1 Pattern of ownership 
+
+The ownership pattern of these companies is OOO (cf. Limited Liability Company). Both are established by an individual business entity, whose charter capital is divided into shares. The company shareholders are not liable for its obligations but bear the risk of losses associated with the company operations though the value of those losses should not exceed the cost of their shares in the company’s charter capital. Thus, this pattern of ownership proves to be the most convenient for manufacturing companies.
+
+2.2 Sectorial branch
+
+     The sectorial branch of the companies analyzed is consumer goods industry. The “Plast” produces polycarbonate while the “Prof” produces metalware. 
+
+2.3Company size
+
+As for the size of these companies, they can be classified as small businesses. The personnel of the “Plast” have 38 employees, and the “Prof” has 73 staff members. As for the organization structure, it can be said that both of these companies belong to the hierarchical structure that is seen in the following charts.Alpha
+
+Alpha
+
+
+
+
+
+Chart 1 Organization structure of  “Plast”
+
+
+
+Chart 2 Organization structure of “Prof”
+
+
+
+The two charts above present the organization structures of the “Plast” and  “Prof”. It can be seen that both companies have a hierarchical structure, and each department has a chief manager and subordinate employees. More detailed charts can be found in the original graduate thesis by Arthur Drab. 
+
+2.4 Resources used 
+
+The first company to be analyzed is the “Prof”. This company uses both raw material resources (rolled steel, lubricants and other materials) and human and information resources. The purchase department is responsible for procurement. Once the raw materials are delivered, they go to a warehouse and are inspected by a stock control clerk. 
+
+As for the second company under analysis, the major resource of the “Plast” is polycarbonate granules packed in large bags. Besides, the company uses other materials used for equipment maintenance. As any modern enterprise, they also utilize information and human resources. 
+
+2.5 Location
+
+The companies “Plast” and “Prof” are parts of the “Komplekt” group. Moreover, the “Plast” has a retail store chain. The “Prof” and the “Plast” are set within the territory of one manufacturing unit located outside the region's capital city. The chain stores of the “Plast” are located both in the capital city, which is also home of the manufacturing unit itself, and other cities of the region. 
+
+
+
+
+2.6 Current document flow
+
+Currently, the greater part of the document flow is made by handing over written or printed documents within the companies described. As one can see, this makes the work too complex, and, what is the most important, seriously increases the length of the transaction conducting period. 
+
+At present moment, these companies have two information systems unconnected with each other. Each warehouse uses «1C: Sklad (Warehouse)», while the accounting department uses «1C: Buhgalteria (Accounting department)». The information system, though first implemented by both companies about two years ago, has failed to function effectively. 
+
+All stock control clerks have been trained to use the «1C: Sklad». The warehouse and the accounting department interact by transferring printed documentation now. The same principle is used for interaction between the warehouse and other departments at both companies, i.e. the “Prof” and the “Plast”. 
+
+As for the accounting departments, since the same staff of employees work for both companies, they use two separate copies of the «1C: Buhgalteria» program. 
+
+The two companies run their business so, that all departments are constantly interacting with one another. A lot of documents daily go from top managers (department heads) to factory workers and back. 
+
+Naturally, because the document circulation is done by hand, each stage of document processing takes a long time. Moreover, that distracts people from their work, not to mention a lot of funds daily spent on stationery. It raises a problem of necessary control over conducting transactions and also giving instructions and reports inside the company. 
+
+
+
+Chapter 3. Sector under review  
+
+The object of this investigation is the market of various electronic document flow systems existing in Russia. Hundreds of companies all over the world make such applications, and the most well-known of them are, for example, the ACS Software, Adobe,  Documentum, SAP, IBM, Microsoft, Oracle  etc.
+
+The Russian market employs a number of world-famous brands (e.g. Documentum, DOCS Open/Fusion, SAP, IBM, Microsoft, Oracle , Lotus Notes etc.) as well as home-made systems such as BOSS-REFERENT (IT), Kodeks, Dokumentooborot (consortium “Коdeks”), Гран-док (Granit), Evfrat (Сognitive Technologies), Delo (EOS), LanDocs (Lanit), 1С:Dokumentooborot and 1С:Arhiv, Tsirkular and Visual DOC (TsentrInvest Soft), Document-2000 (TelcomService) and some others. 
+
+The analytical survey of that market shows that the option 1C is the most effective one for a small manufacturing business as most of the employees have been trained to work with that information system. Besides, the companies  described have already purchased  the program  «1С:Predpriyatie (Enterprise) 8.0».
+
+«1С:Predpriyatie (Enterprise) 8.0» for organizations and individual persons includes a platform and platform-based applications. The platform adjustability makes it possible to apply «1С:Predpriyatie (Enterprise) 8.0» in a variety of cases:
+
+automatization of manufacturing and trading businesses, state-funded and financial organizations, service facilities etc.;
+
+operative business administration support; 
+
+automatization of organization and business activities; 
+
+handling book keeping with several account plans and discretionary  accounting measurements, regimented recording; 
+
+increased opportunities in management reporting and  analytical recording, multicurrency accountancy support; 
+
+conducting planning, budgeting, and financial analyses; 
+
+doing payroll job and personnel workforce management; 
+
+others.
+
+The company «1С» produces mass-market applications, intended for automatization of standard accounting and management tasks in real economy commercial enterprises and state-funded organizations. Each program product combines standard solutions (shared by all or several programs) and specific features of a particular industry sector or a line of business. 
+
+The world-famous auditing and consulting company PricewaterhouseCoopers gives consulting help on methodological aspects of managerial and financial reporting and International Financial Reporting Standards (IFRS). 
+
+
+
+
+
+
+Conclusion. Expected results 
+
+Speaking of the results expected, it is worth mentioning that this graduation thesis aims at developing a project on implementing the information system under study in the work of the “Komplekt” group, consisting in its turn of the “Prof”, the “Plast”, and a retail store chain. Further on, recommendations on the information system implementation procedure itself will be given. 
+
+ 	After the information system implementation, the holding company's work is expected to considerably improve in the following ways. First of all, the document handling rate will increase. Next, the staff administration and control (i.e. administration and control functions) is going to become more effective. Finally, the stationery expenses are going to get a lot lower by the end of a quarter period. 
+
+Moreover, the company's IT expenses are also going to lessen after certain system adjustments. Besides, a total remote control over the company's work as it is possible to utilize web-interfaces. 
+
+On completion of the analysis of all company's business activities, some of those business activities are likely to be modified to make the company's work more effective. The major results of this thesis on Information system implementation at an enterprise may be of great value in order to shape the working process and improve the reporting layout. There will be an opportunity to install widgets displaying the major data about each company in the real-time mode. 
+
+In conclusion it can be said that the major advantage of the information system implementation in the work of the “Komplekt” group is an overall performance optimization in both the group itself and each of its branches. The information system will also enable to make a more clearly arranged analysis of the company's work in order to make the right managerial decisions. 
+
+
+
+
+
+
+References/ Sources
+
+Березина Н. М., Воронцова Е. П., Лысенко Л. М. Современное делопроизводство. 2-е изд. -- СПб.: Питер, 2007. (Серия «Современный офис-менеджмент»). С. 119 - 138.. 
+
+Ватолина М.В. Организация работы с документами / Серия «Высшее образование». Ростов н/Д: Феникс, 2004. С. 76 - 116.. 
+
+Глинских А. Мировой рынок систем электронного документооборота // http://www.iteam.ru/publications/it/section_64/article_2582/#3
+
+Кирпичников М. От биотехнологий – к биоэкономике. Лекция.//Проект «Academia». Канал «Культура». 21.10.2010.
+
+Кирсанова М.В. Аксенов Ю.М. Курс делопроизводства: Документационное обеспечение управления: Учеб. пособие. 6-е изд., испр. и доп. М: ИНФРА-М; Новосибирск: Сибирское соглашение, 2007. С. 276 - 289.
+
+Кузнецова Т.В. Документооборот и его анализ // Секретарское дело. 2003. № 3. С. 15.. 
+
+Пшенко А.В. Делопроизводство: Документационное обеспечение работы офиса: Учеб. пособие для студентов учреждений среднего профессионального образования. - М.: Мастерство, 2002. С. 110 - 116.. 
+
+Янкович Ш.А. «Менеджмент организации» - М.: ЮНИТИ-ДАНА, 2006. С. 107 - 116..
+
+Янковская В.Ф. Правила организации документооборота. //Справочник секретаря и офис-менеджера. 2005. № 7 с.12 - 15.. 
+
+«Внедрение системы электронного документооборота «Дело» в администрации города Подольска»                                                                               http://www.sfx-tula.ru/news/solution/3497
+
+«1С: Управление производственным предприятием 8»                                http://www.lab.ru/upp/erp.php
+
+ERP-системы: трудности выбора и внедрения // «Энергополис», № 7-8,  2012 год.
+
+«Обзор систем электронного документооборота» // коллектив авторов // журнал «IXBT.com»,  20 декабря 2011//                                      http://www.ixbt.com/soft/sed.shtml
+
+«Системы электронного управления документами: обзор, классификация и оценка возврата от внедрения»                                                             http://www.iteam.ru/publications/it/section_64/article_2712/                                   
+
+Учебник/ Под ред. Проф. Кудряева В.А. 2-е изд., перераб. И доп. М.: ИНФРА-М, 2003. (Серия "Высшее образование"). С. 152 - 178..
+
+ Учебное пособие (для студентов экономического факультета) / Сост. Сиганова Т.В. - Омск: Омск. гос. ун-т, 2004. С. 51 - 56..
+
+ Распоряжение Правления ПФР № 190р от 11.10.2007 г. «О внедрении электронного документооборота в системе индивидуального (персонифицированного) учета для целей обязательного пенсионного страхования»
+
+Федеральный закон от 6 апреля 2011 г. N 63-ФЗ "Об электронной подписи", с изменениями и дополнениями от: 1 июля 2011 г., 10 июля 2012 г.
+
+Федеральный закон № 1-ФЗ от 10.01.2002 г. «Об электронной цифровой подписи» 
+
+
+
+
+

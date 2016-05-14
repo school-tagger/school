@@ -1,0 +1,1559 @@
+Правительство Российской Федерации
+
+
+
+Федеральное государственное автономное образовательное учреждение высшего профессионального образования 
+
+
+
+Национальный исследовательский университет 
+"Высшая школа экономики"
+
+
+
+Факультет  философии, отделение востоковедения
+
+
+
+Магистерская диссертация
+
+
+
+Китайские зарубежные инвестиции и государство: подход эклектической парадигмы Даннинга
+
+
+
+
+
+                Студент  группы  МА-2
+
+                                          Ерзин Р. А.
+
+
+
+                   Научный руководитель
+
+          к. э. н., Шапошников С. В.     
+
+
+
+
+
+
+
+
+
+
+
+
+
+Москва, 2014 г.
+
+
+
+Government of the Russian Federation
+
+
+
+National Research University Higher School of Economics
+
+
+
+Faculty of Philosophy, School of Asian Studies
+
+
+
+
+
+MASTER’S THESIS
+
+
+
+Chinese Outward Investment and the State: the OLI Paradigm Perspective
+
+
+
+
+
+Written by
+
+    Erzin Rostislav
+
+Group MA-2
+
+
+
+Supervisor
+
+Ph.D.,
+
+Shaposhnikov Sergey
+
+
+
+
+
+Moscow, 2014
+
+Contents
+
+Introduction       	4
+
+Part 1 - General description of FDI	7
+
+Part 2 – Theoretical background	13
+
+Part 3 - Rise of Chinese ODI since the early 2000-s	28
+
+Part 4 – State policies related to outward investment	47
+
+Part 5 – S&T infrastructure development	55
+
+Part 6 - The share of investments in created assets in the total number of ODI	69
+
+Part 7 - Chinese ODI from the perspective of the OLI paradigm	87
+
+Conclusion	91
+
+Abbreviations	95
+
+Charts, graphs, histograms, diagrams	96
+
+References	98
+
+Sources                                                                                                                  107
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+This paper is devoted to the topic “Chinese ODI and the State: the OLI Paradigm Perspective” and is aimed to define the nature of the state-company interaction in the context of the Chinese outward investment. The main points are that the Chinese government may intensify economic development by pursuing two main kinds of policies, – shaping the direction of outward investment and establishing domestic S&T structure, - being a leader on the initial stage. Thus, the subject of the study is the Chinese ODI, while the object is the state-company interrelation from the perspective of the OLI paradigm, chosen as the basic theoretical approach.
+
+Considering the fact that Chinese ODI is a new phenomenon in the global economy and its nature is still ambivalent, researches over the issue are not complete, especially in the area of the role of state in the ODI. But the very trend of rising ODI is very significant both for the Chinese and global economy, and the developments in this sphere may have strong influences on both domestic and foreign economies. Furthermore, new data over the issue is continuously emerging, showing volatile structure, rapid changes and new trends. That is why underlying reasons behind this trend should be more clear for academic, business and political communities and further elaborations and researches are critically in need. 
+
+There are following aims, posed in the given paper:
+
+1. To define FDI as a phenomenon and major theoretical approaches to it, their advantages and disadvantages; 
+
+2. To define major features and trends in the overall pattern of Chinese ODI;
+
+3. To define main features of the Chinese S&T structure;
+
+4. To depict current place of created asset-seeking ODI and its possible future developments by defining its importance for the Chinese economy in general and current trends in particular;
+
+5. Based on these findings to elaborate on the issue of the state-company interaction in boosting ODI as a major tool of rising national competitiveness.
+
+According to the aims the structure of the paper is constructed. First, the general description of FDI and theories related to it are explicated. Second, the general structure, main trends, obstacles of Chinese ODI are described. Third, Chinese S&T policy and private companies’ aspirations for new technologies are shown. Forth, created asset-seeking investment are depicted on two different levels, – large as well as small and medium enterprises, because the data is different for these two scales, - their dynamics, features and possible future developments. Fifth, the link between the state and companies is considered from the perspective of the OLI paradigm. 
+
+The basic research methodology used in the paper is qualitative research which is based on the data taken from various surveys, statistical databases and calculations, as well as on analyzing corresponding state policies. Through the assessment of the current developments in China’s outward investment pattern, S&T and policies facilitating domestic companies’ internationalization the major assumptions of the paper are proposed.
+
+The historical framework of the research is as it follows - the starting point for the processes and trends, depicted in the given paper, is the outset of the 21th century, as the most of them have manifested exactly in this time being quite recent. That is why any previous dynamics are just slightly considered.
+
+The literature on the theory if foreign investment is immense, as the first researches over the issue emerged in the 1920-s. In the course of time different approaches were emerging, interacting with one another and developing along with the development of the very phenomenon of foreign investment. To date there are several viable theoretical explanations, among which the OLI paradigm designed by Dunning J. was chosen as the most appropriate. His book “Multinational Enterprises and the Global Economy” reveals the final revision of his theorizing and is actively used throughout  the paper along with a number of his other articles which shed light the given approach. Besides, special attention was paid to the miscellany called “Foreign Direct Investment and Governments: Catalyst for Economic Restructuring” edited by Dunning and Narula, where the concept of the investment development path is fully elucidated.
+
+The literature over the issue of Chinese ODI is not rare and there are many researches dealing with it. But the problem is many of them are quite general in their nature, and only a few deal with concrete facets of Chinese ODI phenomenon from any theoretical perspective. The most important authors are Wang B. “Upgrading China's Economy through Outward Foreign Direct Investment”, Wang B., Wang H. “Chinese Manufacturing Firms' Overseas Direct Investment: Patterns, Motivations and Challenges” and OECD surveys “Investment Policy Reviews - China”, “Reviews of Innovation Policy – China”, which provide with very important findings, data, assessments and interpretations. Besides, a research by Zhou N. et al. “Overview of Current Energy Efficiency Policies in China” was used to describe environmental policies in China, which seem to be crucial in the context of the overall technological development.
+
+For statistics different sources were used: the Heritage Foundation data (where only the investments over 100 million USD level are considered), UNCTAD, MOFCOM, ”China's Science and Technology Statistics“ and a survey of SMEs “China Goes Global 2011”, “China Goes Global 2013” which provide very unique and interesting data related to small and medium enterprises and therefore deserve special attention.
+
+
+
+
+
+
+
+
+
+1. General description of FDI
+
+   Foreign direct investment is a phenomenon inherent to the general process of globalization and its influence on the economic structures of different countries is becoming more and more prominent. That is why academic, business and political communities are paying more and more attention to these issues, seeing it as a tool to improve the understanding of the global economy, to increase profits or to further update national economy.
+
+
+
+   a. Definition of FDI and main actors
+
+According to the OECD definition, FDI or “foreign direct investment reflects the objective of establishing a lasting interest by a resident enterprise in one economy (direct investor) in an enterprise (direct investment enterprise) that is resident in an economy other than that of the direct investor”. This kind of transaction means that the former obtains at least 10% of the voting power in the decision making of the latter and is also related to reinvested earnings and inter-company debt. This kind of investment is to be distinguished from the so-called portfolio investment, which are usually directed to buying up financial assets such as bonds, stocks, etc., and are usually less in the amount of the capital invested (under the threshold of 10% voting power) . 
+
+Evidently, the main agents are internationalizing companies, which are referred as MNEs (i.e. multinational enterprises) in the related literature. That is why most of the analytical papers concerned to the issues of foreign investment deal with these entities as the main objects of analysis. They are generally referred as “companies or other entities established in a more than one country and so linked that they may co-ordinate their operations in various ways”. John Dunning, a distinguished scholar in the field, gives a similar definition - “a coordinated system of value-added activities, the structure of which is determined by the hierarchical costs of production, the market costs of exchange and the interdependence of production and exchange relations”(Dunning, Lundan, 2008b, p. 120). The degree of subsidiaries’ autonomy of the parent companies may vary from one such entity to another, but they are expected to co-operate and support one another. 
+
+
+
+b. Major types of FDI and “Knowledge Capital” model
+
+Despite some disputes among concerned analysts, there are two main types of FDI usually distinguished: 
+
+1) Horizontal FDI – MNE enters a foreign market to produce and sell the same goods as in the domestic market by establishing or buying up plants in the host country. Two factors are crucial for this kind of FDI to happen: presence of positive trade costs and firm-level scale economies, which stipulates the priority of local production over transportation from the home country. It’s also noteworthy that this kind of FDI usually takes place among countries similar in size and factor endowment (Protsenko, 2003, p. 16-19);
+
+2) Vertical FDI – MNE needs a foreign subsidiary to optimize the production chain by supplying certain intermediate goods, raw materials or to produce the final product and production stages are conducted one by one. The major motive underlying this type of FDI is that different parts of the final goods have various production costs among countries due to their comparative factor endowments. That is why it might be profitable to place certain stages of production in other countries. Like aforementioned type of FDI, it can also be considered as a certain trade-off between costs and benefits (Protsenko, 2003, p. 19-22).
+
+The boundaries between these two types are rather obscure and in an attempt to incorporate them into holistic explanation the so-called “Knowledge Capital” model was proposed by Markusen (Markusen, 1996). As it can be seen from the figure below, the boundaries of horizontal and vertical FDI are not strict, but it is evident that the former dominates in countries with similar endowments, while the latter in countries with different ones. At the same time, there are areas in the figure where both types can occur together due to moderate differences in endowment which are knowledge-based, as it can be seen from the figure (unskilled vs. skilled labour).
+
+ 
+
+Figure 1. Vertical and Horizontal FDI in the KC-model
+
+Source: Protsenko A. Vertical and Horizontal Foreign Direct Investments in Transition Countries. PhD thesis. Ludwig-Maximilians-Universitat, Munich - 2003. P. 24.
+
+Nevertheless, the role of vertical investment in the model has been questioned by some analysts and the disaggregated level approach was proposed. For example, Görg H. and Geishecker I. noted, that in the previous empirical estimations of them in the given hypothesis the data on vertical FDI was misspecified (Carr, Markusen, Maskus, 1998), and hence there was in fact significant lacuna, which could be addressed by looking separately at different sectors. The authors show that by investigating apart service and manufacturing sectors helps to avoid this misspecification due to the tangibility of the final products – vertical investments conceptually are more appropriate for the latter (e.g. when a company moves certain parts of its production cycle to an unskilled labour abundant country, while its headquarters stay in the comparatively skilled abundant home country), while horizontal - for the former (Görg, Geishecker, 2005, p. 3-7).
+
+
+
+c. Underlying motives and modes of implementing FDI
+
+It is broadly acknowledged among scholars to point out four major types of MNE activities, as Dunning and Lundan show in their book “Multinational Enterprises and the Global Economy”:
+
+1) Natural resource seekers – these enterprises are inclined to internationalize in order to acquire specific resources which are absent, worse in terms of quality or more expensive on the domestic market. Three main types of resource seekers are distinguished: physical resource seekers, cheap and well-motivated unskilled or semi-skilled labour seekers and, finally, seekers of technological capability, management or marketing expertise and organizational skills. 
+
+2) Market seekers – such companies invest in a particular country or region to supply goods or services to markets in these or in adjacent countries. The main motive here is either to sustain or protect existing markets or to explore new ones. Inter alia, unlike other types, market-seeking MNEs are prone to give high level of autonomy to their foreign subsidiaries, which ensures that the latter might be much more responsive to the local needs and preferences of the customers.
+
+3) Efficiency seekers – the main point of this type of investment is to rationalize the structure of established resource-based and market-seeking investment and to benefit from different factor endowments, formal and informal institutions, demand patterns, economic policies and market structures. 
+
+4) Strategic asset seekers – enterprises of this kind undertake FDI to obtain desired assets of foreign companies in order to promote their own strategic objectives, which usually are sustaining and improving competitiveness. Such activity is usually geared to acquire physical assets and/or human competences, so that these companies could prevail over their rivals. It may take the form of diversification of the activities which the company is engaged in or diversification of the environment the company is operating in (Dunning, Lundan, 2008b, p. 61-72). 
+
+In addition, other additional motives are noted by related analysts, such as escape investments (geared to avoid restrictive legislation or macro-organizational policies of home country), support investments (aimed to improve the activities of the rest of the enterprise) and passive investments (more specific to portfolio investment and are undertaken to earn profits or to gain capital appreciation) (Dunning, Lundan, 2008b, p. 72-74). 
+
+There are four major types of entry modes usually used in the related literature:
+
+1) purchase/sale of existing equity in the form of mergers and acquisitions (M&A) –purchasing or selling of the existing equity;
+
+2) greenfield investments – investments geared to establish a new foreign subsidiary from scratch;
+
+3) extension of capital – additional new investments as an expansion of the established business;
+
+4) financial restructuring – designed for debt repayments and loss reduction.
+
+The first two entry modes are of the most relevance and according to the latest UNCTAD World Investment Report are of roughly the same level, though the dynamics of the others is larger. 
+
+
+
+d. Conclusion
+
+On sum, there are different kinds of investments, which are geared to achieve various purposes, – from ensuring resource safety to enhancing technological capabilities, - that is the main point, why they are undertaken. Thus, the way of exploring global markets heavily depends on the precise purposes of companies – they may prefer to merge with other enterprises, acquire equities or build a completely new plant abroad and adjust the organization of investment according to it (be it vertical, horizontal or mixed).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Theoretical background
+
+There are different theoretical approaches to explain FDI and till nowadays no consensus among the scientists has been achieved over the issue. Even more so, applied to the case of China numerous scholars acknowledge that the explanatory power of the existing theories is not sufficient, and that is why new developments are necessary. Nevertheless, some analysts are using various theoretical approaches, which can be used in at least partial explanation of the Chinese ODI phenomenon, while the bulk of papers is rather descriptive in its nature.
+
+   a. General theoretical framework of foreign investment activities
+
+   As John Dunning noted, concerned scholars are pursing the answers on differently posed questions, for example: “Why do firms own foreign production facilities?“, “Why do firms locate their activities in one country rather than another?”, “What specific attributes demarcate MNEs from uninational enterprises?”(Dunning, Lundan, 2008b, p. 78). The essence of various theories depends on the nature of the original question, and that is the reason why different theories can be found in the field of FDI.
+
+Consequently, the very level of analysis may differ as well – political economists are trying to explain the general pattern of FDI in the world (e.g. by deriving it from the development of capitalism); scholars investigate macroeconomic perspective of MNE activity, where the country level of analysis plays the major role; analysts interested in the behavior of individual enterprises; researchers addressing the question of why certain companies are more capable to explore foreign markets than their counterparts and why they are willing to get control over value-added activities abroad (the leading theory here is that developed by John Dunning); and, finally, students concerned with the main factors determining decision-making process within distinct companies (Dunning, Lundan, 2008b, p. 77-79).
+
+The process of the theorizing on FDI has a comparatively long history starting in the 1920-s. Since then prominent contributions have been made by different scholars like Hymer, who touched the issues of market failure, ownership advantages (Hymer, 1976), Vernon who introduced the theory of product life-cycle (Vernon, 1966, p. 190-207), risk diversification hypothesis, macro-financial and exchange-rate theories, and the Uppsala model. Besides these rather specific explanations, there are three so-called general approaches – internalization theory, the OLI paradigm and a macroeconomic approach to the understanding of MNE activities (Dunning, Lundan, 2008b, p. 80-114). Berning and Holtbrügge chose a representative sample of articles over the issue of the Chinese outward investment and counted the frequency of applying different theories, as it can be seen from the histogram below. 
+
+
+
+Figure 2: Frequency of Applying Different Theoretical Approaches to the Chinese ODI
+
+Source: Berning S. C., Holtbrügge D. Chinese Outward Foreign Direct Investment – a challenge for traditional Internationalization theories? – 2012.
+
+
+
+
+
+b. The rationale of applying the OLI paradigm and other theoretical approaches
+
+ The OLI paradigm seems to be the most popular among different theories, it encompasses a huge variety of variables influencing internationalization phenomenon, as it is shown in the next section. And it is exactly because of the comprehensiveness and generalizability, ability to show the whole picture of factors influencing international investment that this approach was chosen to underlie the explanation of Chinese ODI by many specialists. Nevertheless, there is critique expressed by some analysts, the main point of which is that the OLI paradigm doesn’t successfully explain how Chinese enterprises being latecomers on the global market are able to compete with their foreign peers (Mathews 2006; Luo, Tung 2007), or that some additional characteristics should be added (Yiu 2010). Further in the paper it will become evident how to address these points, while in this chapter deficiencies of other major theories are described. All in all, it is still the most popular approach and the share of explanatory power satisfaction is higher according to the figure above compared to the rival theories. 
+
+Uppsala school proposes incremental internationalization of developing country companies over time, where cultural and geographic distance plays an important role. Through the accumulation of the necessary experience and capacities in familiar environment such companies begin to invest in countries with lower cultural proximity, but better opportunities to make profits (Johanson, Vahlne, 1997). Still, it was criticized by a number of scholars, as for Chinese companies it seems impossible to differentiate certain stages of development, time sequence (Young et al., 1996), nor predicted distribution among host of Chinese ODI was found (Buckley et al., 2008).
+
+Another popular approach was undertaken by Lu et. al. who proposed a rather different perspective trying to integrate and underscore the interrelatedness of the three different explanations conditioning ODI – industry-based view, institution-based view, resource-based view (Lu et al., 2010). In their explanations of the internationalization phenomenon industry-based view stresses the importance of the high industrial R&D intensity, institution-based view deals with institutional environment in which enterprises are operating (e.g. government policies, informal “rules of the game”, etc.) and resource-based view concentrates on acquired ownership advantages of companies, as well as on effective acquisition and integration of particular knowledge from abroad (Lu, Liu, Wang, 2010, 224-230). But the problem with this argument is that the determinants of investing overseas are not sufficiently explained, as there are much more factors which influence on this, like the willingness to internalize acquired capabilities, or preferential access of some companies to the resources provided by the state.
+
+Other approaches also have their limitations noted by many researchers. A macroeconomic one, proposed by Kojima (Kojima, 1982), stresses the importance of comparative advantages, but fails to explain market failures affecting investing process, or advantages related to common governance (Dunning, Lundan, 2008b, p. 108). Internalization approach (Vernon, 1966) stresses the propensity of companies to exploit their capabilities on intra-organizational level by establishing subsidiaries abroad, so that rivals couldn’t acquire their competitive advantages. It used to be popular in international business studies before, but is criticized for example for the ignorance of comparative advantages of different countries and considered primarily in the context of the OLI paradigm (Dunning, Lundan, 2008b, p. 92).
+
+On sum, it is obvious that various theories deal with the issue of foreign investment from different perspectives and each of them adds something to the general understanding of the phenomenon. But up to date the paradigm developed by John Dunning is probably the most recognized one due to its generalizability and comprehensiveness.
+
+
+
+
+
+
+
+c. OLI paradigm
+
+John Dunning noted that it is also impossible to develop an all-embracing theory to explain the phenomenon of foreign direct investment, and that is why a variety of perspectives and theories exists on different levels of analysis in the related literature. He rather proposes “super-theoretical” approach called the OLI paradigm, which is geared to explore FDI generally. The word paradigm here is referred as Kuhn defined it – ‘a disciplinary matrix’, which can be considered as a thought pattern or “general framework for analyzing the relationship between phenomena from which it is possible to formulate a variety of competing or non-competing theories” (Dunning, Lundan, 2008b, p. 75-77). 
+
+The OLI paradigm or the eclectic paradigm stands for the three main components of its essence: ownership, internalization and location advantages of internationalizing companies. In fact, it is based on the antecedent theories developed before John Dunning proposed his paradigm, and that is the reason why it is called eclectic. As Peter Buckley writes: “Mainstream international business literature generally explains the strategy of the multinational enterprise using the concepts of internalization, transaction costs and monopoly advantage. Together with locational advantages, these concepts are synthesized by Dunning in his eclectic or OLI paradigm” (Buckley et al., 2008, p. 717-718).
+
+Ownership advantages (referred as O advantages) imply that for enterprises which are willing to move abroad it is necessary to possess some kind of superiority (sometimes referred as competitive or monopolistic) over their foreign competitors specific to their nature and/or nationality of their ownership. Thus, the cost of internationalizing and moving abroad could be compensated by them. John Dunning identifies three major types of this kind of advantage: 
+
+1) exclusive privileged possession of monopoly power, scarce, unique and sustainable resources and capabilities or certain management competences – asset advantage (Oa);
+
+2) existence of formal and informal institutions within MNE which govern value-added process of production – institutional assets (Oi);
+
+3) ability to coordinate value-added activities under the conditions of multinationality and risk diversification – transaction cost-minimizing advantage (Ot) (Dunning, Lundan, 2008b, p. 99-100).
+
+The second type is internalization advantages (referred as I advantages), which is stipulated by the preference of internationalizing enterprise to transfer its ownership-specific advantages abroad within its structure over selling or licensing foreign counterparts. It means that there are market failures, which urge companies to incorporate certain stages of production exclusively within it. John Dunning notes three major types of such failures: 
+
+1) originating from risk and uncertainty;
+
+2) emerging from the excessive ability of firms to exploit the economies of large-scale production (only in an imperfect market situation);
+
+3) occurring when the transaction induces externalities (e.g. costs or benefits) not conditioned in the original terms between parties (Dunning, 1988, p. 3-4).
+
+Thus, internationalizing enterprises facing higher costs of cooperation with foreign companies have the propensity to organize the necessary transaction on the intra-organization level, rather than inter-organizational one, which yields additional benefits.
+
+   The third kind is called location advantages (referred as L advantages) and concerns the very location of production (i.e. particular country), where internationalizing companies see the potential benefits from enjoying certain immobile factor endowments, institutions or intermediate products of a foreign country or unique set of location-bound created assets, like S&T infrastructure, human capital and supporting institutional framework. Thus, they can explore new markets, acquire new set of various capabilities or get advantages from cheap local resources. Also, such companies may be encouraged by the government through certain policies (Dunning, 1988, p. 4-5). 
+
+   It is worthy of noting that these variables are interrelated. Thus, a company wouldn’t become a MNE if it were only ownership and location advantages – a uninational multi-activity firm would rather be the case, which is actively cooperating with its foreign counterparts. But the very cornerstone here is the notion of internalization, when such company faces what John Dunning calls “the presence of structural and cognitive market failure” (Dunning, Lundan, 2008, p. 95) and has to pursue the long-term strategy of intermediate products creation on the intra-organizational level. That is exactly the way of profit maximization of the ownership and location-specific advantages, when MNE itself, rather than market, can manage them much better. It makes sense in the contemporary world economy, where innovations (be it technological or managerial capabilities for example) are of extreme importance to outcompete rivals.
+
+   Moreover, the OLI paradigm is not static, as it may seem at the first glance, - there is a dynamic element in it as well. The ever-changing pattern of different countries can be explained by constantly augmenting ownership and location-specific advantages of enterprises compared to those of their foreign counterparts, as well as the extent to which the perception and willingness of internalization of such advantages prevails over simple cross-border market-organized activities. In addition to these endogenous variables, there are exogenous ones as well: population, raw material prices, exchange rates, national government policies, actions taken by international agencies, (Dunning, 1988, p. 98; Dunning, 2001, p. 178-179).
+
+Being a general approach, this paradigm still has a high degree of explanatory power either on industry level (e.g. technological vs. primary sector industries) or country level (by looking at economic histories of countries); even individual firms may be analyzed by it. John Dunning regards it as a certain methodology and generic set of interrelated variables, which may serve is an envelope for different more specific theories and approaches (Dunning, 2000, p. 166).
+
+
+
+d. Investment development path
+
+The concept of the investment development path (IDP) was introduced in a number of papers, among which “The Investment Development Path” written by John Dunning and Rajneesh Narula is the most prominent one (Dunning, Narula, 1998, p. 1-41). It is suggested that countries go through five main stages of development, which are classified on the basis of their inward/outward investment propensity underlain by the OLI paradigm.
+
+At the first stage the L advantages of the country are low – unskilled labour force, undeveloped infrastructure and institutions, low demand level on the local market (the only exception could be the possession of natural resources), which may inhibit foreign companies from investing in such country. Under such conditions they would prefer undertaking import/export operations and cooperative non-equity arrangements with the indigenous firms. 
+
+The O advantages of the local companies cannot be compared with those of their foreign rivals, as the general technological infrastructure is rather backward - hence the probability of outward investment is also very low. Only state-owned enterprises are likely to be more or less active on the global stage, or those strongly backed by the government.
+
+The role of the state is predicted to be crucial, as it is the only creator of the necessary institutions and public goods, including those related to improving educational level of population and overall technological infrastructure. Moreover, it may engage in different policies promoting certain development goals like import protection, domestic content policies, export subsidies, etc.
+
+At the second stage inward investments based on O advantages start to increase, which may be caused by widening domestic market for example, as well as investments based on the L advantages, if there is ample unskilled labour force and the necessary infrastructure for production. Inward investment by foreign companies will prevail in its aggregate amount over the outward investment, though they are likely to have the trend of convergence in the course of time.
+
+On the other hand, O advantages of domestic companies may be improved compared to the previous stage by learning from foreign peers and corresponding government policies. Their investments are likely to be directed primarily to adjacent developing countries based on the market-seeking and trade-related motives, or to developed countries based on the strategic assets seeking motive. It is predicted that I advantages of domestic enterprises and L advantages of the country will increase on this stage. 
+
+The state has the central role, being able to respond to this trend by establishing certain institutions, supply capacities, designing proper macroeconomic and organizational policies as well as by encouraging technological and organizational improvement of domestic enterprises. 
+
+At the third stage the overall economic maturity and the industrial structure of the country are likely to become more similar to a developed one, as the switch from investment- to innovation-driven growth begins to happen. The proportion between inward and outward investment is likely to further converge. 
+
+Domestic companies are predicted to acquire more O advantages and successfully compete with their foreign rivals domestically. Moreover, they may internationalize and utilize their technological and organizational capabilities in other countries, which are on the lower stage of development in the form of market-seeking investment and those geared to establish export platforms, as some of the domestic L advantages will have disappeared (e.g. cheap labor force, some types of resources). Moreover, the increasing trend of the emergence of domestic companies’ investments in developed countries may take place as well, based on the market-seeking and all the more so on the strategic assets seeking motives to further update their own O advantages.
+
+On the other hand, it becomes harder for foreign companies to outcompete their local counterparts, as well as to utilize cheap local labour force, which may induce them to augment their management, technological, marketing capabilities, introduce more innovations and undertake more technology intensive production in order to stay competitive. It will be especially important in the light of the increased consumption capacity of the local population and the improved L advantages of the country. Furthermore, such changes are likely to happen on the intra-organizational level of these companies through internalization, so that their rivals won’t be able to mimic them. 
+
+The role of the state on this stage is rather auxiliary as domestic companies are more and more able to sustain their O advantages on their own. Hence, the state should sustain and further develop efficient resource allocation, technological infrastructure and human resources by enhancing the overall educational level and knowledge dissemination. It is also predicted to address the problem of market imperfections caused by decreasing natural assets through encouraging domestic enterprises to invest in those sectors, where their O advantages are the strongest, while L advantages of the given country are the weakest. At the same times, foreign companies investments are also stimulated by the state to invest in the sectors, where local O advantages are the weakest, while comparative L advantages are the strongest. 
+
+The fourth stage is called “post-industrial” or knowledge economy as there will occur even more spending on technological development and R&D designed to sustain existing and create new products and production methods. The share of services in the aggregate production is likely to increase, especially in innovatory sectors.
+
+The number of outward investment continues to rise and its rate is likely to exceed or to be equal at least to inward investment. Moreover, based on further improved O advantages domestic companies are likely to successfully compete with foreign rivals both on domestic and foreign markets at least in some sectors. It will be also important for them to boost competitiveness by internalizing foreign operations as well as by moving certain operations to other countries, where the overall costs will be lower. The nature of L advantages will also have changed being almost completely composed of created assets. 
+
+Inward investors are likely to come from countries of the same stage and to be aimed for efficiency and assets seeking investments, though enterprises from countries of the lower stages may also engage in market seeking, trade-related and asset seeking investment. 
+
+The role of the state will continue to be auxiliary and geared to continue its supervisory and regulatory functions, to reduce market imperfection, sustain further institutional, technological upgrading and maintain competition. Thus, more government support is likely to be headed to infant industries and designed to reduce transaction costs and facilitate markets to operate efficiently. 
+
+The fifth stage is considered to be reached by advanced industrial nations by the end of the 20th century (e.g. the USA, Japan, Sweden) and is characterized both by constant increases in inward and outward investments. The specific feature of this stage is that created assets component of the L advantages of such countries are converging and becoming more transferrable. Thus, no single country will have absolute L advantages in created assets and companies will have to develop their abilities to acquire assets and to manage their capabilities more effectively under the conditions of multinationality. 
+
+MNE of these countries are likely to utilize and benefit more from economies of scale and scope, engage more in cross-border alliances, mergers and acquisitions, and that is why alliance capitalism occurs on this stage, when enterprises are more inclined to cooperate with one another. As John Dunning notes, in the age of the globalization, companies have to face the new challenges of increasing dynamic competitiveness by concentrating on critical competences, undertaking asset-seeking alliances or conducting market-seeking alliances to be more cost-effective (Dunning, 1995). This trend is not controversial to internalization, as it may seem at the first glance, but rather an additional component to the competitive strategies of companies. In addition, domestic companies, which previously have not internationalized are beginning to catch up with their multinational peers at higher rates by imitating O advantages of the latter. Hence, the share of small and medium enterprises in foreign investment will be increasing on this stage. It is caused by the necessity to explore new dynamic markets, as those in developed countries are stagnating in their growth. In addition, the link between large national enterprises and the state will become loose and the former will act more autonomously in their decision making.
+
+The fluctuating equilibrium is likely to be dynamically settled down between inward (market-seeking and knowledge-seeking investments from countries of the lower stage and optimization investments from developed countries) and outward investment (directed to less developed countries primarily to utilize their resources and to developed countries in the form of strategic assets seeking investments), which is a function of comparative O advantages, relative innovatory and organizational strengths of the countries of this stage. 
+
+The role of state is to sustain and further develop technological infrastructure and human resources as well as to make better use of them. It should be based on the national location-bound endowments, natural assets, the characteristics of the local markets and the macro-organizational strategies of the government. Moreover, the state should also be the main initiator of exploring new trajectories of economic growth based on country’s comparative advantages, as it was the case for Japan, as well as of active cooperating with enterprises to adjust the economic structure.
+
+The overall empirical value of the investment development path model has been shown by some scholars (Dunning, Narula, 1998; Liu et al., 2005), but it should be noted, that the concept described above is not static, but rather dynamic and may vary among different countries, as many other variables may influence this process of investment development (e.g. particular economic structure, development strategies, organizational policies, global trends and crises, etc.). Hence, there will be individual features for each country, which are very subtle and hard to be measured. Nevertheless, it is obvious that the role played by MNEs in economic upgrading is crucial - they are the real engines of economic growth fueled by the state. There are three general point noted by John Dunning and Rajneesh Narula and agreed by many other scholars which determine the successfulness of a country moving along the stages, where the general trend is the shift from the resource-driven economy to knowledge-drive one: 
+
+1) the type of FDI undertaken;
+
+2) the structure of the indigenous resources and capabilities of the countries concerned;
+
+3) the macroeconomic and organizational policies pursued by governments (Dunning, Narula, 1998, p. 12-13).
+
+
+
+e. Possible future development of MNEs in the context of globalizing economy
+
+As Dunning and Lundan noted, that the current stage of the global economy evolution from mid-1980-s up to date is marked by rapid pace of scientific and technological improvement, a range of dramatic advances in IT and organizational methods, influential political and economic changes on the global scale, which MNEs and governments have to address (Dunning, Lundan, 2008, p. 736-737). 
+
+There are two major kinds of technological advances in relation to FDI. First type is upgrading the efficiency of production, which is not only labor-saving, but also resource and capital economizing, as well as much more flexible than before. Also, more specialization takes place, as production cycle becomes more sophisticated and it becomes more reasonable to cooperate with other entities, rather than do everything within the scope of a single enterprise. The second type is related to the lowering transaction costs (e.g. transportation, communication), which lead to the transformation in existing business models and emerging of new ones.
+
+The industrial structure of the most developed countries is converging over the past 40 years, and the share of the service sector is constantly increasing in it. Created assets are of the most significance for countries and enterprises due to technological improvements, while cheap labor cost for example becomes less important. At the same time, most of developing countries are diverging even further from the former, though their share of the world FDI stock of recipient countries is more dynamic.
+
+The logic of the investment development path leads to the upcoming era of the change from the hierarchical capitalism to the alliance capitalism (Dunning, 1995), when more and more companies will prefer vertical organization of production (i.e. less diversified) and concentrating more on their own comparative advantages. Instead of fully internalizing their capabilities it becomes more appropriate (especially for companies from the most developed countries) to arrange alliances with other entities, M&A to reduce transaction costs of over-diversified activities, acquire even more O advantages through exchange, benefit from technological clusters and industrial networks (where many different firms are participating). Thus, the ability to successfully operate with different assets becomes more important than the type of assets any company has. At the same time, there emerge more companies geared to function exactly within the global network, rather than gradually developing from the national level.
+
+The role of the state in this process is of extreme significance, as it can be seen from the paragraphs above, and its position as the initiator on the early stages of the investment development path and as the facilitator on the later ones should be concentrated on providing the location-bound resources, institutional infrastructure and capabilities crucial for establishing and further employment of the O advantages of both foreign and domestic enterprises. This may lead to virtuous cycle of upgrading economic development, unlike vicious one which may happen, if there is no proper combination of competitive advantages of companies and the country. On the other hand, it should be also engaged into the international cooperation to institutionalize the relations between companies of the international level.
+
+
+
+f. Conclusion
+
+It is not anecdotal that the OLI paradigm is the most popular one, and among various theoretical approaches to explain the phenomenon of FDI it was chosen exactly due to its inclusiveness. Though changes in the global economy pose some challenges to it, this approach still remains quite flexible being able to incorporate additional components into its structure (e.g. internalization in the era of the alliance capitalism). Moreover, this “though pattern” underlies the concept of the investment development path providing new insights in the economic upgrading from the perspective of foreign investment. It turns out that for countries to get out of the vicious circle of technological backwardness it is extremely crucial to conduct certain policies to facilitate internationalization of domestic companies through related policies and institutional framework. In fact, states have to find the “sweet spot” by undertaking a gradual approach towards opening its economy to the world, and keep in mind that being too fast or too small may be fatal.
+
+3. Rise of Chinese ODI since the early 2000-s
+
+Aggregate figures on the Chinese ODI dynamics
+
+The recent figures on the ODI evolution of Chinese companies are astonishing, like many other things related to economic development in this country. In fact, even before the turn of centuries there was certain outflow of Chinese capital in the form of investment (e.g. Cheng and Ma, 2007), but it was comparatively insignificant. Only since the 21 century Chinese companies have become especially active on the global scale and the wave of investments made by Chinese companies seems to become bigger and bigger having steady pace. The patterns of the ODI flow and stock growth since 2002 are represented on the figures below.
+
+
+
+Figure 3: ODI Flow (values are given in billion dollars)
+
+Source: The Heritage Foundation – China’s Steady Global Investment: American Choices. Derek Scissors; UNCTAD – Foreign Direct Investment Statistics; MOFCOM – Foreign Investment Statistics
+
+
+
+Figure 4: ODI Stock (values are given in billion dollars)
+
+Source: UNCTAD – Foreign Direct Investment Statistics 
+
+It is clear from the graph that despite some fluctuations the general trend of ODI development is upward and the process itself is quite rapid. Since the figures have been skyrocketing in the recent years, much attention has been paid to this process, and negative as well as positive opinions have been expressed. But it seems too early to make any firm conclusion about the general impact of Chinese ODI, because this process is still on its initial phase, and, as a consequence, there is no enough empirical evidence to derive sound conclusions. This problem of the lack of empirical evidences is even exacerbated by obscure financial operations of some Chinese companies and the fact that large amount of Chinese capital goes through so-called tax havens like Hong Kong, Cayman Islands and Virgin Islands, which makes it harder to track final destinations of Chinese investment. For example in 2007 this flow was 13.7, 2.6, and 1.9 billion dollars respectively.
+
+
+
+
+
+Aggregate figures on the Chinese ODI distribution by sector
+
+The distribution of the Chinese ODI between different sectors may be shown by the pie chart below. 
+
+
+
+Figure 5: General Distribution of ODI by Sector
+
+Source: The Heritage Foundation, China Global Investment Tracker Interactive Map – it very important to keep in mind that these data doesn’t include investments less than 100 million, which makes it biased to some extent.
+
+It is well-known that energy resources are extremely important for China, as it doesn’t have much of them on its own territory. From this point of view, one of the most important regions for China is Africa, where this motive is currently prevalent, though other motives, like market-seeking, are also present there (Cheung, et al., 2010). Another region is Australia, which alone is one of the main recipients of Chinese resource-seeking investments (Hurst, et al., 2012). But most of such countries are comparatively poor and SOEs are the main actors in this type of outward investment.
+
+On the other hand, other sectors are also important and should be taken into account, as it is shown on the figure. For example, investments in such sectors as transportation, finance, wholesale or retail, geared to support China’s import and export activities, are also prominent. Private-owned enterprises play the most prominent role here, and such investments are direct mostly to developed countries.
+
+Special attention should be paid to the fact that according to the survey presented in “China Goes Global 2013”, the ODI pattern without the inclusion of big enterprises is quite different from the general one, based on the Heritage Foundation data – the predominant area here is manufacturing (77% of the total number. Again, the data on two different scales vary significantly, which is a very notable finding itself. Along with the level of enterprises, it may also be related to the changing structure of ODI in the recent years, where the share of resources is becoming less significant.
+
+
+
+Figure 6: Distribution of ODI by Sector (survey-based data)
+
+Source: China Goes Global 2013 – Survey of Outward Direct Investment Intentions of Chinese Companies
+
+
+
+
+
+Aggregate figures on the Chinese ODI distribution by region
+
+The distribution of Chinese ODI by region is comparatively equal and without any country or region, which holds the biggest share – at least according to the Heritage Foundation data. One interesting generalization was made by Wang B. and Huang Y. based on their own data stating that Chinese companies in developed countries are prone to invest in sectors where they are not strong so that it could be possible to acquire the lacking capabilities to be stronger domestically, while in developing countries they purely seeking for resources (Wang, Huang, 2011, p. 21). Nevertheless, despite the feasibility of this statement, the overall picture seems to be much more complicated by different factors like possible revenues gained from foreign markets in developed and specific created assets in developing countries.
+
+
+
+Figure 7: Distribution of ODI by Region (values are given in billion US dollars)
+
+Source: The Heritage Foundation – China’s Steady Global Investment: American Choices. Derek Scissors 
+
+   But it should be noted, that there is significant capital flow to so-called financial havens like Hong Kong, Macau, British Virgin Islands or Cayman Islands. Many Chinese companies, including State-owned enterprises (SOEs), invest there in order to avoid governmental control over their funds or to get additional preferences, and round-tripping is quite pervasive. Thus, according to Yu A. L. and Li K. the position of Hong Kong in the ODI of Chinese companies is in fact underestimated, while this place is the earliest platform of foreign-directed investments. Furthermore, many Chinese companies implemented the strategy of dealing with Hong Kong as a window to the world, making use of experiences there and learning Western skills in management, trade and technology (Yu, Li, 2012, p. 17-18). 
+
+     It is reflected in the dataset composed by MOFCOM – in both distribution by region and by sector finance-related investments in Asia prevail. Accordingly, Asia and Latin America (though lagging far behind the former) are the major recipients of Chinese ODI, but regarding the fact these investments are just temporal and actually not stable, long-term investments, it seems that these data should considered carefully, like all the data related to Chinese ODI. The importance of Asia actually may be also explained (besides tax havens) by geographical and cultural proximity, as well as by the fact Chinese companies have ample experience in operating in institutionally undeveloped countries, and many Asian states in their institutional development are comparable with China. It is also the case for African countries, which enjoy huge amounts of investment in their economies being backward institutionally and politically (Morck et al., 2008; 王 (Wang), 宋 (Song), 2013). Also the fact that unlike Heritage Foundation data the projects under the threshold of 100 million US dollars are included should be kept in mind.
+
+
+
+Figure 8: Distribution of ODI by Sector (values are given in billion US dollars; the data is for the year 2010)
+
+Source: MOFCOM – 2010 Statistical Bulletin of China’s Outward Foreign Direct Investment
+
+     This trend seems to be quite persistent as there is no radical changes in the recent years reflected by the MOFCOM data – in the 2012 paper it is shown that 60.9% of ODI for the year 2011 were headed to Asia.
+
+Motivations of Chinese companies to go abroad
+
+    There is relatively common understanding among scholars about the motivations of Chinese ODI. For instance, Wang B. notes in his article that there are four of them (Wang, 2012, p. 159-161), which are pointed out by many other analysts as well (e.g. Buckley et al., 2008; Amighini et al., 2011).
+
+Market-seeking ODI (to expand or secure markets overseas);
+
+Resource-seeking ODI (to exploit natural resources of foreign countries);
+
+Strategic assets-seeking ODI (to obtain new knowledge, technologies, managerial practices, supply chains, etc.);
+
+Efficiency-seeking ODI (to lower production costs).
+
+Figure 9: Percentage of Different Motivations for the Year 2010
+
+Source: Wang, B. Upgrading China's Economy through Outward Foreign Direct Investment. Rebalancing and Sustaining Growth in China, - 2012. P. 162
+
+It is noteworthy that this author also calculated the shares of each motivation in the total number of ODI and his results are represented in the chart above. These figures help us understand the main pattern of Chinese ODI and measure different motivations, their importance in the whole process of investment development. It is well known that resource-seeking aspect have been extremely important for Chinese companies, as with the overall economic development of China they consume more and more energy, metals and other raw materials. Hence, it is not surprisingly that this motive is still prevalent. But at the same time the net value of other reasons to invest abroad has risen as well, because the very development of the Chinese economy, its globalization requires companies to improve themselves in order to become more competitive on domestic and even international market. That is why the shares of market-seeking and strategic-seeking motives are also significant, though efficiency-seeking factor is not.
+
+In the relation to the point above Child and Rodrigues list various drivers and facilitators of internationalization by Chinese firms, which concern companies not engaged in resource-seeking international projects. As it can be seen from the table both internal and external factors are influencing the decision-making process of Chinese companies, namely state policies, internal pressure and potential opportunities of internationalization.
+
+Figure 10: Drivers and Facilitators of Internationalization
+
+Source: Child J., Rodrigues S. B. The Internationalization of Chinese Firms: A Case for Theoretical Extension? // Management and Organization Review. Vol. 1, No. 3. P. 399
+
+
+
+e. Entry modes and behavior of internationalizing Chinese companies
+
+With the recent development of Chinese ODI and emergence of Chinese companies on the global scale there have been some changes to happen in their entry modes and behavior.
+
+Generally, there are three main types of internationalization undertaken by Chinese companies: investment in new assets (greenfield investment), and in existing assets – whether cross-border M&A or joint ventures (Schüller, Turner, 2005, p. 6). On the early stage Chinese companies preferred joint ventures with foreign companies, being only partial owners without majority holding, due to the assets security reason. But since 1995 full ownership has become a widely used mode of Chinese ODI, which in fact manifested maturation of Chinese companies: first, government became more confident in managerial skills of enterprises and cancelled part of constraints imposed on them (state- and private-owned) to go abroad; second, with the outset of “Go Out” policy SOEs were provided with loans below market rates and improved access to hard currencies; third, with the growth of access to the global market the necessity to establish more wholly-owned subsidiaries has become evident (Buckley et al., 2008, p. 734-735). At the same time, some companies including private ones are employing international listing as an important channel to raise capital and to finance overseas expansion, as well as a tool to improve their international image (Hoong, Sun, 2006, p. 616).
+
+The 2013 survey of sampled Chinese companies reflects the described trends, as it can be seen from the figure below.
+
+
+
+Figure 11: Entry Modes of Existing ODI Based on the Survey Results
+
+Source: China Goes Global 2013 – Survey of Outward Direct Investment Intentions of Chinese Companies
+
+As for the changes in the behavior of Chinese companies abroad, some analysts noted, that they were forced to adhere to international standards, which generally led to certain improvements in socio-economic sphere (Moran, et al., 2012). Also, unlike Japanese companies in the past, Chinese companies are inclined to maintain the staff of merged companies, not to discharge them in order to hire Chinese managers or technicians (Rein, 2012, p. 162-163). It complies with the overall strive to obtain new managerial practices and innovations.
+
+
+
+f. Positive and negative factors to internationalize and the level of satisfaction with existing ODI
+
+Besides motivations, other factors may also play a significant role in decision making on the enterprise level. For example, according to the survey of Chinese MNEs presented in “China Goes Global” the most positive factors are “Going Global” policy and relevant favorable supports, capital availability, market potential of target countries, natural resources of target countries and advanced technologies and brands. On the contrary, among negative factors limited knowledge of Chinese brands, financing difficulty, lack of qualified managers, absence of cutting edge of products and technologies.
+
+The same survey also shows very interesting information about the level of small and medium enterprises (SMEs) satisfaction, which complies with the general trend of the overall desire to go abroad among companies capable doing so.
+
+
+
+Figure 12: Level of Satisfaction with Existing ODI of SMEs (the data is for the year 2010)
+
+Source: China Goes Global 2011 – Survey of Outward Direct Investment Intentions of Chinese Companies 
+
+     The very situation in the global economy may also play a significant role in whether boosting or impeding Chinese companies from investing abroad, as it has happened in 2008 during the global financial crisis. At that time some Chinese companies actually made use of this opportunity and bought up a row of troubled Western companies, which were on the brink of bankruptcy or had other financial problems (周 (Zhou), 2009, p. 18-21). If it were not the crisis, one might surely assume that such a success could not be possible, as it takes much resources to acquire well-established Western enterprises.
+
+
+
+     g. Ownership structure of internationalizing Chinese companies
+
+Ownership structure of Chinese companies investing abroad is generally typical for a developing economy, and the bulk of them (in terms of ODI stock) are represented by large state-owned enterprises. Their presence is mostly observable in the projects related to resources, strategic assets and diversification, and some ODI in these fields can be considered as investments motivated by national rather than commercial interests. Other enterprises include collective enterprises, which are only partially owned by the government, and private companies, where there is no government-owned equities.
+
+
+
+
+
+Figure 13: Share of SOEs in the Total Number of Companies Invested Abroad
+
+Source: Statistical Bulletin of China’s Outward Foreign Direct Investment and the calculation made by Wang B. and Huang Y. It is noteworthy, that in the distribution by the number of non-SOEs projects is nevertheless prevailing, which means that SOE primarily undertake only large ones (Wang and Huang, 2012).
+
+     A bit different figures are reflected by MOFCOM dataset for the year 2011, where the share of SOEs is 55.1%, while that of other kind of enterprises is 44.9% - including 26.4% share taken by limited liability companies in it. It can be explained both by possible discrepancies in the related data and by the deepening process of private companies internationalization.
+
+As it is seen from the charts, the share of SOEs is gradually decreasing and the share of other enterprises is gradually increasing. Generally speaking, their net weight in the Chinese economy is shrinking due to different reasons like overall ineffectiveness, and private-owned enterprises are constantly substituting them (Xu G., 2010). But this process is likely to be quite long and only its initial stage can be seen so far. At the same time, the difference between locally administered SOEs and centrally-administered SOEs should be kept in mind – the latter are far bigger, their projects much larger, they receive more support from the government and have less competition, being surely protected (Wang B., Huang Y., 2012). 
+
+It is noteworthy that some Chinese big enterprises being partially (but not totally) owned by the state still retain their autonomy in decision-making, while having additional advantages in international operations provided by the state. Such companies as Haier, CIMC and Lenovo are good examples of it – they were given the access to privileged financial loans, domestic government and educational markets and to state sources of scientific and technical research. Lenovo is even classified as a “state-owned non-governmental managed enterprise” (Child, Rodrigues, 2005, p. 400). Obviously, it makes them much more effective and reactive in their interaction with foreign peers.
+
+A recent survey of a representative set of Chinese companies shows a different picture due to the absence of large companies and shows that the share of the private sector in the general pattern is not that insignificant. It is evident that the smaller the scale of investment, the more non-SOEs is engaged in foreign investment. 
+
+
+
+Figure 14: Proportion of SOEs and non-SOEs in ODI (based on the survey results, value on x-axis are given in million UD dollars)
+
+Source: China Goes Global 2013 – Survey of Outward Direct Investment Intentions of Chinese Companies
+
+It is also noteworthy in this context, that SOEs’ investments being largely supported by the government are generally directed to resources in poor countries with poor institutions and unstable political systems, while non-SOEs (most of them are small in size) are more interested in technology-related sectors in developed countries (OECD Investment Policy Reviews: China, 2008; Amighini A. A., et al., 2013). This difference is very important being a distinctive feature of the Chinese ODI pattern.
+
+
+
+h. Existing problems related to the internationalization of Chinese companies
+
+In the move to internationalize different problems and impediments have emerged for Chinese firms. They were noted by different authors, are multidimensional and related to the ownership structure of Chinese companies, their capabilities, political system in this country, etc. 
+
+For example, general rigidity and lack of experience are noted in the related literature, which includes strict hierarchy, conformism, reluctance to operate abroad (but some of them are compelled by the government to do so), undeveloped mid-carrier training, etc. He concludes that Chinese companies are still new kids on the block, and it will take time to overcome all these problems (Shambaugh, 2012; 周 (Zhou), 2009). 
+
+Some analysts scrutinize another negative factor - the relationship between the government and companies in China, - which is probably even more significant for the future of “Go Out policy” and the overall economic development. The main point here is that there is the lack of transparency of SOEs, and foreign private companies as well as foreign governments are reluctant to cooperate with them (Cui J., Jiang F., 2012; 李 (Li), 张 (Zhang), 2012). For example, Huawei, which is believed to be a private enterprise, was claimed by the US government as a national threat, and was even blocked to employ some investment deal, being considered closely connected with the Chinese People’s Liberation Army. 
+
+Speaking about SOEs it is worth to pay attention to the overall ineffectiveness of Chinese SOEs - their flawed corporate governance, distorted capital allocation, lesser pursuit of profitability (Morck et al., 2008). Therefore, their investments may potentially cause huge losses. Incidentally, that is why many authors note that, it is mostly Chinese private companies, who can lead the process of further globalization of national economy (Cai, 2012; Huang, 2012).
+
+Another point is related to the present vagueness of Chinese companies and their investments having close connections with tax havens like Hong Kong, Macao, Virgin Islands and Cayman Islands – some enterprises use them to avoid state control over capital flow and overseas investment, to implement round-tripping of capital (according to some estimations 25% to 50 % of inflowing FDI are round-tripped) (Yu, Li, 2012, p. 8-15). Yu and Li even assumed, that a significant portion of Chinese overseas investments have been from the very beginning connected to capital flight, irregularities, corruption (Yu, Li, 2012, p. 8-15). This problem is closely connected with the fact, noted by many authors, that there is no perfect data on Chinese ODI, and considerable omissions may take place – for example the Heritage Foundation has collected information only about investments exceeding 100 million dollars threshold (e.g. Hoong, Sun, 2006; Buckley et al., 2008; Yu, Li, 2012). 
+
+In addition, many foreign companies, especially American ones, are suspicious about the future behavior of their Chinese counterparts, assuming that they may for example violate intellectual property rights (Wang B., Huang Y., 2012), which is probably partially connected with weak institutional base in China.
+
+
+
+i. Conclusion
+
+In this chapter general trends of Chinese ODI development were examined. It seems clear that this process has upward dynamic and is becoming more and more prominent on the global scale. This new phenomenon in the evolution of the Chinese economy can probably be described as a further stage of the overall growth. One the one hand, at present Chinese companies are becoming more and more capable to compete with foreign enterprises and to absorb managerial and technological knowledge and skills. One the other hand, China desperately needs resources and innovative technologies, as well as new markets. That is why the government of this country is much more confident and active in boosting this process than before, while Chinese enterprises themselves understand the necessity to go abroad. On this base it is possible to predict that Chinese ODI will be constantly rising in future, as many authors do (e.g. Wolf et al., 2011; He, Lyles, 2008). 
+
+At the same time, the priorities given to different sectors are not equal, as it has been shown above, considering the fact that the biggest part of capital was invested in resource sector. This trend is actually formed by SOEs, which are the main participants of the foreign investment process. Nonetheless, many analysts are predicting that the focus of Chinese ODI will shift to manufacturing sector and private companies will become dominant (e.g. Buckley, et al., 2008; Cheng, Qian, 2009; Wang, Huang, 2012; Berger, Berkofsky, 2009; 姚 (Yao), 李 (Li), 2011). MOFCOM data as well as “China Goes Global” datasets on Chinese companies’ ODI structure actually prove this point. Some analysts even propose the “China’s model” to explain the dynamics of Chinese ODI, which can be considered as a special case in the general theory of FDI, where investments in strategic assets and resources are prevailing and based on the political agenda (Wang, Huang, 2011). 
+
+But there are obstacles and difficulties, which may impede Chinese companies on their way of internationalization. They can be generalized to two major points: enterprises inexperience (flawed corporate governance, losses, etc.) and government inexperience (high level of red tape in approving companies ODI, close relations with some enterprises, like Huawei, etc.). 
+
+On sum, there is a long road for Chinese companies to become a major investor on the global scale – its ODI still can hardly be comparable with investments from the USA and Europe (as it is shown on the figures below). It seems, that today global ambitions of many Chinese enterprises in this area cannot be realized, as only few of them are recognized internationally, though the general trend of ODI development allows assuming, that in the future more and more companies will undertake internationalization and play more significant role on the global scale.
+
+
+
+Figure 15: ODI Stock of the USA, Japan and China (values on y-axis are given in billion US dollars)
+
+Source: UNCTAD – Foreign Direct Investment Statistics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. State policies related to outward investment
+
+It seems that besides domestic market pressures and potential opportunities of globalization there is something equally or even more significant for the ongoing trend of domestic companies’ internationalization – political dimension, noted by Wang B. and a number of other analysts (Wang B., 2012; Voss H., 2007; Child R., Rodrigues B. S., 2005). In fact, since the outset of the Reform Era in 1978 the Chinese government understood the importance of ODI for national economic development and tried to encourage it, though in the 1980-s and the 1990-s it was considerably constrained, due to the government fears of concurrent detrimental effects like substitution of domestic investments and currency outflow (Buckley et al., 2008, p. 721). 
+
+a. State agencies related to outward investment
+
+There are several agencies responsible for foreign operations of Chinese enterprises. First, State Council (国务院), which is China's executive organ, drafts and develops legal base, coordinates national economic development, foreign relations and concludes bilateral treaties. Economic policies including liberalization measures should be also ratified by this agency. Second, State Administration for Foreign Exchange (欢迎访问国家外汇管理局) or SAFE controls the activities related to foreign exchange: reports the balance of payments; recommends foreign exchange policies to the People's Bank of China; supervises the transfer of foreign exchange out of and into China; manages China’s foreign exchange reserves. Third, Ministry of Commerce (中华人民共和国商务部) or MOFCOM legally supervises Chinese non-financial ODI; is responsible for bilateral and multilateral negotiations on investment and trade treaties, as well as representation of China at different international economic organizations; ensures the accordance of China’s economic and trade laws with the international conventions; coordinates foreign aid policy. Forth, People’s Bank of China (中国人民银行) is responsible for the overall institutions related to financial policies and foreign financial interactions, as well as for the supervision of foreign reserves. Fifth, National Development and Reform Commission (中华人民共和国国家发展和改革委员会) or NDRC　is the main state agency which controls the economic development and industrial policy. Being involved in the approval process of Chinese ODI it published guidelines for internationalizing Chinese companies concerning the provision of soft loans, while large-scale international projects should be necessarily approved by it. Sixth, China Securities Regulatory Commission (中国证券监督管理委员会) or CSRC controls security and futures markets approving and supervising Chinese companies’ foreign stock and debts. Finally, State Asset Supervision and Administration Commission (国务院国有资产监督管理委员会) or SASAC represent the Chinese government as the owner of and investor in non-financial SOEs. It is responsible for the competitiveness of these companies and approves all the foreign investments undertaken by them (Voss, 2007; Wenbin, Wilkes, 2011).
+
+Wenbin and Wilkes give the percentages of different state bodies’ participation shares in ODI-related policy-making. Despite the low share of State Council it should be considered that its decision have the most strategic importance.
+
+
+
+Figure 16: State Agencies’ Level of Participation in ODI-related Policies
+
+Source: Wenbin H., Wilkes A. Analysis of China’s Overseas Investment Policies. Center for International Forestry      Research. – 2011. P. 3
+
+Nevertheless, the responsibilities of different agencies do actually overlap and the boundaries between them are not clearly defined. That is one of the features of red tape so typical to China, when companies have to undergo numerous bureaucratic procedures in order to get approval in their foreign operations loosing time and resources on that.
+
+
+
+b. Political promotion of internationalization
+
+Voss proposes periodization of Chinese investment, pointing out five separate periods. In the first period (1979-1985) the ideas related to the outward investment were rather implicit since the 1970-s and any outflow of the capital was strictly controlled, so that only a limited number of domestic companies could internationalize legally. Joint venture as a form of internationalization was mostly promoted and it was necessary for such projects to suffice one of the following criteria: acquiring access to scarce natural resources; obtaining new technologies; boosting export potential of domestic companies; gaining new managerial capabilities. It actually caused illegal operation of some enterprises to circumvent such policies by establishing foreign affiliates abroad, where hard currency was kept outside the control of Chinese state agencies and could be freely used abroad. As a result, only a very restricted amount of Chinese capital flew to foreign countries during this period. 
+
+The second period (1986-1991) is characterized by new regulations, allowance for more SOEs to internationalize, international activities in mature industries were promoted, though they still had to undergo approval process, where their managerial and innovative capacities were evaluated, as well as joint venture partners. SAFE and MOFCOM refined regulations related to foreign exchange gained from operations abroad. Since this time overseas projects gained national strategic importance and therefore discounted loans were provided to selected companies. 
+
+The third period (1992-1998) is marked by the Deng Xiaoping’s travel to Southern China in 1992 and subsequent overall liberalization of the Chinese economy. Being part of the economic development outward investment was actively encouraged by Jiang Zemin, then chairman of the Chinese Communist Party and subsequently by local authorities. Thus, more foreign exchange was allowed for internationalizing companies. But due to the defalcation of state-assets MOFCOM strengthened its control over it, which was also supported by SAFE. At the same time MOFCOM and NDRC were responsible for investment under the threshold of 30 million US dollars, while the State Council had to approve investment over this value. 
+
+The fourth stage (1999-2001) is marked by comparatively contradictory policies related to ODI. The Chinese government tried to order ODI projects, which were excessive and poorly administrated, while companies from the light industries were encouraged to undertake foreign investment. Under the auspices of MOFCOM the promotion to establish assembly plants overseas to support export was implemented, as well as 33 experimental SOEs were chosen to promote their outward investment in the most favorable export sectors (13 were in consumer electronics). Finally the initial stage of the “Go Out policy” (走出去战略) took place at this time, being manifested in 1999 “Opinion on encouraging companies to carry out overseas material processing and assembly” and incorporated into the 10th Five-Year Plan and supported by the main leaders. Overall, the importance of internationalization became very evident and related policies were therefore intensified (Voss, 2007, p. 57-67). 
+
+The fifth stage (2002 onwards) is marked by the accession to the World Trade Organization (WTO), which dramatically changed the business environment for Chinese enterprises making them to confront increased competition from their foreign counterparts. The tangible promotion of ODI, in which SAFE, MOFCOM, NDRC and the State Council (though to a lesser degree) are the main participants, emerged with the final adoption of the “Go Out policy”, which implies that Chinese companies must be participants of the global market, and there should be much more internationally competitive enterprises in this country. This idea was first clearly pronounced by Jiang Zemin in 1996, and then it was many times repeated by senior politicians as the core strategy of the future development (陈(Chen), 2008). Being started as an experiment in 2003 with pilot reforms in five chosen coastal cities and provinces (Shanghai, Jiangsu, Zhejiang, Shandong, Guangdong) guided by MOFCOM, when companies from these areas were allowed investing in “non-sensitive” countries and regions this policy was further developed as the basis for the future reform of overseas investment (Wenbin, Wilkes, 2011, p. 11).
+
+The rhetoric over the issue was therefore further intensified in the 11th and 12th Five Year Programs (Berger, Berkofsky, 2009, p. 4-5), and, generally speaking, Chinese companies have been encouraged to invest abroad by a set of various measures: government foreign exchange control for ODI has been relaxed by SAFE; approval and control authorities have been significantly decentralized (from the central to the local level) and requirements for companies have been simplified (e.g. feasibility study as a part of the documentation for application); in order to decrease the effect of the red tape a specific time limit has been imposed on the approval authority, as well as online application procedures have been introduced. Overall, the number of issued document has substantially increased to date - to more than 15 ODI-related policies per year (Wenbin, Wilkes, 2011).
+
+Furthermore, MOFCOM has fulfilled liberalization of the overall control over internationalizing companies, allowing them to reinvest their overseas profits, the required deposit to guarantee remittance of ODI profit was cancelled, and the long-imposed quota of USD 5 billion per annum was abolished as well. Also different plans were formulated to provide interest-subsidized loans for ODI in priority sectors (natural resources, manufacturing and infrastructure projects, R&D projects, etc.) among with provision of financial services like risk assessment, risk control, investment insurance. In addition, MOFCOM provides information support in the form of investment demand data in host countries, opportunities for participation in business fairs, FDI policies in host countries, obstacles faced by other Chinese investors and it was even compiled in the “Guidelines for Investments in Overseas Countries” and “Guiding List for Investments in Overseas Countries’ Industries”, which is constantly adjusted to the current needs of the economy. 
+
+Institutional base related to outward investments was adapted to the new policy, and a series of documents were adopted: “Provisions on the Examination and Approval of Enterprises to run Enterprises Abroad” (which encourages competitive enterprises to invest abroad and operate internationally), “Verification and Approval of Overseas Investment Projects Tentative Administrative Procedures”, etc. (Berger, Berkofsky, 2009, p. 6-9). On the current stage for a company to invest abroad it is necessary to comply with two points – profitability and viability of a project and compliance with national interests. Thus this strategy is constantly evolving, new features are being added to it and new state agencies are participating like specialized supervisory bodies of financial institutions – the Chinese Insurance Regulatory Commission, or the so-called “green finance” policy geared to promote environmentally friendly outward investment. In general, Chinese companies have been urged to expand investments related to resources, foreign technologies and managerial know-how (Hoong, Sun, 2006, p. 620-623), and the role of the Chinese government has become rather facilitating than just approving and controlling, which used to be before, meaning that micro-control was replaced by macro-control mechanisms.
+
+Besides the general reason to further develop China’s economy, there are other motives pointed out by different analysts, considering the question why the Chinese government is active on this direction. For example, Daniel Rosen notes the desire of Beijing to further liberalize foreign currency flows (Rosen, 2012). Others also mark that too excessive foreign exchange stock is also one of the reasons to encourage SOEs and private companies to invest abroad (e.g. Cheung et al., 2009; OECD, 2008). Its large accumulation exerts certain pressure on the Chinese financial system, sharpens the necessity to revaluate yuan and increasing ODI is considered as a measure to mitigate these problems.  
+
+
+
+c. Deficiencies of the current outward investment policies
+
+It is important to note that despite recent developments in the sphere of the state regulation on the ODI process, still there are observable impediments to Chinese companies to internationalize – the 2005 survey of Chinese companies shows that 58% of the interviewed pointed out to the limitations of foreign exchange use, 44% - to the length of the application process, 35% - to the limited financial resources, 24% - to the costs of procedures and regulations and, finally, 17% - to the strict check on the source of funds. 
+
+These points are explicated by different analysts - the tight control on capital account of ODI and trading rights are still maintained, the overall approval process is nonetheless quite time-consuming, legal contradictions between the local and national levels are in place, the negative impact of a well-connected nomenclature is evident, while micro-control in the form of direct state intervention into the decision-making process of state and private companies nevertheless persists (Voss, 2007, p. 70-71). Moreover, big projects undertaken by huge enterprises are more likely to be supported, than those of SMEs, which makes the latter more vulnerable to the potential uncertainties related to international operations (姚 (Yao), 李 (Li), 2011, p. 138). 
+
+
+
+d. Conclusion
+
+On balance, after the Mao era the understanding of the importance of outward investment has been becoming more and more evident for the Chinese leadership and the corresponding policies were adopted being constantly adjusted. The approach of the leadership to these issues was rather gradual and numerous attempts to order the ODI pattern were done. The main trend of this policy is the constant liberalization of the control over outward investment and shaping it in the way most favorable for the overall development of the Chinese economy. This is a very distinct point about the Chinese policies related to ODI, which distinguishes it from many other countries, where this process was more chaotic.
+
+The considered Chinese policies proved to be quite effective and according to the survey “China Goes Global 2013: Survey of Outward Direct Investment Intentions of Chinese Companies” among the motives driving various companies to undertake foreign investment making use of “Go Out” policy is one of the most important, while the government support abroad is of the highest value in managing their OFDI risks. It means, that the policy undertaken by the government has its positive effects.
+
+
+
+
+
+
+
+5. S&T infrastructure development
+
+According to the development experience of many countries, the shift from sustained to sustainable economic growth is accomplished on comparatively high stages of development, when economy in general and domestic entities (e.g. companies) in particular are ready for that. Economy itself can’t develop competitiveness, as basic S&T infrastructure is rather a public good, which should be provided by the state – it is especially the case for transitional economies being forced to catch up with more developed countries (Wamae W. 2006). The Chinese leadership fully recognizes the point, which is evident from its recent policy related to the promotion of technological improvement, as the core feature of the future development. Furthermore, it has direct correlation with Chinese ODI pattern, in many cases it is better to go abroad and procure necessary technologies, because S&T system in this country is not developed enough, and it will take decades for China to catch up with industrialized countries. That is why considering the situation in S&T sector is crucial for understanding the very future of technology overseas investments.
+
+
+
+Brief prehistory of the science and technology (S&T) development policy
+
+In fact, the policy, geared to promote domestic technological development, have already emerged on the early stages of the Reform Era. Initially, there was an experimental period followed by constructing consistent strategy and issue of the “Key Technologies R&D Program” in 1982, “Decision on the Reform of the Science and Technology system” in 1985, “National High-tech R&D Program (863 Program)” in 1986, the “Decision on Accelerating Scientific and Technological Progress” in 1995, the “Decision on Strengthening Technological Innovation and Developing High Technology and Realizing its Industrialization” in 1999 and finally the current “Decision on Implementing the Medium- and Long-term Strategic Plan for the Development of Science and Technology and Improving the Indigenous Innovation Capability” in 2006. Obviously, the Chinese leadership even in the 1980-s has already understood the importance of improving science and technology and was trying to establish adequate policy related to it, taking into account the overall maturation of the China’s economy. 
+
+
+
+The context of the current S&T development policy
+
+Context is a crucial factor for amendment and adjustment of any development strategy including S&T. Being a developing country, China has extremely volatile socio-economic situation and changes are very frequent there. The analysts who conducted overview of the innovation policy of China under the auspices of the OECD underline six main factors for improving the general policy towards S&T development:
+
+Social developments have lagged behind economic development;
+
+Economic inequality was exacerbated between urban and rural areas, western and eastern regions and between different social groups;
+
+Negative environmental externalities;
+
+Job opportunities have lagged behind technological growth;
+
+The manufacturing sector was primarily engaged into producing low value-added products;
+
+Catch-up heavily relies on technologies developed in Western countries.
+
+All these factors along with the Chinese ambitions to become a global leader contributed to the further elaboration on the S&T sphere improvement.
+
+
+
+Establishing a new S&T policy
+
+The year 2006 became crucial in the policy regulation related to S&T development. First, Hu Jintao, the General Secretary of CCPCC, appeared at science conference this year and underscored the necessity to develop science and technology, to make technological breakthroughs, to intensify innovation development with Chinese characteristics and to meet current requirements for successful socio-economic development. Second, besides the “Decision on Implementing the Medium- and Long-term Strategic Plan for the Development of Science and Technology and Improving the Indigenous Innovation Capability” issued by the CCPCC (Chinese Communist Party Central Commission) and the State Council, another document was also pronounced by the State Council – “The Medium- and Long-term Strategic Plan for the Development of Science and Technology (2006-20)”. These documents outlined the new policy, proclaimed by Hu Jintao more precisely, generalizing the previous experiences.
+
+The general strategy dated 2006-2020 has several aims:
+
+Strong improvement in indigenous innovation capability;
+
+Advancing S&T capability to promote economic and social development and to safeguard national security;
+
+Increasing the overall strength of basic science and frontier technology research;
+
+Getting globally significant achievements in the sphere of science and technology;
+
+Participation in international activities along with innovation-advanced countries in order to become a world S&T power by the middle of the 21st century. 
+
+    According to these tasks there are certain steps to improve institutional base, to provide support to enterprises which are considered as main producers of innovation in future, to establish a modern research institute system, S&T management system, etc..
+
+    Besides, technological development has been considered as the core development strategy in Chinese Five-Year Plans, especially in the 11th (2006-2010) and the 12th (2011-2015). Specifically, in the current 12th Five-Year Plan there is a range of tasks to improve S&T development and innovation capability in general, as well as in certain sectors, which are specified in this document. In this context further improving of human resources has also become an urgent task. It is also noteworthy that attention paid to the development of power-efficient technologies in this five-year plan is immense, due to the high level of domestic energy consumption in this country, and further technological development outlined there is partly devoted to resolving this problem exactly.
+
+Chinese strategy is quite ambitious, as the leadership of this country is planning to achieve the following indicators by 2020: the ratio of gross expenditure on R&D to GDP should reach or exceed 2.5%, the share of S&T contribution to economic development should be at least equal to 60%, the degree of reliance on foreign technology should drop to 30%, and the number of references to Chinese scientific papers should be among top five internationally. 
+
+
+
+Major trends in S&T infrastructure development
+
+With the adoption of the new S&T development strategy the overall increase of growth in this sphere has become evident. For example, investment in R&D has been rising quickly, especially after 2006 (see figure 15), and China is actually approaching to the level of developed countries in this sense. The share of overall R&D expenditures in GDP has also become tangible – from 1.39% in 2006 to 1.84 in 2011. 
+
+
+
+Figure 17: Gross Domestic Expenditure on R&D (values are given in billion yuan in its current price)
+
+Source: 中国科技统计 (China's Science and Technology Statistics). – 2012
+
+Situation in the structure of R&D expenditures by sector of performance and by source of funds is even more interesting (see figures 16 and 17). The main actor in S&T investment and development is business sector (73,9%), which is followed by government sector, lagged far behind the former (21,7%).
+
+
+
+Figure 18: R&D Expenditure by Source of Funds (the data is for the year 2012)
+
+Source: 中国科技统计 (China's Science and Technology Statistics). – 2012
+
+
+
+Figure 19: R&D Expenditure by Sector of Performance (the data is for the year 2012)
+
+Source: 中国科技统计 (China's Science and Technology Statistics). – 2012 
+
+   Trends in the human capital development are similar to that in R&D share both in the general trend and in the share of different parties. The main actor is business sector (75.2%), followed by the state (11%), higher education (10.4%) and others (3.4%).
+
+
+
+Figure 20: R&D Personnel Increase
+
+Source: 中国科技统计 (China's Science and Technology Statistics). – 2012
+
+   
+
+Figure 21: R&D Personnel Sector of Performance
+
+Source: 中国科技统计 (China's Science and Technology Statistics). – 2012 
+
+
+
+Figure 22: R&D Personnel Type of Activity
+
+Source: 中国科技统计 (China's Science and Technology Statistics). – 2012
+
+   The number of patents can also be considered as one of the indicators of technological development. As it is shown on the diagram below, innovation activity has been increasing, corresponding to the other trends in this area, and, again, it is primarily performed by business sector.
+
+
+
+Figure 23: Number of Granted Patents (the data is for the year 2012)
+
+Source: 中国科技统计 (China's Science and Technology Statistics). – 2012 
+
+Generally speaking, the overall growth rate of the Chinese S&T system is fast and the main engine here is business sector, which is encouraged by the government. There are positive trends in total R&D expenditure, human resources development and research activities.
+
+
+
+Problems and disparities in the S&T system development
+
+Chinese system of innovation has a short history, and it is of little wonder that this system is not perfect. OECD analysts primarily point out the following basic deficiencies:
+
+Much “D” than “R” in R&D – more that 70% of investments are devoted to experimental development, while only one-quarter corresponds to basic and applied researches;
+
+Foreign companies in China produce 90% of high-technology export, and Chinese high-tech companies are far less innovative, than their counterparts in advanced economies;
+
+The share of foreign companies in the total number of patents is high;
+
+The  innovation capability of domestic companies lag behind the investment in R&D;
+
+The number of researches per thousand employment is low;
+
+There are huge regional disparities in S&T development.
+
+
+
+
+
+
+
+     g. Overall energy consumption and related policies 
+
+The issues related to energy effectiveness and sustainability of economic development are becoming more and more urgent for China and special attention is paid to them in the context of the general S&T infrastructure. This country is notorious for its large carbon dioxide emissions, as well as for other environmental problems. In order to cope with them, certain initiatives have been implemented since the outset of the Reform Era, and the aim to reduce energy use per unit of GDP was pronounced. It has become especially urgent since 2001, when this figure started to increase unlike the previous decreasing trend. Thus the task to reduce energy intensity by 20% up to 2010 was adopted in 2005 by the Chinese leadership (Zhou, et al., 2010, p. 2-5).
+
+On the charts below total energy consumption and energy intensity of GDP are shown. Despite the rising trend of energy consumption in China, which can be explained by rising demands of manufacturing sector, consumers, etc., the energy intensity on the contrary has decreasing trend (see figures 19 and 20). It can be considered as the outcome of intensive government efforts to mitigate environmental problems related to excessive pollution. As it can be seen, these efforts are quite successful and the trend continues to be downward.
+
+
+
+Figure 24: Total Energy Consumption in China (values are given in Mtoe)
+
+Source: Global Energy Statistical Yearbook. – 2013 
+
+
+
+
+Figure 25: Energy Intensity of GDP in China (values are given in koe/$05p)
+
+Source: Global Energy Statistical Yearbook. – 2013
+
+The year 2005 turned out to be a milestone for the government policy dealing with environmental issues and a new set of measures did emerge. First, in 2004 the “Medium and Long-Term Plan for Energy Conservation” was issued and it set specific targets to cope with rising energy intensity. The “ten key projects” from this plan later were incorporated into the 11th Five Year Plan (Zhou, et al., 2010, p. 2-5). In fact, the 11th Five Year Plan itself has become a very important step in the decision-making related to mitigating environmental problems and improving energy effectiveness. There was a set of different measures aimed to achieve the task of 20% energy intensity decrease in this plan. 
+
+Second, a number of other initiatives were started – creation of new statistical indicator; pronouncing the “Decision on Strengthening Energy Conservation” in 2006, which, for example, restricts high energy-consuming projects; the “Comprehensive Work Plan for Energy Conservation”, which is designed to strengthen the administration of the related policies already adopted and to initiate a set of new measures for reducing energy intensity; restructuring of energy agencies in the Central Government; adjustments in institutional and legal base; etc (Zhou, et al., 2010, p. 8-17) .
+
+
+
+h. Energy-saving technologies
+
+Among all these measures the significance of energy-saving technologies is very high. For example, one of the main functions of the National Energy Conservation Center is technology dissemination, and there is legal promotion of energy-saving technologies. But probably one of the most important measures in this context is the “China Energy Technology Policy Outline” issued in 2007, which is considered as a technical basis of the 11th Five Year Plan. It emphasizes R&D, demonstration and promotion of major energy-saving technologies, as well as elimination of and impediments on high energy-consuming technologies, processes and equipment (Zhou, et al., 2010, p. 8-17). The same line was continued in the 12th Five-Year Plan as well.
+
+This government promotion of energy-effective technologies goes beyond domestic sphere and is related to the international interactions of Chinese companies as well. The document of the highest importance in this sense is the “Guidelines for Environmental Protection in Foreign Investment and Cooperation”. This is a set of recommendations, which deals with environmental effectiveness of Chinese ODI and underscores the overall importance of minimizing ecological harm, caused by Chinese companies abroad. There is a set of means to reach this goal among which clean production, reciprocal usage of materials, minimizing pollution are a significant part. And it is quite presumable that Chinese companies will try to invest abroad in order to obtain green technologies, which are not developed in China yet, while the Chinese government also promotes companies to use indigenous innovation in the energy-effective sphere.
+
+Furthermore, in the “China Greentech Report 2012” it is noted, that the cooperation between Chinese and foreign companies in green technologies and renewable energy is increasing. It is partly considered as a tool for mitigating the host country concerns over Chinese ODI in resource and technology spheres. These international interactions are thus profitable for Chinese companies to comply with energy-efficiency requirements, as well as to improve their image internationally.
+
+
+
+f. Conclusion
+
+This chapter gives general picture of China’s technological development, which shows the general trends in this sphere – large investments in R&D, active participation of business sector in innovation activities, skyrocketing number of granted patents, etc. All this features represent fast evolution of S&T system in China, mostly as the efforts to resolve current socio-economic problems. Furthermore, the implementation of relevant policies by the Chinese government have been being intensified recently, which manifested in the proclamation of the 2006-2020 strategy. Nonetheless, there are certain problems and distortions in it, which makes it difficult for the Chinese S&T system to compete with S&T systems of developed countries. The Chinese government understands and constantly tries to cope with these impediments, and the recent successes of the 2006-2020 strategy actually have proven that these efforts are efficient.
+
+In addition, it seems likely that more and more Chinese companies will try to become more efficient in their production. The main factor, which urges Chinese companies to comply with environmental standards, is the state policy, as it is reflected by the 2011 survey. Then goes resource scarcity, resource prices and energy security concerns. On the other hand, global competition requires companies to minimize cost, and excessive usage of resources may impede their development. Overall, it is evident that developing energy-efficient technologies is a very important task for China, its national companies, and the further economic development. Its fulfillment will allow improving the very quality of manufacturing and the international image of the country, Chinese brands, etc. 
+
+On sum, the importance of R&D is reflected by the amount of GERD, which is rising so rapidly. Furthermore, both the Chinese government and business sector are interested in improving this sector, considering it as the future engine of the whole economic growth. But the Chinese S&T system is still undeveloped, and it will take decades of improving to catch up with industrialized Western countries. That is why it is possible that Chinese companies will go abroad and buy up many technologies, which are relevant for them, but not developed in this country.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. The share of investments in created assets in the total number of ODI
+
+Above the dynamics and structure of Chinese ODI was shown, as well as the general importance of technologies and innovation for Chinese economy, including the sphere of low energy-consuming technologies. And in this chapter the present structure of Chinese ODI is discussed, where investments into resources are completely overwhelming to date, though chances are that it will be changed in the near future.
+
+
+
+Characteristics of Chinese ODI in foreign created assets
+
+Chinese ODI in foreign created assets are different from the general pattern considered above and has its own features. First, unlike the general pattern of ODI considered in the first chapter, Chinese investment for example in technology-related sectors is mainly made by private companies, rather than by SOEs, though the difference is slight (see figure 21). But it is quite possible that the dissimilarity is far bigger in reality - the data for that pie chart is taken from the Heritage Foundation dataset, where only investments above 100 million dollars are regarded, while many small-scale investments in the this area are made by SMEs, though their willingness to invest in foreign created-assets is reflected by different surveys (e.g. “China Goes Global 2013”). Anyway, it should seem natural, considering the fact that most Chinese SOEs are engaged in strategic industries, such as energy, space technologies, telecommunications, etc. 
+
+
+
+Figure 26: Shares of Private- and State-owned Enterprises in Technological ODI (it should be noted that ZTE, CCC and Huawei deal with Ethiopian Telecom is considered as governmental; the data is for the year 2012)
+
+Source: author’s calculations based on the Heritage Foundation dataset 
+
+Second, the majority of investments have gone to OECD countries, which is quite predictable, due to the fact created assets are mostly developed there. Though it is not really evident from the Heritage Foundation data, Zhang provides more convincing observation of the distribution of 88 R&D units, established by Chinese companies (Zhang, 2010). Furthermore, Wang B. underscores the idea, noted by other scholars as well, that only ODI in developed countries with appropriate environment may be effective in the sense of related spillovers and productivity gains (Wang, 2012, p. 155).
+
+
+
+Figure 27: Distribution of ODI Related to Technology by Country (values are given in million dollars; the data is for the year 2012)
+
+Source: author’s calculations based on the Heritage Foundation dataset 
+
+
+
+Figure 28: Distribution of R&D Units by Region (the data is for the year 2010)
+
+Source: dataset is provided by Zhang J. International R&D Strategies of Chinese Companies in Developed Countries: Evidence from Europe and the U.S.
+
+Third, acquiring technologies by Chinese companies is often accompanied by seeking brands, managerial practices and skills, etc. It is very important, considering the fact, that Chinese MNCs are very different compared with MNCs from industrialized countries – they rarely have advantages like core technologies, which are usually imported from abroad, thus leaving only a fairly small profit margin; organizational and management skills, which prevents companies from successful international adaptation; famous brand names – according to the “100 World Best Brands in 2013” and “The World Most Valuable Bands” there are just a few globally recognized Chinese brands, and the strongest national brands are owned by the Central Government (mostly in resource sector, finance, telecommunications, etc.) (Wang, Wang, 2011, p. 105-106). But there is established and mature manufacturing base in China with related technologies, though it is not necessarily up to date. That is why through operating on the domestic market many of them can compensate the losses on international markets. Furthermore, they do have support from the government, such as incentives for ODI, streamlined administrative procedures and capital controls, information support and reduction of investment risks. 
+
+After all, Wang B. and Wang H. also pointed out that Chinese companies have their own particular advantages like their small size with simple management structures, good adaptive and entrepreneurial capabilities, cheap labour force, being accepted by host countries much more than their state-owned counterparts (Wang, Wang, 2011, p. 107). Therefore, it is quite profitable for Chinese companies to go abroad and augment new capabilities, being supported by the government and having their own specific advantages.
+
+There are also other data, which are worthy of consideration, provided by survey of “China Goes Global 2011” (see figures 24-26). According to it, the prevalent investments are those below the level of 1 million USD (42%), followed by investments from 1 to 5 million (33%), which are primarily made by private companies (62%) in Asian and European countries (31% and 24% respectively). These data differ significantly from what was described before – of course there could be biases in any survey, especially in those, related to very sensitive financial issues, but still it provides us with new information. Thus it can be inferred, that among small and medium investments, most of which are below the level of 5 million USD, private companies are dominant and their primary destinations are Asia, Europe and the USA. 
+
+
+
+Figure 29: Distribution of SMEs’ ODI in Manufacturing by Amount (the data is for the year 2012)
+
+Source: China Goes Global 2011 – Survey of Outward Direct Investment Intentions of Chinese Companies 
+
+
+
+Figure 30: Distribution of SMEs’ ODI in Manufacturing by Region (the data is for the year 2012)
+
+Source: China Goes Global 2011 – Survey of Outward Direct Investment Intentions of Chinese Companies 
+
+
+
+Figure 31: Ownership Structure of SMEs Invested in Manufacturing (the data is for the year 2012)
+
+Source: China Goes Global 2011 – Survey of Outward Direct Investment Intentions of Chinese Companies 
+
+In fact, these two datasets allow us to compare big enterprises (as the Heritage Foundation dataset includes only investments above 100 million USD) and SMEs (reflected by  the “China Goes Global 2011” survey). If in the former the share of European and North American countries is bigger (though not significantly) and the proportion of private- and state-owned companies is almost equal there, in the latter the share of Asian countries is prevailing (though Europe and North America are still very important), in ownership structure private companies are completely dominating and the bulk of investments are under the level of 5 million USD. 
+
+These inferences are not surprising, considering the fact that some Chinese SOEs are very large in their size (like ZTE for example), some of them represent government strategic assets, making huge investments according to the general policy, while at the SMEs level private companies per se are prevailing due to their higher effectiveness compared with state-owned counterparts of the same size. The differences in regional distribution can be explained by various absorptive capacities – bigger companies are more likely to absorb foreign high-tech and have much more resources to accommodate and operate successfully in distant territories like the USA and Europe, when some SMEs are prone to invest in geographically and culturally close Asian countries.
+
+
+
+The share of strategic-assets investments in the total number of ODI
+
+The investment in strategic assets has the most overall positive influence on the competitiveness of the Chinese economy, unlike resources-seeking investment, as Wang B. noted that (Wang, 2012). They may allow Chinese companies to catch up with their foreign peers and benefit a lot from foreign created assets. Nevertheless, its share in the general pattern of Chinese ODI is still very low.
+
+For example, from the diagram given in the first chapter it is clear, that Chinese ODI in manufacturing (which is the core part of the investment in strategic assets) is tiny compared with investments in natural resources. Furthermore, the recent trend noted by Wang B. is even more surprising – since 2003 there was a decrease in the share of manufacturing investment in the total number of non-financial ODI going from about 21% in that year to 5% in 2008 and 2009 (Wang, Wang, 2011, p. 102).
+
+
+
+Figure 32: Amount of ODI in Strategic Assets (values are given in million dollars)
+
+Source: MOFCOM – 2010 Statistical Bulletin of China’s Outward Foreign Direct Investment
+
+
+
+Figure 33: Percentage of Strategic Assets-seeking ODI in the General Pattern 
+
+Source: author’s calculations using MOFCOM data of the total number of investments, ODI in manufacturing and S&T sectors
+
+There are several explanations for this point. First, it should be kept in mind that the importance of investment in primary sector has been traditionally significant for China and its economy – due to its large size, population and to the low natural resources endowment. That is why Chinese companies (primarily SOEs) started their expansion abroad from buying up natural resources or shares of companies, which were engaged in this sector. 
+
+Second, as Wang B. and Wang H. put it, these jumps are related to the Lenovo’s acquisition of IBM’s personal computer business in 2005 and the global financial crisis in 2008, and the very trend of manufacturing ODI increase is slow, partially because of approval process, which is a must for companies (Wang, Wang, 2011, p. 101-102). As it has been already noted, there were some improvements there, but still four different government agencies are controlling this process – NDRC, MOFCOM, China Customs and SAFE, and for example in Zhejiang province only 50% of private firms bypassed the official approval procedure (Wang, Wang, 2011, p. 102). 
+
+
+
+Motivation of Chinese manufacturing enterprises to internationalize
+
+Most of the companies, which undertake ODI with the motivation to benefit from the created assets of foreign countries, are themselves manufacturing, and there are a number of reasons for such Chinese enterprises to internationalize. Nevertheless, the point is that these motivations are unlike the reasons, which stimulated companies from developed economies to go abroad – the major one is that Chinese enterprises primarily do not have core technologies to compete successfully with their foreign counterparts on international as well as domestic markets. Nevertheless, without having enough firms-specific and ownership-specific advantages they are still willing to invest abroad.
+
+Wang B. and Wang H. pointed out the most significant reasons to implement ODI by Chinese manufacturing firms and calculated their percentage:
+
+Globalization, which reduces the costs of operating overseas;
+
+Government procurement of ODI as well as preferential policies given by the host country;  
+
+Chinese companies often have to go abroad because of harsh domestic competition (including competition with foreign-invested enterprises) to augment strategic assets such as R&D facilities, technologies, brands, distribution networks and managerial competencies;
+
+So-called “institutional escapism” – some Chinese companies are trying to go abroad in order to avoid different disadvantages encountered on domestic market, like regional protectionism, limited access to capital, lack of developed intellectual property rights, etc.;
+
+In order to bypass trade barriers;
+
+Efficiency seeking;
+
+Natural-resource seeking (Wang, Wang, 2011, p. 107-109).
+
+Figure 34: Percentage of Different Motivations of Manufacturing Enterprises for the Year 2009
+
+Source: Wang B., Wang H. calculations based on NDRC’s data - Wang B., Wang H. Chinese Manufacturing Firms' Overseas Direct Investment: Patterns, Motivations and Challenges // Rising China: Global Challenges and Opportunities. – Jane Golley and Ligang Song, eds., ANU Press, 2011. P. 110
+
+As it can be seen from the chart above strategic asset seeking (aimed to improve firm-specific advantages and included brands, tacit assets, as well as distribution channels), technology seeking and market seeking are the dominant motivations for Chinese private- and state-owned manufacturing enterprises, while efficiency seeking and natural resource seeking are not. It is quite logical considering the fact, that manufacturing firms are constantly seeking to improve their competitiveness trough ODI, while natural resources and efficiency are not so urgent, due to the prevalence of cheap labour and sufficient resources procurement made by SOEs. In addition, along with the importance of technologies, brands and managerial practices market-seeking motive is becoming relevant, which shows the possible intention of some Chinese companies to struggle with MNCs for foreign consumers.
+
+
+
+Entry modes of Chinese manufacturing enterprises
+
+In general four entry modes can be pointed out, as Wang B. shows it (Wang, Wang, 2011, p. 110-113):
+
+Setting up overseas R&D centers – for example Haier Group has set up design and R&D centers in Los Angeles and Boston to meet the needs and wants of local consumers. It is noteworthy, that such R&D centers, for example, in Europe are not just technology seeking and asset augmenting, but are also embedded in the S&T system of the host countries, cooperating with other R&D centers (Minin, et al., 2012; Zhang, 2010);
+
+Setting up joint ventures with companies mainly located in advanced economies – for example cooperation between TCL and Thompson SA to produce televisions and DVD players;
+
+Merges and acquisitions (M&A) of overseas firms – this strategy is the most usual one, because it allows Chinese companies to obtain immediately necessary technologies, brand names as well as faster establishment of R&D capabilities. The most prominent example of this entry mode is Lenovo’s acquisition of IBM’s PC business, when this Chinese enterprise not acquired new technologies, managerial practices and PC research centers, but also advanced worldwide distribution and sales network;
+
+So-called “clustered going abroad” – this strategy is quite suitable for Chinese SMEs, which are using connections among overseas Chinese to settle down in certain territories and organize industrial parks.
+
+It is worthy of noting that for example in the wind turbine area the most productive usage of technology turned out to be acquiring via joint design, while acquiring through production license and domestic R&D proved to be less effective in this area  (Qiu, Ortolano, Wang, 2013, p. 315). Of course, it may not be the truth for the all industries, but still the importance of international cooperation in the technology area is evident, and probably that is why many R&D centers, for example, are granted certain degree of autonomy in their decision-making, being centers of learning for Chinese stuff at the same time (e.g. Zhang J. 2010).
+
+Again, the data from the survey presented in “China Goes Global 2013” considerably differs from the common understanding of major entry mode proportions of Chinese companies. From the pie chart below it is evident, that direct investment in building plants are prevalent. 
+
+
+
+Figure 35: MNEs’ Entry Modes
+
+Source: China Goes Global 2013 – Survey of Outward Direct Investment Intentions of Chinese Companies 
+
+    Probably these discrepancies depend on the size of an enterprise – the bigger it is, the more likely that it would undertake M&A, rather than greenfield investment as a major entry mode and vice versa. This assumption may be explained by higher absorptive capacity of large companies to adopt foreign technologies, while smaller firms are unable to implement it, due to the lack of experience, managerial skills, etc. Thus the former are buying up already existing technologies, while the latter do not.
+
+
+
+Problems encountered by Chinese companies in their internationalization
+
+Besides the problem of red tape in approving ODI of Chinese enterprises noted above, in their internationalization Chinese companies have met a number of other problems, which can be generally characterized by their lack of experience in the global markets.
+
+First, investing abroad implies risks, especially for companies lacking ownership or firm-specific advantages. That is why many of them have undergone losses, as TCL had in its joint venture with French mobile company Alcatel. This problem is closely related to the lack of absorptive capacity of Chinese enterprises, some of which encounter post-acquisition difficulties and are unable to adapt operating abroad; build up win-win relationship with foreign stakeholders; deal with foreign regulations, unions, employees and local communities; absorb acquired technology; operate obtained brand names, etc. (Wang, Wang, 2011, p. 110-113).
+
+Second, poor corporate governance and management skills of Chinese firms are also a negative factor for their successful internationalization. Many of them are reluctant to undergo any changes in order to adapt, ownership structure is often quite vague and individuals or families might toughly control a firm despite clearly defined property rights (Wang, Wang, 2011, p. 110-113).
+
+Third, because of this lack of transparency and flexibility performed by Chinese companies, many of them were prevented by the governments of host countries to invest. For example the Heritage Foundation provides a list of troubled transactions, which includes up to 120 cases from 2005 to 2013.
+
+
+
+Three cases of technology-seeking acquisitions 
+
+There are many technology-seeking acquisitions employed by Chinese companies with completely different results – some of them are successful, some are not. Probably the most representative among such companies are Nanjing Automobile Group, Lenovo Group and Huawei Technologies. 
+
+Nanjing Automobile Group, founded in 1947, is one of the oldest state-owned vehicle manufactures, which undertook acquisition of MG Rover in 2005. The cost of that deal was 55£ million, and this Chinese company acquired engine plant and other facilities, brands, distribution, procurement and service networks. The main aim pursued by Nanjing Automobile Group was to get stronger market positions both in Europe and in China by supplementing its own advantages like low costs, domestic distribution networks with qualified human resources, high technologies, brands, existing foreign markets, etc.  
+
+Another case is famous Lenovo Group’s acquisition of IBM’s PC business. Probably because of rising competition from foreign PC companies like HP or Dell it decided to undertake such a deal with IBM. And again, like in the case of Nanjing Automobile Group, this company planned to reinforce its competitive advantages on the domestic and international market by obtaining famous brand, R&D capabilities, existing distribution channels in developed countries. 
+
+The last case is about the Huawei Technologies (telecom equipment vendor) acquisition of Marconi in 2005 for 600 million £ in order to find new markets as well as get access to new technologies. Thus the reasons are alike those of the companies noted above (Rui, Yip, 2008, p. 219-221).
+
+Among all the similarities of these cases new markets and capabilities certainly are the main points. But besides, all the acquired companies, - MG Rover, IBM’s PC business and Marconi, - were financially troubled, which made it easier for Chinese enterprises to buy them up. Another important characteristic is that these cases represent complicated “strategic intention” of combining its own advantages with the advantages of foreign companies, as Rui H. and Yip G. S. put it (Rui, Yip, 2008).
+
+
+
+Possible future developments of investments in technologies
+
+As we know from the previous chapters, Chinese ODI in general have positive dynamic, its pace of development is very high. Furthermore, the share of investments related to acquiring new created-assets is increasing - probably even more than it is reflected by the data, due to its possible biases. This point may seem even more plausible, considering the fact, that Chinese government and companies themselves are oriented towards boosting technological development and improving the competitiveness of the whole economy in general and of certain enterprises in particular. Furthermore, the experience of other East Asian states like Korea, Taiwan, etc., may serve as an additional confirmation for it.
+
+On the government side, there are many initiatives to impel companies developing their competitive capabilities, to provide them with financial assistance in their process of internationalization, to create suitable S&T system and innovative environment in the country, to intensify green technologies usage in order to minimize energy consumption. Many of these steps have turned out to be successful. Furthermore, these developments are very important for the Chinese government itself, as it is trying to readjust domestic economy, to make it rather capital- and knowledge-intensive with high level of technologically advanced production. As Wang B. notes in his article “Upgrading China's Economy through Outward Foreign Direct Investment”, the structure of the Chinese economy is to be readjusted and there are two ways to do so: first, marketization, strict control and liberalizing, and, second, increasing ODI (Wang, 2012, p. 149-152). That is why ODI in manufacturing sector, acquiring new technologies, brands and managerial practices is a hot topic in the current Chinese government agenda.
+
+At the same time, on the Chinese companies’ side, the same aspirations for technological development are obvious. They are investing more and more money in R&D, undertaking more and more investment deals with foreign companies. It may possibly be related to two different factors: first, since the onset of the globalization of the Chinese economy (especially since its entry in WTO in 2001) more and more foreign companies have been emerging on the domestic market, compelling Chinese companies to compete with far more stronger and technologically developed international rivalries; second, Chinese companies themselves are getting stronger and stronger, having huge domestic market with incredible pool of consumers and governmental support, and, as a consequence, many of them have become much more ambitious to conquer other markets. Thus, competition and new ambitions are the major drivers of the Chinese companies’ internationalization. 
+
+These factors underlie the proposition that investment in foreign created assets, directed to technology acquisition, learning from foreign market, etc., are going to further increase and to become one of the main parts of the Chinese ODI pattern. Of course, its share won’t be big in the near future, but the overall importance of technological development will compel more and more enterprises to invest their capital for new technologies in order to survive. Though it is hard to assess the exact scope of ODI aimed to benefit from foreign created assets increase, and the very dynamic is quite unstable jumping up and down, but for sure there will be more companies like Lenovo, Nanjing Automobile Group and Huawei Technologies, which have similar strategic intentions and buying up foreign assets and acquiring new capabilities.
+
+
+
+Conclusion
+
+Overseas investments in created assets are different from many other types of Chinese ODI: the share of private companies is much more evident, and even prevailing on the scale of SMEs, because they are far more flexible in their decision-making; the bulk of them are gone to industrialized countries, though many SMEs are likely to prefer investing in Asian countries; technology investments are often accompanied with seeking brands and new managerial skills. In addition, Chinese enterprises are willing to go global because of the necessity to compete with foreign MNEs, which are more advanced, in order to be more technologically viable, while other reasons are less important for them. Among entry modes analysts usually note M&A as the main one in general, though data from “China Goes Global” give a different picture – among SMEs greenfield investment is preferred. 
+
+Still, Chinese companies have certain problems, while going abroad, like disadvantageous acquisition, general lack of international experience and evident government presence in these deals. But it seems, that in the course of time all these difficulties will be overcome, as Chinese companies proved to be quite flexible. The successful cases of Lenovo Group, Nanjing Automobile Group and Huawei Technologies are a good example of it. Overall, the general trend of technology ODI development may be perceived as positive, with further increases in its dynamic. 
+
+After all, there is one point, which deserves special attention, – the dynamics of technology ODI are different on the general and SMEs scales. Due to the lack of data it is hard to clarify these differences more precisely, but they are very important, because the future of technology ODI seems to be behind SMEs, which are more flexible, independent, active and welcomed by host countries. Probably recent trends on this very scale are reflecting the future of technology ODI. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. Chinese ODI from the perspective of the OLI paradigm
+
+  After describing the OLI paradigm, the concept of the investment development path and considering the current pattern of the Chinese ODI growth, let’s move to the latter from the perspective of the former and try to assess the applicability of the theoretical approach designed by John Dunning to the Chinese case as an example of transitional economy. 
+
+ The tricky point about the concept of investment development path is that it is very general and to some extent even vague due to its broadness. It is obvious that on the total scale China can smoothly be embedded into the model, looking at its import/export operations history, as well as at the inward/outward investments growth – both are showing skyrocketing figures. Thus, according to the model China is on the third stage of its development path, taking into account its nature as a transitional economy with a big variety of labor-intensive industries and low competitiveness of domestic enterprises on the global scale. Evidently, the key point of moving further to the economic prosperity is based on the ownership advantages of domestic companies, different capabilities and certain government support. From the chapter above we saw, that under the auspices of the state L advantages are improving, the necessary S&T infrastructure and formal institutions are being established, as well as stimulating policies like “Go Global”, Five Year Programs and related S&T development strategies are implemented. Furthermore, the domestic market has become much more sophisticated and the demands of consumers have risen, which force foreign companies to augment their O advantages and accommodate to the intensifying competition with constantly improving local enterprises. 
+
+At the same time, there is one very distinct point about China – the role of state is still central and crucial in the main economic activities including outward investment. As it was shown in the previous chapters, Chinese SOEs are actively playing on the global scale, which can be explained not only by the necessity to protect natural resources safety of the Chinese economy (which is implemented primarily by SOEs), but also by the willingness to exploit their different O advantages abroad. It is exactly the reason why the Chinese ODI pattern is heavily skewed towards natural assets of other countries considering its lack within the country.
+
+Nevertheless, besides direct participation, more important and effective in terms of long-term development is, first, creating S&T infrastructure and, second, related policies to facilitate the internationalization of domestic companies. The very comprehensiveness of these policies makes China so different from Western countries, active reciprocal interaction between companies and the state is so distinct. Thus, these are two major sets of variables, which are affecting the interconnection between O, L and I advantages, making them more dynamic. Therefore a virtuous cycle could be established between them, when positive augmentations in one of the components cause others to change – for example O advantages at time ”t” influence the configuration of I and L advantages which company is facing, and at time “t+1” changed L and I advantages influence on O advantages. On the other hand, state also receives feedback and continue to adjust its policy.
+
+We can look closer at this virtuous cycle from the perspective of state-companies relation using the case of China by scheming it and showing their interconnectedness. First, state-led policies are influencing on O advantages of companies, specifically by improving human resources, S&T development programs, promoting resource-efficient technologies, improving education - there are positive spillovers for the economy in general and companies in particular, because the assets, managerial and technological capabilities of the latter are improving, as well as their absorptive capacity to acquire even more such capacities in future not only from the domestically created-assets, but also from inward investment (Liu Z., 2008). 
+
+Second, state-led policies directly designed to promote ODI are also affecting O advantages of companies through providing funding, discounted loans, information support and amenable process of supervision. Having this kind of governmental aid companies can be more confident in their operations abroad and get access to the necessary help when needed.
+
+Thus, both sets of factors are improving O advantages of domestic companies, which have to catch up with their more advanced foreign peers. In addition, state also adjusts the very direction of ODI and actively supervises the viability of internationalizing projects, which reduces possible negative effects of going abroad of inexperienced local companies.
+
+
+
+
+
+Figure 36: Model of State-company Interaction in the Process of ODI
+
+Thus, we can see how the OLI paradigm works in the Chinese case, where there are two major exogenous sets of independent variables influencing on the dependent variable, - O advantages, - which finally leads to the positive augmentations within the OLI configuration of individual enterprises. It means that having improved O advantages, companies are seeing more opportunities abroad being able to compete more successfully with other rivals, and it in turn leads to the willingness to guard unique capabilities and assets by internalizing them. And this kind of virtuous circle starts again. All in all, O advantages being influenced by the state intervention kick off the whole structure to work and the trend of internationalization is then rising.
+
+It seems evident that for China as a developing country the role of the state is of the highest importance to conduct catching up with developed countries and to improve competitiveness of the economy through ODI, because companies themselves can’t create the necessary infrastructure as well as institutional framework, and having low O advantages they would be outcompeted by foreign MNEs even domestically. Furthermore, overseas companies will also be less interested in investing in such country, preferring import/export operations instead. Hence, in this case vicious circle instead of virtuous one would have taken place. Dunning and Narula add to this point noting that despite the convergence trends of income, technological and knowledge levels among developed countries and some developing ones (e.g. China and India), the majority of the latter are diverging even further from the former, so that they cannot escape this kind of vicious circle and successfully learn from foreign peers (Dunning, Narula, 1999).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conclusion
+
+In this paper several different trends were considered in order to construct the whole picture, in which the dynamics of the Chinese ODI are being formed. It seems that this process cannot be investigated separately, and the political context may give many hints to understand the present and the future of the Chinese overseas investment. Hence the general dynamics of Chinese ODI were considered, as well as related policies of the state from the perspective of the OLI paradigm.
+
+a. General findings
+
+1. The amount of Chinese ODI is constantly rising and its structure is changing. Since this process was actually started by Chinese SOEs, its pattern was primarily formed by political agenda, and most of the Chinese capital was directed to resources, necessary to sustain the economic development of this country.These SOEs are the major contributors to the process of Chinese ODI development, but a new actor is constantly rising on the scene – private companies. Their motives to go abroad are quite different from SOEs’, and many of them are actually interested in other areas, such as business services, financial sector and manufacturing. After all, the share of SOEs is gradually shrinking, while the share of private companies is increasing. It allows assuming that in future the pattern of Chinese ODI will continue to change and private companies may finally lead this process, being the major actor, despite all the difficulties related to their internationalization.
+
+2. Chinese S&T sector is also constantly improving, as it is shown by the amount of capital invested there. It is very important to note, that business sector leads this process, which means that all these investments in technological development are geared to further commercialization. At the same time, the role of the government is also prominent, though it is not direct and therefore is not reflected in statistics. In fact, since the very outset of the Reform Era the Chinese leadership has been aware of the importance of technological development for the whole economy. Consequently, it has undertaken different initiatives to improve the S&T sector, among which the latest plan is the most ambitious, aiming to achieve 2.5% share of GERD in GDP, 60% share of S&T contribution to economic development, etc. Besides, the development of energy-efficient technologies is quite evident, as it becomes more and more important for the general sustainability of the growth, increasing competitiveness of the economy and individual manufacturing enterprises. On balance, it means that technological development is a hot topic for the Chinese government and enterprises, and lots of efforts have been made.
+
+3. ODI in acquiring foreign created assets is rising, but its share is comparatively low and unstable. Nevertheless, the very context and logic of investment development path implies that such investments are likely to rise in future. There are some features, which are inherent to enterprises in this area. First, private companies play the major role being much more flexible and independent from the government, especially on the level of SMEs, which corresponds to the general trend of the private companies share increase in ODI ownership structure. Second, many investment are directed to OECD countries, although many SMEs prefer Asian states. Third, foreign technology procurement is usually accompanied with buying brands and managerial skills, as well as distribution networks. After all, this aspiration to benefit from foreign created assets reflects the ambitions of Chinese firms to conquer foreign markets, to compete successfully with other MNEs, while the Chinese government is constantly encouraging them to do so. It is quite representative that most of internationalized companies are generally satisfied with their investments, which gives them an impetus to continue these efforts. Although there are different problems, but they are likely to be just temporal, as most of them are mainly related to the general inexperience. 
+
+4. Based on the OLI paradigm the model of state-company interaction was proposed, where it is shown that state initiatives play a major role in facilitating internationalization. Being backed by the government Chinese companies feel much more confident on the global markets and potentially have higher absorptive capacity being able to successfully learn from the experience of internationalization. On the other hand, the model is a reciprocal one, which means that the state also gets feedback and adjusts its policies according to the changing situation. It can be said that the two major sets of factors are influencing on the ability of successful internationalization of Chinese enterprises – state policies related to ODI and policies related to developing S&T infrastructure. Among various aims, it is evident that the most important one is to further increase the O advantages related to technological as well as organizational capabilities, and it is likely to be understood by the Chinese government and widely facilitated. As a result, Chinese companies get impetus to act more actively in the global markets and the virtuous cycle of internationalization is launched.
+
+On balance, the main assumption of this paper is that the Chinese state plays the central role in improving the competitiveness of domestic companies, making them more confident in their abilities through developing S&T infrastructure and through direct policies to urge companies to go abroad. According to the logic of the investment development path, more and more companies are likely to engage in outward investment, where the main motive is to benefit from their O advantages, as well as acquire new ones. And despite the current patter of Chinese ODI in future it is more likely that asset-seeking investment will become the most important motive of internationalization. 
+
+b. Contribution of the research and suggestions for further researches
+
+The paper provides with the additional insights to the nature of state-economy interaction. The main idea is actually quite similar to the concept of developmental state (Leftwich, 1995) in the sense that there should be a strong state, which could lead the economic development. Sure enough, China is an example of that. As it was noted throughout the paper ODI is considered as an important tool of successful economic development allowing domestic companies to exploit their ownership advantages abroad, as well as to acquire news ones. But due to their initial inability to do so in the modern world, where fierce competition is represented by foreign enterprises, the state should interfere – the experience of many East Asian countries proves this point (Dilip K. D., 1992; Wu Y., 2004). It is especially the case for Japan, which had overall similar experience several decades ago, though there were some differences as well (木 (Mu), 2006). 
+
+The exact way of such interference is shown in the last chapter, which provides the framework for further researches over the issue. Knowing the main channels through which state is able to promote national competitiveness in the context of ODI it may be possible to scrutinize influencing factors even more precisely. Thus, numerical methods should be implemented to study this phenomenon of state-company interaction more precisely, so that the most contributing factors could be figured out and potentially realized in concrete policies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbreviations
+
+CCPIT - China Council for the Promotion of International Trade 
+
+GERD – Gross Expenditure on Research and Development
+
+GDP – Gross Domestic Product
+
+CSRC - China Securities Regulatory Commission
+
+IDP – investment development path
+
+Koe/$05p – kilogram of oil equivalent / the 2005 oil price (in USD)
+
+MNC – multinational company
+
+MNE – multinational enterprise
+
+M&A – merges and acquisitions
+
+MOFCOM – Ministry of Commerce of the People Republic of China
+
+Mtoe - million tons of oil equivalent
+
+NRDC – National Development and Reform Commission
+
+SASAC - State Asset Supervision and Administration Commission
+
+SAFE – State Administration of Foreign Exchange
+
+SMEs – small and medium enterprises
+
+SOE – State-owned enterprise
+
+S&T – Science and Technology
+
+UNCTAD - United Nations Conference on Trade and Development
+
+
+
+
+
+Charts, graphs, histograms, diagrams 
+
+Figure 1: Vertical and Horizontal FDI in the KC-model	                                       9
+
+Figure 2: Frequency of Applying Different Theoretical Approaches to the 
+
+Chinese  ODI                                                                                                          14
+
+Figure 3: ODI Flow                                                                                                28
+
+Figure 4: ODI Stock                                                                                               29
+
+Figure 5: General Distribution of ODI by Sector                                                   30
+
+Figure 6: Distribution of ODI by Sector                                                                31
+
+Figure 7: Distribution of ODI by Region                                                               32
+
+Figure 8: Distribution of ODI by Sector                                                                34
+
+Figure 9: Percentage of Different Motivations for the Year 2010                         35
+
+Figure 10: Drivers and Facilitators of Internationalization                                    36
+
+Figure 11: Entry Modes of Existing ODI Based on the Survey Results                38 
+
+Figure 12: Level of Satisfaction with Existing ODI of SMEs                               39
+
+Figure 13: Share of SOEs in the Total Number of Companies Invested Abroad  40
+
+Figure 14: Proportion of SOEs and non-SOEs in ODI                                           42
+
+Figure 15: ODI Stock of the USA, Japan and China                                              46
+
+Figure 16: State Agencies’ Level of Participation in ODI-related Policies            48
+
+Figure 17: Gross Domestic Expenditure on R&D                                                  59
+
+Figure 18: R&D Expenditure by Source of Funds                                                  59
+
+Figure 19: R&D Expenditure by Sector of Performance                                        60
+
+Figure 20: R&D Personnel Increase                                                                       61
+
+Figure 21: R&D Personnel Sector of Performance                                                 61
+
+Figure 22: R&D Personnel Type of Activity                                                          62
+
+Figure 23: Number of Granted Patents                                                                   62
+
+Figure 24: Total Energy Consumption in China                                                    64
+
+Figure 25: Energy Intensity of GDP in China                                                        65
+
+Figure 26: Shares of Private- and State-owned Enterprises in 
+
+Technological ODI    	     70
+
+Figure 27: Distribution of ODI Related to Technology by Country                      71
+
+Figure 28: Distribution of R&D Units by Region                                                  71
+
+Figure 29: Distribution of SMEs’ ODI in Manufacturing by Amount                   73
+
+Figure 30: Distribution of SMEs’ ODI in Manufacturing by Region                    74
+
+Figure 31: Ownership Structure of SMEs Invested in Manufacturing                   74
+
+Figure 32: Amount of ODI in Strategic Assets                                                       76
+
+Figure 33: Percentage of Strategic Assets-seeking ODI in the General 
+
+Pattern                                                                                                                    76
+
+Figure 34: Percentage of Different Motivations of Manufacturing Enterprises 
+
+for the Year 2009                                                                                              78-79
+
+Figure 35: MNEs’ Entry Modes                                                                             81
+
+Figure 36: Model of State-company Interaction in the Process of ODI                 89
+
+
+
+References
+
+In Englsih
+
+Aggarwal R., Agmon T. The International Success of Developing Country Firms: Role of Government Directed Comparative Advantage // Management International Review. – 1990. Vol. 30, No. 2. P. 163-180.
+
+Amighini A., Rabellotti R., Sanfilippo M. China’s Outward FDI: An Industry Level Analysis of Host Country Determinants // CESifo Working Paper Series No. 3688. – 2011 // .
+
+Amighini A., Rabellotti R., Sanfilippo M. Do Chinese State-owned and Private Enterprises Differ in their Internationalization Strategies? // China Economic Review. – 2013. Vol. 27. P. 312-325.
+
+Bellabona P., Spigarelli F. Moving from Open Door to Go Global: China goes on the world stage // Chinese Culture and Management. – 2007. Vol. 1, No. 1. P. 93-107.
+
+Berger B., Berkofsky A. Chinese Outward Investments – Agencies, Motives and Decision-making // CASCC Briefing Paper. – 2009.
+
+Berning S. C., Holtbrügge D. Chinese Outward Foreign Direct Investment – a challenge for traditional Internationalization theories? – 2012. // . 
+
+Buckley P. J., Casson M. C. The Future of Multinational Enterprise. London, Macmillan. – 1976.
+
+Buckley J. P., Cross R. A., Tan H., Xin L., Voss H. Historic and Emergent Trends in Chinese Outward Direct Investment // Management International Review. – 2008. Vol. 48, No. 6. P. 715-747.
+
+Cai P. Y. The Media Narrative and Public Debate // East Asia Forum Quarterly. – Canberra, 2012. Vol. 4, No. 2. P. 16-17.
+
+Carr D. L., Markusen J. R., Maskus K. E. Estimating the Knowledge-Capital Model of the Multinational Enterprise // NBER Working Paper Series - 1998. // . 
+
+Cheng L. K., Ma Zihui. China's Outward FDI: Past and Future // NBER conference paper. – 2007.
+
+Cheung Y., Haan J., Qian X., Yu S. China’s Outward Direct Investment in Africa // Review of International Economics. - 2011. Vol. 20, No. 1. P. 201-220.
+
+Cheung Y., Qian X. Empirics on China’s Outward Direct Investment // Pacific Economic Review. – 2009. Vol. 4, No. 3. P. 312-341.
+
+Child J., Rodrigues S. B. The Internationalization of Chinese Firms: A Case for Theoretical Extension? // Management and Organization Review. Vol. 1, No. 3. P. 381-410.
+
+China Data: Chinese Companies Invest Abroad // China Business Review. – 2009 // . 
+
+ China outlines strategic tasks for building innovation-oriented country. – 2006 // .
+
+Cui L., Jiang F. State Ownership Effect on Firms’ FDI Ownership Decisions under Institutional Pressure: A Study of Chinese Outward-investing Firms // Journal of International Business Studies. – 2012. Vol. 43. P. 264-284.
+
+Dilip K. D. The Invisible Hand versus the Visible Hand: The Korean Case // Seoul Journal of Economics. – 1992. Vol. 5, No. 2. P. 86-105.
+
+Dunning J. H., Narula R. Developing Countries versus Multinational Enterprises in a Globalizing World: The Dangers of Falling Behind // Forum of Development Studies. – 1999. Vol. 2. P. 261-287.
+
+Dunning J. H., Lundan S. M. Institutions and the OLI Paradigm of the Multinational Enterprise // Asia Pacific Journal of Management. – 2008a. Vol. 25. P. 573-593.
+
+Dunning J., Lundan S. M. Multinational Enterprises and the Global Economy. Northampton, Edward Elgar Publishing, Inc. – 2008b.
+
+Dunning J. H. Reappraising the Eclectic Paradigm in the Age of Alliance Capitalism // Journal of International Business Studies. – 1995. Vol. 26, No. 3. P. 461-491.
+
+Dunning J. H. The Eclectic Paradigm as an Envelope for Economic and Business Theories of MNE Activity // International Business Review, Vol. 9. – 2000. P. 163-190.
+
+Dunning J. H. The Eclectic Paradigm of International Production: a Restatement and some Possible Extensions. // Journal of International Business Studies. - 1988. Vol. 19. P. 1-31.
+
+Dunning J. H. The Eclectic Paradigm of International Production: Past, Present and Future // International Journal of the Economics of Business. – 2001. Vol. 8, No. 2. P. 173-190.
+
+Dunning H. J., Narula R. The Investment Development Path Revisited: Some Emerging Issues. // Foreign Direct Investment and Governments: Catalyst for Economic Restructuring. Routledge: New Ed edition. – 1998. P. 1-41.
+
+Görg H., Geishecker I. The Vertical Investment Controversy: Re-estimating the Knowledge-Capital Model for Different Types of FDI. Leverhulme Centre for Research on Globalization and Economic Policy, University of Nottingham. Research Paper 2005/03 – 2005. // . 
+
+ He W., Lyles M. A. China’s Outward Foreign Direct Investment // Business Horizons. – 2008. No. 51. P. 485-491.
+
+Hennart J. F. A Transaction Cost Theory of Equity Joint Ventures // Strategic Management Journal, 9, 4. – 1988. P. 361-374.
+
+ Hoong E., Sun L. Dynamics on Internationalization and Outward Investment: Chinese Corporations’ Strategies // The China Quarterly. – 2006. No. 187. P. 610-634.
+
+ Huang Y. The Changing Face of Chinese Investment // East Asia Forum Quarterly. – Canberra, 2012. Vol. 4, No. 2. P. 13-15.
+
+ Hurst L., Cai P. Y., Findlay C. Chinese Direct Investments in Australia: Public Reaction, Policy Response, Investor Adaptation // EABER working paper series. – 2012. No. 81.
+
+Hymer S. H. The International Operations of National Firms: A Study of Direct Foreign Investment. Ph.D. dissertation. Cambridge: MIT press. – 1976.
+
+Johanson J., Vahlne J.E. The Internationalization Process of the Firm: A Model of Knowledge Development and Increasing Foreign Market Commitments // Journal of International Business Studies. – 1997. Vol. 8, No. 1. P. 23-32.
+
+Kojima K. Macroeconomic Versus International Business Approach to Direct Foreign Investment // Hitotsubashi Journal of Economics. – 1988. Vol. 23, No. 1. P. 1-19.
+
+Leftwich A. Bringing Politics Back in: Towards a Model of the Developmental State // Journal of Development Studies. – 1995. Vol. 31, No. 3. P. 400-427.
+
+Liu X., Buck T., Shu C. Chinese Economic Development, the Next Stage: Outward FDI? // International Business Review. Vol. 14. – 2005. P. 97-115.
+
+Liu Z. Foreign Direct Investment and Technology Spillovers: Theory and Evidence // Journal of Development Economics. – 2008. Vol. 85. P. 176-193.
+
+Lu J., Liu X., Wang H. Motives of Outward FDI of Chinese Private Firms: Firm Resources, Industry Dynamics, and Government Policies // Management and Organization Review. - 2010 Vol. 7. No. 2. P. 223-248.
+
+Luo Y., Tung R. International expansion of emerging market enterprises: a springboard perspective // International Journal of Business Studies. – 2007. Vol. 38. P. 481–498.
+
+Markusen J. R., et al. A Unified Treatment of Horizontal Direct Investment, Vertical Direct Investment, and the Pattern of Trade in Goods and Services // NBER Working Paper – 1996. // . 
+
+Mathews J. A. Dragon multinationals: new players in 21st century globalization // Asia Pacific Journal of Management. – 2006. Vol. 23. P.5–27.
+
+ Minin A. D., Zhang J., Gammeltoft P. Chinese Foreign Direct Investment in R&D in Europe: a New Model of R$D Internationalization&? // European Management Journal. – 2012. No. 30. P. 189-203.
+
+ Moran T. H., Kotschwar B., Muir J. Resource Procurement: Not Just a Zero-Sum Game // East Asia Forum Quarterly. – Canberra, 2012. Vol. 4, No. 2. P. 28-30.
+
+ Mork R., Yeung B., Zhao M. Perspectives on China’s Outward Foreign Direct Investment // Journal of International Business Studies. – 2008. Vol. 39. P. 337-350.
+
+OECD Benchmark Definition of Foreign Direct Investment (fourth edition). – 2008. // . 
+
+OECD Guidelines for Multinational Enterprises. – 2008. // . 
+
+ OECD Reviews of Innovation Policy – China. – 2008. // .
+
+ OECD Investment Policy Reviews - China. – 2008 // .
+
+Ozawa T. Foreign Direct Investment and Economic Growth // Transnational Corporations. Vol. 1, No. 1. – 1992. P. 27-54.
+
+Protsenko A. Vertical and Horizontal Foreign Direct Investments in Transition Countries. PhD thesis. Ludwig-Maximilians-Universitat, Munich. - 2003. // . 
+
+ Qiu Y., Ortolano L., Wang Y. D. Factors Influencing the Technology Upgrading and Catch-up of Wind Turbine Manufactures: Technology Acquisition Mechanisms and Government Policies // Energy Policy. – 2013. No. 55. P. 315.
+
+ Rosen D. Financial Repression and Outbound Investment // East Asia Forum Quarterly. – Canberra, 2012. Vol. 4, No. 2. P. 20-21.
+
+ Rui H., Yip G. S. Foreign Acquisitions by Chinese Firms: a Strategic Intent Perspective // Journal of World Business. – 2008. No. 43. P. 213-226.
+
+ Schüller M., Turner A. Global Ambitions: Chinese Companies Spread their Wings // China Aktuell: Journal of Current Chinese Affairs. – 2005. Vol. 34, No. 4. P. 3-14.
+
+Scissors D. China’s Steady Global Investment: American Choices // . 
+
+ Scissors D. Chinese Outward Investments: Acceleration Features the US. – 2012 // .
+
+ Shambaugh D. Are China’s Multinational Corporation Really Multinational? // East Asia Forum Quarterly. – Canberra, 2012. Vol. 4, No. 2. P. 7-9.
+
+Shenkar O., Luo Y. Foreign Direct Investment Theory and Application. SAGE Publications Inc., 2nd edition - 2007. P. 61-62.
+
+ The China Greentech Report 2012. – 2012 // . 
+
+The China Greentech Report 2013. – 2013 // . 
+
+Vernon, R. International Investment and International Trade in the Product Cycle // Quarterly Journal of Economic. Vol.  80. – 1966. 190- 207.
+
+Voss H. The Foreign Direct Investment Behavior of Chinese Firms: Does the “New Institutional Theory” Approach offer Explanatory Power. PhD thesis. Leeds University Business School. – 2007.
+
+Wamae W. A Survey of Innovation Policies in Developing Countries: Lessons and Case Studies. Draft for Comments. – 2006. // . 
+
+ Wang B., Huang Y. Chinese Outward Direct Investments: Is There a China Model? // China & World Economy. – 2011. Vol. 19, No. 4. P. 1-21.
+
+ Wang B., Huang Y. Industry and Ownership Structure of Chinese Overseas Direct Investment // EABER Working Paper Series. – 2012.  No. 75.
+
+ Wang B. Upgrading China's Economy through Outward Foreign Direct Investment // Rebalancing and Sustaining Growth in China. - Canberra, 2012. P. 149-174.
+
+ Wang B., Wang H. Chinese Manufacturing Firms' Overseas Direct Investment: Patterns, Motivations and Challenges // Rising China: Global Challenges and Opportunities. – Jane Golley and Ligang Song, eds., ANU Press, 2011. P. 99-119.
+
+Wenbin H., Wilkes A. Analysis of China’s Overseas Investment Policies. Center for International Forestry Research // . 
+
+ Wolf C., Chow B. G., Jones G. S., Harold S. China’s Expanding Role in Global Mergers and Acquisitions Markets. – 2011. RAND Corporation // .
+
+Wu Y. Rethinking the Taiwanese Developmental State // The China Quarterly. – 2004. Vol. 177. P. 91-114.
+
+ Xu Gao, State-Owed Enterprises in China: How Big are They? – 2010 // .
+
+Yiu D. Multinational advantages of Chinese business groups: a theoretical exploration // Management and Organization Review. – 2010. Vol. 7, No. 2. P. 249-277.
+
+Young S., Huang C. H., McDermott M. Internationalization and Competitive Catch-up Processes: Case Study Evidence on Chinese Multinational Enterprises // Management International Review. – 1996. Vol. 36. No. 4. P. 295–314.
+
+Yu A. L., Li K. Preliminary Report on China’s Going Global Strategy // Asia Monitor Resource Center. – 2012. 
+
+Zhang J. International R&D Strategies of Chinese Companies in Developed Countries: Evidence from Europe and the U.S. // PhD dissertation. – 2010. Scuola Superiore Sant’Anna. 
+
+ Zhou N., Levine M. D., Price Lynn. Overview of Current Energy Efficiency Policies in China // Energy Policy. – 2010. Vol. 38, No. 11. // .
+
+
+
+In Chinese
+
+陈扬勇 (Chen Yangyong)。 江泽民“走出去”战略的形成及其重要意义 (“Formation of Jiang Zemin's «Go Out» Policy and its Importance”)。 - 2008 // .
+
+李金珊 (Li Jinshan)，张默含 (Zhang Mohan)。中国对外直接投资宏观，中观与微观研究述评 (“Scientific Estimation of Chinese Outward Direct Investment From Macro, Middle, Meso and Micro Perspectives”) // 现代管理科家 (“Modern Manager”)。 - 2012. Vol. 2. P. 6-8.
+
+木每 (Mu Mei)。中日对外直接投资比较分析 (“Comparative Analysis of Japanese and Chinese Outward Direct Investment”) // 日本学刊 (“Japanese Studies”)。 - 2006. Vol. 2. P. 97-105.
+
+王海军 (Wang Haijun)，宋宝琳 (Song Baolin)。中国对外直接投资的动因研究 – 基于市场与资源两种因素的探讨 (“Study of the Chinese Outward Direct Investment Motives – Based on Investigating Market- and Resource-related Factors”) // 西安交通大学学报（社会科学版）(Scientific Journal of Xi’an Jiaotong University)。 – 2013. Vol. 33, No. 19. P. 22-27.
+
+姚枝仲 (Yao Zhizhong)，李众敏 (Li Zhongmin)。中国对外直接投资的发展 趋势与政策展望 (“Development Trends of Chinese Outward Direct Investment and its Policy Perspectives”) // 国际经济评论 (“International Economic Review”)。- 2011. Vol. 2. P. 127-140.
+
+周升起 (Zhou Shengqi)。 中国对外直接投资：现状，趋势与政策 (“Chinese Outward Direct Investment: Present State of Art, Trends and Policy”). - 2009 // . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sources
+
+In English
+
+China Goes Global 2011 – Survey of Outward Direct Investment Intentions of Chinese Companies // .
+
+China Goes Global 2013 – Survey of Outward Direct Investment Intentions of Chinese Companies // . 
+
+Global Energy Statistical Yearbook. – 2011 // .
+
+Interbrand – 100 World Best Brands in 2013 // .
+
+Forbes  - The World’s Most Valuable Brands // . 
+
+MOFCOM – 2010 Statistical Bulletin of China’s Outward Foreign Direct Investment.
+
+MOFCOM – Foreign Investment Statistics. // . 
+
+The Heritage Foundation – China Global Investment Tracker Interactive Map // . 
+
+UNCTAD – Foreign Direct Investment Statistics. // . 
+
+UNCTAD - World Investment Report 2012. Towards a new generation of investment policies. // . 
+
+UNCTAD – World Investment Report 2013. Global Value Chains: Investment and Trade for Development. // . 
+
+
+
+In Chinese
+
+对外投资国别产业导向目录 (“Guiding list for Investments in Overseas Countries’ Industries”) // .
+
+对外投资国别（地区）指南 (“Guidelines for Investments in Overseas Countries (Regions)”) // . 
+
+国家“十一五”科学技术发展规划 (“11th Five-Year Plan” of the People's Republic of China - Outline of S&T development). 
+
+国家“十二五”科学技术发展规划 (“12th Five-Year Plan” of the People's Republic of China - Outline of S&T development).
+
+国家中长期科学和技术发展规划纲要（2006━2020年）(“The Medium- and Long-term Strategic Plan for the Development of Science and Technology (2006-20)”) // . 
+
+国务院办公厅转发外经贸部、国家经贸委、财政部关于鼓励企业开展境外带料加工装配业务意见的通知 (“Information about the Opinion on Encouraging Companies to Carry Out Overseas Material Processing and Assembly by the State Council Office given to the Ministry of Foreign Commerce, the State Economic, Trade Commission and Department of Finance)”) // .
+
+中国对外投资合作发展报告 (“Report on Development of China’s Outward Investment and Economic Cooperation”) // 中华人民共和国商务部 (“Ministry of Commerce of the People’s Republic of China”)。- 2012 // . 
+
+中国科技统计 (China's Science and Technology Statistics). – 2012 // .
+
+中华人民共和国国家发展和改革委员会 – 外资利用 (“National Development and Reform Commission – Use of Foreign Capital”) // . 
+
+ 中华人民共和国科学技术部 (“Ministry of Science and Technology of the Peoples’ Republic of China”) // . 
+
+商务部环境保护部关于印发《对外投资合作环境保护指南》的通知 (“The Announcement of the Department of Environment Protection of the Ministry of Commerce about issuing “Guidelines for Environmental Protection in Foreign Investment and Cooperation”). – 2013 // .

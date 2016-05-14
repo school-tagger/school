@@ -1,0 +1,370 @@
+Scientific Research University
+
+Higher School of Economics
+
+Faculty of Business Informatics
+
+Department of Business Analytics
+
+
+
+
+
+
+
+
+
+
+
+
+
+DRAFT
+
+of the paper
+
+“Planning the Strategy of a Company's Innovative Development”.
+
+
+
+
+
+
+
+                                                                              Student Popov Zakhar
+
+Group 472
+
+Argument Consultant Maron A.I.
+
+Style and Language Consultant Phd Kuzmina T.A.
+
+
+
+
+
+
+
+
+
+
+
+2013
+
+
+
+
+
+
+
+
+
+
+
+Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abstract.
+
+	This draft  is a version of the first part of a scientific project about the strategy of a company's innovative development. The main aim of this work is development of analytical methods, based on the existing ones, to assess objectively the feasibility of projects related to innovation management.
+
+	The work introduces the definition of innovative development of a company and describes possible ways of development. Innovations in management is a central part of examination, thus in a theoretical part there is a description of the evaluation and monitoring of risks which appear during the realization of innovative projects in management. The scrutiny of the modern approach of risk management helps to understand basic weaknesses in the methodology.
+
+	In conclusion the author describes further examinations within a scientific project.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introductory part
+
+	In order to be in a competitive level companies have to carry out innovative activities. Innovations are act as a trigger to the growth in economic and technological efficiency and in attracting new customers. Technological level of a company is one of the most important factor that determines competitiveness of the company. 
+
+	There is a situation in our country nowadays, such that Russian companies do not have any incentives to innovative development. The main reason of such situation is a fact that innovative development is not the major tool in a competition. In fact, Russian companies do not see any sense of the integrating innovations because main competitive advantages are created by other factors. Showing high level of profitability Russian companies spend very small sums on R&D or such costs do not exist at all. Percentage of companies who are absolutely passive in innovations, that is who do not have any new products, technologies or spends nothing on development ones is about 44%. In the range of 19% to 27% are companies which work on developing and integrating new goods and services. Only few companies about 3 percent are focus on new products and technologies for global market. Very often only big companies with a huge amount of free resources do innovative activities.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Problem statement
+
+	In order to understand the problem which arise in this chapter it is necessary to introduce the concept of innovative development in a company. Innovative development is an activities of companies belonging to one of the following categories:
+
+development of new technologies
+
+development and production of innovative products
+
+innovations in management
+
+and any other activity that have an aim of developing and integrating new technologies, innovative goods and services satisfying world standards, modernizing existing technologies and innovative development of  key sectors of industries in Russian federation.  
+
+	The strategy of innovative development of  JSC “Russian Railways” until 2015 includes several categories of development and innovations in management as well. Within innovative program JSC "RZD" supposed to change management approach from functional to process approach. A number of risks appear when a company change a management approach. It may be violation of the control and monitoring of company’s activities and its different parts, emergence of contradictions of interests of certain business units in the company, problems of communications between different departments etc. All these and many other risks should be assessed and agreed on the desirability of transition in management.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Approaches to risk analysis
+
+In order to analyze risks it is necessary to understand the meaning of the risk. Risk is a possibility of the onset of an event which leads to certain effects. An event may be a positive or negative respectively effects may be positive or negative.
+
+Risk analysis includes several stages:
+
+Risk management planning - choice of approach, planning and executing operations for managing risks in a project. 
+
+Risk identification – determining which risks can influence on project, and documental description of such risks.
+
+Qualitative Risk Analysis – ranking risks according to priority for further analysis and processing them by evaluation and summing probability of the onset and their influence on the project.
+
+Quantitative risk analysis – quantitative analysis of a potential influence of identified risks on the aims of the project.
+
+Planning risk response - develop possible options and actions that lead to increasing of positive opportunities and decreasing threats.
+
+Monitoring and risk management – tracking of identified risks, monitoring other possible risks, identifying new risks, executing plans of response on risks and evaluation of its effectiveness during the whole lifecycle of a project.
+
+
+
+1 Project Risk Management Overview (PMBOK, p.274)
+
+
+
+Based on this methodology, analysis of innovative project in JSC "RZD" should begin with identifying possible risks and creating a plan of risk management program. First of all, it is necessary to focus on existing pros and cons of process approach of management.
+
+Thus main benefits of the process approach is high transparency, flexibility, and adaptability of the management system and directionality on continuous quality improvement of producing goods and services.
+
+A significant drawback is a problems of transition to a process approach. There are many problems arising during transition such as problems of calculation 
+
+and allocation of resources to organize the transition, incorrect statement of goals and objectives, resistance of staff to innovations in company.
+
+On the first stage it is necessary to make a list of all possible risks of a project using project documentation, analogs of previous projects and other sources. To gather information about project's risks it is common to use following methods: 
+
+Brainstorming
+
+Delphi method
+
+Interviews
+
+Identifying basic reasons of emerging risks
+
+SWOT analysis 
+
+In the end of this stage a company receives a document called registry of risks. On the stage of identification registry of risks is filled with following recordings: a list of identified risks, a list of possible actions for regulating, basic reasons of emerging risks, redetermination of risk categories.
+
+Qualitative risk analysis is the next stage of evaluation and analysis of risks. The aims of this stage is ranking risks according to its priority and influence on the project. To improve effectiveness of the realization of the project companies should pay more attention to risks with the highest priority.  
+
+Managers conduct interviews and hold meetings with project team and specialists in a particular area in order to evaluate influence of every risk adequately. During evaluation of risks in companies it is used matrix of probability and consequence. This matrix includes on the one axes probability of the onset risks on another axes influence on the project. As a result it is possible to group risks into several segments according to high, middle and low risks. It should mention that matrix includes not only negative risks but positive risks as well. Thus management can focus its attention on the most dangerous risks to avoid or eliminate them and on the most positive risks to provide its realization.
+
+After the stage of qualitative risk analysis is completed it is possible to run the stage of quantitative risk analysis. This analysis is used for evaluation of probability of executing particular aims of project, for more precise identification of risks with the greatest threat, and quantification of risks and their contribution in the whole project.
+
+There are different methods of quantitative risk analysis such as sensitivity analysis, expected monetary value analysis (EMV), analysis of the decision tree and modeling and imitation. Monte Carlo method and analysis of the decision tree allow to evaluate EMV of the project in different conditions and to model the results of the impacts of particular uncertainties which is described in the project. One of the important methods used during this stage is BOCR (Benefits, Opportunities, Costs, Risks) method. This method was creating for modeling situations and making decisions. 
+
+One of the key points on exits of this stage is the update of risk registry by notes about the probability of the achievement of the project aims according to costs and time. Therefore using quantitative estimations companies can estimate the probability of the achievement of a particular cost of a project for instance.
+
+A company can start to plan how to respond on risks after stages of qualitative and quantitative analysis of risks. This process is used to improve positive possibilities and reduce threats of the project. Different methods are used during this stage, here is some of them:
+
+The strategy of responding to negative risks.
+
+This strategy is divided into three parts such as avoiding, sending and reducing of risks. 
+
+The strategy of responding to negative risks.
+
+This strategy also includes three sub strategies: using of positive possibilities, transmitting responsibility for the realization of the project to third party which is more competent in this sphere. The last sub strategy is enhancement which means increasing probability of the onset of positive event.
+
+Common strategy of responding to negative and positive opportunities.
+
+This includes a risk-taking strategy. If it is impossible to affect on risk, project team may decide to leave the plan of project the same which means of not using any strategy to a particular risk.
+
+A strategy of responding to unforeseen circumstances
+
+This strategy includes methods of managing unforeseen circumstances. 
+
+
+
+In the end of this stage the risk registry is updated. There add notes about responding to risks. Planned activities should satisfy the level of risk, they also should be reasonable and effective. It should be noticed that as a result of this project the whole management plan of a project is changing.
+
+The last stage is a monitoring and risk management. This stage is being realized during the whole life of project and directed to identification, analysis and planning new risks which arise during realization. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Further researches and results
+
+In the previous chapter management methods of evaluating risks were described. Using as an example the company JSC "RZD", it is necessary to prove the correctness of the transition to process approach, using methods from quantitative risk analysis. As a result of this work it is expected to identify some additional regularities and math models which will allow to evaluate risks and effects more precisely.
+
+During the research, for deeper understanding the problem it is planning to examine and analyze methods of modern business-analytics. For modeling the problem, dividing it into several independent parts and further structuring these parts, the program SuperDecision will be used. This program is a simple software tool for decision making with dependence and feedback.
+
+Besides it is planning to examine the structure of management in JSC "RZD" before and after the transition to process approach. Moreover it is necessary to give qualitative and quantitative assessments of the efficiency of management in different management approaches. Based on the results it will become possible to analyze pros and cons of the transition and evaluate risks and effects.
+
+Ultimately the author supposes to get an applicable management tool which will allow a company precisely evaluate possible risks of project and get rationale for integrating new approach to management. Using this tool companies will be able to increase efficiency of integrating a new management approach, to get control over the realization of the project and achievement of a particular tasks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bibliography
+
+1.	Project Management Institute, 2008: A Guide to the Project Management Body of Knowledge (PMBOK Guide) 4th Edition. Project Management Institute Inc. – 273 p.
+
+2.	The strategy of innovative development of JSC “Russian Railways” until 2015 (White book JSC "RZD")
+
+3.	Saifullina S.F. , 2010: Problems of innovative development of Russian companies.
+
+4.	Ministry of Economic Development of the Russian Federation, 2010: Corporate programs of innovative development. 
+
+5.	Ministry of Economic Development of the Russian Federation, 2012: Training materials for the development of innovative development programs of joint stock companies with state participation, public corporations and the federal state unitary enterprises.
+
+6.	Functional strategy of quality management in JSC "RZD", 2007
+
+7. 	Thomas L. Saaty: Decision Making with Dependence and Feedback: The Analytic Network Process
+

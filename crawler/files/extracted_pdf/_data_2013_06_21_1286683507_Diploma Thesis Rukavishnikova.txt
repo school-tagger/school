@@ -1,0 +1,3917 @@
+National Research University 
+Higher School of Economics   
+
+ 
+ 
+ 
+ 
+
+International College of Economics and Finance  
+
+Diploma Thesis   
+
+ 
+ 
+
+On a topic: 
+
+“Uneven Influence of the WTO on Countries and Their Trade”  
+
+ 
+
+ 
+Student of the 4th course, group  №2 
+Evgeniya M. Rukavishnikova 
+
+Scientific Supervisor Ph.D, 
+Assistant Professor of Economics 
+Roman L. Zakharenko 
+ 
+ 
+
+Moscow, 2013 
+
+1	  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+	  
+
+Всемирная Торговая Организация является одной из самых значимых и влиятельных 
+структур  в  мире.  Число  стран,  находящихся  в  ВТО,  в  2013  году  составило  159.  Эта 
+цифра составляет от 64% до 84% от общего количество стран (в зависимости от данных 
+по  количеству  стран  в  мире).  Безусловно,  процесс  вступления  и  участия  в  этой 
+организации  является  определяющим  в  дальнейшей  жизни  страны  и  именно  в  этом 
+заключается  актуальность  исследования  неравномерного  влияния  ВТО  на  развитые  и 
+развивающиеся страны.   
+
+этого 
+
+был 
+
+для 
+
+создан  принцип 
+
+Как  и  ее  предшественник  ГАТТ,  ВТО  определила  развитие  и  рост  торговли  своей 
+первичной  целью.  Именно 
+«Наиболее 
+Благоприятствуемой Нации», который обязывает все страны в составе ВТО применять 
+одинаковый уровень тарифов на различные товары для всех своих торговых партнеров. 
+Кроме  того,  правила  организации  включают  в  себя  предоставление  льгот 
+развивающимся  странам  и  оказание  им  помощи  в  решении  целого  ряда  вопросов. 
+Однако,  в  реальности  развитые  страны  оказываются  в  более  привилегированных 
+условиях,  проводя  политику  «защитного  протекционизма».  Результатом  этого  стали 
+завышенные  импортные  тарифы  в  богатых  странах  и  заниженные  в  бедных  и 
+развивающихся, что и стало одной из ключевых причин различий эффектов ВТО. 
+
+Главной  целью  данной  работы  является  исследование  различного  влияния 
+Всемирной  Торговой  Организации  на  развитые  и  развивающиеся  страны  с  помощью 
+изучения уже существующих работ и созданных эконометрических моделей. 
+
+ 
+Для достижения цели были поставлены следующие задачи: 
+1.  Изучить историю ВТО, ее основные принципы и правила; 
+2.  Проанализировать преимущества и недостатки от вступления в ВТО; 
+3.  Рассмотреть  различия  для  развитых  и  развивающихся  стран  и  выделить 
+основные  сферы  влияния  благодаря  научным  источникам  и  собственному 
+эконометрическому анализу. 
+
+    
+  Исследование  проводилось  с  помощью  вариации  гравитационной  модели  и 
+регрессий, оцененных с применением процедуры взвешивания параметров. В качестве 
+зависимых  переменных  использовались  импорт  и  экспорт,  а  также  их  модификации. 
+Эконометрический  анализ  подтвердил  гипотезу  о  неравномерном  влиянии  ВТО  на 
+развитые и развивающиеся страны.  
+
+Данные  были  получены  с  помощью  баз  Международного  Валютного  Фонда, 
+
+Всемирного Банка, UN Comtrade, а также CEPII. 
+
+	  
+
+2	  
+
+	  	  
+
+Contents 
+
+Introduction ............................................................................................................................... 4 
+1.The World Trade Organization ........................................................................................... 6 
+1.1 History of the WTO .......................................................................................................... 6 
+1.2 The Basic Principles and Goals of the WTO .................................................................... 7 
+1.3 The Operational Structure of the WTO ............................................................................ 9 
+1.4 The Future of the WTO .................................................................................................. 10 
+2. World Trade Organization Accession .............................................................................. 11 
+2.1 The Main Steps and Their Features ................................................................................ 11 
+2.2 Why countries join the WTO? Advantages and Disadvantages ..................................... 13 
+2.3 Difference of the WTO Influence for Developed and Developing Countries ................ 17 
+3. Analysis of Research Papers and Existing Models .......................................................... 21 
+4. Research and Econometric Analysis ................................................................................. 27 
+4.1 Empirical Study. Part I: Gravity Model .......................................................................... 27 
+4.2 Empirical Study. Part II .................................................................................................. 31 
+Conclusion ............................................................................................................................... 38 
+References ................................................................................................................................ 40 
+Results ...................................................................................................................................... 43 
+Gravity model ....................................................................................................................... 43 
+Cross-section weights model ................................................................................................ 48 
+Appendices ............................................................................................................................... 52 
+ 
+
+ 
+
+	  
+
+3	  
+
+Introduction 
+
+ 
+The World Trade Organization is one of the most important and affluent structures in 
+the  world.  Currently  it  has  159  members,  which  generates  from  64%  to  84%  of  the 
+whole number of existing countries or territories. The percent varies due to the fact that 
+some countries are not recognized as independent states and, for example, the United 
+Nations  has  193  countries  in  its  list.  As  the  successor  of  the  General  Agreement  on 
+Tariffs  and  Trade  (GATT)  the  WTO  continues  its  operation  and  manages  the 
+international  trade  relationships  and  all  issues  connected  with  this  topic.  The  main 
+declared goal of the organization is to promote trade for its members while providing 
+assistance  to  countries,  contributing  to  the  development  process,  regulating  foreign 
+economic relations and solving trade disputes. The accession process and the “game” 
+according to the implemented rules are the inevitable parts of all countries in the XXI 
+century. 
+
+The significant role of trade dependence has been studied for many years. There is an 
+indicator that shows the importance by the values of total trade (the sum of exports and 
+imports)  divided  by  the  Gross  Domestic  Product  (or  sometimes  Gross  National 
+Product).  Usually  small  countries  (or  countries  with  low  population)  have  high  trade 
+dependence, which can reach the level of 90%. Developing countries are usually more 
+export-oriented.1 
+
+The significance of the international trade and the unchanged situation during several 
+decades are the main stimulus of the research as joining the WTO as well as being its 
+participant  has  uneven  effects  on  developed  and  developing  countries.  Different 
+researches tell us that rich countries have a lot more benefits than poor ones. 
+
+The  main  purpose  of  this  work  are  the  examination  of  the  WTO  influence,  the 
+analysis of its key differences for developed and developing countries and the empirical 
+results that will confirm my hypothesis of unequal effects. 
+
+ 
+For the successful accomplishment of the goal following steps were made: 
+ 
+
+1. 
+2. 
+3. 
+4. 
+
+Insight into the history of the WTO, its principles and rules; 
+Study of the accession process; 
+Analysis of the asymmetry between developed and developing countries; 
+Consideration of existing models of the WTO effects on trade and countries; 
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+1	  Mikic M., Commonly Used Trade Indicators: A Note, ARTNeT Capacity Building Workshop on Trade, 2005	  
+	  
+4	  
+
+Estimation  of  the  influence  and  disparity  between  developed  and  developing 
+
+5. 
+countries with econometrical models. 
+ 
+
+Two  econometric  models  were  used  in  my  analysis.  The  first  one  was  based  on 
+bilateral trade and the gravity model. The second model showed the effect on imports 
+and exports and its modifications. 
+
+The  results  of  both  models  coincide  with  my  hypothesis  as  the  influence  of  the  WTO 
+
+differs for developed and developing countries and their trade. 
+
+ 
+
+	  
+
+5	  
+
+1.The World Trade Organization 
+1.1 History of the WTO 
+
+ 
+In order to get the full understanding of the WTO influence and how it promotes trade in 
+developing  and  developed  countries  the  more  precise  definition  of  the  organization,  its 
+structure, approaches and aims should be given. 
+
+ The idea of formation of some international organization, the mail goal of which would be 
+the control of international trade, takes its roots from the Second World War. However, the 
+process itself was quite long and hard and required a lot of modifications until the WTO was 
+established  and  got  the  look  we  are  all  familiar  with.    In  1944  during  the  Bretton  Woods 
+conference  with  the  help  of  the  USA  and  the  United  Kingdom  the  International  Bank  for 
+Reconstruction and Development (IBRD) and the International Monetary Fund (IMF) were 
+set  up.  One  more  important  result  was  the  new  economic  mainstay:  International  Trade 
+Organization.  The  international  conference  in  1996  in  Havana  was  dedicated  to  trade  and 
+employment. The statute and formal regulations (necessary substantive laws) were proposed. 
+Most  of  them  were  connected  with  the  decrease  in  tariffs,  the  simplification  of  the 
+international trade process and the easing of the customs burden for goods making their way 
+from one country to another. 
+
+In 1947 General Agreement on Tariffs and Trade was signed. Initially it was considered as 
+only  a  part  of  the  broad-based  agreement  on  new  international  trade  organization.  Quite 
+unexpectedly, Congress refused to ratify the statute of the ITO (despite the fact that the USA 
+was the main driving force of this organization). As a result GATT acted as an independent 
+unit without any strong base.  
+
+During the years GATT showed itself as a quite dual system, which was able to reduce the 
+customs duty from 40% in the mid 40s to almost 4% during the mid 90s. The significant part 
+of GATT were systematically conducted trade rounds between countries-members. The goal 
+of such meetings was the reduction of explicit customs duties and hidden non-tariff barriers 
+on imports from abroad. The first round “Geneva” started on April 1946 with 23 countries 
+and ended 7 months later with the signing of GATT and 45,000 tariff concessions. The last 
+(which ended the life of GATT) took effect on September 1986 and lasted 87 months with the 
+participation  of  123  countries.  The  disputes  consisted  not  only  of  tariff  and  non-tariffs 
+measures  but  also  of  intellectual  property,  textiles,  agriculture.  The  main  outcome  of  this 
+round  became  the  creation  of  the  WTO  in  19942.    Member  countries  came  to  a  consensus 
+regarding trade of goods regulation. Moreover, due to the increasing role of services in the 
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+2	  The	  full	  information	  about	  rounds	  and	  its	  results	  can	  be	  found	  in	  Appendix	  
+	  
+
+6	  
+
+postindustrial  society  and  its  significant  share  in  the  world  trade  the  new  agreement  was 
+established. It was called “General Agreement on Trade in Services” (GATS) and addressed 
+issues of this sphere of international trade. 
+
+It is important to note that within this Marrakesh agreement (which gave birth to the WTO 
+and GATS) went through the intellectual property agreement – TRIPS. Agreement on Trade-
+Related Aspects of Intellectual Property Rights controls trade issues connected with rights on 
+creations  of  the  mind  (inventions,  arts,  literature  and  etc.)  and  nowadays  is  considered  the 
+essential part of the legal base of the WTO. 
+
+Thus, after almost 50 years of failed attempts to form international organization and the 
+existence of the transitional GATT system from January 1st 1995 the WTO took up the reins. 
+	  
+1.2 The Basic Principles and Goals of the WTO 
+
+ 
+After the deep analysis of different literary sources together with the official information of 
+the  WTO  organization  I  would  like  to  briefly  outline  5  main  rules  of  the  international 
+organization. 
+1) 
+The discrimination in the trading sphere is unacceptable. This can be combined with 
+the “Most Favoured Nation” treatment (no discrimination for trading partners). It says that if 
+the country grants another country a “special favour (such as a lower customs duty rate for 
+one of their products)” it has to do the same for all other countries-members of the WTO.3 
+Countries  are  not  eligible  to  infringe  on  the  rights  of  other  countries  while  imposing  any 
+restrictions  on  exports  and  imports.  The  ideal  situation  can  be  described  as  the  one  where 
+domestic market of any country makes no distinctions between conditions for domestic and 
+foreign products. However, in the reality there is a rule about restrictions and protectionism, 
+which partly contradicts this principle.  
+2) 
+Minimization of trade barriers. In other words this rule describes all factors that can 
+possibly  decrease  the  potential  of  the  domestic  market  penetration  of  any  foreign  goods. 
+Firstly, these barriers are any customs duties and imports quotas. Besides international trade is 
+under an influence of administrative factors and politics of the exchange rates. 
+3) 
+Permanence  and  stability  of  trade  conditions.  Foreign  investors,  governments  and 
+companies need some feeling of certainty that in the short-term or long-term perspective all 
+terms and conditions of trade deals won’t be violated or changed unexpectedly. 
+4) 
+Maintenance of competitive stimulus. In order to observe fair trading and competition 
+the use of all “unfair” methods of the competitive struggle should be crushed in the bud. For 
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+3	  wto.org	  (Principles	  of	  the	  trading	  system)	  
+	  
+
+7	  
+
+example, export subsidies, dumping prices result in takeovers of new segments of the market 
+or market channels overall. All these activities should be stopped and controlled. 
+5) 
+Exemptions  for  less  developed  or  developing  countries.  This  principle  is  in 
+contradiction  with  other  rules  listed  above  as  there  are  certain  privileges  provided  by  the 
+WTO for these countries and it is considered fair as especially developing countries find it 
+really hard to compete with developed strong economies at first. This principle is necessary as 
+it ensures involvement of weak undeveloped countries. This rule is quite promising for the 
+developing countries. However, in the reality the situation is a little bit different. The analysis 
+of the problem and its reasons will be provided later.  
+
+One  of  the  important  goals  of  the  WTO  is  the  settling  of  disputes  and  the  mediation  in 
+trade negotiations.  Experience has proven that the best way to solve international economic 
+conflicts is to make decisions according to the established procedure of the WTO, which is 
+based on the mutually agreed juridical base and which provides equal rights and opportunities 
+to all countries-members. Decisions are made by all participating countries and the consensus 
+method used in the process plays the role of the additional stimulus to the strengthening of 
+relations and harmony in the organization. It can be considered an important difference from 
+many  others  international  organizations  (the  World  Bank,  International  Monetary  Fund) 
+where the power is delegated to the board of directors or the organization’s head.  
+
+This all brings us to the discussions of the main functions of the WTO. They are: 
+−  The control of the fulfillment of the basic agreements; 
+−  The  formation  of  conditions  for  proper  negotiations  between  member  countries 
+
+concerning issues of foreign economic relations; 
+
+−  The settlement of disputes connected with trade and economic relations. It is important 
+to know that several years ago several European countries as well as the USA tried to include 
+working  conditions  to  the  list  of  topics  under  the  government  of  the  WTO.  However, 
+developing  countries  were  against  this  change  as  they  considered  this  rule  as  the  cause  of 
+decreased  welfare  of  workers  together  with  the  fall  in  workplaces,  incomes  and,  generally, 
+competitiveness level; 
+
+−  The control of politics of participating countries and their behavior while dealing with 
+
+international trade issues 
+
+−  Assistance and efforts in favour of developing countries; 
+−  Cooperation with other international organizations.4 
+
+ 
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+России”. Дашков и Ко, 2009, с.152 	  
+	  
+
+4 Горбунова О.А., Миченнкова И.В. “ВТО. Основы функционирования и проблемы присоединения 
+
+8	  
+
+ 
+1.3 The Operational Structure of the WTO 
+
+	  
+
+	  
+The  decisions  of  the  highest  level  and  strategic  nature  are  made  by  the  Ministerial 
+conference.  This conference is conducted minimum once a year. General Council that is in its 
+submission is responsible for the performance of the current work. It gathers several times a 
+year in headquarters in Geneva with the participation of all countries. Moreover, it controls 
+two departments: first deals with the analysis of trade policy and the second one controls trade 
+disputes. Special committees are also under the authority of the General Council. They tackle 
+the  issues  of  finance,  restrictions  on  trade  balances,  trade  and  its  development  and 
+administrative questions. 5 
+
+The General Council also deals with the main disputes and has the exclusive authority to 
+form arbitral groups with the aim of the analysis of conflicts, approval of reports and speeches 
+as  well  as  keeping  under  observancy  the  execution  of  decisions  and  recommendations  and 
+implementing sanctions in case of their non-execution. 
+
+The General Council partially delegates its functions to three other councils, which appear 
+one step below according to the official hierarchy of the WTO. These are Council for Trade in 
+Goods, Council for Trade-Related Aspects of Intellectual Property Rights. 
+
+Council for Trade in Goods controls the operation of the specialized committees that are in 
+charge  of  the  WTO  principles  fulfillment  and  the  execution  of  GATT  goods  agreements. 
+Council for Trade in Services manages the performance of the GATS agreements. The treaty 
+consists  of  the  Committee  on  trade  in  financial  services  and  the  Working  group  on 
+professional  services.  Council  for  Trade-Related  Aspects  of  Intellectual  Property  Rights 
+regulates the execution of the TRIPS agreement as well as prevents trade conflicts, which are 
+caused by the trade of counterfeit goods. 
+
+The Secretariat of the WTO in Geneva has almost 500 regular employees. Its head is the 
+director general. The Secretariat doesn’t have the power of making decisions because as we 
+know it is given to the member countries. Among the main obligations of the Secretariat there 
+are  provision  of  technical  support  to  various  councils  and  committees  as  well  as  the 
+convention  of  the  Ministerial  conference,  provision  of  technical  assistance  to  developing 
+countries, the conduction of the world trade review together with computation of its indicators 
+and  the  communication  with  the  public  and  the  mass  media.  Moreover,  the  Secretariat 
+provides some forms of legal aid to the countries that wish to join the organization. Today 
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+5	  	  Rukavishnikova E., ICEF Course Work: International Trade, the WTO and the Impact on Russia, 2012,p. 25-
+29	  
+	  
+
+9	  
+
+there are 25 countries that are considered observer governments. 6 
+ 
+1.4 The Future of the WTO 
+ 
+
+The future of the WTO is quite an urgent topic. Some believe that will show its strength, 
+others see several key problems of the institution, which may prevent it from developing and 
+only  structural  reforms  can  improve  the  situation.  Let’s  look  at  the  statistical  data,  which 
+shows the volume of world trade and GDP for the period between 2005-2013.7 The changes 
+can be seen on the figure 1.1. It should be noted that the values in 2013 are only predicted 
+values.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+Figure 1. The growth of average export and GDP in 2005-2013 
+
+According to the figure the volume of the world trade increased by 5% after the peak rise 
+by 13.8% in 2010. Although before this there was record decrease of the world export by 12% 
+in 2009 (counted from the times of the Second World War). Nowadays we can observe the 
+increase in the export volume by 3.7%, which is smaller than the average level for the last 20 
+years (5,5%) by 1.5 times. The WTO predicts that the size of the global economy will expand 
+in 2013 by 2.1%. The value is a little bit smaller than the same indicator in 2012 (2.4%). It 
+can be as some kind of a sign of a recession that is not going to stop in the nearest future. 
+
+The recession in the euro zone was one of the main threats in 2012 that influenced world 
+trade.  Together  with  the  government  debt  crises,  the  decrease  in  raw  materials  prices  and 
+geopolitical  risks  it  deteriorated  the  trade  volume.  The  WTO  was  formed  by  developed 
+countries, which thought that economic freedom in international trade plays the role of the 
+collateral for economic growth and the increased welfare of the society. However, now there 
+exist a lot of other alternatives of external economic relations (for example, bilateral relations 
+between regions). 
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+7 http://www.wto.org/english/news_e/pres12_e/pr658_e.htm#chart1	  
+	  
+
+6 Sutirin S.F. WTO: The Mechanism of National Economy Interactions: Threats and Opportunities in Conditions 
+of the International Market Accessio. Eksmo, 2008  
+
+10	  
+
+	  
+
+2. World Trade Organization Accession 
+2.1 The Main Steps and Their Features 
+
+Let’s  examine  the  mechanism  of  the  accession  itself  together  with  its  main  steps.  The 
+members of the WTO can be any separate customs territories and any countries of the world.  
+As on March 6th 2013 the WTO has 159 participating countries. About 30 countries are on 
+different stages of negotiations, which are connected with their future potential participation 
+in this international organization. Most of countries in the past were the members of GATT. 
+These  countries  form  the  “founding  members”  of  the  WTO  and  have  somehow  different 
+rights and conditions, which we will discuss later. The process of the accession itself is often 
+different and is based on different conditions, which are discussed by the member countries as 
+well as the new states that would like to become a part of the WTO.  It’s also important to 
+note that about two thirds of the members are developing or least developed countries. On the 
+graph  2.1  you  can  see  the  number  of  participating  countries,  which  are  subdivided  by 
+developed, developing and least developed ones. 
+ 
+
+Table 1 Countries-members of the WTO by years, Source: wto.org, worldbank.org, Author's calсulations 
+
+ 
+
+Year 
+
+Number of countries 
+Joined during the year 
+
+Joined developed 
+
+countries 
+
+Joined developing 
+countries (excluding 
+
+LDC) 
+
+1995 
+112 
+36 
+5 
+
+1996 
+128 
+16 
+2 
+
+17 
+
+6 
+
+ Joined LDC countries 
+
+14 
+
+8 
+
+1997 
+132 
+4 
+0 
+
+3 
+
+1 
+
+1998 
+133 
+1 
+0 
+
+1 
+
+0 
+
+1999 
+135 
+2 
+1 
+
+1 
+
+0 
+
+2000 
+140 
+5 
+1 
+
+4 
+
+0 
+
+2001 
+143 
+3 
+0 
+
+3 
+
+0 
+
+2002 
+144 
+1 
+0 
+
+1 
+
+0 
+
+2004 
+148 
+2 
+0 
+
+2005 
+149 
+1 
+1 
+
+2006 
+149 
+0 
+0 
+
+2007 
+151 
+2 
+0 
+
+2008 
+153 
+2 
+0 
+
+2009 
+153 
+0 
+0 
+
+2010 
+153 
+0 
+0 
+
+2011 
+153 
+0 
+0 
+
+2012 
+157 
+4 
+0 
+
+0 
+
+2 
+
+0 
+
+0 
+
+0 
+
+0 
+
+2 
+
+0 
+
+1 
+
+1 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+2 
+
+2 
+
+ 
+Year 
+
+Number of countries 
+Joined during the year 
+
+Joined developed 
+
+countries 
+
+Joined developing 
+countries (excluding 
+
+LDC) 
+
+Joined LDC countries 
+
+ 
+
+	  
+
+2003 
+146 
+2 
+0 
+
+2 
+
+0 
+
+2013 
+159 
+2 
+0 
+
+2 
+
+0 
+
+11	  
+
+In the table all countries are divided by three categories. However, usually in the analysis 
+only  two  types  are  used:  developed  and  developing  countries.  It  is  important  to  say  that 
+actually  all  LDC  countries  are  the  part  of  developing  countries.  Let’s  discuss  the  main 
+differences of all three types and what main features each of them has.   
+
+relative 
+
+to  other 
+
+technological 
+
+infrastructure 
+
+A  developed  country  “is  a  sovereign  state  that  has  a  highly  developed  economy  and 
+less  developed  nations.” 
+advanced 
+(wikipedia.org)  Usually  in  order  to  determine  the  degree  of  economic  development  gross 
+domestic  product  (GDP),  the  per  capita  income,  level  of  industrialization,  amount  of 
+widespread infrastructure or general standard of living are used. Developed countries are on 
+the stage of post-industrial economies (they are specialized in service sector more than in the 
+industrial  one).  On  the  contrary,  developing  countries  are  only  in  the  process  of 
+industrialization and quite often they are almost entirely agrarian.  According to the World 
+Bank countries are divided with the use of their Gross National Income (GNI) per capita per 
+year. Countries have a GNI of US$ 11,905 and less in 2010 are defined as developing ones.8 
+The  WTO  itself  doesn’t  classify  countries  as  members  announce  their  decisions  by 
+themselves. 
+
+ Least  developed  countries  in  the  WTO  are  taken  from  the  classification  of  the  United 
+
+Nations. In order to be considered least developed a country must satisfy 3 criteria:  
+
+1. 
+
+low-income  criterion  calculated  on  the  basis  of  three  years  the  average  estimate  of 
+GNI per capita (gross national income), which should be lower than $750 and above $900 on 
+order to graduate; 
+
+2.  a  human  resource  weakness  criterion,  which  uses  Human  Assets  Index  made  of 
+
+nutrition, health, education, adult literacy; 
+
+3.  an economic vulnerability criterion that involves a composite Economic Vulnerability 
+Index (EVI) based on agricultural products, population (its reduction because of disasters and 
+logarithm  value  that  should  show  the  problem  of  economic  smallness),  exports  and  its 
+deviations, the percent of manufacturing and modern services in Gross Domestic Product.9 
+
+ 
+The process of the accession is very complicated and can take a lot of time. The shortest 
+period  was  for  Kyrgyzstan  and  lasted  for  2  years  and  10  months.  The  longest  ones  were 
+experienced by Russia and took 19 years and 2 months, Vanuatu (17 years and 1 month) and 
+China (15 years and 5 months). The average time of accession is about 5 years. Everything 
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+9 www.un.org	  
+	  
+
+8  The International Statistical Institute (www.isi-web.org) 
+
+12	  
+
+depends  on  the  position  of  the  observer  country  and  a  huge  amount  of  negotiations  and 
+commitments can be undertaken before all conditions will be satisfied. 
+
+The  first  step  is  the  request  made  by  the  government.  It  has  to  present  a  memorandum, 
+which will show all aspects of trade and economic policy that is connected with the WTO 
+agreements.  The  memorandum  is  the  base  for  a  detailed  analysis  of  the  request  within  a 
+special  working  party.  The  government  also  conducts  negotiations  with 
+interested 
+governments  that  are  current  members  of  the  organization.  During  these  negotiations  all 
+goods obligations and trade-offs of an applicant show up as well as obligations regarding the 
+service market. This period of bilateral discussions is also essential for estimating benefits for 
+member countries, which they will get from the new state. After the consideration of a trade 
+regime of the observer state and negotiations about market accession are finished the working 
+party lists the key conditions of joining the WTO. In the conclusion the General Council and 
+or the Ministerial conference announce the implications of the working party, which are made 
+as  a  substantive  report,  a  project  protocol  of  the  joining  procedure  and  agreed  lists  of 
+obligations  and  trade-offs.  In  the  case  when  two  thirds  of  the  participating  countries  agree 
+with  these  documents  then  the  applicant  can  sign  the  protocol  and  join  the  WTO  after  the 
+ratification of this document by a parliament or another legislative organ if applicable. 
+
+ 
+
+2.2 Why countries join the WTO? Advantages and Disadvantages 
+
+ 
+Generally speaking, the participation in the WTO as in any other international organization 
+has its advantages and disadvantages. The official cite shows and briefly outlines a variety of 
+pluses:  peace, disputes, rules, cost of living, choice, incomes, growth and jobs, efficiency, 
+lobbying  and  good  government.  The  same  is  written  about  developing  countries  with  the 
+additional benefits such as longer transition periods and technical assistance. However, not 
+everything is so simple and clear as member countries suffer from the trade-offs they have to 
+admit and unequal conditions.10 
+
+Studies and researches made on the topic of developed and developing countries usually 
+examine the benefits of accession from two sides: business enterprises that export goods and 
+services and affairs that import raw materials, goods and services, which are necessary for the 
+production of export goods. 
+
+In  order  to  prevent  potential  changes  in  trade  of  goods  almost  all  customs  duties  of 
+developed countries and the significant part of developing countries’ tariffs (as well as tariffs 
+of countries with transitional economy) are interrelated. This “tying-up” provides the stability 
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+10	  wto.org	  
+	  
+
+13	  
+
+and  the  situation  when  the  easy  access  to  a  market  (made  available  because  of  decreased 
+tariffs)  will  not  be  violated  as  the  consequence  of  the  sudden  rise  in  duties  or  of  the 
+establishment of new restrictions by importing countries. Obligations regarding services are 
+also restricted by the limits of conditions and engagements that are recorded in the national 
+list of obligations. 
+
+The  system  of  the  WTO  guarantees  the  stability  of  access  to  export  markets  as  the 
+organization  requires  the  same  rules  on  the  boarder  for  all  participants.  These  rules  help 
+exporters to eliminate different standards that appear on different markets and make the life of 
+producers  much  harder.  Apart  from  this,  the  guaranteed  access  to  markets  gives  exports 
+industries an opportunity to form expectations for investment and production plans with the 
+higher degree of certainty.  
+
+Generally speaking, many developing countries of Latin America, South-East Asian and 
+East Asian countries were able to increase the industrial production as well as exports. As the 
+result their economies grew quite rapidly with the help of market opportunities of developed 
+countries. The World Bank analysis of the developing countries has showed that the share of 
+countries has significantly increased and its future perspective is also quite delightful. As we 
+can see from the figure below the proportion of international trade generated by developing 
+countries was only 22% in 1980. However, there has been a gradual growth (of 23% for 50 
+years) and the predicted value of 2030 is 12.15 trillion of dollars made only by developing 
+countries, which is 45% of the whole volume of trade in this year. 
+
+ 
+
+ 
+
+Figure 2  Total exports of developed and developing countries 
+(US $). Source: worldbank.org 
+
+     The legal system of the WTO also secured the rights for entrepreneurs. These rights can 
+be divided into two parts. The first one consists of the rights, which domestic producers and 
+importers  get  with  respect  to  the  government.  The  second  one  involves  the  rights  of 
+producers-exporters regarding the protection of their interests in the cases when governments 
+of  countries-importers  try  to  decrease  their  exports  volumes.  As  the  result,  the  decrease  in 
+barriers  with  the  aim  of  free  exchange  of  goods  ensures  economic  benefits.  Moreover,  the 
+
+14	  
+
+	  
+
+WTO  system  positively  influences  politico-social  atmosphere  in  countries-members  of  the 
+organization  and  consequently  by  this  increases  the  welfare  of  an  individual  citizen.  Apart 
+from this, the growth of export of domestic production is an impulse to the rise of the income 
+of producers. The higher income results in higher tax revenues that in their order increase the 
+welfare  of  a  country.  Of  course,  this  chain  works  only  in  the  ideal  situation  and  in  many 
+developing countries because of their political system people don’t see the increased level of 
+welfare. 11 
+
+While talking about the welfare it’s important to note that the benefit of free trade is the 
+decreased level of the cost of living, which happens not only because of decreased values of 
+imported goods due to lower barriers but also because of reduced prices on domestic goods 
+the  production  of  which  uses  imported  components.  Another  advantage  is  the  expanding 
+variety of available goods and services. It makes the choice much wider.  
+
+If we talk about the rise of the government income then it should be said that the operation 
+of companies-exporters help to redistribute received additional resources and provide help to 
+domestic companies, which face a dangerous level of foreign competition, as well as expand 
+the volumes of production and development of firms-exporters’ competition. 
+
+Long-term effects are represented by the increase in the employment level. This change 
+
+dominates in industries that deal with export.  
+
+The trade and economic situation are inseparably connected with political system. The free 
+trade has several positive results in this sphere. The government has more potential to resist 
+the lobby groups and their actions as the trade policy is conducted according to the interest of 
+economy in the whole.12 Besides, free trade is the key reason for more balanced decisions of 
+political  matter,  the  struggle  with  corruption  and  the  effective  changes  in  the  legislative 
+branch. All these fact will positively affect the investment inflow to the country.  
+
+Finally, the country, which enters the WTO, gets the right to vote and participate in trading 
+disputes while acting with respect to its national interests. As there are 159 countries now in 
+the  WTO  and  this  number  generates  more  than  90%  of  the  world  international  trade  this 
+chance  to  be  a  part  of  it  is  important  in  order  to  develop  and  improve  the  reputation  of  a 
+country in the world as well as to establish strong trade and political relations. 
+
+Even though there are many advantages from the WTO accession there also quite many 
+disadvantages.  Let’s  list  and  examine  them  while  simultaneously  making  distinctions  for 
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+	  
+	  
+
+11 Царева А.Б. “Интеграция российской экономики в ВТО” . Внешнеторговое право,2009 №5.  С. 4-10. 
+12 Шувалова М.А. “Проблемы и перспективы России при вступлении в ВТО ” . Экономика России: ХХI 
+век., 2010 № 5(296). С. 16-23. 
+
+15	  
+
+developed  and  developing  countries.  Many  people  consider  the  WTO  organization 
+fundamentally undemocratic and not so transparent as it is presented. Not so many industries 
+and their interest are taken into account and affect trade negotiations. Many disputes are made 
+exactly for corporations and provide the most beneficial conditions only for this “group” of a 
+country.  Various  labour  organizations  as  well  as  consumers,  environmental  problems  and 
+human rights are quite often partly or completely ignored. As there is also inequality in the 
+conditions and participation rights of different countries mostly developed and rich ones have 
+advantages from the free trade while other ones become less and less safe and their power 
+decreases. We’ve already discussed that joining the WTO increases competition and variety 
+(which  is  a  good  thing)  but  it  also  is  a  stimulus  for  a  reduction  in  wages  or  “race  to  the 
+bottom” as it is called by specialists. Workers get worse conditions instead of international 
+labour standards promised to them. There is also a problem with a child labour as rules of the 
+WTO do not control it and governments do not forbid goods that are produced with the work 
+of children. Once again human rights are also not identified anywhere, which is a great minus 
+as the behaviour of companies and labour conditions are not under control in some countries 
+or not under the necessary attention and consideration.  
+
+ One  more  drawback  is  the  privatization  as  many  essential  services  (energy,  water  and 
+education) by the rules of the GATS should be made private. These are “elder and child care, 
+sewage,  garbage,  park  maintenance,  telecommunications,  construction,  banking,  insurance, 
+transportation, shipping, postal services, and tourism”13 . There are about 160 services in the 
+list. Generally speaking, all of them should be given to private foreign corporations and some 
+countries  already  implement  these  rules,  which  can  be  destructive  to  a  high  share  of 
+population. 
+
+Other problems also include the environment. As many rules and laws that tried to improve 
+the situation were cancelled. For example, “US Clean Act” that forced domestic and foreign 
+producers  to  use  cleaner  gasoline  and  the  “Endangered  Species  Act”,  which  tried  to  save 
+some animals were eventually abolished. Thus, nature and its resources are under the danger.  
+The  WTO  membership  also  weakens  economic  sovereignty  and  the  government  cannot 
+make  decisions  only  by  itself.    As  a  result  companies  that  use  domestic  labour  force  (for 
+example)  or  domestic  benefits  by  the  laws  of  the  WTO  must  not  have  any  subsidies  or 
+benefits. Of course, it worsens the conditions for many local firms. One more serious flaw is 
+the “infant industry argument”. Countries do not have rights to protect industries, which only 
+start  to  develop  and  need  this  protection  for  successful  operation.  They  may  be  quickly 
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+	  
+
+13 Zettel M. “The GATS, Privatization and Water Services An Overview of Legal Services” .Maastricht Working 
+Papers, the Faculty of Law, 2009 
+
+16	  
+
+defeated  by  large  foreign  manufactures.  In  the  short-run  people  lose  their  jobs  (because  of 
+foreign and domestic competition) and the unemployment rate increases. 
+
+Now  I  would  like  to  outline  the  main  disadvantage  that  is  examined  in  this  work:  the 
+inequality of developing and developed countries that only increases because of the WTO. A 
+lot  of  people  criticize  the  World  Trade  Organization  for  some  kind  of  discrimination  for 
+developing  countries  even  though  initially  it  was  declared  as  the  one  of  the  goals  of  the 
+organization. On November 14th 2001 the promising response to the anti-globalisation rights 
+was  adopted  by  the  Ministreal  Declaration.  However,  if  we  look  at  developing  countries 
+nowadays,  we  will  see  that  most  of  them  have  not  developed  a  lot  and  are  dropped  from 
+decisions and disputes processes by powerful and rich countries.  
+ 
+2.3 Difference of the WTO Influence for Developed and Developing Countries 
+ 
+
+Several spheres that show the position of developing countries have been examined. First 
+of, all tariffs and barriers are quite often one-sided, which means that developed countries use 
+restrictions and developing ones have to decrease or eliminate them completely. For example, 
+due to some questionable rules several poorest countries in Africa cancel all tariffs for 90% of 
+the trade. 
+
+In  addition,  there  are  agricultural  subsidies  to  “rich  world  farmers”,  which  make  their 
+production  and  distribution  process  much  easier  while  many  local  farmers  of  developing 
+countries  cannot  enter  or  stay  on  the  market  because  of  this  enormously  high  level  of 
+competition. 
+
+During the 9th Doha round there were negotiations regarding the access of poor countries 
+that mainly locate in the South to the agricultural market of the Northern countries, which are 
+considered rich. However, all discussions failed because the farmers of developed countries 
+have strong political power and do not want the reduction of import tariffs to happen. The 
+same happens with the cotton industry where more than 5 million small businesses of local 
+farmers and their families left the market. The reason for this large shutting down was the 
+payment of 47 billion of dollars as subsidies to developed countries producers. Undoubtedly, 
+all  these  policies  do  not  give  ordinary  poor  farmers  the  chance  to  succeed  and  stay  as 
+producers. 14 
+
+Developing countries allowed the introduction of many unequal measures that completely 
+erased the correct notion of “reciprocity”. For example, the bank system as both developed 
+and developing countries have the right to open their banks (a restricted amount of branches 
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+14	  guardian.co.uk	  
+	  
+
+17	  
+
+and banks) in other countries. However, it is clear that the number of transactions of some 
+rich developed country bank is several times more than the amount of transactions of a group 
+of banks of a developing country. Thus, not the right factor is being controlled as the number 
+of transactions is far more important than the number of banks.  The same shortcomings are 
+connected  with  e-commerce  and  information  technology  goods  as  developing  countries 
+agreed with the terms of 1996 and 1998 negotiations and by this decision of eliminating any 
+duties in this sphere deprived developing countries from a substantial part of revenues.  
+
+Moreover,  TRIPS  and  numerous  patents,  trademarks  and  other  regulations  brought 
+incredible  damage  to  many  countries  (especially,  developing  ones).  The  pharmaceutical 
+companies are protected from any decrease in profits and use of their medicine. However, a 
+lot of common people in poor countries (Africa or Asia-Pacific where more LDC countries 
+are  situated)  die  each  year  because  of  the  shortage  of  medicine.  Although  there  was  a 
+significant  change  in  2001  when  developing  countries  got  the  rights  to  produce  or  import 
+generic drugs but the problem has not been completely overcome. 
+
+Besides, developing countries and especially least developed ones do not have the same 
+voice in the whole decision making process as developed ones and their problems are quite 
+often unheard.  The cost of appearing on the stage of recommendations and findings is very 
+high for many developing countries. Thus, they usually need a lot of time and effort to make 
+claims or participate in negotiations (for example, protect themselves) and again developed 
+countries are in a better position as for them this process is not so costly (in relative terms). 
+Developing  countries  are  always  quite  vulnerable  because  they  cannot  fully  participate, 
+struggle  for  their  rights  and  observe  other  countries’  obligations  but  if  they  do  and  try  to 
+increase their role, the expenses may be so high that risks connected of being victimized will 
+stop the rational government.  
+
+Even  in  the  beginning  of  the  WTO  when  it  provided  developing  countries  with 
+opportunities of market accession and “Most Favoured Nation” treatment many of them were 
+unable to use this advantage as their supply capacity was on such low level. So their income 
+and  welfare  stayed  on  the  same  level,  which  shows  the  uneven  effects  of  the  WTO  on 
+developed  and  developing  countries.  Those  who  were  able  to  take  the  advantage  of  all 
+measures soon faced the problem of increased protectionist tendencies in developed countries. 
+These  restrictions  and  quotas  touched  not  only  textiles  industry  (right  after  Multi-Fiber 
+Arrangement  was  established  and  limited  the  number  of  exported  textiles  from  developing 
+countries). Quite similar limits were imposed on leather and jute products. All industries that 
+were occupied by developing countries and that were hope to the economic improvement of 
+developing  countries  step  by  step  were  seriously  controlled  and  changed  according  to  the 
+
+	  
+
+18	  
+
+interest of rich and powerful countries. All the anti-dumping measures, all restrictions, tariffs 
+and quotas only show that the system and trade is not so free and liberal as it seems from the 
+first sight.   
+
+As  developed  countries  affected  the  decisions  and  results  in  the  past  now  they  try  to 
+broaden the spheres of the WTO influence and some of them were initially quite unrelated to 
+the GATT agreement and trade itself. The environment, investment and other innovations of 
+the  WTO  may  even  worsen  the  conditions  of  developing  countries.15 It  sounds  particularly 
+strange if we look at the number of developing countries (115) and the number of developed 
+countries  (43)  together  with  Macao  and  Hong  Kong  though  generally  they  are  the  part  of 
+China  and  the  European  Union  is  excluded  as  it  is  the  entity,  which  presents  developed 
+countries that are already in the list). Actually there is some discrepancy in the data as, for 
+example,  the  World  Bank  has  one  classification,  the  UN  list  has  another  division.  My 
+classification was based generally on the World Bank list. 
+
+ Partly this situation was caused by the behavior of developing countries as they gave no 
+response and not participated in some important disputes. There can be different reasons for 
+such attitude:  
+
+−  Some countries may think that subjects of these negotiations are in no way related to 
+
+the their problems and development; 
+
+−  There  is  some  misunderstanding  because  of  the  huddle  of  claims  and  topics  and 
+countries prefer to stay aside rather than be involved without consciousness of the situation 
+(and by this eliminate the damage of the reputation); 
+
+−  Countries  understand  issues  and  their  negative  consequences  but  choose  not  to 
+confront developed countries (because this opposition may bring even more problems in the 
+future); 
+
+−  There  is  a  false  impression  that  some  other  developing  countries  will  negotiate  and 
+defend the interests of all/many developing countries and, thus, many of them decide to inflict 
+subjects on more active members, which often prevents the right process of disputes in the 
+WTO. 
+
+Many  of  these  mistakes  and  shortcomings  that  may  have  been  eliminated  if  developing 
+countries were more integrated into the process, if they were able to cooperate and fight for 
+their rights even though much effort and money should be spend. There also should be some 
+kind of body, which will look after common interests and positions of developing countries. 
+With its successful operation they will make claims and objections and while being supported 
+with the most members (and as we know the number of developing countries in the WTO is 
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+15	  Michalopoulos	  C.	  “Developing	  countries	  in	  the	  WTO,	  Palgrave”,	  2001	  
+	  
+
+19	  
+
+much  greater  than  the  number  of  developed  ones)  will  achieve  their  aim  and  won’t  be 
+discriminated in any sector. 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+	  
+
+20	  
+
+(!"#$!,!)!
+
+ 
+
+3. Analysis of Research Papers and Existing Models 
+ 
+
+The great amount of literature is dedicated to the topic of the WTO influence. Different 
+analyses  were  made.  Some  scientists  considered  the  impact  on  a  particular  country,  others 
+subdivided countries into groups and investigated the effect of the organization. There is no 
+agreement on the issue of the World Trade Organization effect. Some say that it is generally 
+positive as the WTO promotes trade, others found some positive as well as negative moments 
+and the disparity in developing and developed countries or even the failure of the organization 
+and its inability to provide declared opportunities. 
+
+The  difference  of  methodologies,  models,  dependent/independent  variables,  dummy 
+
+variables and their number are all important factors in the evaluation process.  
+
+The most widely used econometric model is the gravity model.  
+The first scientist that used the gravity model in the analysis of international trade was Jan 
+Tinbergen  and  in  1962  he  explained  bilateral  trade  flows  using  the  “Newton’s  law  of 
+gravitation” and the formula: 
+ 
+
+!!,!=(!"#!)!×(!"#!)!
+
+ 
+It  shows  that  trade  flows  are  directly  related  to  GDP  of  each  country  (A  and  B)  and 
+
+inversely related to the distance between A and B. All powers are approximately equal to 1.  
+
+Though the author provided only intuitive explanation, his work considered significant part 
+of international trade studies as the gravity model proved its stability for different countries 
+and different times.16 
+
+As  there  are  a  lot  of  modifications  different  assumptions  and  propositions  were  made. 
+Some  used  in  derivation  the  Ricardian  model,  others  the  Hecksher-Ohlin.  There  were  also 
+different  assumptions  about  prices,  “multilateral  resistance”  concept,  utility  functions  and 
+demands.  
+
+In 2002 David D. Li and Changqi Wu made an event study in order to explore the actual 
+topic of the WTO influence. They took 74 countries that were the members of GATT/ WTO 
+in the time period from 1960 to 1998 and 38 that are not. Together with the main point of 
+investigation the authors showed that the openness of a country alone could not guaranty the 
+growth of a country and with this result opposed the view of Adam Smith.  
+
+The results are quite similar to the topic of my work as scientists proved by their analysis 
+that high-income countries have large positive effects after the accession, while the growth of 
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+16	  Tinbergen, J. “Shaping the World Economy. Suggestions for an International Economic Policy”, 1962	  
+	  
+
+21	  
+
+the developing countries is not so significant. The growth appears in many spheres: export, 
+import,  FDI  and  etc.    The  division  criterion  was  GDP  per  capita  and  if  it  was  higher  than 
+3,000  $  in  1987  than  the  country  was  moved  to  the  developed  group.  One  more  division, 
+which  is  less  relevant  to  our  discussion,  is  conducted  by  the  law  system  (common  law, 
+European  law  and  formerly  socialist  systems).  European  law  countries  benefited  the  most 
+from 
+as: 
+
+!"#!!" =!!+
+!! is  fixed  effect  coefficient  for  a  economic  variable !,  j  shows  the  type  of  economy 
+(developed/developing,  the  type  of  the  law  system), !!   the  coefficient  for  capturing 
+endogeneity, !! shows  the  normal  growth  of  a  country,  T  is  a  time  trend,  Selection  is  the 
+selection method and !!" is the error term. 
+
+!!!!
+
+accession. 
+
+looks 
+
+the 
+
+!!!!+!!  !"#"$%&’(!"+!!!"#!"!!"##$!"+!!"
+
+regression 
+
+itself 
+
+The 
+
+ 
+
+The  growth  of  developed  country  was  about  1.5%  per  year  for  the  next  10  years  after 
+joining the WTO, the growth of developing countries was insignificant, the import and the 
+export rose for developed countries at a rate 5% per year and again export increased by 1% 
+and  the  import  appeared  not  significant  for  developing  countries.  However,  the  stock  of 
+capital showed the inverse results: 4.5 % increase for low-income countries and 1% for high-
+income countries. Foreign direct investment increased significantly in both countries 
+
+The modern version of the gravity model was provided by Anderson and van Wincoop17. 
+They were the ones who proved that “the empirical gravity equations do not have a theoretical 
+foundation”. In order to correct these limitations they added “multilateral resistance”. Price 
+indices are tightly connected with bilateral resistance as any restrictions immediately affect 
+prices.  Moreover, they solved the McCallum puzzle (which got that trade inside Canada was 
+22 (16) times more than the trade between Canada and the USA in 1988 (1993)). They key to 
+the  solution  is  the  fact  that  the  border  factor  is  asymmetric  and  on  “small”  countries  its 
+influence  is  much  higher  together  with  the  omission  of  some  variables.  The  gravity  model 
+used by scientists is based on CES utility function and goods differentiated by place of origin.  
+The  most  significant  work  in  this  sphere  belongs  to  Andrew  Rose.  His  work  “Do  We 
+Really Know that the WTO Increases Trade?”18 in 2002 was studied and cited a great amount 
+of times as many scientists adverted to it afterwards.  He used more than 175 countries and 
+fifty  years  together  with  the  gravity  model.  His  model  included  many  dummy  variables 
+(distance,  colony,  FTA,  GSP,  language,  WTO  member  and  etc.)  and  the  average  value  of 
+exports and imports as the resulting value.  
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+Economic	  Review,	  2003,	  p.170-­‐192	  
+17	  Anderson J.E.., van Wincoop E.	  “Gravity	  with	  Gravitas:	  A	  Solution	  to	  the	  Border	  Puzzle”	  The	  American	  
+18	  Rose Andrew K.	  Do	  We	  Really	  Know	  that	  the	  WTO	  Increases	  Trade?,	  American	  Economic	  Review,	  2004	  
+	  
+22	  
+
+The main result that the scientist got was that the WTO has no significant effect on trade of 
+a  country  despite  the  common  perception  even  though  the  model  worked  pretty  well  and 
+showed significant positive results for “richer and more developed countries” and significant 
+negative results for the distance, the fact that can be drawn out by the common sense. The 
+author modified the types of analysis, added more dummy variables, divided countries into 
+groups,  identified  and  excluded  regional  trade  agreements  but  no  fundamental  change 
+occurred  and  the  coefficients  were  still  negative  and  insignificant.    Nevertheless  one  quite 
+important fact was revealed: GATT founding members (one from the pair/ both from the pair) 
+increased  trade  significantly,  which  may  be  a  good  indicator  of  different  conditions  for 
+countries that joined the WTO in different years and those who were among the organizers 
+and  first  members.  One  more  important  result  is  the  significant  influence  of  the  WTO  on 
+industrialized countries (t-statistics is 2.11, which is significant at 4% significance level) and 
+the pair of industrialized countries-members of the WTO trades 60% more than the pair of 
+non-members. 
+
+The Rose’s paper touched off disputes and new researches. The main critics are connected 
+with the dependent variable ln(trade) (as the average of exports and imports doesn’t show the 
+direction of trade, which is relevant in this case), the endogeneity of the WTO variable, the 
+omission of “multilateral resistance” variable, the measurement errors and some mistakes in 
+the  data.  Rose  himself  talked  about  the  missing  data  (for  example,  missing  trade  data  and 
+missing  “regressor”  data).  He  also  stated  that  the  WTO  effect  is  great  (345%)  if  essential 
+variables  are  dropped  (GDP  and  distance)  and  treated  his  outcome  as  “an  interesting 
+mystery”. 
+
+After this paper Rose wrote some other works connected with the WTO influence: “Which 
+International  Institutions  Promote  International  Trade?”19.  In  this  paper  he  investigated  the 
+relative power of the WTO and found it to be weaker than OECD and relatively the same as 
+IMF; “Does the WTO Make Trade More Stable?”20: showed the non-volatility of trade of the 
+countries that joined GATT/WTO.  “The Effect of Membership in the GATT/WTO on Trade: 
+Where Do We Stand?” (the latest work of Rose). It can be perceived as the correction and 
+deeper investigation of some errors made in 2002. He emphasized questions of “inappropriate 
+pooling of data”, “inappropriate econometric techniques, especially fixed effects, “selection 
+bias”. All these things were criticized in his work in 2002. However, his view on the issue 
+hasn’t changed with the new paper as he still doesn’t get results of significant influence.21 
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+20 Rose A. K.  “Does the WTO Make Trade More Stable?”; Open Economies Review; 2005	  
+	  
+
+23	  
+
+19  Rose A. K. “Which International Institutions Promote International Trade?”;Review of International 
+Economics; 2005 
+
+21 Rose A K., The Effect of Membership in GATT/WTO on Trade: Where Do We Stand?. Unpublished Draft 
+
+Arvind Subramanian and Shang-Jin Wei were one of the first who reacted to the Rose’s 
+work.22 They  got  exactly  the  opposite  results  that  the  WTO  positively  influences  countries 
+and the additional volume of trade could reach the size of 120%. However, this effect varies 
+for  industrial  (developed)  and  developing  countries  as  well  as  for  different  industries  as  in 
+some of them the tariffs were reduced and brought benefits and for others the restrictions and 
+fight  with  them  was  unsuccessful  (textiles,  agriculture,  clothing-all  goods  exported  by 
+developing countries). The activity rate of a member country, its ability to negotiate tariff cuts 
+and “reciprocal liberalization” are also very import for its future. One more thing, which has 
+been discussed in this work, were unequal conditions for initial and subsequent countries as 
+the  later  ones  joined  the  WTO  after  1994  and  were  forced  to  liberalize  their  trade  more 
+seriously than initial participants of the WTO. I would like to concentrate on the asymmetry 
+between developed and developing countries as it is tightly connected with the topic of this 
+paper. It is said that developed countries through the negotiation process were able to reduce 
+tariff barriers of developing countries by 10.5 % from 1947 to 1995. The key differences from 
+the Rose’s work is the use of the imports and it is more consistent with the theory and fixed 
+effects while using Anderson and van Wincoop (2003) who proposed the fixed effect for a 
+country that imports and the other one that exports. Subramanian and Wei took “multilateral 
+resistance”  on  a  new  level  by  making  the  time-varying  effects  for  a  panel  data.  This 
+innovation made it possible to eliminate GDP, GDP per capita and land area variables. 
+
+They affirmed that for developed country the trade increases by 68.2% or (!!.!!−1). The 
+
+developing  country  has  an  average  coefficient  of  0.28,  which  means  that  on  average  the 
+volume of trade is higher by 30%. However, this effect works on countries that joined the 
+WTO in 1990s (during the Uruguay round) and became more open in 10 years. 
+
+Xuepeng Liu in 200723 also showed the importance of the WTO accession with the data 
+from 1993 to 2003. He claimed that not only old trade partnerships were made stronger but 
+also many new relationships appeared among countries. The first thing is called the intensive 
+margin and the second has the name of extensive margin. His work is interesting because Liu 
+decided to include all zero observations in the data (unlike Rose or Subramanian and Wei). 
+The one-directional trade was calculated as N*(N-1) with N being the number of participating 
+countries  and  two-directional  as  the  fraction  of  N*(N-1)/2  with  no  missing  import  data 
+included. His analysis showed 40% rise during 53 years in one-directional calculations and 
+46%  growth  for  the  same  time  period  of  a  two-directional  trade.  His  changed  technique 
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+	  
+
+22 Subramanian A., Wei S.-J., “The WTO Promotes Trade, Strongly But Unevenly”. Journal of International 
+Economics, 2007 
+23 Liu X., “GATT/WTO Promotes Trade Strongly: Sample Selection and Model 
+Specification”. Review of International Economics, 2009 
+
+24	  
+
+helped him to overcome some calculation errors in the Rose’s work. It also brought the author 
+to the use of Poisson model for the gravity model estimation that is more suitable with high 
+frequency of zero observations.  
+
+The author mentions Silva and Tenreyro (2006)24 who the first ones to prove this choice of 
+model  to  be  better  for  solving  heteroskedastic  and  non-normal  issues  with  maximum 
+likelihood estimation. The panel data was constructed for 210 countries and the imports was 
+also  used  as  the  dependent  variable.  The  gravity  model  is  quite  standard  with  some 
+modifications such as the inclusion of “alliance” and “hostility” used as additional variables. 
+The “index of multilateral resistance” (Anderson and Wincoop (2003)) here has a proxy of: 
+
+!"#$%"!"#=(
+
+!!!
+
+!"#$%&’(!"
+!"#!"
+!"#!"
+!!!
+
+)(
+
+!!!
+
+!"#$%&’(!"
+!"#!"
+!"#!"
+!!!
+
+) 
+
+Where i and j are two countries and t is time. 
+
+fixed effects.  
+
+In all three cases the Hausman test, which compares random and fixed effects, votes for the 
+
+The results are the following: 60% (!!.!"−1) increase if both countries become members 
+of the GATT/WTO and 23% (!!.!"−1) if only one partner is in the organization with 30% 
+
+being the extensive margin and 70% the intensive one. 
+
+Quite  similar  analysis  was  made  by  Gabriel  Felbermayr  and  Wilhelm  Kohler  in  200625. 
+They  investigated  that  with  the  Tobit  and  Logit  estimations  the  WTO  raised  trade  and 
+particularly  affected  the  extensive  margin  of  trade  (mainly  due  to  decreased  costs  of 
+international trade). Their key result is the corner solutions for the gravity model. The authors 
+also  examined  the  question  of  zero  values.  If  both  countries  participate  in  the  WTO,  the 
+
+coefficient before the variable !!"# (which is 2 if there is export from at two countries from the 
+pair) increases by 15% compared to the case when !!"#=0. The econometric analysis used 
+
+bilateral exports in the role of dependent variable. While using the common regression of the 
+log-gravity  model  no  significant  results  were  found.  However,  the  Tobit  model  gave 
+significant results of about 156% if both countries are in. The Logit results were smaller (only 
+10% growth). 
+
+Pao-Li  Chang  and  Myoung-Jae  Lee  in  201126 used  the  new  approach  to  the  estimation 
+process.  They  based  on  the  nonparametric  evaluation  and  permutation  tests  as  the 
+conventional  gravity  models  had  some  misspecifications  (omission  of  relevant  relations). 
+Then the Rosenbaum(2002) sensitivity analysis was applied. It investigates how unobservable 
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+24	  Silva	  J.,	  	  Tenreyro	  S.	  “The	  Log	  of	  Gravity”.	  The	  Review	  of	  Economics	  and	  Statistics,	  2006	  
+25	  Felbermayr	  G,	  Kohler	  W.	  K.	  “Does	  WTO	  Membership	  Make	  a	  Difference	  at	  the	  Extensive	  Margin	  of	  
+World”.CESifo	  working	  paper,	  №	  1898,	  2007	  
+26	  Chang	  P.-­‐L.,	  Lee	  M.Y..	  The	  WTO	  Trade	  Effect,	  Journal	  of	  International	  Economic,	  2011	  
+	  
+
+25	  
+
+variable/factor  can  influence  the  treatment.  The  authors  used  the  Rose’s  date  (although 
+Subramanian  and  Wei  found  some  mistakes  in  the  information).  The  dependent  variable  is 
+also  the  same  ln(trade).  Chang  and  Lee  made  use  of  the  notion  “dyad”,  which  actually 
+describes two partner countries. During the analysis they dropped some “poor” matched pairs. 
+Once again their results showed that the WTO promotes trade strongly. For example, if both 
+countries  are  the  members  of  the  GATT/WTO  the  trade  volume  rises  to  224%  from  53%. 
+However,  they  agreed  that  there  might  be  some  errors  with  the  effect  of  the  WTO  and  its 
+significance as different sectors are treated in the different way, some countries liberalize their 
+trade  without  joining  the  WTO  and  some  other  reasons.  For  robustness  checks  the  authors 
+implemented restrictions on the same dyads, same year, different rounds of negotiations and 
+developed  versus  developing  countries.  It  helped  to  eliminate  heterogeneity  and  showed 
+difference  between  developing  and  developed  countries  as  positive  effects  prevail  in  high-
+income and middle-income countries and low-income countries do not see any great changes. 
+Chang and Lee outlined the high level of protectionism in developed countries that makes it 
+hard for developing to export goods. 
+
+Quite different work was written by Ana Cecilia Fieler27. She used the limitations of the 
+standard gravity model: its assumption that trade increases with total income even though in 
+the reality it increases with income per capita and doesn’t have significant changes because of 
+the population. The Ricardian model was proposed in the paper. However, with only one type 
+of  good  available  it  transforms  to  Eaton  and  Kortum  and  shows  the  gravity  model.  The 
+author’s work includes a lot of quantitative analysis. The countries are divided into poor and 
+rich and two factors of production (labour, which moves freely between types of goods but 
+not across countries, and technology that is completely mobile). Fieler got results that poor 
+countries  prefer  to  consume  domestically  as  the  domestic  market  provides  the  lowest  cost 
+while rich countries trade more and pay attention to barriers and wages. Moreover, from the 
+data  the  significant  result  from  the  income  per  capita  can  be  seen.  After  the  quantitative 
+comparison of “integrated model” and the gravity model the author stated that the first one is 
+better as the gravity model (or Eaton- Kortum model) can explain the trade between OECD 
+countries but doesn’t work so well with the trade between countries of different income. The 
+integrated model proposed by the author is able to work with all data. 
+
+	  
+	  
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+27	  Fieler A.C. “Nonhomotheticity and bilateral trade: Evidence and a quantitative explanation”. Econometrica, 
+2011	  
+	  
+26	  
+
+ 
+ 
+
+4. Research and Econometric Analysis 
+4.1 Empirical Study. Part I: Gravity Model 
+
+	  After	  the	  deep	  analysis	  of	  different	  research	  papers	  I	  decided	  to	  start	  my	  empirical	  
+work	  with	  the	  gravity	  model	  with	  the	  panel	  data.	  
+My	  hypothesis	  is	  that	  the	  WTO	  has	  an	  uneven	  effect	  on	  developed	  and	  developing	  
+countries.	  
+For	  the	  dependent	  variable	  I	  decided	  to	  use	  imports	  as	  according	  to	  the	  theory	  this	  
+indicator	  is	  more	  appropriate	  for	  the	  regression	  and	  generally	  organizations	  are	  more	  
+interested	  in	  import	  and	  its	  tariffs.	  
+The	  data	  was	  gathered	  from	  different	  sources.	  The	  data	  on	  bilateral	  import	  was	  
+gathered	  from	  the	  UM	  Comtrade	  database,	  the	  whole	  information	  connected	  with	  the	  
+dummy	  variables	  was	  taken	  from	  the	  CEPII	  Gravity	  Dataset.	  The	  division	  of	  countries	  
+into	  developed	  and	  developing	  ones	  was	  made	  according	  to	  the	  World	  Bank	  database	  
+and	  its	  classification.	  The	  data	  of	  the	  WTO	  accession	  is	  taken	  from	  the	  official	  site	  of	  the	  
+organization.	  
+The	  sample	  of	  all	  214	  countries	  is	  used.	  Values	  are	  in	  real	  terms.	  The	  analysis	  covers	  
+the	  data	  from	  1960	  to	  2010.	  The	  number	  of	  observations	  equals	  to	  76094.	  After	  the	  
+comparison	  of	  different	  studies	  made	  by	  scientists	  I	  chose	  the	  method	  used	  by	  
+Subramanian	  and	  Wei	  and	  also	  divided	  the	  periods	  of	  five	  years.	  My	  main	  goal	  was	  to	  
+develop	  the	  difference	  between	  developing	  and	  developed	  countries,	  which	  became	  the	  
+members	  of	  the	  WTO	  and	  the	  gravity	  model	  (that	  is	  used	  mostly	  by	  everyone	  and	  is	  
+subject	  to	  minor	  changes	  in	  different	  works)	  was	  my	  first	  step.	  Subramanian	  and	  Wei	  
+got	  significant	  results	  both	  for	  developing	  and	  developed	  countries	  at	  5%	  significance	  
+level	  and	  as	  I’ve	  already	  said	  that	  for	  developing	  countries	  this	  result	  was	  negative	  and	  
+for	  developed	  ones	  positive.	  These	  results	  coincide	  with	  my	  hypothesis.	  
+	  The	  gravity	  model	  used	  in	  my	  analysis:	  
+	  
+!"!"#$%&!"# =!+!1  !"#$%&’()  +!2  !"#$%#&’  +!3ln!"#$!"
++!!  !"#.!"##$%&’()*  +!!!"#"$%!"+!!!"#.!"#"$%!"#+!!!"#!"$"%&!"
++!!!"#"$%&!"#$%!"#+!!!"#!"#+!1  !"#"$%&"’−!"#$%&  
++!2  !"#"$%&’()−!"#$%&  +!!"#	  
+	  	  
+
+	  
+
+27	  
+
+− 
+
+− 
+
+− 
+
+− 
+− 
+
+− 
+− 
+
+!"#$%&!"#-­‐	  is	  the	  volume	  of	  import	  from	  one	  country	  to	  another	  at	  time	  t;	  
+!"#$%&’!"	  -­‐the	  dummy	  variable	  that	  has	  the	  value	  of	  1	  if	  countries(i,	  j)	  	  have	  the	  
+!"#$%#&’-­‐	  the	  dummy	  variable,	  which	  has	  the	  value	  of	  1	  when	  countries(i,	  j)	  	  have	  
+!"#$%&’()	  –	  is	  the	  natural	  logarithm	  of	  the	  distance	  between	  two	  countries(i,	  j);	  
+!"#.!"###$%&’()*-­‐	  the	  dummy	  variable	  that	  shows	  whether	  the	  countries(i,	  j)	  	  
+!"#"$%!"  -­‐	  the	  dummy	  variable	  that	  has	  the	  value	  of	  1	  for	  countries	  (i,	  j)	  that	  have	  
+!"#.!"#"$%!"#	  -­‐	  the	  dummy	  variable	  that	  has	  the	  value	  of	  1	  if	  countries(i,	  j)	  	  are	  
+!"#!"$"%&!"	  -­‐	  the	  dummy	  variable	  that	  has	  the	  value	  of	  1	  if	  countries(i,	  j)	  have	  
+!"#"$%&"’()*!"#-­‐	  the	  dummy	  variable	  that	  shows	  has	  the	  value	  of	  1	  if	  the	  
+!"#!"#	  -­‐	  the	  dummy	  variable	  that	  shows	  whether	  the	  country	  is	  in	  Free	  Trade	  
+!"#"$%&"’−!"#$%&-­‐	  the	  dummy	  variable	  that	  shows	  the	  developed	  importer	  of	  
+!"#"$%&’()−!"#$%&	  -­‐the	  dummy	  variable	  that	  shows	  the	  developing	  importer	  
+
+same	  language,	  otherwise	  0;	  
+a	  common	  border,	  otherwise	  0;	  
+are	  the	  members	  of	  the	  Currency	  Union	  (with	  the	  value	  of	  1);	  
+ever	  been	  in	  colonial	  relationships;	  
+now	  in	  colonial	  relationships;	  
+common	  colonizer	  after	  1945;	  
+developed	  country	  grants	  GSP	  preferences;28	  
+Agr.	  
+the	  WTO;	  
+of	  the	  WTO.	  
+	  
+
+− 
+
+− 
+
+− 
+
+− 
+
+− 
+
+In order to eliminate heteroskedasticity I use robust standard errors. Table 1.1 shows all 
+results. The regression has 11 independent variables and 3 of them are insignificant. They are: 
+common  language  (t=-1.87),  current  colonial  relationships  (t=1.51)  and  common  currency 
+(t=-1.35).  Even  though  language  and  currency  appear  to  be  insignificant  in  the  theory  I 
+expected positive coefficients. Log of distance also has a negative significant influence, which 
+is  quite  natural  as  when  the  distance  between  two  countries  increases,  it  becomes  more 
+difficult to trade (higher shipment costs, longer time and etc.) Border, colony, ever in colonial 
+relationship, FTA and developed country in GSP have positive significant coefficients (which 
+is expected).  
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+28	  It means that developing countries have preferential tariff rates (reduced or completely eliminated) on the 
+	  
+
+markets of developed countries. 
+
+28	  
+
+While talking about developed and developing countries my hypothesis is supported by the 
+model:  a  WTO  developed  importer  has  a  significant  (at  all  significance  levels)  positive 
+coefficient (t=37.51).  A WTO developing importer has a significant (also at all significance 
+levels)  negative  coefficient  (t=-39.85).  It  means  that  after  the  developed  country  joins  the 
+
+WTO  its  trade  increases  by !!.!"#−1  or  by  246%  and  the  developing  country  has  a  sharp 
+!"#!= !!!!!!.  The critical value of VIF is usually 5 or 10. All VIFs in this regression are a 
+
+As there are actually a lot of regressors the multicollinearity may arise. In order to control 
+this  problem  I  used  the  VIF  (Variance  Inflation  Factor)  test.  The  VIF  test  is  computed  as 
+
+reduction of 65.2%.  
+
+little more than 1. Thus, there is no pattern of multicollinearity. (The VIF results are shown on 
+Table 1.2) 
+
+In order to double check the collinearity problem I made correlation matrices separately for 
+language,  distance  and  border  as  one  group  and  common  colonizer  after  1945,  current 
+colonial relationship as another group. All results were normal and, thus, there is no sign of 
+correlation. (See Tables 1.3(a) and Table 1.3(b)). As wee can observe from Table 1.3 (a) the 
+correlation  between  log(distance)  and  border  is  negative  (-0.4211)  as  well  as  between 
+log(distance) and common language (-0.1335). These values are expected as if the distance 
+between countries increases the possibility that they have common border reduces and almost 
+disappears  after  some  time.  The  same  happens  with  languages.  Usually  neighbouring 
+countries have common language. For example, Belgium, France and Switzerland both speak 
+French and Oman, Qatar, Saudi Arabia all speak Arabic. However, as many developing and 
+LDC countries were/are colonies of rich countries some languages may be met far away from 
+their  motherlands.  French  is  the  official  language  in  Chad,  Djibouti,  Equatorial  Guinea; 
+English is spoken in Belize, Guyana, Cameroon.  
+
+Table  1.3  (b)  also  shows  the  negative  correlation  between  variables  of  current  colonial 
+relationship,  common  colonizer  and  ever  in  colonial  relationship.  The  correlation  between 
+common colonizer and current colonial relationship is very low and can be approximated -
+0.01.  Thus,  there  is  almost  no  correlation.  The  same  insignificant  value  of  correlation  is 
+between common colonizer and ever in colonial relationship (-0.0482). The current colonial 
+relationship and ever in a colonial relationship has a higher positive correlation about 0.3. It is 
+easily explained by the fact that some current countries (colonies and colonizers) are included 
+in the ever colonial relationships. However, the relationship is not strong and should not be a 
+problem 
+
+29	  
+
+	  
+
+I’ve  also  decided  to  test  the  joint  significance  of  cultural  variables  (common  language, 
+current colonial relationship, common colonizer and ever in colonial relationship) is shown 
+with Table 1.4 (the chi-squared is value is used). As the P-value is about 0 then Ho of no 
+significance is rejected and we can conclude that cultural specificities generally promote trade 
+(imports). 
+
+Afterwards  the  problem  of  endogeneity  was  considered.  As  fixed  effects  together  with 
+instrumental  variables  are  methods  to  solve  this  problem  for  the  comparison  of  fixed  and 
+random effects I used the Hausman test. My P-value is almost zero, thus, the right choice is to 
+use the model with the fixed effects. Logically it is also more correct as the model with fixed 
+effects helps to control for various shocks (that can happen quite frequently in international 
+economics and trade) and also to eliminate the decrease in estimated parameters because of 
+independence  rules  of  the  error  term.  However,  the  fixed  regression  in  this  case  drops  all 
+constant  in  time  dummy  variables  (distance,  language,  border,  common  colonizer  and  ever 
+colonial  relationship).  Precisely  speaking,  these  variables  can  be  called  control  variables. 
+Table 1.5 shows all results for 3 regressions. With fixed effects some coefficients change their 
+signs but the most important fact for us are developed and developing countries. Both in fixed 
+and  random  effects  a  developed  country  has  a  small  (insignificant)  reduction  of  the  WTO 
+effect.  However,  developing  country  has  a  positive  effect  from  the  WTO  accession  (even 
+though it is smaller than of a rich country). With fixed effects it is 33.6% and with random 
+6%. Nevertheless, I decided to use Hausman-Taylor regression, which gives the opportunity 
+to  estimate  constant  variables  and  endogenous  variables.  The  constant  was  suppressed,  the 
+fixed  through  time  dummies  were  language,  common  colonizer,  colony,  distance  and 
+border29. I suspected that FTA can endogenous and actually many researches were made on 
+this topic30. (Table 1.8 shows all data) 
+
+The results I got are different from the standard log-linear regression in common language, 
+common currency and developed/developing countries. Common language and currency now 
+have  positive  coefficients,  which  coincides  with  the  theory  as  these  two  indicators  should 
+promote trade. The common currency is significant at any level while common language is 
+significant  at  5%  and  insignificant  at  1%.  Developed  countries  increase  their  imports  by 
+approximately 218%, developing countries has growth of 16%.  
+
+Summing up, the analysis of the gravity model has shown that the effect of the WTO on 
+the developed and developing countries is indeed uneven. With the standard log-linear model 
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+International Economics, 2003	  
+	  
+
+29 Developed/developing dummies were also tested as endogenous and the results almost don’t differ from the 
+case when only FTA is endogenous. 
+30 Baier S. L, Bergstand J. H. “Endogenous Free Trade Agreements and the Gravity Equation”. Journal of 
+
+30	  
+
+developing  countries  even  lose  when  the  join  the  organization  (about  65%  decrease  in 
+imports). However, the endogeneity problem actually misrepresented some coefficients and, 
+thus, by controlling endogenous and fixed through time dummy variables the true coefficients 
+were  estimated.  The  difference  for  developed  and  developing  countries  is  very  big  (202%) 
+and it proves my hypothesis.  
+
+The  next  step  of  my  empirical  work  was  the  estimation  of  regressions  that  showed  the 
+general  level  of  imports  and  exports  of  a  country  (and  not  bilateral  trade).  I  tried  to  move 
+away from the standard gravity estimation and use new methods. 
+
+ 
+
+4.2 Empirical Study. Part II 
+
+ 
+After  the  analysis  of  many  research  papers  and  the  first  part  of  the  empirical  study 
+significant results were obtained. In order to have more detailed, extensive and deep analysis 
+of the topic under consideration I decided to switch my work to another model that can be 
+more  innovative  and  show  some  new  results.  After  the  goal  was  set  I  considered  a  great 
+amount of variants. The specific nature of the topic under discussion (the uneven influence of 
+the WTO on developed and developing countries) assumed the use of the panel data, precisely 
+speaking the balanced data because not so many countries joined the organization in the last 
+few years. A panel is said to be balanced if the number of time periods t=1,…,T is the same 
+for  each  cross  section  observation.  It  has  many  advantages  and  usually  is  a  good  tool  to 
+eliminate heterogeneity and the noise made by it. All models are estimated with the cross-
+section  weights,  which  is  a  good  way  to  eliminate  the  problem  of  heteroskedasticity. 
+Regarding the problem of the endogeneity, the use of the model with weighted weights on the 
+spatial data provides the exogeneity of variables. 
+
+ 
+The following indicators of export and import were used as the resulting variables: 
+1.  Export volume index31  
+2.  Import volume index 
+3.  The growth of exports 
+4.  The growth of imports 
+5.  The value of exports (computed in US dollars; prices of the year 2000) 
+6.  The value of imports (computed in US dollars; prices of the year 2000) 
+
+ 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+31	  The index is computed as the percent that is the change (stimulated by the export change with fixed price) of 
+the last year	  
+	  
+31	  
+
+In this part of the analysis I included both exports and imports as the dependent variable in 
+order to see separate effects. Moreover, although in many works imports is used and it is said 
+that  countries  are  more  concerned  with  its  tariffs  and  other  restrictions  other  scientists  use 
+exports as it doesn’t include cost insurance freight (as imports) and includes tax on exports 
+and exports subsidy because it is measured by the free in board method. Some of the resulting 
+variables were also used as the explanatory variables. For example, the export volume index 
+is  affected  by  the  import  volume  index.    The  relationship  between  exports  and  imports  is 
+controversial  as  Husted  in  2002  examined  the  quarterly  trade  data  of  the  U.S.  and  found 
+significant slope coefficient. This result coincides with the theory as export and import should 
+converge.  However,  the  research  of  Fountas  and  Wu  in  2009  showed  no  significant 
+correlation in the long-run. 32  Thus, I try to shed the light on this relationship. 
+ 
+Besides, many other variables were used: 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+
+GDP per capita (computed in US dollars; prices of the year 2000) 
+The urban population share in the whole population 
+The growth rate of the urban population 
+The dummy variable that shows whether the country is developed or not 
+The dummy variable that shows whether the country is the member of the WTO 
+The variable that shows for how many years the country is the part of the WTO 
+
+ 
+At a later stage the total population, migration and the GDP of the neigbouring countries 
+were also included. (Not all of them will be shown in the analysis due to the poor quality of 
+models.) 
+
+The data on imports and exports is taken from the IMF World Economic Outlook Database 
+April 2013, the GDP was obtained from the World Bank database as well as IMF. Migration, 
+urban  population  were  also  taken  from  the  World  Bank,  the  information  of  the  country 
+accession was taken from the official site of the WTO. 33 
+
+As  it  was  already  said  the  classification  of  countries  was  made  according  to  the  World 
+Bank division. It has 4 groups: low income groups whose GNI per capita is $1,025 or less 
+than this value, lower middle income ($1,026 - $4,035), upper middle ($4,036 - $12,475) and 
+high income, which is equal or bigger than $12,476. The indicator was calculated in 2011. 
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+	  
+
+32 Mukhtar T., Rasheed S. “Testing Long Run Relationship Between Exports and Imports: Evidence from 
+Pakistan”. Journal of Economic Cooperation and Development, 2010, p. 41-58 
+33 wto.org 
+
+32	  
+
+  The  developed  countries  are  countries  with  the  high  income,  other  are  considered 
+
+developing.34 
+
+ The data was gathered for the time period between 1960 and 2012 for all 214 countries 
+(these are countries that have the population of more than 30,000) that exist nowadays. Not all 
+data  was  included  in  the  model  as  some  of  it  didn’t  fit  the  balanced  model.  However,  the 
+included data is enough to give consistent results.  
+
+In  the  beginning  many  models  were  developed  for  the  6  dependent  variables  already 
+mentioned  above.  For  each  of  the  variable  the  best  model  was  chosen  according  to  the 
+significance of its explaining variables. The decision of the combination of used independent 
+variables was made with the elimination method (one or more variables was excluded and the 
+new regression was estimated). 
+
+ 
+All models have the following specification: 
+
+!!"=!!"!!"+!!"!!"+!!" 
+
+ 
+
+where !!" is the dependent variable, !!" is the vector of independent variables, !!" is the 
+vector of the dummy vatiables and !!" is the normally distributed error term. 
+!"#$%!"=!1!"!"#!"+!2!"!"#$"%!"+!1!"!"#$"%&’ℎ!"+!2!"!"#$!!"+!3!"!"!#$!"+!!" 
+
+I 
+
+ 
+
+ 
+
+The first model uses the export volume index as the dependent variable and there are 5 
+independent variables: dummy that shows that the country is developed, the WTO member 
+dummy, years of the WTO membership,  urban population growth and import volume index. 
+All  coefficients  can  be  seen  in  the  regression  analysis  from  Table  2.1.  The  export  volume 
+index (the change in exports volume because of the sales with fixed prices) is positively and 
+significantly affected by the import volume index and the years of the WTO membership: t-
+statistics is 15.32 and 11.55. Urban population growth has a negative effect on the dependent 
+variable. It can also be said that the share of urban population is stable for several decades and 
+deviates quite a little in developed countries and developing countries have high increase in 
+the urban population that doesn’t stop and so their exports may also decrease because of it. 
+The WTO membership generally decreases the level of export volume index (the t-statistics is 
+-3.2).  The  dummy  that  shows  the  effect  of  the  developed  country  shows  that  the  export 
+volume index increases and it is significant at 5% but won’t be significant at 1% level. Thus, 
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+34 http://data.worldbank.org/	  
+	  
+
+33	  
+
+if we use 1% significance level we should say that there is no significant difference between 
+developed and developing countries. However, at 5% developed countries have good benefits. 
+The main result is that when the developed country joins the WTO it loses only 2.411 (which 
+is really small compared to the 4,863.953) and if the developing country joins the WTO the 
+decrease  will  be  noticeable  as  relative  to  it  before  the  WTO  accession  it  is  a  significant 
+reduction. However, after some time there can be some gain for the developing country as the 
+
+WTO years variable is significant and positive.  !! is 0.625, which is generally a good sign. 
+	  
+	   !"!#$!"=!1!"!"#!"+!2!"!"#$"%!"+!1!!!"#$"%&’ℎ!"+!2!"!"#$!!"+!3!"!"#$%!"+!!"	  
+	  
+
+II 
+
+	  
+
+The second model switches places of exports and imports and now the imports variable is 
+dependent and the exports variable is independent. The Table 2.2 has all results. As we can 
+see  all  coefficients  are  significant  at  all  significance  level.    Here  the  developed  country 
+dummy has a negative significant influence on imports (t-statistics=-14.537) as well as urban 
+population growth (t=11.67). Nevertheless, developed countries then improve their position as 
+the years of the WTO membership has a significant positive influence, too (however, quite a 
+long period of time will be required). The developing countries increase their level of imports 
+
+volume index after the accession and during the years it only rises. !!=0.752, which is high. 
+
+The results that are obtained from the first two regressions are quite connected with the 
+analysis  made  in  the  theoretical  part.  As  generally  developed  countries  quite  often  make  it 
+hard for developing countries to enter rich countries’ markets and their level of exports are 
+often less than of the developed countries and the level of imports can be higher. Though, if 
+we compare these results with the gravity analysis, we will find that they are opposite and 
+imports of developed countries is generally significantly higher than of developing countries. 
+Although  from  the  international  economics  theory  we  should  remember  that  if  the 
+country’s imports increases and its exports decreases (or even stays the same) then the current 
+account decreases, which means that the aggregate output falls. There may be an expectation 
+of the growth in short-term but in the long-run it can bring a lot of problems as it can increase 
+the  country’s  credit  risk  and  eventually  the  economic  situation  in  the  country  may  sharply 
+decrease (foreign investors will reduce the demand on the country’s assets as investment may 
+be  not  profitable)  and  country’s  currency  will  depreciate.  Thus,  these  2  models  show  that 
+developed countries are in a much better situation after the WTO accession then developing 
+countries.   
+ 
+
+34	  
+
+III and IV 
+
+!"#!"=!1!"!"#!"+!2!"!"#$"%!"+!1!"!"#$"%&’ℎ!"+!2!"!"#$!!"+!3!"!"!#!!"+!!"	  
+	  
+I	  combined	  these	  models	  because	  both	  of	  them	  appeared	  to	  be	  worse	  than	  Model	  1	  
+and	  Model	  2.	  
+The	  third	  model	  (that	  explains	  the	  growth	  of	  exports)	  has	  three	  insignificant	  
+variables	  at	  5%	  sign.	  level	  (developed	  dummy,	  the	  WTO	  membership	  dummy	  and	  the	  
+years	  of	  the	  membership)	  and	  all	  of	  the	  variables	  are	  insignificant	  at	  1%	  level.	  	  !!	  is	  
+0.038	  ,	  which	  is	  very	  low.	  Except	  the	  years	  of	  the	  WTO	  all	  other	  coefficients	  have	  the	  
+same	  sign	  of	  the	  regression	  as	  the	  exports	  volume	  index	  and	  they	  are	  insignificant	  
+anyway.	  The	  Jarque-­‐Bera	  test	  shows	  that	  the	  error	  term	  is	  not	  normally	  distributed.	  
+Thus,	  this	  model	  shouldn’t	  be	  used.	  
+	  !"#!"=!1!"!"#!"+!2!"!"#$"%!"+!1!"!"#$"%&’ℎ!"+!2!"!"!"!!"+!3!"!"#$%!"+!!"	  
+	  
+
+The  fourth  model,  which  shows  the  growth  of  imports,  is  a  lot  better,  however,  the 
+significance of all coefficients is lower than in the model with the imports volume index. The 
+years of the WTO is the only insignificant variable and all coefficients except it coincide the 
+ones  in  the  first  model.  The  coefficient  of  the  developed  country  is  again  negative  and 
+significant,  which  means  that  if  the  developed  country  enters  the  WTO  its  import  will  be 
+much less than the imports of the developing country and the years spend in the WTO don’t 
+
+mean change anything. !! is again quite low (only 0.538). 
+describe the low value of !!. 
+
+The problem with these two models (especially the Model 3) can be in the fact of some 
+volatilities in inflation, exchange rates and other not controlled by us factors and it can also 
+
+ 
+
+The log(exports) and log(imports) appeared to be the best specifications and among many 
+
+models I chose 4 (2 for exports and 2 for imports in order to briefly outline their results). 
+
+	  
+
+V	  and	  VI	  
+
+	  
+	  
+	  
+
+In order to examine different approaches I eliminated the developed dummy and tried to 
+use GDP per capita. It is not a perfect substitute since the division was made according GNI 
+per  capita,  which  is  based  on  ownership  and  GDP  is  calculated  basing  on  ownership. 
+However, in V and VII models I assumed that these two indicators are the same. 
+
+35	  
+
+	  !"#(!"!")=!1!"!"#$"%!"+  !1!"!"#!"!!"+!2!"!"#$!!"+!3!"log  (!"#_!"#_!"#$%")!"+!!" 
+	  
+The specification differs from others and its !! is about 0.96, which is extremely high (and 
+
+it  is  suspicious)  and  the  error-term  is  not  normal  at  all.  Its  coefficient  of  the  WTO 
+membership  is  positive  and  significant  (t=336.79),  urban  population  growth  has  a  negative 
+influence  on  exports.  The  years  of  the  WTO  membership  coefficient  is  also  positive  and 
+significant and the logarithm of GDP per capita is also very significant and its t-statistics is 
+equal  to  124.  The  coefficient  is  0.997,  which  means  that  with  the  increase  of  1%  of  this 
+independent variable the exports increases by 0.99%.  
+
+ !"#(!"!")=!1!"!"#$"%!"+  !1!"!"#!"!!"+!2!"!"#$!!"+!3!"log  (!"#_!"#_!"#$%")!"+!!" 
+
+ 
+      The  regression  has  the  same  results  as  the  exports  one  and  all  coefficients  are 
+approximately the same (signs are also the same). The coefficient before GDP per capita is 
+0.9, which means that with 1% increase in it the imports increases by 0.9%. (t=120.62). Here 
+developed countries have benefits. 
+  
+While comparing the models with and without developed dummy I chose the one with it as it 
+
+has  normal !! (not  too  high)  and  normal  distribution  of  the  error  term.  This  factor  is  very 
+	  
+
+important  as  no  substantial  conclusions  can  be  done  if  the  error  term  has  skewness  and 
+kurtosis.  
+ 
+
+	  
+
+!"#(!"!")=!1!"!"#!"+!2!"!"#$"%!"+  !1!"!"#!"!!"+!2!"log  (!"#_!"#$ℎ)!"+!!"	  
+
+VII  
+
+ 
+This specification includes the new variable that shows GDP of neigbouring countries. The 
+data  was  gathered  separately  for  each  country  and  4  neigbouring  countries  were  used.  In 
+general most of these neighbours have common borders with a country of interest. However, 
+in some cases other independent states were chosen according to the distance (in km) if there 
+weren’t enough “border neighbours”. There should be a positive effect from this indicator as 
+richer and more developed neighbouring countries increase the potential trade opportunities 
+as generally trade for smaller distances is bigger (these countries as well may have common 
+language and other similarities).  
+
+36	  
+
+All coefficients except the WTO membership are positive and all of them are significant. 
+GDP of neigbours has the value of 0.536 and t-stat=22.62. The one 1% increase in the total 
+GDP of neghbouring countries will give 0.53% rise in exports. These numbers are consistent 
+with other assumptions of positive influence. Once again for a developed country the process 
+of joining the WTO won’t be noticeable as its coefficient is only -0.2584. However, for the 
+developing country it may significantly deteriorate exports as relative to its all other values it 
+
+is a big change and its exports will fall by 25%. !! is 0.759, which is a good sign. All results 
+!"#(!"!")=!1!"!"#!"+!2!"!"#$"%!"+  !1!"!!"!"!!"+!2!"log  (!"#_!"#$ℎ!)!"+!!" 
+
+can be seen in Table 2.7. 
+
+ 
+
+VIII 
+
+ 
+The imports model also has all significant coefficients and all positive except the WTO 
+membership (t=-14.73). The dummy for a developed is also significant and its t-stat is equal 
+to 15.29.  GDP of neigbouring countries is positive and significant (0.525) and t=22.44. Again 
+1% rise in total GDP of neigbours increases imports by 0.52%. 
+
+	  
+
+It is important that here the developed dummy has a positive coefficient (it is implausibly 
+big and it is not so in the reality). However, these results are the same as in the gravity model 
+regression and developed countries benefit more. 
+
+	  	  	  	  	  I’ve also tried to include the migration, the average time of export and import shipments 
+
+but the data is available for some years only and, thus, the small number of observations can 
+be used (about 200). All variables (or most of them) were insignificant.  
+
+All specifications of models have enormously big coefficients of the developed dummy. It 
+could happen because of the different measurement units or because of the specification of the 
+used  models.  During  the  analysis  the  value  of  the  coefficient  wasn’t  so  much  taken  into 
+account  as  generally  it  was  important  to  show  the  effects  of  the  WTO  on  developed  and 
+
+developing countries and their difference, which was presented by these models.	  	  	  
+
+	  
+
+37	  
+
+Conclusion 
+	  
+
+The main goal of this paper was to show uneven effects of the WTO on developed and 
+developing  countries.  In  this  research  the  history  of  the  WTO  together  with  its  main  rules 
+(non-discrimination,  the  reduction  of  all  tariffs  and  restrictions,  stable  trade  conditions, 
+competition maintenance and development and privileges for less developed countries) and 
+functions (control of trade agreements, settlement of disputes, assistance for less developed 
+countries, cooperation with other international organizations and provision of conditions for 
+trade) were outlined and discussed. The WTO accession process and membership were also 
+examined with its advantages and disadvantages. The important section of the main spheres 
+and changes that occur under the pressure of the organization were discussed.  
+
+As  it  was  said  not  only  developed  countries  are  guilty  of  the  unequal  conditions  of 
+developing  countries  in  the  World  Trade  Organization  but  to  some  extent  developing 
+countries by themselves were not so initiative and didn’t assert their rights. As a consequence 
+the  minimization  of  tariffs  and  import  customs  duties  led  to  lost  opportunities.  Quite  often 
+rich countries kept and still keep some restrictions regarding the poor35 countries and, thus, 
+the later ones cannot export their goods and services in the amount that the true “free” trade 
+should  give.  These  restrictions  are  particularly  connected  with  textiles,  farmers.  Another 
+important problem are TRIPS as patents on medicine, for example, kill millions of people, 
+especially  in  least  developed  countries.  We  can  observe  that  “Most  Favoured  Nation” 
+treatment is not followed in the reality. However, developing countries have the reason for 
+this “inactive” behavior as sometimes costs of these negotiation processes are so high that it is 
+not rational for them to get into this business.  
+
+Research  papers  examined  in  this  work  also  showed  different  effects  on  developed  and 
+developing  countries  whether  imports  or  exports  were  taken  as  dependent  variables.  On 
+average if the developed country joins the WTO its imports rises by 200%. The situation with 
+exports is approximately the same. The specificity of these results is that most of them were 
+obtained from the bilateral trade analysis and the use of the gravity model.  
+
+The empirical analysis of the bilateral trade conducted in this paper also shows that the 
+effects on developed and developing countries are not the same. By this my hypothesis was 
+confirmed.  The  gravity  model  and  its  regression  showed  that  the  imports  of  the  developed 
+countries significantly increases compared to changes in the developing countries. 
+
+The second part of the analysis included the simple regressions of the balanced panel data 
+with cross-section weights and exports/imports as the resulting variables. The originality of 
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+	  
+
+35 Here “poor countries” means developing countries. 
+
+38	  
+
+this method consists of the fact that it shows the trade with the whole world (differs from the 
+gravity analysis of the bilateral trade) and uses some new variables such as urban population 
+share, GDP of neighbouring countries and etc. With its help the asymmetry of the effects was 
+also displayed. However, here the exports generally increased significantly for a developed 
+country and decreased for a developing one and the imports showed the opposite situation. 
+Thus, developing countries benefited as importers but lost a lot as exporters. The results can 
+be influenced by the specificity of the model. Anyway the goal to show the uneven effect of 
+the World Trade Organization was successfully achieved.   
+
+The quantitative examination in the sum brings to a conclusion that developing countries 
+should fight for their rights, try to strike equal conditions and be more active participants. If 
+developed countries reduce or completely eliminate their tariffs then developing ones will be 
+able to increase their exports, which should be under their special control. The key point is 
+that if a country joins the WTO it doesn’t mean that immediately everything will worsen or 
+become better. The important factor is the economic policy of a country as the WTO is only a 
+
+39	  
+
+“tool” in its hands.	  
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+
+ 	  	  	  	  
+	  
+
+Горбунова  О.А.,  Миченнкова  И.В.  “ВТО.  Основы  функционирования  и 
+
+Дюмулен И.И. “Всемирная торговая организация” . М.: Экономика, 2009.  С. 58 
+Кузнецова,  И.  П.  “Всемирная  торговая  организация:  функции,  проблемы, 
+
+Шувалова  М.А.  “Проблемы  и  перспективы  России  при  вступлении  в  ВТО” 
+
+Царева  А.Б.  “Интеграция  российской  экономики  в  ВТО”  Внешнеторговое 
+
+References 
+ 
+1. 
+проблемы присоединения России”. Дашков и Ко, 2009, с.152 
+2. 
+
+3. 
+перспективы”. ЭКО, 2006  
+4. 
+Экономика России: ХХI век., 2010. – № 5(296). С. 16-23. 
+5. 
+право,2009. – №5.  С. 4-10. 
+6. 
+Puzzle” The American Economic Review, 2003 
+7. 
+
+8. 
+Equation”. Journal of International Economics, 2003 
+9. 
+Perspective”. Anthem Press, 2002 
+10. 
+2011 
+11. 
+Continuing Enigma.” Cambridge Journal of Economics 25(6), 2003 
+12. 
+World?”. NBER, 1995 
+13. 
+World Trade”.Review of World Economic, 2006 
+14. 
+Extensive Margin of World”. CESifo working paper, № 1898, 2007 
+15. 
+Explanation”. Econometrica, 2011 
+16. 
+
+17. 
+Princeton University Press, 1996. 
+18. 
+Specification”. Review of International Economics, 2009 
+
+	  
+
+Anderson  J.E..,  van  Wincoop  E.  “Gravity  with  Gravitas:  A  Solution  to  the  Border 
+
+Anderson J.E.., van Wincoop E. “Trade Cost”. NBER Working Paper, 2004 
+Baier  S.  L,  Bergstand  J.  H.  “Endogenous  Free  Trade  Agreements  and  the  Gravity 
+
+Chang  H.-J.,  “Kicking  Away  the  Ladder  –  Development  Strategy  in  Historical 
+
+Chang P.-L., Lee M.Y.. The WTO Trade Effect, Journal of International Economic, 
+
+Deraniyagala,  S.,  and  B.  Fine.“New  Trade  Theory  versus  Old  Trade  Policy:  A 
+
+Deardoff  A.  “Determinants  of  Bilateral  Trade:  Does  Gravity  Work  in  Neoclassical 
+
+Felbermayr  G,  Kohler  W.  K.  “Exploring  the  Intensive  and  Extensive  Margins  of 
+
+Felbermayr  G,  Kohler  W.  K.  “Does  WTO  Membership  Make  a  Difference  at  the 
+
+Fieler  A.C.  “Nonhomotheticity  and  bilateral  trade:  Evidence  and  a  Quantitative 
+
+Helpman E.,Rubinstein Y. “Trading Partners and Trading Volumes. Draft 
+Irwin,  Douglas  A.  “  Against  the  Tide:  An  Intellectual  History  of  Free  Trade”. 
+
+Liu  X.,  “GATT/WTO  Promotes  Trade  Strongly:  Sample  Selection  and  Model 
+
+40	  
+
+Rose A. K. “Which International Institutions Promote International Trade?”. Review 
+
+Rose A. K.  “Does the WTO Make Trade More Stable?”. Open Economies Review, 
+
+Rose  A  K.,  The  Effect  of  Membership  in  GATT/WTO  on  Trade:  Where  Do  We 
+
+Rukavishnikova  E.,  ICEF  Course  Work:  “International  Trade,  the  WTO  and  the 
+
+Rose Andrew K. “Do We Really Know that the WTO Increases Trade?”. American 
+
+19.  Mayer T., Zignago S. “Notes on CEPII’s Distance Measures, 2006 
+20.  Michalopoulos C. “Developing countries in the WTO”. Palgrave, 2001 
+21.  Mikic M., “Commonly Used Trade Indicators: A Note”. ARTNeT Capacity Building 
+Workshop on Trade, 2005 
+22.  Mukhtar  T.,  Rasheed  S.  “Testing  Long  Run  Relationship  Between  Exports  and 
+Imports: Evidence from Pakistan”. Journal of Economic Cooperation and Development, 2010, 
+p. 41-58 
+23. 
+Economic Review, 2004 
+24. 
+of International Economics,2005 
+25. 
+2005 
+26. 
+Stand?. Unpublished Draft 
+27. 
+Impact on Russia”, 2012,p. 25-29 
+28. 
+2006 
+29. 
+Journal of International Economics, 2007 
+30. 
+Policy, 1962 
+31. 
+32.  Woolridge J. “Econometric Analysis of Cross Section and Panel Data. The MIT Press, 
+2002 
+33. 
+Services”. Maastricht Working Papers, the Faculty of Law, 2009 
+34. 
+
+Subramanian  A.,  Wei  S.-J.,  “The  WTO  Promotes  Trade,  Strongly  But  Unevenly”. 
+
+Zettel  M.  “The  GATS,  Privatization  and  Water  Services  An  Overview  of  Legal 
+
+Silva J.,  Tenreyro S. “The Log of Gravity”. The Review of Economics and Statistics, 
+
+Tinbergen, J. Shaping the World Economy. Suggestions for an International Economic 
+
+Volkov, Solodkov. “International trade”. Higher education, 2008 
+
+The International Statistical Institute (isi.web.org) 
+Faculty.hass.berkely.edu/arose/ 
+guardian.co.uk 
+un.org 
+wto.org 
+wikipedia.org 
+un.org 
+
+35. 
+
+36. 
+
+37. 
+
+38. 
+
+39. 
+
+40. 
+
+	  
+
+41	  
+
+ 
+Databases: 
+1.  CEPII 
+2.  International Monetary Fund 
+3.  UN Comtrade 
+4.  World Bank 
+
+	  
+
+ 
+
+ 
+
+	  
+
+42	  
+
+Results 
+ 
+Gravity	  model	  
+ 
+Table 1.1 The log-linear gravity model with robust standard errors 
+
+	  
+
+                             Robust
+     limport        Coef.   Std. Err.      t    P>|t|     [95% Conf. Interval]
+                                                                              
+   ldistance    -.4713831   .0154455   -30.52   0.000    -.5016561     -.44111
+      border     1.108496   .0636881    17.41   0.000     .9836673    1.233324
+      comcol    -1.351204   .0453767   -29.78   0.000    -1.440142   -1.262266
+   curcolony     .2637784   .1742278     1.51   0.130    -.0777073     .605264
+     comlang     -.054159   .0290109    -1.87   0.062    -.1110202    .0027022
+      colony      2.54271   .0570543    44.57   0.000     2.430884    2.654537
+ comcurrency    -.1295805   .0959443    -1.35   0.177    -.3176309    .0584698
+developed_~O     1.243817   .0331558    37.51   0.000     1.178832    1.308803
+developing~O    -1.057688    .026544   -39.85   0.000    -1.109714   -1.005662
+         fta     2.098706     .08341    25.16   0.000     1.935223    2.262189
+   Deved_GSP      .893698   .0351306    25.44   0.000     .8248422    .9625538
+       _cons     14.32131   .1288679   111.13   0.000     14.06873     14.5739
+                                                                              
+
+	  	  	  	  	  	  	  	  
+
+	  	  
+
+	  	  	  	  	  	  	  	  	  	  	  	  
+
+ 
+ 
+
+	  
+
+Table 1.2 Test for multicollinearity 
+
+    Variable         VIF       1/VIF  
+                                    
+   ldistance        1.38    0.725827
+developing~O        1.34    0.747922
+      comcol        1.30    0.767057
+      border        1.25    0.800027
+     comlang        1.24    0.807123
+developed_~O        1.23    0.810666
+   Deved_GSP        1.20    0.834701
+      colony        1.16    0.860006
+ comcurrency        1.16    0.864455
+         fta        1.13    0.884033
+   curcolony        1.12    0.894672
+                                    
+    Mean VIF        1.23
+
+	  
+
+43	  
+
+ 
+Table 1.3 (a) Correlation matrix for log(distance), border and common language 
+
+               ldista~e   border  comlang
+                                         
+   ldistance     1.0000
+      border    -0.4211   1.0000
+     comlang    -0.1335   0.1195   1.0000
+
+ 	  	  	  	  	  	  	  	  	  	  
+
+	  	  
+	  	  	  
+	  
+
+Table 1.3(b) Correlation matrix of common colonizer after 1945, current colonial 
+relationship and ever in colonial relationship 
+
+               curcol~y   comcol   colony
+                                         
+   curcolony     1.0000
+      comcol    -0.0143   1.0000
+      colony     0.2973  -0.0482   1.0000
+
+ 
+ 
+ 
+ 
+ 
+ 
+Table 1.4 Joint test for cultural significance 
+
+ ( 1)  - curcolony + comlang = 0
+ ( 2)  comlang - colony = 0
+ ( 3)  - comcol + comlang = 0
+ ( 4)  comlang = 0
+
+       F(  4, 76082) =  908.61
+            Prob > F =    0.0000
+
+	  	  	  	  	  	  	  
+
+	  
+
+44	  
+
+	  
+	  
+
+Table 1.5 Results of the gravity regression 
+ 
+
+(1) Initial regression, without effects 
+(2) Regression with fixed effects 
+(3) Regression with random effects 
+
+                                                            
+                      (1)             (2)             (3)   
+                  limport         limport         limport   
+                                                            
+ldistance          -0.471***                       -0.645***
+                 (-30.52)                        (-20.23)   
+
+comlang           -0.0542                         -0.0812   
+                  (-1.87)                         (-1.26)   
+
+border              1.108***                        1.404***
+                  (17.41)                          (8.84)   
+
+comcol             -1.351***                       -1.698***
+                 (-29.78)                        (-19.94)   
+
+curcolony           0.264          0.0868           0.153   
+                   (1.51)          (0.56)          (1.00)   
+
+colony              2.543***                        3.398***
+                  (44.57)                         (17.90)   
+
+comcurrency        -0.130           0.451***        0.304***
+                  (-1.35)          (4.67)          (3.38)   
+
+developed_~O        1.244***        0.914***        1.142***
+                  (37.51)         (18.37)         (29.42)   
+
+developing~O       -1.058***        0.298***       0.0649** 
+                 (-39.85)         (13.04)          (3.05)   
+
+fta                 2.099***        2.184***        2.298***
+                  (25.16)         (36.57)         (41.59)   
+
+Deved_GSP           0.894***        1.572***        1.761***
+                  (25.44)         (30.10)         (42.57)   
+
+o.ldistance                             0                   
+                                      (.)                   
+
+o.comlang                               0                   
+                                      (.)                   
+
+o.border                                0                   
+                                      (.)                   
+
+o.comcol                                0                   
+                                      (.)                   
+
+o.colony                                0                   
+                                      (.)                   
+
+_cons               14.32***        9.961***        14.27***
+                 (111.13)        (560.06)         (53.81)   
+                                                            
+N                   76094           76094           76094   
+                                                            
+t statistics in parentheses
+* p<0.05, ** p<0.01, *** p<0.001
+
+36	  
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+
+36	  	  * the coefficient is significant at 5% level 
+*** coefficient is significant 0.1% level	  
+	  
+
+** coefficient is significant at 1% level 
+
+45	  
+
+	  
+
+Table 1.6 Hausman test 
+
+                      Coefficients     
+                    (b)          (B)            (b-B)     sqrt(diag(V_b-V_B))
+                   fixed        random       Difference          S.E.
+                                                                              
+   curcolony      .0867768     .1532414       -.0664646        .0227608
+ comcurrency       .451338       .30432         .147018        .0355829
+developed_~O      .9138043     1.141972       -.2281681         .031103
+developing~O      .2984583     .0649143         .233544        .0083737
+         fta      2.183619     2.297876       -.1142566        .0226316
+   Deved_GSP      1.571932     1.760747       -.1888142        .0318933
+                                                                              
+                           b = consistent under Ho and Ha; obtained from xtreg
+            B = inconsistent under Ha, efficient under Ho; obtained from xtreg
+
+    Test:  Ho:  difference in coefficients not systematic
+
+                  chi2(6) = (b-B)'[(V_b-V_B)^(-1)](b-B)
+                          =      883.64
+                Prob>chi2 =      0.0000
+
+	  	  	  	  	  	  
+ 	  	  	  
+
+	  	  	  	  	  	  
+	  	  	  	  	  	  	  	  
+
+ 
+ 
+ 
+
+	  
+
+Table 1.7 Variables and their mean, variance, min, max  
+
+   stats     limport  ldista~e   comlang    border    comcol  curcol~y    colony  comcur~y  de~d_WTO
+                                                                                                    
+    mean    10.46702  8.177309  .2214829  .0300857  .0986763  .0018754  .0208086   .014165  .1418662
+variance    10.58845  .6421866    .17243  .0291808  .0889402  .0018719  .0203758  .0139645  .1217414
+     min   -5.283875  3.782556         0         0         0         0         0         0         0
+     max    21.00921  9.421514         1         1         1         1         1         1         1
+                                                                                                    
+
+   stats    de~g_WTO       fta  Deved_~P
+                                        
+    mean    .3692516  .0191195  .1068614
+variance    .2329072  .0187541   .095443
+     min           0         0         0
+     max           1         1         1
+                                        
+
+	  
+
+46	  
+
+	  	  
+
+Table 1.8 Hausman-Taylor Estimation 
+
+Hausman-Taylor estimation                       Number of obs      =     76094
+Group variable: cpdum                           Number of groups   =     16941
+
+                                                Obs per group: min =         1
+                                                               avg =       4.5
+                                                               max =        11
+
+Random effects u_i ~ i.i.d.                     Wald chi2(11)      =         .
+                                                Prob > chi2        =         .
+
+                                                                              
+     limport        Coef.   Std. Err.      z    P>|z|     [95% Conf. Interval]
+                                                                              
+TVexogenous   
+   curcolony     .0473229    .148133     0.32   0.749    -.2430124    .3376582
+ comcurrency      .511645    .089821     5.70   0.000     .3355991    .6876908
+developed_~O     1.160852   .0416104    27.90   0.000     1.079297    1.242406
+developing~O     .1570499   .0212819     7.38   0.000     .1153381    .1987617
+   Deved_GSP     1.773603   .0439667    40.34   0.000      1.68743    1.859776
+TVendogenous  
+         fta     2.342187   .0562649    41.63   0.000      2.23191    2.452465
+TIexogenous   
+   ldistance     1.118124   .0045547   245.49   0.000     1.109197    1.127051
+     comlang     .2220227   .0862439     2.57   0.010     .0529877    .3910578
+      border      4.49327   .1943992    23.11   0.000     4.112254    4.874285
+      comcol    -1.117194   .1123814    -9.94   0.000    -1.337458   -.8969308
+      colony      3.12487   .2493816    12.53   0.000     2.636091    3.613649
+                                                                              
+     sigma_u    3.8087056
+     sigma_e     1.429064
+         rho    .87659132   (fraction of variance due to u_i)
+                                                                              
+Note:  TV refers to time varying; TI refers to time invariant.
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+
+	  
+
+47	  
+
+Cross-­‐section	  weights	  model	  
+
+Table 2.1  The 1st model estimation 
+
+ 
+
+Model: Panel EGLS (Cross-section weights) 
+Dependent Variable: Export volume index (EXP_VOLUME_IND) 
+
+Independent 
+
+variable 
+
+Name 
+
+Developed country  DUMMY_DEVELOPED 
+The WTO member 
+Urban population 
+
+DUMMY_WTO 
+
+URB_POPUL_GROWTH 
+
+Coefficien
+
+4863.953
+
+t 
+
+** 
+
+-2.411*** 
+-4.894*** 
+
+St.Error 
+
+1470.875 
+0.737564 
+0.644988 
+
+growth 
+
+Years of the WTO 
+
+membership 
+
+Imports volume 
+
+index 
+
+2.307*** 
+
+YEARS_WTO 
+
+!!=0,625;!"#$!"=0,54 =0,76,  *** significant coef, 
+
+IMP_VOLUME_IND 
+
+0.199750 
+
+0.405*** 
+
+0.026414 
+
+Table 2.2 The 2nd  model estimation  
+ 
+
+Model: Panel EGLS (Cross-section weights) 
+Dependent variable Import Volume Index (IMP_VOLUME_IND) 
+
+	  
+
+	  	  	  
+
+	  	  	  	  	  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+	  
+
+t-stat 
+
+3.306843 
+-3.268720 
+-7.587744 
+
+11.55068 
+
+15.32320 
+
+Independent 
+variable 
+Developed 
+country 
+The WTO 
+member 
+Urban 
+
+population 
+
+growth 
+
+Years of the 
+
+WTO 
+
+membership 
+Export volume 
+
+index 
+
+Name 
+
+Coefficient 
+
+St.Error 
+
+ 
+
+t-stat 
+
+DUMMY_DEVELOPED 
+
+-21717.27*** 
+
+1493.925  
+
+-14.53705 
+
+DUMMY_WTO 
+
+10.896*** 
+
+0.748791 
+
+14.55138 
+
+URB_POPUL_GROWTH 
+
+10.415*** 
+
+0.892153 
+
+11.67387 
+
+YEARS_WTO 
+
+2.236*** 
+
+0.200742 
+
+!!=0,752;!"#$!"=3,11 =0,211, , *** significant coef;  
+
+EXP_VOLUME_IND 
+
+0.550*** 
+
+0.024011 
+
+11.13913 
+
+22.90870 
+
+48	  
+
+Table 2.3 3rd model estimation 
+
+Model: Panel EGLS (Cross-section weights) 
+
+Dependent variable: Exports growth 
+
+Name 
+
+Coefficient 
+
+St.Error 
+
+t-stat 
+
+DUMMY_DEVELOPED 
+
+977.51* 
+
+DUMMY_WTO 
+
+-0.485* 
+
+509.5048 
+
+0.255448 
+
+URB_POPUL_GROWTH 
+
+-0.049** 
+
+0.019202 
+
+1.918559 
+
+-1.899531 
+
+-2.533998 
+
+YEARS_WTO 
+
+membership 
+Export volume 
+
+!!=0,038;!"#$!"=14,11 =0,0008, *** significant coef., ** sign coef. at 5%, *not sign. 
+
+IMP_VOLUME_IND 
+
+0.009379 
+
+2.001636 
+
+0.019** 
+
+index 
+
+-0.150* 
+
+0.077897 
+
+-1.928367 
+
+Table 2.4 4th model estimation 
+
+Model: Panel EGLS (Cross-section weights) 
+
+Dependent variable:  Imports growth 
+Name 
+
+Coefficient 
+
+St.Error 
+
+t-stat 
+
+DUMMY_DEVELOPED 
+
+-1802.925*** 
+
+458.452 
+
+-3.932636 
+
+DUMMY_WTO 
+
+0.904866*** 
+
+URB_POPUL_GROWTH 
+
+0.902136*** 
+
+0.229 
+
+0.161 
+
+YEARS_WTO 
+
+!!=0,538;!"#$!"=5,36 =0,068, *** significant coef., * not sign. 
+
+EXP_VOLUME_IND 
+
+0.656*** 
+
+0.033 
+
+-0.059* 
+
+0.031 
+
+Independent 
+
+variable 
+Developed 
+country 
+The WTO 
+member 
+
+growth 
+
+Years of the 
+
+WTO 
+
+Urban population 
+
+Independent 
+
+variable 
+Developed 
+country 
+The WTO 
+member 
+
+Urban population 
+
+growth 
+
+Years of the 
+
+WTO 
+
+membership 
+Export volume 
+
+index 
+
+	  
+
+	  	  	  	  
+	  
+
+	  	  
+
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+
+	  
+
+3.937837 
+
+5.614344 
+
+-1.850936 
+
+19.76980 
+
+49	  
+
+Table 2.5 5th model estimation 
+
+Model: Panel EGLS (Cross-section weights) 
+
+Dependent variable:  Log (Exports) 
+Name 
+
+Coefficient 
+
+DUMMY_WTO 
+URB_POPUL 
+
+0.007471*** 
+-0.001444* 
+
+St.Error 
+
+2.22E-05 
+0.000775 
+
+t-stat 
+
+336.7910 
+-1.861826 
+
+Independent 
+
+variable 
+The WTO 
+member 
+
+Urban population  
+
+Years of the 
+
+WTO 
+
+membership 
+Log (GDP per 
+
+capita) 
+
+YEARS_WTO 
+
+0.035974*** 
+
+0.001888 
+
+!!=0,96;!"#$!"=187,2654 =0,000 *** significant coef., * not sign. 
+
+LOG(GDP_ PER_ 
+
+0.997441*** 
+
+CAPITA) 
+
+0.008029 
+
+19.05131 
+
+124.2292 
+
+	  
+
+	  	  
+	  	  
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+
+	  
+
+	  
+Table 2.6 6th model estimation 
+
+Model: Panel EGLS (Cross-section weights) 
+
+Dependent variable:  Log (Imports) 
+Name 
+
+Coefficient 
+
+DUMMY_WTO 
+URB_POPUL 
+
+0.007895*** 
+-0.001850*** 
+
+St.Error 
+
+2.09E-05 
+0.000709 
+
+t-stat 
+
+378.5537 
+-2.609446 
+
+Independent 
+
+variable 
+The WTO 
+member 
+
+Urban population  
+
+Years of the 
+
+WTO 
+
+membership 
+Log (GDP per 
+
+capita) 
+
+YEARS_WTO 
+
+0.036901*** 
+
+0.001950 
+
+!!=0,96;!"#$!"=167,2654 =0,000 *** significant coef., * not sign. 
+
+LOG(GDP_ PER_ 
+
+0.908286*** 
+
+CAPITA) 
+
+0.007530 
+
+18.92643 
+
+120.6233 
+
+50	  
+
+Table 2.7 7th model estimation 
+
+Model: Panel EGLS (Cross-section weights) 
+
+Dependent variable:  Log (Exports) 
+Name 
+
+Coefficient 
+
+St.Error 
+
+t-stat 
+
+DUMMY_DEVELOPED 
+
+534.6026*** 
+
+31.91488 
+
+16.75089 
+
+DUMMY_WTO 
+URB_POPUL 
+
+Urban population  
+
+Log( GDP of 
+neigbours) 
+
+!!=0,87;!"#$!"=0,5472 =0,76 *** significant coef., * not sign. 
+
+LOG(GDP_NEIGH) 
+
+-0.258402*** 
+0.022277*** 
+0.536445*** 
+
+0.015925 
+0.002225 
+0.023712 
+
+-16.22663 
+10.01151 
+22.62343 
+
+ 
+Table 2.8 8th model estimation 
+
+Model: Panel EGLS (Cross-section weights) 
+
+Dependent variable:  Log (Imports) 
+Name 
+
+Coefficient 
+
+St.Error 
+
+t-stat 
+
+DUMMY_DEVELOPED 
+
+481.1683*** 
+
+31.46877 
+
+15.29034 
+
+DUMMY_WTO 
+URB_POPUL 
+
+Urban population  
+
+Log( GDP of 
+neigbours) 
+
+!!=0,7;!"#$!"=0,9949 =0,61 *** significant coef., * not sign. 
+
+LOG(GDP_NEIGH) 
+
+-0.231497*** 
+0.020394*** 
+0.525387*** 
+
+0.015709 
+0.002199 
+0.023404 
+
+Independent 
+
+variable 
+Developed 
+country 
+The WTO 
+member 
+
+Independent 
+
+variable 
+Developed 
+country 
+The WTO 
+member 
+
+	  
+
+	  	  
+	  
+
+	  	  	  	  	  	  	  	  	  	  	  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+	  
+
+-14.73680 
+9.272442 
+22.44823 
+
+51	  
+
+Appendices 
+Appendix	  1:	  	  	  
+
+ 
+
+Residuals. Model 1 
+
+ 	  	  	  	  	  	  	  	  	  	  
+	  	  	  	  	  	  	  	  	  	  
+
+	  
+
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+
+	  
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+Series: Standardized Residuals
+Sample 1997 2011
+Observations 508
+
+Mean      
+Median  
+Maximum 
+Minimum 
+Std. Dev.  
+Skewness  
+Kurtosis  
+
+ 4.31e-05
+-0.000796
+ 0.144549
+-0.138220
+ 0.051867
+-0.044053
+ 2.865500
+
+Jarque-Bera  0.547223
+Probability
+ 0.760627
+
+0.15
+
+-0.10
+
+-0.05
+
+0.00
+
+0.05
+
+0.10
+
+	  
+
+Residuals. Model 2 
+
+Series: Standardized Residuals
+Sample 1996 2011
+Observations 449
+
+Mean      
+Median  
+Maximum 
+Minimum 
+Std. Dev.  
+Skewness  
+Kurtosis  
+
+ 0.438231
+-2.751696
+ 84.36167
+-83.88595
+ 28.45219
+ 0.203681
+ 2.984699
+
+Jarque-Bera  3.108902
+Probability
+ 0.211305
+
+-80
+
+-60
+
+-40
+
+-20
+
+0
+
+20
+
+40
+
+60
+
+80
+
+Residuals. Model 3 
+
+Series: Standardized Residuals
+Sample 1996 2011
+Observations 348
+
+Mean      
+Median  
+Maximum 
+Minimum 
+Std. Dev.  
+Skewness  
+Kurtosis  
+
+ 0.368094
+-0.190585
+ 15.11505
+-9.288648
+ 5.386012
+ 0.429685
+ 2.515101
+
+Jarque-Bera  14.11785
+Probability
+ 0.000860
+
+-10
+
+-8
+
+-6
+
+-4
+
+-2
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+Residuals. Model 4 
+
+Series: Standardized Residuals
+Sample 1996 2011
+Observations 388
+
+Mean      
+Median  
+Maximum 
+Minimum 
+Std. Dev.  
+Skewness  
+Kurtosis  
+
+ 0.149567
+-0.231505
+ 11.46009
+-10.10485
+ 4.380380
+ 0.199254
+ 2.584006
+
+Jarque-Bera  5.365060
+Probability
+ 0.068390
+
+52	  
+
+-10
+
+-8
+
+-6
+
+-4
+
+-2
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+Residuals. Models 4, 5, 6, 7 (by the order) 
+
+	  
+
+ 
+
+Series: Standardized Residuals
+Sample 1996 2011
+Observations 1547
+
+Mean      
+Median  
+Maximum 
+Minimum 
+Std. Dev.  
+Skewness  
+Kurtosis  
+
+-0.052666
+-0.457539
+ 3.374430
+-4.668724
+ 1.461268
+ 0.086251
+ 1.304282
+
+Jarque-Bera  187.2654
+Probability
+ 0.000000
+
+Series: Standardized Residuals
+Sample 1996 2011
+Observations 1548
+
+Mean      
+Median  
+Maximum 
+Minimum 
+Std. Dev.  
+Skewness  
+Kurtosis  
+
+-0.013393
+-0.169785
+ 3.689873
+-3.532764
+ 1.415668
+ 0.073567
+ 1.395728
+
+Jarque-Bera  167.3992
+Probability
+ 0.000000
+
+Series: Standardized Residuals
+Sample 1997 2011
+Observations 508
+
+Mean      
+Median  
+Maximum 
+Minimum 
+Std. Dev.  
+Skewness  
+Kurtosis  
+
+ 4.31e-05
+-0.000796
+ 0.144549
+-0.138220
+ 0.051867
+-0.044053
+ 2.865500
+
+Jarque-Bera  0.547223
+ 0.760627
+Probability
+
+Series: Standardized Residuals
+Sample 1997 2011
+Observations 511
+
+Mean      
+Median  
+Maximum 
+Minimum 
+Std. Dev.  
+Skewness  
+Kurtosis  
+
+-0.000947
+-0.000387
+ 0.164683
+-0.168109
+ 0.055480
+-0.076963
+ 2.848222
+
+Jarque-Bera  0.994955
+Probability
+ 0.608063
+
+-4
+
+-3
+
+-2
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+-3
+
+-2
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+-0.10
+
+-0.05
+
+0.00
+
+0.05
+
+0.10
+
+0.15
+
+-0.15
+
+-0.10
+
+-0.05
+
+0.00
+
+0.05
+
+0.10
+
+0.15
+
+350
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+
+400
+
+350
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+	  
+
+	  
+
+53	  
+
+	  
+Appendix 2:Annual Percentage Change of Trade (Exports, Imports) 
+
+ 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+
+	  
+
+Exports 
+
+-­‐10	  -­‐5	  0	  5	  10	  15	  20	   Annual percentage change of Trade. 
+
+-­‐15	  
+-­‐20	  
+
+Exports of 
+developed 
+countries 
+
+Exports of 
+developing 
+countries 
+and CIS 
+
+Annual % Change of Merchandise Trade; Export. 
+Source: WTO Secretariat, Author's Calculations 
+
+-­‐10	  -­‐5	  0	  5	  10	  15	  20	  
+
+-­‐15	  
+-­‐20	  
+
+Annual	  percentage	  change	  of	  Trade.	  
+
+Imports	  
+
+Imports of 
+developed 
+countries 
+
+Imports of 
+developing 
+countries 
+and CIS 
+
+Annual % Change of Merchandise Trade; Export. Source: 
+WTO Secretariat, Author's Calculations 
+
+	  
+
+54	  
+
+Appendix 3: Developed and Developing Countries and the Date of the WTO Accession  
+ 
+Albania (2000) 
+Angola (1994) 
+Antigua and Barbuda (1987) 
+Argentina (1967) 
+Armenia (2003) 
+Australia (1948) 
+Austria (1951) 
+Bahrain (1993) 
+Bangladesh (1972) 
+Barbados (1967) 
+Belgium (1948) 
+Belize (1983) 
+Benin (1963) 
+Bolivia (1990) 
+Botswana (1987) 
+Brazil (1948) 
+Bulgaria (1996) 
+Burkina Faso (1963) 
+Burma(Myanmar) (1948) 
+Burundi (1965) 
+Cameroon (1963) 
+Canada (1948) 
+Cape Verde (2008) 
+Central African Rep. (1963) 
+Chad (1963) 
+Chile (1949) 
+China (2001) 
+Colombia (1981) 
+Congo, Dem. Rep. of (Zaire) 
+(1971) 
+Congo, Rep. (1963) 
+Costa Rica (1990) 
+Cote D'Ivoire (Ivory Coast) (1963) 
+Croatia (2000) 
+Cyprus (1963) 
+Czech Republic (1993) 
+Denmark (1950) 
+Djibouti (1994) 
+Dominica (1993) 
+Dominican Rep. (1950) 
+Ecuador (1996) 
+Egypt (1970) 
+El Salvador (1991) 
+Estonia (1999) 
+Fiji (1993) 
+Finland (1950) 
+France (1948) 
+Gabon (1963) 
+Gambia (1965) 
+Georgia (2000) 
+Germany (1951) 
+Ghana (1957) 
+Greece (1950) 
+Grenada (1994) 
+ 
+
+Philippines (1979) 
+Poland (1967) 
+Portugal (1962) 
+Qatar (1994) 
+Romania (1971) 
+Russian Federation (2012) 
+Rwanda (1966) 
+Samoa (2012) 
+Saudi Arabia (2005) 
+Senegal (1963) 
+Sierra Leone (1961) 
+Singapore (1973) 
+Slovak Republic (1993) 
+Slovenia (1994) 
+Solomon Islands (1994) 
+South Africa (1948) 
+Spain (1963) 
+Sri Lanka (1948) 
+St. Kitts & Nevis (1994) 
+St. Lucia (1993) 
+St. Vincent & Gren.(1993) 
+Suriname (1978) 
+Swaziland (1993) 
+Sweden (1950) 
+Switzerland (1966) 
+Chinese Taipei (2002) 
+Tajikistan (2013) 
+Tanzania (1961) 
+Thailand (1982) 
+Togo (1964) 
+Tonga (2007) 
+Trinidad & Tobago (1962) 
+Tunisia (1990) 
+Turkey (1951) 
+Uganda (1962) 
+Ukraine (2008) 
+United Arab Emirates (1994) 
+United Kingdom (1948) 
+United States (1948) 
+Uruguay (1953) 
+Vanuatu (2012) 
+Venezuela (1990) 
+Vietnam (2007) 
+Zambia (1982) 
+Zimbabwe (1948) 
+ 
+
+Guatemala (1991) 
+Guinea (1994) 
+Guinea-Bissau (1994) 
+Guyana (1966) 
+Haiti (1950) 
+Honduras (1994) 
+Hong Kong (1986) 
+Hungary (1973) 
+Iceland (1968) 
+India (1948) 
+Indonesia (1950) 
+Ireland (1967) 
+Israel (1962) 
+Italy (1950) 
+Jamaica (1963) 
+Japan (1955) 
+Jordan (2000) 
+Kenya (1964) 
+Korea, South (R) (1967) 
+Kuwait (1963) 
+Kyrgyz Republic (1998) 
+Laos (2013) 
+Latvia (1999) 
+Lesotho (1988) 
+Lithuania (2001) 
+Luxembourg (1948) 
+Macedonia (2003) 
+Madagascar (1963) 
+Malawi (1964) 
+Malaysia (1957) 
+Maldives (1983) 
+Mali (1993) 
+Malta (1964) 
+Mauritania (1963) 
+Mauritius (1970) 
+Mexico (1986) 
+Moldova (2001) 
+Mongolia (1997) 
+Montenegro (2012) 
+Morocco (1987) 
+Mozambique (1992) 
+Namibia (1992) 
+Nepal (2004) 
+Netherlands (1948) 
+New Zealand (1948) 
+Nicaragua (1950) 
+Niger (1963) 
+Nigeria (1960) 
+Norway (1948) 
+Oman (2000) 
+Pakistan (1948) 
+Panama (1997) 
+Papua N. Guinea (1994) 
+Paraguay (1994) 
+Peru (1951) 
+ 
+
+ 
+ 
+ 
+ 
+
+	  
+
+55	  
+
+ 
+
+Greenland 
+Guam 
+Hong Kong SAR, 
+China 
+Isle of Man 
+Kuwait 
+Liechtenstein 
+Macao SAR, China 
+Malta 
+Monaco 
+New Caledonia 
+Northern Mariana 
+Islands 
+Oman 
+Puerto Rico 
+Qatar 
+San Marino 
+Saudi Arabia 
+Singapore 
+Sint Maarten (Dutch 
+part) 
+St. Kitts and Nevis 
+St. Martin (French 
+part) 
+Trinidad and Tobago 
+Turks and Caicos 
+Islands 
+United Arab Emirates 
+Virgin Islands (U.S.) 
+
+Appendix 4 
+List of Developed Countries in the World: World Bank Classification (Total #70) 
+ 
+  Australia 
+Austria 
+Belgium 
+Canada 
+Czech Republic 
+Denmark 
+Estonia 
+Finland 
+France 
+Germany 
+Greece 
+Hungary 
+Iceland 
+Ireland 
+Israel 
+Italy 
+Japan 
+Korea, Rep. 
+Luxembourg 
+Netherlands 
+New Zealand 
+Norway 
+Poland 
+Portugal 
+Slovak Republic 
+Slovenia 
+Spain 
+Sweden 
+Switzerland 
+United Kingdom 
+United States 
+Andorra 
+Aruba 
+Bahamas, The 
+Bahrain 
+Barbados 
+Bermuda 
+Brunei Darussalam 
+Cayman Islands 
+Channel Islands 
+Croatia 
+Curaçao 
+Cyprus 
+Equatorial Guinea 
+Faeroe Islands 
+French Polynesia 
+
+ 
+
+ 
+
+ 
+ 
+
+	  
+
+ 
+
+56	  
+
+

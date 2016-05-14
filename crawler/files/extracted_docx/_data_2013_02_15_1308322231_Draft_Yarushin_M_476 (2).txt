@@ -1,0 +1,234 @@
+State University
+
+Higher School of Economics
+
+
+
+
+
+Faculty: Business Informatics
+
+
+
+
+
+
+
+DRAFT
+
+Of the paper
+
+“Informational-analytic Support of Personnel Management in Group of Retail Companies”
+
+
+
+
+
+
+
+Student: Yarushin M. E.
+
+Group: 476 
+
+Argument Consultant: Isaev D.V.
+
+Style and Language Consultant: Volkova M.A.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2013
+
+Abstract
+
+At present, corporations and large companies are looking for ways of optimizing and automatizing all business processes in order to reduce costs and increase profits. This includes the introduction of information systems such as ERP (Enterprise resource planning), CRM (Customer Relationship Management), HRP (Human resource planning), BPM (business process management) systems and BI-applications in various divisions of the company. The study will review the implementation of HRP system in the early stages, the example of the real retail company, one of the ten largest domestic retailers by turnover and volume of net income. Also, the work will be considered analytical add to the HRM system based on BI-applications. The main emphasize will be placed on the practical part, however the work will be given basic information about embedded systems, described the basic methodology, techniques and concepts. The main result of the study lies in the implementation of information systems in the initial stages of the real company and its further development with a view to full implementation by 2015.
+
+
+
+
+Content
+
+
+
+
+
+1.1. 
+
+1.2. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+Until the end of the twentieth century there were not so much giant companies. Life Corporation was similar to the life cycle of stars. A successful company at the beginning of its career showed rapid growth, then over the time the development momentum faded, but did not stop in time and a little hot "star" turns into "blue giant", and, like him, quickly fell apart. Generally, the reasons for the collapse were the same for all. The company could not cope with a large number of business processes occurring within the company, and the staff working in the same company at the same position, but in different countries, has seen their direct responsibilities, as well as the position within the company, in very different ways.
+
+However, since the end of XX century, corporations have become much larger, and the number began to grow. Obviously, it was possible to find a solution on how to improve the system. It came with the help of computer technology development and the transfer of most of the operations in an electronic format. The first programs of generating reports and monitoring of all transactions has begun to appear. Since the late 90s has begun the active implementation of ERP-systems (Enterprise Resource Planning). These systems will optimize and automate all transactions. It was greatly to facilitate the management of large companies, but it did not solve all problems. Therefore new specialized CRM and HRM systems has appeared, due to the lack of analysis and prediction BI-applications were designed, and in 2003 he has created an innovative concept of BPM, allowing the complex business management.
+
+In Russia, at present, only mining companies and banks are widely use programs for optimization of business. Other branches are significantly inferior to these two in terms of integrated information systems. However, there is one industry that develops enormous pace in our country. The name of this industry is the retailers. Many large domestic retail players have gone beyond Russia to CIS countries and some major players try to trade in Asia and Europe.
+
+For active development and adequate control of the business, retailers are actively implementing various information systems for the optimization and business management, including new HRM systems. This study will review the implementation of HRM system in the early stages, the example of the real retail company, one of the ten largest domestic retailers by turnover and volume of net income.
+
+At present, the implementation of information systems subject of human resource management is important and relevant. Most retailers absolutely don’t engage in accounting of working time. Many large (even European) companies keep records of the employees work time entirely by director of a particular store. He schedules the work, instead of using any templates and guided solely by his own experience and knowledge. Also determines premiums, and employees receive a fixed salary. 
+
+Most companies prefer hand drafting and completing the tables and graphs. This is significantly complicates the work of the staff and makes it opaque. Retailers tend to implement HRM system for better control over personnel, as well as to better monitor its activities. Recently, the trend gets more widespread among the companies. The demand and supply for such systems are both increasing.
+
+It is expected to split the work into three parts. The first is a review of the current system. This part includes a description of the existing system in the company. Besides general information, there are the advantages and disadvantages of this system. This chapter defines the main directions for additions and improvements.
+
+The second is the theoretical part; this reveals the essence of HRM concept. This part describes an overview of these systems, giving the notion of their structure, and shows the current situation in the HRM market and development prospects. In addition, the second part contains a detailed description of all components of HRM-systems, a detailed description of advantages and disadvantages, as well as features in the implementation of an industry. Moreover, the second half of the chapter will be devotes to BI applications. Also it gives the basic provisions advantages, disadvantages and applications.
+
+And the last part of graduation work includes the description of the work, developed within the framework of the implementation of the information HR systems. According to the business needs the necessary functional requirements will be formed. On the basis of these requirements the vision and the concept of the project will be written; and the first pilot tests and work for exploitation and implement will be conducted.
+
+The main purpose of the study is the development of guidelines and reference information system for personnel management analytical support at group of companies.
+
+The main tasks of the work are identification of the problems of personnel management, assessment of the applicability of information systems for solving the tasks, development of methods for analysis of the effectiveness of human resource usage and development of an information system for personnel management.
+
+
+
+
+Chapter 1 the current system reviews
+
+1.1. Current situation
+
+At present the company uses a combination of two programs organized by EXCEL using VBA macros. They are used for scheduling of employees work time and calculating their total corporate remuneration. All the information related to the fixation of employee`s working off (time worked by an employee in the store), their KPIs (key performance indicators), the types of activities affect the calculation of remuneration, is recorded into a REITGRAF macros (or RG). Calculation of salaries is done automatically at boot RG macros files into FM macros. You do not need to do any manual calculations. The salary of each employee is automatically calculated basing on the specific settings FM macros (in accordance with the system of motivation for a particular position) and objective indicators from the RG. Store manager has the ability to pay an additional premium for each employee or forfeit it.
+
+The differences among the motivation systems depending on the region store placing (country, county, city) or a format, specified by the optional settings in FM. Settings are also loaded automatically in the FM from special (individual for each store) configuration files. In the case of impossible configure FM to the unique system of motivation, the macros algorithm become developed.
+
+The list of employees in the RG is automatically synchronized with the data from the corporate personnel system. Already synchronized employees from the RG are loaded to the FM macros.
+
+The data for processing employees information and the size of their corporate remuneration automatically (assuming closing RG at a given time from 20:00 to 24:00) or by pressing a button sent from macros RG and FM to the Central Office and uploaded to the corporate payroll system.
+
+The employee`s reports using a RG macros are built in the store. Consolidated statements are based on the store employees in the headquarters or through special macros (collection) are loaded to in-store RG, either through corporate motivation system.
+
+ 1.2. System drawbacks and necessary additions
+
+The current stuff attendance system on the basis of macro RG + FM has some fundamental flaws:
+
+The system is developed basing on EXCEL files and the transition to a later version of MS Office may require some changes in the algorithms of the macros.
+
+Each store format and each country uses a different FM, which makes it difficult to make any modifications to the FM (this problem can be eliminated by additional settings within FM).
+
+A limited number of specialists of the Company (less than 10) can modify the inner RG and FM macroses.
+
+Full external support for RG and FM macros may have a limited number of experts of the Company.
+
+Information for each month of the store work is located in a separate file. For the next month the work shop executive (manager on duty of the shop) have to create a separate file by copying the file RG previous month and automatic (on the button) treatment of a previous information.
+
+Store manager has the ability to bring in the data to test the FM and KPI employees (you can make changes in RG and reload to FM). Because of this, difference may arise in completing the staff filled in the corporate system of working hours, and working out is used to calculate salaries.
+
+When changes are made into the system of employee motivation may, it require modification of the macros, in addition to the usual change of option settings.
+
+These drawbacks require the transition to specialized software that allows you to ensure better protection and allows for commercial usage with the support of the IT department experts.
+
+Also, besides the current weaknesses of macros, there are additional features which cannot be realized on the Excel platform. For their realization other software will require:
+
+"Job Market" platform, which allows you to search staff to perform temporary work in the other shops group of companies. Also, the system operates in the opposite direction and helps employees to find temporary work in a convenient store.
+
+The prediction of the necessary production capacities based on the expected influx of visitors and skills of existing staff. The number of visitors depends on the time of day and season, as well as employees perform the same work at the different speeds and quality. All these aspects need to be considered during the determining of optimal staff number. This calculation should be done automatically, using new software.
+
+Automated scheduling of staff time is also a necessary tool that must be included in the new system. Each employee has their schedule, their qualifications. All this must be taken into account when assigning him to work on any given day.
+
+However, the work on modernization macros RG and FM lasted for the past 10 years. Macros consider all needs and characteristics of the shops that arise during this time. Therefore, searching for suitable finished software or creating new enterprise software, is advisable to take into account all the positive developments in the RG and FM macroses.
+
+
+
+Chapter 2. HRM systems and BI-applications.
+
+2.1. HRM systems.
+
+The HRM-system refers to an automated integrated system of personnel management. Comparing with the traditional systems automation personnel records and payroll HRM-systems have expanded functionality. Besides accounting (personnel records, staffing, workflow, records of working hours and holidays, pension and military records, etc.) and calculated (salary, tax payments, allowances and deductions, etc.) circuits that process the quantitative data, such systems also included as such HR-circuit for the work with quality staff.
+
+HRM-systems are designed to manage the staff, but their functionality is wider than the automation of human transactions. Products in this class can handle not only with the quantitative, but also with the quality personnel data
+
+HRM-systems are one of the most important enterprise applications used in companies of all sizes and in all industries. The need of introduction of HRM-systems is determined by such critical to the successful development of business needs, such as:
+
+Cost management: Labor costs are one of the largest-cost articles. According to Forrester Research (Q4 2008) to their share in the United States have an average of 36.4% of the total expenditure. HRM-systems are used for planning and cost optimization.
+
+Effective management of business processes: HRM-system supports a variety of HR business processes, making personnel decisions, maintains employee records up to date, payroll, development and motivation schemes and etc. Direct access of employees and managers to the information they need improve the efficiency in this task.
+
+Compliance with all the legal rules governing the relationship between employee and employer. HRM-use systems can intelligently resolve complex issues for flexible circuit’s payroll and personnel document circulation.
+
+Increasing the value of human capital. Companies with a strong HR function will be focused on the "quality" staff development, developing incentive programs and motivation schemes.
+
+2.2. BI-applications.
+
+BI is a collection of technologies, software, and practices needed to achieve business goals through the best use of available data. The need for their implementation came from the fact that the companies have started to use a lot of information systems. Each containing some information and it is sometimes impossible to obtain access to it due to the lack of elementary knowledge of its existence.  Just the same data can be repeated in different systems. BI-systems help to understand this complex maze of information. Moreover, companies use the experts from the business and the IT department for processing. This leads to loss of time, as well as the distortion of tasks. BI applications help to automate this process and thus get rid of these problems.
+
+There are data warehousing and OLAP-system, the major components of bi applications .. Data warehouses are responsible for data collection, storage and transportation in a data mart. OLAP-systems are needed to ensure the expeditious processing of these data.
+
+Chapter 3. Implemented system
+
+At present, the company negotiates with various information systems integrators. Here are the basic modules that will be included in the final version of the implemented software system:
+
+Schedule Management: the weekly schedule view shows a summary of assigned and unassigned shifts for each day by employee. Schedule Quality Rating (SQR) makes weekly schedule managing simpler because it can help easily and quickly to compare actual schedules against a set of predefined standards.
+
+Attendance Management: Timesheets show the planned and actual start and finish time of employees, highlighting any exceptions or variations to the planned. Attendance Management (Time and Attendance) includes a wide range of options for managing actual attendance, calculation of hours, management of holiday schemes and compliance to the working regulations. Clocking and non-clocking arrangements are fully supported and interfaces into payroll and from HR systems can be configured. Worked hours, overtime, sickness, holidays and other forms of absence are all addressed within a framework of an organization’s working arrangements, business rules, labour laws and company pay rules. Arrival and departure may be registered through clocking terminals (badge or biometric), telephone SMS or from the web.
+
+Forecasting: The forecasting module allows the comparison of labor hours that are required to serve customers against those that are scheduled showing where there are too few hours or too many hours. This allows the re allocation to improve customer service or reduce costs.
+
+Advanced Scheduling: The Advanced Scheduling module is designed to allow users at the center or regionally to assist with producing better Schedules. Used to put together tighter schedules using workload demand information and compare it to when staff are available and resource scheduling rules.
+
+Business Intelligence & Dashboards: Dashboards give key information regarding labor cost, attendance, absence and workforce compliance. Tremendous visibility is released into the organization; managing overtime more tightly, avoiding uncovered shifts, managing time-off more proactively. Business Intelligence gives managers key information (through alerts) about specific stores, so there’s an opportunity to take swift action. It can be used with any of the modules above.
+
+Conclusion
+
+Based on the above information, study can draw the following conclusions. HRM system allows you to consolidate all employee information, record schedule of visits and on their basis to calculate wages and etc. However all of this is often not enough for big companies. Analysts have to process huge amounts of data that are scattered in different parts of the system. Also manual data processing can cause distortion purposes or conspiracy of dishonest employees to making a profit. Therefore it is desirable to use HRM system in conjunction with the analytical part and BI applications. This will automate business processes, access to relevant data, as well as making forecasts and implement scheduling.
+
+The work is not at the final stage, yet. Draft summarizes only the main provisions of the study which formed the basis for further writing.
+
+Thus, the expected results of the completed work development of methods for analysis of the effectiveness of human resource usage and development of guidelines and reference information system for personnel management analytical support at group of companies.
+
+
+
+
+Bibliography
+
+
+
+Internal documents and regulations of group of companies Sportmaster.
+
+Larson B. Delivering Business Intelligence with Microsoft SQL Server 2008. Columbus: The McGraw-hill companies, 2008.
+
+Oracle and/or its affiliates, «Forrester Report: The Total Economic Impact of Oracle Business Intelligence Applications», 2011
+
+
+
+Oracle and/or its affiliates, «Solution Brief: Oracle ERP Analytics», 2011.
+
+
+
+Дохунина О., Исаев Д.В. «BI-системы и проблема единого взгляда на них». RM Magazine, 2005, №3, с.6-9.
+
+
+

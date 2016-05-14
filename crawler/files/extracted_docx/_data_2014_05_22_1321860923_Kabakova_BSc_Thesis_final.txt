@@ -1,0 +1,760 @@
+The Government of the Russian Federation 
+
+
+
+the Federal State Autonomous Educational Institution 
+
+of Higher Professional Education 
+
+
+
+"National Research University
+"Higher School of Economics"
+
+
+
+Faculty of Economics
+
+Department of Financial Management
+
+Admit to defense
+
+Head of the Department
+
+
+
+PhD in Economics,
+
+Associate Professor of the Financial Management Department
+
+Elena A. Shakina
+
+
+
+ "______" __________________20____
+
+
+
+GRADUATION THESIS
+
+On the topic: Impact of inter-firm cooperation on company's performance: a comparative analysis of EU and Russia
+
+Student: Oksana S. Kabakova
+
+Group: E-10-2
+
+________________________
+
+signature
+
+
+
+Supervisor: Anna A. Bykova
+
+PhD in Economics,
+
+Associate Professor of the Financial Management Department
+
+________________________
+
+signature
+
+
+
+Consultant: Anna A. Bykova
+
+PhD in Economics,
+
+Associate Professor of the Financial Management Department
+
+________________________
+
+signature
+
+
+
+
+
+
+
+
+
+Perm, 2014
+
+
+
+
+Abstract
+
+Nowadays, the problem of improving financial performance is exacerbating for a firm that aims to increase value and attract investors. At the same time, the approach, according to which it is considered that companies involved in cooperation with other market players gain a competitive advantage, has become popular among scientists and practitioners. This paper is devoted to the identification of the differences in the influence of company's participation in inter-firm relationships on financial performance between European Union and Russian companies. In order to conduct the empirical analysis, we used data for 823 EU and 556 Russian firms, for the period from 2004 to 2011. Using Hausman-Taylor method, we revealed that participation in inter-firm relationships increases Economic Value Added of both European and Russian companies if analyze this relationship during 8-year period. However, some differences in the effects of cooperation between EU and Russia with regard to particular stages of the economy cycle, i.e. growth, crisis and recovery periods were found. In Russia inter-firm cooperation stimulates financial performance in the growth period more intensively than in the crisis times, while the influence becomes negative in the recovery period. In EU, in turn, cooperation drives EVA both in the prosperity and recession periods, being more intensive in the crisis, and has statistically insignificant influence on financial performance after crisis.    This implies that financial results of cooperation may be highly sensitive to the environment and economy conditions under which the phenomenon is tested, so future researchers should take it into account. From the practical point of view, our findings prove that it is beneficial for investors to put money in companies which are engaged in the long-term partnerships rather than isolated firms. At the same time, managers and directors of such firms should undertake additional control measures to avoid opportunistic behavior of its partners in the crisis and recovery times, especially in Russia.
+
+
+
+
+Introduction
+
+Deep transformation of the modern world is manifested in the radical change of social and economic relations. This led to the appearance of various inter-firm cooperation forms: networks, alliances, conglomerates, clusters, etc. Such phenomenon shifted the standard firm-management concepts, and the assumption that the financial result of the company depends entirely on the optimization of its individual actions was refuted. (Rademakers, 1999)
+
+Inter-firm cooperation has been previously studied in the framework of such disciplines as industrial organization, economic sociology and corporate finance, which reflects the complexity and width of the subject. There is a wide range of research discussing the types of cooperation that are now available to firms, reasons which may lead to the decision to form a partnership and potential advantages for a firm participating in such relationships. (George et al., 2002; Ritala and Ellonen, 2010; Wu and Callahan, 2005) In general, researches consider cooperation as a strategic competitive advantage of the company which may provide access to such additional features as knowledge and technology, allow economies of scale and help to reduce risks. (Singh and Power, 2009; Ritala and Ellonen, 2010) Moreover, according to several researchers, cooperation with other organizations may be one the ways of improving firm’s financial performance and driving companies’ value. (Bayona et al., 2001; Gibson et al., 2011) 
+
+However, still not all empirical studies prove the exceptional benefits of inter-firm cooperation. For example, is was shown that cooperation in some cases damages industry as well as particular companies’ development and prevent competition through collusion and monopolistic cartels. (Dahan et al., 2006) Additionally, there is an opinion that positive outcomes of cooperation practices are highly sensitive to particular conditions as Nieto and Santamaría (2007) proved that partnership may damage novelty of innovation in case when company tries to cooperate with a competitive firm, while this relationship is positive for a vertical cooperation.
+
+We support the opinion that benefits of inter-firm cooperation prevails its negative sides, especially when talking about company’s financial performance. At the same time, we favor the idea that conditions of when and where the analysis of this phenomenon is conducted may significantly influence the way how cooperation affects financial performance. So, in the present paper we will, firstly, pay attention to inter-firm cooperation in countries with different macro- and microeconomic as well as financial conjunctures, such as Germany, Italy, France, Spain and the UK, which represent the European Union and are considered to be developed, and Russia that is still developing. The difference in the economy development stage leads to the diversities in business processes, so cooperation may have various consequences for firm’s performance as well. Secondly, it is of a particular interest to study the inter-firm collaboration return on company’s performance in crisis times, as well as before and after the recession, because we assume that financial results of cooperation in Russia and EU may vary dramatically depending on the general state of economy. 
+
+Thus, the research question of current paper is: “How does the influence of inter-firm cooperation on financial performance of the company change under various economy conditions and environment?” 
+
+It is highly relevant nowadays to study the effects of collaboration on performance as world economy experienced a severe recession in 2008-2009 and there is a need for firms to develop a new and, at the same time, effective crisis and after-crisis management strategies and cooperation may be one of them. This research is topical for potential investors as knowledge about whether inter-firm cooperation drives financial performance of a company and, additionally, how country and stage of economy cycle influences it, is essential in the process of making investment decision. Moreover, the proof that inter-firm cooperation has positive impact on performance may also help managers and consultants of those companies which try to decide if they want to arrange a cooperation agreement or not.
+
+According to the research design, paper is divided into five parts. To make the argument about the importance of inter-firm relationships more convincing, it is essential to start with the study of special features of the inter-firm cooperation phenomenon through the literature review. It is followed by a description of the hypotheses and discussion of the possibility to use econometric modelling, namely, Hausman-Taylor method, to validate them. Then, we discuss the database collection approach and analysis of the obtained data for Russian and EU companies, as well as chosen variables and analytical form of the model. The forth part covers the estimation results, hypotheses testifying and discussion part. In the fifth and last part we discuss the conclusions, limitations, delimitations and future directions of the research.
+
+
+
+
+Literature Review
+
+Present paper concentrates on the impact of inter-firm cooperation on company’s performance in different countries and economy conditions, such as crises. Since the idea that financial performance may be influenced by the presence of partnership between companies has been developed not so long ago, the issue has not yet received an unequivocal appraisal of the academic society. That is why the literature review concentrates on the concept of inter-firm cooperation and influence of long-term partnerships on a company and its performance.
+
+In this section we will, firstly, focus on a review of inter-firm cooperation phenomenon, various definitions and classifications of inter-firm cooperation are discussed. Additionally, attention is paid to the diversities between different types of partnerships. Secondly, we will consider what potential results cooperation may have on a company and its performance. Then, we will give a more detailed look at the financial performance of a company, how cooperation influences it and what contradictions it may cause. 
+
+1.1 Inter-firm Cooperation Phenomenon: Types and Definitions
+
+In a few past decades, inter-firm collaboration has become quite popular issue in the literature devoted to organizational management, corporate finance, economic sociology and other spheres. All these disciplines study inter-organizational cooperation from different aspects and try to find answers to different questions, such as: how to govern the partnership, what is the impact of cooperation on a company, how partnership agreement influences employees of participating organizations and so on. As a result of such variety of purposes and concepts, there is no single generally accepted definition of the term “inter-firm cooperation” as these disciplines study the phenomenon from different sides and authors often use particular and the most suitable forms and, hence, definitions of inter-organizational cooperation in their analysis. 
+
+This variety of cooperation types includes such forms as industry clusters, business groups, strategic networks, joint ventures, R&D partnerships, alliances and strategic alliances, supply chains, etc. Table 1 contains information about how cooperation has been perceived by different authors in both latest and most influential works on the topic.
+
+As we see, although there are several types of cooperation (and the list of forms presented in the table is not exhaustive), they all share the same characteristics and features, namely:
+
+partnership of two or more firms which remain autonomous;
+
+shared goals;
+
+mutual control over activities/resources/assets.
+
+Table 1 
+
+Classification by different types of cooperation
+
+Note: Definitions adopted from the research papers by authors presented in Column 3
+
+Moreover, inter-firm cooperation types may be distinguished by market agents with whom this agreement is established. According to this classification, we may consider three types of partnerships: vertical (with customers and suppliers), horizontal (with competitors), which is also called coopetiton, and diagonal (with firms and organizations operating in other sectors). (Rademakers, 1999) 
+
+Vertical cooperation is an arrangement between producers of complementary goods and services or long-term agreement with buyers to purchase several consignments. Partners in such relationships have a fundamental interest to stay loyal in order to gain the highest gain. Horizontal cooperation, in turn, is rather peculiar type of cooperation, as it combines two completely opposite paradigms: competition and cooperation. It may be defined as an agreement between producers of substitutes to cooperate, through which firms establish mutual obligations, implement a process of joint adaptation and combine their value. Contradiction between the cooperative and competitive type of interaction is integrated in organizations involved in competitive partnership, and therefore the adoption of contradictions and consistency of organizational goals is the main organizational stages in the process of creation and maintaining a competitive cooperation. Diagonal partnerships are relationships between firms from different industries, or between companies and such organizations as universities, hospitals or governments. 
+
+Additionally, we may differentiate cooperation by its motives, which may be strategic or efficiency increasing. Strategic incentives include joining products and skills, getting of the market share, knowledge acquisition, lowering information asymmetry, etc. From an efficiency viewpoint, considerations as decreasing transaction costs, achieving economies of scale, and improving financial results may be the drivers of collaboration agreements. (Bayona et al., 2001; Patrakosol and Olson, 2007; Sanz Menéndez and García, 1997) We will discuss these motives in more detail in the next part of this chapter.
+
+After the analysis of different classifications and narrower definitions of cooperation, we may conclude that, despite some differences between them, it is possible to research inter-firm cooperation in its general sense, rather than focusing on a particular type (as most of the authors previously did) due to the contiguity of their definitions. We also educed that it is better to concentrate on such collaborations, which are built on a formal legal contract (e.g. alliances, holdings, clusters, and so on) as such relationships are easier to track and analyze. 
+
+Summing up, cooperation may be broadly defined “as the establishment of long-term relations between legally and economically independent market agents.” (Ginevicius, 2010) This definition reflects the general idea of the cooperation phenomenon and allows us to move on the next part and study what motives and expectations firms consider while considering cooperation opportunities.
+
+1.2 Potential Impact of Cooperation on a Company
+
+In this part of our research we discuss the incentives (motives) which the company takes into account making decisions about cooperation, and dimensions, namely, operational, organizational, technological and financial, through which collaboration may affect company. It should be noted that the existing number of research papers devoted to the topic of inter-firm cooperation shows that this phenomenon is still looked as from positive as well as negative point of view. 
+
+Most part of papers reflects an opinion of scholars as well as practitioners that companies can get a number of advantages through the cooperation agreements. Generally, it is considered that cooperation enhances the competitive power of companies and facilitates industry development. (Feldman et al., 2005) More formally, the motives of cooperation and, respectively, its potential impact on a company, can be explained in terms of the following three approaches: resource-based, transaction costs and knowledge-based.
+
+According to the resource-based concept, the firm represents a unique resource base, and its association with the set of another entity’s resources, in turn, is the primary motivation for the joint activities of the enterprises.(Conner, 1991) This is connected with the fact that most of resources are considered to be firm-specific and hard to imitate as well as possessing such features as low mobility and lack of substitutes, which makes companies heterogeneous in terms of their resources. (Tushar K. Das and Teng, 2000) So, firms which operations are closely related with the presence of a huge amount of various resources, including capital, materials, qualified personnel, etc., often experience severe difficulties while accessing all the required assets. Some research showed that if the company is acting alone, the process of obtaining resources is largely expensive process requiring a lot of time, while developing long-term agreements with other market players may help to solve the problem of scarce resources and benefit all partners involved in the partnership.(George et al., 2002) In this case, cooperation acts as the way to reduce uncertainty and risk, as well as to gain access to the resources of other companies. (Pfeffer and Salancik, 2003) 
+
+Even though authors studied the resource-based view on inter-firm cooperation using different terms, for example, property rights concept (Ramanathan et al., 1997) or the organizational capability perspective (Madhok, 1997), the general reason to enter cooperation agreement is to aggregate, share, or exchange essential resources with other companies when these resources cannot be efficiently received through usual market trade. All in all, cooperation established because of resource-based incentives mostly connected with the desire of a firm to increase its value through the attempt to find the optimal and most effective combination of resources. (Tushar K. Das and Teng, 2000). That is why this approach is widely used while explaining cooperation initiatives in industrial sectors where technological synergies help to increase value of a company and stimulate the improvement in performance through stimulation of production and also to comment on the inter-industrial collaborations. (Franco and Haase, 2013)
+
+Additionally, the motive for creating long-term inter-firm relationships may be a reduction in costs associated with the transfer of ownership, i.e. transaction costs. This arises, for example, in the relationships between the company and its suppliers, even if they are considered to be reliable and loyal. In this case the company is forced to develop detailed, often requiring assistance of professional lawyers, contracts, in order to protect itself from opportunistic behavior. In case of inter-firm alliances, on the other hand, the cost of protection against opportunistic behavior may decrease due to the fact that companies act as one unit, and the final result depends on the contribution of each partner in the activities of the partnership.(Oxley, 2009)
+
+Previous two theories explain the tendency of firms to cooperate through desire of a company to increase its resource base or reduce transaction costs are considered to be classic, while the knowledge-based approach is a newer and more modern concept. This approach has been developed from the resource-based view on the cooperation formation and states that external linkages with other market agents, such as competitors, suppliers or academic and science institutions may act as a conduit to technological knowledge access, causing its sharing rather than hostile acquiring or theft through industrial espionage. (Grant, 1996) Access to knowledge may be considered as the dominant reason for the development of long-term partnerships within the knowledge-intensive manufacturing enterprises in such sectors as pharmaceuticals, aerospace, telecommunications or in service industry, which is also highly knowledge demanding. (Grant and Baden-Fuller, 2004)
+
+While explaining the benefits of cooperation in order to access knowledge, authors mention such factors as, for example, simplified process of knowledge exploration. Firms in collaboration may get access to the already existing developments of partners or, alternatively, share R&D costs which decreases knowledge creation expenses of each partner. It was also empirically proved that cooperation with various types of partners leads to the diversity of knowledge networks and increases the probability of achieving innovation because of the variety of knowledge to be shared. (Tsai, 2009) Secondly, partnership agreements lead to more effective knowledge application. The effectiveness of exploitation increases as acting in collaboration, in general, improves the ability to integrate different types of knowledge when separate ﬁrms specializing in different areas of knowledge linked by some well-established partnership contract. Moreover, cooperation improves the ability to utilize knowledge to its full capacity which is also important for more productive knowledge application. (Grant and Baden-Fuller, 2004)
+
+	Despite all the positive factors of cooperation that we mentioned above, there is evidence that inter-firm cooperation may have negative impact. For example, authors who try to discredit inter-organizational collaboration say that it damages industry as well as particular companies’ development and prevent competition through collusion and monopolistic cartels. (Dahan et al., 2006) Moreover, it was shown that positive expectations from cooperation practices are highly sensitive to particular conditions. For example, Nieto and Santamaría (2007) proved that partnership may damage novelty of innovation in case when company tries to cooperate with a competitive firm, while this influence is positive for vertical cooperation. Additionally, Goerzen (2007) who studied repeated partnerships showed they have negative effect on firm’s performance especially in environments with great technological uncertainty. This may mean that there is a possibility that for different economy conditions (such as crisis/non crisis) and/or for countries with various features (developed/developing) the influence of inter-firm cooperation on companies may differ.
+
+1.3 Inter-firm Cooperation and Financial Performance 
+
+	The review of cooperation motives presented above makes believe that when firm arranges a cooperation agreement, it is governed only by the fact that it will be able to improve the activities associated with the particular dimension, for instance, to get more resources or to decrease transaction costs. However, the financial projection of each strategic decision is one of the most important for a firm, since the main purpose of the enterprise is obtaining returns on investments, achieving profit targets and increasing the value of the enterprise. (Richard et al., 2009) These objectives and indicators are resultant, i.e. reflecting how the company has performed in other non-financial aspects, as showed in the financial result. As a result, all the goals and targets of other components should be linked to one or more objectives of the financial component. That is why firm considering the partnership agreement is often concerned about how this collaboration will affect its finances and performance in the first place. (Lahiri and Narayanan, 2013)
+
+	At the same time, the idea that company’s performance may not only depend on tangible resources such as machinery or inventory, but also on intangible assets, which are usually not included in financial statements has recently received much attention. A number of research papers indicate a significant proof that intellectual capital, which is intangible, influences profitability. For instance, (Chen et al., 2005) empirically proved that intangibles like education on personnel (human capital), brand power (relational capital), innovative activities (structural capital), etc. create financial efficiency, increase productivity and drive financial performance and company’s value. 
+
+Inter-firm cooperation is also a kind of intangible asset because we cannot correctly display most of the established networks and partnerships in the balance sheet due to evaluating difficulties of this asset. (Hitt et al., 2002; Carmeli and Schaubroeck, 2005; Welbourne and Pardo-del-Val, 2009) According to some authors, inter-firm cooperation may be referred to as a part of relational or network capital, which is a set of key characteristics and synergies that company acquire from resource capabilities of corporate collaborations, including business-to-business relationships, internal networks and strategic cooperation. (Hitt et al., 2002; Carmeli and Schaubroeck, 2005; Welbourne and Pardo-del-Val, 2009) 
+
+	As a result, the idea that cooperation activities may potentially influence a financial result or firm’s value was developed. One of the first researchers, who assumed this fact, was Michael Porter. He investigated “value chains” through which the value is generated by a vertical chain formed from resource suppliers, within firms and, then, buyers of goods and services. (Gartner and Porter, 1985) There is also a more contemporary research made by Anand and Khanna (2000) who proved that companies tend to create more value through the joint-venturing (which is one of the inter-firm cooperation types). Additionally, what is more important for us, in previous studies there were several attempts to determine the impact of firm’s cooperation with other market players on its financial result. For instance, George, Zahra, and Wood (2002) showed statistically significant positive impact of the company cooperation agreements with universities, while Clement et al. (1997) identified a positive effect of alliances on firm’s financial performance (revenue growth) in the sector of private medicine. 
+
+	However, there is still a possibility that these relationships can have no influence on firm’s performance at all or even significantly weaken a company, for example, when participants of inter-firm collaboration have to provide sufficient support, including financial help, to its partners. This argument was verified by several authors. For instance, in the already mentioned research by Clement and co-authors, they could only prove the positive impact of cooperation on the increase in net revenues, while cost control did not become more effective, as well as there was found no increase in cash flows of alliance members. Additionally, Chen et al. (2005) proved that the influence of relational capital and, hence, inter-firm relationships is small, negative, and not significant for such financial indicators as ROE and employee productivity. 
+
+	Taking everything into account, we may say that even though the idea of considering inter-firm cooperation as a driver for corporate performance is not new, there is still some nonconcurrence of authors’ opinion about the accuracy of such statement. This may be connected with the fact that researches studied the phenomena on various markets, countries or industries and in various time periods, used different measures of financial performance. (See Table 2) Thus, to solve this problem, in current paper we aim to simultaneously analyze several countries which differ in environments and conjunctures, offer universal and most appropriate indicator of financial data and use a longitudinal database which covers several movements of economic cycle in order to escape inaccurate conclusions. 
+
+Summary for literature review part: 
+
+	We studied the literature devoted to the motives of establishing partnership agreements and what potential positive impact of cooperation is meant by each of them, namely, increase of value and driving of performance in resource-based approach, decreasing of opportunistic behavior in transaction-cost approach and stimulation of innovations in knowledge-based approach. At the same time, we identified authors who argued this advantages and found proof that the influence of cooperation may be negative. Deeper research of the cooperation impact on financial performance proved this idea that that there is still no consensus on the question about how inter-firm cooperation influences performance. 
+
+	Moreover, previous research concentrated only on the analysis of this issue on local markets and authors did not make attempts to compare cooperation effects between countries and we also found that cooperation result is highly sensitive to changing conditions such as type of a partner, industry features or economy conjuncture. This shows that in spite of growing attention to the topic and the increasing relevance of inter-firm relationships for the companies, there is still not enough empirical research which evaluates the role of cooperation in company’s financial performance, especially under emerging economy or crisis conditions. 
+
+
+
+
+Research design
+
+In this part we mainly concentrate on the empirical research of inter-firm cooperation and its influence on companies’ performance. In the previous section we showed that there is still an inconsistency in the results authors got while analyzing the link between financial side of company’s performance and firm’s participation in partnership agreements, disagreement in the choice of most suitable and universal financial performance measure as well as lack of comparative researches for various countries. So, framework of our research is supported by the aim to overcome all this difficulties.
+
+2.1 Case-study Analysis vs Econometric Modelling
+
+In general, there are two methods of analyzing the link between inter-firm cooperation and indicators of firm’s performance. The first method is a case-study analysis, which may be characterized as a deep study of a particular firm or a small group of companies. This approach allows identifying key features of the phenomenon of interest, analyzing financial statements deeply and considering the views of representatives of studied companies, as well as the historical components of their activities. For example, case-study was a suitable method for analyzing the opportunism connected with inter-firm relationships. Authors researched forms, outcomes and solutions for opportunistic behavior using examples of particular companies, such as Xerox, Mary Kay, Taco Bell, etc. (Kenneth H Wathne and Heide, 2000) However, there are some limitations of this methodology. Firstly, it does not allow a researcher to study the phenomenon in general, as analyzing a particular company or even a small group of companies is not considered to be representative for the whole industry or country due to the big number of special and unique features of each particular organization. Secondly, this kind of research is very expensive and time-demanding. (Hadjivassiliou et al., 2011) 
+
+The alternative way is to implement econometrics in order to specify the statistical relationship that is believed to hold between indicator, like inter-firm cooperation, and other parameter, such as financial performance. This method provides researcher with the ability to analyze big amounts of data and to draw conclusions that can be transferred from the sample to general population that it why almost all of the previous studies used this methodology. Particular methods of econometric analysis used in the research of inter-firm relationships include factor analysis, multivariate analysis of covariance, principal component analysis, fixed-effects panel data model and so on. (See Table 2) Despite all the limitations of econometric techniques, which may arise from violation of the required conditions of random sample, inclusion of extra or omission of needed variables, etc., this method is implemented in this paper because of several apparent advantages, such as, for instance, low cost of database collection as information about most part of needed indicators is publicly accessible and, secondly, the wide set of analytical tools is available. 
+
+Thus, in this paper, we conduct a quantitative study of inter-firm cooperation phenomenon using an empirical database and econometric modelling techniques with a special attention to the comparison of cooperation effects on financial performance in two different regions. The reason of such idea to arise is that nowadays a cornerstone of almost all investors is the answer on question which company/country/region is the best place to put money. By conducting a simultaneous analysis of both influence of inter-firm cooperation on company’s performance and differences of this impact between various countries, we will be able to approach the answer to this question. In order to make a comparative analysis more interesting and meaningful, we have chosen to study inter-firm relationships in the framework of Russian and EU market. These two regions are characterized by different economy environments as Russian market is considered to be developing, while the European Union economies are advanced. This leads to the different tendencies in companies operations, strategies and reactions on various events and factors, such as inter-firm cooperation activities which are the phenomenon of interest in current paper. To analyze whether there are any differences in these regions, we also made a comparison of the general cooperation tendencies in both Russia and EU. We found that there may be diversity in the attitude to cooperation and its intensity in these two regions which may be explained by several factors. 
+
+In Russia inter-firm cooperation may be considered as a new phenomenon. This is connected with a long history of centrally planned economy regime which was displaced by market system only in 1992. The scale and preciseness of central planning in the Soviet Union predetermined low degree of cooperation tendencies of Soviet enterprises as companies had no real information about the situation in the economy (this information is accumulated in the central economic agencies and ministries). Their experience of interactions with other enterprises was limited by conformation of production and delivery conditions; only in the rare case they could form cooperative economic ties through the five-year plans. (Malle, 2009)
+
+Since Russian economy entered a new stage of development in the beginning of 2000, companies operating in this market have realized the importance of strategic partnerships as tools for increasing competitiveness and raising investments. (Butler, 2009) Thus, in 2012 in the framework of the "Open Innovation" forum representatives of the Russian and world high-tech industry, government agencies, key economic agencies, academics and experts in the field of innovation development signed a number of significant agreements. Examples of cooperation agreements in Russia: Kazan National Research Technological University and JSC "Aeroflot", Megaphone" and Ericsson, Huawei Technologies and holding RTI, organization of the Union of pharmaceutical and biomedical clusters. [82]
+
+However, because of a harmful period for Russian economy in 1980-1990 years, many companies still has low level of trust in other market agents and cannot carry out joint investments and projects properly because of the lack of relevant experience. This tendency is frequently observed in the emerging economies. (Humphrey and Schmitz, 1998)
+
+European countries, in turn, have a long history of cooperation activities. An evidence of a big variety of relationships between manufacturing companies in Germany, Great Britain and Italy was found in the early-seventies of 20 century.(Lane and Bachmann, 1996; Putnam et al., 1993) At the same time more stable conditions and easier access to the necessary resources in the developed markets may lead to the decreased willingness of European companies to arrange long-term agreements. Moreover, governments in advanced economies more actively promote fare competition and support an extensive antimonopoly policy, which often restrain companies from arranging long-term relationships.(Huggins, 2001)
+
+Summing the aforesaid arguments, we may say that both Russia and EU are characterized by a presence of companies which participate in inter-firm cooperation as well as reasons stopping enterprises from long-term partnerships agreements, which implicates the relevance of the current study which analyses the link between collaboration and financial performance in these regions.
+
+2.2 Hypotheses Development 
+
+After determination of the research method and substantiation of chosen research objects, namely, Russian and EU markets, we may settle down to the hypotheses development in order test the impact of cooperation agreements on firms’ performance. 
+
+Firstly, we seek to test what is the impact of inter-firm cooperation on financial performance in different regions when tested on the extended time-horizon (8 years). The development of these set of hypotheses connected with the fact that previously inter-firm cooperation return on companies’ performance was mostly tested on the paneled datasets. Authors analyzed cooperation effects in the advanced and developing countries using samples seizing data for 5-12 years. For example, Lahiri and Narayanan (2013) tested the hypothesis that participation in the alliance may have an inverted U-shaped impact on the Net Income indicator using USA companies’ data from 1991 to 2002 year. Their study resulted in the rejection of their assumption, because empirical model showed a linear positive connection between alliance agreement and firm's performance. Jiang and Li (2008) studied cooperation of German companies in the learning activities during 2000-2005 years and proved that inter-organizational learning is beneficial for partnering firms. However, papers with the similar research design not always gave confirmation of positive relationship between inter-firm cooperation and financial performance if looking at extended time-horizon. For instance, Lavie (2007) while analyzing USA companies in 1990-2001 could prove that only in part of inter-firm collaborative coalitions (marketing and financial) there is an evidence of performance enhancement, while cooperation of human and technological assets does not affect performance. Additionally, Lee et al. (2013) showed that horizontal alliances seem to have negative effect on the increment of firm value in Korea during 2001-2007.
+
+As for the current research, we expect that for both Russian and EU firms, collaboration had positive effect on companies’ finances if analyze it during an extended time-horizon of 8 years. It may be explained by the fact that according to the literature review cooperation has more advantages that disadvantages, including enhanced resource base, decreased transaction costs and growth in knowledge assets through the combination of individual actions into collaborative activities. (Tushar K. Das and Teng, 2000; Grant and Baden-Fuller, 2004; Oxley, 2009) We expect that in 8-years period these factors prevail over other possible negative events connected with influence of cooperation on company’s finances, such as danger of company’s development moderation and growth of financial or operational risks.
+
+Hypothesis 1a. Inter-firm cooperation is a driver for a company’s performance in EU during an 8-year period.
+
+Hypothesis 1b. Inter-firm cooperation is a driver for a company’s performance in Russia during an 8-year period. 
+
+At the same time, we expect that dividing panel data on the periods, according to the stage of economic cycle may vary the impact of cooperation on performance in EU and Russia. Previous research did not make any attempts to concatenate the analysis of inter-firm cooperation consequences depending on the stage of the economy cycle, but there is a number of studies which based their empirical tests not on the longitudinal panel dataset, but on the data covering shorter periods of time, or even one year (See Table 2). So, we developed the second set of hypotheses.
+
+We assume that for EU which is represented by countries with advanced economies, the highest effect of cooperation on company’s performance is observed in the crisis times compared to the growth and the recovery period. This is connected with the fact that in developed countries companies are more predisposed to get the most essential advantage from shared resources and assets in the hardest times, which reflects the general practice of more effective crisis management in advanced economies.
+
+Hypothesis 2a Cooperation in the crisis period has highest impact on firms’ performance comparing to growth and recovery period for EU companies.
+
+We consider that in developing country, in turn, growth period of the economy is characterized by more intensive influence of cooperative activities on financial performance than in crisis times. This is connected with the specific position of companies operating under conditions of developing country. It is considered that such companies are also in the process of permanent extension and they make less risky strategic decisions than firms in advanced economies. (Tarun Khanna and Krishna G. Palepu, 2006) So, we assume that in crisis times such companies will level down the joint activities in the sphere of their partnership agreements, for example, only to marketing operations rather than cooperative production arrangements. As a result, it is expected that the impact of inter-firm agreements on financial performance remains positive in crisis times, but decreases in the comparison with growth stage.
+
+We also expect that in the developing country inter-firm cooperation may influence company’s performance negatively during the recovery period. This assumption is connected with the fact that during and after a general downturn Russian companies are likely to implement such measures as selling out of assets, redundancy and chaotic curtailment of expenses policy rather than strategic crisis management decisions. (Malle, 2009) These steps, in turn, may lead to the even greater loss of market position and overall efficiency of an enterprise. (Marinic, 2013) So, if one of the company’s long-term partners realizes such policy, it may harm financial performance of all firms in the cooperation because of the tight interdependence of operations. However, these statements need additional empirical testing as previously there were no attempts to associate Russian-style crisis management and its influence on companies if they participate in inter-firm relationships.
+
+Hypothesis 2b. In Russia influence of cooperation on companies’ financial indicators is higher in growth period than in crisis period 
+
+Hypothess 2c. Cooperation in the growth and crisis period has positive impact while in recovery times it influences negatively firms’ performance for Russian companies.
+
+
+
+
+
+
+Table 2
+
+Review of empirical research devoted to the analysis of links between cooperation and performance
+
+
+
+Methodology
+
+In this part we will describe an empirical database and discuss econometric method which was picked as a relevant econometric technique for hypotheses verification. 
+
+3.1 Analytical Model 
+
+Regression coefficients for the whole dataset and three separate panels (for growth, crisis and recovery periods) will be estimated using the Hausman-Taylor method. This decision was caused by the specificity of the database that is supposed to be longitudinal because of hypotheses framework, and indicators’ set, which includes a number of endogenous parameters and several time-invariant regressors as well as time-variant ones. 
+
+In general, fixed effects and random effects models can be used for the analysis of panel data. In the case of a fixed effect model (Equation 1), a problem of biased and inconsistent estimates, which arises in the method of least squares or generalized OLS, is solved. However, fixed effects model has several disadvantages including that because of the time averaging all time invariant variables (z) will be excluded from the model and, hence, it becomes impossible to estimate their impact. 
+
+
+
+where;  – the dependent variable; - the intercept; - vector of time variant characteristics, -vector of time invariant characteristics, -an idiosyncratic error term; -individual-specific effect.
+
+Alternatively, there is an option to build a random effects model for panel dataset. In this case, the individual-specific error term is considered to be a random variable that is uncorrelated with explanatory variables of all periods of the same observation. Nevertheless, it also has some drawbacks, as using random effects model leads to the fact that coefficients’ estimates of regression coefficients will not be fully effective as the heterogeneity of the sample is ignored due to the elimination of some variables. (Wooldridge, 2012)
+
+The heterogeneity of observations pool, in turn, leads to the presence of endogeneity in the models as observations are quite individual and there are indicators which values are conditioned by special features of each unit. In general case, the problem of endogenous regressors arises when the regressor «is correlated with the error term. If any one regressor is endogenous then, in general, OLS estimates of all regression parameters are inconsistent» and there is a need to use alternative specifications. (Cameron, 2005) One of such alternatives is the approach according to which instrumental variables that do not correlate with a specific individual effect and are not included in the model, although closely related to the explanatory variables included in model, was developed. Nevertheless, these tools may be difficult to find and this procedure ignores time-varying characteristics of the hidden variables. Moreover, this method is highly sensitive to a priori information on the nature of the unobserved specific effects. 
+
+In the approach which was offered by Hausman and Taylor, in turn, it is assumed that although part of the xit and zi variables is correlated with αi, there are variables that are not correlated with individual effects (see Equation 2). (Hausman and Taylor, 1981) 
+
+
+
+where;  – the dependent variable; - the intercept; - vector of exogenous time variant characteristics uncorrelated with  ,  -vector of endogenous time variant characteristics correlated with  and uncorrelated with ; -vector of exogenous time invariant characteristics uncorrelated with , -vector of endogenous time invariant characteristics uncorrelated with , but correlated with ; -an idiosyncratic i.i.d. error term; -unobservable random effect.
+
+Then, it is clear that the columns of variables xi which are uncorrelated with αi can perform two functions:
+
+obtaining unbiased estimates of the coefficients;
+
+acting as an instrument for zi which are correlated with αi.
+
+An important advantage of the Hausman and Taylor's approach is that this method does not rely on strict a priori assumptions and under certain conditions makes it possible to test correlation between αi and regressors. So, we conclude that Hausman-Taylor method should be used in order to escape the biased or inefficient results, as in there is a suspicion of endogeneity of such factors as qualification of director’s board, investments in intangible assets and number of patents. Cooperation itself is also neither spontaneous nor exogenous. (Luo, 2005) We discuss these variables in more detail in the next section. 
+
+3.2 Variables
+
+We have chosen econometric modelling as a central research approach of this paper for testifying stated hypotheses. So, we need to discuss which variables, both dependent and independent ones, will be included in the regression model.
+
+Dependent Variable. EVA (Economic Value Added) was chosen as a dependent variable because nowadays this indicator may be considered as one of the most universal value indicator of business performance. EVA is defined as a performance measure that indicates the creation of additional value and its main advantage over traditional financial performance metrics such as net income or earnings per share is that it reflects profits only after the reduction of capital costs. This helps to see the realistic picture of company’s performance through taking into account risks and environment. (Stern et al., 1995) Moreover, EVA can be calculated not only for companies which are listed on the market, but for private companies as well. There is also a number of papers that proved the advantages of EVA measure over other financial indicators. (Biddle et al., 1997) For instance, Rogerson (1997) studied the use of EVA as a tool for measuring the performance of the company, and his main conclusion was that EVA has an advantage over such measures as ROA and ROE. 
+
+The basic formula of EVA calculation was introduced by the creators of this indicator and looks as follows: difference between return on invested capital (ROIC) and weighted average cost of capital (WACC) multiplied by capital employed. (Stern et al., 1995) So, to maximize this indicator, and, hence, financial performance, the net profit should be the highest and the average cost of capital should be the lowest. In this regard, increasing the growth of EVA with effective asset management comes down to the following strategic objectives of the financial strategy:
+
+increasing of profitability;
+
+optimizing costs;
+
+minimizing cost of capital;
+
+optimizing capital structure.
+
+However, as we have already mentioned, not only tangible assets may contribute to the generation of added value. This idea determined the set of independent variables which are listed next.
+
+Inter-firm cooperation variable. This indicator reflects the fact of firm’s participation in some long-term strategic relationships in their general sense. As we were limited in applying an interview or questionnaire method and has no opportunity to access and use special database as SDC Platinum which authors of previous research used (see Table 2) we developed a system of indicators, based on the survey results, in order to proxy a predisposition of a company to join inter-organizational relationships.
+
+According to our model the involvement of the company in inter-firm relationships can be determined, firstly, by the presence of the subsidiaries. (Schartinger, 2003) Previous works suggest that internal links are prerequisites for external integration. This argument is proved by the fact that companies who could overcome impediments to develop a wide network of internal linkages, namely, subsidiaries, have less barriers and uncertainties on the way to formation of external inter-firm partnerships. (Flynn et al., 2010)
+
+Secondly, a high quality website may be also considered as an indicator of the possible presence of the inter-firm cooperation as it may reflect the company's attractiveness to potential partners. The fact that for firms the main source of information about potential partners is the Internet was proved by the survey of 168 Russian companies conducted in 2006. This survey showed that in 57% of cases managers consider the Internet to be the best way to find connections. (Popova, 2010) 
+
+Presence of at least two of the following four characteristics listed above, in our opinion, should have a positive impact on the creation of the firm partnerships:
+
+multi-language choice. This option significantly increases the attractiveness of a potential partner, particularly in connection with the processes of globalization. If the company is willing to spend the resources and provide information about themselves and their activities in a foreign language, it is likely that its efforts will pay off in the form of established alliances with foreign partners;(Shaw and Holland, 2010)
+
+section for "Investors." This section usually provides information about the performance of the company, plans, description of the competitive advantages, etc. If a company contemplating a desire to start a close relationship with another company, but, for example, is not yet officially stated that willingness, the information on the web-site can help to fasten the process;
+
+filling content. The site containing 10 or more pages and links will likely be more meaningful that the resource, in which all information is presented on 3 or 4 pages and limited to the minimum. Potential partners will be able to create the most complete image of the company;
+
+design. This factor indirectly determines the company's willingness to use completely new and innovative web-technologies. For example, within the framework of inter-firm co-operation, such a technology may be to create collaborative online products, including web sites, whose task is to facilitate cooperation by managing the workflow and support the exchange of ideas and suggestions. (Chen, Zhang, Zhou, 2007)
+
+Thirdly, we assumed that membership in informal business associations like Trade Unions or Industry Associations also determine company’s participation in formal inter-firm cooperation types like alliances, networks and so on. (Gulati, 1998)
+
+Based on the above model, we generated a binary variable, which equals to 1 if company has some established long-term relationships, and takes value of zero if there is no evidence of long-term cooperation tendencies in the particular company. This factor is assumed to be time-invariant, as we consider in the analysis only those companies which have been participating in the relationships did not change their decision. It is worth mentioning that this variable is a subject of endogeneity problem as a number of characteristics which determine participation in partnerships is much higher than was already mentioned, which includes both with internal and external factors of each particular company. (Nguyen, 2011) These factors are generally unobservable and, hence, the issue requires additional research.
+
+Control Variables. We include variable “Current Assets” in order to control the degree of firms risk aversion: if company is conservative in current assets management, than its Economic Value Added increases, as risk reduction is usually results in the decrease in market beta, cost of debt and equity. (Michalski, 2008) This, in turn, decreases WACC which has inverse relation with EVA. If a company implements the aggressive strategy of current assets, management the situation is vice versa.
+
+Such indicators as qualification of director’s board, investments in intangible assets and the number of patents are also among the independent variables. They were included as it has been previously proved that these factors, representing the companies’ intangible assets, significantly influence EVA.(Shakina and Barajas, 2012) Moreover, it should be noted that these variables may be considered endogenous as they connected with such unobservable factors as human intellect and attitude of a company to innovative actions. Among these variables only qualification of director’s board is assumed to be time-invariant because of the special characteristics of database collecting process. In addition, the model will include three more variables: the size of a company (number of employees) and location in capital city and location near university. It is important to include these parameters as it was previously showed in empirical research that financial efficiency differed between firms of different size and for companies functioning in different regions. (Chen et al., 2005; (Gumbau-Albert and Maudos, 2009) Location is assumed to be time-invariant. We also add country specific dummy-variables in model for European Union countries (Germany, Italy, France, Spain, the UK) in order to catch the effects which arise because of economy and country specificity.
+
+Thus, the general framework of our model looks as follows:
+
+3.3 Survey Sample
+
+The dataset used for the empirical analysis consists of the information about large companies operating in the European Union, namely, Germany, the UK, France, Italy and Spain, and companies from Russian Federation. These regions were chosen as they are characterized by different economy and financial environments, talking more precisely, they are ranged differently by the stage of the development. Such countries as Germany, the UK, France, Italy and Spain are considered to be advanced, while Russia is rated as developing. (International Monetary Fund, 2014) This, in turn, may directly influence companies and cause dissimilarity of processes inside these organizations including the direction and pattern of inter-firm cooperation impact on financial performance, it is relevant to make a comparative research rather than just study one country. (Chen and Lin, 2006; Kongmanila and Takahashi, 2009; Lee et al., 2013) Database includes information only about large and quoted enterprises as these firms publish their financial statements and provide latest information for shareholders/investors which are publicly accessible.
+
+While constructing the sample we used Amadeus (for EU companies) and Ruslana (for Russian ones) search platforms ran by Bureau Van Dijk as well as other publicly available sources. [79, 81] Firstly, we have filtered all companies which have been operated in the period between 2004 and 2011. The reason to choose such period lies in our research interest to study inter-firm relationships as a driver for performance not only in the framework of different countries, but considering stages of economy cycle. Then we have chosen the set of parameters which we need for our analysis. On this step database included 1028 European companies, 639 Russian companies and 5 indicators: EVA, Number of Employees, Intangible Assets, Current Assets, Age of a Company, Number of Subsidiaries for each year.
+
+In order to collect other indicators we used the following sources:
+
+Web-site quality indicator was collected with the help of companies’ web-sites;
+
+trade-union organizations members lists were used to collect Participation in Business Associations indicator;
+
+data about Number of Patents was collected through the Orbit® search engine; [80]
+
+ Companies’ financial reports were used to collect information about Qualification of Boards of Directors, Location in Capital City and Location Near University. 
+
+Additional information about calculation methods and special features of these variables may be found in Appendix 1.
+
+3.4 Data Description and Analysis
+
+Before developing regression models and testing hypotheses, the comprehensive analysis of dataset should be conducted, as we have to understand what characteristics of the data are, whether it is representative, homogeneous and free from mistakes and outliers.
+
+Poolability test. In order to check the representativeness of the sample, it is necessary to verify if the data for separate countries from European Union may be analyzed as a common pool reflecting the whole European Union. In order to do this, we built Hausman-Taylor regressions for each of 5 countries and compared the sign and significance of beta coefficients for each country.(Cameron, 2005) In Appendix 4 it is shown that almost all included variables affect EVA with the same direction regardless of the country where company operates. This means that we may combine five presented countries in one dataset, and we also can consider this set of countries to be representative for the whole European Union as the sum of their GDP makes up more than 70% of EU27 cumulative GDP (Appendix 5).
+
+Representativeness. Next, we tested the representativeness of the sample in terms of how it reflects the general population of companies in Russia and EU. We can realize it by calculating what percentage of general population of companies is presented in the dataset and checking if the industrial structure of the companies presented in the database is compliant with the companies represented in the relevant countries’ markets. 
+
+According to the statistics provided by national statistics agencies, namely, Rosstat in Russia and Eurostat in EU, there were 25704 large and medium enterprises in Russia and 20156 ones in European Union (27 countries) in 2010. (European Commission, 2009) It means that Sample covers 2.5% and 5 % of general population of large and medium enterprises in Russia and EU, respectively. Moreover, the comparison of industrial structure of general set of enterprises and research sample structure resulted in no evidence of significant difference (more than 15%) between proportions of particular industry in the total number of companies in general market and dataset. (See Appendix 7 and 8) This implies that both Russian and EU sub-samples are representative and findings of empirical research conducted with the use of the collected dataset may be transferred to the whole country or region. 
+
+Outliers. We also examined the sample for the presence of mistakes and outliers (that are defined as data points which do not follow the general trend of the rest of the observations). Liquidation of such observation may help to make sample more homogeneous and elude estimation bias (Wooldridge, 2012) We first got rid of observations for which the values of Intangible assets were negative as it contradicts with the nature of this indicator.
+
+
+
+Numbers from 1 to 6 correspond the following countries: France, Germany, Italy, Spain, UK and Russia, respectively.
+
+Figure 4 Boxplot analysis of outliers
+
+Boxplot analysis showed that there are some outlier observations for EVA indicators, in order to make sample more homogeneous, we limited EVA value in the class boundary (-5000;5000), which led to the removal of 33 companies. Following the same logic we excluded the companies where there are more than 300,000 employees working as they also may be considered to be outliers. After all these procedures, the sample was grown down to the 885 observations in EU part and 616 companies from Russia. The descriptive statistics of all variables we are interested in are presented in the Appendixes 2 and 3.
+
+Analysis of the dependent variable. On this stage we investigated the quality of the developed participation in the relationships classification model. We used such proxy-indicators as web-site quality, membership in the business associations and presence of subsidiaries in order to define if the company is a participant of formal cooperation agreements with other firms. Secondly, using sample massive of firms we conducted the analysis of distinctive characteristics possessed by companies participating in cooperation depending on country and industry basis.
+
+Table 3 
+
+Share of companies classified as participating in relationships
+
+According to our classification, in Russian sample the share of companies which participate in some inter-firm relationships is 32%, while in European Union 65 companies out of 100 may be considered to be involved in ling-term cooperation agreements. 
+
+Next, we analyzed if there are some significant differences in some of the firms’ indicators between companies which participate or not in relationships. In order to do that we applied the results of previous studies which proved that firms engaged in inter-organizational relationships of different types are characterized by the improved innovation performance and patent activity as well as increased intangible assets. (Martínez-Sánchez et al., 2009; Nieto and Santamaría, 2007; Patrakosol and Olson, 2007; Sampson, 2007; Schilling and Phelps, 2007; Zeng et al., 2010) So, we compared such indicators as number of patents and intangible assets, which may act as proxies for innovative activities of a company, between two groups of companies divided by the participation in inter-firm cooperation dummy variable. (Martínez-Sánchez et al., 2009)
+
+Test showed that there is a statistical evidence that companies in the sample who participate in inter-firm relationships on average have more registered patents and higher intangible assets that companies who do not cooperate. (See Appendix 6) This corresponds the findings of Zeng and co-authors (2010) who proved that the inter-firm cooperation and its degree positively influences the innovative activities of a company. So, we may conclude that developed proxy-indicators model classifies companies by participation in cooperation correctly.
+
+We also analyzed the descriptive statistics for companies participating in inter-firm relationships grouping them by country. We may state that, for example, in Russia the average firm involved in cooperation has been operated for 43 years and there are 3455 employees working in this company, while there are 4 shareholders. Sales, current and intangible assets values of this firm equal to 373, 189, 0.47 million euro, respectively. Comparing it to the average company based on the whole sample (see Appendix 3), we may conclude that Russian firm participating in relationships is older, larger and possesses more current and intangible assets than the ordinary average company for company involved in relationships it is also immanent to have more qualified board of directors, bigger amount of patents (11) comparing to the average from all pull of companies in Russia.
+
+Table 4 
+
+Companies involved in cooperation characteristics (means, grouped by Country)
+
+In European Union, in turn, the portrait of average company participating in the relationships is different a bit. The age of such company is 51 years, and there are 13238 people working and 41 people owning this firm. It is again older and larger than ordinary average company. Sales, intangible and current assets figures are 3028, 1137 and 1445 million euro, respectively.
+
+We see, again, that there is both difference between companies participating in the relationships and the full sample of companies in the research database and, moreover, there is a distinction between the portrait of Russian and EU firm involved in cooperation. The second inequality lies, above all, in the scale of the parameters, such as assets, patents or board qualification as for European company, operating in the developed environment, these figures are higher than for Russian firm.
+
+3.5 Growth, Crisis, Recovery Period: Determination
+
+In order to relieve the relationship between inter-firm cooperation and company’s performance with the emphasis on differences in the environmental conditions which may influence the direction and degree of the linkage of these two indicators, we should not only consider the differences in the development status of countries, but examine if the stage of the economy cycle also matters. So, we divided the whole dataset covering 8 years into three separate panels: prosperity stage, crisis times and recovery period.
+
+In general, there are several different definitions and interpretations of the crisis. (Loayza and Rancière, 2006) In the current paper we will mostly look at crisis from the stock market point of view as some authors claim that the best indicator of the economy’s health is stock market. (Aiginger, 2009) So, we determine the growth period, the crisis and after-crisis stages basing on the European and Russian stock market fluctuations. 
+
+Figure 5 reflects the dynamics of the Euro Area Stock Market (Euro STOXX 50) and Russian Stock Market (RTS Index). Euro STOXX 50 is a major stock market index that includes the performance of 50 Blue-chip companies based in Euro Area countries. RTS Index is a free-float capitalization-weighted index of 50 Russian stocks traded on the Moscow Exchange. According to the dynamics of these indices, from 2004 to 2007 both Russian and European economies were in the growing stage. However, stock markets quotes plummeted in the beginning of 2008 and were still falling down during 2009. Assuming that the dynamics of the stock markets are almost similar to the dynamic for the whole economy, we may state that 2008-2009 years were the crisis period. Additionally, according the figure, the recovery period takes place in 2010-2011 years as there is an evidence of a moderate growth in economic activity in both Europe and Russia
+
+ 
+
+Figure 5 Russian VS European Stock Market Volatility [83, 84]
+
+We also analyzed if the same tendencies are seen in the sample by graphing median EVA for European and Russian companies year by year. We see that EVA was also growing during 2004-2007, plummeted in 2008-2009 and started to recover in 2010 and 2011. Hence, we divided the sample by three periods which are 2004-2007 for the growth period, 2008-2009 – the crisis times and 2010-2011 – the recovery stage in order to test the second set of hypotheses.
+
+
+
+
+
+Figure 7 Median EVA values for European companies
+
+
+
+Figure 8 Median EVA values for Russian companies
+
+Summary for the Research Design and Methodology Sections: 
+
+Research Design and Methodology sections were developed in order to prepare for the empirical analysis of inter-firm relationships impact on company’s performance. We have studied what are possible ways of conducting research of this type and found that econometric modelling, namely, Hausman-Taylor approach, is the most suitable one. We also proved that it is essential to simultaneously study inter-firm cooperation in Russia and EU as they possess miscellaneous characteristics due to the differences in the development stage and, thus, cooperation may also have diverse pattern in these two regions. Then we developed two sets of hypotheses, discussed empirical database and describe variables which will be included in models designed to test these hypotheses. So, next step is to realize the empirical analysis of inter-firm cooperation in Russia and EU and discuss the results.
+
+
+
+
+Results
+
+This section is devoted to the empirical testifying of stated hypotheses using model and sample described in previous section.
+
+4.1 Regression Model
+
+The analytical form of Hausman-Taylor model developed in the framework of current paper looks as follows:
+
++
+
+
+
+Where ;  vector includes time-variant exogenous indicators as Current Assets, Age, Number of Employees; - time-variant endogenous parameters including Number of Patents, Intangible Assets, - Location in Capital City, Location near University which are time-invariant exogenous, - time-invariant endogenous Qualification of Directors Board, -an idiosyncratic i.i.d. error term; -unobservable random effect. Models for EU companies also includes country dummy. In order to estimate it we used STATA 11.0 software.
+
+4.2 Estimation Results and Hypotheses Validation
+
+We started with estimating the set of models for European Union sub-sample. In general, all models were built on the sample of 823 companies and are significant on the 1 % level with Wald Chi-2 (13 degrees of freedom) statistics equal to 881, 120, 270 and 51 for the full panel, growth, crisis and recovery time-panels, respectively.
+
+We observe that inter-firm cooperation variable positively influences EVA in the full panel (1% level of significance), in the growth period (10% level of significance) and in crisis times (5% level of significance). In the recovery period there is no evidence of statistically significant link between inter-firm cooperation and financial performance reflected by EVA. So, we may conclude that Hypothesis 1a is fully supported by the empirical model, while hypothesis 2a needs additional discussion due to the fact that though in growth period inter-firm cooperation indeed influences EVA less than in 2008-2009, we cannot compare the coefficient with recovery period as it is not significant in the model.
+
+Estimation results also showed that current assets influence EVA variable positively and statistically significant regardless of time-period, but with different intensity. Number of employees indicator has a negative influence on EVA in all time intervals except crisis period. Number of patents parameter also has no significant influence on EVA in crisis times, but shows positive sign in full panel, growth and recovery periods. Intangible assets significantly and negatively influence EVA in the full panel and during 2004-2007, but the sign changes in 2008-2009 and 2010-2011 sub-samples. Directors’ qualification impact on financial performance indicator is significant and positive in the full panel and in crisis times (10% level of significance). Location of the company near university has a significant and positive impact on EVA only in crisis period.
+
+Table 5 
+
+Estimation results for EU sub-sample
+
+There is also evidence that during 2004-2011, EVA in France, Italy and Spain was significantly lower than in the UK. The same tendency is seen in the growth period, while in crisis period we see that German companies on average show significantly higher EVA than enterprises in the UK. 
+
+The same set of models (except dummies for countries) was estimated for Russian sub-sample. We also got Wald Chi-2 statistics which indicate that models are significant (803 for the full panel, 1527 for 2004-2007 years, 444 for 2008-2009, 212 for 2010-2011). 
+
+Table 6 
+
+Estimation results for Russian sub-sample
+
+Inter-firm cooperation variable is significant in each case, the influence is positive in the full panel (1% level of significance), growth (10% level of significance) and crisis period 5% level of significance), negative in recovery period (5% level of significance). This means that Hypotheses 1b and 2c are fully supported. Comparison of the coefficient’s value in the particular time intervals gives the support for the Hypothesis 2b as we see that absolute value of beta-coefficient of inter-firm cooperation indicator is the highest in the panel for the growth period and equals to 847, while in recovery period it equals to almost 15, in recovery - 727.
+
+Additionally, model estimation results show that for the full panel such indicators as Current Assets (positively), Number of employees (negatively), Age (negative), Intangible Assets (negative) Qualification of directors (positive) influence EVA significantly. In the growth period, the only significant (and positive) impact on EVA except inter-firm cooperation variable is provided by Current Assets. In 2008-2009, such variables as Current assets, Intangible Assets and Qualification of directors’ board are additional drivers for EVA in Russia. Recovery period is characterized by the positive and significant influence of Current Assets, Age, Intangible Assets and Directors’ qualification.
+
+Hence, we may sum up the estimation results in the sense of how they correspond to the verification of stated hypotheses:
+
+Table 7 
+
+Hypotheses testifying results
+
+
+
+	In Table 9 we see that all except one of our hypotheses have been proved. In next section we will discuss in more detail possible reasons of such results and, what is more important, the implications of our findings to company, its strategy and policy.
+
+4.3 Discussion and Implications
+
+To make the results of empirical modelling more illustrative we constructed the comparison table (see Table 8), where we see that for Russia and EU there is a difference in signs of coefficients before number of employees, patents, location near university, directors’ qualification and inter-firm cooperation variables. However, as the main research question connected solely on the inter-organizational partnerships influence on financial performance, we will concentrate on it, though it might be also interesting to analyze other variables. 
+
+Table 8 
+
+Comparison of estimated coefficients direction for Russia and EU
+
+Inter-firm cooperation in the growth and crisis periods. Empirical analysis of inter-firm cooperation impact on financial performance, namely, EVA indicator, over growth and crisis sub-panels pointed out the differences between advanced and developing regions. 
+
+The impact of cooperation on EVA is positive in the growth and crisis both for Russia and EU, which is in congruence with results of Clarke et al. (2011) for Australia in 2006-2008 (growth) and Sheresheva and Peresvetov (2012) for Russia in 2008. However, for EU companies, cooperation has highest impact on EVA in crisis times, while in Russia companies who decided to arrange a partnership agreement have the highest financial benefit in growth times. This is connected with the fact that in advanced countries firms are more predisposed to get the most essential advantage from shared resources and assets in the hardest times, which reflects the general practice of more effective crisis management strategies in advanced economies. At the same time in developing countries organizations tend to make less risky strategic decisions than firms in advanced economies. (Tarun Khanna and Krishna G. Palepu, 2006) So, in crisis times such companies may tend to decrease the number of the joint activities. As a result, the impact of inter-firm cooperation on financial performance remains positive in crisis times, but decreases in the comparison with growth stage.
+
+Inter-firm cooperation in the recovery period. Estimation results showed that for advanced regions there is no evidence of statistically significant link between cooperation agreements and EVA in the recovery period. In fact, model showed that drivers of firm’s recovery after crisis are only current assets, patents and intangible assets. So, we may conclude that in 2010-2011 it was more essential to possess their own resources rather than some common assets came out as a result of partnership agreement for EU companies. In Russia, in turn, recovery times are characterized by the negative influence of inter-firm cooperation on financial performance, while such factors as current assets, age, which may represent both experience and reputation, and intangible assets, are drivers. 
+
+The reason of such results may lie in the possibility of opportunistic behavior of partners, which may start to implement such measures as selling out of assets, redundancy and chaotic curtailment of expenses policy rather than strategic management decisions. Such actions may be explained by the fact that such companies use their partners in order to survive during crisis times, but do not want to support their fellows in the recovery times in order to reach pre-crisis position faster. (Kenneth H. Wathne and Heide, 2000) We suppose that due to the special features of advanced and developing countries, namely, the level of opportunism and trust between market agents, inter-firm collaboration was just insignificant for company in 2010-2011 in EU, where distrust and opportunism exist but their level is quite low, but was a negative factor for performance in Russia, where levels of the distrust, adverse selection, moral hazard and corruption are still extremely high. (Malle, 2009)
+
+Inter-firm cooperation in 2004-2011. Though there are some differences in influence of cooperation on performance for EU and Russia when looking at particular timespans, analysis of inter-firm cooperation impact on financial performance, namely, EVA indicator, over the 8-year period of time (2004-2011) proved that it is positive linkage between these indicators both in developed and developing countries.  
+
+This corresponds with findings of Lahiri and Narayanan (2013) and Lee et al. (2013) who found the same relationships for USA and Korean markets, respectively. However, there is a mismatch with the results of Lavie (2007) who showed that some types of cooperation does not enhance performance at all if studying them on the prolonged period of time (1990-2001).
+
+Our findings correlate with the fact that, according to the analysis of literature, cooperation has more advantages that disadvantages, including enhanced resource base, decreased transaction costs and growth in knowledge assets through the combination of individual actions into collaborative activities. (Tushar K. Das and Teng, 2000; Grant and Baden-Fuller, 2004; Oxley, 2009) In 8-year period these factors prevail over possible negative events connected with influence of cooperation on company’s finances, such as danger of company’s development moderation and growth of financial or operational risks, which lead to the fact that, on average, participation in inter-firm cooperation drives EVA of both EU and Russian companies.  
+
+Implications. In current paper, we found that cooperation in EU and Russia indeed has sufficiently different impact on firm’s finances when analyzing in particular timespans, while in the period which covers the whole economy cycle the influence is positive in both regions.  
+
+From the academic point of view, our empirical research is an evidence of the fact that financial results of cooperation may be highly sensitive to the environment and economy conditions under which the phenomenon is tested. This implies that future researches should take into account special features of the countries, industries and relationships itself in order to get more accurate results and conclusions. 
+
+From the practical side, we may say that it is beneficial for a company to participate in long-term cooperation agreements as it drives its financial performance. Hence, based on these results, we recommend investors, especially, those who prefer long-term investments, to put their funds in those companies which are involved in some cooperation activities, such as alliance, joint ventures, networks, etc. as during an 8-year period those companies who participated in cooperation has, ceteris paribus, better financial performance.
+
+However, in some periods these partnerships may need additional control and management. For example, in Russia, companies should pay special attention to partners’ actions and even develop stimulation measures for joint activities during the crisis times and, especially, in the recovery period. These actions will prevent a firm from potential losses connected with opportunistic behavior of its cooperation partners which usually emerges during and after-economic recession. In Europe, in turn, companies in cooperation generally take the highest advantage from cooperation during crisis. This implies that in advanced countries inter-firm cooperation is a good example of anti-crisis strategy. This means that, firstly, managers and consultants of European companies should arrange cooperation agreements during growth phase of economy cycle in order to prevent a firm from dramatic downturn during crisis. Secondly, we recommend investors who are risky enough to continue their activities during recessions to pay attention to EU companies which are involved in collaborations as, according to our findings, they show better financial results then other organizations. 
+
+
+
+
+Conclusion
+
+Current paper is devoted to the analysis of the impact of inter-firm cooperation on companies’ performance with the special look at the differences between advanced and developing countries, using EU and Russia as examples, as well as taking the stage of the economic cycle and, hence, the general health of economy and environment into account. 
+
+Using econometric modelling techniques we analyzed 556 Russian companies and 823 companies from European Union, in order to distinguish the effects of cooperation between regions with different development stage. Both sets included 4 alternative panels: longitudinal panel containing 8 years, the period of economic growth (2004-2007), the economic crisis timespan (2008-2009) and the recovery time (2010-2011).  
+
+The main conclusion drawn from the study is the empirical evidence that inter-firm relationships, to some extent, can improve the financial standing of the company regardless of the region its operations are concentrated (advanced of developing economy). In the cases of Europe and Russia we found that cooperation increases Economic Value Added of the company if looking at an 8-year period. These findings may be used by consultant agencies, investors and shareholders as our conclusions can help them to decide which company has competitive advantage and more potential to bring profits than other ones because such company engaged in some inter-firm collaboration. 
+
+At the same time, we found that the impact of cooperation on performance may be volatile because of economy fluctuations due to specificity of the growth, crisis and recovery stages. For example, it was found that relationship between cooperation and performance is negative for Russian companies during recovery period. These findings indicate that cooperation, though having a potential positive influence on company and its finances, needs to be wisely managed and tracked in order to realize all its advantages and escape problems such as opportunism, especially in developing countries. Thus, we may conclude that current paper is valuable because of several reasons. Firstly, it proves the fact that inter-firm cooperation influence on financial performance is sensitive to the environment and economy conditions. Secondly, it reveals some practical issues connected with the inter-firm cooperation control and management which may be used by companies’ managers, directors or consultants.
+
+Nevertheless, there are some limitations in our research. The main accent of the research is made on the inter-firm relationships phenomenon; however, we were limited in gathering precise information (through the survey or using the special databases like SDC Platinum) about the participation of the firm in some particular partnerships. As a result, we used proxy indicators to reveal the propensity of the firm to cooperate. That can lead to the biased results and put the limits on research opportunities. Secondly, EVA may not be the best indicator of financial performance of the company, as we used a basic formula, which may not reflect the actual value added accurately. The problem arose due to the lack of available public data on some particular indicators of a company which are needed to make adjustments to the EVA indicator. Additionally, we were limited in comparing the regression coefficients for inter-firm cooperation’s influence on performance between countries as methods applied in this paper do not assume availability of such instrument. 
+
+In future the limitations of current research may be resolved. Firstly, provided that we apply additional time and resources, it becomes possible to collect more precise information about inter-firm cooperation in Russia and EU through survey (questionnaire) among companies’ management or through specialized databases which, for example, are specialized on alliance agreements. Additionally, access to additional sources enables us to calculate adjusted EVA which is considered to be more accurate. Further development of econometric techniques applied for empirical research will help to overcome the difficulty to compare regression coefficient between countries. This will enable us to conduct more comprehensive comparison of inter-firm cooperation phenomenon in Russia and EU. Moreover, in perspective, it makes sense to concentrate the research not only on the cross-country comparisons, but also analyze how inter-firm cooperation drives the performance of companies from different sectors. Additionally, with the use of more precise data on cooperation activities, it becomes possible to give a more detailed look on the differences in the influence of various forms of inter-organizational connections, for example, horizontal of vertical, knowledge-based or resource-based, national or international level and so on.
+
+
+
+
+Acknowledgments
+
+This study comprises research findings from the «The Changing Role of Companies’ Intangibles over the Crisis» carried out within The National Research University Higher School of Economics’ Academic Fund Program in 2013, grant No 13-05-0021.
+
+ 
+
+
+References
+
+Special literature
+
+Aiginger, K., 2009. The current economic crisis: causes, cures and consequences. Österreichisches Institut für Wirtschaftsforschung Working Papers 341.
+
+Anand, B.N., Khanna, T., 2000. Do firms learn to create value? The case of alliances. Strategic Management Journal 21, 295–315.
+
+Audretsch, D.B., Feldman, M.P., 2004. Knowledge spillovers and the geography of innovation (Handbook of Regional and Urban Economics). Elsevier.
+
+Bayona, C., Garcı́a-Marco, T., Huerta, E., 2001. Firms’ motivations for cooperative R&D: an empirical analysis of Spanish firms. Research Policy 30, 1289–1307.
+
+Biddle, G.C., Bowen, R.M., Wallace, J.S., 1997. Does EVA beat earnings? Evidence on associations with stock returns and firm values. Journal of Accounting and Economics 24, 301–336.
+
+Butler, B., 2009. How do interfirm networks influence the emergence of Russian clusters? Innovative Marketing.
+
+Cameron, A.C., 2005. Microeconometrics: methods and applications. Cambridge university press.
+
+Carmeli, A., Schaubroeck, J., 2005. How leveraging human resource capital with its competitive distinctiveness enhances the performance of commercial and public organizations. Human Resource Management 44, 391–412.
+
+Chen, M.-C., Cheng, S.-J., Hwang, Y., 2005. An Empirical Investigation of the Relationship between Intellectual Capital and Firms’ Market Value and Financial Performance (SSRN Scholarly Paper No. ID 1553893). Social Science Research Network, Rochester, NY.
+
+Chen, Y.-M., Lin, F.-J., 2006. Regional development and sources of superior performance across textile and IT sectors in Taiwan. Entrepreneurship & Regional Development 18, 227–248.
+
+Clarke, M., Seng, D., Whiting, R.H., 2011. Intellectual capital and firm performance in Australia. Journal of Intellectual Capital 12, 505–530.
+
+Clement, J.P., McCue, M.J., Luke, R.D., Bramble, J.D., Rossiter, L.F., Ozcan, Y.A., Pai, C.W., 1997. Strategic hospital alliances: impact on financial performance. Health Aff (Millwood) 16, 193–203.
+
+Conner, K.R., 1991. A Historical Comparison of Resource-Based Theory and Five Schools of Thought Within Industrial Organization Economics: Do We Have a New Theory of the Firm? Journal of Management 17, 121–154.
+
+Dahan, N., Doh, J., Guay, T., 2006. The role of multinational corporations in transnational institution building: A policy network perspective. Human Relations 59, 1571–1600.
+
+Das, T.K., Teng, B.-S., 2000. A Resource-Based Theory of Strategic Alliances. Journal of Management 26, 31–61.
+
+European Commission, 2009. European business – Facts and figures, Statistical books. Office for Official Publications of the European Communities, Luxembourg.
+
+Feldman, M., Francis, J., Bercovitz, J., 2005. Creating a Cluster While Building a Firm: Entrepreneurs and the Formation of Industrial Clusters. Regional Studies 39, 129–141.
+
+Flynn, B.B., Huo, B., Zhao, X., 2010. The impact of supply chain integration on performance: A contingency and configuration approach. Journal of Operations Management 28, 58–71.
+
+Franco, M., Haase, H., 2013. Firm resources and entrepreneurial orientation as determinants for collaborative entrepreneurship. Management Decision 51, 680–696.
+
+Gartner, W.B., Porter, M.E., 1985. Competitive Strategy. The Academy of Management Review 10, 873.
+
+George, G., Zahra, S.A., Wood, D.R., 2002. The effects of business–university alliances on innovative output and financial performance: a study of publicly traded biotechnology companies. Journal of Business Venturing 17, 577–609.
+
+Gibson, S.G., McDowell, W.C., Harris, M.L., 2011. The Impact of Strategic Orientation and Ethnicity on Small Business Performance. Journal of Business Diversity 11, 9–18.
+
+Ginevicius, R., 2010. The effectiveness of cooperation of industrial enterprises. Journal of Business Economics and Management 11, 283–296.
+
+Goerzen, A., 2007. Alliance networks and firm performance: The impact of repeated partnerships. Strategic Management Journal 28, 487–509.
+
+Grant, R.M., 1996. Toward a Knowledge-based Theory of the Firm. Strategic Management Journal, Knowledge and the Firm 109–122.
+
+Grant, R.M., Baden-Fuller, C., 2004. A knowledge accessing theory of strategic alliances. Journal of management studies 41, 61–84.
+
+Gulati, R., 1998. Alliances and networks. Strategic Management Journal 19, 293–317.
+
+Gumbau-Albert, M., Maudos, J., 2009. Patents, technological inputs and spillovers among regions. Applied Economics 41, 1473–1486.
+
+Hadjivassiliou, K.P., Cox, A., Martin, R., Marchington, M., Sheehan, M., Gloster, R., Pollard, E., Grimshaw, D., Rubery, J., 2011. Impact of interfirm relationships – employment and working conditions [WWW Document]. URL http://www.eurofound.europa.eu/publications/htmlfiles/ef1101.htm (accessed 4.20.14).
+
+Hagedoorn, J., 2002. Inter-firm R&D partnerships: an overview of major trends and patterns since 1960. Research policy 31, 477–492.
+
+Hausman, J.A., Taylor, W.E., 1981. Panel Data and Unobservable Individual Effects. Econometrica 49, 1377.
+
+Hitt, M.A., Lee, H., Yucel, E., 2002. The Importance of Social Capital to the Management of Multinational Enterprises: Relational Networks Among Asian and Western Firms. Asia Pacific Journal of Management 19, 353–372.
+
+Huggins, R., 2001. Inter-firm network policies and firm performance: evaluating the impact of initiatives in the United Kingdom. Research Policy 30, 443–458.
+
+Humphrey, J., Schmitz, H., 1998. Trust and inter-firm relations in developing and transition economies. Journal of Development Studies 34, 32.
+
+International Monetary Fund, 2014. World Economic Outlook— Recovery Strengthens, Remains Uneven. Washington.
+
+Jiang, X., Li, Y., 2008. The relationship between organizational learning and firms’ financial performance in strategic alliances: A contingency approach. Journal of World Business 43, 365–379.
+
+Jones, C., Hesterly, W.S., Borgatti, S.P., 1997. A General Theory of Network Governance: Exchange Conditions and Social Mechanisms. Academy of Management Review 22, 911–945.
+
+Keister, L.A., 2007. 7. Inter-firm Relations in Business Groups: Group Structure and Firm Performance in China. Business networks and strategic alliances in China 157–181.
+
+Kongmanila, X., Takahashi, Y., 2009. Inter-Firm Cooperation and Firm Performance: An Empirical Study of the Lao Garment Industry Cluster. International Journal of Business and Management 4, P3.
+
+Lahiri, N., Narayanan, S., 2013. Vertical integration, innovation, and alliance portfolio size: Implications for firm performance. Strategic Management Journal 34, 1042–1064.
+
+Lane, C., Bachmann, R., 1996. The Social Constitution of Trust: Supplier Relations in Britain and Germany. Organization Studies 17, 365–395.
+
+Lavie, D., 2007. Alliance portfolios and firm performance: A study of value creation and appropriation in the U.S. software industry. Strategic Management Journal 28, 1187–1212.
+
+Lee, H., Cho, E., Cheong, C., Kim, J., 2013. Do strategic alliances in a developing country create firm value? Evidence from Korean firms. Journal of Empirical Finance 20, 30–41.
+
+Loayza, N.V., Rancière, R., 2006. Financial Development, Financial Fragility, and Growth. Journal of Money, Credit and Banking 38, 1051–1076.
+
+Luo, Y., 2005. Toward coopetition within a multinational enterprise: a perspective from foreign subsidiaries. Journal of World Business 40, 71–90.
+
+Maheshwari, B., Kumar, V., Kumar, U., 2006. Optimizing success in supply chain partnerships. Journal of Enterprise Information Management 19, 277–291.
+
+Malle, S., 2009. Soviet legacies in post-Soviet Russia: insights from crisis management. Post-Communist Economies 21, 249–282.
+
+Marinic, P., 2013. Financial Crisis and Preservation of Firms’ Value. Chapters of Financial Aspects of Recent Trends in the Global Economy book 1, 143–167.
+
+Martínez-Sánchez, A., Vela-Jiménez, M.J., Pérez-Pérez, M., De-Luis-Carnicer, P., 2009. Inter-organizational Cooperation and Environmental Change: Moderating Effects between Flexibility and Innovation Performance. British Journal of Management 20, 537–561.
+
+Michalski, G., 2008. Operational Risk in Current Assets Investment Decisions: Portfolio Management Approach in Accounts Receivable. Agricultural Economics–Zemedelska Ekonomika 12–19.
+
+Nguyen, N.P., 2011. Applying “Theory Of Reasoned Action” To Explain Inter-Firm Cooperation: Empirical Evidence From Vietnamese Enterprises. International Journal of Management & Information Systems (IJMIS) 15, 61–82.
+
+Nieto, M.J., Santamaría, L., 2007. The importance of diverse collaborative networks for the novelty of product innovation. Technovation 27, 367–377.
+
+Oxley, J.E., 2009. Appropriability hazards and governance in strategic alliances: A transaction cost approach. In: Advances in Strategic Management. Emerald Group Publishing, Bingley, pp. 165–191.
+
+Patrakosol, B., Olson, D.L., 2007. How interfirm collaboration benefits IT innovation. Information & Management 44, 53–62.
+
+Pfeffer, J., Salancik, G.R., 2003. The External Control of Organizations: A Resource Dependence Perspective. Stanford University Press.
+
+Popova, Y.F., 2010. Setevie otnosheniya na promishlennih rynkah: rezultaty issledovaniya rossiiskih kompanii. Vestnik Sank-Peterburzhskogo universiteta.
+
+Putnam, R., Leonardi, R., Nanetti, R., 1993. Making Democracy Work: Civic Traditions in Modern Italy. Princeton University Press, Princeton.
+
+Rademakers, M.F.L., 1999. Managing inter- firm cooperation in different institutional environments: a comparison of the Dutch and UK potato industries = Het managen van samenwerking tussen bedrijven in verschillende institutionele omgevingen. Selbstverl., Leiden.
+
+Richard, P.J., Devinney, T.M., Yip, G.S., Johnson, G., 2009. Measuring Organizational Performance: Towards Methodological Best Practice. Journal of Management 35, 718–804.
+
+Ritala, P., Ellonen, H.K., 2010. Competitive advantage in interfirm cooperation: old and new explanations. Competitiveness Review: An International Business Journal incorporating Journal of Global Competitiveness 20, 367–383.
+
+Rogerson, W.P., 1997. Intertemporal Cost Allocation and Managerial Investment Incentives: A Theory Explaining the Use of Economic Value Added as a Performance Measure. Journal of Political Economy 105, 770.
+
+Rusnano [WWW Document], n.d. rusnano.com. URL http://www.rusnano.com/about/press-centre/news/20121120-forum-otkrytye-innovatsii-zavershil-rabotu
+
+Sampson, R.C., 2007. R&D Alliances & Firm Performance: The Impact of Technological Diversity and Alliance Organization on Innovation. Academy of Management Journal 50, 364–386.
+
+Sanz Menéndez, L., García, C.E., 1997. R&D Collaboration networks in Spain.
+
+Schilling, M.A., Phelps, C.C., 2007. Interfirm collaboration networks: The impact of large-scale network structure on firm innovation. Management Science 53, 1113–1126.
+
+Shakina, E., Barajas, A., 2012. The relationship between intellectual capital quality and corporate performance : an empirical study of Russian and European companies. Economic annals 79–97.
+
+Shaw, D.R., Holland, C.P., 2010. Strategy, networks and systems in the global translation services market. The Journal of Strategic Information Systems 19, 242–256.
+
+Sheresheva, M., Peresvetov, S., 2012. Inter-firm Relationships of Russian SMEs: A Way to Survive the Crisis and to Innovate. Journal of Entrepreneurship & Innovation 1–19.
+
+Singh, P.J., Power, D., 2009. The nature and effectiveness of collaboration between firms, their customers and suppliers: a supply chain perspective. Supply Chain Management: An International Journal 14, 189–200.
+
+Stern, J.M., Stewart, G.B., Chew, D.H., 1995. The Eva® Financial Management System. Journal of Applied Corporate Finance 8, 32–46.
+
+Tarun Khanna, Krishna G. Palepu, 2006. Emerging Giants. Harvard Business Review 84, 60–69.
+
+Tsai, K.-H., 2009. Collaborative networks and product innovation performance: Toward a contingency perspective. Research Policy 38, 765–778.
+
+Wathne, K.H., Heide, J.B., 2000. Opportunism in Interfirm Relationships: Forms, Outcomes, and Solutions. Journal of Marketing 64, 36–51.
+
+Wathne, K.H., Heide, J.B., 2000. Opportunism in Interfirm Relationships: Forms, Outcomes, and Solutions. Journal of Marketing 64, 36–51.
+
+Welbourne, T.M., Pardo-del-Val, M., 2009. Relational Capital: Strategic Advantage for Small and Medium-Size Enterprises (SMEs) Through Negotiation and Collaboration. Group Decis Negot 18, 483–497.
+
+Wooldridge, J.M., 2012. Introductory Econometrics: A Modern Approach, 5 edition. ed. Cengage Learning, Mason, OH.
+
+Wu, J., Callahan, J., 2005. Motive, form and function of international R&amp;D alliances: Evidence from the Chinese IT industry. The Journal of High Technology Management Research 16, 173–191.
+
+Zeng, S.X., Xie, X.M., Tam, C.M., 2010. Relationship between cooperation networks and innovation performance of SMEs. Technovation 30, 181–194.
+
+Electronic sources
+
+Amadeus Database [WWW Document], amadeus.bvdinfo.com; URL 
+
+Questel Intellectual Property Portal [WWW Document], orbit.com; URL 
+
+Ruslana Database [WWW Document], ruslana.bvdep.com; URL 
+
+Rusnano [WWW Document], rusnano.com; URL 
+
+Yahoo!Finance [WWW Document], finance.yahoo.com; URL 
+
+Yahoo!Finance [WWW Document], finance.yahoo.com; URL 
+
+
+
+
+Appendices
+
+APPENDIX 1
+
+Variables definitions
+
+APPENDIX 2 
+
+Descriptive statistics for EU sub-panel
+
+APPENDIX 3
+
+Descriptive statistics for Russian sub-panel
+
+
+
+
+
+
+APPENDIX 4
+
+Poolability test. Beta’s and SE’s for regressions by country
+
+
+
+
+
+
+APPENDIX 5
+
+Gross domestic product at market prices in Billions of Euro*
+
+*Source: European Statistic Agency “Eurostat” URL: epp.eurostat.ec.europa.eu 
+
+
+
+
+APPENDIX 6
+
+Comparison of variances and means for Number of Patents Variable grouping by participation in cooperation
+
+
+
+Comparison of variances and means for Intangible Assets Variable grouping by participation in cooperation
+
+
+
+
+
+APPENDIX 7
+
+Structural Profile of Enterprise Distribution by industry for EU economy and Sample
+
+*Source: European Statistic Agency “Eurostat” URL: epp.eurostat.ec.europa.eu
+
+
+
+
+APPENDIX 8
+
+ Structural Profile of Enterprise Distribution by industry for Russian economy and Sample
+
+*Source: Russian Statistic Agency “Rosstat” URL:rosstat.ru  

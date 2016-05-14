@@ -1,0 +1,271 @@
+National Research University
+
+Higher School of Economics
+
+
+
+Faculty of Business Informatics
+
+
+
+
+
+
+
+DRAFT
+
+on the project
+
+«E-learning Tools and Educational Networks Use in Different Cultures»
+
+
+
+
+
+
+
+
+
+
+
+Student
+
+Group 
+
+Argument Consultant
+
+Style and Language Consultant 
+
+Khatuna Abashidze
+
+471
+
+JuliaTaratukhina
+
+Evgenia Klepko
+
+
+
+
+
+
+
+Moscow
+
+ 2013
+
+
+
+Introduction
+
+
+
+Nowadays globalization is present in many aspects and activities we realized. The influence of Globalization on different spheres of life is significant. One of these transformations is associated with the education system. 
+
+The object of this research is the e-learning. E-learning means the use of information and communication systems to enable people to learn anytime and anywhere. E-learning is already widely distributed amongst higher learning institutions, including universities, in different countries.
+
+The purpose of this study is to analyze how e-learning tools and educational networks are used around the world and how the specific of learning management systems use depends on cultural characteristics.
+
+Use of e-learning tools can essentially increase access to information and knowledge, and improve access to education.
+
+The logic of the study is following:
+
+- First of all, we describe the cultural characteristics and some classifications of different cultural types.
+
+- Secondly, we give definitions of key terms: “e-learning” and “distance education”. 
+
+- Then we identify advantages and disadvantages of learning management systems.
+
+- Finally, we try to analyze various types of e-learning systems and compare them to each other.  
+
+This study is separated into two chapters: Practical part and Theoretical part. Both them include several subsections.
+
+In future it is planned to detect the best practice of e-learning tools use around the world.  
+
+
+
+
+
+
+
+Chapter I. Theoretical part
+
+Cultural aspects in educational processes
+
+
+
+There are several hundred well-documented cultures in the world. All cultures have some specific national level, but many of them display remarkable similarities. There are various types of cultures classification. The most important for our research are the Lewis Model and Hofstede’s country classification. 
+
+Before analyzing the process of e-learning in different cultures we should determine the specific of cultural diversity. 
+
+
+
+Richard Lewis Communications
+
+
+
+R. Lewis has gone to great length to categorize national cultures by dividing people into three classes:
+
+- linear-active;
+
+- multi-active;
+
+- reactive.
+
+Representatives of the first cultural type (Anglo-Saxon, Germanic and Scandinavian cultures) have a set of specific characteristics such as rationalism, sequence, punctuality, careful planning of the future.  
+
+	The second type, multi-active, refers to cultures that have high importance level of communicating face-to-face. People in these societies depreciatingly apply to schedules and planning. Among the countries of this multi-active type are Arabian, Romanesque cultures and Latin American.  
+
+	The distinguishing feature of reactive cultural type is the cyclic time concept. The main dominant in relationships refers to achieving harmony in communication. This cultural type consists of countries of East and South-east Asia, including China, Taiwan, Singapore, and Japan. 
+
+
+
+Hofstede’s cultural dimensions
+
+	
+
+An influential Dutch researcher, Gerard Hendrik Hofstede, identify four types of cultural dimensions: 
+
+- power/distance (PD). This parameter indicates the level of power’s importance for society. The high PD score displays that society accepts an unequal distribution of power and people understand “their place” in the hierarchical system. In the cultures with the low PD score the power is shared and communicators view themselves as equals. 
+
+- individualism (IDV). This is the one of the most important parameters that we will use in our research. A high IDV score indicates the level of loose connection with other people.  Among the individualistic cultures are Anglo-Saxon and Germanic countries. The reverse of individualism in human nature is another basic cultural element – collectivism. For these cultures the IDV score is low. The group in this type itself is also larger and people take more responsibility for each other’s well-being. 
+
+- uncertainty/avoidance index (UAI). This characteristic based to the level of people’s risk aversion. Representatives of cultures with high UAI score usually are clear and concise about their expectations; they try to avoid equivocal situations when it is possible. Low UAI scores present cultures where society enjoys uncommon events (people have too little set of rules and they are encouraged to reveal their own point of view).  
+
+- masculinity (MAS). This index refers to how much a society indicates traditional male and female roles. High MAS scores are based in cultures where men are perceived as providers with strong characters (for example, Austria, Mexico, and Japan). For these countries are typical following features: single-mindedness, self-confidence, competitive struggle and commitment to tangible assets. Countries with low MAS scores (for example, Denmark, Norway, and Sweden)    refer to female cultural type. The specific of these cultures based on characteristics such as modesty, altruism and emotional comfort. 
+
+
+
+
+
+Use of E-learning tools 
+
+
+
+Definition of e-learning
+
+
+
+For the first time the term “e-learning” in professional environment was used in 1999 during a CBT Systems seminar in Los Angeles. E-learning is so broad that it’s hard to formulate a general consensus on the definition that actually does the term justice. 
+
+In Russia the terms e-learning and distance education are commonly confused. Some people argued that these terms are synonymous. Others suppose that the one of them is more generic. 
+
+In common, e-learning means the use of information and communication systems to enable people to learn anytime and anywhere.
+
+There are various definitions of the term e-learning:
+
+E-learning – education via the Internet and Multimedia. (UNESCO)
+
+E-learning – “approaches and technologies to enhance organizational knowledge, learning and performance” (Marc Rosenberg 2001)
+
+E-learning – courses that are performed via the Internet. Allison Rossett
+
+
+
+Distance education
+
+
+
+	As we noted above, e-learning is closely related to distance education. So, we should consider second definition.
+
+	Distance education is the way of teachers-students remote cooperation (on the distance) which contains all components of educational process. It is realized via the Internet or other channels that allow interactive communications (Полат, 17).
+
+	Generally, up-to-date distance education is based on two components:
+
+- tools of dissemination and exchange of information (post, radio, TV and computer networks);
+
+- methods of information transmissions, depending on the system.
+
+	First attempts to put distance education into practice were made in Europe in the end of XVIII century, when regular mail service became available. This way of cooperation between both sides of educational process was named “correspondence education”. Thus, mailing of teaching materials, communications between teacher and student, and knowledge tests carried out by post. 
+
+	The development of radio and television led to proposals to use it for distance education. Due to the arising of these technologies, appeared the great possibility for spreading of information that involves wide audience of learners into the educational process.
+
+	The process of development distance education was rapidly spread. So in 1969 in the United Kingdom was established the first in the world university of distance education – Open University.
+
+Distance education has now been adopted and used in various spheres much easier and faster because of computer and Internet access appearance. Communication process became available, regardless of location.
+
+	System of distance education is the key feature in e-learning. It provides a set of services such as learning management, user management, management of technical and methodical support, collaboration between teachers and students, etc. 	
+
+
+
+Technological aspect
+
+
+
+E-learning comprises a wide set of technologies and tools. Besides systems of distance education, e-learning uses distance education courses, e-mail, MP3/DVD players, web, social networks, blogs, wiki-pages, charts, etc. 
+
+There are several forms of implementation educational process: synchronous, asynchronous and hybrid communication. The learning management systems provide an opportunity to study the materials using such tools as trainers and simulation modeling.  
+
+
+
+Advantages and disadvantages of e-learning tools
+
+	
+
+Education, provided by e-learning technologies, unlike the traditional type of education, has significant priorities. Students may have an option to select learning materials according to their interests and level of knowledge.  Moreover, they can learn anywhere if they have an ability to connect to the Internet. Another advantage is organization of relationships between teachers and students. 
+
+On the other hand, there are some disadvantages of such systems: 
+
+there is no real opportunity for monitoring and controlling  the student’s level of motivation; 
+
+slow internet connections or outdated computer devices  may make an access to  course materials frustrating.
+
+Chapter II. Practical part
+
+Learning management systems in different countries
+
+
+
+This research is devoted to the study of e-learning tools and educational networks use in different countries
+
+The research will be conducted in the following countries: Russia, USA, Germany and China. One higher education institution from each country is to be examined.  The research is aimed on the analyses of learning management systems, used in the chosen higher education institutions.
+
+Russia: National Research University Higher School of Economics. LMS system ()
+
+USA: Massachusetts Institute of Technology. Stellar system ()
+
+Germany: University of Münster. LearnWeb system ()
+
+China: the particular University and system yet are not chosen
+
+
+
+
+
+Best practice of e-learning use
+
+
+
+After information gathering we plan to perform the comparative analysis of selected learning management systems. As a comparison features will be captured characteristics connected to the mentality of certain country.
+
+Finally, we try to identify the best practice of e-learning use.
+
+
+
+Bibliography
+
+
+
+Льюис, Р. Деловые культуры в международном бизнесе. М.: Дело, 2000
+
+Полат Е.С., Бухаркина М.В., Моисеева М.В. / Теория и практика дистанционного обучения: Учеб. Пособие для студ. высш. Пед. Учебн. Заведений // М.: Издательский центр «Академия», 2004. – 416 с.
+
+Таратухина Ю.В. Коммуникативные и образовательные технологии в контексте кросс-культурного взаимодействия: уч. Пособие / Минск: Экоперспектива, 2011. – 186 с.
+
+Таратухина Ю.В., Мальцева С.В. Сетевые сообщества: коммуникационные аспекты. Автоматизация и современные технологии. №2. 2008. С. 21-26
+
+
+
+Adler N. J. A Typology of management studies involving culture // Journal of International Business Studies, Fall 1983, Vol. 14 Issue 2. – P. 29-47.
+
+Hofstede G. Culture’s Consequences, International Differences in Work Related Values, Sage, 1980 – 236 p. 
+
+Hofstede G. Culture’s Consequences, Comparing Values, Behaviors, Institutions, and Organizations Across Nations. Newbury Park, CA: Sage Publications; Second Edition; February 2003.
+
+Ruth C. Clark, Richard E. Mayer. / E-learning and the science of instruction: Proven guidelines for consumers and designers of multimedia learning/   3rd ed. 2011
+
+
+
+R. Lewis site (Richard Lewis Communication) 
+
+ G.Hofstede site 

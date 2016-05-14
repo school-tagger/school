@@ -1,0 +1,214 @@
+National Research University 
+
+Higher School of Economics
+
+Faculty of Business Informatics
+
+Department of Modeling and Optimization of Business Processes
+
+
+
+
+
+DRAFT
+
+of the paper
+
+“Automation of Regulation of Company's Business Processes “
+
+
+
+Student     Ekaterina Belozertseva 
+
+                                                                                         Group     475
+
+                                                      Argument Consultant     V.G. Chebotarev
+
+                                  Style and Language Consultant     K.A. Podobed
+
+
+
+
+
+
+
+2013
+
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+The modern business world is constantly undergoing major changes. Consequently, it is necessary for companies that want to stay afloat to organize their activities in such way that they can be easily reconstructed in accordance with the new conditions of the market. For this purpose, companies should organize their activities in correspondence with the process approach to management. So the allocation of such basic units of management as business processes is very important step in such circumstances. Moreover, the company’s activities have to be formed around these business processes. But for successful functioning of the company within the framework of process approach it is necessary to properly regulate its business processes, because the correct regulation subsequently leads to the most efficient implementation of the processes. 
+
+The object of this investigation is activities for regulation of company’s business processes. Particular emphasis is placed on the automation of this process. The purpose of this research is to create the foundation for the automation of the generation of regulating documentation for the company.
+
+The relevance of this study is conditioned to the fact that in modern business world operation of companies often carried out once in several directions, as a result, companies have extensive collection of business processes. Since the number of business processes in a modern company is sufficiently large, the existence of strict rules of implementation of these processes (that is, the presence of regulating documents) is a significant factor for its successful functioning on the market. This factor is so important, because the absence of regulating documents in companies often leads either to inefficient execution of business processes or to excessive use of resources or to errors that arise during the implementation of the business process.
+
+However, the development of regulation of business process is laborious task which requires considerable expenses of company’s resources (time, human, material). Therefore, automation of the generation process of regulating documentation allows the company to significantly reduce the amount of resources used in contrast with the amount of resources that are used during the manual process of creation regulating documents.  Furthermore, it allows the company to decrease the likelihood of errors directly in the regulating documents themselves. Especially automation of this process is useful for companies whose activities are not limited by the release of a single product or provision of a single service because the amount of business processes in such companies is large. 
+
+Nevertheless, the automation of the considered process is not simple occupation. For the realization of automation of regulation process it is necessary to understand what the company should possess to do the implementation of automation possible. Consequently, it should be identified what basis has to be established in the company for carrying out there the considered process of automation of generation of regulating documentation. However, at the moment there are not any exact sets of requirements for organizations that characterize the situation in the company as favorable for the implementation of the process of automation. At achieving this objective, that is, the development of foundation that is needed for the company to automate the process of regulation, is directed this investigation.
+
+This research paper will consist of five parts. In the first part there will be the list of main terms used in this survey. The second part will be devoted to the process approach. The third and the forth sections of the considered paper will be describe the research of regulation of business processes in the company and the analysis of the process of creation of regulating documents in the company accordingly. The fifth part of this paper is the final there will be a brief overview of the work and the conclusions about the future direction of research. 
+
+The main terms
+
+Process: it is a totality of interrelated and interacting activities which transforms inputs into outputs.
+
+Business process: it is a recurrent set of ordered and interrelated activities which creates results that are meaningful to the consumer.
+
+Process-oriented organization: it is organization in which activities and recourses are managed as processes.
+
+Regulation: it is the process of creating regulating documents.
+
+Model: it is totality of symbols (graphics, math, etc.) which adequately describes both some of the properties of the simulated object and the relationships between them.
+
+Extended event driven process chain (eEPC): it is a model that describes consequence of the actions (procedures, operations, functions) within a single process (scenario, procedure) and allows communication between the organizational and functional models.
+
+Script: it is a program that allows transferring the information from the graphical models in the text files in accordance with certain rules.
+
+Chapter 1. The process approach
+
+In the first instance, it should be noted that for conducting research in the sphere of the automation of the generation process of regulating documents in the company the organization must be considered from the point of view of the process approach. Inasmuch as such a term as a business process makes sense only in process-oriented organizations.
+
+According to this approach work in the company has to be organized around its processes. Additionally, this approach considers improvement of business processes as a primary objective of the process-oriented company because the proper and effective organization of the business processes will either enhance the quality of their implementation or optimize the use of recourses or reduce costs or achieve amelioration of other performance indicators. Furthermore, considered approach allows to obtain a comprehensive formalized description of the company and also it allows to present it in the form of graphical models. In turn, the presentation of the exhaustive company’s description is very useful for analyzing activities of the company and for its subsequent automation. According to process approach in the process-oriented organization there is a change of control vector, it means that there is the orientation on the consumer’s requirements during the performance of the process in contract with functional-oriented organization in which there is the orientation on the supervisor’s ones.
+
+Chapter 2. The investigation of the company’s regulation process
+
+As has been previously noted, the aim of this research paper is to establish a framework to automate the generation process of regulating documents for the company. During this survey it will be necessary to solve a number of problems for successful achievement to the objective.
+
+First of all, it is needed to determine what the process of regulation is and what it is for.
+
+Regulation is the creation of regulating documents that describe the implementation of the business processes, the results of the business process, the management of the business processes (for example, duty regulations, the rules of business processes, etc.). The process of the business processes’ regulation carried out on the basis of the certain standards that are accepted within the organization.
+
+The regulation process of the business processes in the company can be directed to execute a wide range of tasks. According to the classification that was provided by V. V. Repin in his article that called “What is the reason of business processes regulation?” task of description and regulation of the company’s business processes can be divided into four base types such as “single improvement”, “patchwork documentation”, “total modeling”, and “comprehensive ordering of activities”.
+
+The first type of task that are solved by the business processes’ regulation is called “single improvement”. This kind of problems refers to description and regulation of some local business processes (within 1-2 divisions). The main purpose of the description and regulation’s implementation in the framework of “single improvement” is to conduct the analysis of these business processes and also to put forward proposals for their enhancement. 
+
+“Patchwork documentation” is the second type of tasks that are solved by description and regulation of company’s business processes. “Patchwork documentation” is the purposeful description and regulation of the company’s several key business processes. These processes of description and regulation are performed to make the order of these business processes’ execution standard and to ensure their reproducibility and the possibility to control the results or other various parameters of considered business processes.
+
+The business processes’ description and regulation are executed to solve the third kind of issues that is called “total modeling”. The most key business processes of the company are described during the performance of this type of tasks. This descriptive activity is mainly aimed at either analysis of the business processes or their subsequent optimization, regulation and further automation.
+
+By the same token the activities of the business processes’ description and regulation can be directed at the solution of the forth type of considered problems that is called as “comprehensive ordering of activities”. Almost all company’s business processes are described and regulated during the accomplishment of the “comprehensive ordering of activities”. This large-scale operation is aimed at obtaining the actual awareness about what employee of the company what work performs and what objectives are tried to achieve by the execution of this work. This received complex picture of the company’s activities helps qualitatively to perform the analysis with the purpose of subsequent optimization and automation of the set of its business processes.
+
+In this way, it can be concluded that the process of the company’s business processes’ regulation plays a significant role for successful and effective implementation of its activities. This is so because the proper regulating documentation contributes to higher quality of execution of the tasks that are assigned to the organization’s employees. Moreover, it facilitates to implement the analysis of the company’s activities and also the competently composed regulating documentation is applied for the process of the optimization of the company’s performance.
+
+Chapter 3. The analysis of the company’s regulation process
+
+Several companies will be considered in this research work to reach its primary purpose that is to develop the foundation for the company that is needed to automate the process of the regulating documents’ generation. In this investigation there will be some companies in which the process of regulating documentation’s creation is and automated and is performed by employees without using special software. And also in this study there will be some companies in which the considered process is automated and is executed by the special software.   
+
+3.1. The manual regulation process
+
+Several companies in which the process of the regulation is manual will be taken for the analysis. It means that the considered process of regulating documentation’s creation is performed by the company’s employees by themselves without using of any specially designed for this goal software. The process of regulation in each company will be circumstantially considered in this research as a part of executed analysis. Furthermore, for each company the special models (Extended event driven process chain (eEPC)) that will describe the consequence of the actions within the regulation process will be built by the using the special software product that is called ARIS IT Architect 7.2.
+
+3.2. The automated regulation process
+
+Some companies in which the process of regulating documents’ generation is automated will be taken for the analysis. In such companies the creation of the regulation documentation is carried out using specially designed software. Using such software products does not require human involvement in the process of documents’ generation. For the implementation of the analysis of the automated regulation process in each considered company special models (Extended even driven process chain) that have as their goal to describe the progression of the actions within the certain process will be built using ARIS IT Architect, the special software tool for modeling any different aspects of organization’s functioning. 
+
+3.2.1. The analysis of the ARIS Script, the special software to automate the regulation process
+
+As an example of the software product that is designed to perform the automated generation process of the regulating documentation, ARIS Script will be considered and analyzed in this research paper. 
+
+Software product ARIS is designed for description the company’s business processes. The results of such description are interconnected among themselves ARIS-models. The considered software tool, ARIS Script is used either for the extraction of the information from the ARIS-models or for development of the regulating documentation. In this case, the software modules that are called as scripts are created. These software modules, scripts, collect the information from the ARIS-models and generate the regulating documents.
+
+The opportunities of ARIS Script using will be explored in this investigation during the analysis of the considered software tool. Furthermore, its positive and negative sides will be identified in this analysis. Apart from, several instances of the scripts that are designed to generate some types of regulating documents will be presented in this study.
+
+3.3. The analysis of the manual and automated regulation processes
+
+To make the achievement of the main objective of this research possible it is necessary to conduct the comparative analysis of the manual and automated processes of the generation of the companies’ business processes’ regulating documentation.
+
+The comparative analysis of manual and automated processes of business processes’ regulation will be implemented in the following scenario:
+
+First of all, the earlier constructed models (eEPC) those are the graphical representation of the process flow of the manual regulation of companies’ business processes will be taken for the analysis.
+
+Secondly, models (eEPC) that describe the process flow of the automated generation of companies’ business processes’ regulating documentation in the graphic form will be taken for the analysis.
+
+Subsequently, the comparative analysis of the graphical models that describe the manual process of regulating documents’ creation will be performed. During this comparative analysis the features that are characteristic for all considered organization in which the process of business processes’ regulation is manual will be detected.
+
+At the next stage, the comparative analysis of the graphical representations of the considered companies’ automated regulation processes will be implemented. The singularities that are distinguishing for the companies in which the business processes’ regulation process is carried out using specially designed software product will be identified.  
+
+Finally, the comparative analysis of the detected characteristics of the companies with the manual regulation process and the features that are peculiar to companies in which the considered process of creation of business processes’ regulating documentation is automated will be realized.
+
+As a result of this comparative analysis it is assumed to identify the key characteristics that distinguish companies in which the process of generation of the business processes’ regulating documents is manual from the companies that have already automated considered process.
+
+Conclusion
+
+In conclusion it can be noted that it is supposed to develop the company’s foundation that is needed to automate the process of the generation of the business processes’ regulating documentation during the performance of this investigation. To achieve this purpose several organizations in which the business processes’ regulation is manual and several companies in which this process is automated will be considered in this research. The companies’ processes of creation the documents that regulate the performance of the business processes will be thoroughly analyzed.  Additionally, the analysis will be realized in which results it is expected to identify the set of key characteristics that are typical for companies with automated business processes’ regulation and the set of features that are peculiar to companies in which the process of generation business processes’ regulating documents is manual. Subsequently, the obtained key characteristics will have to serve as the basis for creating the company’s foundation that is needed to automate the process of the generation of the business processes’ regulating documentation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bibliography
+
+1. Шеер А.-В. Бизнес-процессы. Основные понятия. Теория. Методы. –М.: Весть-МетаТехнология, 1999
+
+2. Каменнова М.С., Громов А.И., Ферапонтов М.М., Шматалюк А.Е. Моделирование бизнеса. Методология ARIS. – М.: Весть-МетаТехнология, 2001
+
+3. В.В. Репин. Для чего регламентируют бизнес-процессы? – [https://sites.google.com/a/klimchuk.info/www/old/Publikacii/stati-s-sajta-www-finexpert-ru/dla-cego]
+
+4. Консалтинговая компания «Логика бизнеса». Руководство пользователя ARIS Script. Версия 6.0. – Раздаточный материал
+
+5. IDS Scheer AG. Методология и инструментарий ARIS 7.1 ARIS Bysiness Architect  - Учебный курс
+
+6. Чеботарев В.Г. Анализ и моделирование бизнес-процессов - Лекции
+
+7. Харитонова Г.Г., Поляничко В.С. Регламентация бизнес-процессов компании. – [http://morvesti.ru/archiveTDR/element.php?IBLOCK_ID=66&SECTION_ID=1557&ELEMENT_ID=12944].
+

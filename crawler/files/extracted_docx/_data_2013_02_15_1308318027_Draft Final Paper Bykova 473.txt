@@ -1,0 +1,216 @@
+National Research University Higher School of Economics
+
+
+
+
+
+
+
+
+
+
+
+
+
+Faculty of Business Informatics
+
+Department of Innovation and Business in Information Technologies
+
+
+
+
+
+
+
+Draft of the Final Paper
+
+«Organization of Effective Work of an Innovative Network».
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Student: K.A. Bykova
+
+Group: 473(2)
+
+Argument consultant: S.V. Maltseva
+
+Style and Language consultant: T.A. Kuzmina
+
+
+
+
+
+
+
+
+
+
+
+Moscow, 2013
+
+
+
+
+
+1. Introduction, Objectives and Methodology
+
+1.1. Introduction
+
+
+
+It is generally accepted, that scientific and technological progress has led to specialization of economic actors on a specific type of activity. At the same time, division of labour led to increased exchanges of tangible/intangible commodities and resources (capital / labor) among organizations. Consequently, the importance of cooperation among organizations increased as well.
+
+Integration processes in the field of innovation have great potential, due to the fact, that close interaction of organizations, including the exchange of knowledge and innovative ideas, is going to lead to a significant reduction in the duration of a new product/service development process. At the same time, strengthening of inter-organizational integration creates the need for new forms of collaboration, based on the network principle, for so-called innovation networks.
+
+In this regard, the task of organization of effective work of an innovation network appears to be a highly important and topical issue, which the paper is devoted to.
+
+
+
+
+1.2. The Aim of the Paper
+
+
+
+The main aim of the study is to analyze the specificity of collaboration among economic actors within a framework of an innovative network and identify factors of its effectiveness.
+
+The aim determines the range of tasks that need to be carried out in the paper:
+
+to investigate trends in innovation management, related to the organizational aspect;
+
+to characterize the cluster approach and its applicability to innovation policy;
+
+to study the phenomenon of innovative networks;
+
+to indentify and to analyze drawbacks of innovative networks;
+
+to determine factors, that help to organize the effective work of an innovative network.
+
+The subject of the research is innovation networks as a form of collaboration among organizations.
+
+The object of the study is the influence of the range of factors on innovation networks’ effectiveness.
+
+The theoretical basis of the study is the theory of innovation management, the concept of national innovation systems (NIS), the institutional approach (contract theory, institutional traps, X-efficiency).
+
+The practical significance of the work: this study may be useful to Russian organizations, because the findings may be used as recommendations relating to their innovation policy. Materials of further study of the topic (for instance, thesis) can be used as a basis for a lecture course on innovation networks in universities.
+
+In further research, which will be presented in the graduation work later this year, several sections are supposed to be added. These sections will include practical part of research, where several examples of exciting innovative networks will be analyzed by comparing with each other.
+
+
+
+1.3. Methodological Tools of the Study
+
+
+
+The methodology employed while writing this research involved a review of the Russian and foreign literature on the topic, analysis of the materials, deduction, and analytical method for processing information.
+
+
+
+
+1.4. Literature Review
+
+
+
+Due to the topicality of the integration processes in different areas of modern society, there are a great number of papers devoted to the integration in the field of innovation both in the Russian and foreign academic literature. They include such works as [1, 2, 3]. Authors of these papers agree that the basic and applied research are becoming more and more international under the influence of the integration processes, thus leading to an increase in international cooperation in R&D activity. The authors also point out that the strengthening of international cooperation creates the need for new forms of collaboration, based on the network principle.
+
+Network model of organization, providing the possibility for actors to transfer and transact resources effectively, is mentioned as optimal for innovation management in a number of studies [4, 5]. The feature of the literature on network forms of cooperation is that most of the papers draw attention to networks of national and international levels. In this connection, there are a number of studies on the theory of national innovation systems (NIS), which includes the studies, authored by B.-A. Lundvall («National Systems of Innovation: Toward a Theory of Innovation and Interactive Learning», Anthem Press, 2010), Ch. Edquist («Systems of Innovation: Technologies, Institutions and Organizations», Routledge, 2013), R. R. Nelson («National Innovation Systems: A Comparative Analysis», Oxford University Press, 1993), [6, 7, 8, 9], etc. Though these works are devoted to state innovative systems, they are also focused on the so-called "knowledge economy". The main idea of “knowledge economy” is that knowledge can be treated as both a resource and a product. The authors share opinion that, according to “knowledge economy” concept it is highly important to create and strengthen the links among the actors of an innovation system (such as research laboratories, universities and private industry) in order to accelerate the process of development and launch of new products and services. In the work, this statement, which is true for the NIS, is going to be interpreted in terms of inter-organizational innovation networks.
+
+Although all of these studies have common general points and ideas, none of them include comprehensive analysis of network structures. For example, the authors of [1, pp. 30. 47, 63] state that the innovation network is a tool for ensuring effective communication to share knowledge, but they do not specify, what are possible sources of information for an innovative network and who can be a member of interaction. Thus, within the framework of innovation networks there are a number of open questions, including the issues of effective work organization.
+
+
+
+
+2. The Main Content of the Work
+
+2.1. The Theoretical Part
+
+
+
+The theoretical part of the graduation work includes analysis of existing theoretical concepts related to the topic of the paper. The sources of theoretical material are the works referred to in subsection 1.4 "Literature review", and a number of articles covering the subject of integration, network organizations, clusters and innovation networks. The objective of this part is to consolidate the information from various sources, which will serve as the subject of analysis, ie on the basis of the collected information approaches to organization of effective work of innovative network will be identified.
+
+First of all, the phenomenon of integration, as the keynote of all the processes of modern society, will be defined. The evidence of the integration processes influence is the increasing number of alliances among companies related to high-tech and IT sectors [5, pp. 17]. However, the stronger the links among organizations of different sectors become (e.g., HR and IT), the more the competition in one particular market (e.g., IT) increases. After searching for competitive advantages organizations come to the conclusion, that nowadays the main advantage is innovations, that would predict the needs of employees (in the case of innovation inside the company) or customer (in the case of launching innovative products / services) and set a new trend in the current market, or even create a new market. Thus, the main task of the organization is effective innovation management. After close examination of the concept of "innovation" it is clear, that the main point about innovations is that it is not an abstract invention of something, but solving existing problems of an organization in a non-standard way. The nature of these problems can differ: it may refer to the structural aspect of an organization, to the relations with other organizations or to the creation of brand new products. To solve such a problem employee should have necessary level of domain knowledge and relevant experience, although, not in every organization there is a so-called "base of knowledge", which includes comprehensive information about the company and all the previous experience of the staff. Sometimes, however, some kind of research work is required for developing new innovation schemes for business, while the organization does not have enough academic knowledge to do it. This raises the need for an external source of knowledge, and, therefore, the need for reliable communication with other organizations. The solution to this problem is the network forms of cooperation. Further in the paper the theoretical materials on clusters and innovation networks will be generalized and prepared for analysis.
+
+
+
+
+2.2. The Analytical Part
+
+
+
+The analytical part of the work is based on the theoretical part. First, in this part are mentioned possible external sources of knowledge for the organization, which would be beneficial to include in the innovative network. These sources of knowledge are:
+
+Community of Practice
+
+Universities, research centers 
+
+Secondly, in this part the analysis of interaction among the innovation network’s members is carried out in terms of institutional economics. X-efficiency and path dependence of innovation networks is outlined.
+
+
+
+
+2.3. The Structure of the Graduation Work
+
+
+
+The introductory chapter of the graduation work contains reasons for choosing the topic of the research, the aim and the range of tasks of the paper, also the subject, the methods of research, and practical significance of work is mentioned in this part.
+
+The first, second and third sections of the paper include a theoretical part. The first section "Innovation management" reveals conditions, pushing the organization to form an innovation strategy, and the main directions of innovation activity.
+
+The second section "Cluster approach in innovation policy," is a brief of theoretical material on the subject: the definition of a cluster, necessary conditions for developing of a cluster, and economic and financial mechanism of the cluster model implementation.
+
+The third section "Innovative Networks" defines the concept of an innovative network, the principles and advantages of this form of collaboration. The section describes how to transfer knowledge within the network, classification of networks and their functions.
+
+The fourth and fifth sections include analysis of the work. In the fourth section, "Organization of Effective Work of an Innovative Network" two possible external sources of knowledge are determined. They are communities of practice and research organizations. Both variants are also characterized. In the subsection devoted to communities of practice the term “community of practice” and their characteristics in terms of sociology are determined. Also the possible models of interaction with a community of practice and the effect of this interaction on the structure of the organization are established. The Subsection on the research organizations highlights the role of universities and research laboratories in the economy of the whole country and in a particular innovative network.
+
+Finally, in the fifth section "Institutional aspects of innovative networks," the analysis of interaction among the innovation network’s members is carried out in terms of institutional economics. X-efficiency and path dependence of innovation networks is outlined.
+
+
+
+
+3. Conclusion
+
+During the research following results have been achieved:
+
+Prerequisites for innovation and the trend in organization of innovation activity have been considered;
+
+The role of cluster approach in innovation policy has been determined;
+
+The phenomenon of innovative networks has been described;
+
+The drawbacks of innovative networks have been identified and analyzed in terms of institutional economy;
+
+The factors that help to organize the effective work of innovative networks have been detected.
+
+
+
+
+4. Bibliography
+
+Лившин А.Я.,Батоврина Е.В., Беланов И.С. «Глобальная интеграция в сфере инновационного развития: проблемы и тенденции» - Государственное управление. Электронный вестник №34, Октябрь 2012г.
+
+Archibugi D., Iammarino S. “The Globalization of Technological Innovation: Definition and Evidence” - Review of International Political Economy, 9:1, March 2002. Pp. 98-99.
+
+Миндели Л., Заварухин В. «Глобальные процессы в сфере науки и инноваций» URL:  
+
+Горденко Г.В. «Перспективы развития инновационных сетей» URL: 
+
+Титов Л.Ю. «Принципы формирования инновационных сетей в реальном секторе экономики» - Проблемы современной экономики №1(29), 2009. URL:http://www.m-economy.ru/art.php?nArtId=2391 
+
+Feinson S. «National Innovation Systems: Overview and Country Cases» - Knowledge Flows and Knowledge Collectives: Understanding the Role of Science and Technology Policies in Development, Vol. 1, Sec. 1.: Center for Science, Policy and Outcomes, Columbia University, 2003. URL:  
+
+7.Публикация OECD («Организация экономического сотрудничества и развития») «National_Innovation_Systems» URL: 
+
+Иванов В.В., Иванова Н.И., Розебум Й., Хайсберс Х. «Национальные инновационные системы в России и ЕС». М.: ЦИПРАН РАН, 2006. – стр. 232-238 URL: 
+
+Кудров В. «Инновационная экономика - веление времени» - Современная Европа № 02, 2009. Стр. 85-98.

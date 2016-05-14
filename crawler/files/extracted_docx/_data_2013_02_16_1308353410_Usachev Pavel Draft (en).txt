@@ -1,0 +1,346 @@
+Scientific Research University
+
+Higher School of Economics
+
+Faculty of Business Informatics
+
+Department of Business Analytics
+
+
+
+
+
+
+
+
+
+
+
+
+
+DRAFT
+
+of the paper
+
+“Design project management system for small company”.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                              Student Usachev Pavel
+
+Group 473
+
+Argument Consultant Bogdanova T.K.
+
+Style and Language Consultant  Klepko E.U.
+
+
+
+
+
+
+
+
+
+2013
+
+
+
+
+
+
+
+Abstract
+
+The branch of small business is investigated in this work; the accent lays on the project management in small business.
+
+In the course of research it is necessary to analyses sector of small business in a whole and the developed software products allowing automating project management for small companies.
+
+The purpose of this work is conceptual modeling of own project management system for small enterprises.
+
+A result of work is interesting for small organizations, wishing to automate project management process.
+
+
+
+
+
+
+
+Introduction
+
+Today in the business sphere one of the main line developments of IT industry is developing various information systems for business management. There are many solutions like high-grade management of all activity of the organization and its separate elements, for example workflow systems, financial statements, systems of planning, project management and others. But it is necessary to notice that small business began to develop rather recently and has the key features, for example such as: a limit of number of employees to hundred people, dynamism of processes, creation of a new sort of relationship in the organization, specifics of emergence of the business, as a rule, small enterprises and the companies will already be organized somewhere by working people and rather well knowing field in which they should work, e.g. in some way they are experts in that sector on which their future business specializes. 
+
+The main directions in the analyses are specifics of the organization of the small enterprises, occupied position in the market, business processes, specifics of the sector, rendered services or the made goods, legislative base for the sphere of small business. 
+
+Object of research is company’s representative of small business. A subject - project management in small business. The purpose - development a project management system in the small business, considering its specifics and promoting its development.
+
+Today presented decisions often do not meet require applications of small business for some reasons, from functional features to cost of using.
+
+The main purpose of the final qualifying work - conceptual modeling of project management system in the sphere of small business. To achieve this goal it is necessary to solve the following problems:
+
+To investigate structure of the enterprises of small business
+
+To understand specifics of project management  in small business
+
+To analyze existing software products for automate project management process
+
+
+
+
+Chapter 1.Features of project activity in small business
+
+1.1 Small business. Its features
+
+
+
+The small industry and its features it follow from its the name of "small business" and its main representatives are small groups of people, the organizations, firms which conduct the general business activity. 
+
+Representatives of small business should not be a part of associations and cooperation’s. Concerning the environment regulating the rights and the relations in the sphere of small business in the Russian Federation  Federal Law 209 «About development of small and average business in the Russian Federation» is. In compliance with which, consumer cooperatives and the commercial organizations treat subjects of small and average business (exception for the state and municipal unitary enterprises), and also the individuals who are entered in the uniform state register of individual businessmen and carrying out business activity without foundation of the legal entity brought(entered) in the uniform state register of legal entities.
+
+Annual number of employee should not exceed hundred people, and the annual revenue should not exceed four hundred million rubles.
+
+It should be noted that practically all from of them are directed on creation of various service, repair work that quite responds the general tendencies of post-industrial society. On the pie chart below shares of various sectors of small business in Russia are presented:
+
+
+
+Pic1. Sector shares in small business (2012)
+
+
+
+
+
+Thus for the further analysis it is possible to allocate three main directions, in various functions of small business:
+
+1.	Trade and repair
+
+2.	Services
+
+3.	Construction
+
+It is possible to explain such distribution to branches  that any small business begins with the idea which has arisen at the professional (expert) in any area. 
+
+Also we can allocate four main directions of the organization of the business, inherent practically to all branches and fields of activity: interaction with consumers, offer, infrastructure and financial efficiency.The place of small enterprises on a labor market as employers defines one more social function of small business. The expressed advantage of small business is smaller cost of creation of workplaces.
+
+As small business promotes involvement of the new work forces, it almost does not considered other employers. Citizens treat them, whose labor is potential as goods carriers "labor" is limited by objective factors. This group includes students, pensioners, minor citizens, persons with limited liability. Thus, small enterprises are better adapted for use work of the home-workers, studying youth, and citizens of advanced age that in turn positively affects national economy as a whole.  
+
+As it is worth to remember that small business forms new ideology «ideologies of business» that is especially important for modern conditions. 
+
+Thanks to small business, the relations between the staff of the organization underwent changes so for example, at small enterprise more personal character of the relations between the owner and the hired worker is noticed. It makes direct impact in turn of human resource management and promotes increase in efficiency.  At the large enterprises and state authorities internal relationship is formed at the expense of intra corporate rules and it is under construction, generally on a formal basis, the labor legislation and individual contracts, pining, thus, hopes of personal wellbeing, stability of the social status of the worker on success of another's business in general and in it in particular. 
+
+At creation of small enterprise, the businessman counts only on own possibilities and ambitions. 
+
+
+
+
+
+
+
+1.2 Project activity
+
+All project activity has three types of restrictions:
+
+1.	Time limit
+
+2.	Restriction on finance
+
+3. The unique result should turn out at the exit
+
+It is possible to call activity of the organization project only at a combination of all above-mentioned points.
+
+The purpose of project management consists in rational distribution of available resources for performance of all works provided by the specific project (tasks, technological operations) in the set terms and without expenses above permitted standard.
+
+Project management in own way to the maintenance is subdivided into three stages:
+
+planning
+
+monitoring
+
+analysis
+
+At a stage of planning the project estimate is defined, the network plan is made, and on its basis the financial plan is formed and date of delivery of the project in operation is planned.
+
+To compete the project manager at this stage passes drawing up of the network plan. 
+
+The estimate, the network plan and the plan of financing affirm the project manager. 
+
+If to impose management of the project on a project cycle, the stage of planning will enter into a phase of development of the project. 
+
+The investment phase of a design cycle differently called by a phase of implementation of the project coincides from the process step of management of the project, called monitoring.
+
+It is the most intense stage of activity of the manager. During this period he should provide observance of the network plan and the financing plan in the conditions of uncertainty and fast-changing external conditions, and in need of an essential deviation from them - in due time to present information on it to the project management, to offer and give reason for concrete decisions, to prepare drafts of the relevant documents and agreements.
+
+The analysis stage, according to a project cycle, belongs to a phase of operation of the project.
+
+At this stage the manager sums up implementation of the project, revealing those reserves of reduction of duration of works and the sizes of expenses, studies introduced errors and miscalculations and offers the actions, allowing to avoid them in the future, prepares the relevant proposals for the management of the company and its partners.
+
+As to management of projects, more often, projects of small business are less volume by amount of tasks which should be executed.
+
+
+
+ 
+
+1.2.1 Project management standards
+
+
+
+Standards are presented in guide to the body of knowledge for project management – PMBOK, a guide to quality in project management – ISO 10006-97 and knowledge system in project management – PRINCE 2. These groups of standards are the earliest and elaborated on the structure and content.
+
+Nowadays the Institute of PMI projects (USA) took the path of specialization and expanded project management standards PMBOK:
+
+Government extension to PMBOK
+
+Construction extension to PMBOK
+
+Practice Standard for Earned Value Management
+
+Practice Standard for Work Breakdown Structures 
+
+
+
+Among the standards that defining requirements for the competence of the project manager as core can be identified the international requirements for the competence of project management professionals (PM ICB), elaborated by the International Project Management Association IPMA (Switzerland), and based on them Russian standard - National requirements for the competence SOVNET (Russia).
+
+Currently leading experts in the area of project management with the participation of SC "design practice" being developed an international standard for project management - ISO 21500 and Russian national State Standard. 
+
+Today small business is the very important. Policy of the country aimed to supports and promotes industry improvements. But not all of today's existing solutions contribute and help him grow, because they always aimed for development of large and medium-sized enterprises and does not take into account features of a small business. And if the solution offered, they always are very expensive and have either a comprehensive functional or not adapted to the small business. That is why there is a need to develop its own system.
+
+
+Chapter 2. Approaches to modeling  project management system for small businesses.
+
+2.1 The business model for small company
+
+Main directions of the business organization inherit all areas of activity, are: interaction with consumers, offer, infrastructure and financial efficiency. These directions,  in its turn is possible to describe in more detail by using selection of nine structural blocks (Alexander Ostervalder, 2011):
+
+1.	Consumer segment
+
+2.	Valuable offers
+
+3.	Distribution channels
+
+4.	Relationship with clients 
+
+5.	Streams of receipt of the income
+
+6.	Key resources
+
+7.	Key kinds of activity
+
+8.	Key partners
+
+9.	Structure of costs
+
+Business model is an abstract representation of structure, processes, information and the resources identified in business. The approach which will be used in the analysis of business processes of the organization - is called Architecture of the integrated information systems (ARIS). With it, will be allocate specific business processes inherent to small businesses.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.2 Classification of project management systems
+
+Development of information systems and the desire to create an automated enterprise management system starts its development from the 60 years of the twentieth century. During this time, the systems and standards have changed a lot. The graph below is presented the history of information systems development.
+
+
+
+Pic 2. History of information systems development
+
+
+
+In process of development the system increases its functionality, but it should be noted that each new system includes pervious functionality. As seen on the graph for today prevail ERP and CRM systems.
+
+Information base of research - a survey of companies - representatives of small business. A decision on the possible use of existing software for project management in a small business based on an analysis of the positive and negative sides of the selected systems, for example SAP Business All-in-one, Basecamp, Russian system Megaplan, (table 1). Examined solutions are more functional than just a single project management system. Later in the study a range of considered systems will be expanded.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Presented today system often doesn’t approach for small business. The main aim of the all businesses is minimizing its costs and for small business it doesn’t an exception. 
+
+In costs SAP system on expenses on integration, a customization and training of the personnel are very great. And the fact, that small business is very dynamic the choice of this type of system will be disadvantages for company. Other solutions presented in table are more preferable for small business. Because two last solutions use a SaaS business model they can reduce their costs from both sides (from Developer Company to User Company). The idea of SaaS model is that software presented as a web-service. Low price of these systems are big benefit. Pricing for the product is also a feature of the SaaS model in which user does not pay for buying software but for his rent and in this case the price varies depending on the various aspects of the proposal.
+
+In the analysis of existing software solutions needed attention functionality, information organization in system, interface, design, products costs, its ability to adapt under needs of small business and modern technologies. 
+
+Interface and system design - one of the most important characteristics of a successful future for the system, because it does not matter what's going on "inside", it is important to how convenient it is to use, how much time is spent on training. Therefore, when analyzing systems should be given attention to the analysis of design and interface and its metrics will be measured.
+
+
+
+
+2.3 Anticipated results
+
+Result of research  is own project management system conceptually designed and technically approved on a test case, for the small business, improving quality of implementation of various projects and promoting further development of business.
+
+It is supposed that the designed system will consider much more features of small business. Also one of the main purposes is to show that with the right automating some functions of small business will increase its profit, and will contribute to further development.
+
+
+
+
+Conclusion
+
+In work the analysis of small business is carried out, defined its key characteristics which will help at further research, standards of maintaining projects are described, the main functional blocks which will help to construct further the general business - model for the enterprises of small business are defined. 
+
+Some software products on management of small business are examined, being based on which analysis and as own ideas, own system will lean
+
+
+
+
+Bibliography
+
+
+
+Kolycheva ZY The specifics of small businesses and self-employment as an object of state influence. - "Advances of modern science." № 8, 2008
+
+Alexander Osterwalder, Yves Pine. Building business models. - 2011
+
+Arthur A. Thompson Jr.. Strategic menedzhment. 2009
+
+Institutional environment of small business and its social functions http://rf-biz.ru/8.php
+
+Research methods of information flow http://vvy.me/gosi/toau/15.html
+
+Small business in Russia. Analytical Manual. - Moscow: KONESKO, 1998. C.20
+
+Afanasyev B. Small Business: Problems making. - Russian Economic Journal, № 2, 1993.
+
+SAP solution in detail.
+
+The evolution of corporate information systems       
+
+PMBOK 4-th edition.
+

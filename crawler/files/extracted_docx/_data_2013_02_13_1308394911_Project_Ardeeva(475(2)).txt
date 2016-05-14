@@ -1,0 +1,385 @@
+National Research University
+
+Higher School of Economics
+
+
+
+Faculty of Business Informatics
+
+Department of Corporate Information Systems
+
+
+
+
+
+Academic project 
+
+of the paper
+
+«Automation of management equipment repairs business process in manufacturing enterprise»
+
+
+
+
+
+
+
+Student   Alina Ardeeva
+
+Group  475
+
+Argument Consultant N.L. Korovkina                   
+
+Style and Language Consultant E. A. Podobed
+
+
+
+
+
+
+
+
+
+Moscow, 2013
+
+Abstract
+
+           Production capacity and the level of labor technical equipment depend on level of basic production assets. The problem of control equipment reliability has been important for manufacturing enterprise anytime. This academic project deals with the issue of management equipment repairs process in a manufacturing enterprise. It will determine basic problems and losses in the process. The main problems in this area will be used as a basis for improving the process at the given enterprise by attempting to offer automation of the process as a solution. Statistics and facts mentioned in the work, indicates the relevance of this issue, therefore the aim of this paper is to solve these problems by proposing concrete solutions. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+     The problem of control equipment reliability has been important for manufacturing enterprise anytime. Basic production assets is material and technical base of social production the presence and level of which affect on production capacity and the level of labor technical equipment. Management equipment repairs process is quite complex and usually includes the following stages of work: planning and management of maintenance and repair works; cost planning and logistics management; document management in a maintenance of equipment field. It is therefore important to obtain objective data of current state of fixed assets in order to make decisions of technical condition in real time. 
+
+     The consequences of equipment repairs mismanagement can be illustrated by the data of Federal State Statistics Service. According to the Federal State Statistics Service the depreciation of fixed assets only falls in Russia between 1990 and 2011 [1] (see Picture 1). 
+
+
+
+Picture 1. Depreciation of fixed assets
+
+     According to various sources share of costs for maintenance and repairs is 10-50% while utilization of equipment does not often exceed 60% [2]. In developed countries the index is not less then 85%. Moreover Russia still was in a dozen world countries “leaders” in terms of the level of depreciation of fixed assets in 2012. For instance, according to official estimates depreciation of fixed assets of power is more than 40%, in mechanical engineering the figure is close to 70%, in most sub-sectors of agriculture and forestry the index is between 55 -70%. Obviously, the further growth of the problem will inevitably lead to an increase of accident rate and, consequently, to a production sharp drop in most Russian industries. For example, our country still lags behind developed countries in power-plant industry as depreciation of fixed assets has reached critical planks while loss of energy resources only grow during mining and transportation. Examples include  not only numbers but also a life of our citizens. For instance, according to statistics of 2009, annual death of passengers from each million is 0,09, in the world civil aviation the figure is 0,486 and in Russia – 0,777 [4]. We are witnessing of more frequent accident and disasters which are results of troubleshooting and equipment depreciation. Analysis of sources of information showed that the management of repair of equipment in enterprises is often accompanied by a number of key issues:
+
+lack of record history of equipment, identified defects document and repairs. This is why information about the equipment is often obsolete;
+
+imperfection of management equipment repairs regulatory database;
+
+significant amount of technical and economic documentation is carried manually;
+
+
+
+     As a results the problems lead to a major losses [5], [6] (see Diagram 1):
+
+
+
+Diagram 1. Losses of equipment repairs mismanagement. 
+
+
+
+And this isn’t the whole list of enterprise losses. There is of course not only one solution to solve the problems. For example, the degree of participant of each equipment can be accounted for taking full account of each equipment. The method immediately shows you where money and resources are spent effectively, and where not. But a large number of documents complicates the task. As already noted, there is no regulatory database in many companies under which planned repairs. The regulations include: the structure and duration of repair cycle; duration of interrepair period; category of repair complexity and repair unit; stuff time, materials and equipment downtime standards in repair; the state of the equipment depends on a combination of factors related to certain regulations.
+
+
+
+     The results of the use of control systems equipment repairs have a positive effect although at the moment the issues of economic efficiency, reduce costs through low repair costs and reducing equipment downtime, critical failure, and crashes disturb less than 15% of technical and 30% of financial executives [7]. According to survey conducted by the consulting group AT Kearney, implementation of  equipment repairs management system will allow enterprises to obtain the following results [8] (see Table 1): 
+
+Table 1.
+
+Advantages of automation of management equipment repairs business process.
+
+
+
+The paper analyzes management equipment repairs business process of a certain enterprise. Given above problems are also relevant for the company. Automation is considered as a solution for the problems. 
+
+
+
+     Hence, relevance of the topic is evident. The problems arise due to the lack of modern management equipment repairs information support. Technical documentation, which is used for equipment accounting and planning of maintenance, can contain a total of several hundred thousand to a million pages. The fact greatly complicates the planning process, in turn, processing of documentation in automatic mode allows you to increase the accuracy of the accounting and increase the reliability of the planning, as well as ensure compliance with regulatory authorities. A future decision of the equipment is now made ​​on the basis of full information about it. However, the task is not only to recover and improve the maintenance and repair of equipment. Today the organization of preventive maintenance should be fully supported by information technology. 
+
+
+
+     The aim of this study is to provide information support of management equipment repairs business process in Ltd. "VtorMet" enterprise that will be obtain by automation of the business-process within a given system. 
+
+
+
+     The tasks of the study are:
+
+
+
+Analyze the automation object - management equipment repairs business process: to build a “as is” model, determine  “bottlenecks”;
+
+To build a “to be” model based on the analysis;
+
+To form automation requirements;
+
+To justify a software selection;
+
+
+
+Part 1. Analysis of the automation object state. 
+
+1.1 Information gathering.
+
+     The work is based on the analysis of previously conducted research at the company LLC "VtorMet", which has existed since 1990 and was engaged in the collection and recycling of scrap metal, as well as the supply of scrap metal at metallurgical enterprises in Russia and abroad. There is an analysis of textual description of the management equipment repairs business process of given enterprise which will serve as a theoretical basis for the "as is" model.  
+
+
+
+1.2 Analysis of “as is” model. 
+
+     The purpose of the part is consideration of management equipment repairs business process. The "as is" model is built using the structural and functional simulation methodology. The choice of this methodology is due to the following reasons: 
+
+
+
+The need for functional modeling of business functions;
+
+Intelligibility of schemes; 
+
+The availability and prevalence of modeling tools;
+
+
+
+ "as is" model is documented understanding of business processes at the time of the survey, which consists of the following sub-functions:
+
+
+
+Preparations for the repairs;
+
+Supervision of repairs work performance, volume of performed work, cost accounting, results acceptance  
+
+Analysis of the quality of repair works;
+
+Control of the technical state of copra production facilities;
+
+
+
+Analysis of the functional "as is" model allows us to understand where the problem situation and what caused it.
+
+
+
+
+
+1.3 The “bottlenecks” documenting. 
+
+     The above-mentioned problems associated with equipment repairs at the plant will be projected on the considered sub-functions of the business process in order to determine from what steps of sub-function certain problem occurs. 
+
+     For this sub-function of each business process will be studied in detail. All errors and selected "bottlenecks" will be documented in the form of a table, where, in addition to describing the weaknesses, will be listed measures to be taken to eliminate the deficiency. It will look as follows (see Table 2):
+
+Table 2.
+
+The “bottlenecks” documenting. 
+
+
+
+The rest weaknesses of management equipment repairs business process will be defined and documented the same way. 
+
+Part 2. Design solution. 
+
+2.1 “to be” modeling.
+
+     The "to be" model will be based on analysis of the "as is" model and selected "bottlenecks".
+
+
+
+2.2 Requirements elicitation for information system of automation of management equipment repairs business process. 
+
+
+
+     The information system requirements will be described in this part of the paper. The FURPS+ model will be used to form the requirements. It adequately demonstrates the entire list of requirements and includes the following classification (functional and non-functional requirements):
+
+
+
+Functionality - Feature set, Capabilities, Generality, Security;
+
+Usability - Human factors, Aesthetics, Consistency, Documentation;
+
+Reliability - Frequency/severity of failure, Recoverability, Predictability, Accuracy, Mean time to failure;
+
+Performance - Speed, Efficiency, Resource consumption, Throughput, Response time;
+
+Supportability - Testability, Extensibility, Adaptability, Maintainability, Compatibility, Configurability, Serviceability, Installability, Localizability, Portability; 
+
+
+
+Part 3. Software selection for design project implementation. 
+
+3.1 Criteria definition for software selection. 
+
+     Criteria of software selection that are based on mentioned above requirements will be used  during software choosing. Examples of the criteria are:
+
+
+
+Functionality - complete implementation, registration of a Russian specificity of management equipment repairs organization;
+
+Technology (client-server or 3-level architecture, Web access, databases);
+
+The ability of functionality improvement;
+
+The presence of the supplier in Russia;
+
+
+
+and others; 
+
+
+
+3.2 Justification of particular software choosing.
+
+     This section describes specific software, which will be selected using a specific methodology the choice of which is not defined yet.
+
+Conclusion
+
+     Thus, there will be considered the issue of management equipment repairs business process in the given enterprise. According to analyzed sources on this topic there is a number of problems in the field. In order to determine the key problems in the considered plant we’re going to analysis the automation object state. Based on the information gathering there will be modeled an existing “as is” model of the business process. Subsequent analysis of the model will be the basis of “bottlenecks” identification of a whole given process. 
+
+
+
+     The next part of the paper is based on the “bottlenecks” identification with intent to obtain an improved model that is named “to be” model. The model, in turn, will be a foundation of requirements elicitation for information system that help us to select a correct software. Hence, automation is seen as a solution to problems in this area.
+
+
+
+References
+
+[1]. Federal State Statistics Service [electronic resource] / - E-statistics (1) file. - M: [Moscow]. - URL: , free. 
+
+[2]. RemontEkspert [electronic resource]: National repairs features. - urgent and important / author Vladimir Pavlov. - Electronic publications. [Moscow]. - URL: , free.
+
+[3]. Rossiyskaya Gazeta [electronic resource]: Economy / The level of depreciation of fixed assets in Russia is much higher than in other countries, the BRICS. - Electronic publications. - [Moscow, 2011]. - URL: http://www.rg.ru/2011/07/05/iznos.html, free.
+
+[4]. VA Andrianov, DC Balahanova. Analysis of the dynamics and effects of depreciation of fixed assets / REU them. GV Plekhanov, 2012. System Requirements: MS Word.-URL: , free.
+
+[5]. RemontEkspert [electronic resource]: "1C TOIR" - choice of the modern enterprise / author I.A.Kovalchuk. - Electronic publications. [Moscow]. - URL: , free.
+
+[6]. Business and Life [electronic publication]: Economic problems of repairing equipment at Russian industrial enterprises / author Maya Shuhgalter. - Electronic article. [Moscow]. - URL: /, free.
+
+[7]. Business and Life [electronic publication]: Managing repairs and maintenance of equipment / author Maya Alexander Barinov. - Electronic article. [Moscow]. - URL: , free.
+
+ [8]. KS Myshenkov, A. Yu Romanov. The control system repairs, as an element of strategic management. Part 1. - St. Petersburg: Publishing House of the Polytechnic. University Press, 2009. - 244 p. System requirements: Adobe reader. - URL: , free.
+
+9. V. Grekoul, G. Denishenko, N. Korovkina, Information Systems Projecting// Internet-University Intuit, 2005.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+
+     
+
+     
+
+
+
+
+
+
+
+
+
+     
+
+     
